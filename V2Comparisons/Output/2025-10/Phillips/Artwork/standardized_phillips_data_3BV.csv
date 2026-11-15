@@ -1,0 +1,399 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,artwork_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+0b662995-07aa-4d73-b8c5-61e337e90725,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 1,USD,18000,25000,None,None,18000,25000,None,None,Henri de Toulouse-Lautrec,1864,1901,"Le Jockey (The Jockey) (D. 279, A. 365, W. 308)",prints,"Lithograph in colors, on Japanese paper",<NA>,14.25,20.25,in,no,yes,yes,1899,"Douglas Kenyon Inc., Chicago\\r\\nEugene Chesrow, Chicago\\r\\nThence by descent to the present owners.","horse, rider, racing, landscape, motion, jockey, dirt track, field, flags, clouds",1,None,"Lithograph in colors, on Japanese paper, the full sheet.
+1899
+S. 20 1/4 x 14 1/4 in. (51.4 x 36.2 cm)
+The second (final) state, from the edition 12 (there were also 100 on Chine paper), published by Pierrefort, Paris, printed by Henri Stern, Paris, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223728_001.jpg,https://www.phillips.com/detail/henri-de-toulouse-lautrec/223728,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,2025-10,gpt-4.1-mini,22000.0,18333.333333333336
+168d3358-524a-42b1-b706-ea857f06ee94,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 2,USD,30000,40000,None,None,30000,40000,None,None,After Pablo Picasso,<NA>,<NA>,"Tête de Femme (Head of a Woman, Dora Maar)",prints,"Aquatint in colors, laid paper",<NA>,11.75,16.25,in,yes,yes,yes,1943,literature,"face, woman, abstract, blue, brown, geometric shapes, head, portrait, lines, color blocks",1,None,"Aquatint in colors, on laid paper, with full margins.
+1943
+I. 16 1/4 x 11 3/4 in. (41.3 x 29.8 cm)
+S. 20 7/8 x 15 1/8 in. (53 x 38.4 cm)
+Signed and numbered 42/50 in pencil, inscribed 'gravé et imprimé par R. Lacourière Paris '43' in pencil by the printer (there were also 8 proofs), engraved and printed by Roger Lacourière, Paris, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225919_001.jpg,https://www.phillips.com/detail/after-pablo-picasso/225919,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,37500.0,31250.0
+ba608e18-5f79-4369-a8dd-1a4f5465f525,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 3,USD,10000,15000,None,None,10000,15000,None,None,Josef Albers,<NA>,<NA>,Structural Constellation: Duo H,mixed media,"Machine-engraved plastic laminate, mounted to Plexiglas",<NA>,13.625,5.125,in,yes,yes,yes,1966,"Max Imdahl Collection, Germany (gift of the artist, 1970)\\r\\nPrivate Collection, 1989\\r\\nChristie's, London, \u003cem\u003ePost-War \u0026 Contemporary Art Day Sale\u003c/em\u003e, October 23, 2020, lot 262","geometric shapes, 3D cubes, black background, lines, symmetry",1,None,"Machine-engraved plastic laminate, mounted to Plexiglas.
+1966
+5 1/8 x 13 5/8 in. (13 x 34.6 cm)
+Presumably incised with signature and dedicated 'für Max Imdahl Thanksgiving Day 1970' on the reverse (from the intended edition of 30), published by the artist, fabricated in the United States, framed. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225867_001.jpg,https://www.phillips.com/detail/josef-albers/225867,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+bb7a8ff8-89e6-4919-84c3-4cc9aaca7640,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 4,USD,10000,15000,None,None,10000,15000,None,None,Josef Albers,<NA>,<NA>,Structural Constellation: Duo B,mixed media,"Machine-engraved plastic laminate, mounted to Plexiglas",<NA>,13.625,5.125,in,yes,yes,yes,1966,"Max Imdahl Collection, Germany (gift of the artist, 1970)\\r\\nPrivate Collection, 1989\\r\\nChristie's, London, \u003cem\u003ePost-War \u0026 Contemporary Art Day Sale\u003c/em\u003e, October 23, 2020, lot 262","geometric shapes, cubes, lines, contrast, black background",1,None,"Machine-engraved plastic laminate, mounted to Plexiglas.
+1966
+5 1/8 x 13 5/8 in. (13 x 34.6 cm)
+Presumably incised with signature and dedicated 'für Max Imdahl Thanksgiving Day 1970' on the reverse (from the intended edition of 30), published by the artist, fabricated in the United States, framed. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225866_001.jpg,https://www.phillips.com/detail/josef-albers/225866,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+b1aa2528-2d76-4b7d-9c7d-817ace2a55d4,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 5,USD,30000,40000,None,None,30000,40000,None,None,Georges Braque,<NA>,<NA>,Si je mourais là-bas (If I Died There) (V. 181),prints,"woodcuts, colors, wood engraving, handmade rag paper, Japon nacré",<NA>,14.5,18.5,in,yes,yes,yes,1962,literature,"abstract shapes, blue color, floral patterns, human figures, lines, geometric forms, profiles, graphic compositions, silhouette elements",9,None,"The complete deluxe set of 18 woodcuts, including 12 in colors and some with wood engraving, on handmade rag paper watermarked 
+, with full margins, all loose and folded (as issued), with the additional suite of 19 signed and numbered woodcuts, on Japon nacré, with full margins, all loose and some folded (as issued), with text by Guillaume Apollinaire, table of contents, title page and justification, all contained in the two original gray paper-covered folios and slipcase with red cutout adhered to the cover.
+1962
+all I. various sizes 
+all S. 18 1/2 x 14 1/2 in. (47 x 36.8 cm)
+slipcases 19 3/4 x 15 1/2 x 3 1/4 in. (50.2 x 39.4 x 8.3 cm)
+The set on rag paper signed in pencil and numbered '68' (printed) on the justification (the total edition was 180), the suite on Japon nacré all signed, one with initials, and numbered 40/40 in pencil, published by Louis Broder, Paris, printed in Paris.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223840_001.jpg,https://www.phillips.com/detail/georges-braque/223840,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,37500.0,31250.0
+881ea23a-72d0-4252-92be-45b5f4f1b0d3,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 6,USD,70000,100000,None,None,70000,100000,None,None,Yves Klein,1928,1962,La Victoire de Samothrace (Winged Victory of Samothrace),sculpture,"dry blue pigment and synthetic resin on plaster, with a metal rod and stone base",10.25,9.75,19.25,in,yes,yes,yes,1962,"Private Collection\\r\\nPrivate Collection, New York\\r\\nChristie’s, New York, \u003cem\u003eFirst Open – Post-War and Contemporary Art\u003c/em\u003e, September 9, 2008, lot 217\\r\\nPrivate Collection \\r\\nSotheby’s, New York, \u003cem\u003eContemporary Art Day Auction\u003c/em\u003e, May 13, 2021, lot 313\\r\\nPrivate Collection\\r\\nSBI Art Auction Co., Ltd, Tokyo, \u003cem\u003eTokyo Contemporary: Redefined\u003c/em\u003e, March 12, 2022, lot 59\\r\\nPrivate Collection","winged figure, blue color, stone base, abstract form, classical references",1,None,"Dry blue pigment and synthetic resin on plaster, with a metal rod and stone base.
+1962/1973
+19 1/4 x 9 3/4 x 10 1/4 in. (201.3 x 24.8 x 26 cm)
+Incised with initials and dated '62' on one of the wings, numbered XXII/XXV in black ink on the underside of the stone base (one of 25 hors commerce in Roman numerals, there were also 25 artist's proofs and 3 additional examples, aside from the edition of 175), published by Galerie Karl Flinker, Paris.",https://assets.phillips.com/auctions/NY030725/226131_001.jpg,https://www.phillips.com/detail/yves-klein/226131,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,92000.0,76666.66666666667
+2a384170-d92d-464f-9797-5655067fcadd,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 7,USD,20000,30000,None,None,20000,30000,None,None,Joan Miró,<NA>,<NA>,Le Pitre Rose (The Pink Clown) (D. 653),prints,"Etching and aquatint in colors, on wove paper",<NA>,29.125,45.5,in,yes,yes,yes,1974,literature,"abstract figure, swirling lines, colorful background, stars, hat, facial features, playful composition, organic shapes, geometric forms, kinetic energy",1,None,"Etching and aquatint in colors, on wove paper watermarked 
+, with full margins.
+1974
+I. 45 1/2 x 29 1/8 in. (115.6 x 74 cm)
+S. 54 3/8 x 38 in. (138.1 x 96.5 cm)
+Signed and numbered 38/50 in pencil (there were also some artist's proofs), published by Maeght, Paris, printed in France, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/226059_001.jpg,https://www.phillips.com/detail/joan-mir%C3%B3/226059,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+291fb01f-317e-46aa-b232-86293ee27792,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 8,USD,4000,6000,None,None,4000,6000,None,None,Wassily Kandinsky,<NA>,<NA>,"Holzschnitt für die Ganymed-Mappe, from Der Dritten Ganymed-Mappe (Woodcut for the Ganymede Portfolio, from The Third Ganymede Portfolio)",prints,"Woodcut, Japanese paper",<NA>,7.875,5.875,in,yes,yes,yes,1924,literature,"abstract shapes, geometric forms, lines, dots, dark patterns, fragmented composition, negative space, circular forms, overlapping elements, texture",1,None,"Woodcut, on Japanese paper, with full margins.
+1924
+I. 5 7/8 x 7 7/8 in. (14.9 x 20 cm)
+S. 9 1/2 x 12 3/8 in. (24.1 x 31.4 cm)
+Signed in pencil, from the edition of 100, published by R. Piper & Co., Marées-Gesellschaft, Munich, printed in Germany, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224540_001.jpg,https://www.phillips.com/detail/wassily-kandinsky/224540,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+7b93ccc4-c28c-4423-8937-faf17a556b85,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 9,USD,2000,4000,None,None,2000,4000,None,None,Paul Delvaux,<NA>,<NA>,Le Jardin (The Garden) (J. 48),prints,"Lithograph in colors, Arches paper",<NA>,29.75,22,in,yes,yes,yes,1972,literature,"garden, figures, flowers, chair, lamp, path, trees, man, women, landscape",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1972
+I. 22 x 29 3/4 in. (55.9 x 75.6 cm)
+S. 26 x 35 1/2 in. (66 x 90.2 cm)
+Signed and numbered 37/75 in pencil, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224467_001.jpg,https://www.phillips.com/detail/paul-delvaux/224467,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+f4d58d02-780f-4c6c-9128-c721922f7b68,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 10,USD,20000,30000,None,None,20000,30000,None,None,Marc Chagall,<NA>,<NA>,Les Arums (Arum Lilies) (M. 748),prints,"Lithograph in colors, on Arches paper",<NA>,21.25,26.5,in,yes,yes,yes,1975,literature,"flowers, vase, couple, landscape, fruit, table, bottle, basket, woman, man",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1975
+I. 26 1/2 x 21 1/4 in. (67.3 x 54 cm)
+S. 33 1/4 x 25 1/2 in. (84.5 x 64.8 cm)
+Signed and numbered 50/50 in pencil (there were also some artist's proofs), framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224721_001.jpg,https://www.phillips.com/detail/marc-chagall/224721,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+e5a2a7ca-d92f-495c-8e02-08475ef0ef40,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 11,USD,12000,18000,None,None,12000,18000,None,None,After Alexander Calder,<NA>,<NA>,"Les trois spirales (The Three Spirals), from The Bicentennial Tapestries",decorative arts,hand-woven wool tapestry,<NA>,58.25,41.25,in,yes,yes,yes,1975,"Private Collection, New York City","spiral, globe, red, black, blue, textile, abstract, geometric, pattern, design",1,None,"Hand-woven wool tapestry.
+1975
+41 1/4 x 58 1/4 in. (104.8 x 148 cm)
+With woven initials on the front, additionally signed with initials and numbered '34' in ink (faded) on the labels affixed to the reverse and wove numbered '34' (of the intended edition of 200, fewer than 40 were realized), hand-woven by Pinton Frères, Aubusson, France (with their woven mark on the front).
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224189_001.jpg,https://www.phillips.com/detail/after-alexander-calder/224189,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,16500.0,13750.0
+6187382f-791a-4d95-ac0c-e883379ec9b6,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 12,USD,800,1200,None,None,800,1200,None,None,Jean Cocteau,<NA>,<NA>,Untitled (La Nuit du corps humaine) (The Night of the Human Body),prints,"Lithograph with hand-coloring in colored pencil, on wove paper",<NA>,6,6.5,in,yes,yes,no,1950,"La Palette - Little Gallery, Villefranche-sur-Mer, France\\r\\nJohn Wilson (Harkness Ballet), New York (acquired from the above, 1965)","man, two faces, swirling patterns, abstract figure, lines, text, circular composition, arms raised, emotional expression, eyes",1,None,"Lithograph with hand-coloring in colored pencil, on wove paper, with full margins.
+1950
+I. 6 1/2 x 6 in. (16.5 x 15.2 cm)
+S. 13 x 9 7/8 in. (33 x 25.1 cm)
+Signed and dated in pencil and colored pencil, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225345_001.jpg,https://www.phillips.com/detail/jean-cocteau/225345,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+a2989ab9-22f2-4f7a-8b23-51623d798489,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 13,USD,2000,4000,None,None,2000,4000,None,None,Jean Cocteau,<NA>,<NA>,Visage aux points (Dotted Face),drawing,"ink drawing, wove paper",<NA>,8,10.5,in,yes,yes,yes,1948,"Galerie Bert, Paris\\r\\nPrivate Collection, New York (acquired from the above)","face, geometric shapes, lines, dots, symmetry, eyes, nose, mouth, abstract, portrait, minimalist",1,None,"Unique ink drawing, on wove paper laid to wove support.
+1948
+10 1/2 x 8 in. (26.7 x 20.3 cm)
+Signed, dated and inscribed 'Milly' in black ink, stamped 'Maison Du Baille, Rue du Lau, Milly ---' on the reverse (visible from the front), framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225328_001.jpg,https://www.phillips.com/detail/jean-cocteau/225328,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3500.0,2916.666666666667
+09ecc4f2-aba8-4c02-ab86-89a96e84092c,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 14,USD,20000,30000,None,None,20000,30000,None,None,Pablo Picasso,1881,1973,Visage de femme (Woman's Face) (A.R. 220),ceramics,"White earthenware, colors, glaze",<NA>,12.625,15.25,in,no,yes,yes,1953,"Christie's, New York, \u003cem\u003ePrints \u0026 Multiples\u003c/em\u003e, October 29-30, 2013, lot 150\\r\\nPrivate Collection","face, woman, black background, abstract lines, colored accents, geometric shapes",1,None,"White earthenware rectangular dish painted in colors, engraved and glazed.
+1953
+15 1/4 x 12 5/8 in. (38.7 x 32.1 cm)
+From the edition of 400, inscribed 'CR' and 'Edition Picasso' in black paint on the underside, with the 
+ and 
+ pottery stamps on the underside, made in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224092_001.jpg,https://www.phillips.com/detail/pablo-picasso/224092,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+18ccab50-bf5e-46fa-951c-ddf2a3a3dde4,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 15,USD,30000,50000,None,None,30000,50000,None,None,Pablo Picasso,1881,1973,Femme du barbu (Bearded Man's Wife) (A.R. 193),ceramics,"White earthenware, painted in colors with partial brushed glaze",10.625,7.75,15,in,no,yes,yes,1953,literature,"face, pottery, green, brown, features, decorative elements, handle, abstract, human form, sculpture",1,None,"White earthenware turned pitcher painted in colors with partial brushed glaze.
+1953
+15 x 7 3/4 x 10 5/8 in. (38.1 x 19.7 x 27 cm)
+From the edition of 500, inscribed 'Edition Picasso' in black ink on the underside, with the 
+ and 
+ pottery stamps on the underside, made in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225862_001.jpg,https://www.phillips.com/detail/pablo-picasso/225862,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,42000.0,35000.0
+bbc8a2a4-3d53-4308-9ab4-a9a7a925ec3c,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 16,USD,5000,7000,None,None,5000,7000,None,None,Pablo Picasso,1881,1973,Profile de femme regardant a droite (Profile of Woman Looking to the Right) (M. 394),prints,"Lithograph, Arches paper",<NA>,18,24.75,in,no,yes,yes,1963,"Marina Picasso, with her inkstamp on the reverse (Lugt 3698)","portrait, face, profile, black and white, ink drawing, textured background, abstract, lines, expression, hair",1,None,"Lithograph, on Arches paper, with full margins.
+1963
+I. 24 3/4 x 18 in. (62.9 x 45.7 cm)
+S. 25 5/8 x 19 3/4 in. (65.1 x 50.2 cm)
+From the edition of approximately 10, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224886_001.jpg,https://www.phillips.com/detail/pablo-picasso/224886,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+0716e22b-977c-41ad-a9c2-cba25ced25fc,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 17,USD,18000,25000,None,None,18000,25000,None,None,Pablo Picasso,1881,1973,Sueño y Mentira de Franco (Dream and Lie of Franco),prints,"Chine collé to Japon anciens paper, etchings with aquatint",<NA>,22.375,15,in,yes,yes,yes,1937,"The artist\\r\\nPierre Matisse Gallery, New York\\r\\nPace Master Prints, New York\\r\\nPhillip Savenick, Beverly Hills (acquired from the above in 1995)\\r\\nThence by descent to the current owner","woman, horse, warrior, elephant, landscape, figure, sun, trees, animals, abstract",1,None,"The complete set of two etchings with aquatint, on Chine collé to Japon anciens paper, with full margins.
+1937
+both I. 12 1/8 x 16 3/8 in. (30.8 x 41.6 cm)
+both S. 15 x 22 3/8 in. (38.1 x 56.8 cm)
+Both signed and numbered 53/150 in pencil (there were also 30 in Roman numerals and an unsigned edition of 850 on Montval paper), published by the artist, Paris, printed in France, both framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223670_001.jpg,https://www.phillips.com/detail/pablo-picasso/223670,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+bee60beb-8f9c-400a-ab6f-6d0b9a04a41d,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 18,USD,6000,8000,None,None,6000,8000,None,None,Salvador Dalí,<NA>,<NA>,La Conquête du Cosmos I (Conquest of the Cosmos I),prints,"etching and aquatints in colors with embossing, on Rives BFK paper",<NA>,27.5,39.125,in,yes,yes,yes,1974,literature,"abstract shapes, figures, landscapes, butterflies, colors, surreal elements, nature, lines, animals, patterns",6,None,"The complete set of six etching and aquatints in colors with embossing, on Rives BFK paper, with full margins, with justification page, all loose (as issued), all contained in the original black paper-covered heavy board portfolio with gold printed title and artist's name.
+1974
+all I. 29 1/2 x 21 3/4 in. (74.9 x 55.2 cm)
+all S. 39 1/8 x 27 1/2 in. (99.4 x 69.9 cm)
+portfolio 40 1/4 x 28 1/4 in. (102.2 x 71.8 cm)
+All signed and numbered 'LXXXIII/CLXXXXV' (195) in pencil, additionally numbered 'LXXXIII/CLXXXXV' in black ink on the justification page (there was also an edition of 195 on Arches paper and 25 artist's proofs), published by Levine & Levine Graphics, Inc., New York, printed in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/221963_001.jpg,https://www.phillips.com/detail/salvador-dal%C3%AD/221963,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,7200.0,6000.0
+6fc098be-b31e-4043-9b1f-50536f741f41,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 19,USD,2500,3500,None,None,2500,3500,None,None,Roberto Matta,<NA>,<NA>,L'Arc Obscure des heures (The Dark Arc of Hours) (F. 105-112 & 114),prints,"etching and aquatints in colors, on Japan Gekko Hodomura paper",<NA>,27,19.25,in,yes,yes,yes,1975,literature,"figures, rocks, sea, architecture, boats, sculptures, plants, colors, patterns, landscape",10,None,"The set of nine etching and aquatints in colors, on Japan Gekko Hodomura paper, with full margins, with title page and colophon, text in French by Héraclite, all loose (as issued), all contained in the original blue linen-covered clamshell portfolio.
+1975
+all I. 19 1/4 x 27 in. (48.9 x 68.6 cm)
+all S. 25 1/4 x 36 in. (64.1 x 91.4 cm)
+portfolio 38 3/4 x 27 x 1 in. (98.4 x 68.6 x 2.5 cm)
+All signed and numbered 60/125 in pencil (there were also 33 in Roman numerals and an edition on Arches paper), published by Multiplicata S.A., Chiasso, Switzerland, printed in France, lacking F. 113.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224465_001.jpg,https://www.phillips.com/detail/roberto-matta/224465,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+f79eca37-ad35-477c-907e-c655329813f5,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 20,USD,15000,25000,None,None,15000,25000,None,None,Salvador Dalí,1904,1989,Memories Of Surrealism (M. & L. 494-505),prints,"drypoints over lithographs in colors, on Japan paper",<NA>,16.5,20.75,in,yes,yes,yes,1971,literature,"abstract forms, roses, human figures, butterflies, eyes, geometric shapes, sculptures, portraits, landscapes, surreal elements",12,None,"The complete set of 12 drypoints over lithographs in colors, on Japan paper, with full margins (one presumably slightly trimmed), with text in French by the artist, an introduction by Pierre Restany in English and the justification page, all loose (as issued), contained in the original black card portfolio.
+1971
+all I. 20 3/4 x 16 1/2 in. (52.7 x 41.9 cm)
+all approx. S. 29 3/4 x 21 in. (75.6 x 53.3 cm)
+portfolio 31 x 23 x 1 1/4 in. (78.7 x 58.4 x 3.2 cm)
+All signed and numbered 'F I/XL' in pencil, additionally signed in pencil on the justification (one 40 sets in Roman numerals, there were also 10 lettered artist's proofs and an edition of 175 on Arches paper), published by Transworld Art, New York (with the artist's blindstamp), printed in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225272_001.jpg,https://www.phillips.com/detail/salvador-dal%C3%AD/225272,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+e55deb69-2162-4212-8c15-46cee265755a,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 21,USD,800,1200,None,None,800,1200,None,None,Wifredo Lam,<NA>,<NA>,Lames de Lam (Lam's Blades): plates I and VI,prints,"etching and aquatints in colors, on Arches paper",<NA>,15.5,13,in,yes,yes,yes,1977,literature,"abstract figures, animals, whimsical characters, shapes, patterns, colors, symbols",2,None,"Two etching and aquatints in colors, on Arches paper, with full margins.
+1977-79
+both I. 13 x 15 1/2 in. (33 x 39.4 cm)
+both S. 19 3/4 x 25 7/8 in. (50.2 x 65.7 cm)
+Both signed and numbered 7/99 in pencil (there were also 30 artist's proofs in Roman numerals), from the intended portfolio of 7 prints and text 
+ that was never realized, published by 
+, Paris, printed in Italy, both framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/219919_001.jpg,https://www.phillips.com/detail/wifredo-lam/219919,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+b859c5c2-8a99-49c0-968f-f373d4895261,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 22,USD,700,1000,None,None,700,1000,None,None,Zao Wou-Ki,<NA>,<NA>,Canto Pisan: plate 5 (Å. 222),prints,"Etching and aquatint in colors, on Arches paper",<NA>,10.375,12.875,in,yes,yes,yes,1972,literature,"abstract, colors, textures, light, shapes, purple, black, green, composition, nature",1,None,"Etching and aquatint in colors, on Arches paper, with full margins.
+1972
+I. 12 7/8 x 10 3/8 in. (32.7 x 26.4 cm)
+S. 19 3/4 x 12 3/4 in. (50.2 x 32.4 cm)
+Signed and annotated 'H.C.' in pencil (an hors commerce, the edition was 180, there was also an edition of 80 on Japon nacré), published by Pierre Belfond, Paris, printed in France, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/219918_001.jpg,https://www.phillips.com/detail/zao-wou-ki/219918,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,850.0,708.3333333333334
+792028a4-7564-4f2c-b307-6107d86b3850,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 23,USD,6000,9000,None,None,6000,9000,None,None,Zao Wou-Ki,<NA>,<NA>,À la gloire de l'image et art poétique (In Honor of the Picture and of Poetry) (Å. 271-285),prints,"lithographs in colors, Arches paper",<NA>,26.375,15.125,in,yes,yes,yes,1976,"Sotheby's, London, \u003cem\u003ePrints \u0026 Multiples\u003c/em\u003e, September 16, 2014, lot 209","abstract forms, color fields, landscapes, textures, patterns, brush strokes, organic shapes, mixed colors, tonal variations, fluid designs",16,None,"The complete set of 15 lithographs in colors, on Arches paper, with full margins, with title page, colophon and text in French by Roger Caillois, all folded and loose (as issued), all contained in the original printed canvas slipcase and portfolio.
+1976
+all I. approx. 15 1/8 x 26 3/8 in. (38.4 x 67 cm)
+all S. 19 5/8 x 28 1/4 in. (49.8 x 71.8 cm)
+portfolio 21 1/4 x 15 1/2 x 2 1/4 in. (54 x 39.4 x 5.7 cm)
+All with printed signature and date, signed by the artist and author and annotated 'H.C.' in pencil on the colophon (one of 15 hors commerce sets, the edition was 300 and 15 artist's proofs), published by Ediciones Polígrafa, Barcelona, printed in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/219822_001.jpg,https://www.phillips.com/detail/zao-wou-ki/219822,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+8b7f395f-a353-42d1-b9cd-85e174609a2f,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 24,USD,6000,8000,None,None,6000,8000,None,None,Pierre Soulages,<NA>,<NA>,"Eau-forte II (Etching II) (E. 2, R. II)",prints,"Etching and aquatint in colors, on Arches paper",<NA>,21.875,15,in,yes,yes,yes,1952,literature,"abstract, geometric shapes, black, red, white, lines, texture",1,None,"Etching and aquatint in colors, on Arches paper, with full margins.
+1952
+I. 15 x 21 7/8 in. (38.1 x 55.6 cm)
+S. 19 3/4 x 26 1/8 in. (50.2 x 66.4 cm)
+Signed and numbered 8/100 in pencil (there were also some hors commerce), printed and published by Lacourière, Paris (with their blindstamp), unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224781_001.jpg,https://www.phillips.com/detail/pierre-soulages/224781,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,7200.0,6000.0
+8dd6e085-2033-4ca8-a604-626743ed31bd,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 25,USD,1500,2500,None,None,1500,2500,None,None,Eduardo Chillida,<NA>,<NA>,Bikaina XII (K. 87012),prints,"Etching and aquatint, on Chine collé to Rives BFK paper",<NA>,12.625,6,in,yes,yes,yes,1987,literature,"black shape, white background, round forms, geometric forms",1,None,"Etching and aquatint, on Chine collé to Rives BFK paper, with full margins.
+1987
+I. 6 x 12 5/8 in. (15.2 x 32.1 cm)
+S. 24 7/8 x 15 3/4 in. (63.2 x 40 cm)
+Signed and numbered 19/50 in pencil (there were also 10 artist's proofs in Roman numerals), published by Galerie Lelong, Zurich, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/226430_001.jpg,https://www.phillips.com/detail/eduardo-chillida/226430,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2100.0,1750.0
+55179f2c-a67b-4027-b0fc-34b17d89d197,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 26,USD,2500,3500,None,None,2500,3500,None,None,Joan Miró,1893,1983,"Chanson des contraires (Song of Opposites) (D. 935, C. bks 220)",prints,"etching and aquatint in colors, Rives BFK paper",0.5,6.5,5,in,yes,yes,yes,1976,literature,"smiley face, colorful shapes, green line, yellow circle, blue leg, red base",1,None,"The complete set of one etching and aquatint in colors, on Rives BFK paper, the full sheet, folded and loose (as issued), with poem in French by Jordi de Sant Jordi, title page and justification, all contained in the original damask paper-cover.
+1976
+folded S. 5 x 6 1/2 in. (12.7 x 16.5 cm)
+overall 5 x 6 7/8 x 1/2 in. (12.7 x 17.5 x 1.3 cm)
+Signed and numbered 30/50 in pencil on the print, additionally signed by the publisher and translator and numbered '30' in pencil on the justification (there were also some hors commerce), published by Gaston Puel, Veilhes, printed in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223841_001.jpg,https://www.phillips.com/detail/joan-mir%C3%B3/223841,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+6f2e1d23-6284-4dd7-8d6f-1dc56a31a120,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 27,USD,1500,2500,None,None,1500,2500,None,None,Alexander Calder,<NA>,<NA>,Untitled,prints,"Lithograph in colors, Rives BFK paper",<NA>,23,17.375,in,yes,yes,no,1964,literature,"spiral, dots, swirls, black shapes, yellow, red, blue, abstract, pattern, colors",1,None,"Lithograph in colors, on Rives BFK paper, with full margins.
+1964
+I. 17 3/8 x 23 in. (44.1 x 58.4 cm)
+S. 19 3/4 x 25 5/8 in. (50.2 x 65.1 cm)
+Signed, dated '20 Sept 64' and annotated 'Bon à tirer' in blue ink, additionally inscribed '5a.' in pencil (the good-to-print proof, the edition was 100), framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/220411_001.jpg,https://www.phillips.com/detail/alexander-calder/220411,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+92b0ebe6-6aab-43fc-b178-4770a1693951,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 28,USD,60000,90000,None,None,60000,90000,None,None,Man Ray,<NA>,<NA>,Obstruction,mixed media,"wood, lithograph, Arches paper",<NA>,66,36,in,yes,yes,yes,1920,"Juliet Man Ray, New York\\r\\nPrivate Collection, New York City (acquired from the above circa 1975)","sculpture, wooden hangers, shadows, light, installation, abstract form, ceiling hanging, spatial interaction, minimalist design, geometric shapes",1,None,"Multiple comprised of 63 wooden hangers (plus one extra hanger), accompanied by instructional lithograph in purple, on Arches paper, with full margins.
+1920/1961-64
+each hanger 5 1/2 x 16 7/8 in. (14 x 42.9 cm)
+overall 36 x 66 in. (91.4 x 167.6 cm)
+lithograph I. 13 x 17 1/2 in. (33 x 44.5 cm)
+lithograph S. 17 1/2 x 22 1/4 in. (44.5 x 56.5 cm)
+One hanger signed, titled and dated '1920-1964' and numbered 'E/A I/III' in black ink (the edition was 15), published in 1961 by the Museum of Modern Art, Stockholm, the lithograph signed with initials and numbered 'E.A. I/II' in pencil (Schwarz calls for 6 artist's proofs, the edition was 10), co-published by Editions Galerie des IV Mouvements and Galleria Arturo Schwarz, Paris and Milan, the lithograph framed.
+Andrew Strauss and Timothy Baum of the Man Ray Expertise Committee have confirmed the authenticity of this work and that the edition of this work will be included in the Catalogue of Objects & Sculptures by Man Ray, currently in preparation. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224233_001.jpg,https://www.phillips.com/detail/man-ray/224233,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,85000.0,70833.33333333334
+e10cb234-ada4-4554-a586-73906f4ce23d,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 29,USD,3000,5000,None,None,3000,5000,None,None,Romare Bearden,<NA>,<NA>,Out Chorus (G. 97),prints,"Screenprint in colors and etching in black with extensive hand-coloring in watercolor, on Arches paper",<NA>,30,22.375,in,yes,yes,yes,1979,"Private Collection, New York City","musicians, band, instruments, saxophone, piano, drums, performance, singing, colorful background, night",1,None,"Screenprint in colors and etching in black with extensive hand-coloring in watercolor, on Arches paper, the full sheet.
+1979-80
+S. 22 3/8 x 30 in. (56.8 x 76.2 cm)
+Signed and numbered '6/12 HC' in pencil (an hors commerce, the edition was 200 and 12 artist's proofs), published by the University of Pennsylvania Press, Philadelphia, printed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223545_001.jpg,https://www.phillips.com/detail/romare-bearden/223545,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,4200.0,3500.0
+2ee45560-ea95-4da8-abd8-fd747b97f97e,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 30,USD,3000,5000,None,None,3000,5000,None,None,Romare Bearden,<NA>,<NA>,Jazz II (G. 100),prints,"Screenprint in colors, on wove paper",<NA>,38.5,26.75,in,yes,yes,yes,1980,"Private Collection, New York City","musicians, instruments, saxophone, trumpet, piano, hands, expression, color, jazz, performance",1,None,"Screenprint in colors, on wove paper, with full margins.
+1980
+I. 26 3/4 x 38 1/2 in. (67.9 x 97.8 cm)
+S. 31 x 41 1/2 in. (78.7 x 105.4 cm)
+Signed and numbered 145/200 in pencil (there were also some artist's proofs), published by HMK Fine Arts Inc., New York, printed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223543_001.jpg,https://www.phillips.com/detail/romare-bearden/223543,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,4200.0,3500.0
+fc544582-b05a-4f37-9c8a-fe52cbdb3519,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 31,USD,10000,15000,None,None,10000,15000,None,None,Karel Appel,<NA>,<NA>,"Donkey-Monkey, from Circus (V. & H. 78-004)",sculpture,Wood,15.5,36.5,50.5,in,yes,yes,yes,1978,literature,"figure, horse, colorful, hat, abstract, sculpture, standing, face, geometric, painted",1,None,"Wooden multiple painted in colors.
+1978
+50 1/2 x 36 1/2 x 15 1/2 in. (128.3 x 92.7 x 39.4 cm)
+Signed, dated and numbered 'I/IV' in black paint (there were also 8 in Arabic numerals).
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224478_001.jpg,https://www.phillips.com/detail/karel-appel/224478,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,13500.0,11250.0
+36af6959-5df7-4a39-99d8-08f6c5d86176,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 32,USD,1500,2500,None,None,1500,2500,None,None,Georges Rouault,<NA>,<NA>,Réincarnations du Père Ubu (Reincarnations of Father Ubu): seven plates,prints,"etching and aquatints, Arches laid paper",<NA>,7.5,11.75,in,no,yes,yes,1932,literature,"man, top hat, woman, nude, landscape, figure, woman, headdress, couple, reclining figure",7,None,"Seven etching and aquatints, on Arches laid paper, with full margins.
+1932
+all I. 11 3/4 x 7 1/2 in. (29.8 x 19.1 cm)
+all S. 17 1/8 x 12 7/8 in. (43.5 x 32.7 cm)
+From the total edition of 305, published by Ambroise Vollard, Paris, all unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223842_001.jpg,https://www.phillips.com/detail/georges-rouault/223842,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+32b015ee-1bcb-4045-b166-8ce3168ae480,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 33,USD,7000,10000,None,None,7000,10000,None,None,Karel Appel,<NA>,<NA>,Circus (Volume I),prints,"woodcuts in colors with carborundum, Arches paper",<NA>,22.25,30,in,yes,yes,yes,1978,literature,"clown, animal, fish, color circles, elephant, harlequin, jester, rabbit, horse, car",10,None,"The complete set of 10 woodcuts in colors with carborundum, on Arches paper, the full sheets, all contained in the original folders with cut outs, with title page, text in French and English and justification, all loose, the text sheets folded (as issued), all contained in the original red canvas-lined slipcase with artist's name and title printed in silver and green fabric lining.
+1978
+all S. 30 x 22 1/4 in. (76.2 x 56.5 cm) (two horizontal)
+portfolio 31 3/4 x 23 1/2 x 2 1/2 in. (80.6 x 59.7 x 6.4 cm)
+All signed and numbered 97/130 in white pencil (there were also 20 artist's proofs in Roman numerals), additionally annotated '1' and numbered 97/130 in pencil on the justification, published by ABCD, Paris, printed in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224464_001.jpg,https://www.phillips.com/detail/karel-appel/224464,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,9200.0,7666.666666666667
+47050728-dbb2-4bbd-9676-5a9ee8108a09,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 34,USD,10000,15000,None,None,10000,15000,None,None,Marc Chagall,<NA>,<NA>,Le Clown bleu (The Blue Clown) (M. 1032),prints,"Lithograph in colors, on Arches paper",<NA>,19.25,24.625,in,yes,yes,yes,1984,literature,"clown, acrobat, circus, performer, tall ladder, audience, rural buildings, whimsical characters, colorful figures, playful scene",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1984
+I. 24 5/8 x 19 1/4 in. (62.5 x 48.9 cm)
+S. 33 x 23 7/8 in. (83.8 x 60.6 cm)
+Signed and numbered 10/50 in pencil (there were also some artist's proofs), published by Maeght, Paris, printed in France, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223527_001.jpg,https://www.phillips.com/detail/marc-chagall/223527,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+cef3cb3c-5655-46b2-84a0-477ecdf7d8cb,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 35,USD,10000,15000,None,None,10000,15000,None,None,Marc Chagall,<NA>,<NA>,Les Équilibristes (The Tightrope Walkers) (M. 1031),prints,"Lithograph in colors, on Arches paper",<NA>,19,24.25,in,yes,yes,yes,1984,literature,"circus, performers, audience, acrobats, ring, figures, colors, hats, movement, spectacle",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1984
+I. 24 1/4 x 19 in. (61.6 x 48.3 cm)
+S. 33 x 23 3/4 in. (83.8 x 60.3 cm)
+Signed and numbered 10/50 in pencil (there were also 12 artist's proofs in black), unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223530_001.jpg,https://www.phillips.com/detail/marc-chagall/223530,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,13500.0,11250.0
+41e1aa99-fc4b-4ffb-8dc7-f90587cbc99a,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 36,USD,5000,7000,None,None,5000,7000,None,None,After Marc Chagall,<NA>,<NA>,"La tribu d'Issacher, from Douze maquettes de vitraux pour Jérusalem (The Tribe of Issacher, from Twelve Maquettes of Stained Glass Windows for Jerusalem)",prints,"Lithograph in colors, on Arches paper",<NA>,18.25,24.375,in,yes,yes,yes,1964,literature,"hand, triangle, animals, bird, flower, landscape, green, blue, red, purple",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1964
+I. 24 3/8 x 18 1/4 in. (61.9 x 46.4 cm)
+S. 29 5/8 x 20 5/8 in. (75.2 x 52.4 cm)
+Signed and numbered 12/150 in pencil (there was also an edition of 75 in Roman numerals and 10 artist's proofs), published by Mourlot, Paris (with their inkstamp on the reverse), printed in France, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224466_001.jpg,https://www.phillips.com/detail/after-marc-chagall/224466,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+fbadede6-9440-4262-bc13-14525faeface,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 37,USD,6000,8000,None,None,6000,8000,None,None,Marc Chagall,<NA>,<NA>,Un Jardin perdu (A Sequestered Garden) (M. 592),prints,"Lithograph in colors, on Arches paper",<NA>,16.125,23.75,in,yes,yes,yes,1969,literature,"woman, horse, man, bird, house, greenery, landscape, child",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1969
+I. 23 3/4 x 16 1/8 in. (60.3 x 41 cm)
+S. 30 x 21 1/4 in. (76.2 x 54 cm)
+Signed and annotated 'H.C.' in pencil (an hors commerce, the edition was 50 and 25 artist's proofs in Roman numerals), framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223528_001.jpg,https://www.phillips.com/detail/marc-chagall/223528,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,7200.0,6000.0
+5e19c528-1c81-4b80-86af-83d44e51e575,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 38,USD,7000,10000,None,None,7000,10000,None,None,After Marc Chagall | Charles Sorlier,<NA>,<NA>,L'Oiseau bleu (The Blue Bird),prints,"Lithograph in colors, on Arches paper",<NA>,17,22,in,yes,yes,yes,1968,literature,"bird, blue, woman's face, flowers, red, green, landscape, city, sky, abstract",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1968
+I. 22 x 17 in. (55.9 x 43.2 cm)
+S. 28 x 20 1/2 in. (71.1 x 52.1 cm)
+Signed and numbered 'epreuve d'artiste XLV/L' in pencil (an artist's proof, the edition was 200 and a poster edition of 2000), published for the International Art Biennale of Menton, France, printed in France, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223817_001.jpg,https://www.phillips.com/detail/after-marc-chagall/223817,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+e655a85c-7cda-4531-8f92-ca4053ff2730,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 39,USD,6000,8000,None,None,6000,8000,None,None,Marc Chagall,<NA>,<NA>,La Famille au coq (The Family with Rooster) (M. 567),prints,"Lithograph in colors, on Arches paper",<NA>,15.5,24,in,yes,yes,yes,1969,literature,"woman, man, child, bird, horse, figures, moon, trees, abstract, colors",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1969
+I. 24 x 15 1/2 in. (61 x 39.4 cm)
+S. 29 7/8 x 21 1/8 in. (75.9 x 53.7 cm)
+Signed and annotated 'H.C.' in pencil (an hors commerce, the edition was 50 and 25 artist's proofs in Roman numerals), framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223529_001.jpg,https://www.phillips.com/detail/marc-chagall/223529,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,7200.0,6000.0
+9789528a-8a7a-4a1a-9531-3eddedebdfee,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 40,USD,2500,3500,None,None,2500,3500,None,None,Marc Chagall,<NA>,<NA>,Vision de Moïse (Vision of Moses) (M. 702),prints,"Lithograph in colors, on Arches paper",<NA>,25.125,31,in,yes,yes,yes,1973,literature,"figure, children, horse, sun, ladder, angel, mountain, village, cross, landscape",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1973
+I. 31 x 25 1/8 in. (78.7 x 63.8 cm)
+S. 38 3/4 x 28 3/4 in. (98.4 x 73 cm)
+Signed and annotated 'H.C.' in pencil (an hors commerce, the edition was 50), published by Tériade, Paris, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224780_001.jpg,https://www.phillips.com/detail/marc-chagall/224780,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+617eb047-d4a1-42b3-90c5-9cbeae0ec888,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 41,USD,20000,30000,None,None,20000,30000,None,None,Marc Chagall,1887,1985,Les quinze dernières lithographies de Marc Chagall (Marc Chagall's Last Fifteen Lithographs),prints,"Arches paper, colors",1.625,23.875,32.375,in,yes,yes,yes,1984,literature,"flowers, couples, children, animals, landscapes, women, nude figures, men, trees, domestic scenes",12,None,"The set of 13 lithographs in colors, on Arches paper, with full margins, all loose (as issued), all contained in the original blue cloth-covered portfolio with embossed title.
+1984-1985
+all I. various sizes 
+smallest S. 21 1/2 x 16 5/8 in. (54.6 x 42.2 cm)
+largest S. 32 3/8 x 23 7/8 in. (82.2 x 60.6 cm)
+portfolio 36 1/4 x 24 1/2 x 1 5/8 in. (92.1 x 62.2 x 4.1 cm)
+All with stamped signature and numbered 23/50 in pencil, with the 'Lithographie originale Atelier Marc Chagall' stamp, printed by Charles Sorlier, Paris, lacking M. 1035 and 1043.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223526_001.jpg,https://www.phillips.com/detail/marc-chagall/223526,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+8627c27f-6778-4d26-aa22-4f012f777ba5,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 42,USD,800,1200,None,None,800,1200,None,None,Pierre Bonnard,<NA>,<NA>,La Rue Molitor (Molitor Street) (B. 100),prints,"Lithograph, Arches paper",<NA>,9,13.75,in,yes,yes,yes,1925,literature,"tree, people, café, street, dog, tables, chairs, shadow, building, outdoor",1,None,"Lithograph, on Arches paper, with full margins.
+circa 1925
+I. 13 3/4 x 9 in. (34.9 x 22.9 cm)
+S. 19 1/2 x 12 3/4 in. (49.5 x 32.4 cm)
+Signed and numbered 36/50 in pencil (there were also 5 artist's proofs), published by E. Frapier, Paris (with their inkstamp lower left, L. 2921d), printed by Galerie des Peintres-Graveurs, Paris (with their blindstamp), unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223838_001.jpg,https://www.phillips.com/detail/pierre-bonnard/223838,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+6a98bed3-515e-44a2-b090-fc4b8d4b43ad,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 43,USD,800,1200,None,None,800,1200,None,None,Pierre Bonnard,<NA>,<NA>,Jardin au bord de la Seine (Garden on the Banks of the Seine),drawing,"graphite drawing, wove paper",<NA>,5.25,6.25,in,no,yes,yes,1936,literature,"landscape, water, trees, hills, clouds, grasses, plants, river, sky, distant structures",1,None,"Unique graphite drawing, on wove paper.
+1936
+6 1/4 x 5 1/4 in. (15.9 x 13.3 cm)
+Stamped 'PB' in ink (Lugt 3887), accompanied by a photo-certificate issued by Antoine Terrasse in July 1977, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223839_001.jpg,https://www.phillips.com/detail/pierre-bonnard/223839,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+12863dee-24ed-4748-8841-b81f9ea14575,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 44,USD,1500,2500,None,None,1500,2500,None,None,Pierre-Auguste Renoir,<NA>,<NA>,Les Baigneuses (Le Jugement de Pâris) (The Bathers (The Judgement of Paris)),prints,"Lithograph, on Ingres d'Arches laid paper watermarked",<NA>,24.875,19,in,no,yes,yes,1912,literature,"figures, women, gestures, nudity, movement, form, lines, shading, composition",1,None,"Lithograph, on Ingres d'Arches laid paper watermarked 
+, the full sheet.
+circa 1912
+S. 19 x 24 7/8 in. (48.3 x 63.2 cm)
+From the edition of approximately 30-50, printed by Auguste Clot, Paris, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224154_001.jpg,https://www.phillips.com/detail/pierre-auguste-renoir/224154,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+b766f095-5723-4a1a-bc64-afb06f1ad89f,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 45,USD,2500,3500,None,None,2500,3500,None,None,Rembrandt Harmensz. van Rijn,1606,1669,"Nude Lying Down (B., Holl. 205, H. 299, New Holl. 308)",prints,"Etching and drypoint, on laid paper",<NA>,6.25,3.25,in,no,yes,yes,1658,"Pasquale Iannetti Art Galleries Inc., New York\\r\\nPhillip Savenick, Beverly Hills (acquired from the above in 1992)\\r\\nThence by descent to the current owner","nude, figure, drapery, bed, torso, lying posture, chiaroscuro, skin, texture, shadow",1,None,"Etching and drypoint, on laid paper, with large margins.
+1658
+I. 3 1/4 x 6 1/4 in. (8.3 x 15.9 cm)
+S. 4 1/2 x 7 5/8 in. (11.4 x 19.4 cm)
+New Hollstein's fourth state (of six), a P. F. Basan edition, c. 1780's, white areas with parallel hatching along the top of the plate though showing wear in the densely hatched background, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223666_001.jpg,https://www.phillips.com/detail/rembrandt-harmensz.-van-rijn/223666,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+7d0faa10-b872-4600-af6d-8bff09444e59,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 46,USD,1500,2500,None,None,1500,2500,None,None,James Abbott McNeill Whistler,1834,1903,"Draped Figure, Standing",prints,"Lithograph, on tissue thin laid paper",<NA>,4.5,8.5,in,yes,yes,yes,1891,"Alfred II Beurdeley, Paris, his inkstamp in black lower left (Lugt 421)\\r\\nPrivate American Collection","figure, woman, standing, sketch, draped clothing, ink, subtle shading",1,None,"Lithograph, on tissue thin laid paper, with margins.
+1891
+I. 8 1/2 x 4 1/2 in. (21.6 x 11.4 cm)
+S. 14 1/2 x 9 5/8 in. (36.8 x 24.4 cm)
+Signed with the artist's butterfly monogram in pencil, the very rare first state (of four), unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/221342_001.jpg,https://www.phillips.com/detail/james-abbott-mcneill-whistler/221342,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2100.0,1750.0
+f38147d1-5002-443e-8f54-b07b68a7385e,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 47,USD,1500,2500,None,None,1500,2500,None,None,Juliette Nichols,<NA>,<NA>,Woman and Child at Garden Fence,prints,"white-line woodcut in colors, laid paper",<NA>,10.25,9.25,in,yes,yes,yes,1915,"The Estate of Avery William (Bill) Vowell and Patreecia McClain Vowell, Sumner, Mississippi\\r\\nPrivate Collection, purchased from the above in 2024","man, ladder, woman, child, fence, palm tree, houses, flowers, garden, sun hat",1,None,"Unique white-line woodcut in colors, on laid paper, with margins.
+circa 1915
+I. 9 1/4 x 10 1/4 in. (23.5 x 26 cm)
+S. 15 1/8 x 13 3/4 in. (38.4 x 34.9 cm)
+Signed in pencil, from a series of unique variants, printed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/220239_001.jpg,https://www.phillips.com/detail/juliette-nichols/220239,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2100.0,1750.0
+2e7d750d-096c-4c4d-96c2-121a76009b28,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 48,USD,600,800,None,None,600,800,None,None,Juliette Nichols,<NA>,<NA>,Group of Figures,prints,"woodcut, wove paper",<NA>,11.5,10,in,yes,yes,yes,1915,"The Estate of Avery William (Bill) Vowell and Patreecia McClain Vowell, Sumner, Mississippi\\r\\nPrivate Collection, purchased from the above in 2024","figures, men, landscape, waves, stars, bodies, abstract forms, composition, nature, silhouettes",1,None,"Unique woodcut, on wove paper, with margins.
+circa 1915
+I. 10 x 11 1/2 in. (25.4 x 29.2 cm)
+S. 12 1/2 x 14 1/4 in. (31.8 x 36.2 cm)
+Signed in pencil, from a series of unique variants, printed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/220243_001.jpg,https://www.phillips.com/detail/juliette-nichols/220243,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+1e9f6079-0e0d-4a78-a8de-2edb3c0ae7be,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 49,USD,700,1000,None,None,700,1000,None,None,David Smith,<NA>,<NA>,Easter Greets Thee,prints,"Linocut, light wove paper",<NA>,6.125,9.25,in,no,yes,yes,1928,"Driscoll Babcock Galleries, New York\\r\\nPrivate Collection, New York (acquired from the above)","woman, flowers, eggs, text, illustrated border, figure, Easter, celebration",1,None,"Linocut, on light wove paper, with full margins.
+c. 1928
+I. 9 1/4 x 6 1/8 in. (23.5 x 15.6 cm)
+S. 11 x 8 3/8 in. (27.9 x 21.3 cm)
+A rare early work, inscribed 'Isn't this wild? But clever I think & it doesn't mean that he isn't a 'nice boy'' in pencil by Dorothy Dehner (the artist's wife), unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223264_001.jpg,https://www.phillips.com/detail/david-smith/223264,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,850.0,708.3333333333334
+cbecc776-2a04-4433-8dfa-89e9841a8b09,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 50,USD,1000,2000,None,None,1000,2000,None,None,Fairfield Porter,<NA>,<NA>,Apple Blossoms III (L. 28),prints,"Lithograph in colors, on wove paper",<NA>,25.25,20.375,in,yes,yes,yes,1974,literature,"flowers, branches, leaves, blue sky, green background, white petals, yellow centers",1,None,"Lithograph in colors, on wove paper, with full margins.
+1974
+I. 20 3/8 x 25 1/4 in. (51.8 x 64.1 cm)
+S. 23 x 28 in. (58.4 x 71.1 cm)
+Signed, titled 'III' and numbered 5/50 in pencil (there were also 10 artist's proofs), published by Brooke Alexander, Inc., New York, printed in the United States, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/222238_001.jpg,https://www.phillips.com/detail/fairfield-porter/222238,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1600.0,1333.3333333333335
+3d3e8eaf-fc37-4a4a-a36c-4f0677d04fb9,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 51,USD,1000,2000,None,None,1000,2000,None,None,Juliette Nichols,<NA>,<NA>,Green and Purple Poppy; and Red and Green Poppy,prints,"woodcuts, laid paper",<NA>,7.375,9.875,in,no,yes,yes,1915,"The Estate of Avery William (Bill) Vowell and Patreecia McClain Vowell, Sumner, Mississippi\\r\\nPrivate Collection, purchased from the above in 2024","flowers, poppies, leaves, purple background, green leaves, orange petals, red petals, brown background, botanical, still life",1,None,"Two unique white-line woodcuts in colors, on laid paper, with margins.
+circa 1915
+both I. 9 7/8 x 7 3/8 in. (25.1 x 18.7 cm)
+both S. 16 x 9 1/8 in. (40.6 x 23.2 cm)
+From a series of unique variants, printed in the United States, both unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/220242_001.jpg,https://www.phillips.com/detail/juliette-nichols/220242,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1500.0,1250.0
+443d2e20-bacf-43a6-878b-273898477685,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 52,USD,1500,2500,None,None,1500,2500,None,None,Juliette Nichols,<NA>,<NA>,"Houses on the Waterfront, Day",prints,white-line woodcut with hand-coloring on wove paper,<NA>,7.5,5.75,in,yes,yes,yes,1915,"The Estate of Avery William (Bill) Vowell and Patreecia McClain Vowell, Sumner, Mississippi\\r\\nPrivate Collection, purchased from the above in 2024","houses, trees, landscape, water, blue, green, yellow, roofs, fields, sky",1,None,"Unique white-line woodcut with hand-coloring in colors, on wove paper, with margins.
+1915
+I. 5 3/4 x 7 1/2 in. (14.6 x 19.1 cm)
+S. 8 x 9 in. (20.3 x 22.9 cm)
+Signed and dated in black ink, from a series of unique variants, printed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/220241_001.jpg,https://www.phillips.com/detail/juliette-nichols/220241,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2100.0,1750.0
+f8d703fb-54c3-4f5d-b3f2-c8a135bfed43,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 53,USD,1500,2500,None,None,1500,2500,None,None,Juliette Nichols,<NA>,<NA>,Houses and Trees,prints,"white-line woodcut in colors with hand-coloring and graphite, on wove paper",<NA>,7.125,10.5,in,yes,yes,yes,1915,"The Estate of Avery William (Bill) Vowell and Patreecia McClain Vowell, Sumner, Mississippi\\r\\nPrivate Collection, purchased from the above in 2024","houses, trees, landscape, sky, mountains, steps, sun, colors, shadow, architecture",1,None,"Unique white-line woodcut in colors with hand-coloring and graphite, on wove paper, with margins.
+circa 1915
+I. 10 1/2 x 7 1/8 in. (26.7 x 18.1 cm)
+S. 13 1/2 x 9 in. (34.3 x 22.9 cm)
+Signed in pencil in the image (slightly faded), printed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/220240_001.jpg,https://www.phillips.com/detail/juliette-nichols/220240,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2100.0,1750.0
+ee024fb6-26c7-4c6f-9914-ab1c66dc4de1,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 54,USD,1500,2500,None,None,1500,2500,None,None,Milton Avery,<NA>,<NA>,Trees by the Sea (L. 53),prints,"Woodcut, Japanese paper",<NA>,13.875,9.625,in,yes,yes,yes,1953,literature,"landscape, abstract forms, lines, patterns, black, white, texture",1,None,"Woodcut, on Japanese paper, with margins.
+1953
+I. 9 5/8 x 13 7/8 in. (24.4 x 35.2 cm)
+S. 12 x 18 in. (30.5 x 45.7 cm)
+Signed, dated and numbered 5/20 in pencil, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/223647_001.jpg,https://www.phillips.com/detail/milton-avery/223647,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+15208146-5f69-4047-a9f9-2da857ccb32e,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 55,USD,2000,4000,None,None,2000,4000,None,None,Le Corbusier,<NA>,<NA>,Série panurge (Panurge Series),prints,"lithographs, Rives BFK paper",<NA>,17.875,22.125,in,yes,yes,yes,1961,literature,"still life, figures, abstract forms, monochrome, geometric shapes, hand-drawn elements, text elements",7,None,"The complete set of five lithographs in black, on Rives BFK paper, the full sheets, with the accompanying title, text and colophon pages in colors, all loose (as issued), all contained in the original beige cloth-covered portfolio with printed cover.
+1961-62
+all I. various sizes 
+all S. 22 1/8 x 17 7/8 in. (56.2 x 45.4 cm)
+portfolio 22 7/8 x 18 1/8 x 1/2 in. (58.1 x 46 x 1.3 cm)
+Signed and numbered 49/150 in pencil on the colophon, published by Mourlot, Paris, printed in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224800_001.jpg,https://www.phillips.com/detail/le-corbusier/224800,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3500.0,2916.666666666667
+f02ab8e8-053c-4332-9bb9-8fbf2717c359,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 56,USD,4000,6000,None,None,4000,6000,None,None,Various Artists,<NA>,<NA>,"Art d'aujourd'hui, maîtres de l'art abstrait (Art of Today, Masters of Abstract Art), Album I & Album II",prints,screenprints in colors on wove paper,<NA>,19.25,25.125,in,yes,yes,yes,1953,literature,"geometric shapes, abstract forms, color patterns, compositions, lines, vibrant colors, textures, contrasts, arrangements, modern art",44,None,"The complete set of two portfolios of 32 screenprints in colors (16 in each portfolio), on wove paper, with full margins, with colophons, all contained in the original slipcases and blue linen-covered portfolios.
+1953 & 1954
+all I. various sizes
+all S. 25 1/8 x 19 1/4 in. (63.8 x 48.9 cm) (five horizontal)
+both portfolios 26 x 20 3/4 x 1 1/2 in. (66 x 52.7 x 3.8 cm)
+ 11 signed and all numbered 262/300 in pencil and ink, the Robert Delaunay signed by Sonia Delaunay and inscribed 'pour Robert Delaunay', the Kandinsky signed by Nina Kandinsky in pencil, five signed in the plate, additionally numbered 262/300 in black ink on the colophon, 
+ 15 signed and numbered 104/300 in pencil and ink, one signed in the plate, additionally numbered 104/300 in blue ink on the reverse of the colophon, published by Édition Art d'Aujourd'hui, Boulogne, printed in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/221458_001.jpg,https://www.phillips.com/detail/various-artists/221458,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+4b225f3b-235d-4868-a862-19478b2d06de,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 57,USD,1500,2500,None,None,1500,2500,None,None,Burgoyne Diller,<NA>,<NA>,N/A,mixed media,"graphite, tracing paper",<NA>,6.875,7.25,in,no,yes,yes,1939,"Vanderwoude Tananbaum Gallery, New York\\r\\nRachel Adler Gallery, New York","geometric shapes, color blocks, red, blue, black, beige, abstract composition",1,None,"Unique collage in colors with graphite, on tracing paper, framed.
+circa 1939
+7 1/4 x 6 7/8 in. (18.4 x 17.5 cm)
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224539_001.jpg,https://www.phillips.com/detail/burgoyne-diller/224539,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2100.0,1750.0
+19622d0e-3202-4809-b6c3-1280f2d4d475,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 58,USD,800,1200,None,None,800,1200,None,None,Josef Albers,1888,1976,"Embossed Linear Construction 2-C (G. 140, D. 186.6)",prints,"Embossing, Arches Watercolor paper",<NA>,20.75,8.875,in,yes,yes,yes,1969,literature,"geometric shapes, three-dimensional forms, lines, repetition, symmetry",1,None,"Embossing, on Arches Watercolor paper, with full margins.
+1969
+I. 8 7/8 x 20 3/4 in. (22.5 x 52.7 cm)
+S. 20 x 26 1/8 in. (50.8 x 66.4 cm)
+Signed with initials, titled 'ELC 2–C', dated and annotated 'printer's proof II' in pencil (the edition was 100 and 10 artist's proofs), published by Gemini G.E.L., Los Angeles (with their blindstamps and inkstamp on the reverse), embossed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/219917_001.jpg,https://www.phillips.com/detail/josef-albers/219917,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+cdfec1de-7602-48c0-bc27-90c15e8a4b5c,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 59,USD,4000,6000,None,None,4000,6000,None,None,Josef Albers,<NA>,<NA>,The Interaction of Color (complete set of 80 screenprints and photomechanical reproductions),prints,"screenprints and photomechanical reproductions in colors, on wove paper",<NA>,20,13,in,yes,yes,yes,1963,"Wright, Chicago, \u003cem\u003eModern Design\u003c/em\u003e, March 24, 2009, lot 487","geometric shapes, color blocks, abstract forms, color gradients, rectangles, triangles, squares, layered colors, patterns, compositions",12,None,"The complete set of 80 screenprints and photomechanical reproductions in colors, on wove paper, with full margins, some with cut-out overlays, the sheets loose and folded (as issued), with the accompanying hardcover text in English and softcover commentary in English, all contained in the original black paper portfolio box and brown cloth-covered slipcase.
+1963
+all I. various sizes
+unfolded S. 13 x 20 in. (33 x 50.8 cm)
+slipcase 14 1/2 x 11 x 5 1/2 in. (36.8 x 27.9 x 14 cm)
+Signed, dated '1963. June 12' and dedicated 'With special greetings for Norman V. Donaldson' in black ink on the title page of the accompanying text, from the unnumbered edition of 2000 (there were also 50 stamp-signed and numbered copies), published by Yale University Press, New Haven, printed in the United States.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/222927_001.jpg,https://www.phillips.com/detail/josef-albers/222927,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+8795c2ca-70dd-455e-814c-576befa44d58,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 60,USD,7000,9000,None,None,7000,9000,None,None,Josef Albers,<NA>,<NA>,Formulation: Articulation (D. appx. C),prints,"screenprints in colors, Mohawk Superfine Bristol paper",<NA>,40,15,in,yes,yes,yes,1972,literature,"color squares, geometric shapes, layers, rectangles, colors, patterns, contrast, symmetry, abstraction, design",8,None,"The complete set of 127 screenprints in colors, on 66 sheets of Mohawk Superfine Bristol paper, folded (as issued), with full margins, all contained in two original grey fabric-covered portfolios and slipcases with printed titles.
+1972
+all I. various sizes
+all S. 15 x 40 in. (38.1 x 101.6 cm)
+both slipcases 15 1/2 x 20 1/2 x 2 in. (39.4 x 52.1 x 5.1 cm)
+Lacking the signed and numbered title page and colophon, from the edition of 1000, co-published by Harry N. Abrams, Inc., New York and Ives-Sillman, Inc., New Haven, Connecticut (with the artist's blindstamp), printed in the United States.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/222926_001.jpg,https://www.phillips.com/detail/josef-albers/222926,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+cdced5d9-6b8e-4d3d-ac2c-eaa56f79f8c8,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 61,USD,4000,6000,None,None,4000,6000,None,None,Josef Albers,<NA>,<NA>,GB 2 (D. 188),prints,"Screenprint in colors, German Etching paper",<NA>,13.75,13.75,in,yes,yes,yes,1969,literature,"red, squares, layers, geometric shapes",1,None,"Screenprint in colors, on German Etching paper, with full margins.
+1969
+I. 13 3/4 x 13 3/4 in. (34.9 x 34.9 cm)
+S. 21 5/8 x 21 5/8 in. (55 x 55 cm)
+Signed with initials, titled, dated and numbered 5/125 in pencil, published by Ives-Sillman, Inc., New Haven (with their blindstamp) for Galerie Brusberg, Hanover, printed in the United States, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/224186_001.jpg,https://www.phillips.com/detail/josef-albers/224186,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+feb8093d-3dc2-4b01-b27b-aca926fcb608,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 62,USD,3000,5000,None,None,3000,5000,None,None,Alexander Calder,<NA>,<NA>,"La naissance de l'inattendu, from La Mémoire élémentaire (The Birth of the Unexpected, from Elementary Memory)",prints,"Lithograph in colors, on Japan nacré paper",<NA>,28.25,20.5,in,yes,yes,yes,1976,literature,"star, circles, crescent, swirls, bright colors, patterns, abstract shapes, blue, red, yellow",1,None,"Lithograph in colors, on Japan nacré paper, the full sheet.
+1976
+S. 20 1/2 x 28 1/4 in. (52.1 x 71.8 cm)
+Signed and numbered 'VI/L' in pencil (one of 50 impressions in Roman numerals on this paper, the edition was 100 in Arabic numerals on Arches paper and 15 artist's proofs), published by Éditions de la Différence, Paris, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/219626_001.jpg,https://www.phillips.com/detail/alexander-calder/219626,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,4200.0,3500.0
+d81251e0-213d-49e2-bb39-cf90503f12ae,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 63,USD,1000,2000,None,None,1000,2000,None,None,Alexander Calder,<NA>,<NA>,Jeune fille et sa suite (Young Woman and Her Suitors),prints,"Lithograph in colors, on Rives BFK paper",<NA>,20.5,26.25,in,yes,yes,yes,1972,literature,"abstract forms, red circle, black shapes, graphic design",1,None,"Lithograph in colors, on Rives BFK paper, with full margins.
+1972
+I. 26 1/4 x 20 1/2 in. (66.7 x 52.1 cm)
+S. 29 5/8 x 23 in. (75.2 x 58.4 cm)
+Signed and numbered 53/100 in pencil (there were also 9 hors commerce), printed by Styria Studio, New York (with their blindstamp), published by Michigan Bell Telephone Company, Detroit, framed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/221339_001.jpg,https://www.phillips.com/detail/alexander-calder/221339,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,1800.0,1500.0
+cac8bef6-9cb8-4927-9ea1-a5b3299ec53e,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 64,USD,2000,3000,None,None,2000,3000,None,None,Salvador Dalí,1904,1989,"King of Hearts, from Playing Cards (F. 72-4 K)",prints,"Lithograph in colors, on Arches paper",<NA>,9.375,14.125,in,yes,yes,yes,1970,literature,"playing card, king, hearts, sword, crown, colorful, illustration, ace",1,None,"Lithograph in colors, on Arches paper, with full margins.
+1970
+I. 14 1/8 x 9 3/8 in. (35.9 x 23.8 cm)
+S. 25 7/8 x 19 7/8 in. (65.7 x 50.5 cm)
+Signed ('D' smudged) and numbered 28/150 in pencil (from the total edition of 400), published by Reese Palley, New York, unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/225240_001.jpg,https://www.phillips.com/detail/salvador-dal%C3%AD/225240,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+92ae1aac-519f-469d-9a08-d6ae48d6d19f,Art,Phillips,NY030725,2025-10-21,New York,MODERNISM: Editions & Works on Paper,None,Lot 65,USD,2500,3500,None,None,2500,3500,None,None,Alexander Calder,1898,1976,Flying Colors: five plates,prints,"lithographs in colors, Arches paper",<NA>,26,20,in,yes,yes,yes,1974,literature,"abstract shapes, colorful patterns, stylized animal, geometric forms, bold colors",5,None,"Five lithographs in colors, on Arches paper, with full margins and the full sheets.
+1974
+two I. various sizes 
+all S. 20 x 26 in. (50.8 x 66 cm)
+All signed with monogram and dated in the stone, from the edition of 250, published by State Street, New York, for Braniff International Airlines (all with the Flying Colors Collection blindstamp), lacking one plate, all unframed.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/NY030725/219625_001.jpg,https://www.phillips.com/detail/alexander-calder/219625,6644.31,22521.7,46270.46,20.81,67.09,3.65,None,nan,gpt-4.1-mini,3200.0,2666.666666666667

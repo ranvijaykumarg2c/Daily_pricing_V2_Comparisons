@@ -1,0 +1,825 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+849af834-91a7-4866-9d8c-bfd35cad9190,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 1,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,A SET OF FIVE IRISH GEORGE III LEATHER FIRE BUCKETS,decorative arts,leather,N/A,N/A,11.25,in,no,yes,yes,1750,"The Dukes of Leinster, Carton House, Maynooth, Ireland.
+Edward FitzGerald, 7th Duke of Leinster (1892-1976), by whom removed to Kilkea Castle when Carton House was sold in 1946, and thereafter to Ramsden, Oxfordshire, and by descent.
+Sold by the Trustees of the Leinster Will Trust; Cheffin's Auctioneers, Cambridge, 19 September 2013, lot 885.","leather fire buckets, gilt monogram, ducal coronet, swing strap handles, dark color, decorative elements, vintage design, historical provenance, set of five, Irish George III style",5,N/A,original,"Each decorated with gilt monogram of the Dukes of Leinster beneath a ducal coronet, with swing strap handles
+11
+1
+⁄
+4
+ in. (29 cm.) high
+(5)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0001_000(a_set_of_five_irish_george_iii_leather_fire_buckets_third_quarter_18th112708).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/set-five-irish-george-iii-leather-fire-buckets-1/293984?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,2026-04,3211.57,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+71200348-67ed-4531-bcbe-4384adf54899,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 2,GBP,20000,30000,N/A,N/A,25285.93,37928.9,N/A,N/A,JOHN E. FERNELEY SENIOR,1782,1860,"A gentleman, traditionally identified as Robert Day of Belgrave Hall, Leicestershire, mounted on a bay hunter outside a stable with three dogs",painting,oil on canvas,N/A,47.625,40,in,yes,yes,yes,1807,"A. de Cassirers, London, from whom acquired for £280 on 25 October 1934 by,
+with M. Knoedler & Co., New York, where acquired on 30 April 1935 for £460 by,
+Geoffrey Akroyd, London.
+with Newhouse Galleries, New York, September 1974.
+Anonymous sale [Property of a New York Private Collector]; Sotheby's, New York, 10 June 1988, lot 74, where acquired by the following,
+Don F. Gaston (1934-2021) and Paula Gaston, née Boynton (1934-2021); (†), Sotheby's, New York, 25 October 2022, lot 409.","gentleman, horse, stable, dogs, landscape, tree, rider, bay hunter, arch, clothing",1,N/A,original,"A gentleman, traditionally identified as Robert Day of Belgrave Hall, Leicestershire, mounted on a bay hunter outside a stable with three dogs
+signed and dated ' J. Ferneley. / Pinx.
+t
+. / 1807' (lower right, on the base of the arch)
+oil on canvas
+40 x 47
+5
+⁄
+8
+ in. (101.6 x 121 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0002_000(john_e_ferneley_senior_a_gentleman_traditionally_identified_as_robert112744).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/john-e-ferneley-senior-thrussington-1782-1860-melton-mowbray-2/293986?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,32779.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,34500.0,28750.0
+bf164ab7-3a5f-4997-a1aa-2ad4013433d2,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 3,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,A Set of Four George III Mahogany Hall Chairs,furniture,mahogany,18.5,18.5,36.5,in,no,yes,yes,1790,N/A,"chairs, mahogany, shield-shaped backs, crests, fleur-de-lys, spade feet, tapering legs, furniture, hall chairs, George III",4,N/A,original,"The shield-shaped backs with painted crests of a gauntlet and fleur-de-lys, on square tapering legs terminating in spade feet
+36
+1
+⁄
+2
+ in. (93 cm.) high; 18
+1
+⁄
+2
+ in. (47 cm.) wide; 18
+1
+⁄
+2
+ in. (47 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0003_000(a_set_of_four_george_iii_mahogany_hall_chairs_circa_1790112808).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/set-four-george-iii-mahogany-hall-chairs-3/293985?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+bea91f5f-c840-475f-9c42-93de760da2bd,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 4,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,TWO MODERN PATINATED-BRONZE ‘HYDE’ LANTERNS,decorative arts,"patinated bronze, glass",N/A,17,30.5,in,no,yes,yes,N/A,N/A,"lantern, glass dome, four lights, curved glass panels, patinated bronze",1,N/A,original,"Each with floral corona above a glass dome top and four curved glass panels enclosing four lights, fitted for electricity
+30
+1
+⁄
+2
+ in. (77.8 cm.) high; 17 in. (43 cm.) diameter",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0004_000(two_modern_patinated-bronze_8216hyde8217_lanterns_by_jamb_london062346).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/two-modern-patinated-bronze-hyde-lanterns-4/293988?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3150.0,2625.0
+59505a9b-6466-47a6-82fc-d14f26ebe181,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 5,GBP,12000,18000,N/A,N/A,15171.56,22757.34,N/A,N/A,JOHN E. FERNELEY SENIOR,1782,1860,"Robert Sewallis Shirley, Viscount Tamworth (1778-1824), and his groom setting off from Staunton Harold Hall",painting,oil on canvas,N/A,43.125,34.125,in,yes,yes,yes,1808,"Commissioned by Robert Sewallis Shirley, Viscount Tamworth (1778-1824) in July 1808.
+with Leggatt Bros., London, where acquired on 14 September 1938 by,
+with M. Knoedler and Co., New York, inv. no. A2063, where acquired on 25 September 1941 for $5,750 by,
+Sarah Cordelia Mellon Scaife (1903-1965), and by descent to her son,
+Richard Mellon Scaife (1932-2014); (†), Freeman's, Philadelphia, 14 June 2016, lot 128.","man, horse, groom, landscape, countryside, building, red coat, black top hat, white horse, brown horse",1,N/A,original,"Robert Sewallis Shirley, Viscount Tamworth (1778-1824), and his groom setting off from Staunton Harold Hall
+signed and dated 'J. Ferneley / pinx
+t
+: 1808.' (lower right)
+oil on canvas, unlined
+34
+1
+⁄
+8
+ x 43
+1
+⁄
+8
+ in. (86.7 x 109.5 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0005_000(john_e_ferneley_senior_robert_sewallis_shirley_viscount_tamworth_and_h112944).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/john-e-ferneley-senior-thrussington-1782-1860-melton-mowbray-5/293987?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,19306.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,19850.0,16541.666666666668
+54c083a1-42f4-4cd6-9b48-09b60a4eac52,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 6,GBP,2500,4000,N/A,N/A,3160.74,5057.19,N/A,N/A,A DUTCH COLONIAL,N/A,N/A,BRASS-MOUNTED PADOUK CHEST,furniture,"padouk, brass",28,50.5,29.5,in,no,yes,yes,1700,N/A,"chest, brass, padouk, wood, hinges, carrying-handles, bun feet, lock",1,N/A,original,"Of typical form with a hinged lid and carrying-handles to the sides; on later bun feet, the lock replaced
+29
+1
+⁄
+2
+ in. (74.5 cm.) high; 50½in. (128 cm.) wide; 28 in. (71 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0006_000(a_dutch_colonial_brass-mounted_padouk_chest_late_17th_early_18th_centu113007).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/dutch-colonial-brass-mounted-padouk-chest-6/293989?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,4074.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+08f1788e-e1dc-45a0-96f9-9a1297f5befc,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 7,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,A Pair of Ormolu-Mounted Chinese Powder-Blue Baluster Vase Candelabra,decorative arts,"Ormolu, porcelain",N/A,N/A,25,in,no,yes,yes,1850,"Possibly F. Jones, Tavistock Street, Bedford, where acquired on 5 September 1936 (£12. 10s).
+The Collection of Professor Sir Albert Richardson, P.R.A.; sold Christie's, London, 18-19 September 2013, lot 556, where acquired.","baluster vase, candelabra, lilies, ormolu, Chinese porcelain, blue, floral arrangement, base, candle-nozzles, branches",1,N/A,original,"Each of baluster form, issuing sprays of lilies incorporating candle-nozzles on flattened pierced bases, some branches detached, minor losses, one with five branches and the other with four
+25 in. (64 cm.) high",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0007_000(a_pair_of_ormolu-mounted_chinese_powder-blue_baluster_vase_candelabra113055).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-ormolu-mounted-chinese-powder-blue-baluster-vase-candelabra-7/293990?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3217.56,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+9af76aea-43f8-4dd7-90f9-f08a06eb3924,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 8,GBP,1500,2500,N/A,N/A,1896.44,3160.74,N/A,N/A,N/A,N/A,N/A,CIRCA 1860,furniture,"walnut, gros-point needlework",32.5,50,14.5,in,no,yes,yes,1860,N/A,"stool, red needlework, flower patterns, cabriole legs, wood, upholstery",1,N/A,original,"The rectangular seat covered with contemporary red-ground needlework on flower-carved cabriole legs
+14
+1
+⁄
+2
+ in. (36 cm.) high; 50 in. (127 cm.) wide; 32.5 in. (82.5 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0008_000(a_victorian_walnut_and_gros-point_needlework_large_stool_circa_1860113119).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/victorian-walnut-gros-point-needlework-large-stool-8/293994?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,2408.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2300.0,1916.6666666666667
+6df1d1f7-4262-4faf-a470-9caef6278ebd,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 9,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,THREE DUTCH DELFT DISHES,ceramics,ceramic,N/A,N/A,N/A,in,no,yes,yes,18th century,"The Collection of Cecil Baring, 3rd Lord Revelstoke (1864-1934), Lambay and by descent, until sold Hamilton Osborne King, 
+circa 
+2002.","flowers, foliage, landscapes, buildings, trellis, lobed panels",3,N/A,original,"One example decorated in polychrome with stylised flowers and foliage, another decorated in blue and white with buildings and trellis in landscapes, the border with lobed panels enclosing stylised flowers, the third decorated in blue and white with a landscape
+14in. (35.5 cm.) diameter",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0009_000(three_dutch_delft_dishes_18th_century113150).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/three-dutch-delft-dishes-9/293992?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.44,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+08113f6b-f82e-4d26-a3b2-ba93d117fb8b,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 10,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,N/A,N/A,N/A,A SET OF EIGHT GEORGE III MAHOGANY SIDE CHAIRS,furniture,"mahogany, mohair velvet",25,23.5,38,in,no,yes,yes,1750,"Possibly supplied to Sir James Lowther, 1st Earl of Lonsdale (d. 1802) for Lowther Castle, Cumbria and by descent to;
+The 6th Earl of Lonsdale, Lowther Castle, sold Maple & Co. and Thomas Wyatt house sale 10-11 June 1947, lot 7281.
+Bought from Lenygon and Morant, London, in the 1940s for Brockencote Hall, Chaddesley Corbett, Worcestershire.
+Anonymous sale; Christie's, London, 15 June 2000, lot 50;
+where acquired.","chairs, mahogany, green velvet, Gothic fretwork, upholstery, legs, stretchers, piercings, design, antiques",8,N/A,original,"Each with serpentine toprail, the padded back and seat covered in close-nailed light green mohair velvet, on square-lined Gothic fretwork chamfered legs, headed by pierced brackets and joined by stretchers, rerailing and replacements
+38 in. (96.5 cm.) high; 23
+1
+⁄
+2
+ in. (59.5 cm.) wide; 25 in. (64 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0010_000(a_set_of_eight_george_iii_mahogany_side_chairs_seven_third_quarter_18t113246).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/set-eight-george-iii-mahogany-side-chairs-10/293991?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12777.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+0379c167-8479-4d51-81c5-42a2183dae91,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 11,GBP,7000,10000,N/A,N/A,8850.08,12642.97,N/A,N/A,N/A,N/A,N/A,A PAIR OF IRISH OVAL WALL MIRRORS,decorative arts,"facet-cut glass, wood",N/A,34,47,in,no,yes,yes,20th century,N/A,"oval mirrors, wall decor, green chair, framed pictures, interior setting",2,N/A,original,"In the George III style, each oval frame with facet-cut glass borders
+47 in. (119.5 cm.) high; 34 in. (86 cm.) wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0011_000(a_pair_of_irish_oval_wall_mirrors_20th_century113322).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-irish-oval-wall-mirrors-11/293993?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,11281.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+56c505ae-314f-4945-86ad-873f169bdf5d,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 12,GBP,40000,60000,N/A,N/A,50571.86,75857.79,N/A,N/A,N/A,N/A,N/A,AN IRISH GEORGE II MAHOGANY SIDE TABLE,furniture,mahogany,29.25,61,30.5,in,no,yes,yes,1750,"With Millar & Beatty, Ltd. Dublin.
+With Swan Antiques, Yorktown, Virginia.
+Mandarin Antiques, Farmville, North Carolina.
+The Property of a Southern Collector; sold Christie's, New York, 18 October 2005, lot 400 ($90,000 inc. premium).","mahogany side table, carved frieze, scallop-shells, birds, cabriole legs, hairy paw feet, decorative objects, vase, books",1,N/A,original,"The rectangular top with a moulded edge above an ornately shaped and foliate-carved frieze centered by opposing scallop-shells flanked by birds on acanthus-headed cabriole legs and angled hairy paw feet, bearing a label to the reverse 
+E9582/MILLAR & BEATTY, Ltd./House Furnishers/Grafton Street, DUBLIN
+30½ in. (78 cm.) high, 61 in. (155 cm.) wide, 29
+1
+⁄
+4
+ in. (74.5 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0012_000(an_irish_george_ii_mahogany_side_table_mid-18th_century113412).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/irish-george-ii-mahogany-side-table-12/293995?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,102119.41,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,72000.0,60000.0
+e47332cb-fa89-4450-b70f-83c0744169e2,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 13,GBP,1500,2500,N/A,N/A,1896.44,3160.74,N/A,N/A,TWO ENGLISH DELFT,N/A,N/A,"CIRCA 1700, THE EXAMPLE WITH A VASE BRISLINGTON, THE OTHER PROBABLY LONDON, BRISTOL OR BRISLINGTON",ceramics,ceramics,N/A,N/A,N/A,in,no,yes,yes,1700,"The Collection of Cecil Baring, 3rd Lord Revelstoke (1864-1934), Lambay and by descent, until sold; Sotheby's, London, 3 December 2013, lots 11 and 12.","tulips, green, blue, ochre, ceramic plates, floral design, yellow line, blue-dash rims, decorative art, 18th century",2,N/A,original,"Each painted in blue, green a ochre with tulips, within yellow line and blue-dash rims
+14in. (35.5 cm.) diameter",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0013_000(two_english_delft_tulip_chargers_circa_1700_the_example_with_a_vase_br113502).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/two-english-delft-tulip-chargers-13/293996?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,2408.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2450.0,2041.6666666666667
+259ca8cf-72d4-490b-8769-daecf8ab862f,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 14,GBP,50000,80000,N/A,N/A,63214.83,101143.73,N/A,N/A,JOHN E. FERNELEY SENIOR,1782,1860,"Lord Robert Grosvenor's two Hunters outside a Field Shelter at Moor Park, Rickmansworth, Hertfordshire",painting,oil on canvas,N/A,57,41,in,yes,yes,yes,1853,"(Presumably) Robert Grosvenor, 1st Baron Ebury (1801-1893). 
+with Arthur Ackermann & Son, London and New York.
+Anonymous sale [Sidenberg]; Sotheby Parke-Bernet, New York, 8 May 1941, lot 55.
+Lydia B. Mann, U.S.A. (according to the following),
+Anonymous sale; Christie's, New York, 1 June 2001, lot 42.
+Anonymous sale; Keeneland Sales Pavilion, Lexington, 18 November 2018, lot 40.","horses, field shelter, landscape, trees, grass, two hunters, brown horse, white horse, blue sky, clouds",1,N/A,original,"Lord Robert Grosvenor's (1801-1893) two Hunters outside a Field Shelter at Moor Park, Rickmansworth, Hertfordshire
+signed and dated 'J. Ferneley / Melton Mowbray / 1853' (lower centre)
+oil on canvas
+41 x 57 in. (104.1 x 144.8 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0014_000(john_e_ferneley_senior_lord_robert_grosvenors_two_hunters_outside_a_fi113541).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/john-e-ferneley-senior-thrussington-1782-1860-melton-mowbray-14/293997?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,101143.73,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,84750.0,70625.0
+7d5e8c86-164b-4be9-bf52-986939f34f47,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 15,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,N/A,N/A,N/A,A PAIR OF ENGLISH MAHOGANY LIBRARY STOOLS,furniture,mahogany,17.5,23.5,19,in,no,yes,yes,19th century,N/A,"library stools, mahogany wood, S-shaped legs, scrolled feet, stretchers, dished seat, George III style, decorative carving, pair of furniture",2,N/A,original,"In the George III style, each with dished over-scrolled solid seat with S-shaped legs joined by stretchers, on scrolled feet
+19 in. (48 cm.) high; 23
+1
+⁄
+2
+ in. (60 cm.) wide; 17
+1
+⁄
+2
+ in. (45 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0015_000(a_pair_of_english_mahogany_library_stools_19th_century113609).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-english-mahogany-library-stools-15/293998?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,6381.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+7a7ba9ec-55c4-4d62-aa14-18e79394d21f,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 16,GBP,1500,2500,N/A,N/A,1896.44,3160.74,N/A,N/A,N/A,N/A,N/A,A Pair of Japanese Imari Porcelain Vase Lamps,decorative arts,"Imari porcelain, giltwood, linen",N/A,N/A,23,in,no,yes,yes,19th century,N/A,"vase, floral sprays, blue ground, lamps, giltwood base, linen shades, Imari porcelain, 19th century, Japanese",2,N/A,original,"Each with dark blue ground decorated overall with floral sprays, on giltwood bases, with cream linen shades, one vase restored, both fitted for electricity
+23 in. (58.5 cm.) high, excluding fitments",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0016_000(a_pair_of_japanese_imari_porcelain_vase_lamps_19th_century113638).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-japanese-imari-porcelain-vase-lamps-16/293999?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,2418.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2300.0,1916.6666666666667
+7748180d-c660-4e0a-9dbd-ea8142b03ba9,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 17,GBP,15000,25000,N/A,N/A,18964.45,31607.41,N/A,N/A,JOHN E. FERNELEY SENIOR,1782,1860,"Henry Combe Compton leading a bay hunter, with hounds",painting,oil on canvas,N/A,41.875,33.875,in,yes,yes,yes,1813,"Commissioned in 1813 as a pair with lot 19 by Henry Combe Compton (1789-1866), Minstead Manor, Hampshire, and by descent to,
+Mr. and Mrs. Christopher Green; Sotheby's, London, 4 July 2013, lot 257.","man, horse, hounds, landscape, sky, coat, hat, dogs, rider",1,N/A,original,"Henry Combe Compton (1789-1855) leading a bay hunter, with hounds
+signed and dated 'J.Ferneley / Pinx
+t 
+.1813' (lower right)
+oil on canvas
+33
+7
+⁄
+8
+ x 41
+7
+⁄
+8
+ in. (86 x 106.4 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0017_000(john_e_ferneley_senior_henry_combe_compton_leading_a_bay_hunter_with_h113702).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/john-e-ferneley-senior-thrussington-1782-1860-melton-mowbray-17/294003?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,24181.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,25200.0,21000.0
+d89c9960-fd2c-4c48-b4e7-6d5f29fdfe4b,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 18,GBP,1000,1500,N/A,N/A,1264.3,1896.44,N/A,N/A,A DELFT EQUESTRIAN PORTRAIT CHARGER OF WILLIAM III,N/A,N/A,"CIRCA 1690, DUTCH, FRISIAN OR POSSIBLY ENGLISH",ceramics,ceramic,N/A,N/A,N/A,in,no,yes,yes,1690,"The Collection of Cecil Baring, 3rd Lord Revelstoke (1864-1934), Lambay and by descent, until sold Sotheby's, London, 3 December 2013, lot 17.","crowned Sovereign, horse, trees, blue rim, circular foot",1,N/A,original,"Painted with the crowned Sovereign astride a rearing horse beside trees, within a blue-dash rim, on a circular foot
+14
+1
+⁄
+2
+ in. (37 cm.) diameter",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0018_000(a_delft_equestrian_portrait_charger_of_william_iii_circa_1690_dutch_fr113726).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/delft-equestrian-portrait-charger-william-iii-18/294001?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1631.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1650.0,1375.0
+0c2bc972-4a3a-44a8-9a2e-e331af497d9d,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 19,GBP,20000,30000,N/A,N/A,25285.93,37928.9,N/A,N/A,JOHN E. FERNELEY SENIOR,1782,1860,"Henry Combe Compton mounted on a bay hunter, with hounds and other riders beyond",painting,oil on canvas,N/A,41.875,33.875,in,yes,yes,yes,1813,"Commissioned in 1813 as a pair with lot 17 by Henry Combe Compton (1789-1866), Minstead Manor, Hampshire, and by descent to,
+Mr. and Mrs. Christopher Green; Sotheby's, London, 4 July 2013, lot 256.","man on horse, hounds, other riders, landscape, cloudy sky, brown horse, green and brown earth, horse accessories, hunters, historical scene",1,N/A,original,"Henry Combe Compton (1789-1855) mounted on a bay hunter, with hounds and other riders beyond
+signed and dated 'J.Ferneley / Pinx
+t.
+: 1813' (lower right)
+oil on canvas
+33
+7
+⁄
+8
+ x 41
+7
+⁄
+8
+ in. (86 x 106.3 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0019_000(john_e_ferneley_senior_henry_combe_compton_mounted_on_a_bay_hunter_wit113741).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/john-e-ferneley-senior-thrussington-1782-1860-melton-mowbray-19/294002?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,32779.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,34500.0,28750.0
+ecb1d350-1a5a-4d75-b778-f06e0421d1ff,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 20,GBP,6000,10000,N/A,N/A,7585.78,12642.97,N/A,N/A,Martin Kirkpatrick,N/A,N/A,AN IRISH GEORGE II WALNUT AND YEW STRIKING LONGCASE CLOCK,furniture,"walnut, yew, brass",11.5,22.75,102.75,in,yes,yes,yes,1750,"Lyon & Turnbull, Edinburgh, 29 June 2011, lot 289.","longcase clock, arched hood, dial plate, Roman hours, Arabic minutes, moonphase dial, strike mechanism, walnut, yew, finials",1,N/A,original,"CASE: the arched hood with three flambeau vase finials, outset three-quarter columns, with running stylised foliate and feather banding overall, the plinth raised on bracket feet, DIAL; the 13
+1
+⁄
+2
+ inch arched brass dial plate with silvered chapter ring with Roman hours and Arabic minutes, signed to the chapter ring 'Martin Kirkpatrick / DUBLIN' the matted centre with seconds ring, date aperture and pierced hands, the arch with subsidiary moonphase dial and twice 24-hour dial, MOVEMENT: the two train 8-day movement with anchor escapement, the plates joined by four ringed pillars, strike to large bell above the plates
+102
+3
+⁄
+4
+ in. (261 cm.) high; 22
+3
+⁄
+4
+ (57.8 cm) wide; 11
+1
+⁄
+2
+ in. (29.3 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0020_000(an_irish_george_ii_walnut_and_yew_striking_longcase_clock_martin_kirkp113803).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/irish-george-ii-walnut-yew-striking-longcase-clock-20/294000?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10401.61,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11250.0,9375.0
+36390384-ebe1-4514-b6d2-8feddc14e5f3,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 21,GBP,5000,8000,N/A,N/A,6321.48,10114.37,N/A,N/A,N/A,N/A,N/A,CIRCA 1770,furniture,mahogany,33.5,84.25,35,in,no,yes,yes,1770,N/A,"serving table, mahogany, serpentine shape, fluted frieze, square legs, bull's-eye patera, block feet, interior furniture, antique",1,N/A,original,"The shaped top on fluted frieze and conforming tapering square section legs headed with bull's-eye patera and terminating in block feet, the sides of the top slightly reduced
+35 in. (88.5 cm.) high; 84
+1
+⁄
+4
+ in. (214.5 cm.) wide; 33
+1
+⁄
+2
+ in. (85 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0021_000(an_irish_large_george_iii_mahogany_serpentine_serving_table_circa_1770113845).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/irish-large-george-iii-mahogany-serpentine-serving-table-21/294004?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10076.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,8500.0,7083.333333333334
+15021df2-e9e7-4a3e-9390-53f3d1b4fe0e,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 22,GBP,20000,30000,N/A,N/A,25285.93,37928.9,N/A,N/A,FOLLOWER OF DANIEL MYTENS,N/A,N/A,"Portrait of Charles I (1600-1649), full-length",painting,oil on canvas,N/A,56.75,86.625,in,yes,yes,yes,1626,"(Presumably) by descent at Normanby Park, Lincolnshire, to,
+Sir Berkeley Sheffield, 6th Bt. (1876-1946); Christie's, London, 16 July 1943, lot 92, with erroneous date, as 'D. Mytens' (170 gns. to Spink).
+Helen Needham; Sotheby's, London, 8 May 1946, lot 76, as 'Daniel Mytens', where acquired by her nephew,
+J. Sheffield, and by descent to his son, by whom sold at the following,
+Anonymous sale [The Property of a Gentleman]; Sotheby's, London, 10 July 2014, lot 117, as 'After Daniel Mytens'.","man, crown, scepter, red attire, standing pose, ornate frame, green drapery, polychrome stone floor, historical portrait, royal imagery",1,N/A,style of/follower of,"Portrait of Charles I (1600-1649), full-length
+oil on canvas
+86
+5
+⁄
+8
+ x 56
+3
+⁄
+4
+ in. (225 x 144.2 cm.)
+with initials and dated 'MF · 1626' (centre right, 'MF' in ligature, partially strengthened)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0022_000(follower_of_daniel_mytens_portrait_of_charles_i_full-length090959).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/follower-daniel-mytens-22/294006?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,32771.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+ce8e705e-0034-44e5-a08b-f8cadd19170d,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 23,GBP,6000,10000,N/A,N/A,7585.78,12642.97,N/A,N/A,N/A,N/A,N/A,A LARGE TABRIZ CARPET,decorative arts,wool,N/A,13.25,24.58,in,no,yes,yes,1910,N/A,"carpet, floral patterns, animal motifs, red background, blue border, central medallion, Persian design, intricate details, geometric patterns, wear",1,N/A,original,"Of Safavid 'Emperor's Carpet' design, finely woven, overall wear and scattered areas of associated repiling
+24ft.7in. x 13ft.3in. (753cm. x 471cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0023_000(a_large_tabriz_carpet_north_west_persia_circa_1910113948).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/large-tabriz-carpet-23/294005?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10401.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+b391c7b7-6f8f-43dc-bc55-8baf19e65b6d,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 24,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,"Attributed to Ince and Mayhew, by Wright and Mansfield",N/A,N/A,"A Set of English Mahogany Dining-Chairs | Six Mid-18th Century, Attributed to Ince and Mayhew, Twelve Mid-19th Century by Wright and Mansfield",furniture,"English mahogany, dark purple floral damask",22.5,23.75,37,in,no,yes,yes,1750,"Anonymous sale; Christie's, London, 15 June 2000, lot 25,
+where acquired.","armchairs, side chairs, mahogany wood, floral damask upholstery, ladder-back design, serpentine seat, fluted legs, anthemion patterns, restorations, printed paper labels",10,N/A,attributed to,"Comprising two open armchairs, each with pierced ladder-back splat with central anthemion, with fluted stiles above a serpentine seat, upholstered in dark purple floral damask, on square fluted tapering legs with patera collars, restorations, ten chairs with printed paper label 'FROM WRIGHT AND MANSFIELD 104, NEW BOND STREET, W.', some rerailing to the George III chairs
+The armchairs: 37 in. (94 cm.) high; 23
+3
+⁄
+4
+ in. (60.5 cm.) wide; 22
+1
+⁄
+2
+ in. (57 cm.) deep
+The sidechairs: 36 in. (91.5 cm.) high; 22 in. (56 cm.) wide; 22 in. (56 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0024_000(a_set_of_english_mahogany_dining-chairs_six_mid-18th_century_attribute114010).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/set-english-mahogany-dining-chairs-24/294007?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12777.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+2c54be1e-af50-4282-962f-d1bdf1acb881,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 25,GBP,10000,15000,N/A,N/A,12642.97,18964.45,N/A,N/A,A LATE GEORGE III,N/A,N/A,EARLY 19TH CENTURY,furniture,Irish mahogany,170.5,65,28,in,no,yes,yes,1800,N/A,"dining table, mahogany, turned pedestal, fluted supports, brass caps, castors, D-shaped ends, five sections",1,N/A,original,"The five section tilt-top with D-shaped ends, each on a turned pedestal with four stop-fluted downswept supports terminating in square brass caps and castors, the top apparently original possibly reshaped and restored
+28 in. (71 cm.) high; 65 in. (165 cm.) wide; 170
+1
+⁄
+2
+ in. (433 cm.) long excluding leaf",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0025_000(a_late_george_iii_irish_mahogany_five-pedestal_dining-table_early_19th114108).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/late-george-iii-irish-mahogany-five-pedestal-dining-table-25/294009?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,13819.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16000.0,13333.333333333334
+fb736838-aa49-4643-ab58-093b03f7ff07,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 26,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,A MINTON,N/A,N/A,Crested Part Dinner-Service,decorative arts,ceramics,N/A,22.5,N/A,in,no,yes,yes,1859,"Probably Sir John Kelk, 1st Baronet (1816-1886).","wolf, leopard, serving-platters, vegetable-tureen, dinner-plates, soup-plates, monogram, rosettes, pink, gilt",76,N/A,original,"Each piece with a crest of a wolf holding a leopard's head, above a gilt scrolling monogram, within a border of pink and gilt rosettes, intersected by pink panels with gilt dot motifs, comprising: seven serving-platters in sizes, a small two-handled vegetable-tureen, sixty-five dinner-plates and nine soup-plates
+22
+1
+⁄
+2
+ in. (57 cm.) wide, the largest serving-platters",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0026_000(a_mintons_china_crested_part_dinner-service_circa_1859-1882_puce_print114152).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/mintons-china-crested-part-dinner-service-26/294013?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+f9fa3655-a86e-47dd-96e3-02bc8de223b2,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 27,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,CIRCLE OF GASPAR PIETER VERBRUGGHEN II,1664,1730,"A youth drawing a curtain next to an urn of flowers, two hares and fruit on a ledge, with an arch and landscape beyond",painting,oil on canvas,N/A,50,28.5,in,no,yes,yes,N/A,"Natalie Barclay, née Ackenhausen (1909-2007), Boxted House, Colchester; Christie's, South Kensington, 3 October 2001, lot 399, as 'Circle of Gaspar Pieter Verbruggen II'.","youth, curtain, urn, flowers, hares, fruit, ledge, arch, landscape",1,N/A,circle of,"A youth drawing a curtain next to an urn of flowers, two hares and fruit on a ledge, with an arch and landscape beyond
+In an 18th century giltwood rococo overmantle frame
+oil on canvas, in a George II giltwood frame, with a later mirror plate, re-gilt
+the painted surface, 28
+1
+⁄
+2
+ x 50 in. (72.4 x 127 cm.); the frame, 58
+5
+⁄
+8
+ x 61
+1
+⁄
+2
+ in. (148.8 x 156.2 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0027_000(circle_of_gaspar_pieter_verbrugghen_ii_a_youth_drawing_a_curtain_next105217).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/circle-gaspar-pieter-verbrugghen-ii-antwerp-1664-1730-27/294012?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12776.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,12350.0,10291.666666666668
+68c1dae7-c8ab-48c7-839d-5d4aaf9fddcd,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 28,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,FOLLOWER OF SIR PETER LELY,N/A,N/A,"Portrait of Jane Webb, née Smith (d. 1669)",painting,oil on canvas,N/A,41,49.875,in,no,yes,yes,N/A,"Anonymous sale; Sotheby's, London, 8 April 1998, lot 78, as 'Studio of Sir Peter Lely'.","portrait, woman, brown dress, blue robes, landscape, historical attire, seated figure, embroidered fabric, nature, 17th century",1,N/A,style of/follower of,"Portrait of Jane Webb, née Smith (d
+. 
+1669), seated three-quarter-length, in a brown dress with blue and gold embroidered robes, in a landscape
+oil on canvas
+49
+7
+⁄
+8
+ x 41 in. (126.7 x 104.1 cm.)
+with identifying inscription on the relining canvas '-Smith. sister to John Smith / (Speaker of the House of Commons) & / Dame Ann Dashwood, and / Mother to General Webb.'",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0028_000(follower_of_sir_peter_lely_portrait_of_jane_webb_nee_smith_seated_thre075506).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/follower-sir-peter-lely-28/294008?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1041.61,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+3bcedee4-629d-423a-b91a-6cba44f8496a,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 29,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,A Pair of George IV Ormolu Table Lamps,decorative arts,"ormolu, silk",N/A,N/A,21.75,in,no,yes,yes,1820,N/A,"table lamps, acanthus-cast shaft, triangular pedestals, ram's head masks, herons, cream silk shades, decorative ornaments, antique style, gold finish, lighting elements",2,N/A,original,"Each with a reeded and acanthus-cast shaft, supported on triangular pedestals after the antique, with ram's head masks and herons, with trimmed cream silk shades
+21
+3
+⁄
+4
+ in. (55.5 cm.) high, excluding fitments
+(2)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0029_000(a_pair_of_george_iv_ormolu_table_lamps_circa_1820_probably_originally114314).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-george-iv-ormolu-table-lamps-29/294011?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+e890ff07-da54-4967-b45f-daceacf7528f,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 30,GBP,15000,25000,N/A,N/A,18964.45,31607.41,N/A,N/A,GERRIT VAN HONTHORST (UTRECHT 1592-1656) AND STUDIO,1592,1656,"Portrait of a gentleman, bust-length, in armour, a flat lace collar and red sash, in a feigned sculpted oval",painting,oil on canvas,N/A,25.125,30,in,yes,yes,yes,1637,"Charles Marsham, 4th Earl of Romney (1841-1905), Mote Park, from whom acquired with Mote Park in 1895 by,
+Marcus Samuel, later 1st Viscount Bearsted (1853-1927), and by descent to his son,
+Colonel Walter Horace Samuel, 2nd Viscount Samuel (1882-1948); Christie's, London, 13 December 1929, lot 83, where unsold, and presumably by inheritance to his sister,
+Nellie Ionides, née Samuel (1883-1962), and by descent in 1968 to her grandson,
+Toby Jessel (1934-2018), The Old Court House, Hampton Court; Sotheby's, London, 30 April 2014, lot 725, as 'Gerrit van Honthorst'.","gentleman, portrait, armour, lace collar, red sash, oval frame, bust-length, curly hair, beard, background",1,N/A,studio of,"Portrait of a gentleman, bust-length, in armour, a flat lace collar and red sash, in a feigned sculpted oval
+signed and dated 'GHonthorst: 1637' ('GH' in ligature, centre right), and with later inscription 'G.Honthorst' (lower right)
+oil on canvas
+30 x 25
+1
+⁄
+8
+ in. (76.2 x 63.7 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0030_000(gerrit_van_honthorst_and_studio_portrait_of_a_gentleman_bust-length_in114339).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/gerrit-van-honthorst-utrecht-1592-1656-studio-30/294010?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,24101.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,28250.0,23541.666666666668
+65d178ee-2d92-46f1-be9e-ad05b13a5a66,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 31,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,GERRIT VAN HONTHORST (UTRECHT 1592-1656) AND STUDIO,1592,1656,"Portrait of a gentleman, bust-length, in armour, with a yellow sash and flat lace collar, in a feigned sculpted oval",painting,oil on canvas,N/A,25.125,30.125,in,yes,yes,yes,1638,"Charles Marsham, 4th Earl of Romney (1841-1905), Mote Park, from whom acquired with Mote Park in 1895 by,
+Marcus Samuel, later 1st Viscount Bearsted (1853-1927), and by descent to his son,
+Colonel Walter Horace Samuel, 2nd Viscount Samuel (1882-1948); Christie's, London, 13 December 1929, lot 80, where unsold, and presumably by inheritance to his sister,
+Nellie Ionides, née Samuel (1883-1962), and by descent in 1968 to her grandson,
+Toby Jessel (1934-2018), The Old Court House, Hampton Court; Sotheby's, London, 30 April 2014, lot 726, as 'Gerrit van Honthorst'.","gentleman, armour, yellow sash, lace collar, bust-length portrait",1,N/A,studio of,"Portrait of a gentleman, bust-length, in armour, with a yellow sash and flat lace collar, in a feigned sculpted oval
+signed and dated 'GHonthorst 1638' ('GH' in ligature, centre left), and with later inscription 'G.Honthorst' (lower right)
+oil on canvas
+30
+1
+⁄
+8
+ x 25
+1
+⁄
+8
+ in. (76.5 x 63.7 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0031_000(gerrit_van_honthorst_and_studio_portrait_of_a_gentleman_bust-length_in114403).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/gerrit-van-honthorst-utrecht-1592-1656-studio-31/294016?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12776.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+3fba64e6-24fe-4bb9-87f7-2387e5fd8e13,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 32,GBP,12000,18000,N/A,N/A,15171.56,22757.34,N/A,N/A,GERRIT VAN HONTHORST (UTRECHT 1592-1656) AND STUDIO,1592,1656,"Portrait of a gentleman, bust-length, with a blue sash and flat lace collar, in a feigned sculpted oval",painting,oil on canvas,N/A,63.8,76.2,cm,yes,yes,yes,1639,"Charles Marsham, 4th Earl of Romney (1841-1905), Mote Park, from whom acquired with Mote Park in 1895 by,
+Marcus Samuel, later 1st Viscount Bearsted (1853-1927), and by descent to his son,
+Colonel Walter Horace Samuel, 2nd Viscount Samuel (1882-1948); Christie's, London, 13 December 1929, lot 79, where unsold, and presumably by inheritance to his sister,
+Nellie Ionides, née Samuel (1883-1962), and by descent in 1968 to her grandson, 
+Toby Jessel (1934-2018), The Old Court House, Hampton Court; Sotheby's, London, 30 April 2014, lot 727, as 'Gerrit van Honthorst'.","gentleman, blue sash, lace collar, armor, portrait, oval frame, bust-length, historical attire, 17th century, male figure",1,N/A,studio of,"Portrait of a gentleman, bust-length, with a blue sash and flat lace collar, in a feigned sculpted oval
+signed and dated 'GHonthorst 1639 ('GH' in ligature, centre right), and with later inscription 'G.Honthorst' (lower right)
+oil on canvas
+30 x 25
+1
+⁄
+8
+ in. (76.2 x 63.8cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0032_000(gerrit_van_honthorst_and_studio_portrait_of_a_gentleman_bust-length_wi114427).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/gerrit-van-honthorst-utrecht-1592-1656-studio-32/294015?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,19306.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,19800.0,16500.0
+c93295c7-b608-47e0-ab91-9771c1b6c7f5,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 33,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,GERRIT VAN HONTHORST (UTRECHT 1592-1656) AND STUDIO,1592,1656,"Portrait of a gentleman, bust-length, in armour, with a grey sash and flat lace collar, in a feigned sculpted oval",painting,oil on canvas,N/A,25.125,30.25,in,yes,yes,yes,1637,"Charles Marsham, 4th Earl of Romney (1841-1905), Mote Park, from whom acquired with Mote Park in 1895 by,
+Marcus Samuel, later 1st Viscount Bearsted (1853-1927), and by descent to his son,
+Colonel Walter Horace Samuel, 2nd Viscount Samuel (1882-1948); Christie's, London, 13 December 1929, lot 82, where unsold, and presumably by inheritance to his sister,
+Nellie Ionides, née Samuel (1883-1962), and by descent in 1968 to her grandson,
+Toby Jessel (1934-2018), The Old Court House, Hampton Court; Sotheby's, London, 30 April 2014, lot 728, as 'Gerrit van Honthorst'.","gentleman, armour, grey sash, lace collar, portrait, bust-length",1,N/A,studio of,"Portrait of a gentleman, bust-length, in armour, with a grey sash and flat lace collar, in a feigned sculpted oval
+signed and dated 'G. Honthorst: 1637' (lower left), and with later inscription 'G.Honthorst' (lower right)
+oil on canvas
+30
+1
+⁄
+4
+ x 25
+1
+⁄
+8
+ in. (76.7 x 63.7 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0033_000(gerrit_van_honthorst_and_studio_portrait_of_a_gentleman_bust-length_in114454).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/gerrit-van-honthorst-utrecht-1592-1656-studio-33/294014?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12776.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+cada5ffb-8052-4c6e-bd79-daf66187b4c7,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 34,GBP,1200,1800,N/A,N/A,1517.16,2275.73,N/A,N/A,N/A,N/A,N/A,A Pair of French Ormolu Five-Light Candelabra Lamps,decorative arts,ormolu,N/A,N/A,27,in,no,yes,yes,1900,N/A,"candelabra, lamps, five candle branches, geese, dolphine, columnar shaft, embossed base, square plinth, electric fitments",1,N/A,original,"With a columnar acanthus-clasped shaft issuing five candle branches modeled as geese, on circular embossed base, on a square stepped plinth, each with one branch removed in order to stand closer to the wall, fitted for electricity
+27 in. (68.5 cm.) high, including fitments",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0034_000(a_pair_of_french_ormolu_five-light_candelabra_lamps_circa_1900122326).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-french-ormolu-five-light-candelabra-lamps-34/294017?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1941.67,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+3eb482b0-4bad-487e-9af2-664b0d9329a0,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 35,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,N/A,N/A,N/A,A Pair of English Neoclassical White-Painted Arched Marginal Mirrors,decorative arts,white-painted wood,N/A,37,70,in,no,yes,yes,18th century,"Town & Country: A Private Collection; Sotheby's, 14 December 2021, lot 89;
+where acquired by the present owner.","mirrors,sphinxes,arched design,neoclassical style,architectural elements,painted frame",2,N/A,original,"Each later painted frame formerly fitted and possibly part of an architectural scheme; the sphinxes of later date
+70 in. (178 cm.) high; 37 in. (93 cm.) wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0035_000(a_pair_of_english_neoclassical_white-painted_arched_marginal_mirrors_o122347).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-english-neoclassical-white-painted-arched-marginal-mirrors-35/294018?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,6419.44,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+3e0a1da3-9cd2-4393-a8ee-a42233cc31ec,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 36,GBP,40000,60000,N/A,N/A,50571.86,75857.79,N/A,N/A,"WALTER FREDERICK OSBORNE, R.H.A., R.O.I.",1859,1903,"Portrait of Mrs Meade, seated, three-quarter-length, in a black dress",painting,oil on canvas,N/A,42.5,48.625,in,yes,yes,yes,N/A,"Ada Louise Meade Coffey (1865-1931), and by descent to
+Michael Meade Carvill, and by descent until 
+Anonymous sale; James Adam and Sons, Dublin, 3 December 2014, lot 70, where purchased by the present owner.","woman, black dress, seated, three-quarter-length, red sofa, painting, indoor setting, jewelry, expression",1,N/A,original,"Portrait of Mrs Meade, seated, three-quarter-length, in a black dress
+signed 'Walter Osborne.' (upper left) and indistinctly signed and inscribed '******/Mrs Meade' (on the artist's label attached to the reverse)
+oil on canvas
+48
+5
+⁄
+8
+ x 42
+1
+⁄
+2
+ in. (123.5 x 108 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0036_000(walter_frederick_osborne_rha_roi_portrait_of_mrs_meade_seated_three-qu105246).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/walter-frederick-osborne-r-h-a-r-o-i-irish-1859-1903-36/294019?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,63801.14,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,66750.0,55625.0
+d0ad9798-b89a-4ede-9512-d18a68d5fa5c,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 37,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,In the manner of Henry Hill,N/A,N/A,A George III Mahogany Serving Table,furniture,mahogany,31.5,66.5,34.25,in,no,yes,yes,1760,"Anonymous sale; Christie's, London, 15 June 2000, lot 172, where acquired.","serving table, mahogany, veneer, Gothic fretwork, legs, geometric design, furniture",1,N/A,manner of,"The geometrically-veneered top above a blind Gothic fretwork frieze, on square chamfered channelled legsheaded by lappets
+34
+1
+⁄
+4
+ in. (87 cm.) high; 66
+1
+⁄
+2
+ in. (169 cm.) wide; 31
+1
+⁄
+2
+ in. (80 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0037_000(a_george_iii_mahogany_serving_table_in_the_manner_of_henry_hill_of_mar114637).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/george-iii-mahogany-serving-table-37/294020?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12777.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+cc60f39f-eb79-4f7c-b511-be42eacd0d3c,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 38,GBP,3000,5000,N/A,N/A,3792.89,6321.48,N/A,N/A,"IRISH SCHOOL, EARLY 19TH CENTURY",N/A,N/A,"A wooded landscape with figures and animals on a road, a lake and mountains beyond",painting,oil on canvas,N/A,39.5,29.25,in,no,yes,yes,N/A,"Anonymous sale; Sotheby's, London, 17 May 1989, lot 274, as 'Follower of William Ashford'.
+Anonymous sale; Christie's, London, 17 May 2001, lot 87, as 'Irish School, 19th Century'. 
+Anonymous sale; James Adam and Son, Dublin, 26 February 2020 (according to a label on the reverse).","wooded landscape, figures, animals, road, lake, mountains, trees, sky, hills, cattle",1,N/A,original,"A wooded landscape with figures and animals on a road, a lake and mountains beyond
+oil on canvas
+29
+1
+⁄
+4
+ x 39
+1
+⁄
+2
+ in. (74.4 x 100.2 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0038_000(irish_school_early_19th_century_a_wooded_landscape_with_figures_and_an114724).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/irish-school-early-19th-century-38/294021?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,4801.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+db1f7d57-fa8f-42b7-bd86-09265fb6cc1c,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 39,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,AN OAK AND UPHOLSTERED TWO SEAT SOFA,N/A,N/A,"20TH CENTURY, IN THE MANNER OF HOWARD AND SONS",furniture,striped sackcloth,38.5,66,34,in,no,yes,yes,20th century,N/A,"sofa, upholstery, striped fabric, oak, castors, furniture",1,N/A,original,"Covered in striped sackcloth, on castors
+34 in. (86 cm.) high; 66 in. (167.5 cm.) wide; 38
+1
+⁄
+2
+ in. (98 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0039_000(an_oak_and_upholstered_two_seat_sofa_20th_century_in_the_manner_of_how114748).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/oak-upholstered-two-seat-sofa-39/294023?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+3ede4cd2-03c4-4fd8-90d8-eb10f4ae6307,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 40,GBP,10000,15000,N/A,N/A,12642.97,18964.45,N/A,N/A,"JAMES DOYLE PENROSE, R.H.A.",1862,1932,A playful parry,painting,oil on canvas,N/A,36,24,in,yes,yes,yes,1895,"Anonymous sale; Christie's, South Kensington, 12 March 2008, lot 1.
+Private collection. 
+Anonymous sale; Sotheby's, London, 23 May 2013, lot 4.","woman, flowers, child, architecture, ocean, statue, musical instrument, garments, historical figures, sitting",1,N/A,original,"A playful parry
+signed and dated 'J. Doyle Penrose/1895.' (centre left)
+oil on canvas
+24 x 36 in. (61 x 91.5 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0040_000(james_doyle_penrose_rha_a_playful_parry114810).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/james-doyle-penrose-r-h-a-irish-1862-1932-40/294022?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,16389.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+9f557ff1-e51c-45ad-b789-5dd0b487ba6e,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 41,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,Serena Williams-Ellis,N/A,N/A,A Large Upholstered Ottoman,furniture,hand-woven striped fabric,47,63,19,in,no,yes,yes,N/A,N/A,"ottoman, geometric pattern, striped fabric, red color, decorative upholstery, rectangular form, stylized design",1,N/A,original,"Of rectangular form, covered in hand-woven striped fabric with stylized geometric pattern
+19 in. (48 cm.) high; 63 in. (160 cm.) wide; 47 in. (119 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0041_000(a_large_upholstered_ottoman_by_serena_williams-ellis114825).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/large-upholstered-ottoman-41/294024?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+03adf776-83eb-474c-9610-521d6d812f73,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 42,GBP,1200,1800,N/A,N/A,1517.16,2275.73,N/A,N/A,N/A,N/A,N/A,A Pair of Chinese Export Famille Rose Bowls,ceramics,ceramic,N/A,9.25,N/A,in,no,yes,yes,18th century,"The Collection of Mrs Paul Mellon; Sotheby's, New York, 21 November 2014, lot 1104.","British galleon, peony, scale-pattern, foliate devices, bowls, Chinese export, famille rose, floral decoration, maritime theme, porcelain",1,N/A,original,"Each painted on both sides with a British galleon alternating with a peony, the interior rim with scale-pattern cartouches alternating with foliate devices
+9
+1
+⁄
+4
+ in. (23.5 cm.) diameter",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0042_000(a_pair_of_chinese_export_famille_rose_bowls_18th_century114847).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-chinese-export-famille-rose-bowls-42/294025?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1941.04,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1950.0,1625.0
+cc002cc4-8da3-4230-8de6-1b1ed9d3a5ca,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 43,GBP,20000,30000,N/A,N/A,25285.93,37928.9,N/A,N/A,"RICHARD WILSON, R.A.",1713,1782,Phaeton's petition to Apollo,painting,oil on canvas,N/A,69.25,49.5,in,no,yes,yes,N/A,"(Probably) commissioned in Rome 
+c
+. 1754-55 by Francis Egerton, 3rd Duke of Bridgewater (1736-1803), by whom sold in May 1801 (according to Farington, 
+op. cit.
+).
+Walsh Porter (d. 1809); his sale, Christie's London, 22 March 1803 (=1st day), lot 52, where acquired for 185 gns. by,
+Peter Leopold Louis Francis Nassau Clavering-Cowper, 5th Earl Cowper (1778-1837), George Street, Hanover Square, London, and Panshanger, Hertfordshire, and by descent through his son,
+George Augustus Frederick Cowper, 6th Earl Cowper (1806-1856), at Panshanger, Hertfordshire, and by descent to his son,
+Francis Thomas De Grey Cowper, 7th Earl Cowper and 7th Baron Lucas (1834-1905), and by inheritance through his widow, 
+Katrine Cecilia Compton Cowper, Countess Cowper (1845-1913), to the granddaughter of the 6th Earl,
+Ethel, Lady Desborough (1867-1952), Panshanger; her sale (†), Christie's, London, 16 October 1953, lot 151.
+W.H.G.T. Turner, 1954.
+with H.M. Luther, London and New York, 1966.
+Anonymous sale; Sotheby's, London, 14 July 1976, lot 60.
+with Richard Feigen Gallery, New York, 
+c
+. 1982 (according to Paul Mellon Centre Research Files).
+David Keith Ford Heathcote (1922-1999), Badlingham Manor; Christie's, London, 12 November 1999, lot 41, where acquired by the present owner.","landscape, sunset, figures, trees, ruins, mountains, sky, people, drapery, architecture",1,1713/14,original,"Phaeton's petition to Apollo
+oil on canvas
+49
+1
+⁄
+2
+ x 69
+1
+⁄
+4
+ in. (125.7 x 175.9 cm.)
+
+Edition: 1713/14",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0043_000(richard_wilson_ra_phaetons_petition_to_apollo114909).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/richard-wilson-r-a-penegoes-1713-14-1782-colomendy-43/294026?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,32771.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,34500.0,28750.0
+92570adc-2315-4467-b95b-bee8084ff351,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 44,GBP,500,800,N/A,N/A,632.15,1011.44,N/A,N/A,N/A,N/A,N/A,20TH CENTURY,furniture,"green leather, cherrywood, brass",N/A,N/A,81,in,no,yes,yes,N/A,N/A,"library ladder, cherrywood, brass clasp, folding design, height 81 in., English furniture",1,N/A,original,"With six cherrywood rungs and brass closing clasp
+81 in. (205.5 cm.) high, open",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0044_000(an_english_close-nailed_green_leather-bound_folding_library_ladder_20t042426).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/english-close-nailed-green-leather-bound-folding-library-ladder-44/294027?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1277.57,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,820.0,683.3333333333334
+937cb785-ae29-492a-b1a7-def6441a6a84,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 45,GBP,6000,10000,N/A,N/A,7585.78,12642.97,N/A,N/A,"CONTINENTAL SCHOOL, CIRCA 1800",N/A,N/A,An extensive Italianate landscape with the calling of Cincinnatus from the plough,painting,oil on canvas,N/A,79.75,62,in,no,yes,yes,1800,N/A,"landscape, trees, river, buildings, figures, oxen, hills, sky, agriculture, classical",1,N/A,attributed to,"CONTINENTAL SCHOOL, 
+CIRCA 
+1800
+An extensive Italianate landscape with the calling of Cincinnatus from the plough
+oil on canvas
+62 x 79
+3
+⁄
+4
+ in. (157.4 x 202.5 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0045_000(continental_school_circa_1800_an_extensive_italianate_landscape_with_t114932).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/continental-school-circa-1800-45/294028?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+38685dd9-a816-4d72-964e-ae2ef50648d5,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 46,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,A PAIR OF IRISH MAHOGANY ARMCHAIRS,furniture,"Irish mahogany, upholstery",24,27,41.25,in,no,yes,yes,20th century,"Possibly Adams Auctioneers, Dublin, sale untraced.","pair of armchairs, mahogany, upholstery, carved details, Georgian style, decorative design, furniture",1,N/A,original,"In the George II style, upholstered in Guy Goodfellow 'Blue Fez' weave
+41
+1
+⁄
+4
+ in. (104.5 cm.) high; 27 in. (68.5 cm.) wide; 24 in. (61 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0046_000(a_pair_of_irish_mahogany_armchairs_20th_century114954).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-irish-mahogany-armchairs-46/294031?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+f1e8b04d-6a0f-4a75-9234-b67c6c2a4a5f,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 47,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,Attributed to Morel & Seddon,N/A,N/A,"A Regency Ormolu-Mounted, Parcel-Gilt and Pollard Oak Side Cabinet",furniture,"ormolu, parcel-gilt, pollard oak, marble",21,72.5,41.5,in,no,yes,yes,1825,"Anonymous sale; Christie's, London, 13 March 1980, lot 116.
+Anonymous sale; Sotheby's London, 12 November 1999, lot 108.","cabinet, marble top, glazed doors, faux book spines, adjustable shelves, turned supports, ormolu border, palmette capitals, stepped plinth, patterned borders",1,N/A,attributed to,"With rectangular grey-veined white marble top, above a leaf-tip moulding, the moulded frieze above two glazed doors with foliate borders and inset with faux book spines, including titles by Byron, Tennyson, Schlegel and Racine, opening to reveal an interior with two adjustable shelves flanked by two turned and reeded supports, headed by scrolling palmette capitals and terminating in turned foliate collars, in front of an inset panel with ormolu border on a square stepped plinth, the simulated bookspines probably associated
+41½in. (105.5 cm.) high; 72½in. (184 cm.) wide; 21in. (53 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0047_000(a_regency_ormolu-mounted_parcel-gilt_and_pollard_oak_side_cabinet_circ091028).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/regency-ormolu-mounted-parcel-gilt-pollard-oak-side-cabinet-47/294029?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12777.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+b5e5a3fd-2276-4baa-8af6-af6bbfc338ba,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 48,GBP,800,1200,N/A,N/A,1011.44,1517.16,N/A,N/A,N/A,N/A,N/A,"THE VASE QING DYNASTY (1644-1911), LATER MOUNTED AS A TABLE LAMP",decorative arts,"ceramic, ormolu, fabric",N/A,N/A,25.75,in,no,yes,yes,1644,N/A,"lamp, blue and white porcelain, foliate base, cream shade, fringe trim",1,N/A,original,"The flared baluster body decorated with scrolling leaves and foliage, on a foliate pierced ormolu base; fitted for electricity, with a cream card shade with a fringe trim
+25
+3
+⁄
+4
+ in. (65.5 cm.) high, including mount, excluding fitments",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0048_000(an_ormolu-mounted_chinese_kangxi-style_blue_and_white_moulded_phoenix-115112).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/ormolu-mounted-chinese-kangxi-style-blue-white-moulded-phoenix-tail-48/294030?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1275.67,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1325.0,1104.1666666666667
+50d48949-fff0-4ead-a5ad-45454084ab51,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 49,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,FOLLOWER OF CLAUDE LORRAIN,N/A,N/A,The Father of Psyche Offering Sacrifice at the Temple of Apollo,painting,oil on canvas,N/A,82.625,63.5,in,no,yes,yes,N/A,"Anonymous sale; Philips, London, 20 April 2000, lot 86, as 'After Claude Lorrain'.","temple, sacrifice, trees, mountains, river, figures, architecture, animals, sky, landscape",1,N/A,style of/follower of,"The Father of Psyche Offering Sacrifice at the Temple of Apollo
+oil on canvas
+63
+1
+⁄
+2
+ x 82
+5
+⁄
+8
+ in. (161.2 x 209.9 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0049_000(follower_of_claude_lorrain_the_father_of_psyche_offering_sacrifice_at115135).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/follower-claude-lorrain-49/294032?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12776.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,12650.0,10541.666666666668
+d5193477-1049-48c2-a555-397394891ea4,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 50,GBP,3000,5000,N/A,N/A,3792.89,6321.48,N/A,N/A,William Hill Brancker,N/A,N/A,A Set of Twelve Carved Oak Hunting Scenes,decorative arts,carved oak,N/A,18.5,13.75,in,yes,yes,yes,19th century,"Eight bought from Rowley's of Suffolk, 17 February 2013, lot 26.
+With James Graham-Stewart.","hunting scenes, horses, dogs, riders, landscapes, trees, fences, animals, action, mounted figures",12,N/A,original,"Each in ebonized molded frames, signed with monogram 'WHB' to lower left
+Largest: 13
+3
+⁄
+4
+ in. (44.7 cm.) high; 18
+1
+⁄
+2
+ in. (47 cm.) wide
+Smallest: 12
+1
+⁄
+4
+ in. (31.5 cm.) high; 18 in. (46.5 cm.) wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0050_000(a_set_of_twelve_carved_oak_hunting_scenes_by_william_hill_brancker_19t115158).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/set-twelve-carved-oak-hunting-scenes-50/294033?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,4808.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+3c0473eb-fe74-4d99-9844-5c1e9ca80cfe,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 51,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,A KARADJA CARPET,N/A,N/A,"NORTH WEST PERSIA, CIRCA 1890",decorative arts,wool,N/A,10.42,17.75,in,no,yes,yes,1890,N/A,"carpet, floral patterns, animals, geometric design, red background, blue background, bordered, traditional design, decorative arts, Persian",1,N/A,original,"Areas of uneven wear and associated repiling, selvages rebound, end guard stripes rewoven
+17ft.9in. x 10ft.5in. (546cm. x 322cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0051_000(a_karadja_carpet_north_west_persia_circa_1890115504).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/karadja-carpet-51/294034?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+15c24574-6033-4b1b-abb4-66426aec0212,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 52,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,STUDIO OF SIR PETER LELY,1618,1680,"Portrait of Louise Renée de Penancoët de Kérouaille, Duchess of Portsmouth",painting,oil on canvas,N/A,35.75,46.25,in,yes,yes,yes,N/A,"Mr Fraser, by October 1954 (according to Agnew's stock books). 
+Anonymous sale; Christie's London, 11 June 1999, lot 20, as 'Sir Peter Lely and Studio'.","portrait, woman, red dress, green drapery, orange tree, curly hair, three-quarter-length, floral, classical background, historical figure",1,N/A,studio of,"Portrait of Louise Renée de Penancoët de Kérouaille, Duchess of Portsmouth (1649-1734), three-quarter-length, in a red dress with green drapery next to an orange tree
+oil on canvas
+46
+1
+⁄
+4
+ x 35
+3
+⁄
+4
+ in. (117.4 x 90.7 cm.)
+with signature 'Sir P Lely' (lower right)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0052_000(studio_of_sir_peter_lely_portrait_of_louise_renee_de_penancoet_de_kero115518).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/studio-sir-peter-lely-soest-westphalia-1618-1680-london-52/294035?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12777.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+086de9af-719f-400c-af55-d7e89da7f563,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 53,GBP,2000,4000,N/A,N/A,2528.59,5057.19,N/A,N/A,N/A,N/A,N/A,EARLY 19TH CENTURY,furniture,"cotton, wood, gilt",25.25,71.75,34,in,no,yes,yes,1810,N/A,"sofa, upholstery, striped fabric, acanthus, leaves, legs, castors, Regency style, black and gilt, decorative elements",1,N/A,original,"The rectangular back and arms upholstered in striped cotton with a squab cushion on downswept arms decorated with trailing leaves, the seat rail embellished with trailing acanthus on ring turned tapering legs terminating in castors, with batten-carrying holes, redecorated
+34 in. (86.5 cm) high; 71
+3
+⁄
+4
+ in. (182 cm) wide; 25
+1
+⁄
+4
+ in. (64 cm) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0053_000(a_regency_black_and_gilt_japanned_sofa_early_19th_century115541).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/regency-black-gilt-japanned-sofa-53/294036?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+03381eb4-33c5-4170-a06c-9b7dc3170e1f,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 54,GBP,8000,12000,N/A,N/A,10114.37,15171.56,N/A,N/A,N/A,N/A,N/A,A MAHOGANY FOUR POSTER BED,furniture,"mahogany, painted cotton, embroidered cotton",80,85,112,in,no,yes,yes,1810,N/A,"four-poster bed, canopy, embroidered cotton, blue hangings, mahogany, bedroom, chandelier, framed art, side table, bookshelf",1,N/A,original,"With painted canopy, hung with embroidered cotton and blue printed inner canopy and hangings
+112
+1
+⁄
+2
+ in. (286 cm.) high; 85 in. (216 cm.) wide; 80 in. (203 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0054_000(a_mahogany_four_poster_bed_george_iv_early_19th_century_and_later115604).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/mahogany-four-poster-bed-54/294037?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,12777.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+12845109-4dfc-4548-9069-df7d1ff941e6,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 55,GBP,7000,10000,N/A,N/A,8850.08,12642.97,N/A,N/A,CHARLES COLLINS,1680,1744,"Two ornithological watercolours, including a European Golden Plover and a Slender Billed Curlew",drawing,"pencil, watercolour and bodycolour on paper",N/A,14,17,in,yes,yes,yes,1737,"Henry Rogers Broughton, 2nd Baron Fairhaven (1900-1973).
+His sale; Sotheby's, London, 9 July 2014, lot 207 (part lot), where purchased by the present owner.","European Golden Plover, Slender Billed Curlew, birds, watercolour, ornithological illustration",2,N/A,original,"Two ornithological watercolours, including a European Golden Plover and a Slender Billed Curlew
+the first signed and dated 'C- Collins. Fec
+t
+./1737.' (lower left)
+each pencil, watercolour and bodycolour on paper
+each 17 x 14 in. (43 x 35.5 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0055_000(charles_collins_two_ornithological_watercolours_including_a_european_g121225).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/charles-collins-1680-1744-55/294038?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,11403.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11400.0,9500.0
+6ad979a8-8223-452d-b0bf-84c758e7ce6c,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 56,GBP,5000,8000,N/A,N/A,6321.48,10114.37,N/A,N/A,ATTRIBUTED TO CHARLES COLLINS,1680,1744,"Two ornithological watercolours, including a pair of Swifts and a pair of Woodlarks",drawing,"pencil, watercolour and bodycolour on paper",N/A,20,14.5,in,no,yes,yes,N/A,"Henry Rogers Broughton, 2nd Baron Fairhaven (1900-1973).
+His sale; Sotheby's, London, 9 July 2014, lot 207 (part lot), where purchased by the present owner.","Swifts, Woodlarks, birds, watercolour, nature, flora, landscapes, feathers, wildlife, ornithology",2,N/A,attributed to,"Two ornithological watercolours, including a pair of Swifts and a pair of Woodlarks
+pencil, watercolour and bodycolour on paper, one watermarked with a fleur de lys and crown above, LVG below
+the first 14
+1
+⁄
+2
+ x 20 in. (37 x 50.5 cm.); the second 13 x 19
+1
+⁄
+4
+ in. (33 x 49 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0056_000(attributed_to_charles_collins_two_ornithological_watercolours_includin121335).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/attributed-charles-collins-1680-1744-56/294887?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10076.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+34202d2d-d3c2-492f-87f0-9548534b56f0,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 57,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,CHARLES COLLINS,1680,1744,"Two ornithological watercolours, including a pair of Great Tits and a pair of Blue Tits",drawing,"pencil, watercolour, bodycolour on paper",N/A,14,18,in,yes,yes,yes,1743,"Henry Rogers Broughton, 2nd Baron Fairhaven (1900-1973).
+His sale; Sotheby's, London, 9 July 2014, lot 206 (part lot), where purchased by the present owner.","Great Tits, Blue Tits, branches, trees, grass, ornithology, watercolors, nature, birds, wildlife",2,N/A,original,"Two ornithological watercolours, including a pair of Great Tits and a pair of Blue Tits
+the first signed and dated 'Cha. Collins. Fec
+t
+. May. 1743' (lower left)
+the first pencil, watercolour and bodycolour on paper, the second pencil and watercolour, heightened with bodycolour on paper
+the first 18 x 14 in. (46 x 35.5 cm.); the second 15
+1
+⁄
+2
+ x 13 in. (39.5 x 33 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0057_000(charles_collins_two_ornithological_watercolours_including_a_pair_of_gr121440).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/charles-collins-1680-1744-57/294040?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6700.0,5583.333333333334
+540b4f4b-7dad-4640-b3a1-50b7af6b23e4,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 58,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,CHARLES COLLINS,1680,1744,Two ornithological watercolours including a pair of Eurasian Wrynecks and a pair of Thrushes,drawing,"pencil, watercolour and bodycolour on paper",N/A,14,16.75,in,yes,yes,yes,1742,"Henry Rogers Broughton, 2nd Baron Fairhaven (1900-1973).
+His sale; Sotheby's, London, 9 July 2014, lot 206 (part lot), where purchased by the present owner.","Eurasian Wrynecks, Thrushes, birds, branches, rocks, watercolour, ornithology",2,N/A,original,"Two ornithological watercolours including a pair of Eurasian Wrynecks and a pair of Thrushes
+the first signed and dated 'Cha. Collins MAY. 1742' (lower right)
+each pencil, watercolour and bodycolour on paper
+each 16
+3
+⁄
+4
+ x 14 in. (42.5 x 35.5 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0058_000(charles_collins_two_ornithological_watercolours_including_a_pair_of_eu121552).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/charles-collins-1680-1744-58/294888?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6820.0,5683.333333333334
+30398f97-6746-44a6-8e2b-a372ed41972e,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 59,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,FOLLOWER OF CHARLES COLLINS,1680,1744,Three ornithological watercolours including a Greylag Goose; a White Bellied Diver; and a pair of Smews,drawing,"pencil and watercolour, heightened with bodycolour on paper",N/A,20,13,in,no,yes,yes,N/A,"Henry Rogers Broughton, 2nd Baron Fairhaven (1900-1973).
+His sale; Sotheby's, London, 9 July 2014, lot 207 (part lot), where purchased by the present owner.","Greylag Goose, White Bellied Diver, Smews",3,N/A,style of/follower of,"Three ornithological watercolours including a Greylag Goose; a White Bellied Diver; and a pair of Smews
+all pencil and watercolour, heightened with bodycolour on paper
+the first 13 x 20 in. (33.5 x 51 cm.); the second 13 x 20
+3
+⁄
+4
+ in. (33.5 x 52.5 cm.); the third 13 x 20
+1
+⁄
+2
+ in. (33.5 x 52 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0059_000(follower_of_charles_collins_three_ornithological_watercolours_includin121650).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/follower-charles-collins-1680-1744-59/294913?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+8d995d26-0926-4d5b-92f6-c7a1361f315e,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 60,GBP,3000,5000,N/A,N/A,3792.89,6321.48,N/A,N/A,In the manner of John Linnell,N/A,N/A,A Pair of George III Parcel-Gilt and Cream-Painted Armchairs,furniture,"parcel-gilt, cream-painted wood, green floral silk",18,24.75,37.25,in,no,yes,yes,1775,N/A,"armchairs, green floral silk, padded back, turned tapering fluted legs, serpentine fluted seat rail",2,N/A,manner of,"Each with padded back, arms and seat, upholstered in green floral silk with downswept arms above a serpentine fluted seat rail on turned tapering fluted legs terminating in toupee feet, redecorated
+each: 37
+1
+⁄
+4
+ in. (96 cm.) high; 24
+3
+⁄
+4
+ in. (63 cm.) wide; 18 in. (46 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0060_000(a_pair_of_george_iii_parcel-gilt_and_cream-painted_armchairs_circa_177115621).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-george-iii-parcel-gilt-cream-painted-armchairs-60/294043?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,4801.61,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+d7954551-a116-4e63-893e-3a0486d4f92a,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 61,GBP,6000,10000,N/A,N/A,7585.78,12642.97,N/A,N/A,A CHINESE EXPORT PAINTED WALL PANEL,N/A,N/A,EARLY 19TH CENTURY,decorative arts,painted cloth laid on board,N/A,132.5,96,in,no,yes,yes,1810,"Recorded as being in the collection of Hubert de Givenchy;
+then the Property of a Gentleman; Christie's, London, 17 November 1994, lot 120.
+1000 Ways Of Seeing: The Private Collection Of The Late Stanley J. Seeger; Sotheby's, London, 5 March 2014, lot 385; 
+where acquired by the present owner.","peacocks,birds,trees,flowers,leaves,floral patterns,greenery,bolts of cloth,wall panel,ornamental design",1,N/A,original,"Depicting peacocks and other birds amidst trees and flowers, painted cloth laid on board in three sections
+96 in. (244 cm.) high; 132
+1
+⁄
+2
+ in. (137 cm.) wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0061_000(a_chinese_export_painted_wall_panel_early_19th_century115658).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/chinese-export-painted-wall-panel-61/294044?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10401.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+c3a4a053-1a50-4b99-822c-1d5954e5e9ac,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 62,GBP,1500,2500,N/A,N/A,1896.44,3160.74,N/A,N/A,N/A,N/A,N/A,A PAIR OF BLUE AND WHITE DUTCH DELFT TRUMPET VASE TABLE LAMPS,decorative arts,"ceramics, silk",N/A,N/A,17,in,no,yes,yes,19th century,N/A,"lamp, vase, flowers, blue, white, silk shade, decoration, cartouches",2,N/A,original,"Each decorated with shaped cartouches of flowers; each fitted for electricity, with trimmed cream silk shades
+17in. (43 cm.) high, excluding fitments
+(2)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0062_000(a_pair_of_blue_and_white_dutch_delft_trumpet_vase_table_lamps_19th_cen115737).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-blue-white-dutch-delft-trumpet-vase-table-lamps-62/294045?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,2401.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2450.0,2041.6666666666667
+4f4add70-6d15-4ef0-8d05-1e3c8eaa9f86,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 63,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,A NORTH ITALIAN,N/A,N/A,PIEDMONT,decorative arts,cream-painted and polychrome-decorated wood,N/A,48.5,77.5,in,no,yes,yes,1760,"The Collection of Giorgio Marsan and Umberta Nasi; Christie's, London, 12-13 December 2007, lot 455.
+Property of a Lady of Title; Christie's, London, 5 July 2013, lot 87;
+where acquired by the present owner.","glazed panel, foliate branches, floral decoration, birds, moulded frame, overmantel, mirror, chandelier, interior design, North Italian style",1,N/A,original,"Of rectangular form with shaped rectangular glazed panel bordered and surmounted by foliate and floral naturalistic carved branches with birds, within a moulded frame border, the decoration refreshed in areas
+77½ in. (197 cm.) high; 48½ in. (123 cm.) wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0063_000(a_north_italian_cream-painted_and_polychrome-decorated_overmantel_bois115804).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/north-italian-cream-painted-polychrome-decorated-overmantel-boiserie-63/294047?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6700.0,5583.333333333334
+898ed3af-7821-49cc-914e-ffa5b8cfa961,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 64,GBP,30000,50000,N/A,N/A,37928.9,63214.83,N/A,N/A,"SIR JOSHUA REYNOLDS, P.R.A.",1723,1792,"Portrait of Sophia Southwell, née Campbell, later Lady de Clifford",painting,oil on canvas,N/A,25.75,31.125,in,no,yes,yes,N/A,"By descent from the sitter to her son, 
+Edward Southwell, 21st Baron de Clifford (1767-1832), King's Weston; his sale (†), Christie's, London, 20 April 1833, lot 56, as 'Sir Joshua Reynolds. Portrait of the Dowager Lady Clifford, in an oval- very spirited' (40 gns. to Smart).
+(Possibly) re-acquired by the de Clifford Family, from whom acquired 
+circa 
+1884-1888 (see Graves and Cronin, 
+op. cit.
+, III, p. 915), by,
+with Charles Wertheimer, London, where acquired on 23 March 1888 by,
+with Thomas Agnew & Sons, where acquired on 30 April 1888 by,
+James Price, from whom acquired on 21 June 1893 by,
+with Thomas Agnew & Sons, where acquired on 2 June 1894 by,
+Abel Buckley (1835-1908), from whose executors acquired on 17 February 1910 by,
+with Thomas Agnew & Sons, where acquired on 12 July 1910 by, 
+G.L. Bevan, from whom acquired on 18 July 1910 by,
+with Thomas Agnew & Sons, where acquired on 11 April 1911 by,
+Joseph Bruce Ismay (1862-1937), and by descent to the seller at the following,
+Anonymous sale [Property from a Private Collection]; Sotheby's, London, 4 July 2013, lot 195.","portrait, woman, bust-length, oil on canvas, blue sky, gold fabric, jewelry, historical figure, Lady de Clifford, 18th century",1,N/A,original,"Portrait of Sophia Southwell, née Campbell, later Lady de Clifford (1743-1828), bust-length
+oil on canvas, the corners made up
+31
+1
+⁄
+8
+ x 25
+3
+⁄
+4
+ in. (79.1 x 65.4 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0064_000(sir_joshua_reynolds_pra_portrait_of_sophia_southwell_nee_campbell_late115858).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/sir-joshua-reynolds-p-r-a-plympton-1723-1792-london-64/294046?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,48081.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,54000.0,45000.0
+a993b661-6b1a-43e3-be78-4010b79ea534,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 65,GBP,10000,15000,N/A,N/A,12642.97,18964.45,N/A,N/A,N/A,N/A,N/A,A Pair of George I Walnut Six-Drawer Chests,furniture,walnut,17.25,30.5,29.75,in,no,yes,yes,1700,"The Estate of Mary, Duchess of Roxburghe; Sotheby's, London, 27 May 2015, lot 276,
+where acquired.","walnut chests, six drawers, bracket feet, brass handles, moulded edges, antique furniture",2,N/A,original,"The tops with moulded edges, over six long drawers, on bracket feet, the handles replaced
+29
+3
+⁄
+4
+ in. (75.5 cm.) high; 30
+1
+⁄
+2
+ in. (77.5 cm.) wide; 17
+1
+⁄
+4
+ in. (44 cm.) deep
+(2)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0065_000(a_pair_of_george_i_walnut_six-drawer_chests_first_quarter_18th_century115931).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-george-i-walnut-six-drawer-chests-65/294048?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,16389.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16000.0,13333.333333333334
+e3aa4c53-9b72-476f-b4f0-4afb1acc7fe4,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 66,GBP,3000,5000,N/A,N/A,3792.89,6321.48,N/A,N/A,MARY BATTERSBY,1801,1841,"Five ornithological watercolours, including a Marsh Tit; Grey Flycatcher; Yellow Wagstaff; Spotted Flycatcher; and Red Browed Finch",drawing,"pencil, pen and grey ink and watercolour on paper, two heightened with touches of bodycolour",N/A,7.25,8.25,in,no,yes,yes,1841,"Anonymous sale; James Adam and Sons, Dublin, 13-14 October 2013, lot 129 (part lot), where purchased by the present owner.","Marsh Tit, Grey Flycatcher, Yellow Wagstaff, Spotted Flycatcher, Red Browed Finch",5,N/A,original,"Five ornithological watercolours, including a Marsh Tit; Grey Flycatcher; Yellow Wagstaff; Spotted Flycatcher; and Red Browed Finch
+the first inscribed 'The Marsh Titmouse./Parus Palustris -' (
+verso
+); the second inscribed 'The Grey Flycatcher/Musicicapa grisola' (
+verso
+); the third inscribed 'Yellow Wagstaff/Motacilla Flava-' (lower right); the fourth indistinctly inscribed 'Spotted Flycatcher/Muscicapa Grisola-' (
+verso
+); the fifth inscribed 'Sparrow/New Holland' (
+verso
+)
+all pencil, pen and grey ink and watercolour on paper, two heightened with touches of bodycolour
+the largest 8
+1
+⁄
+4
+ x 7
+1
+⁄
+4
+ in. (21 x 18.5 cm.) and slightly smaller",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0066_000(mary_battersby_five_ornithological_watercolours_including_a_marsh_tit010142).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/mary-battersby-irish-c-1801-1841-66/294049?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,4801.61,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+f8f721d1-c0e8-4959-be17-c9442dd02716,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 67,GBP,1500,2500,N/A,N/A,1896.44,3160.74,N/A,N/A,Howard & Sons,N/A,N/A,A Victorian Walnut Easy Armchair,furniture,"walnut, linen, brass",31,29,34,in,no,yes,yes,1890,N/A,"armchair, light grey linen, wooden legs, brass caps, castors",1,N/A,original,"The rectangular back and seat covered in light grey linen, on ring-turned legs with brass caps and castors, the castors stamped 'HOWARD & SONS LONDON', the back left leg stamped '19968 2791'
+34 in. (37 cm.) high; 29 in. (73.5 cm.) wide; 31 in. (79 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0067_000(a_victorian_walnut_easy_armchair_by_howard_amp_sons_late_19th_century120008).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/victorian-walnut-easy-armchair-67/294050?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,2418.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2450.0,2041.6666666666667
+c0357658-0ad9-472e-bd77-26e9fa045bd0,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 68,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,CIRCLE OF CHARLES JERVAS,1675,1739,"Portrait of a lady, three-quarter-length, in a white dress with blue drapery, in a landscape",painting,oil on canvas,N/A,40.75,50.125,in,no,yes,yes,N/A,"Anonymous sale; James Adams and Son, Dublin, 25 February 2020 (according to a label on the reverse).","portrait, lady, white dress, blue drapery, landscape",1,N/A,circle of,"Portrait of a lady, three-quarter-length, in a white dress with blue drapery, in a landscape
+oil on canvas
+50
+1
+⁄
+8
+ x 40
+3
+⁄
+4
+ in. (127.2 x 103.5 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0068_000(circle_of_charles_jervas_portrait_of_a_lady_three-quarter-length_in_a120039).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/circle-charles-jervas-dublin-c-1675-1739-london-68/294051?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10616.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+37ff4fed-3aa4-4be9-9325-09d963ce3e0e,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 69,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,18TH CENTURY FOR THE EUROPEAN MARKET,decorative arts,Printed and painted fabric,N/A,74,92,in,no,yes,yes,N/A,"Anonymous sale; Christie's South Kensington, 16 October 2002, lot 44.","tree of life, rocky mound, exotic birds, floral elements, leaves, mountains, flowers, patterns",1,N/A,original,"Printed and painted with a tree of life on a rocky mound, flanked by two exotic birds, mounted on a stretcher for display
+92 in. (234 cm.) x 74 in. (188 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0069_000(an_indian_palampore_18th_century_for_the_european_market120104).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/indian-palampore-69/294262?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3150.0,2625.0
+872def6c-d527-4788-b85b-dfe184447ac6,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 70,GBP,5000,8000,N/A,N/A,6321.48,10114.37,N/A,N/A,"DUTCH SCHOOL, 18TH CENTURY",N/A,N/A,"Eight ornithological watercolours, including a Guinea Fowl; Pied Wagtail; Oriental Darter; Ptarmigan; Corn Crake; Reed Cormorant; Blue Bustard; and a variety of Rail",drawing,"pencil and watercolour, heightened with bodycolour on paper",N/A,7.75,8.5,in,no,yes,yes,18th century,"Anonymous sale; Sotheby's, London, 28 October 2014, lot 198, where purchased by the present owner.","Guinea Fowl, Pied Wagtail, Oriental Darter, Ptarmigan, Corn Crake, Reed Cormorant, Blue Bustard, Rail",1,N/A,attributed to,"Eight ornithological watercolours, including a Guinea Fowl; Pied Wagtail; Oriental Darter; Ptarmigan; Corn Crake; Reed Cormorant; Blue Bustard; and a variety of Rail
+pencil and watercolour, heightened with bodycolour on paper
+the largest 8
+1
+⁄
+2
+ x 7
+3
+⁄
+4
+ in. (22 x 19.5 cm.) and slightly smaller",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0070_000(dutch_school_18th_century_eight_ornithological_watercolours_including055044).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/dutch-school-18th-century-70/294052?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10406.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,8500.0,7083.333333333334
+120a375a-ac08-4b8d-9ea9-bf26ab8b0a35,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 71,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,A George II Giltwood Mirror,decorative arts,giltwood,N/A,27,46.5,in,no,yes,yes,1750,N/A,"mirror, giltwood, birds, scallop, floral, foliate, decorative, ornate",1,N/A,original,"The cresting flanked by two birds of paradise centred by a scallop, the edges decorated with further floral and folate trails, the scallop motif repeated to the centre of the apron; with later plate, regilt
+46
+1
+⁄
+2
+ in. (118 cm.) high; 27 in. (68.7 cm.) wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0071_000(a_george_ii_giltwood_mirror_irish_circa_1750120346).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/george-ii-giltwood-mirror-71/294053?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+80f1c2ef-cb40-432d-a6fe-f475b3d5abd7,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 72,GBP,20000,30000,N/A,N/A,25285.93,37928.9,N/A,N/A,JOHN EMMS,1841,1912,"Seven portraits of hounds, including Warlock; Tastewell; Gabriel; Gallant; Redrose; Tastety; and Tomboy",painting,oil on canvas,N/A,21,17,in,yes,yes,yes,1904,"Henry Francis Compton of Minstead Manor, New Forest, and thence by descent to the previous owner.
+Anonymous sale; Sotheby's, London, 10 December 2014, lot 73, where purchased by the present owner.","hounds, portraits, Warlock, Tastewell, Gabriel, Gallant, Redrose, Tastety, Tomboy",1,N/A,original,"Seven portraits of hounds, including Warlock; Tastewell; Gabriel; Gallant; Redrose; Tastety; and Tomboy
+each signed, titled and variously dated between 1904 and 1907 (to lower edge)
+oil on canvas
+17 x 21 in. (43 x 53.5 cm.); and smaller",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0072_000(john_emms_seven_portraits_of_hounds_including_warlock_tastewell_gabrie055415).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/john-emms-british-1841-1912-72/294054?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,32779.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+1c8b57ab-9a7a-4cf1-bd37-4279b83eb02d,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 73,GBP,1200,1800,N/A,N/A,1517.16,2275.73,N/A,N/A,N/A,N/A,N/A,A PAIR OF GILTWOOD-MOUNTED BLUE AND WHITE MONTELUPO-STYLE MAIOLICA VASES,decorative arts,"giltwood, maiolica",N/A,N/A,13.25,in,no,yes,yes,19th century,N/A,"vases, blue and white, giltwood, foliage, masks, looped handles, round bases, lamps, cream shades",2,N/A,original,"Each of baluster form, decorated with scrolling foliage, the sides applied with masks and looped handles, each on a round giltwood base; each fitted for electricity, with a cream card shade
+13
+1
+⁄
+4
+ in. (34 cm.) high, excluding fitments
+(2)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0073_000(a_pair_of_giltwood-mounted_blue_and_white_montelupo-style_maiolica_vas120725).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/pair-giltwood-mounted-blue-white-montelupo-style-maiolica-vases-73/294055?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1906.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1800.0,1500.0
+e2375bec-45a3-483b-b285-e4476d2c8ded,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 74,GBP,3000,5000,N/A,N/A,3792.89,6321.48,N/A,N/A,"CIRCLE OF ALESSANDRO VAROTARI, CALLED IL PADOVANINO",1588,1648,Susannah and the Elders,painting,oil on canvas,N/A,72,61.25,in,no,yes,yes,N/A,"Anonymous sale; Bonhams, Knightsbridge, 5 July 2000, lot 22, as 'Circle of Giovanni Battista Langetti', where unsold.","Susannah, elders, child, water, drapery, historical figures, male figures, nude, garden, classical",1,N/A,circle of,"Susannah and the Elders
+oil on canvas
+61
+1
+⁄
+4
+ x 72 in. (155.5 x 182.9 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0074_000(circle_of_alessandro_varotari_called_il_padovanino_susannah_and_the_el105306).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/circle-alessandro-varotari-called-il-padovanino-padua-1588-1648-venice-74/294056?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,4801.61,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4500.0,3750.0
+ae3fa5d4-c33f-4252-acec-7121182851fe,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 75,GBP,10000,15000,N/A,N/A,12642.97,18964.45,N/A,N/A,A FRENCH HUNTING TAPESTRY,N/A,N/A,"FELLETIN, 18TH CENTURY",decorative arts,"Wool, linen, silk",N/A,182,104.5,in,no,yes,yes,1700,"Anonymous sale; Sotheby's, London, 24 September 2013, lot 206,
+where acquired by the present owner.","hunting scene, chateau, men, horses, dogs, deer, trees, water, flowers, floral border",1,N/A,original,"Wool, linen, silk, within a four-sided floral border on a sable coloured ground, the central composition depicting a hunting scene in the grounds of a chateau, with the town and weaver's marks within the lower selvedge, MR. DE. FELLETIN.DE. F.D, relined and with significant restorations
+104
+1
+⁄
+2
+ in. (266 cm.) high; 182 in. (462.5 cm.) wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0075_000(a_french_hunting_tapestry_felletin_18th_century120755).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/french-hunting-tapestry-75/294057?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,13819.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+a545f7c7-cc1d-4807-b9a4-b052a9c1692c,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 76,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,A George III Mahogany Wing Back Armchair,furniture,"mahogany, linen",31.5,31.75,42,in,no,yes,yes,1760,N/A,"wing back armchair, cabriole legs, rust linen, toupie feet, Georgian style, mahogany, seat cushion, upholstery",1,N/A,original,"On leaf carved cabriole legs terminating in toupie feet, covered in rust linen
+42 in. (108.5 cm.) high; 31
+3
+⁄
+4
+ in. (81 cm.) wide; 31
+1
+⁄
+2
+ in. (78 cm.) deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0076_000(a_george_iii_mahogany_wing_back_armchair_circa_1760120808).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/george-iii-mahogany-wing-back-armchair-76/294058?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+cd3c5bbd-0024-46b1-a0ae-ec38e6d20741,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 77,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,"SIR LESLIE MATTHEW WARD 'SPY', LIBORIO PROSPERI, RONALD L'ESTRANGE, GODFREY DOUGLAS GILES, AND HAY",1851,1922,"Thirty-three jockeys, including part of the 'Men of the Day' series",prints,"chromolithograph in colours, on paper",N/A,8.25,13.5,in,no,yes,yes,1881,"with Cross Gate Gallery, Lexington.","jockey, horse racing, chromolithograph, portrait, stripes, colors, costume, standing figure, accessories, hats",33,N/A,original,"SIR LESLIE MATTHEW WARD 'SPY' (1851-1922); LIBORIO PROSPERI (1854-1928); RONALD L'ESTRANGE (1869-1919); GODFREY DOUGLAS GILES (1857-1941); AND HAY (ACTIVE 1888-1893)
+Thirty-three jockeys, including part of the 'Men of the Day' series
+all chromolithograph in colours, on paper
+1881-1904 
+printed by Vincent Brooks, Day & Son Ltd., London; Bemrose Dalziel Ltd., Watford & London; Hentschel-Colourtype, London; and W.H. Smith & Son, Fetter Lane, E.C., published by Vanity Fair and Vanity Fair Supplement
+images 13
+1
+⁄
+2
+ x 8
+1
+⁄
+4
+ in. (34.5 x 21 cm.); and smaller",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0077_000(sir_leslie_matthew_ward_spy_liborio_prosperi_ronald_lestrange_godfrey055719).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/sir-leslie-matthew-ward-spy-1851-1922-liborio-prosperi-1854-1928-77/294059?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+c0217697-de6c-48fb-b56b-a947bcd6b9a5,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 78,GBP,2000,4000,N/A,N/A,2528.59,5057.19,N/A,N/A,N/A,N/A,N/A,A TRIPLE PLATE BLUE-GLASS OVERMANTEL MIRROR,decorative arts,"blue glass, cut crystal, cabochons",N/A,39.5,56,in,no,yes,yes,1920,N/A,"mirror, blue glass, frame, cornices, crystal florets, cabochons, beveled plate, Queen Anne style, overmantel",1,N/A,original,"In the Queen Anne style, with beveled plated, the central plate with arched frame, the cornices and upper arch mounted with cut-crystal florets punctuated by singular cabochons
+39
+1
+⁄
+2
+ in. (100 cm.) wide; 56 in. (142.2 cm.) high",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0078_000(a_triple_plate_blue-glass_overmantel_mirror_early_20th_century_possibl121246).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/triple-plate-blue-glass-overmantel-mirror-78/294060?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+18bb8f32-6870-427f-a8de-4c561098bd8e,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 79,GBP,15000,25000,N/A,N/A,18964.45,31607.41,N/A,N/A,HELMUT NEWTON,1920,2004,"Roselyne at Arcangues, 1975",photographs,gelatin silver print,N/A,42,28.125,in,no,yes,yes,1975,"Anonymous sale; Christie's, New York, 
+Photographs
+, 17 October 2006, lot 8.
+Anonymous sale; Christie's, New York, 
+Icons of Glamour & Style: The Constantiner Collection
+, 16 December 2008, lot 28.
+Anonymous sale; Sotheby's, Paris, 16 July 2020, lot 2.
+with Osborne Samuel, London.","woman, black dress, fireplace, photographs, furniture, wooden floor, plants, living room, light, decor",1,N/A,original,"Roselyne at Arcangues, 1975
+gelatin silver print
+image: 28 x 42
+1
+⁄
+8
+ in. (71 x 107 cm.)
+sheet: 30
+1
+⁄
+4
+ x 47
+1
+⁄
+2
+ in. (77 x 120.5 cm.)
+frame: 40
+1
+⁄
+8
+ x 54
+3
+⁄
+8
+ in. (102 x 137.5 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0079_000(helmut_newton_roselyne_at_arcangues_1975054035).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/helmut-newton-1920-2004-79/294061?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,24188.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,25200.0,21000.0
+0e743c86-bfde-444b-97ad-4bbcd189e542,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 80,GBP,4000,6000,N/A,N/A,5057.19,7585.78,N/A,N/A,HENRY STULL,1851,1913,"Poetess, winner of The Alabama Stakes, 1897, with jockey up",painting,oil on canvas,N/A,30.25,25.25,in,yes,yes,yes,1897,"Purchased directly from the artist by Thomas J. Healey, New Jersey, and by descent to his daughter
+Margaret Healey, and by descent to the previous owner.
+Anonymous sale; Sotheby's, New York, 2 October 2015, lot 197.","horse, jockey, landscape, trees, clouds, rider, racing, green grass, mountains, sky",1,N/A,original,"Poetess, winner of The Alabama Stakes, 1897, with jockey up
+signed and dated 'Henry Stull/1897' (lower right) and further signed, inscribed and dated 'Poetess/painted by/Henry Sutll/1897' (on the reverse)
+oil on canvas
+25
+1
+⁄
+4
+ x 30
+1
+⁄
+4
+ in. (64.2 x 76.8 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0080_000(henry_stull_poetess_winner_of_the_alabama_stakes_1897_with_jockey_up121315).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/henry-stull-american-1851-1913-80/294062?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,10416.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6825.0,5687.5
+dfe16dd1-5ff0-4d7c-9307-6af961d40e46,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 81,GBP,500,800,N/A,N/A,632.15,1011.44,N/A,N/A,N/A,N/A,N/A,MRS MINET'S BENEFACTION - A WILLIAM IV PAINTED ECCLESIASTICAL CHARITY SIGN,painting,"wood, paint",2,46.75,29,in,no,yes,yes,1832,N/A,"charity, inscription, clothing, church, parish, winter, interest, benefaction, churchwardens, Brasted",1,N/A,original,"inscribed 'MRS MINET'S BENEFACTION,/1832./The Interest of £108. to be applied by the Rector/and Churchwardens, in the purchase of arti-/-cles of warm clothing for the Poor of the Par-/ish of Brasted in each succeeding winter/-for ever.-/STEPHEN AKEHURST/JOHN DOUBELL/
+CHURCHWARDENS.
+'
+29 x 46
+3
+⁄
+4
+ x 2 in. (73.5 x 119 x 5 cm.); including frame",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0081_000(mrs_minets_benefaction_-_a_william_iv_painted_ecclesiastical_charity_s121331).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/mrs-minets-benefaction-william-iv-painted-ecclesiastical-charity-sign-81/294263?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,1277.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,750.0,625.0
+18a9f479-14a6-4fc7-b76f-c59303a14df4,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 82,GBP,2000,3000,N/A,N/A,2528.59,3792.89,N/A,N/A,N/A,N/A,N/A,CIRCA 1860,decorative arts,"iron, wood, leather",67.5,N/A,47.5,in,no,yes,yes,1860,"Anonymous sale; Adam's, Dublin, 17 April 2019, lot 227.","bicycle, iron frame, wooden wheels, leather seat, polychrome painted",1,N/A,original,"With an iron frame with wooden spoked wheels and iron 'tyres', with leather seat, later polychrome painted, restorations
+47
+1
+⁄
+2
+ in. (120.5 cm.) high; 67
+1
+⁄
+2
+ in. (171.5 cm.) long",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0082_000(a_painted-iron_bone_shaker_bicycle_circa_1860121344).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/painted-iron-bone-shaker-bicycle-82/294063?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,3211.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+f76e2eb6-3947-4f2f-9412-b307a3bb2a21,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 83,GBP,15000,20000,N/A,N/A,18964.45,25285.93,N/A,N/A,"CHARLES WEST COPE, R.A.",1811,1890,The awakening of King Lear by the kiss of Cordelia,painting,oil on canvas,N/A,60.75,40.5,in,yes,yes,yes,1850,"Painted for Isambard Kingdom Brunel's 'Shakespeare Room', the dining room of his house at Duke Street, St James's.
+His sale (†); Christie's, London, 20 April 1860, lot 221 (310 gns to Wallis).
+John Marshall, Great Barr, Staffordshire (†); Christie's, London, 26 May 1888, lot 166 (63 gns to Ford).
+Private Collection, by 1988.
+Anonymous sale; Sotheby's, London, 23 May 2013, lot 19.","King Lear, Cordelia, deathbed, figures, musicians, costumes, emotions, oil painting, Shakespeare, storytelling",1,N/A,original,"The awakening of King Lear by the kiss of Cordelia
+signed and dated 'C W Cope/ 1850' (lower centre) and further signed and numbered '1/C. W. Cope R.A.' (on the artist's label attached to the reverse)
+oil on canvas
+40
+1
+⁄
+2
+ x 60
+3
+⁄
+4
+ in. (102.9 x 154.4 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0083_000(charles_west_cope_ra_the_awakening_of_king_lear_by_the_kiss_of_cordeli121420).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/charles-west-cope-r-a-british-1811-1890-83/294064?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,24119.51,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,23400.0,19500.0
+5339e362-3968-4c03-96dd-6d6df5542384,Artwork,Christies,24511,2024-04-01,London,"Collections: Including Ardbraccan House, Ireland and a Sicilian Palazzo",https://www.christies.com/en/auction/collections-including-ardbraccan-house-ireland-and-a-sicilian-palazzo-24511-cks/,Lot 84,GBP,10000,15000,N/A,N/A,12642.97,18964.45,N/A,N/A,GEORGE GARRARD,1760,1826,"Ten studies of varieties of oxen common in the British Isles, including a Tees-Water Cow and a Devonshire Ox",drawing,pencil and oil on paper,N/A,10.25,15.75,in,no,yes,yes,1797,"Probably the artist's studio, mounted approximately three years before his death.
+Unidentified collector (indistinctly inscribed with initials on the flyleaf of the album), 1870.
+with Handyside & Buchanan Book Dealers, London, circa 1930, by whom sold to the Henry Rogers Broughton, 2nd Baron Fairhaven (1900-1973), and by family descent; Sotheby's, London, 3 July 2013, lot 171 (part lot), where purchased by the present owner.","oxen, cattle, breeds, livestock, pencil, oil, studies, British Isles, Tees-Water Cow, Devonshire Ox",10,N/A,original,"Ten studies of varieties of oxen common in the British Isles, including a Tees-Water Cow and a Devonshire Ox
+each variously inscribed with the livestock’s breed and ownership details, dated between 1797 and 1805 (to lower edge)
+pencil and oil on paper
+each approximately 15
+3
+⁄
+4
+ x 10
+1
+⁄
+4
+ in. (40 x 26 cm.)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24511_0084_000(george_garrard_ten_studies_of_varieties_of_oxen_common_in_the_british060537).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/collections-including-ardbraccan-house-ireland-sicilian-palazzo/george-garrard-1760-1826-84/294065?ldp_breadcrumb=back,6611.83,21996.34,46669.88,24.17,N/A,3.99,N/A,N/A,13801.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16800.0,14000.0

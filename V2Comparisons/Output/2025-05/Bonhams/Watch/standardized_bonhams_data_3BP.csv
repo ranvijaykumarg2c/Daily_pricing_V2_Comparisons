@@ -1,0 +1,103 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 801,Rolex,Submariner Kermit,Bonhams,<NA>,<NA>,83200,12000.0,10000.0
+Lot 802,Rolex,"Submariner ""Hulk""",Bonhams,<NA>,<NA>,160000,14500.0,12083.333333333334
+Lot 803,Rolex,Yacht-Master,Bonhams,<NA>,<NA>,76800,11500.0,9583.333333333334
+Lot 804,Rolex,Cosmograph Daytona,Bonhams,<NA>,<NA>,128000,18500.0,15416.666666666668
+Lot 805,Rolex,Cosmograph Daytona,Bonhams,<NA>,<NA>,268800,25000.0,20833.333333333336
+Lot 806,Rolex,Cosmograph Daytona,Bonhams,<NA>,<NA>,217600,32000.0,26666.666666666668
+Lot 807,Armin Strom,Tribute 1 California Burgundy,Bonhams,<NA>,<NA>,83200,25000.0,20833.333333333336
+Lot 808,Audemars Piguet,Code 11.59,Bonhams,<NA>,<NA>,128000,45000.0,37500.0
+Lot 809,Piaget,Altiplano Ultra Slim,Bonhams,<NA>,<NA>,70400,18000.0,15000.0
+Lot 810,Piaget,Polo,Bonhams,<NA>,<NA>,108800,18000.0,15000.0
+Lot 811,Piaget,Altiplano Chronograph,Bonhams,<NA>,<NA>,61440,22000.0,18333.333333333336
+Lot 812,Piaget,Polo Fortyfive,Bonhams,<NA>,<NA>,25600,4500.0,3750.0
+Lot 813,Jaeger-Jaeger-LeCoultre,Master Control,Bonhams,<NA>,<NA>,33280,4500.0,3750.0
+Lot 814,Piaget,Altiplano Double Jeu,Bonhams,<NA>,<NA>,53760,18000.0,15000.0
+Lot 815,Jaeger-Jaeger-LeCoultre,Reverso,Bonhams,<NA>,<NA>,44800,4500.0,3750.0
+Lot 816,Vacheron Constantin,Essentielles Flat,Bonhams,<NA>,<NA>,28160,12000.0,10000.0
+Lot 817,Audemars Piguet,Jules Audemars 125 Years Japan Edition,Bonhams,<NA>,<NA>,44800,25000.0,20833.333333333336
+Lot 818,Jaeger-Jaeger-LeCoultre,Reverso,Bonhams,<NA>,<NA>,25600,3500.0,2916.666666666667
+Lot 819,Cartier,Tank Solo XL,Bonhams,<NA>,<NA>,51200,1800.0,1500.0
+Lot 820,Cartier,Tank Jumbo XL,Bonhams,70000,140000,<NA>,105000.0,87500.0
+Lot 821,Vacheron Constantin,Chambellan,Bonhams,<NA>,<NA>,44800,12000.0,10000.0
+Lot 822,Vacheron Constantin,Historiques,Bonhams,<NA>,<NA>,38400,8500.0,7083.333333333334
+Lot 823,Vacheron Constantin,Patrimony 31-Day Retrograde,Bonhams,<NA>,<NA>,76800,18000.0,15000.0
+Lot 824,Audemars Piguet,Royal Oak,Bonhams,220000,440000,<NA>,350000.0,291666.6666666667
+Lot 825,Audemars Piguet,"Royal Oak Offshore ""Shaquille O'Neal""",Bonhams,<NA>,<NA>,128000,45000.0,37500.0
+Lot 826,Audemars Piguet,Royal Oak Offshore,Bonhams,<NA>,<NA>,281600,45000.0,37500.0
+Lot 827,Patek Philippe,Aquanaut,Bonhams,<NA>,<NA>,281600,22000.0,18333.333333333336
+Lot 828,Patek Philippe,Nautilus,Bonhams,<NA>,<NA>,358400,25000.0,20833.333333333336
+Lot 829,Piaget,<NA>,Bonhams,<NA>,<NA>,20480,8500.0,7083.333333333334
+Lot 830,Piaget,Altiplano Enamel 1957,Bonhams,<NA>,<NA>,40960,25000.0,20833.333333333336
+Lot 831,Piaget,Altiplano 60th Anniversary,Bonhams,<NA>,<NA>,40960,25000.0,20833.333333333336
+Lot 832,Piaget,Altiplano,Bonhams,<NA>,<NA>,51200,25000.0,20833.333333333336
+Lot 833,Piaget,Altiplano,Bonhams,<NA>,<NA>,40960,18000.0,15000.0
+Lot 834,Breguet,Classique,Bonhams,95000,190000,<NA>,135000.0,112500.0
+Lot 835,Daniel Roth,Le Sentier Sport,Bonhams,<NA>,<NA>,76800,8500.0,7083.333333333334
+Lot 836,Daniel Roth,Masters Chronograph,Bonhams,<NA>,<NA>,61440,4500.0,3750.0
+Lot 837,Daniel Roth,<NA>,Bonhams,<NA>,<NA>,153600,12000.0,10000.0
+Lot 838,Daniel Roth,<NA>,Bonhams,<NA>,<NA>,486400,18000.0,15000.0
+Lot 839,Patek Philippe,<NA>,Bonhams,<NA>,<NA>,166400,150000.0,125000.0
+Lot 840,Patek Philippe,Calatrava,Bonhams,<NA>,<NA>,38400,8500.0,7083.333333333334
+Lot 841,Patek Philippe,Calatrava,Bonhams,<NA>,<NA>,121600,12000.0,10000.0
+Lot 842,Patek Philippe,World Time,Bonhams,<NA>,<NA>,192000,22000.0,18333.333333333336
+Lot 843,Patek Philippe,World Time,Bonhams,<NA>,<NA>,281600,45000.0,37500.0
+Lot 844,Roger Dubuis,Hommage,Bonhams,<NA>,<NA>,320000,18000.0,15000.0
+Lot 845,Roger Dubuis,Hommage,Bonhams,<NA>,<NA>,204800,25000.0,20833.333333333336
+Lot 846,Vacheron Constantin,Patrimony Power Reserve,Bonhams,<NA>,<NA>,61440,12000.0,10000.0
+Lot 847,Vacheron Constantin,<NA>,Bonhams,<NA>,<NA>,166400,25000.0,20833.333333333336
+Lot 848,Vacheron Constantin,Saltarello,Bonhams,<NA>,<NA>,256000,25000.0,20833.333333333336
+Lot 849,Audemars Piguet,Royal Oak Quantième Annuel,Bonhams,<NA>,<NA>,179200,22000.0,18333.333333333336
+Lot 850,Audemars Piguet,Royal Oak Offshore,Bonhams,<NA>,<NA>,217600,45000.0,37500.0
+Lot 851,Audemars Piguet,"Royal Oak ""City of Sails"" Be Happy - Crew Member Edition",Bonhams,<NA>,<NA>,409600,45000.0,37500.0
+Lot 852,Roger Dubuis,Excalibur 42,Bonhams,<NA>,<NA>,320000,450000.0,375000.0
+Lot 853,De Bethune,DB28-TIS5,Bonhams,<NA>,<NA>,384000,25000.0,20833.333333333336
+Lot 854,Cartier,Collection Privée Cartier Paris (CPCP) - Rotonde,Bonhams,50000,100000,<NA>,75000.0,62500.0
+Lot 855,Cartier,Collection Privée Cartier Paris - Rotonde,Bonhams,<NA>,<NA>,115200,18000.0,15000.0
+Lot 856,Cartier,Collection Privée Cartier Paris - Tortue XL 8 Days,Bonhams,<NA>,<NA>,102400,12000.0,10000.0
+Lot 857,Cartier,Pasha de Cartier,Bonhams,80000,160000,<NA>,120000.0,100000.0
+Lot 858,Cartier,"Pasha de Cartier - ""Panda""",Bonhams,70000,140000,<NA>,115000.0,95833.33333333334
+Lot 859,Louis Vuitton,Tambour Spin Time Air Paved,Bonhams,<NA>,<NA>,230400,250000.0,208333.33333333334
+Lot 860,Piaget,Protocole,Bonhams,<NA>,<NA>,192000,18000.0,15000.0
+Lot 861,Piaget,Altiplano,Bonhams,<NA>,<NA>,89600,18000.0,15000.0
+Lot 862,Piaget,Altiplano Malachite Marquetry Tourbillon,Bonhams,<NA>,<NA>,256000,150000.0,125000.0
+Lot 863,Piaget,Black Tie Vintage Inspiration,Bonhams,<NA>,<NA>,243200,120000.0,100000.0
+Lot 864,Piaget,Altiplano,Bonhams,<NA>,<NA>,48640,22000.0,18333.333333333336
+Lot 865,Panerai,Luminor Marina,Bonhams,<NA>,<NA>,20480,5500.0,4583.333333333334
+Lot 866,Panerai,Luminor Marina Militare,Bonhams,<NA>,<NA>,384000,120000.0,100000.0
+Lot 867,Rolex,Pre Daytona,Bonhams,180000,360000,<NA>,250000.0,208333.33333333334
+Lot 868,Patek Philippe,<NA>,Bonhams,<NA>,<NA>,396800,45000.0,37500.0
+Lot 869,Patek Philippe,175th Anniversary,Bonhams,<NA>,<NA>,396800,45000.0,37500.0
+Lot 870,Patek Philippe,<NA>,Bonhams,<NA>,<NA>,179200,45000.0,37500.0
+Lot 871,Patek Philippe,Advanced Research,Bonhams,<NA>,<NA>,384000,45000.0,37500.0
+Lot 872,Patek Philippe,<NA>,Bonhams,<NA>,<NA>,575500,85000.0,70833.33333333334
+Lot 873,Patek Philippe,Grand Complications,Bonhams,<NA>,<NA>,256000,120000.0,100000.0
+Lot 874,Patek Philippe,"Rare Handcrafts - Calatrava ""Dom Robert""",Bonhams,600000,1200000,<NA>,950000.0,791666.6666666667
+Lot 875,Patek Philippe,"Rare Handcrafts - Enchanted Mountains ""Mount Everest""",Bonhams,<NA>,<NA>,956500,450000.0,375000.0
+Lot 876,Hublot,LaFerrari,Bonhams,<NA>,<NA>,639000,250000.0,208333.33333333334
+Lot 877,Audemars Piguet,Royal Oak Concept Laptimer Michael Schumacher,Bonhams,<NA>,<NA>,1020000,150000.0,125000.0
+Lot 878,Richard Mille X Ferrari,UP-01,Bonhams,<NA>,<NA>,8005000,2000000.0,1666666.6666666667
+Lot 879,Richard Mille,Bonbon Collection - Sweet Line “Sucette”,Bonhams,<NA>,<NA>,1909000,150000.0,125000.0
+Lot 880,Hublot,Classic Fusion “Lang Lang”,Bonhams,<NA>,<NA>,448000,450000.0,375000.0
+Lot 881,Rolex,GMT-Master II,Bonhams,<NA>,<NA>,588200,45000.0,37500.0
+Lot 882,Rolex,Datejust 36 “Wimbledon”,Bonhams,<NA>,<NA>,121600,15000.0,12500.0
+Lot 883,Rolex,Datejust,Bonhams,<NA>,<NA>,53760,8500.0,7083.333333333334
+Lot 884,Rolex,Day-Date,Bonhams,<NA>,<NA>,217600,25000.0,20833.333333333336
+Lot 885,Piaget,Polo,Bonhams,180000,350000,<NA>,275000.0,229166.6666666667
+Lot 886,Breguet,<NA>,Bonhams,<NA>,<NA>,102400,12000.0,10000.0
+Lot 887,Breguet,Reine de Naples,Bonhams,<NA>,<NA>,74240,15000.0,12500.0
+Lot 888,Franck Muller,Dragon King,Bonhams,<NA>,<NA>,76800,25000.0,20833.333333333336
+Lot 889,BVLGARI,Serpenti Tubogas,Bonhams,<NA>,<NA>,204800,8500.0,7083.333333333334
+Lot 890,BVLGARI,Serpenti Secret,Bonhams,<NA>,<NA>,448000,150000.0,125000.0
+Lot 891,Cartier,Baignoire,Bonhams,<NA>,<NA>,70400,4500.0,3750.0
+Lot 892,Cartier,Baignoire XL,Bonhams,<NA>,<NA>,108800,8500.0,7083.333333333334
+Lot 893,Cartier,Trinity,Bonhams,<NA>,<NA>,64000,4500.0,3750.0
+Lot 894,Cartier,Santos Demoiselle,Bonhams,<NA>,<NA>,102400,8500.0,7083.333333333334
+Lot 895,Gérald Genta,Arena Biretro,Bonhams,<NA>,<NA>,40960,12000.0,10000.0
+Lot 896,Gérald Genta,Gefica,Bonhams,50000,100000,<NA>,75000.0,62500.0
+Lot 897,Gerald Genta,Gefica,Bonhams,<NA>,<NA>,121600,18000.0,15000.0
+Lot 898,Girard-Perregaux,Tri-Bridge,Bonhams,<NA>,<NA>,766000,120000.0,100000.0
+Lot 899,Girard-Perregaux,Tourbillon Repetition Minutes,Bonhams,<NA>,<NA>,575500,150000.0,125000.0
+Lot 900,A. Lange & Söhne,Lange 1 Moon Phase,Bonhams,<NA>,<NA>,217600,45000.0,37500.0
+Lot 901,A. Lange & Söhne,Langematik Perpetual,Bonhams,<NA>,<NA>,320000,120000.0,100000.0
+Lot 902,A. Lange & Söhne,Datograph Up/Down,Bonhams,<NA>,<NA>,486400,120000.0,100000.0

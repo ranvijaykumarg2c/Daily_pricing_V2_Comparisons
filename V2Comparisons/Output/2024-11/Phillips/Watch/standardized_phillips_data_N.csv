@@ -1,0 +1,114 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,MAMIMOZI,<NA>,Phillips,9989.84,20491.98,None,15000.0,12500.0
+Lot 2,Rolex,Cosmograph Daytona,Phillips,19211.23,29457.22,None,24500.0,20416.666666666668
+Lot 3,Rolex,Cosmograph Daytona,Phillips,19211.23,29457.22,None,24500.0,20416.666666666668
+Lot 4,Rolex,Submariner “Kermit”,Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 5,Rolex,Submariner,Phillips,6019.52,9989.84,None,8500.0,7083.333333333334
+Lot 6,Omega,Speedmaster Professional “Speedymoon”,Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 7,Alain Silberstein,Santa Claus,Phillips,5122.99,7940.64,None,6500.0,5416.666666666667
+Lot 8,Patek Philippe,Calatrava,Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 9,Patek Philippe,Aquanaut “Japan”,Phillips,40983.96,81967.91,None,67500.0,56250.0
+Lot 10,Patek Philippe,Calatrava,Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 11,Patek Philippe,Calatrava,Phillips,9989.84,20491.98,None,14500.0,12083.333333333334
+Lot 12,Cartier,Pasha Chronograph,Phillips,5122.99,7684.49,None,6500.0,5416.666666666667
+Lot 13,Omega,Speedmaster Professional “Golden Panda”,Phillips,19211.23,38422.46,None,25000.0,20833.333333333336
+Lot 14,Rolex,Datejust Turn-O-Graph,Phillips,9989.84,20491.98,None,14500.0,12083.333333333334
+Lot 15,Fragment Design X Bamford,Rolex Submariner “Heritage 3-6-9”,Phillips,5122.99,10245.99,None,8500.0,7083.333333333334
+Lot 16,Cartier,Tank Française,Phillips,2561.5,5122.99,None,3675.0,3062.5
+Lot 17,Vacheron Constantin,Traditionnelle Tourbillon,Phillips,25614.97,51229.95,None,35000.0,29166.666666666668
+Lot 18,Vacheron Constantin,Overseas Chronograph Defi Mèr,Phillips,23053.48,35860.96,None,29500.0,24583.333333333336
+Lot 19,Audemars Piguet,Royal Oak Offshore Tourbillon Chronograph,Phillips,128074.86,256149.73,None,195000.0,162500.0
+Lot 20,Laurent Ferrier,Galet Micro-Rotor,Phillips,20491.98,25614.97,None,23900.0,19916.666666666668
+Lot 21,Habring²,Felix “Shellman 50th Anniversary”,Phillips,5122.99,10245.99,None,8500.0,7083.333333333334
+Lot 22,Czapek,Antarctique Rattrapante “Hope”,Phillips,30737.97,51229.95,None,45000.0,37500.0
+Lot 23,Tiffany & Co.,Time for Speed Race Car Clock,Phillips,25614.97,51229.95,None,38400.0,32000.0
+Lot 24,Rolex,Submariner,Phillips,40983.96,81967.91,None,67500.0,56250.0
+Lot 25,Rolex,GMT-Master,Phillips,20491.98,40983.96,None,30500.0,25416.666666666668
+Lot 26,Rolex,Explorer,Phillips,20491.98,40983.96,None,30500.0,25416.666666666668
+Lot 27,Universal,Tri-Compax “Tropical Evil Clapton”,Phillips,9989.84,20491.98,None,14500.0,12083.333333333334
+Lot 28,Roger Smith,"Series 2, Edition 3",Phillips,300975.93,601951.86,None,450000.0,375000.0
+Lot 29,Harry Winston,"Opus One, Piece Unique",Phillips,96056.15,199796.79,None,145000.0,120833.33333333334
+Lot 30,F.P. Journe,Chronomètre à Resonance,Phillips,153689.84,256149.73,None,198000.0,165000.0
+Lot 31,Vianney Halter,Classic,Phillips,25614.97,46106.95,None,35000.0,29166.666666666668
+Lot 32,De Bethune,Titan Hawk JPS,Phillips,30737.97,51229.95,None,42300.0,35250.0
+Lot 33,De Bethune,DB28GS JPS,Phillips,49949.2,99898.39,None,74999.0,62499.16666666667
+Lot 34,Omega,Speedmaster “Canopus Gold”,Phillips,40983.96,81967.91,None,65000.0,54166.66666666667
+Lot 35,Rolex,"Explorer, “Blackout”",Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 36,Rolex,Explorer “Error Dial”,Phillips,8068.72,14088.23,None,10250.0,8541.666666666668
+Lot 37,F.P. Journe,Octa Automatique Réserve,Phillips,58914.44,120390.37,None,102000.0,85000.0
+Lot 38,Laurent Ferrier,Grand Sport Tourbillon,Phillips,80687.16,166497.32,None,120000.0,100000.0
+Lot 39,Seikosha,Tensoku-Dokei “Kamikaze”,Phillips,5122.99,10245.99,None,7500.0,6250.0
+Lot 40,Seiko,Astronomical Observatory Chronometer,Phillips,20491.98,39703.21,None,28900.0,24083.333333333336
+Lot 41,Grand Seiko,61GS VFA,Phillips,8324.87,16649.73,None,12000.0,10000.0
+Lot 42,Seiko,<NA>,Phillips,3073.8,5122.99,None,3850.0,3208.3333333333335
+Lot 43,Grand Seiko,<NA>,Phillips,15368.98,32018.72,None,21500.0,17916.666666666668
+Lot 44,Grand Seiko,Masterpiece Collection “White Birch”,Phillips,29457.22,60195.19,None,45000.0,37500.0
+Lot 45,Credor,Eichi,Phillips,35860.96,55072.19,None,43200.0,36000.0
+Lot 46,Credor,Art Piece collection Ryusei Raden,Phillips,3842.25,7684.49,None,5000.0,4166.666666666667
+Lot 47,Credor,Spring Drive Sonnerie,Phillips,40983.96,60195.19,None,48750.0,40625.0
+Lot 48,Citizen,Eco-Drive “Washi”,Phillips,2049.2,3073.8,None,2450.0,2041.6666666666667
+Lot 49,Casio,G-Shock Dream Project “Pure Gold”,Phillips,25614.97,51229.95,None,38427.5,32022.916666666668
+Lot 50,Longines,Type A7,Phillips,15368.98,30737.97,None,18450.0,15375.0
+Lot 51,Longines,<NA>,Phillips,8965.24,15368.98,None,10250.0,8541.666666666668
+Lot 52,Universal,<NA>,Phillips,9989.84,20491.98,None,12000.0,10000.0
+Lot 53,Universal,Uni-Compax,Phillips,9989.84,20491.98,None,14500.0,12083.333333333334
+Lot 54,Breguet,Type XX “CEV”,Phillips,7940.64,15368.98,None,11600.0,9666.666666666668
+Lot 55,Breitling,Navitimer,Phillips,4098.4,8196.79,None,6500.0,5416.666666666667
+Lot 56,Breitling,Cosmonaute Navitimer “MK II”,Phillips,4098.4,8196.79,None,6750.0,5625.0
+Lot 57,Omega,Speedmaster Professional Moonwatch,Phillips,7940.64,16649.73,None,11500.0,9583.333333333334
+Lot 58,Omega,Speedmaster Professional “Ultraman”,Phillips,19211.23,38422.46,None,25000.0,20833.333333333336
+Lot 59,A. Lange & Söhne,<NA>,Phillips,80687.16,166497.32,None,120000.0,100000.0
+Lot 60,Breguet,<NA>,Phillips,19211.23,40983.96,None,30500.0,25416.666666666668
+Lot 62,Patek Philippe,<NA>,Phillips,15368.98,30737.97,None,24500.0,20416.666666666668
+Lot 63,Audemars Piguet,<NA>,Phillips,17930.48,30737.97,None,24500.0,20416.666666666668
+Lot 64,Jaeger-LeCoultre,Memovox,Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 65,Patek Philippe,Kimono,Phillips,76844.92,128074.86,None,102000.0,85000.0
+Lot 66,Chopard,L.U.C XP ‘Blue Horn Dragon’,Phillips,10245.99,19851.6,None,14500.0,12083.333333333334
+Lot 67,Rolex,Day-Date,Phillips,30737.97,51229.95,None,45000.0,37500.0
+Lot 68,Vacheron Constantin,222,Phillips,30737.97,51229.95,None,42500.0,35416.66666666667
+Lot 69,Vacheron Constantin,<NA>,Phillips,15368.98,20491.98,None,18900.0,15750.0
+Lot 70,Vacheron Constantin,<NA>,Phillips,12807.49,25614.97,None,19500.0,16250.0
+Lot 72,Rolex,Datejust,Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 73,Rolex,Datejust,Phillips,8068.72,12167.11,None,7500.0,6250.0
+Lot 74,Patek Philippe,<NA>,Phillips,20491.98,40983.96,None,30500.0,25416.666666666668
+Lot 75,Tornek-Rayville,<NA>,Phillips,15368.98,25614.97,None,19800.0,16500.0
+Lot 76,Rolex,GMT-Master,Phillips,30737.97,61475.93,None,45000.0,37500.0
+Lot 77,Rolex,Datejust,Phillips,2561.5,5122.99,None,3750.0,3125.0
+Lot 78,Rolex,"""Pre-Daytona""",Phillips,30737.97,51229.95,None,42500.0,35416.66666666667
+Lot 79,Rolex,Cosmograph Daytona “Paul Newman Panda”,Phillips,179304.81,358609.62,None,245000.0,204166.6666666667
+Lot 80,Jaeger-LeCoultre,Shark Deep Sea Chronograph,Phillips,7044.12,12167.11,None,10200.0,8500.0
+Lot 81,Universal,Exotic Tri-Compax,Phillips,15368.98,25614.97,None,19800.0,16500.0
+Lot 82,Rolex,Cosmograph Daytona “Big Red”,Phillips,79406.42,153689.84,None,112000.0,93333.33333333334
+Lot 83,Omega,Chrono-Quartz,Phillips,5122.99,10245.99,None,7500.0,6250.0
+Lot 84,Audemars Piguet,Royal Oak “Jumbo No Series”,Phillips,49949.2,83248.66,None,67500.0,56250.0
+Lot 85,Rolex,"Submariner, “MK 1”",Phillips,5763.37,12167.11,None,10250.0,8541.666666666668
+Lot 86,Rolex,GMT-Master,Phillips,9989.84,15368.98,None,12000.0,10000.0
+Lot 87,Patek Philippe,<NA>,Phillips,128074.86,256149.73,None,198000.0,165000.0
+Lot 88,Omega,"Speedmaster Professional Moonwatch, 20th Anniversary Apollo XI",Phillips,3842.25,8068.72,None,6200.0,5166.666666666667
+Lot 89,Omega,Speedmaster Apollo XI,Phillips,3970.32,8068.72,None,6500.0,5416.666666666667
+Lot 90,Omega,Speedmaster Moonwatch Apollo XI 25th Anniversary,Phillips,51229.95,99898.39,None,75000.0,62500.0
+Lot 91,Cartier,Santos-Dumont,Phillips,16649.73,25614.97,None,21500.0,17916.666666666668
+Lot 92,Rolex,Cosmograph Daytona “Big Red”,Phillips,70441.17,99898.39,None,85000.0,70833.33333333334
+Lot 93,Rolex,GMT-Master,Phillips,15368.98,30737.97,None,24500.0,20416.666666666668
+Lot 94,Rolex,"Explorer II ""Freccione""",Phillips,15368.98,40983.96,None,28900.0,24083.333333333336
+Lot 95,Rolex,Oyster Precision “White Commando”,Phillips,5122.99,10245.99,None,7500.0,6250.0
+Lot 96,Tudor,Submariner,Phillips,9605.61,19211.23,None,14500.0,12083.333333333334
+Lot 97,Tudor,Prince Oysterdate Chrono-Time,Phillips,2561.5,5122.99,None,3500.0,2916.666666666667
+Lot 98,Rolex,Day-Date,Phillips,7684.49,15368.98,None,10250.0,8541.666666666668
+Lot 99,Patek Philippe,<NA>,Phillips,448262.02,640374.32,None,550000.0,458333.3333333334
+Lot 100,Hublot,Classic Fusion Takashi Murakami Black Ceramic Rainbow,Phillips,57633.69,<NA>,None,65000.0,54166.66666666667
+Lot 101,KAWS x Ikepod,Ikepod Horizon by KAWS,Phillips,9989.84,20491.98,None,14500.0,12083.333333333334
+Lot 102,Czapek,"Quai des Bergues No.13 or 33s, Eternité",Phillips,12807.49,25614.97,None,19500.0,16250.0
+Lot 103,Lang & Heyne,Friedrich III,Phillips,15368.98,25614.97,None,19800.0,16500.0
+Lot 104,Patek Philippe,<NA>,Phillips,153689.84,256149.73,None,215000.0,179166.6666666667
+Lot 105,Kurono Tokyo,Grand Niji “虹”,Phillips,8965.24,17930.48,None,13450.0,11208.333333333334
+Lot 106,TAKANO,Chateau Nouvel Chronometer “Toki”,Phillips,6403.74,12807.49,None,10200.0,8500.0
+Lot 107,Otsuka Lotec,№6 東雲 “SHINONOME”,Phillips,1921.12,5763.37,None,3500.0,2916.666666666667
+Lot 108,Otsuka Lotec,Model No. 6,Phillips,1921.12,5763.37,None,3200.0,2666.666666666667
+Lot 109,Otsuka Lotec,Model No. 7.5,Phillips,1921.12,5763.37,None,3200.0,2666.666666666667
+Lot 110,Masahiro Kikuno,SO,Phillips,640.37,2305.35,None,1450.0,1208.3333333333335
+Lot 111,Masahiro Kikuno,Tourbillon 2012,Phillips,25614.97,51229.95,None,19800.0,16500.0
+Lot 112,Masa's Pastime,Nayuta Model A – TOKI,Phillips,19211.23,38422.46,None,25000.0,20833.333333333336
+Lot 113,Masa's Pastime,<NA>,Phillips,25614.97,51229.95,None,35000.0,29166.666666666668
+Lot 114,Kurono Tokyo,Chronograph 2,Phillips,3842.25,6403.74,None,4500.0,3750.0
+Lot 115,Naoya Hida & Co.,Type 1D-2,Phillips,35860.96,61475.93,None,48700.0,40583.333333333336

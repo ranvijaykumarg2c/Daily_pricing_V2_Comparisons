@@ -1,0 +1,3428 @@
+[
+    {
+        "ID": "1c2649ed-674f-45d8-bfbd-ac8a1ed41693",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 301",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 150000.0,
+                "amount_usd": 19211.23
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 250000.0,
+                "amount_usd": 32018.72
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 341333.33,
+                "amount_usd": 43716.22
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 409600.0,
+                "amount_usd": 52459.46
+            }
+        ],
+        "description_block": "Duan Jianyub. 1970\nUntitledsigned and dated 2006 (on irregularly shaped reddish orange sheet)signed and dated 2006 (on orange sheet)oil on canvas sheet, oil on wood, in 22 partschicken 1: 40 by 20 by 16 cm. 15Â¾ by 7â by 6Â¼ in.chicken 3: 19.5 by 16 by 30 cm. 7â by 6Â¼ by 11Â¾ in.chicken 3: 18.5 by 15 by 30 cm. 7Â¼ by 5â by 11Â¾ in.canvas sheets: (6.5 to 49.5) by (8.5 to 59.6) cm. (2Â½ to 19Â½) by (3â to 23Â½) in.Executed in 2006.\n----------------------------------------------\næ®µå»ºå®1970å¹´ç\nç¡é¡æ¬¾è­Duan JYï¼2006 (ç´æ©åç«å¸)Duan JYï¼2006.10 (æ©åç«å¸)æ²¹ç«è£åç«å¸ï¼æ²¹ç«æ¨æ, å±22é¨åé1ï¼40 x 20 x 16 å¬å 15Â¾ x 7â x 6Â¼ è±å¯¸é2ï¼19.5 x 16 x 30 å¬å 7â x 6Â¼ x 11Â¾ è±å¯¸é3ï¼18.5 x 15 x 30 å¬å 7Â¼ x 5â x 11Â¾ è±å¯¸åç«å¸: (6.5 - 49.5) x (8.5 - 59.6) å¬å (2Â½ - 19Â½) x (3â - 23Â½) è±å¯¸2006å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/caa0a76/2147483647/strip/true/crop/9417x6791+0+0/resize/1024x738!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F3b%2Fb4%2Fe4bc78b14ad098e061cb26a467e5%2Fhk1748-main-dp3j2-t3-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/duan-jianyu-duan-jian-yu-untitled-wu-ti",
+        "artist_name": "Duan Jianyu",
+        "artist_birth": 1970,
+        "artist_death": null,
+        "artwork_title": "Untitled",
+        "medium": "mixed media",
+        "material": "oil on canvas sheet, oil on wood",
+        "length": 16.0,
+        "width": 20.0,
+        "height": 40.0,
+        "unit": "cm",
+        "creation_year_start": 2006,
+        "creation_year_end": 2006,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "no",
+        "provenance": "Acquired directly from the artist by the present owner\n----------------------------------------------\nç¾èèç´æ¥è³¼èªèè¡å®¶æ¬äºº",
+        "subject_matter": "chicken, landscape, mountains, sunset, color blocks, orange, black, brown, red, palm trees",
+        "item_count": 22,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "5fc01724-fb0d-45aa-ab3e-012592dfcb6b",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 302",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 240000.0,
+                "amount_usd": 30737.97
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 234666.67,
+                "amount_usd": 30054.9
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 281600.0,
+                "amount_usd": 36065.88
+            }
+        ],
+        "description_block": "Hu Xiaoyuanb. 1977\nAntbone No. 3signed and dated 2015 in Chinese (near bottom of wood)pine, Chinese ink, silk, steel, and iron nails140 by 160 by 19.5 cm.55â by 63 by 7â in.Executed in 2015.\n----------------------------------------------\nè¡æåª1977å¹´ç\nè»éª¨3èæ¬¾è­è¡æåªï¼äºé¶ä¸äºï¼ä½åä¸é¨ï¼æ¨ï¼æ°´å¢¨ãç¶ãéµåéµé140 x 160 x 19.5 å¬å55â x 63 x 7â è±å¯¸2015å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/610d6bb/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fbc%2Fc8%2F13066d8948e79a7d97d6eabefa3a%2Fhk1748-dpmym-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/hu-xiaoyuan-hu-xiao-yuan-antbone-no-3-yi-gu3hao",
+        "artist_name": "Hu Xiaoyuan",
+        "artist_birth": 1977,
+        "artist_death": null,
+        "artwork_title": "Antbone No. 3",
+        "medium": "mixed media",
+        "material": "pine, Chinese ink, silk, steel, and iron nails",
+        "length": 19.5,
+        "width": 160.0,
+        "height": 140.0,
+        "unit": "cm",
+        "creation_year_start": 2015,
+        "creation_year_end": 2015,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Beijing Commune, BeijingAcquired from the above by the present owner\n----------------------------------------------\nåäº¬ï¼åäº¬å¬ç¤¾ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "wood, metal, sculpture, abstract, geometric, installation, contemporary art, minimalist",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "8d2bc97f-3bdf-4102-b4e2-a321a827b42e",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 303",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 150000.0,
+                "amount_usd": 19211.23
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 250000.0,
+                "amount_usd": 32018.72
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 138666.67,
+                "amount_usd": 17759.71
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 166400.0,
+                "amount_usd": 21311.66
+            }
+        ],
+        "description_block": "Yu Jib. 1985\nFlesh in Stone 5cement and iron sculpture66 by 25.5 by 31.5 cm.26 by 10 by 12â in.Executed in 2014, this work is number 1 from an edition of 4.\nThis work is accompanied by a certificate of authenticity signed by the artist.\n----------------------------------------------\näºå1985å¹´ç\nç³è5æ°´æ³¥åéµéå¡66 x 25.5 x 31.5 å¬å26 x 10 x 12â è±å¯¸2014å¹´ä½çæ¸1/4æ­¤ä½åå±4çï¼æ¬åçºç¬¬1ç\néï¼ èè¡å®¶ç°½åä¹ä½åä¿è­æ¸ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/08d0132/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F81%2F86%2Feb744aae4989b5d4f2c538b060ce%2Fhk1748-dnwlb-t3-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yu-ji-yu-ji-flesh-in-stone-5-shi-rou-5",
+        "artist_name": "Yu Ji",
+        "artist_birth": 1985,
+        "artist_death": null,
+        "artwork_title": "Flesh in Stone 5",
+        "medium": "sculpture",
+        "material": "cement and iron",
+        "length": 31.5,
+        "width": 25.5,
+        "height": 66.0,
+        "unit": "cm",
+        "creation_year_start": 2014,
+        "creation_year_end": 2014,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "C-Space Gallery, BeijingAcquired from the above by the present owner\n----------------------------------------------\nåäº¬ï¼Cç©ºéç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "sculpture, figure, cement, iron, torso",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "1930cfeb-bcfb-4d94-ab96-e1bd34ebc463",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 304",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 90000.0,
+                "amount_usd": 11526.74
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 150000.0,
+                "amount_usd": 19211.23
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 90666.67,
+                "amount_usd": 11612.12
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 108800.0,
+                "amount_usd": 13934.55
+            }
+        ],
+        "description_block": "Zhang Ruyib. 1985\nIndividual Plant 10concrete, pigment, ceramic tiles, wood panel, metal, in two partsoverall:48.5 by 31.2 by 20.5 cm.19â by 12Â¼ by 8 in.Executed in 2018.\n----------------------------------------------\nå¼µå¦æ¡1985å¹´ç\nä¸æ ª#10æ··ååãé¡æãç£ç£ãæ¨æ¿ãéå±¬ï¼å±å©é¨åæ´é«ï¼48.5 x 31.2 x 20.5 å¬å19â x 12Â¼ x 8 è±å¯¸2018å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/4886f52/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F2a%2F67%2Fd95a5fa64376b67d72e9e64f901f%2Fhk1748-dqgdw-t3-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/zhang-ruyi-zhang-ru-yi-individual-plant-10-yi-zhu",
+        "artist_name": "Zhang Ruyi 張如怡",
+        "artist_birth": 1985,
+        "artist_death": null,
+        "artwork_title": "Individual Plant 10 一株#10",
+        "medium": "mixed media",
+        "material": "concrete, pigment, ceramic tiles, wood panel, metal",
+        "length": 20.5,
+        "width": 31.2,
+        "height": 48.5,
+        "unit": "cm",
+        "creation_year_start": 2018,
+        "creation_year_end": 2018,
+        "signed": "no",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Pace Gallery, Hong KongAcquired from the above by the present owner\n----------------------------------------------\né¦æ¸¯ï¼ä½©æ¯ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "plant, concrete, ceramic tiles, wood panel, metal, sculpture",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "c7bca5e2-35d2-42cc-aaf4-7e30bade781c",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 305",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2200000.0,
+                "amount_usd": 281764.7
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 4000000.0,
+                "amount_usd": 512299.45
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3626666.67,
+                "amount_usd": 464484.84
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 4352000.0,
+                "amount_usd": 557381.8
+            }
+        ],
+        "description_block": "Kohei Nawab. 1975\nPixCell - Deermixed media and glass beadsoverall: 119 by 73.5 by 70 cm.46â by 28â by 27Â½ in.Executed in 2007.\n----------------------------------------------\nååæå¹³1975å¹´ç\nPIXCELL ç³»åï¼é¹¿è¤ååªæç»çç æ´é«ï¼119 x 73.5 x 70 å¬å46â x 28â x 27Â½ è±å¯¸2007å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/f5d91ae/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fa0%2F38%2F2684e92e43aeb47a0f342b032302%2Fhk1748-dnnlr-cs-02.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/kohei-nawa-ming-he-huang-ping-pixcell-deer-pixcell",
+        "artist_name": "Kohei Nawa",
+        "artist_birth": 1975,
+        "artist_death": null,
+        "artwork_title": "PixCell - Deer",
+        "medium": "mixed media",
+        "material": "mixed media and glass beads",
+        "length": 70.0,
+        "width": 73.5,
+        "height": 119.0,
+        "unit": "cm",
+        "creation_year_start": 2007,
+        "creation_year_end": 2007,
+        "signed": "no",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "SCAI the Bathhouse, TokyoAcquired from the above by the present owner\n----------------------------------------------\næ±äº¬ï¼SCAI The Bathhouse ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "deer, antlers, beads, glass, sculpture, mount, taxidermy, wall decoration, mixed media, contemporary art",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "2635a76e-f9fd-4d60-b47c-056fb7ac2220",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 306",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 800000.0,
+                "amount_usd": 102459.89
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1546666.67,
+                "amount_usd": 198089.12
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1856000.0,
+                "amount_usd": 237706.95
+            }
+        ],
+        "description_block": "Atsushi Kagab. 1978\nFishes are falling from the sky I thought it was just a lockdown (Tony OâMalley on a donkey) (After Jakuchu)signed, titled and dated 2020 (on the reverse)acrylic on canvas90 by 90 cm.35â by 35â in.Executed in 2020.\n----------------------------------------------\nå è³æº«1978å¹´ç\né­å¾å¤©èéâæä»¥çºåªæ¯å°åï¼æå°¼Â·å¥§é¦¬å©é¨é©¢ï¼æ¬¾è­Atsushiï¼Fishes are falling from the sky I thought it was just a lockdown (Tony OâMalley on a donkey) (After Jakuchu)ï¼2020ï¼ä½åèé¢ï¼å£ååç«å¸90 x 90 å¬å35â x 35â è±å¯¸2020å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/f71fe00/2147483647/strip/true/crop/6454x6454+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Feb%2Fcf%2F5884872f436191b43613adb90a28%2Fhk1748-dnp7t-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/atsushi-kaga-jia-he-wen-fishes-are-falling-from",
+        "artist_name": "Atsushi Kaga",
+        "artist_birth": 1978,
+        "artist_death": null,
+        "artwork_title": "Fishes are falling from the sky I thought it was just a lockdown (Tony O’Malley on a donkey) (After Jakuchu)",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 90.0,
+        "height": 90.0,
+        "unit": "cm",
+        "creation_year_start": 2020,
+        "creation_year_end": 2020,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Maho Kubota Gallery, TokyoAcquired from the above by the present owner\n----------------------------------------------\næ±äº¬ï¼Maho Kubota ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "rabbit, fish, octopus, vegetables, drinks, blender, donkey, moon, jellyfish, table",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "0a6750ad-adfa-42f5-a486-271d883a1dba",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 307",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 600000.0,
+                "amount_usd": 76844.92
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1200000.0,
+                "amount_usd": 153689.84
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1493333.33,
+                "amount_usd": 191258.46
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1792000.0,
+                "amount_usd": 229510.15
+            }
+        ],
+        "description_block": "Izumi Katob. 1969\nUntitledsigned and dated 2019 (on the reverse)oil on canvas, in two partsoverall:103 by 65.5 cm.40Â½ by 25Â¾ in.Executed in 2019.\n----------------------------------------------\nå è¤æ³1969å¹´ç\nç¡é¡æ¬¾è­èè¡å®¶ç°½åï¼2019ï¼ä½åèé¢ï¼æ²¹ç«ç«å¸ï¼å±å©é¨åæ´é«ï¼103 x 65.5 å¬å40Â½ x 25Â¾ è±å¯¸2019å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/640589c/2147483647/strip/true/crop/1272x2000+0+0/resize/1024x1610!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F2d%2F43%2F5f77ded444cbbcfe9b24f703b4b3%2Fhk1748-dmq4l-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/izumi-kato-jia-teng-quan-untitled-wu-ti",
+        "artist_name": "Izumi Kato 加藤泉",
+        "artist_birth": 1969,
+        "artist_death": null,
+        "artwork_title": "Untitled 無題",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 65.5,
+        "height": 103.0,
+        "unit": "cm",
+        "creation_year_start": 2019,
+        "creation_year_end": 2019,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "The ArtistGalerie Perrotin, ParisAcquired directly from the above by the present owner\n----------------------------------------------\nèè¡å®¶ å·´é»ï¼è²æµ©ç»ç«å»ç¾èèç´æ¥è³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "head, face, colors, abstract shapes, lips, eyes, patterns, canvas, line, texture",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "bd237471-be3f-4b80-8f3b-26fdb6ea4f72",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 308",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 200000.0,
+                "amount_usd": 25614.97
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 400000.0,
+                "amount_usd": 51229.95
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 480000.0,
+                "amount_usd": 61475.93
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 576000.0,
+                "amount_usd": 73771.12
+            }
+        ],
+        "description_block": "Yu Nishimurab. 1982\nStore signed, titled and dated 2014 (on the reverse)oil on canvas111.9 by 145.5 cm.44 by 57Â¼ in.Executed in 2014.\n----------------------------------------\nè¥¿ææ1982å¹´ç\nååºæ¬¾è­Yu Nishimuraï¼Storeï¼2014ï¼ä½åèé¢ï¼æ²¹ç«ç«å¸111.9 x 145.5 å¬å44 x 57Â¼ è±å¯¸2014å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/28f4d85/2147483647/strip/true/crop/2000x1541+0+0/resize/1024x789!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F46%2Fd1%2Fac82128d4508bef62833f31dddd8%2Fhk1748-dk6bd-cs-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yu-nishimura-xi-cun-you-store-shang-dian",
+        "artist_name": "Yu Nishimura",
+        "artist_birth": 1982,
+        "artist_death": null,
+        "artwork_title": "Store",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 145.5,
+        "height": 111.9,
+        "unit": "cm",
+        "creation_year_start": 2014,
+        "creation_year_end": 2014,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "KAYOKOYUKI, TokyoAcquired from the above by the present owner\n----------------------------------------\næ±äº¬ï¼KAYOKOYUKIç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "store, night, figure, urban, glass, light, shadow, pedestrian, architecture, reflection",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "6d9748ca-abee-46ac-afc9-fafbf7d0f888",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 309",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 150000.0,
+                "amount_usd": 19211.23
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 200000.0,
+                "amount_usd": 25614.97
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 213333.33,
+                "amount_usd": 27322.64
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 256000.0,
+                "amount_usd": 32787.16
+            }
+        ],
+        "description_block": "Guillaume DÃ©nervaudb. 1987\nMr. Miles Adjusts the Filaments of the Lanternsigned and dated 2023 (on the reverse)oil, tempera and pencil on linen186.2 by 115.2 cm.73Â¼ by 45â in.Executed in 2023.\n----------------------------------------------\nåæ­å§ Â· å¾·å§ç¾æ²1987å¹´ç\néç¾æ¯åçèª¿æ´çç± çççµ²æ¬¾è­Guillaume DÃ©nervaudï¼2023ï¼ä½åèé¢ï¼æ²¹ç«ãå¦å¹æåéç­äºéº»å¸186.2 x 115.2 å¬å73Â¼ x 45â è±å¯¸2023å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/4b1dfff/2147483647/strip/true/crop/1293x2000+0+0/resize/1024x1584!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fac%2F98%2F9bb9b40e4690b2d84f323d191980%2Fhk1748-dlglf-t3-rx01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/guillaume-denervaud-ji-ou-mu-de-nei-er-wo-mr-miles",
+        "artist_name": "Guillaume Dénervaud",
+        "artist_birth": 1987,
+        "artist_death": null,
+        "artwork_title": "Mr. Miles Adjusts the Filaments of the Lantern",
+        "medium": "painting",
+        "material": "oil, tempera and pencil on linen",
+        "length": null,
+        "width": 115.2,
+        "height": 186.2,
+        "unit": "cm",
+        "creation_year_start": 2023,
+        "creation_year_end": 2023,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Bel Ami, Los AngelesPrivate CollectionAcquired from the above by the present owner\n----------------------------------------------\næ´æç£¯ï¼Bel Amiç«å»ç§äººæ¶èç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "lantern, filaments, flowers, circles, lines, colors, plants, abstract, patterns, foliage",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "9c844346-f950-45f4-84e8-ea3fc0cac217",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 310",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1200000.0,
+                "amount_usd": 153689.84
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3000000.0,
+                "amount_usd": 384224.59
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2773333.33,
+                "amount_usd": 355194.29
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3328000.0,
+                "amount_usd": 426233.14
+            }
+        ],
+        "description_block": "David Hockney1937 - 2026\nCaribbean Tea Timesigned and numbered 25/36 (right panel)lithograph in colors with paper collage and acrylic on eight sheets of TGL handmade paper, in a double-sided four-panel wood folding screenoverall:215 by 300 cm.84â by 118â in.Executed in 1987, this work is number 25 from an edition of 36, plus 4 artist's proofs.\n----------------------------------------------\nå¤§è¡ Â· éåå°¼1937 - 2026å¹´\nå åæ¯æµ·è¶æåæ¬¾è­David Hockneyï¼25/36ï¼å³éæºå±ï¼å½©è²ç³çå°å·ãç´å¼µæ¼è²¼åå£ååæ¼å«å¼µ TGL æå·¥ç´ï¼éé¢åææ¨è£½æºçå±é¢¨æ´é«ï¼215 x 300 å¬å84â x 118â è±å¯¸1987å¹´ä½çæ¸25/36æ­¤ä½åå±36çï¼æ¬åçºç¬¬25çï¼å ä¸4çèè¡å®¶èªçç",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/a70e75d/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F91%2F9b%2Fce87b7394ec19bc8bd1c72a05bf9%2Fhk1748-dpftp-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/david-hockney-da-wei-huo-ke-ni-carribean-tea-time",
+        "artist_name": "David Hockney",
+        "artist_birth": 1937,
+        "artist_death": 2026,
+        "artwork_title": "Caribbean Tea Time",
+        "medium": "mixed media",
+        "material": "lithograph in colors with paper collage and acrylic on eight sheets of TGL handmade paper",
+        "length": null,
+        "width": 300.0,
+        "height": 215.0,
+        "unit": "cm",
+        "creation_year_start": 1987,
+        "creation_year_end": 1987,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private CollectionAcquired directly from the above by the present owner\n----------------------------------------------\nç§äººæ¶è ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "tea, table, chairs, sea, foliage, geometric shapes, colors, abstract design, folding screen, Caribbean",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "48a8c750-c2db-4e5e-9fec-745284eb8af9",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 311",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 650000.0,
+                "amount_usd": 83248.66
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1200000.0,
+                "amount_usd": 153689.84
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1173333.33,
+                "amount_usd": 150274.51
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1408000.0,
+                "amount_usd": 180329.41
+            }
+        ],
+        "description_block": "Pacita Abad 1946 - 2004\nMarnay sur le Seinetitled and inscribed (on the reverse)acrylic and painted cloth stitched on canvas241.5 by 178 cm.95 by 70 in.Executed in 2003.\n---------------------------------------------\nå¸è¥¿å¡ Â· é¿è²å¾·1946 - 2004å¹´\nå¡ç´æ²³çé¦¬ç¾å¥æ¬¾è­Marnay sur le Seineï¼ä½åèé¢ï¼å£ååãèè²å¸ï¼ç¸«æ¼ç«å¸241.5 x 178 å¬å95 x 70 è±å¯¸2003å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/96804a6/2147483647/strip/true/crop/1475x2000+0+0/resize/1024x1388!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F3c%2F7c%2F58be1a264854a26013bfd6bed9db%2Fhk1748-dqfqt-cs-06-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/pacita-abad-pa-xi-ta-a-bei-de-marnay-sur-seine-sai",
+        "artist_name": "Pacita Abad",
+        "artist_birth": 1946,
+        "artist_death": 2004,
+        "artwork_title": "Marnay sur le Seine",
+        "medium": "mixed media",
+        "material": "acrylic and painted cloth stitched on canvas",
+        "length": null,
+        "width": 178.0,
+        "height": 241.5,
+        "unit": "cm",
+        "creation_year_start": 2003,
+        "creation_year_end": 2003,
+        "signed": "no",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Artist EstateSotheby's, Hong Kong, 11 November 2015, Selling Exhibition: Southeast Asian Abstraction: A New Dialogue, Lot 1Acquired from the above by the present owner\n----------------------------------------------\nèè¡å®¶æèé¦æ¸¯ï¼èå¯æ¯ï¼2015å¹´11æ11æ¥ï¼ãæ±åäºæ½è±¡èè¡ï¼ å¶æ°å°è©±ãå±å®æï¼ä½åç·¨è1 ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "abstract, color, green, blue, texture",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "6632338c-e5e5-4b9e-b183-97315b4b19f1",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 312",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 240000.0,
+                "amount_usd": 30737.97
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 480000.0,
+                "amount_usd": 61475.93
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 298666.67,
+                "amount_usd": 38251.69
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 358400.0,
+                "amount_usd": 45902.03
+            }
+        ],
+        "description_block": "I Gusti Ayu Kadek Murniasih1966 - 2006\nDi Carlopesinaacrylic on canvas, in two partsoverall:230 by 50.5 cm.90Â½ by 19â in.Executed in 2000.\nThis work is accompanied by a certificate of authenticity issued by Nadi Gallery.\n----------------------------------------------\nä¼ã»å¤æ¯æã»é¿è²ã»å¡å¾·å¯ã»ç©å¦®é¿ç·1966 - 2006å¹´\nä¾èªCarlopesinaå£ååç«å¸ï¼å±å©é¨åæ´é«ï¼230 x 50.5 å¬å90Â½ x 19â è±å¯¸2000å¹´ä½\néï¼Nadi Galleryéç«ä¹ä½åä¿è­æ¸",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/eaa7f31/2147483647/strip/true/crop/450x2000+0+0/resize/1024x4551!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F47%2F30%2Fe1c18a5842ee9fce1e46673af626%2Fhk1748-dpdkx-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/i-gusti-ayu-kadek-murniasih-yigu-si-tia-yuka-de",
+        "artist_name": "I Gusti Ayu Kadek Murniasih",
+        "artist_birth": 1966,
+        "artist_death": 2006,
+        "artwork_title": "I Gusti Ayu Kadek Murniasih",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 50.5,
+        "height": 230.0,
+        "unit": "cm",
+        "creation_year_start": 2000,
+        "creation_year_end": 2000,
+        "signed": "no",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Nadi Gallery, JakartaAcquired from the above by the present owner\n----------------------------------------------\néå éï¼Nadi ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "female figure, blue skin, yellow bikini, high heels, brown background, abstract shapes, girl with long hair, stylized arms, elongated proportions, standing pose",
+        "item_count": 2,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "cb37e0b7-22ec-4142-ab49-ee54c0431d14",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 313",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1200000.0,
+                "amount_usd": 153689.84
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2000000.0,
+                "amount_usd": 256149.73
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1600000.0,
+                "amount_usd": 204919.78
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1920000.0,
+                "amount_usd": 245903.74
+            }
+        ],
+        "description_block": "Izumi Katob. 1969\nUntitledsigned and dated 2008 (on the reverse)oil on canvas194 by 130.3 cm.76â by 51Â¼ in.Executed in 2008.\n----------------------------------------------\nå è¤æ³1969å¹´ç\nç¡é¡æ¬¾è­èè¡å®¶ç°½åï¼2008ï¼ä½åèé¢ï¼æ²¹ç«ç«å¸194 x 130.3 å¬å76â x 51Â¼ è±å¯¸2008å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/200ef6e/2147483647/strip/true/crop/1349x2000+0+0/resize/1024x1518!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fcc%2F39%2Fcf5a19ea428584b63dd3bdc17d11%2Fhk1748-dnnlz-cs-3.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/izumi-kato-jia-teng-quan-untitled-wu-ti-2",
+        "artist_name": "Izumi Kato",
+        "artist_birth": 1969,
+        "artist_death": null,
+        "artwork_title": "Untitled",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 130.3,
+        "height": 194.0,
+        "unit": "cm",
+        "creation_year_start": 2008,
+        "creation_year_end": 2008,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "no",
+        "provenance": "Arataniurano, TokyoPrivate CollectionMichael Ku Gallery, TaipeiAcquired from the above by the present owner\n----------------------------------------------\næ±äº¬ãArataniuranoç©ºé´ç§äººæ¶èå°åï¼è°·å¬é¤¨ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "figures, woman, child, green leaf, patterns, colors, abstract forms, landscape elements, stylized shapes, facial features",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "4c4d01ba-cdd5-4a38-a9c0-7c8073aa7428",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 316",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 8000000.0,
+                "amount_usd": 1024598.9
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 12000000.0,
+                "amount_usd": 1536898.36
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 11181818.18,
+                "amount_usd": 1432109.83
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 12800000.0,
+                "amount_usd": 1639358.25
+            }
+        ],
+        "description_block": "Yayoi Kusama1929 - 2026\nPumpkinsigned in English and Japanese, and dated 1989 (on the reverse)acrylic on canvas45.5 by 38 cm.17â by 15 in.Executed in 1989.\nThis work is accompanied by a registration card issued by YAYOI KUSAMA Inc.\n----------------------------------------------\nèéå½ç1929 - 2026å¹´\nåçæ¬¾è­ Yayoi Kusamaï¼èéå½çï¼1989ï¼ä½åèé¢ï¼å£ååç«å¸45.5 x 38 å¬å17â x 15 è±å¯¸1989å¹´ä½\néï¼ç±æ ªå¼æç¤¾èéå½çç°½ç¼ä¹èè¡åè¨»åå¡ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/ef8b181/2147483647/strip/true/crop/7064x8393+0+0/resize/1024x1217!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F0a%2F53%2Fc791f5a14905941eb40bdfe445f9%2Fhk1748-dnjqv-cs-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yayoi-kusama-cao-jian-mi-sheng-pumpkin-nan-gua",
+        "artist_name": "Yayoi Kusama",
+        "artist_birth": 1929,
+        "artist_death": 2026,
+        "artwork_title": "Pumpkin",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 38.0,
+        "height": 45.5,
+        "unit": "cm",
+        "creation_year_start": 1989,
+        "creation_year_end": 1989,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private CollectionNew Art Est-Ouest Auctions, 27 May 2011, Lot 1058Acquired from the above by the present owner\n----------------------------------------------\nç§äººæ¶è æ±äº¬ï¼æ°èä¼æ¯ç¹æè³£ï¼2011å¹´5æ27æ¥ï¼æåç·¨è1058ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "pumpkin, yellow, red, black, polka dots, abstract, gourds, shape, pattern, texture",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "e7142009-fc39-44c5-bc45-e8902d8def08",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 317",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3000000.0,
+                "amount_usd": 384224.59
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 5000000.0,
+                "amount_usd": 640374.32
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2133333.33,
+                "amount_usd": 273226.37
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2560000.0,
+                "amount_usd": 327871.65
+            }
+        ],
+        "description_block": "Yayoi Kusama1929 - 2026\nNets 19signed in English, titled in English and dated 1998 (on the reverse)acrylic on canvas53 by 65 cm.20â by 25â in.Executed in 1998.\nThis work is accompanied by a registration card issued by YAYOI KUSAMA Inc.\n----------------------------------------------\nèéå½ç1929 - 2026å¹´\nç¶²19èæ¬¾è­Yayoi Kusamaï¼1998ï¼Nets 19ï¼ä½åèé¢ï¼å£ååç«å¸53 x 65 å¬å20â x 25â è±å¯¸1998å¹´ä½\néï¼ç±æ ªå¼æç¤¾èéå½çç°½ç¼ä¹èè¡åè¨»åå¡ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/21356c3/2147483647/strip/true/crop/7729x6316+0+0/resize/1024x837!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F69%2F2c%2F0ca3c3534d5b88659cfcc2bc7e54%2Fhk1748-dnnll-new-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yayoi-kusama-cao-jian-mi-sheng-nets-19-wang-19hao",
+        "artist_name": "Yayoi Kusama",
+        "artist_birth": 1929,
+        "artist_death": 2026,
+        "artwork_title": "Nets 19",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 65.0,
+        "height": 53.0,
+        "unit": "cm",
+        "creation_year_start": 1998,
+        "creation_year_end": 1998,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Robert Miller Gallery, New YorkPrivate Collection, AsiaRavenel, Taipei, 1 December 2019, Lot 127Acquired from the above by the present owner\n----------------------------------------------\nç´ç´ï¼Robert Millerç«å»äºæ´²ï¼ç§äººæ¶èå°åï¼ç¾èå¥§ï¼2019å¹´12æ1æ¥ï¼æåç·¨è127ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "black background, yellow dots, abstract pattern",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "9795c6dd-d182-4565-b898-5adb29ece44f",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 318",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2500000.0,
+                "amount_usd": 320187.16
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3500000.0,
+                "amount_usd": 448262.02
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3733333.33,
+                "amount_usd": 478146.16
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 4480000.0,
+                "amount_usd": 573775.39
+            }
+        ],
+        "description_block": "Yayoi Kusama1929 - 2026\nPumpkinsigned in English, titled in Japanese and dated 1990 (on the reverse)acrylic on canvas22.7 by 15.8 cm.8â by 6Â¼ in.Executed in 1990.\nThis work is accompanied by a registration card issued by YAYOI KUSAMA Inc.\n----------------------------------------------\nèéå½ç1929 - 2026å¹´\nåçæ¬¾è­Yayoi Kusamaï¼1990ï¼ãã¼ã¡ãï¼ä½åèé¢ï¼å£ååç«å¸22.7 x 15.8 å¬å8â x 6Â¼ è±å¯¸1990å¹´ä½\néï¼ç±æ ªå¼æç¤¾èéå½çç°½ç¼ä¹èè¡åè¨»åå¡ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/fbb22c4/2147483647/strip/true/crop/919x1292+0+0/resize/1024x1440!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F61%2F13%2F1072ad5c42bba2893f0555495e18%2Fhk1748-dpdsl-cs-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yayoi-kusama-cao-jian-mi-sheng-pumpkin-nan-gua-2",
+        "artist_name": "Yayoi Kusama",
+        "artist_birth": 1929,
+        "artist_death": 2026,
+        "artwork_title": "Pumpkin",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 15.8,
+        "height": 22.7,
+        "unit": "cm",
+        "creation_year_start": 1990,
+        "creation_year_end": 1990,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private CollectionSeoul Auction, Seoul, 30 April 2014, Lot 25Private Collection, AsiaAcquired from the above by the present owner\n----------------------------------------------\nç§äººæ¶èé¦ç¾ï¼é¦ç¾æè³£ï¼2014å¹´4æ30æ¥ï¼æåç·¨è25ç§äººæ¶èï¼äºæ´²ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "pumpkin, black background, yellow dots, pattern, gourd shape, abstract outline, smooth texture",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "b66cb793-276b-4624-be74-f917d04027f9",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 319",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1000000.0,
+                "amount_usd": 128074.86
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 480000.0,
+                "amount_usd": 61475.93
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 576000.0,
+                "amount_usd": 73771.12
+            }
+        ],
+        "description_block": "Izumi Katob. 1969\nUntitledsigned and dated 2008 (on the underside)mixed media, in three parts150 by 59.5 by 70 cm.59 by 23â by 27Â½ in.Executed in 2008.\n----------------------------------------------\nå è¤æ³1969å¹´ç\nç¡é¡æ¬¾è­èè¡å®¶ç°½åï¼2008ï¼ä½ååºé¨ï¼è¤ååªæ, å±ä¸é¨å150 x 59.5 x 70 å¬å59 x 23â x 27Â½ è±å¯¸2008å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/3f3bd17/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F6c%2F2f%2F0454d8844698960dbf726ce05456%2Fhk1748-dnnm4-cs-27-v1.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/izumi-kato-jia-teng-quan-untitled-wu-ti-3",
+        "artist_name": "Izumi Kato",
+        "artist_birth": 1969,
+        "artist_death": null,
+        "artwork_title": "Untitled",
+        "medium": "mixed media",
+        "material": "mixed media",
+        "length": 70.0,
+        "width": 59.5,
+        "height": 150.0,
+        "unit": "cm",
+        "creation_year_start": 2008,
+        "creation_year_end": 2008,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "no",
+        "provenance": "Private Collection, Asia\n----------------------------------------------\näºæ´²ï¼ç§äººæ¶è",
+        "subject_matter": "chair, flower, deer, sculpture, mixed media",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "416eb7e3-b996-4490-a8b9-6bca78f721d6",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 320",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 900000.0,
+                "amount_usd": 115267.38
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1500000.0,
+                "amount_usd": 192112.29
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2026666.67,
+                "amount_usd": 259565.06
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2432000.0,
+                "amount_usd": 311478.07
+            }
+        ],
+        "description_block": "Keith Haring1958-1990\nAndy Mousesigned and dated Nov 7-85 (on the reverse)sumi ink on paper58.5 by 58.5 cm.23 by 23 in.Executed in 1985.\n----------------------------------------------\nå±æ¯ Â· åæ1958-1990å¹´\nå®è¿ªé¼ æ¬¾è­K.Haringï¼85ï¼ä½åèé¢ï¼å¢¨æ°´ç´æ¬58.5 x 58.5 å¬å23 x 23 è±å¯¸1985å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/8777505/2147483647/strip/true/crop/1546x1542+0+0/resize/1024x1021!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fd4%2Fa2%2F6e0aaaa6404bb0b3f6e6e27bd244%2Fhk1748-dqg5c-cs-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/keith-haring-kai-si-ha-lin-andy-mouse-an-di-shu",
+        "artist_name": "Keith Haring",
+        "artist_birth": 1958,
+        "artist_death": 1990,
+        "artwork_title": "Andy Mouse",
+        "medium": "drawing",
+        "material": "sumi ink on paper",
+        "length": null,
+        "width": 58.5,
+        "height": 58.5,
+        "unit": "cm",
+        "creation_year_start": 1985,
+        "creation_year_end": 1985,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "George Mulder Fine Art, MiamiPrivate Collection, USASotheby's, New York, 16 May 2002, Lot 415Private Collection, New YorkEdward Ressle, New YorkAcquired from the above by the present owner\n----------------------------------------------\néé¿å¯ï¼George Mulder Fine Artç«å»ç¾åï¼ç§äººæ¶èç´ç´ï¼èå¯æ¯ï¼2002å¹´5æ16æ¥ï¼æåç·¨è415ç´ç´ï¼ç§äººæ¶èç´ç´ï¼Edward Ressleç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "mouse, glasses, money, abstract figure, lines, bill, black and white, cartoon, expression, character",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "c7f43bdf-6d39-4e44-872b-c85c5ce38307",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 321",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 200000.0,
+                "amount_usd": 25614.97
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 400000.0,
+                "amount_usd": 51229.95
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 373333.33,
+                "amount_usd": 47814.62
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 448000.0,
+                "amount_usd": 57377.54
+            }
+        ],
+        "description_block": "David Hockney1937 - 2026\nUntitled (1159)signed, dated 12 and numbered 11/25 (on the bottom edge)iPad drawing printed in colours on wove papersheet: 94.2 by 71.2 cm. 37â by 28 in.Executed in 2012, this work is number 11 from an edition of 25.\n----------------------------------------------\nå¤§è¡ Â· éåå°¼1937 - 2026å¹´\nç¡é¡ (1159)æ¬¾è­èè¡å®¶ç°½åï¼12ï¼ 11/25ï¼åºé¨éç·£ï¼iPadç¹ªåå°æ¼ç´æ¬ç´å¼µï¼94.2 x 71.2 å¬åï¼37â x 28 è±å¯¸2012å¹´ä½çæ¸11ï¼25æ­¤ä½åå±25çï¼æ¬åçºç¬¬11ç",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/feb24c1/2147483647/strip/true/crop/1510x2000+0+0/resize/1024x1356!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F58%2F1b%2Fe10dfd00431db7dc2b1e40f85e7e%2Fhk1748-dkh29-cs-04-a.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/david-hockney-da-wei-huo-ke-ni-untitled-1159-wu-ti",
+        "artist_name": "David Hockney",
+        "artist_birth": 1937,
+        "artist_death": 2026,
+        "artwork_title": "Untitled (1159)",
+        "medium": "prints",
+        "material": "iPad drawing printed in colours on wove paper",
+        "length": null,
+        "width": 71.2,
+        "height": 94.2,
+        "unit": "cm",
+        "creation_year_start": 2012,
+        "creation_year_end": 2012,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Annely Juda Fine Art, LondonAcquired from the above by the present owner\n----------------------------------------------\nå«æ¦ï¼Annely Juda ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "iPad drawing, glass, text, figure, background, colors, patterns, landscape, expression, smoke",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "e78f8fa8-8198-4f8f-a9e4-f296000030b2",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 322",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2400000.0,
+                "amount_usd": 307379.67
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 4000000.0,
+                "amount_usd": 512299.45
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2986666.67,
+                "amount_usd": 382516.92
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3584000.0,
+                "amount_usd": 459020.31
+            }
+        ],
+        "description_block": "George Condob. 1957\nPoliticiansigned and dated 2020 (upper left)pastel on paper107 by 106.5 cm.42â by 41â in.Executed in 2020.\n----------------------------------------------\nå¬æ²» Â· åº·å¤1957å¹´ç\næ¿å®¢æ¬¾è­èè¡å®¶ç°½åï¼2020ï¼å·¦ä¸ï¼ç²å½©ç´æ¬107 x 106.5 å¬å42â x 41â è±å¯¸2020å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/1649821/2147483647/strip/true/crop/4162x4527+0+0/resize/1024x1114!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F82%2Fa3%2F4a68527a49aa9103dc839ceb4a90%2Fhk1748-dny4s-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/george-condo-qiao-zhi-kang-duo-politician-zheng-ke",
+        "artist_name": "George Condo",
+        "artist_birth": 1957,
+        "artist_death": null,
+        "artwork_title": "Politician",
+        "medium": "drawing",
+        "material": "pastel on paper",
+        "length": null,
+        "width": 106.5,
+        "height": 107.0,
+        "unit": "cm",
+        "creation_year_start": 2020,
+        "creation_year_end": 2020,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Hauser & Wirth, New YorkAcquired from the above \n----------------------------------------------\nç´ç´ï¼è±ªçæ²æ¯ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "politician, caricature, portrait, color, abstract, expression, head, figure, features, background",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "1c5b34c9-bfc4-459d-8e2c-888587b2669e",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 323",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2500000.0,
+                "amount_usd": 320187.16
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3500000.0,
+                "amount_usd": 448262.02
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 5014545.45,
+                "amount_usd": 642237.22
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 6016000.0,
+                "amount_usd": 770498.38
+            }
+        ],
+        "description_block": "Anish Kapoorb. 1954\nUntitledsigned, dated 2014, and inscribed WD100966 (on the reverse)bronze and lacquer135 by 135 by 22 cm.53â by 53â by 8â in.Executed in 2014.\nÂ© 2026 Anish Kapoor. All Rights Reserved, DACS Images.----------------------------------------------\nå®å°¼æ½ Â· å¡æ®ç¾1954å¹´ç\nç¡é¡æ¬¾è­ Anish Kapoorï¼2014ï¼WD100966ï¼ä½åèé¢ï¼ééãæ¼135 x 135 x 22 å¬å53â x 53â x 8â è±å¯¸2014å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/fbb429b/2147483647/strip/true/crop/6090x6090+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fbe%2F18%2Fa891b5014ecc8156586b8245f708%2Fhk1748-dps7h-cs-02.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/anish-kapoor-an-ni-shi-ka-pu-er-untitled-wu-ti",
+        "artist_name": "Anish Kapoor",
+        "artist_birth": 1954,
+        "artist_death": null,
+        "artwork_title": "Untitled",
+        "medium": "sculpture",
+        "material": "bronze and lacquer",
+        "length": 22.0,
+        "width": 135.0,
+        "height": 135.0,
+        "unit": "cm",
+        "creation_year_start": 2014,
+        "creation_year_end": 2014,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "no",
+        "provenance": "Gladstone Gallery, New YorkPrivate CollectionPhillips, Hong Kong, 25 November 2018, Lot 22Acquired from the above sale by the present owner\n----------------------------------------------\nç´ç´ï¼Gladstoneç«å»ç§äººæ¶èé¦æ¸¯ï¼ä½³å£«å¾ï¼2018å¹´11æ25æ¥ï¼æåç·¨è22ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "mirror, bronze, lacquer, circular, wall-mounted, reflection, interior, modern art, installation, polished surface",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "e842127f-8e91-469a-b24c-812c01cc6b72",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 324",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1200000.0,
+                "amount_usd": 153689.84
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3000000.0,
+                "amount_usd": 384224.59
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1280000.0,
+                "amount_usd": 163935.82
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1536000.0,
+                "amount_usd": 196722.99
+            }
+        ],
+        "description_block": "Christine Ay Tjoeb. 1973\nLama Sabakhtani 3 â 2 #03signed and dated 10 (lower right); signed, titled, dated 2010 (on the reverse)oil on canvas170 by 199.3 cm.66â by 78Â½ in.Executed in 2010.\n----------------------------------------------\nåèçµ²æ± Â· è¾ç 1973å¹´ç\nçºä»éº¼é¢æ£æ 3 â 2 #03æ¬¾è­Christineï¼10ï¼å³ä¸ï¼ï¼ay tjoe christineï¼ 3 â 2 #03ï¼2010ï¼ä½åèé¢ï¼æ²¹ç«ç«å¸170 x 199.3 å¬å66â x 78Â½ è±å¯¸2010å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/3e15413/2147483647/strip/true/crop/6359x5426+0+0/resize/1024x874!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F71%2Fc1%2Fc1e1d236464c85d1866d89fd2b32%2Fhk1748-cvttk-bi-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/christine-ay-tjoe-ke-li-si-ting-ai-zhu-lama",
+        "artist_name": "Christine Ay Tjoe",
+        "artist_birth": 1973,
+        "artist_death": null,
+        "artwork_title": "Lama Sabakhtani 3 → 2 #03",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 199.3,
+        "height": 170.0,
+        "unit": "cm",
+        "creation_year_start": 2010,
+        "creation_year_end": 2010,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Seoul, SongEun ArtSpaceAcquired from the above by the present owner\n----------------------------------------------\né¦ç¾ï¼æ¾é±èè¡ç©ºéç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "abstract, lines, shapes, black, gray, blue, red, yellow, text, canvas",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "74d9a86e-2d79-446b-9d16-50cb4b0ee3b7",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 325",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 600000.0,
+                "amount_usd": 76844.92
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 900000.0,
+                "amount_usd": 115267.38
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1173333.33,
+                "amount_usd": 150274.51
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1408000.0,
+                "amount_usd": 180329.41
+            }
+        ],
+        "description_block": "Park Seo-Bo1931 - 2023\nÃcriture No. 62-72signed, titled and dated 1972 in both Hanja and English (on the reverse)pencil and oil on hemp cloth72.5 by 60.5 cm.28Â½ by 23â in.Executed in 1972.\n----------------------------------------------\næ´æ ç«1931ï¼2023å¹´\nææ³ No. 62-72æ¬¾è­PARK SEO-BO, ÃCRITURE No. 62-72, 1972ï¼æ´æ ç«ï¼ææ³ No. 62-72ï¼1972å¹´ä½ï¼ä½åèé¢ï¼éç­æ²¹ç«éº»å¸72.5 x 60.5 å¬å28Â½ x 23â è±å¯¸1972å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/038c46f/2147483647/strip/true/crop/1681x2000+0+0/resize/1024x1218!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F01%2F25%2Fd6d53c3b47f4a4526976aeafa77e%2Fhk1748-dpdp5-t2-01-crop.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/park-seo-bo-pu-qi-fu-ecriture-miao-fa-no-62-72",
+        "artist_name": "Park Seo-Bo",
+        "artist_birth": 1931,
+        "artist_death": 2023,
+        "artwork_title": "Écriture No. 62-72",
+        "medium": "painting",
+        "material": "pencil and oil on hemp cloth",
+        "length": null,
+        "width": 60.5,
+        "height": 72.5,
+        "unit": "cm",
+        "creation_year_start": 1972,
+        "creation_year_end": 1972,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private CollectionPoly International Auction Co., Ltd., Beijing, 3 June 2015, Lot 4055Acquired from the above by the present owner\n----------------------------------------------\nç§äººæ¶èåäº¬ï¼ä¿å©åéæè³£ï¼2015 å¹´ 6 æ 3 æ¥ï¼æåç·¨è 4055ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "blue, border, square, canvas, abstract, gradient, texture, color, light, shape",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "2a2e3985-746b-44b0-86e0-c7c48b0eaa1d",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 326",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1000000.0,
+                "amount_usd": 128074.86
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1600000.0,
+                "amount_usd": 204919.78
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1920000.0,
+                "amount_usd": 245903.74
+            }
+        ],
+        "description_block": "Chung Sanghwa1932 - 2026\nUntitled 76-9-15signed in Korean and English, titled in Korean and dated 1976 (on the reverse)oil on canvas130.7 by 97.5 cm.51Â½ by 38â in.Executed in 1976.\n----------------------------------------------\né­ç¸å1932 - 2026å¹´\nç¡é¡ 76-9-15æ¬¾è­èè¡å®¶ç°½åï¼CHUNG SANG HWAï¼ç¡é¡ 76-9-15ï¼ä½åèé¢ï¼æ²¹ç«ç«å¸130.7 x 97.5 å¬å51Â½ x 38â è±å¯¸1976 å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/27c9377/2147483647/strip/true/crop/1482x2000+0+0/resize/1024x1382!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fdf%2Fa0%2Fc41599d84c81b3295e9e664855e0%2Fhk1748-dpdp6-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/chung-sanghwa-zheng-xiang-he-untitled-76-9-15-wu",
+        "artist_name": "Chung Sanghwa",
+        "artist_birth": 1932,
+        "artist_death": 2026,
+        "artwork_title": "Untitled 76-9-15",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 97.5,
+        "height": 130.7,
+        "unit": "cm",
+        "creation_year_start": 1976,
+        "creation_year_end": 1976,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "The ArtistPrivate Collection, KoreaThence by descent to the present owner\n----------------------------------------------\nèè¡å®¶éåï¼ç§äººæ¶èæ­¤å¾ç±å®¶æå³æ¿è³ç¾èè",
+        "subject_matter": "abstract, white, texture, grid, square, pattern",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "d0724bf5-48c1-45fc-b43d-fed8318923e2",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 327",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 800000.0,
+                "amount_usd": 102459.89
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1200000.0,
+                "amount_usd": 153689.84
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1066666.67,
+                "amount_usd": 136613.19
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1280000.0,
+                "amount_usd": 163935.82
+            }
+        ],
+        "description_block": "Ha Chong-Hyunb. 1935\nConjunction 17-99signed, titled and dated 2017 (on the reverse)oil on hemp cloth130 by 97 cm.51â by 38Â¼ in.Executed in 2017.\n----------------------------------------------\næ²³é¾è³¢1935å¹´ç\næ¥å 17-99æ¬¾è­HA CHONG-HYUNï¼Conjunction 17-99ï¼2017ï¼ä½åèé¢ï¼æ²¹ç«éº»å¸130 x 97 å¬å51â x 38Â¼ è±å¯¸2017å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/b51d70c/2147483647/strip/true/crop/1488x2000+0+0/resize/1024x1376!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F79%2Fdb%2Fa75638f9493a9f1c7698e1afedd5%2Fhk1748-dpz3c-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/ha-chong-hyun-he-zhong-xian-conjunction-17-99-jie",
+        "artist_name": "Ha Chong-Hyun",
+        "artist_birth": 1935,
+        "artist_death": null,
+        "artwork_title": "Conjunction 17-99",
+        "medium": "painting",
+        "material": "oil on hemp cloth",
+        "length": null,
+        "width": 97.0,
+        "height": 130.0,
+        "unit": "cm",
+        "creation_year_start": 2017,
+        "creation_year_end": 2017,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Kukje Gallery, SeoulAcquired from the above by the present owner\n----------------------------------------------\né¦ç¾ï¼åéç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "abstract, blue, canvas, texture, oil painting, geometric shapes, lines, composition, layers, contemporary",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "b5e1c111-3bcb-4028-9c6a-6e4af5410e12",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 328",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 700000.0,
+                "amount_usd": 89652.4
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 640000.0,
+                "amount_usd": 81967.91
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 768000.0,
+                "amount_usd": 98361.49
+            }
+        ],
+        "description_block": "Kim Tschang-Yeul1929-2021\nRecurrencesigned, dated 1995 and inscribed PK95010 (on the right overlap)oil on canvas162 by 130.3 cm.63Â¾ by 51Â¼ in.Executed in 1995.\n----------------------------------------------\néæç1929-2021å¹´\næ°´æ»´æ¬¾è­èè¡å®¶ç°½åï¼1995ï¼PK95010ï¼ç«å¸å³æå¥èï¼æ²¹ç«ç«å¸162 x 130.3 å¬å63Â¾ x 51Â¼ è±å¯¸1995å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/7e3a08c/2147483647/strip/true/crop/1610x2000+0+0/resize/1024x1272!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F3b%2Fb6%2Ff071e38f4e09ad545a9403efc396%2Fhk1748-dqg58-cs-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/kim-tschang-yeul-jin-chang-lie-recurrence-shui-di",
+        "artist_name": "Kim Tschang-Yeul",
+        "artist_birth": 1929,
+        "artist_death": 2021,
+        "artwork_title": "Recurrence",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 130.3,
+        "height": 162.0,
+        "unit": "cm",
+        "creation_year_start": 1995,
+        "creation_year_end": 1995,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Gallery GODO, SeoulAcquired from the above by the present owner\n----------------------------------------------\né¦ç¾ï¼GODOç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "gold beads, calligraphy, textured surface, beige background",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "01b09676-c58e-4d8a-9a2e-f20644fd55f2",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 329",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 700000.0,
+                "amount_usd": 89652.4
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 586666.67,
+                "amount_usd": 75137.25
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 704000.0,
+                "amount_usd": 90164.7
+            }
+        ],
+        "description_block": "Rhee Seundja1918 - 2009\nNouveau code de la route (New Rules of the Road)signed and dated 1961 (twice lower right); inscribed 613OF529 (on the reverse stretcher bar)oil on canvas72.4 by 91.3 cm.28Â½ by 36 in.Executed in 1961.\n----------------------------------------------\næèå­1918 - 2009å¹´\næ°éè·¯è¦åæ¬¾è­Seundja Rheeï¼1961 ï¼å³ä¸ä¸¤æ¬¡ï¼613OF529ï¼ä½åå§æ¡ï¼æ²¹ç«ç«å¸72.4 x 91.3 å¬å28Â½ x 36 è±å¯¸1961å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/51efe5c/2147483647/strip/true/crop/2000x1587+0+0/resize/1024x813!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fa5%2F0d%2F937fc8f941198510d861b9b993b8%2Fhk1748-dmk7n-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/rhee-seundja-li-sheng-zi-apparence-biao-mian",
+        "artist_name": "Rhee Seundja",
+        "artist_birth": 1918,
+        "artist_death": 2009,
+        "artwork_title": "Nouveau code de la route (New Rules of the Road)",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 91.3,
+        "height": 72.4,
+        "unit": "cm",
+        "creation_year_start": 1961,
+        "creation_year_end": 1961,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Galerie Cavalero, CannesPrivate CollectionSeoul Auction, Hong Kong, 29 March 2019, Lot 23Acquired from the above by the present owner\n----------------------------------------------\næç´ï¼Galerie Cavaleroç«å»ç§äººæ¶èé¦æ¸¯ï¼é¦ç¾æè³£ï¼2019å¹´3æ29æ¥ï¼æåç·¨è23ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "geometric shapes, orange, yellow, black, abstract patterns",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "761330a5-3d3d-4f5f-8c0c-ac762483b5e8",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 330",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1000000.0,
+                "amount_usd": 128074.86
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2000000.0,
+                "amount_usd": 256149.73
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1493333.33,
+                "amount_usd": 191258.46
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1792000.0,
+                "amount_usd": 229510.15
+            }
+        ],
+        "description_block": "Lee Ufanb. 1936\nFrom Notchsigned in Hanja and English, and dated 1973 (on the reverse)woodcut148 by 48 cm.58Â¼ by 18â in.Executed in 1973.\n----------------------------------------------\næç¦¹ç¥1936å¹´ç\nå¾å»æ¬¾è­ï»¿æç¦¹ç¥ï¼Leeï¼1973ï¼ä½åèé¢ï¼æ¨å»148 x 48 å¬å58Â¼ x 18â è±å¯¸1973å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/aac0953/2147483647/strip/true/crop/649x2000+0+0/resize/1024x3156!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fb5%2F4f%2F6f85d0e44fb98bfd7b7b0d21792a%2Fhk1748-9xpr3-bi-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/lee-ufan-li-yu-huan-from-notch-cong-ke",
+        "artist_name": "Lee Ufan",
+        "artist_birth": 1936,
+        "artist_death": null,
+        "artwork_title": "From Notch",
+        "medium": "prints",
+        "material": "woodcut",
+        "length": null,
+        "width": 48.0,
+        "height": 148.0,
+        "unit": "cm",
+        "creation_year_start": 1973,
+        "creation_year_end": 1973,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "SCAI The Bath House, JapanPrivate Collection, JapanSotheby's, Hong Kong, Avant Garde Asia - Lines of Korean Masters Selling ExhibitionAcquired from the above by the present owner\n----------------------------------------------\næ¥æ¬ï¼SCAI The Bath House ç«å»æ¥æ¬ï¼ç§äººæ¶èé¦æ¸¯ï¼èå¯æ¯ï¼ãäºæ´²åè¡èè¡ââéåå®è²ç¾å­¸ãå±å®æç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "woodcut, abstract patterns, natural wood texture",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "4ada2c4d-c13b-418d-8784-f0baa8012fa3",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 331",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 300000.0,
+                "amount_usd": 38422.46
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 640000.0,
+                "amount_usd": 81967.91
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 768000.0,
+                "amount_usd": 98361.49
+            }
+        ],
+        "description_block": "Kazuo Shiraga1924â2008\nKousekisigned and dated 1990 (lower left); signed, titled and dated 1990 (on the reverse)oil on canvas31 by 25 cm.12Â¼ by 9â in.Executed in 1990.\nThe work is accompanied by a certificate of authenticity issued by Japan Art Dealers Association, dated 17 September 2014.\n----------------------------------------------\nç½é«®ä¸é1924â2008å¹´\nç´è¹æ¬¾è­ç½é«®ï¼90ï¼å·¦ä¸ï¼ï¼ç´è¹ï¼ç½é«®ä¸éï¼å¹³æäºå¹´ä¹æï¼ä½åèé¢ï¼æ²¹ç«ç«å¸31 x 25 å¬å12Â¼ x 9â è±å¯¸1990å¹´ä½\néï¼ç±æ¥æ¬æ´ç«åååçµåç°½ç¼ä¹ä½åä¿è­æ¸ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/bef1a10/2147483647/strip/true/crop/1129x1392+0+0/resize/1024x1263!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F38%2Fee%2F05f6e9cf4bdc9b7b768ec85f1994%2Fhk1748-dnnlp-cs-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/kazuo-shiraga-bai-fa-yi-xiong-kouseki-hong-ji",
+        "artist_name": "Kazuo Shiraga",
+        "artist_birth": 1924,
+        "artist_death": 2008,
+        "artwork_title": "Kouseki",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 25.0,
+        "height": 31.0,
+        "unit": "cm",
+        "creation_year_start": 1990,
+        "creation_year_end": 1990,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private CollectionSBI Art Auction, Tokyo, 25 October 2014, Lot 275Acquired from the above by the present owner\n----------------------------------------------\nç§äººæ¶èæ±äº¬ï¼SBIèè¡æè³£ï¼2014å¹´10æ25æ¥ï¼æåç·¨è275ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "abstract, red, orange, white, yellow, brushstrokes, texture, flowing forms, dynamic composition, canvas",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "f397468b-ffcd-4ac8-8d49-8eacd03f71c6",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 332",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 200000.0,
+                "amount_usd": 25614.97
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 400000.0,
+                "amount_usd": 51229.95
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 373333.33,
+                "amount_usd": 47814.62
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 448000.0,
+                "amount_usd": 57377.54
+            }
+        ],
+        "description_block": "JirÅ Yoshihara1905 - 1972\nWorksigned in English (lower right)oil on canvas board33.5 by 24.3 cm.13â by 9Â½ in.Executed circa 1961-63.\n----------------------------------------\nååæ²»è¯1905 - 1972å¹´\nä½åæ¬¾è­yoshiharaï¼å³ä¸ï¼æ²¹ç«ãç«å¸åæ¨æ¿33.5 x 24.3 å¬å13â x 9Â½ è±å¯¸ç´1961è³1963å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/6a57694/2147483647/strip/true/crop/1444x2000+0+0/resize/1024x1418!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F49%2F99%2F22b2e60e41ba8deb2ee5ba3640fb%2Fhk1748-9xpr5-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/jiro-yoshihara-ji-yuan-zhi-liang-work-zuo-pin",
+        "artist_name": "Jiro Yoshihara 吉原治良",
+        "artist_birth": 1905,
+        "artist_death": 1972,
+        "artwork_title": "Work 作品",
+        "medium": "painting",
+        "material": "oil on canvas board",
+        "length": null,
+        "width": 24.3,
+        "height": 33.5,
+        "unit": "cm",
+        "creation_year_start": 1960,
+        "creation_year_end": 1969,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private Collection, JapanSotheby's, Hong Kong, 5 October 2015, Lot 1Acquired from the above by the present owner\n----------------------------------------\næ¥æ¬ï¼ç§äººæ¶èé¦æ¸¯ï¼èå¯æ¯ï¼2015å¹´10æ5æ¥ï¼æåç·¨è1ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "red circle, white texture, abstract, oil painting, canvas, splatter, palette knife, composition",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "59dfdfa0-41f5-4e5d-ab40-45d71f532b20",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 333",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 700000.0,
+                "amount_usd": 89652.4
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 341333.33,
+                "amount_usd": 43716.22
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 409600.0,
+                "amount_usd": 52459.46
+            }
+        ],
+        "description_block": "Takesada Matsutanib. 1937\nPoint de contact - 2021.8.signed and dated 2021 (lower right); signed in English and Japanese, titled in French, and dated twice 2021 (on the reverse); signed in English (on the reverse stretcher bar)acrylic and vinyl adhesive on canvas161.9 by 130 cm.63Â¾ by 51â in.Executed in 2021.\n----------------------------------------------\næ¾è°·æ­¦å¤1937å¹´ç\nè§¸é» - 2021å¹´8ææ¬¾è­Matsutaniï¼2021ï¼å³ä¸ï¼Matsutaniï¼èè¡å®¶ç°½åï¼Point de contact-2021.8.ï¼äº0äºåä¸.å«ï¼2021ï¼ä½åèé¢ï¼Matsutaniï¼å§æ¡èé¢ï¼éé¸é»ååå£ååç«å¸161.9 x 130 å¬å63Â¾ x 51â è±å¯¸2021å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/61477f2/2147483647/strip/true/crop/1611x2000+0+0/resize/1024x1271!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F24%2F90%2Fcf8bdf6144dc8fe1222e8f75b587%2Fhk1748-ckrzz-t3-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/takesada-matsutani-song-gu-wu-pan-point-de-contact",
+        "artist_name": "Takesada Matsutani",
+        "artist_birth": 1937,
+        "artist_death": null,
+        "artwork_title": "Point de contact - 2021.8",
+        "medium": "painting",
+        "material": "acrylic and vinyl adhesive on canvas",
+        "length": null,
+        "width": 130.0,
+        "height": 161.9,
+        "unit": "cm",
+        "creation_year_start": 2021,
+        "creation_year_end": 2021,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Hauser & Wirth, Hong KongAcquired from the above by the present owner\n----------------------------------------------\né¦æ¸¯ï¼Hauser & Wirthç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "yellow background, abstract shapes, green clip, beige forms, paint texture",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "a31828e5-c463-4475-8a30-cb61f7460704",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 334",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 150000.0,
+                "amount_usd": 19211.23
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 250000.0,
+                "amount_usd": 32018.72
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 426666.67,
+                "amount_usd": 54645.28
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 512000.0,
+                "amount_usd": 65574.33
+            }
+        ],
+        "description_block": "Ay-Ob. 1931\n96 Gradation Rainbow with Lapsigned, titled and dated 85 (on the reverse backboard)acrylic on canvas112 by 145.5 cm.44â by 57Â¼ in.Executed in 1985.\n----------------------------------------------\néå1931å¹´ç\n96æ¼¸è®å½©è¹æ¬¾è­Ay-Oï¼96 Gradation Rainbow with Lapï¼85ï¼ä½åèé¢æ¨æ¿ï¼å£ååç«å¸112 x 145.5 å¬å44â x 57Â¼ è±å¯¸1985å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/2c7293a/2147483647/strip/true/crop/2000x1540+0+0/resize/1024x788!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F42%2F70%2F5c126eca465fafecede7c27ec225%2Fhk1748-dnnlt-cs-5-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/ay-o-ai-ou-96-gradation-rainbow-with-lap-96-jian",
+        "artist_name": "Ay-O",
+        "artist_birth": 1931,
+        "artist_death": null,
+        "artwork_title": "Ay-O 靉嘔 | 96 Gradation Rainbow with Lap 96 漸變彩虹",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 145.5,
+        "height": 112.0,
+        "unit": "cm",
+        "creation_year_start": 1985,
+        "creation_year_end": 1985,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Fuji Television Gallery, TokyoPrivate Collection, AsiaSBI Art Auction, Tokyo, 15 July 2017, Lot 137Acquired from the above by the present owner\n----------------------------------------------\næ±äº¬ï¼å¯å£«é»è¦ç«å»äºæ´²ï¼ç§äººæ¶èæ±äº¬ï¼SBIæè³£ï¼2017å¹´7æ15æ¥ï¼æåç·¨è137ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "rainbow, color gradation",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "c8d73fa2-6311-4438-b1fc-1aae649c9bfb",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 335",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 550000.0,
+                "amount_usd": 70441.17
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 850000.0,
+                "amount_usd": 108863.63
+            }
+        ],
+        "description_block": "Hiroshi Senjub. 1958\nWaterfallsigned, titled and dated 2009 (on the reverse backboard)mineral pigment on paper mounted on panel61 by 61 cm.24 by 24 in.Executed in 2009.\n----------------------------------------\nåä½å1958å¹´ç\nçå¸æ¬¾è­H. Senjuï¼Waterfallï¼2009ï¼ä½åæ¨æ¿èé¢ï¼ç¤¦ç©é¡æç«å¸61 x 61 å¬å24 x 24 è±å¯¸2009å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/466e88c/2147483647/strip/true/crop/1996x2000+0+0/resize/1024x1026!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F47%2F1f%2F4cd5624a40a5a9b5ddf2ae4d2008%2Fhk1748-dn2zs-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/hiroshi-senju-qian-zhu-bo-waterfall-pu-bu",
+        "artist_name": "Hiroshi Senju",
+        "artist_birth": 1958,
+        "artist_death": null,
+        "artwork_title": "Waterfall",
+        "medium": "painting",
+        "material": "mineral pigment on paper mounted on panel",
+        "length": null,
+        "width": 61.0,
+        "height": 61.0,
+        "unit": "cm",
+        "creation_year_start": 2009,
+        "creation_year_end": 2009,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Sundaram Tagore Gallery, New YorkAcquired from the above by the present owner\n----------------------------------------\nç´ç´ï¼Sundaram Tagoreç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "waterfall, mineral pigment, paper, panel, blue, white, abstract, nature, landscape",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "73088f57-8c9e-400c-96d5-84680109d655",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 336",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 300000.0,
+                "amount_usd": 38422.46
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 448000.0,
+                "amount_usd": 57377.54
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 537600.0,
+                "amount_usd": 68853.05
+            }
+        ],
+        "description_block": "Yayoi Kusama1929 - 2026\nSoul Dashing Through Spacesigned and dated 1975 (upper left), signed in English and Kanji, dated 1975, titled in Kanji (on the reverse)charcoal and collage on paper54.5 by 39.5 cm.21Â½ by 15Â½ in.Executed in 1975.\nThis work is accompanied by a registration card issued by YAYOI KUSAMA Inc.\n----------------------------------------------\nèéå½ç1929 - 2026å¹´\nç©¿è¶ç©ºéçéé­æ¬¾è­Yayoi Kusamaï¼1975ï¼å·¦ä¸ï¼ï¼Yayoi Kusamaï¼1975ï¼èéå½çï¼å®å®ããããããé­ï¼ä½åèé¢ï¼ç­ç­æ¼è²¼ç´æ¬54.5 x 39.5 å¬å21Â½ x 15Â½ è±å¯¸1975å¹´ä½\néï¼ç±æ ªå¼æç¤¾èéå½çç°½ç¼ä¹èè¡åè¨»åå¡ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/3af86fa/2147483647/strip/true/crop/1114x1555+0+0/resize/1024x1429!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fcc%2Ff5%2F34c5607741adb7cc8af8b256a1f7%2Fhk1748-dnnlx-cs-11-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yayoi-kusama-cao-jian-mi-sheng-soul-dashing",
+        "artist_name": "Yayoi Kusama",
+        "artist_birth": 1929,
+        "artist_death": 2026,
+        "artwork_title": "Soul Dashing Through Space",
+        "medium": "drawing",
+        "material": "charcoal and collage on paper",
+        "length": null,
+        "width": 39.5,
+        "height": 54.5,
+        "unit": "cm",
+        "creation_year_start": 1975,
+        "creation_year_end": 1975,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private CollectionAugur Auction, Tokyo, 31 January 2008, Lot 37Acquired from the above by the present owner\n----------------------------------------------\nç§äººæ¶èæ±äº¬ï¼Auguræè³£ï¼2008å¹´1æ31æ¥ï¼æåç·¨è37ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "abstract, patterns, gold, black, red, charcoal, collage, texture, shapes, organic",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "d2cc02fc-37e5-4c35-a8ca-49cfefbe415d",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 337",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1800000.0,
+                "amount_usd": 230534.75
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2800000.0,
+                "amount_usd": 358609.62
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1706666.67,
+                "amount_usd": 218581.1
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2048000.0,
+                "amount_usd": 262297.32
+            }
+        ],
+        "description_block": "Yayoi Kusama1929 - 2026\nMt. Fuji in Seven Colours (set of 7 works)i. Yellow Fuji: My life shining forever, this human love shall not perish even after billions of light yearsii. Black Fuji: Where our soul sets in, this dark mountain embraces all with loveiii. Blue Fuji: Where the universe and human life areiv. Pink Fuji: All things full of kindness touched my heartv. Red Fuji: Mt. Fuji, I lovevi. Green Fuji: All about Mt. Fuji that I have loved my whole lifevii. Orange Fuji: When life boundlessly flares up to the universei-vi. each numbered 29/120 (lower left); each signed and dated 2014 (lower right);vii. numbered 85/120 (lower left); signed and dated 2014 (lower right)woodcuteach image: 30.3 by 90 cm. 11â by 35â in.each sheet: 40 by 96 cm. 15Â¾ by 37Â¾ in.Printed in 2015, these works are number 29 or 85 from an edition of 120.\nEach work is accompanied by a publication certificate with edition number 29 or 85 stamped.\n----------------------------------------------\nèéå½ç1929 - 2026å¹´\nä¸è²å¯å£«å±±ï¼ä¸çµä¸å¹ï¼i. é»å¯å£«ï¼æççå½æ°¸é éèï¼å³ä½¿ç¶éæ¸åååå¹´ï¼éç¨®äººé¡çæä¹ä¸ææ¶å¤±ii. é»å¯å£«ï¼æåéé­æ­¸èä¹å°ï¼éåº§é»è²çå±±ä»¥æææ±ä¸åiii. èå¯å£«ï¼å®å®èäººé¡çå½æå¨ä¹èiv. ç²ç´å¯å£«ï¼è¬ç©çæº«ææ·±æ·±è§¸åäºæçå¿v. ç´å¯å£«ï¼å¯å£«å±±ï¼ææä½ vi. ç¶ å¯å£«ï¼å¯å£«å±±çä¸åï¼æ¯æä¸çæævii. æ©å¯å£«ï¼çå½åå®å®ç¡éççä¹ææ¬¾è­i-vi. 29/120 (æ¯å¹å·¦ä¸ï¼ï¼Yayoi Kusamaï¼2014ï¼æ¯å¹å³ä¸ï¼vii. 85/120ï¼å·¦ä¸ï¼ï¼Yayoi Kusamaï¼2014ï¼å³ä¸ï¼æ¨å»çç«æ¯ä»¶ååï¼30.3 x 90 å¬åï¼11â x 35â è±å¯¸æ¯ä»¶ç´å¼µï¼40 x 96 å¬åï¼15Â¾ x 37Â¾ è±å¯¸2014å¹´ä½çæ¸29/120 æ 85/120æ¯å¹ä½åå±120ç\næ¯å¹åéï¼åºçè­æ¸ï¼èæçæ¸29æ85ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/2c08c89/2147483647/strip/true/crop/2000x1723+0+0/resize/1024x882!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F5d%2Fb3%2F498d1ef940de8f1dd7151e86161b%2Fhk1748-dkmrn-cs-01-group.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yayoi-kusama-cao-jian-mi-sheng-mt-fuji-in-seven",
+        "artist_name": "Yayoi Kusama",
+        "artist_birth": 1929,
+        "artist_death": 2026,
+        "artwork_title": "Mt. Fuji in Seven Colours (set of 7 works)",
+        "medium": "prints",
+        "material": "woodcut",
+        "length": null,
+        "width": 90.0,
+        "height": 30.3,
+        "unit": "cm",
+        "creation_year_start": 2014,
+        "creation_year_end": 2014,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Ota Fine Arts, SingaporeAcquired from the above by the present owner\n----------------------------------------------\næ°å å¡ï¼å¤§ç°ç§åç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "Mt. Fuji, sun, houses, mountains, colors, landscape, sky, clouds",
+        "item_count": 7,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "37d3fb4f-8c6a-4139-8a06-5e9d071fe4dc",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 338",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1000000.0,
+                "amount_usd": 128074.86
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2000000.0,
+                "amount_usd": 256149.73
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1280000.0,
+                "amount_usd": 163935.82
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1536000.0,
+                "amount_usd": 196722.99
+            }
+        ],
+        "description_block": "Takashi Murakamib. 1962\nDoraemon Sitting Up: \"Everywhere Door (Dokodemo Door)\"signed and dated 2018 (on the reverse)acrylic on platinum leaf on canvas mounted on wood panel122.9 by 94 cm.48â by 37 in.Executed in 2018.\nÂ©2018 Takashi Murakami/Kaikai Kiki Co., Ltd. All Rights Reserved. Â©ï¸Fujiko-Pro\n----------------------------------------------\næä¸é1962å¹´ç\nåèçåå¦Aå¤¢ï¼ä»»æéæ¬¾è­Takashiï¼2018ï¼ä½åèé¢ï¼å£ååééç®ç«å¸è£±æ¼æ¨æ¿122.9 x 94 å¬å48â x 37 è±å¯¸2018å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/12bd1b2/2147483647/strip/true/crop/1508x2000+0+0/resize/1024x1358!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F16%2Fbc%2Fcfd6880848d9816a754a80cf2fda%2Fhk1748-ddzdn-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/takashi-murakami-cun-shang-long-doraemon-duo-laa",
+        "artist_name": "Takashi Murakami",
+        "artist_birth": 1962,
+        "artist_death": null,
+        "artwork_title": "Doraemon Sitting Up: \"Everywhere Door (Dokodemo Door)\"",
+        "medium": "painting",
+        "material": "acrylic on platinum leaf on canvas mounted on wood panel",
+        "length": null,
+        "width": 94.0,
+        "height": 122.9,
+        "unit": "cm",
+        "creation_year_start": 2018,
+        "creation_year_end": 2018,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Perrotin, ShanghaiAcquired from the above by the present owner\n----------------------------------------------\nä¸æµ·ï¼è²æµ©ç»ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "Doraemon, cartoon characters, door, red collar, various figures, colorful patterns, smiling faces, anime style, whimsical elements, childhood nostalgia",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "bfc4460d-c633-4809-b2a8-e428cbc088aa",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 339",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1500000.0,
+                "amount_usd": 192112.29
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2500000.0,
+                "amount_usd": 320187.16
+            }
+        ],
+        "description_block": "Takashi Murakamib. 1962\nUntitledsigned, numbered 2/3, and dated 2020-2021 (on the underside of each)(Left) Kaikai(Right) KikiFRP and platinum leafoverall:Kaikai:without pedestal: 93 by 55.3 by 33.5 cm. 36â by 21Â¾ by 13Â¼ in.with pedestal: 96.5 by 55.3 by 40 cm. 38 by 21Â¾ by 15Â¾ in.Kiki:without pedestal: 77.6 by 57.6 by 37.5 cm. 30Â½ by 22â by 14Â¾ in.with pedestal: 81.1 by 57.6 by 41 cm. 31â by 22â by 16â in.Executed in 2020-2021, this work is number 2 from an edition of 3, plus 2 artist's proofs and 2 special proofs.\nÂ©2020-2021Takashi Murakami/Kaikai Kiki Co., Ltd. All Rights Reserved.----------------------------------------------\næä¸é1962å¹´ç\nç¡é¡æ¬¾è­Takashiï¼2/3ï¼2020-2021ï¼æ¯ä»¶ä½ååºé¨ï¼ç»ççºç¶­å¼·åå¡è åééç®æ´é«ï¼Kaikaiï¼ ä¸å«åºåº§ï¼93 x 55.3 x 33.5 å¬åï¼36â x 21Â¾ x 13Â¼ è±å¯¸å«åºåº§ï¼96.5 x 55.3 x 40 å¬åï¼38 x 21Â¾ x 15Â¾ è±å¯¸Kikiï¼ ä¸å«åºåº§ï¼77.6 x 57.6 x 37.5 å¬åï¼30Â½ x 22â x 14Â¾ è±å¯¸å«åºåº§ï¼81.1 x 57.6 x 41 å¬åï¼31â x 22â x 16â è±å¯¸2020-2021å¹´ä½çæ¸2/3æ­¤ä½åå±ä¸çï¼æ¬åçºç¬¬äºçï¼å¦æ2çèè¡å®¶ä¿ççå2çç¹å¥ç",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/c996c39/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F6f%2Fab%2F132f17a54bdcaa5862578b1c402f%2Fhk1748-dq5gc-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/takashi-murakami-cun-shang-long-untitled-wu-ti",
+        "artist_name": "Takashi Murakami",
+        "artist_birth": 1962,
+        "artist_death": null,
+        "artwork_title": "Untitled",
+        "medium": "sculpture",
+        "material": "FRP and platinum leaf",
+        "length": 33.5,
+        "width": 55.3,
+        "height": 93.0,
+        "unit": "cm",
+        "creation_year_start": 2020,
+        "creation_year_end": 2021,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "no",
+        "provenance": "Perrotin, Hong KongAcquired from the above by the present owner\n----------------------------------------------\né¦æ¸¯ï¼è²æµ©ç»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "sculptures, figures, toys, rabbits, characters, animals, shiny, metallic",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "17d128b3-9716-4b35-9087-cf6c0ea84b28",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 340",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1800000.0,
+                "amount_usd": 230534.75
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2600000.0,
+                "amount_usd": 332994.64
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1493333.33,
+                "amount_usd": 191258.46
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1792000.0,
+                "amount_usd": 229510.15
+            }
+        ],
+        "description_block": "Yoshitomo Narab. 1959\nRunway and Now is the Time! (Two Works)each: signed and dated 95 (lower right)colored pencil and pencil on papereach:29.5 by 21 cm.11â by 8Â¼ in.Executed in 1995.\n----------------------------------------------\nå¥è¯ç¾æº 1959å¹´ç\nè·éåç¾å¨æ­£æ¯æåï¼å©å¹ä½åï¼æ¯å¹æ¬¾è­ï¼èè¡å®¶ç°½åï¼95ï¼å³ä¸ï¼å½©è²éç­åéç­ç´æ¬æ¯å¹ï¼29.5 x 21 å¬å11â x 8Â¼ è±å¯¸1995å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/84bbc0a/2147483647/strip/true/crop/2000x1390+0+0/resize/1024x712!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F5c%2Fc0%2F61028c8849488fe9603890143a0e%2Fhk1748-dmfgb-t2-01-cropped-combine.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yoshitomo-nara-nai-liang-mei-zhi-runway-now-is-the",
+        "artist_name": "Yoshitomo Nara",
+        "artist_birth": 1959,
+        "artist_death": null,
+        "artwork_title": "Runway & Now is the Time! (Two Works)",
+        "medium": "drawing",
+        "material": "colored pencil and pencil on paper",
+        "length": null,
+        "width": 21.0,
+        "height": 29.5,
+        "unit": "cm",
+        "creation_year_start": 1995,
+        "creation_year_end": 1995,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Hakutosha, NagoyaPrivate Collection, JapanThence by descent to the present owner\n----------------------------------------------\nåå¤å±ï¼ç½åèç«å»æ¥æ¬ï¼ç§äººæ¶èæ­¤å¾ç±å®¶æå³æ¿è³ç¾èè",
+        "subject_matter": "child, anarchy symbol, colored pencil, hair, running, speech bubbles, punk style",
+        "item_count": 2,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "f347d57e-2bb8-47de-b7c2-629799e51fa1",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 341",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 900000.0,
+                "amount_usd": 115267.38
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1500000.0,
+                "amount_usd": 192112.29
+            }
+        ],
+        "description_block": "Yoshitomo Narab. 1959\nUntitledpencil on paper65.1 by 50.1 cm.25â by 19Â¾ in.Executed in 2008.\n----------------------------------------------\nå¥è¯ç¾æº1959å¹´ç\nç¡é¡éç­ç´æ¬65.1 x 50.1 å¬å25â x 19Â¾ è±å¯¸2008å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/9ab7af8/2147483647/strip/true/crop/1551x2000+0+0/resize/1024x1320!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fec%2Fc4%2Fbca11c06447aa2e555b4a2c5cf0d%2Fhk1748-dnwm5-t2-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yoshitomo-nara-nai-liang-mei-zhi-untitled-wu-ti",
+        "artist_name": "Yoshitomo Nara",
+        "artist_birth": 1959,
+        "artist_death": null,
+        "artwork_title": "Untitled",
+        "medium": "drawing",
+        "material": "pencil on paper",
+        "length": null,
+        "width": 50.1,
+        "height": 65.1,
+        "unit": "cm",
+        "creation_year_start": 2008,
+        "creation_year_end": 2008,
+        "signed": "no",
+        "dated": "yes",
+        "titled": "no",
+        "provenance": "Victoria MiroAcquired from the above by the present owner\n----------------------------------------------\nVictoria Miro ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "girl, upset, large figure, black-eyed, small figure, drawing, emotion, expression, pencil, paper",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "feae3fe6-c161-4953-8ee3-6c2f6b7d0f57",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 342",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2500000.0,
+                "amount_usd": 320187.16
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3500000.0,
+                "amount_usd": 448262.02
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1920000.0,
+                "amount_usd": 245903.74
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2304000.0,
+                "amount_usd": 295084.48
+            }
+        ],
+        "description_block": "Yayoi Kusama1929 - 2026\nSelf-Obliterationmixed media (wood, foam, leatherette, ceramic, glass, wicker, clay, plastic and acrylic paint)signed in English, titled in Japanese and dated 1980 (at the underside of the table and 2 chairs)overall table: 113.5 by 76 by 120 cm.  44Â¾ by 29â by 47Â¼ in. chair (each): 103.2 by 42.4 by 53.3 cm.  40â by 16Â¾ by 21 in. bag: 46 by 48 by 16.4 cm.  18â by 18â by 6Â½ in. Executed in 1980.\nThis work is accompanied by a registration card issued by YAYOI KUSAMA Inc.\n----------------------------------------------\nèéå½ç1929 - 2026å¹´\nèªå·±æ¶æ»è¤ååªæï¼æ¨ã æ³¡æ²«ãäººé ç®é©ãé¶ç·ãç»çãæ³æ¢ãç²åãå¡æåå£ååé¡æï¼æ¬¾è­1980ï¼èªå·±æ¶æ»ï¼YAYOI KUSAMAï¼æ¡å­åºé¨ååæ¤å­ï¼æ¡å­ï¼ 113.5 x 76 x 120 å¬åï¼44Â¾ x 29â x 47Â¼ è±å¯¸åæ¤å­ï¼103.2 x 42.4 x 53.3 å¬åï¼40â x 16Â¾ x 21 è±å¯¸æåï¼46 x 48 x 16.4 å¬åï¼18â x 18â x 6Â½ è±å¯¸1980å¹´ä½\néï¼ç±æ ªå¼æç¤¾èéå½çç°½ç¼ä¹èè¡åè¨»åå¡ã",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/e54c509/2147483647/strip/true/crop/2000x1499+0+0/resize/1024x767!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F8d%2F48%2F4d8198dd462fbec80e7e206d0538%2Fhk1748-9m5f5-bi-t1-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/yayoi-kusama-cao-jian-mi-sheng-self-obliteration",
+        "artist_name": "Yayoi Kusama",
+        "artist_birth": 1929,
+        "artist_death": 2026,
+        "artwork_title": "Self-Obliteration",
+        "medium": "mixed media",
+        "material": "wood, foam, leatherette, ceramic, glass, wicker, clay, plastic and acrylic paint",
+        "length": 120.0,
+        "width": 76.0,
+        "height": 113.5,
+        "unit": "cm",
+        "creation_year_start": 1980,
+        "creation_year_end": 1980,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Victoria Miro Gallery, London Acquired from the above by the present owner\n----------------------------------------------\nå«æ¦ï¼Victoria Miro ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "table, chairs, bag, flowers, tea set, ceramics, wood, foam, leatherette",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "2acd6880-d623-409b-9ba9-bce6b78952d9",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 343",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1000000.0,
+                "amount_usd": 128074.86
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2000000.0,
+                "amount_usd": 256149.73
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2026666.67,
+                "amount_usd": 259565.06
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2432000.0,
+                "amount_usd": 311478.07
+            }
+        ],
+        "description_block": "Ayako Rokkakub. 1982\nUntitledsigned in Japanese and dated 2020 (on the reverse)acrylic on canvas130.4 by 162.2 cm.51â by 63â in.Executed in 2020.\n----------------------------------------------\nå­è§å½©å­1982å¹´ç\nç¡é¡æ¬¾è­èè¡å®¶ç°½åï¼2020ï¼ä½åèé¢ï¼å£ååç«å¸130.4 x 162.2 å¬å51â x 63â è±å¯¸2020 å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/f71da9c/2147483647/strip/true/crop/2000x1609+0+0/resize/1024x824!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F04%2Fc2%2F2e9d2c6441c58e3896640b0670b6%2Fhk1748-dndv3-t2-01-v2.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/ayako-rokkaku-liu-jiao-cai-zi-untitled-wu-ti",
+        "artist_name": "Ayako Rokkaku",
+        "artist_birth": 1982,
+        "artist_death": null,
+        "artwork_title": "Untitled",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 162.2,
+        "height": 130.4,
+        "unit": "cm",
+        "creation_year_start": 2020,
+        "creation_year_end": 2020,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "no",
+        "provenance": "Gallery Target, TokyoAcquired from the above by the present owner\n----------------------------------------\næ±äº¬ï¼Targetç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "flower, character, abstract, pink, green, red, blue, vibrant, patterns, foliage",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "c85ad53c-9fae-4f1c-8349-4a4568c02ed4",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 345",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 120000.0,
+                "amount_usd": 15368.98
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 180000.0,
+                "amount_usd": 23053.48
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 128000.0,
+                "amount_usd": 16393.58
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 153600.0,
+                "amount_usd": 19672.3
+            }
+        ],
+        "description_block": "Robert Zehnderb. 1992\nBroken Saddlesigned and dated 2023 (on the reverse)oil on canvas laid on panel101.8 by 81.3 cm.40â by 32 in.Executed in 2023.\n----------------------------------------------\nç¾ä¼¯ç¹ Â· æ¾å¾·ç¾1992å¹´ç\nå£åº§ä½æ¬¾è­RJZï¼2023ï¼ä½åèé¢ï¼æ²¹ç«ç«å¸è£±æ¼æ¨æ¿101.8 x 81.3 å¬å40â x 32 è±å¯¸2023å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/857e5e3/2147483647/strip/true/crop/4943x6174+0+0/resize/1024x1279!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F49%2F85%2F6a15a61e431ead077825a7b18759%2Fhk1748-dlglw-t3-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/robert-zehnder-luo-bo-te-ceng-de-er-broken-saddle",
+        "artist_name": "Robert Zehnder 羅伯特 · 曾德爾",
+        "artist_birth": 1992,
+        "artist_death": null,
+        "artwork_title": "Broken Saddle 壞座位",
+        "medium": "painting",
+        "material": "oil on canvas laid on panel",
+        "length": null,
+        "width": 81.3,
+        "height": 101.8,
+        "unit": "cm",
+        "creation_year_start": 2023,
+        "creation_year_end": 2023,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "C L E A R I N G, Los AngelesPrivate CollectionAcquired from the above by the present owner\n----------------------------------------------\næ´æç£¯ï¼C L E A R I N G ç«å»ç§äººæ¶èç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "landscape, hills, trees, red shapes, green hues, abstract forms, clouds, water, roots, brown colors",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "64bf1f56-63e0-408e-8e67-6273914a1b58",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 346",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 150000.0,
+                "amount_usd": 19211.23
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 200000.0,
+                "amount_usd": 25614.97
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 106666.67,
+                "amount_usd": 13661.32
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 128000.0,
+                "amount_usd": 16393.58
+            }
+        ],
+        "description_block": "Blair Whitefordb. 1990\nSowers and Fieldsigned and dated 2022 (on the reverse)watercolor and oil on canvas198.4 by 304.7 cm.78â by 120 in.Executed in 2022.\n----------------------------------------------\nå¸èç¾ Â· æ·ç¹ç¦å¾·1990å¹´ç\næ­ç¨®èèç°éæ¬¾è­ Blair Whitefordï¼2022ï¼ä½åèé¢ï¼æ°´å½©åæ²¹ç«ç«å¸198.4 x 304.7 å¬å78â x 120 è±å¯¸2022å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/adced8d/2147483647/strip/true/crop/2000x1306+0+0/resize/1024x669!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F33%2F86%2Ff177cf49400295875e57bc120cbf%2Fhk1748-dll89-t3-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/blair-whiteford-bu-lai-er-huai-te-fu-de-sowers-and",
+        "artist_name": "Blair Whiteford",
+        "artist_birth": 1990,
+        "artist_death": null,
+        "artwork_title": "Sowers and Field",
+        "medium": "painting",
+        "material": "watercolor and oil on canvas",
+        "length": null,
+        "width": 304.7,
+        "height": 198.4,
+        "unit": "cm",
+        "creation_year_start": 2022,
+        "creation_year_end": 2022,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Matthew Brown, Los AngelesPrivate CollectionAcquired from the above by the present owner\n----------------------------------------------\næ´æç£¯ï¼Matthew Brown ç«å»ç§äººæ¶èç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "abstract forms, figures, colors, textures, landscape, movement, emotion, fluidity, light, shadow",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "430871fd-81c4-4fa6-845d-8c5734fb5eb3",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 348",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 600000.0,
+                "amount_usd": 76844.92
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1000000.0,
+                "amount_usd": 128074.86
+            }
+        ],
+        "description_block": "Raghav Babbarb. 1997\nArrival of Springsigned (on the reverse)oil on canvas101.6 by 152.4 cm.40 by 60 in.Executed in 2023.\n----------------------------------------------\næåå¤« Â· å·´å·´ç¾1997å¹´ç\næ¥å¤©çå°ä¾æ¬¾è­BABBARï¼ä½åèé¢ï¼æ²¹ç«ç«å¸101.6 by 152.4 å¬å40 by 60 è±å¯¸2023å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/fd4c6be/2147483647/strip/true/crop/2000x1331+0+0/resize/1024x681!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F4e%2F9f%2Fae8ae2da443bbe02effb956a0dd9%2Fhk1748-dpzjx-cs-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/raghav-babbar-la-ha-fu-ba-ba-er-arrival-of-spring",
+        "artist_name": "Raghav Babbar",
+        "artist_birth": 1997,
+        "artist_death": null,
+        "artwork_title": "Arrival of Spring",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 152.4,
+        "height": 101.6,
+        "unit": "cm",
+        "creation_year_start": 2023,
+        "creation_year_end": 2023,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Waterhouse & Dodd Fine Art, LondonAcquired from the above by the present owner\n----------------------------------------------\nå«æ¦ï¼Waterhouse & Dodd ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "woman, red sari, yellow blouse, green landscape, blue sky, crescent moon, seated figure, thoughtful expression, flowers, evening",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "77a884e7-c7e9-4f5a-9aae-ca49675a935f",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 349",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 240000.0,
+                "amount_usd": 30737.97
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 450000.0,
+                "amount_usd": 57633.69
+            }
+        ],
+        "description_block": "Chantal Joffeb. 1969\nAlison and Louis on the Platformsigned and dated 2014 (on the reverse)oil on board244 by 183 cm.96â by 72 in.Executed in 2014.\n----------------------------------------------\né¦å¡ç¾ Â· ç´è²1969å¹´ç\nè¾èæ£®åè·¯æå¨å¹³å°ä¸æ¬¾è­ï»¿èè¡å®¶ç°½å, 2014ï¼ä½åèé¢ï¼æ²¹ç«ç«æ¿244 x 183 å¬å96â x 72 è±å¯¸2014å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/85326a2/2147483647/strip/true/crop/1501x2000+0+0/resize/1024x1364!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F23%2F57%2Fca13bdc14b90bbfa0a98d7f3d640%2Fhk1748-dj9h2-t3-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/chantal-joffe-xiang-ta-er-yue-fei-untitled-wu-ti",
+        "artist_name": "Chantal Joffe",
+        "artist_birth": 1969,
+        "artist_death": null,
+        "artwork_title": "Alison and Louis on the Platform",
+        "medium": "painting",
+        "material": "oil on board",
+        "length": null,
+        "width": 183.0,
+        "height": 244.0,
+        "unit": "cm",
+        "creation_year_start": 2014,
+        "creation_year_end": 2014,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Victoria Miro, LondonPrivate Collection, AsiaAcquired from the above by the present owner\n----------------------------------------------\nå«æ¦ï¼Victoria Miroç«å»äºæ´²ï¼ç§äººæ¶èç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "boy, girl, holding hands, patterned shirt, polka dot dress, modern interior, youthful figures, stairs, green, gray",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "64d18245-93a0-424a-ac77-1b67120cf1e6",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 350",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1800000.0,
+                "amount_usd": 230534.75
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2500000.0,
+                "amount_usd": 320187.16
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 298666.67,
+                "amount_usd": 38251.69
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 358400.0,
+                "amount_usd": 45902.03
+            }
+        ],
+        "description_block": "MarÃ­a BerrÃ­ob. 1982\nBetween The Orchids and The Wheatsigned and dated 2020 (on the reverse)collage with Japanese paper and watercolour paint on canvas213 by 267 cm.  83â by 105â in.Executed in 2020.\n----------------------------------------------\nçªèäºã»è²å©å¥§1982å¹´ç\nè­è±èå°éº¥ä¹éæ¬¾è­èè¡å®¶ç°½åï¼2020ï¼ä½åèé¢ï¼åç´æ¼è²¼ãæ°´å½©åç­ç­æ¼ç«å¸213 x 267 å¬å83â x 105â è±å¯¸2020å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/782c38b/2147483647/strip/true/crop/2000x1622+0+0/resize/1024x830!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F6a%2Fc5%2F5de330f24b0d897af1e0a80ae3cc%2Fhk1748-c2lgb-bi-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/maria-berrio-ma-li-yabei-li-ao-between-the-orchids",
+        "artist_name": "María Berrío",
+        "artist_birth": 1982,
+        "artist_death": null,
+        "artwork_title": "Between The Orchids and The Wheat",
+        "medium": "mixed media",
+        "material": "collage with Japanese paper and watercolour paint on canvas",
+        "length": null,
+        "width": 267.0,
+        "height": 213.0,
+        "unit": "cm",
+        "creation_year_start": 2020,
+        "creation_year_end": 2020,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Victoria Miro, New YorkAcquired from the above by the present owner in 2021\n----------------------------------------------\nç´ç´ï¼Victoria Miro ç«å»ç¾èèæ¼2021å¹´è³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "three women, sitting, cards, tropical flowers, plants, casual clothing, outdoor setting, stools, colorful background, green leaves",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "550d0d2e-645e-43ea-ba47-5e369cb03ee0",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 351",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 800000.0,
+                "amount_usd": 102459.89
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1200000.0,
+                "amount_usd": 153689.84
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 906666.67,
+                "amount_usd": 116121.21
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1088000.0,
+                "amount_usd": 139345.45
+            }
+        ],
+        "description_block": "Amoako Boafob. 1984\nBlue Pullover signed and dated 2018 (center right)oil on canvas laid down on backing board158.5 by 142 cm.62â by 55â in.Executed in 2018.\n----------------------------------------------\né¿è«é¿ç§ã»åé¿ä½1984å¹´ç\nèè²å¥é ­è¡«æ¬¾è­AMOAKO BOAFOï¼2018ï¼KINGï¼ä¸­éå³å´ï¼æ²¹ç«ç«å¸è£±æ¼èæ¿158.5 x 142 å¬å62â x 55â è±å¯¸2018å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/a202a32/2147483647/strip/true/crop/1740x2000+0+0/resize/1024x1177!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fb6%2F3e%2F8ea512ec4e80aaa080f4420144ad%2Fhk1748-ddzdl-bi-t2-01-crop.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/amoako-boafo-a-mo-a-kebo-a-fu-blue-pullover-lan-se",
+        "artist_name": "Amoako Boafo",
+        "artist_birth": 1984,
+        "artist_death": null,
+        "artwork_title": "Blue Pullover",
+        "medium": "painting",
+        "material": "oil on canvas laid down on backing board",
+        "length": null,
+        "width": 142.0,
+        "height": 158.5,
+        "unit": "cm",
+        "creation_year_start": 2018,
+        "creation_year_end": 2018,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Roberts Projects, Los AngelesPrivate CollectionChristie's, New York, 11 May 2021, Lot 3AAcquired from the above by the present owner\n----------------------------------------------\næ´æç£¯ï¼Roberts Projectsç§äººæ¶èç´ç´ï¼ä½³å£«å¾ï¼2021å¹´5æ11æ¥ï¼æåç·¨è 3Aç¾èå®¶è³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "man, blue pullover, yellow background, portrait, eyes, hair",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "0feafd78-7a15-42a5-915e-962eb4453f31",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 354",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1500000.0,
+                "amount_usd": 192112.29
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2500000.0,
+                "amount_usd": 320187.16
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 2773333.33,
+                "amount_usd": 355194.29
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 3328000.0,
+                "amount_usd": 426233.14
+            }
+        ],
+        "description_block": "Zhou Chunyab. 1955\nTaihu Stone and Flowerssigned and dated in Chinese (lower right)oil on canvas200 by 150 cm.78Â¾ by 59 in.Executed in 2015.\n----------------------------------------------\nå¨æ¥è½1955å¹´ç\nå¤ªæ¹ç³èè±æ¬¾è­å¨æ¥è½ï¼äºãä¸äºï¼å³ä¸ï¼æ²¹ç«ç«å¸200 x 150 å¬å78Â¾ x 59 è±å¯¸2015å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/8e82a6b/2147483647/strip/true/crop/6021x8037+0+0/resize/1024x1367!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F9d%2F45%2F9b964aae4fa59e54d93f8d815cba%2Fhk1748-dq75k-t2-01-a.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/zhou-chunya-zhou-chun-ya-taihu-stone-and-flowers",
+        "artist_name": "Zhou Chunya 周春芽",
+        "artist_birth": 1955,
+        "artist_death": null,
+        "artwork_title": "Taihu Stone and Flowers 太湖石與花",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 150.0,
+        "height": 200.0,
+        "unit": "cm",
+        "creation_year_start": 2015,
+        "creation_year_end": 2015,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private Collection, AsiaPoly Auction, Hong Kong, 31 March 2019, Lot 148Acquired from the above by the present owner\n----------------------------------------------\näºæ´²ï¼ç§äººæ¶èé¦æ¸¯ï¼ä¿å©æè³£ï¼2019å¹´3æ31æ¥ï¼æåç·¨è148ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "Taihu stone, flowers, peonies, face, sculpture, portrait, plants, foliage, pink, brown",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "c3f342df-b4ce-447a-a6c4-3e4f6f02a6be",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 355",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 900000.0,
+                "amount_usd": 115267.38
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1500000.0,
+                "amount_usd": 192112.29
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1280000.0,
+                "amount_usd": 163935.82
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1536000.0,
+                "amount_usd": 196722.99
+            }
+        ],
+        "description_block": "Zhang Xiaogangb. 1958\nComradesigned and dated 1996 (lower right)oil on canvas60 by 50 cm.23â by 19â in.Executed in 1996.\n----------------------------------------------\nå¼µæå1958å¹´ç\nåå¿æ¬¾è­Zhang Xiaogang, 1996ï¼å³ä¸ï¼æ²¹ç«ç«å¸60 x 50 å¬å23â x 19â è±å¯¸1996å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/5f31b51/2147483647/strip/true/crop/5427x6515+0+0/resize/1024x1229!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F38%2Fb0%2F77e93c8045c8a4eeccd9a9597bd5%2Fhk1748-dq3m8-t2-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/zhang-xiaogang-zhang-xiao-gang-comrade-tong-zhi",
+        "artist_name": "Zhang Xiaogang",
+        "artist_birth": 1958,
+        "artist_death": null,
+        "artwork_title": "Comrade",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 50.0,
+        "height": 60.0,
+        "unit": "cm",
+        "creation_year_start": 1996,
+        "creation_year_end": 1996,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Hanart TZ Gallery, Hong KongAcquired from the above by the present owner\n----------------------------------------------\né¦æ¸¯ï¼æ¼¢éè»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "portrait, male figure, glasses, monochrome, stylized face, yellow accent, red line, suit, expressionless, historical",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "a5294690-b091-4a61-8721-3ac274f83f6a",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 357",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 1000000.0,
+                "amount_usd": 128074.86
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 512000.0,
+                "amount_usd": 65574.33
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 614400.0,
+                "amount_usd": 78689.2
+            }
+        ],
+        "description_block": "Wei Jiab. 1975\nSilk Ash Heaps Isigned in Chinese, titled in Chinese and dated 2013 (on the reverse)acrylic on canvas145 by 195.3 cm.57â by 76â in.Executed in 2013.\n----------------------------------------------\néå1975å¹´ç\né¦ç°å  Iæ¬¾è­èè¡å®¶ç°½åï¼é¦ç°å  Iï¼2013ï¼ä½åèé¢ï¼å£ååç«å¸145 x 195.3 å¬å57â x 76â è±å¯¸2013å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/eb63b25/2147483647/strip/true/crop/1278x947+0+0/resize/1024x759!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fc7%2F9b%2F2d63520242febb4ccfcc7aea7bb1%2Fhk1748-dp3hz-cs-01.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/wei-jia-wei-jia-silk-ash-heaps-i-jin-hui-dui-i",
+        "artist_name": "Wei Jia",
+        "artist_birth": 1975,
+        "artist_death": null,
+        "artwork_title": "Silk Ash Heaps I",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 195.3,
+        "height": 145.0,
+        "unit": "cm",
+        "creation_year_start": 2013,
+        "creation_year_end": 2013,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Leo Xu Projects, ShanghaiAcquired from the above by the present owner\n----------------------------------------------\nä¸æµ·ï¼Leo Xuç¶ä»£èè¡ç«å»ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "figure, artist, easel, canvas, studio, chair, painting, portrait, light, shadow",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "eea36a68-60ad-4ed9-be1a-263372eaf066",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 358",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 300000.0,
+                "amount_usd": 38422.46
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 500000.0,
+                "amount_usd": 64037.43
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 426666.67,
+                "amount_usd": 54645.28
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 512000.0,
+                "amount_usd": 65574.33
+            }
+        ],
+        "description_block": "Xu Bingb. 1955\nSquare Word Calligraphysigned, and with two seals of the artistink on paper135 by 135 cm.53â by 53â in.\n----------------------------------------------\n\nå¾å°1955å¹´ç\nè±ææ¹å¡å­æ¬¾è­èè¡å®¶ç°½åï¼èè¡å®¶éå°å©ææ°´å¢¨ç´æ¬135 x 135 å¬å53â x 53â è±å¯¸",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/14f90ab/2147483647/strip/true/crop/1634x1634+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F22%2F6a%2Ff0cc4cda4f038d227900e61600d9%2Fhk1748-dnnm2-cs-1-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/xu-bing-xu-bing-square-word-calligraphy-ying-wen",
+        "artist_name": "Xu Bing 徐冰",
+        "artist_birth": 1955,
+        "artist_death": null,
+        "artwork_title": "Square Word Calligraphy 英文方塊字",
+        "medium": "drawing",
+        "material": "ink on paper",
+        "length": null,
+        "width": 135.0,
+        "height": 135.0,
+        "unit": "cm",
+        "creation_year_start": 1955,
+        "creation_year_end": 1955,
+        "signed": "yes",
+        "dated": "no",
+        "titled": "yes",
+        "provenance": "Private CollectionSotheby's, Hong Kong, 24 October 2005, Lot 726Acquired from the above by the present owner\n----------------------------------------------\nç§äººæ¶èé¦æ¸¯ï¼èå¯æ¯ï¼2005å¹´10æ24æ¥ï¼æåç·¨è726ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "calligraphy, Chinese characters, text, ink, paper, seals",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "a0f4bc40-c1e6-480e-af51-781b9f4a5c66",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 359",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 400000.0,
+                "amount_usd": 51229.95
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 600000.0,
+                "amount_usd": 76844.92
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 213333.33,
+                "amount_usd": 27322.64
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 256000.0,
+                "amount_usd": 32787.16
+            }
+        ],
+        "description_block": "Xu Bingb. 1955\nLandscriptsigned and marked with one artist seal (lower right)ink on paper50 by 175 cm.19Â¾ by 68â in.Executed in 2002.\n----------------------------------------------\nå¾å°1955å¹´ç\nè®é¢¨æ¯æ¬¾è­Xu Bingï¼èè¡å®¶éå°ä¸æï¼å³ä¸ï¼æ°´å¢¨ç´æ¬50 x 175 å¬å19Â¾ x 68â è±å¯¸2002å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/eaa4366/2147483647/strip/true/crop/2000x591+0+0/resize/1024x303!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F68%2Fbe%2Ff6ea913c4405933ce28c23dfe951%2Fhk1748-dpbvh-cs-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/xu-bing-xu-bing-landscript-du-feng-jing",
+        "artist_name": "Xu Bing",
+        "artist_birth": 1955,
+        "artist_death": null,
+        "artwork_title": "Landscript",
+        "medium": "drawing",
+        "material": "ink on paper",
+        "length": null,
+        "width": 175.0,
+        "height": 50.0,
+        "unit": "cm",
+        "creation_year_start": 2002,
+        "creation_year_end": 2002,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "PrÃ¼ss & Ochs Gallery, BerlinPrivate CollectionSotheby's, New York, 15 September 2015, Lot 6Acquired from the above by the present owner\n----------------------------------------------\nææï¼PrÃ¼ss & Ochs ç«å»ç§äººæ¶èç´ç´ï¼èå¯æ¯ï¼2015å¹´9æ15æ¥ï¼æåç·¨è6ç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "landscape, calligraphy, trees, figures, ink, paper, shapes, patterns, brushstrokes, Asian characters",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "c1dbf44a-f876-4eda-b543-95237f85a0a9",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 360",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 180000.0,
+                "amount_usd": 23053.48
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 300000.0,
+                "amount_usd": 38422.46
+            }
+        ],
+        "description_block": "Ni Youyub. 1984\nLandslipacrylic on canvas300 by 200 cm.118â by 78Â¾ in.Executed in 2013.\n----------------------------------------------\nåªæé­1984å¹´ç\nå±±å´©å£ååç«å¸300 x 200 å¬å118â x 78Â¾ è±å¯¸2013å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/2b49688/2147483647/strip/true/crop/1341x2000+0+0/resize/1024x1527!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fda%2Fe7%2F8b8994244f4b886c790a01dda16d%2Fhk1748-dpqh8-t2-01-a.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/ni-youyu-ni-you-yu-landslip-shan-beng",
+        "artist_name": "Ni Youyu",
+        "artist_birth": 1984,
+        "artist_death": null,
+        "artwork_title": "Landslip",
+        "medium": "painting",
+        "material": "acrylic on canvas",
+        "length": null,
+        "width": 200.0,
+        "height": 300.0,
+        "unit": "cm",
+        "creation_year_start": 2013,
+        "creation_year_end": 2013,
+        "signed": "no",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Private Collection, Asia\n----------------------------------------------\näºæ´²ï¼ç§äººæ¶è",
+        "subject_matter": "rocks, wall, floor, yellow background, numbered elements, geometric shapes, interior space, shadows, lines, contours",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    },
+    {
+        "ID": "2e94deb2-8678-4d69-a96f-71f430afc649",
+        "asset_type": "Artwork",
+        "source_name": "Sothebys",
+        "data_source": "auction",
+        "sale_id": "HK1748",
+        "sale_date": "2026-09-29",
+        "location": "Hong Kong",
+        "sale_title": "Contemporary Day Auction",
+        "sale_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4",
+        "asset_number": "Lot 361",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 120000.0,
+                "amount_usd": 15368.98
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 200000.0,
+                "amount_usd": 25614.97
+            },
+            {
+                "pricing_type": "hammer_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 693333.33,
+                "amount_usd": 88798.57
+            },
+            {
+                "pricing_type": "premium_price",
+                "currency": "HKD",
+                "effective_date": "2026-09-29",
+                "amount": 832000.0,
+                "amount_usd": 106558.29
+            }
+        ],
+        "description_block": "Wang Fansengb. 1984\nWhale Spoutsigned in Chinese and Pinyin, and dated 2019 (lower right); initialed, signed in Chinese and Pinyin (variously on the reverse) and dated 2019 (on the reverse)oil on canvas79.6 by 59.8 cm.31â by 23Â½ in.Executed in 2019.\n----------------------------------------------\nçæ¢µå§1984å¹´ç\né¯¨å´æ¬¾è­ çæ¢µå§, Wang Fanseng, 2019ï¼å³ä¸ï¼WFS, çæ¢µå§ï¼ä½åèé¢å¤èï¼2019ï¼ä½åèé¢ï¼æ²¹ç«ç«å¸79.6 x 59.8 å¬å31â x 23Â½ è±å¯¸2019å¹´ä½",
+        "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/8ca25b9/2147483647/strip/true/crop/1499x2000+0+0/resize/1024x1366!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F8a%2F23%2F3ec38f1541dcb212ebba18700c51%2Fhk1748-dpftn-t3-01-cropped.jpg",
+        "asset_url": "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-4/wang-fanseng-wang-fan-seng-whale-spout-jing-pen",
+        "artist_name": "Wang Fanseng",
+        "artist_birth": 1984,
+        "artist_death": null,
+        "artwork_title": "Whale Spout",
+        "medium": "painting",
+        "material": "oil on canvas",
+        "length": null,
+        "width": 59.8,
+        "height": 79.6,
+        "unit": "cm",
+        "creation_year_start": 2019,
+        "creation_year_end": 2019,
+        "signed": "yes",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": "Guardian Art Center, Beijing, Art Nova 100, September 2019Acquired from the above by the present owner\n----------------------------------------------\nåå¾·èè¡ä¸­å¿ï¼åäº¬ï¼ãéå¹´èè¡100ãï¼2019å¹´9æç¾èèè³¼èªä¸è¿°ä¾æº",
+        "subject_matter": "whale, water, spray, horizon, ocean, rocks, clouds, sky, surface, light",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    }
+]

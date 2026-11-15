@@ -1,0 +1,4 @@
+estimate,N,median_ape_pct,median_bias_pct,within_10_pct,within_20_pct,within_30_pct
+Low,883,22.08,-2.44,17.78,41.11,59.91
+Midpoint,883,39.21,30.08,12.34,22.99,37.83
+High,883,60.0,56.1,8.27,18.46,27.41

@@ -1,0 +1,608 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,artwork_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+e3bb7f8d-36b4-419d-817b-4326f34479a9,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 101,HKD,100000,200000,490200,408500.0,12807.49,25614.97,62782.3,52318.58,Li Hei Di,None,None,Red Peach,painting,oil on canvas,<NA>,57,65.8,cm,no,yes,yes,2021,"LINSEED Projects, Shanghai\\r\\nAcquired from the above by the present owner","flower, abstract, pink, red, green, shapes, petals, blur, soft, curves",1,None,"oil on canvas
+65.8 x 57 cm. (25 7/8 x 22 1/2 in.)
+Painted in 2021, in the UK.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223819_001.jpg,https://www.phillips.com/detail/li-hei-di/223819,None,None,None,None,None,None,None,2025-10,gpt-4.1-mini,19210.0,16008.333333333334
+d4c91b47-3e50-412e-b2e0-624a549eb950,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 102,HKD,100000,200000,232200,193500.0,12807.49,25614.97,29738.98,24782.49,Miriam Cahn,None,None,"o.t., 29.10.18",painting,oil on wood,<NA>,20,30,cm,yes,yes,yes,2018,"Meyer Riegger, Berlin \\r\\nAcquired from the above by the present owner","head, face, eyes, skin, abstract, color, expression",1,None,"oil on wood
+signed with the artist's initial and dated 'M 29.10.18' on the reverse
+30 x 20 cm. (11 3/4 x 7 7/8 in.)
+Painted in 2018, in Switzerland.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224834_001.jpg,https://www.phillips.com/detail/miriam-cahn/224834,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19200.0,16000.0
+d8dd9d3c-8967-45d9-888c-0608151cad50,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 103,HKD,160000,260000,283800,236500.0,20491.98,33299.46,36347.65,30289.71,Ding Shilun,None,None,Icarus,painting,oil on canvas,<NA>,180,160,cm,no,yes,yes,2021,"Bonian Space, Beijing\\r\\nAcquired from the above by the present owner","man, wings, fire, birds, clouds, green shorts, red socks, blue shirt, red jacket, abstract background",1,None,"oil on canvas
+160 x 180 cm. (62 7/8 x 70 7/8 in.)
+Painted in 2021, in the UK.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/221582_001.jpg,https://www.phillips.com/detail/ding-shilun/221582,None,None,None,None,None,None,None,nan,gpt-4.1-mini,26800.0,22333.333333333336
+52b55a0d-aba8-4b9b-81d0-3a8201f3d098,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 104,HKD,150000,250000,516000,430000.0,19211.23,32018.72,66086.63,55072.19,Joseph Yaeger,None,None,History is its own denial,painting,watercolour on gessoed linen,<NA>,46,26,cm,no,yes,yes,2022,"Antenna Space, Shanghai\\r\\nAcquired from the above by the present owner","face, hands, eyes, hair, skin, expression, emotion, portrait, gesture",1,None,"watercolour on gessoed linen
+26 x 46 cm. (10 1/4 x 18 1/8 in.)
+Executed in 2022, in the UK.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224146_001.jpg,https://www.phillips.com/detail/joseph-yaeger/224146,None,None,None,None,None,None,None,nan,gpt-4.1-mini,25600.0,21333.333333333336
+ef51a42d-9060-4645-a056-cc30d6123ff1,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 105,HKD,300000,500000,412800,344000.0,38422.46,64037.43,52869.3,44057.75,Elizabeth Peyton,None,None,Prince Harry,drawing,watercolour and pencil on paper,<NA>,17.8,25.4,cm,yes,yes,yes,1998,"Private Collection, London\\r\\nPrivate Collection, New York\\r\\nPhillips, London, 23 April 2020, lot 11\\r\\nAcquired at the above sale by the present owner","portrait, young man, orange hair, blue suit, watercolor, abstract background",1,None,"watercolour and pencil on paper
+signed, titled and dated ‘“Prince Harry” September 1998 Elizabeth Peyton 1998' on the reverse
+25.4 x 17.8 cm. (10 x 7 in.)
+Executed in 1998, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224833_001.jpg,https://www.phillips.com/detail/elizabeth-peyton/224833,None,None,None,None,None,None,None,nan,gpt-4.1-mini,48000.0,40000.0
+26b8378b-58db-4e31-aa10-ca9ea3c3ec8d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 106,HKD,1000000,2000000,1032000,860000.0,128074.86,256149.73,132173.26,110144.38,Hernan Bas,None,None,Nightmare,mixed media,"acrylic, colour pencil, graphite, silkscreen on paper",<NA>,213.4,142.2,cm,yes,yes,yes,2024,"Private Collection, USA","figures, man, woman, bed, flowers, vase, clothing, shadows, dark background, furniture",1,None,"acrylic, colour pencil, graphite, silkscreen on paper
+signed with the artist's initials and dated 'HB 24' lower left
+142.2 x 213.4 cm. (56 x 84 in.)
+Executed in 2024, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225543_001.jpg,https://www.phillips.com/detail/hernan-bas/225543,None,None,None,None,None,None,None,nan,gpt-4.1-mini,192000.0,160000.0
+22f39859-e2ba-47aa-9ca1-384efe088c40,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 107,HKD,500000,800000,<NA>,<NA>,64037.43,102459.89,<NA>,<NA>,George Rouy,None,None,Posing in Our Image,painting,acrylic on canvas,<NA>,180,225,cm,yes,yes,yes,2018,"Steve Turner Gallery, Los Angeles\\r\\nPrivate Collection, USA\\r\\nPhillips, Hong Kong, 30 March 2023, lot 3\\r\\nAcquired at the above sale by the present owner","two figures, embrace, purple tones, abstract shapes, human forms",1,None,"acrylic on canvas
+signed with the artist's initials and dated 'GR 18' on the underside
+225 x 180 cm. (88 5/8 x 70 7/8 in.)
+Painted in 2018, in the UK.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225406_001.jpg,https://www.phillips.com/detail/george-rouy/225406,None,None,None,None,None,None,None,nan,gpt-4.1-mini,85700.0,71416.66666666667
+3761db2a-e298-4f06-aab7-19577beec665,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 109,HKD,600000,1000000,903000,752500.0,76844.92,128074.86,115651.6,96376.33,Huang Yuxing,None,None,The Sunrise Above the Sea,painting,acrylic on canvas,<NA>,70,90,cm,yes,yes,yes,2016,Private Collection\\r\\nAcquired from the above by the present owner,"sky, water, sun, colors, reflections, abstract, shapes, patterns, pink, blue",1,None,"acrylic on canvas
+signed and dated 'H. Yuxing 16' lower right
+90 x 70 cm. (35 3/8 x 27 1/2 in.)
+Painted in 2016, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/220256_001.jpg,https://www.phillips.com/detail/huang-yuxing/220256,None,None,None,None,None,None,None,nan,gpt-4.1-mini,102000.0,85000.0
+144ac2e4-2434-4413-bb1d-40a0576867ec,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 110,HKD,350000,550000,<NA>,<NA>,44826.2,70441.17,<NA>,<NA>,Chris Huen Sin Kan,None,None,Joel,painting,oil on linen,<NA>,320,200,cm,yes,yes,yes,2019,"Gallery Exit, Hong Kong\\r\\nAcquired from the above by the present owner","rocks, plants, boy, backpack, path, foliage, landscape, sunlight, cityscape, greenery",1,None,"oil on linen
+signed and dated 'C. Huen 2019' on the right edge
+200 x 320 cm. (78 3/4 x 125 7/8 in.)
+Painted in 2019, in Hong Kong.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225620_001.jpg,https://www.phillips.com/detail/chris-huen-sin-kan/225620,None,None,None,None,None,None,None,nan,gpt-4.1-mini,57600.0,48000.0
+3177b496-cc80-4a9e-8a5a-a68696bd96a2,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 111,HKD,100000,200000,90300,75250.0,12807.49,25614.97,11565.16,9637.63,Shara Hughes,None,None,Big Moon,painting,oil and flashe on canvas,<NA>,28.1,35.3,cm,no,yes,yes,2015,"Rachel Uffner Gallery, New York\\r\\nAcquired from the above by the present owner","moon, abstract shapes, river, dark background, green color, pink dots, blue, white, textured patterns",1,None,"oil and flashe on canvas
+35.3 x 28.1 cm. (13 7/8 x 11 1/8 in.)
+Executed in 2015, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225148_001.jpg,https://www.phillips.com/detail/shara-hughes/225148,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19210.0,16008.333333333334
+3d4ecc62-ea71-4457-ad1c-c9b0be56fb9c,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 113,HKD,1000000,1500000,1290000,1075000.0,128074.86,192112.29,165216.57,137680.48,Ayako Rokkaku,None,None,Untitled,painting,acrylic on canvas,<NA>,160,130,cm,yes,yes,no,2023,"König Galerie, Berlin\\r\\nAcquired from the above by the present owner","woman, clouds, red, yellow, pink, green, abstract, swirls, expressions, colorful",1,None,"acrylic on canvas
+signed and dated '2023 Rokkaku Ayako [in Japanese]' on the reverse
+130 x 160 cm. (51 1/8 x 62 7/8 in.)
+Painted in 2023, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223686_001.jpg,https://www.phillips.com/detail/ayako-rokkaku/223686,None,None,None,None,None,None,None,nan,gpt-4.1-mini,160000.0,133333.33333333334
+c7df30e4-8b4c-417c-84b8-ca66e4d06e32,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 114,HKD,1200000,2200000,1677000,1397500.0,153689.84,281764.7,214781.55,178984.62,Takashi Murakami & Virgil Abloh,None,None,FLOWER,painting,acrylic and platinum leaf on canvas,<NA>,100,126.5,cm,yes,yes,yes,2018,"Gagosian, Hong Kong\\r\\nPrivate Collection, Hong Kong\\r\\nPhillips, Hong Kong, 25 May 2023, lot 321\\r\\nAcquired at the above sale by the present owner","flower, smiley face, colorful, patterns, expressions, repetition, petals, background, graphic elements, joy",1,None,"acrylic and platinum leaf on canvas mounted on aluminum frame
+signed and dated '""VIRGIL"" © 2018 TAKASHI 2018' on the overlap
+126.5 x 100 cm. (49 3/4 x 39 3/8 in.)
+Executed in 2018, in Japan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223638_001.jpg,https://www.phillips.com/detail/takashi-murakami-&-virgil-abloh/223638,None,None,None,None,None,None,None,nan,gpt-4.1-mini,220000.0,183333.33333333334
+09ab2274-8222-4846-8a75-26e7d6ccbf5f,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 115,HKD,1000000,2000000,903000,752500.0,128074.86,256149.73,115651.6,96376.33,Mr.,None,None,Amy——I Want to Protect Our Earth (artist's proof number 2),sculpture,"iron, FRP, urethane paint, acrylic paint, plywood base, MDF",70,70,145,cm,yes,yes,yes,2021,"Kaikai Kiki Gallery, Tokyo\\r\\nAcquired from the above by the present owner","female figure, green hair, orange skirt, white top, purple bow, black leggings, shoes, anime style, figurine, playful expression",1,None,"iron, FRP, urethane paint, acrylic paint, and plywood base with MDF
+signed and dated 'mr. 2021' on the right foot of the figure
+145 x 70 x 70 cm. (57 1/8 x 27 1/2 x 27 1/2 in.)
+Executed in 2021, in Japan, this work is artist's proof number 2 from an edition of 10 plus 3 artist's proofs and 1 special proof (each unique).
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222851_001.jpg,https://www.phillips.com/detail/mr./222851,None,None,None,None,None,None,None,nan,gpt-4.1-mini,192112.3,160093.58333333334
+60cf2ee5-f977-482b-bb45-7fa4bf9046a2,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 116,HKD,120000,220000,451500,376250.0,15368.98,28176.47,57825.8,48188.17,Kasing Lung,None,None,Labubu,sculpture,resin,55,67,160,cm,yes,yes,yes,2017,Acquired directly from the artist by the present owner,"character, bear, rabbit ears, teeth, sculpture, figure, playful expression, black base",1,None,"resin
+signed, inscribed and dated 'KASING 2017 HK' on the top of the base; further printed with artist's name and the foundry mark and numbered 'HOW2WORK X KASING LUNG 8/15' on a metal plaque affixed to the base
+160 x 67 x 55 cm. (62 7/8 x 26 3/8 x 21 5/8 in.)
+Executed in 2017, in Hong Kong, this work is number 8 from an edition of 15.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222094_001.jpg,https://www.phillips.com/detail/kasing-lung/222094,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+2d532eb2-c333-421d-b780-65b436562262,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 117,HKD,400000,600000,709500,591250.0,51229.95,76844.92,90869.12,75724.26,Kasing Lung,None,None,INPUT,painting,acrylic on canvas,<NA>,150,190,cm,no,yes,yes,2021,"Kaikai Kiki Gallery, Tokyo\\r\\nAcquired from the above by the present owner","rabbit, flowers, colorful patterns, abstract shapes, stars, arrows, circles, leaves, geometric designs, pink",1,None,"acrylic on canvas
+190 x 150 cm. (74 3/4 x 59 in.)
+Painted in 2021, in Belgium.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222093_001.jpg,https://www.phillips.com/detail/kasing-lung/222093,None,None,None,None,None,None,None,nan,gpt-4.1-mini,64000.0,53333.333333333336
+4a9e1419-2d89-4da6-8adb-59ff8eb18477,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 119,HKD,200000,400000,180600,150500.0,25614.97,51229.95,23130.32,19275.27,Aya Takano,None,None,In the Lab (the Birth of Jelly),painting,oil on canvas,<NA>,130.3,97,cm,yes,yes,yes,2017,"Galerie Perrotin, Hong Kong\\r\\nPrivate Collection\\r\\nPhillips, Hong Kong, 30 November 2021, lot 9\\r\\nPrivate Collection\\r\\nChristie's, Hong Kong, 29 May 2023, lot 375\\r\\nAcquired at the above sale by the present owner","girl, laboratory, microscope, test tube, anatomy model, chalkboard, glassware, research, academic setting, chemicals",1,None,"oil on canvas
+signed and dated '2017 Aya Takano' on the overlap
+97 x 130.3 cm. (38 1/4 x 51 1/4 in.)
+Painted in 2017, in Japan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225897_001.jpg,https://www.phillips.com/detail/aya-takano/225897,None,None,None,None,None,None,None,nan,gpt-4.1-mini,38422.46,32018.716666666667
+35ae2912-8120-491e-9077-622c4c09d6b5,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 120,HKD,250000,350000,374100,311750.0,32018.72,44826.2,47912.81,39927.34,KAWS,None,None,BETTER DAYS AHEAD,drawing,acrylic on paper,<NA>,40.6,50.8,cm,yes,yes,yes,2013,"Courtesy of the Artist\\r\\nThe Thirteenth Annual RxArt Party, New York, 17 September 2013\\r\\nPrivate Collection, USA\\r\\nAcquired from the above by the present owner","cartoon character, dog, black outline, abstract features, simplicity, expression, playful, monochrome, illustration",1,None,"acrylic on paper
+signed and dated 'KAWS.. 13' on the reverse
+50.8 x 40.6 cm. (20 x 16 in.)
+Executed in 2013, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222805_001.jpg,https://www.phillips.com/detail/kaws/222805,None,None,None,None,None,None,None,nan,gpt-4.1-mini,38400.0,32000.0
+5043ba0b-7ae9-410b-b178-b9bc40582ce3,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 121,HKD,500000,700000,<NA>,<NA>,64037.43,89652.4,<NA>,<NA>,Yoshitomo Nara,None,None,Untitled,drawing,"pencil, watercolour and coloured pencil on paper",<NA>,18,25.7,cm,yes,yes,no,1997,"Galerie Humanité Nagoya\\r\\nPrivate Collection\\r\\nShinwa Auction, Tokyo, 17 November 2007, lot 52\\r\\nPrivate Collection\\r\\nShinwa Auction, Tokyo, 5 April 2008, lot 47\\r\\nAcquired at the above sale by the present owner","girl, yellow sweater, skateboard, sitting, brown hair, expression, drawing, children, art, illustration",1,None,"pencil, watercolour and coloured pencil on paper
+signed and dated 'Nara [in Japanese] '97' lower left
+25.7 x 18 cm. (10 1/8 x 7 1/8 in.)
+Executed in 1997, in Germany, this work is registered in the Yoshitomo Nara Online Catalogue Raisonné under registration number YNF1834, and is accompanied by a certificate of authenticity issued by Tomio Koyama Gallery.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224932_001.jpg,https://www.phillips.com/detail/yoshitomo-nara/224932,None,None,None,None,None,None,None,nan,gpt-4.1-mini,75000.0,62500.0
+bdf7e39c-c998-4422-866b-031e6cb802f7,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 122,HKD,1000000,2000000,1677000,1397500.0,128074.86,256149.73,214781.55,178984.62,Yoshitomo Nara,None,None,Kleine Taucherin auf der Wolke,drawing,acrylic and coloured pencil on paper,<NA>,23.8,31.8,cm,yes,yes,yes,1996,"Private Collection, Asia","child, flower, rain, cloud, dress, blue headband, ground, red lips, beige background, art",1,None,"acrylic and coloured pencil on paper
+signed with the artist's initial, titled and dated '""Kleine Taucherin auf der Wolke"" Na [in Japanese] '96' along the top edge
+31.8 x 23.8 cm. (12 1/2 x 9 3/8 in.)
+Executed in 1996, in Germany, this work is registered in the Yoshitomo Nara Online Catalogue Raisonné under registration number YNF1614.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223054_001.jpg,https://www.phillips.com/detail/yoshitomo-nara/223054,None,None,None,None,None,None,None,nan,gpt-4.1-mini,192000.0,160000.0
+ec2e035c-0d03-4b09-bad0-564e0fd5fdb1,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 123,HKD,700000,1200000,<NA>,<NA>,89652.4,153689.84,<NA>,<NA>,Yoshitomo Nara,None,None,Absolut Vodka Bottle (Fuck bout everything! But I try to go...),mixed media,acrylic and crayon on glass bottle,8.9,8.9,24.8,cm,yes,yes,yes,2000,"\u003cem\u003eAbsolut Bottled Secret\u003c/em\u003e, Benefit Exhibition, Santa Monica Museum of Art, 2000\\r\\nPrivate Collection\\r\\nPhillips, New York, 24 June 2021, lot 378\\r\\nAcquired at the above sale by the present owner","bottle, graffiti, cartoon character, text, black background, colorful hair, expressive face",1,None,"acrylic and crayon on glass bottle
+signed with the artist's initial and dated 'Na [in Japanese] 2000' on the top
+24.8 x 8.9 x 8.9 cm. (9 3/4 x 3 1/2 x 3 1/2 in.)
+Executed in 2000, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/221628_001.jpg,https://www.phillips.com/detail/yoshitomo-nara/221628,None,None,None,None,None,None,None,nan,gpt-4.1-mini,120000.0,100000.0
+d8fc594b-6bab-4a80-aed0-49f0a739fc7d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 124,HKD,180000,280000,335400,279500.0,23053.48,35860.96,42956.31,35796.92,Takashi Murakami,None,None,Jellyfish Eyes × e-ma Flower Stand Happy Rainbow,mixed media,fabricated plastic flower and 100 candy cases on a painted metal stand,75,143,164,cm,no,yes,yes,2013,"Private Collection\\r\\nSBI Art Auction, Tokyo, 23-25 May 2025, lot 48\\r\\nAcquired at the above sale by the present owner","flower, smiley face, colorful, petals, buttons, circular, sculpture, playful, vibrant, modern",1,None,"fabricated plastic flower and 100 candy cases on a painted metal stand with 5 wheels
+printed with the title and numbered ‘“Jellyfish Eyes e-ma "" [in Japanese] 14/30' on a metal plaque affixed to the reverse
+164 x 143 x 75 cm. (64 5/8 x 56 1/4 x 29 1/2 in.)
+Manufactured by Mikakuto Co., Ltd in 2013, in Japan, this work is number 14 from an edition of 30, and was created in commemoration of the release of Takashi Murakami's film ""Jellyfish Eyes"".
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/221992_001.jpg,https://www.phillips.com/detail/takashi-murakami/221992,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+8288b1bb-4cea-4891-8150-b0cac77dcf84,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 125,HKD,550000,850000,645000,537500.0,70441.17,108863.63,82608.29,68840.24,Yayoi Kusama,None,None,Untitled (hand-painted Levi's Jean Jacket),mixed media,paint on denim jacket,<NA>,149,66,cm,yes,yes,no,1971,"Private Collection\\r\\nSotheby's, New York, 22 July 2021, lot 38\\r\\nAcquired at the above sale by the present owner","flower, pink, abstract, red, green, shape, patterned background, soft edges, petals, bloom",1,None,"paint on denim jacket
+signed and dated '71 KUSAMA' lower left
+66 x 149 cm. (25 7/8 x 58 5/8 in.)
+installation dimensions variable, approximately 76 x 64 x 23 cm. (29 7/8 x 25 1/4 x 9 in.)
+Executed in 1971, in the USA, this work will be accompanied by a registration card issued by the artist's studio.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223819_001.jpg,https://www.phillips.com/detail/yayoi-kusama/221629,None,None,None,None,None,None,None,nan,gpt-4.1-mini,90000.0,75000.0
+6e347365-b67e-42d5-9b11-73de3b8d606a,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 127,HKD,1200000,2200000,1548000,1290000.0,153689.84,281764.7,198259.89,165216.57,Yoshitomo Nara,None,None,In the Floating World (set of 16),prints,colour xerox print on paper,<NA>,28.5,41.3,cm,yes,yes,yes,1999,"Private Collection, Asia\\r\\nChristie's, Hong Kong, 26 May 2019, lot 478\\r\\nAcquired at the above sale by the present owner","woman, girl, text, mount fuji, waves, dog, traditional clothing, punk, emotions, interaction",16,None,"colour xerox print on paper
+each signed, numbered and dated 'A.P.1 Nara [in Japanese] ’99' lower edge
+each 41.3 x 28.5 cm. (16 1/4 x 11 1/4 in.)
+Executed in 1999, in Germany, this work is artist's proof 1 from an edition of 50 plus 10 artist's proofs.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224037_001.jpg,https://www.phillips.com/detail/yoshitomo-nara/224037,None,None,None,None,None,None,None,nan,gpt-4.1-mini,217000.0,180833.33333333334
+a38b2995-5ac8-445c-8652-2d2443b0b406,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 128,HKD,280000,350000,387000,322500.0,35860.96,44826.2,49564.97,41304.14,Izumi Kato,None,None,Untitled,sculpture,"wood, acrylic, charcoal and silicon",36,41,50.5,cm,yes,yes,no,2006,"ARATANIURANO, Tokyo\\r\\nPrivate Collection, Japan (acquired from the above)\\r\\nPrivate Collection, Japan (acquired from the above)\\r\\nAcquired from the above by the present owner","three heads, sculpture, wood, colors, facial features, abstract figures",1,None,"wood, acrylic, charcoal and silicon
+signed and dated '2006 KATO IZUMI [in English and Kanji]' on the underside
+50.5 x 41 x 36 cm. (19 7/8 x 16 1/8 x 14 1/8 in.)
+Executed in 2006, in Japan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222806_001.jpg,https://www.phillips.com/detail/izumi-kato/222806,None,None,None,None,None,None,None,nan,gpt-4.1-mini,40000.0,33333.333333333336
+16652b32-e77c-43de-b741-14b32ad624c7,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 129,HKD,280000,380000,<NA>,<NA>,35860.96,48668.45,<NA>,<NA>,Chiharu Shiota,None,None,State of Being,sculpture,"metal frame, thread",36.5,84,145,cm,yes,yes,yes,2019,"Gana Art, Seoul\\r\\nAcquired from the above by the present owner","red sculpture, geometric form, three-dimensional shape, shadow, abstract design",1,None,"metal frame, thread
+signed with the artist's initials 'CS' reverse centre right
+145 x 84 x 36.5 cm. (57 1/8 x 33 1/8 x 14 3/8 in.)
+Executed in 2019, in Germany, this work is accompanied by a certificate of authenticity issued by Gana Art.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225617_001.jpg,https://www.phillips.com/detail/chiharu-shiota/225617,None,None,None,None,None,None,None,nan,gpt-4.1-mini,42000.0,35000.0
+b81c63f9-862e-4cd9-a067-1664ccfa162f,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 130,HKD,300000,500000,516000,430000.0,38422.46,64037.43,66086.63,55072.19,Yayoi Kusama,None,None,Pacific Ocean,painting,enamel on paperboard,<NA>,24.3,27.3,cm,yes,yes,yes,1980,"Whitestone Gallery, Tokyo\\r\\nAcquired from the above by the present owner","flower, abstract, pink, green, red, petals, shapes, brushstrokes, organic, composition",1,None,"enamel on paperboard
+signed, titled and dated '""Pacific Ocean"" [in Kanji] 1980 yayoi kusama' on the reverse
+27.3 x 24.3 cm. (10 3/4 x 9 5/8 in.)
+Executed in 1980, in Japan, this work is accompanied by a registration card issued by the artist's studio.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223819_001.jpg,https://www.phillips.com/detail/yayoi-kusama/222302,None,None,None,None,None,None,None,nan,gpt-4.1-mini,51200.0,42666.66666666667
+aa9dea0d-43e1-48c7-a68c-e50337b6e399,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 131,HKD,1500000,2500000,1677000,1397500.0,192112.29,320187.16,214781.55,178984.62,Yayoi Kusama,None,None,Visionary Wave Crest,painting,enamel and acrylic on canvas,<NA>,80.5,65.5,cm,yes,yes,yes,1978,"Private Collection\\r\\nThe Market Auction, Tokyo, 28 October 2008, lot 226\\r\\nWhitestone Gallery, Hong Kong\\r\\nAcquired from the above by the present owner","flower, abstract, pink, red, green, circular, petals, soft, blended, illumination",1,None,"enamel and acrylic on canvas
+signed and dated 'YAYOI KUSAMA 1978' upper left; further signed, titled and dated 'YAYOI KUSAMA [in English and Kanji] ""maboroshi no hatou"" [in Japanese] 1978' on the reverse
+65.5 x 80.5 cm. (25 3/4 x 31 3/4 in.)
+Executed in 1978, in Japan, this work is accompanied by a registration card issued by the artist's studio.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223819_001.jpg,https://www.phillips.com/detail/yayoi-kusama/225940,None,None,None,None,None,None,None,nan,gpt-4.1-mini,256000.0,213333.33333333334
+058e6f56-0c0e-4584-9a2b-d365d5b36daa,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 132,HKD,400000,600000,516000,430000.0,51229.95,76844.92,66086.63,55072.19,Yayoi Kusama,None,None,Ground,drawing,"pastel, watercolour and ink on paper",<NA>,25.7,35.9,cm,yes,yes,yes,1953,"Richard Castellane, New York\\r\\nPeter Blum Gallery, New York\\r\\nPrivate Collection (acquired from the above)\\r\\nChristie's, New York, 28 September 2017, lot 1\\r\\nAcquired at the above sale by the present owner","flower, abstract, pink, red, green, texture, shape, organic forms, light, movement",1,None,"pastel, watercolour and ink on paper
+signed and dated 'YAYOI KUSAMA 1953 1953 KUSAMA' lower right; further signed, titled and dated 'yayoi kusama 1953 ""GROUND""' on the reverse
+35.9 x 25.7 cm. (14 1/8 x 10 1/8 in.)
+Executed in 1953, in Japan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223819_001.jpg,https://www.phillips.com/detail/yayoi-kusama/225939,None,None,None,None,None,None,None,nan,gpt-4.1-mini,64000.0,53333.333333333336
+421a4836-af1f-4a76-bc1c-9057717ceac5,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 133,HKD,500000,700000,825600,688000.0,64037.43,89652.4,105738.61,88115.51,Yayoi Kusama,None,None,Women's World,drawing,"pastel, gouache and pen on paper",<NA>,42,54.5,cm,yes,yes,yes,1977,"Private Collection, Nagano, Japan\\r\\nAcquired from the above by the present owner","flower, abstract, pink, red, green, fluid shapes, organic forms",1,None,"pastel, gouache and pen on paper
+signed and dated '1977 YAYOI KUSAMA' lower right; further signed, titled and dated 'Yayoi Kusama [in Japanese and English] ""Women's World"" [in Japanese] 1977' on the reverse
+54.5 x 42 cm. (21 1/2 x 16 1/2 in.)
+Executed in 1977, in Japan, this work is accompanied by a registration card issued by the artist's studio.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223819_001.jpg,https://www.phillips.com/detail/yayoi-kusama/220605,None,None,None,None,None,None,None,nan,gpt-4.1-mini,76800.0,64000.0
+dd028593-36f8-4b59-a1d1-b228d3e93c18,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 134,HKD,200000,300000,258000,215000.0,25614.97,38422.46,33043.31,27536.1,Richard Pettibone,None,None,"Andy Warhol, 'Campbell's Soup Can, Pepper Pot' and 'Campbell’s Soup Can, Turkey Noodle'",painting,acrylic and silkscreen ink on canvas,<NA>,14.1,18.2,cm,yes,yes,yes,1987,"(i) Private Collection\\r\\nSotheby's, New York, 16 May 2007, lot 322\\r\\nAcquired at the above sale by the present owner\\r\\n(ii) Private Collection\\r\\nSotheby's, London, 9 February 2006, lot 429\\r\\nAcquired at the above sale by the present owner","soup can, Campbell's, Pepper Pot, Turkey Noodle, food packaging, labels, red, white, black, art reproduction",2,None,"acrylic and silkscreen ink on canvas
+(i) signed, titled and dated '""Andy Warhol, Cambell's Soup Can, 1962"" Richard Pettibone 1987' on the overlap
+(ii) signed with the artist's initials, numbered and dated 'RP 1987 6-25' on the overlap
+18.2 x 14.1 cm. (7 1/8 x 5 1/2 in.)
+Executed in 1987, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222802_001.jpg,https://www.phillips.com/detail/richard-pettibone/222802,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+9841ccb0-1116-4817-bc90-c29cd14f52fd,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 135,HKD,120000,220000,154800,129000.0,15368.98,28176.47,19825.99,16521.66,Richard Pettibone,None,None,"Two works: (i) Andy Warhol, 'Flowers', 1964; (ii) Andy Warhol, 'Flowers', 1964",painting,acrylic and silkscreen ink on canvas,<NA>,4.4,4.4,cm,yes,yes,yes,1971,"(i) Private Collection, Korea\\r\\n(ii) Private Collection (acquired directly from the artist)\\r\\nPrivate Collection (thence by descent from the above)\\r\\nChristie's, London, 1 July 2010, lot 292\\r\\nAcquired at the above sale by the present owner","flowers, yellow flower, white flower, red flower, green background, blue background",1,None,"acrylic and silkscreen ink on canvas
+signed with initials and dated 'RP 71' on the stretcher
+4.4 x 4.4 cm. (1 3/4 x 1 3/4 in.)
+Painted in 1971, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222839_001.jpg,https://www.phillips.com/detail/richard-pettibone/222839,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+6e49f1e1-800b-498e-b02e-a3b701165694,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 136,HKD,200000,300000,335400,279500.0,25614.97,38422.46,42956.31,35796.92,Richard Pettibone,None,None,"Andy Warhol, 'Flowers'",painting,synthetic polymer and silkscreen ink on canvas,<NA>,23.6,8.2,cm,yes,yes,yes,1971,"Private Collection\\r\\nPhillips, New York, 18 May 2007, lot 192\\r\\nAcquired at the above sale by the present owner","flowers, yellow, black background, green, leaves, floral pattern",1,None,"synthetic polymer and silkscreen ink on canvas
+signed, numbered and dated 'Richard Pettibone 1971 OK #363' on the stretcher
+8.2 x 23.6 cm. (3 1/4 x 9 1/4 in.)
+Executed in 1971, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222801_001.jpg,https://www.phillips.com/detail/richard-pettibone/222801,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+f9ab33c3-a551-41bb-9c6e-a51e5ab4b600,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 137,HKD,400000,600000,<NA>,<NA>,51229.95,76844.92,<NA>,<NA>,Richard Pettibone,None,None,"Andy Warhol, Six Marilyns",mixed media,synthetic polymer and silkscreen ink on canvas,<NA>,4.9,6,cm,yes,yes,yes,1973,"O.K. Harris Gallery, New York\\r\\nPrivate Collection, Los Angeles\\r\\nMichael Kohn Gallery, Los Angeles\\r\\nTom Patchett Collection, Los Angeles\\r\\nChristie's, New York, 12 May 2005, lot 430\\r\\nAcquired at the above sale by the present owner","Marilyn Monroe, portraits, faces, pop art, colors, lips, hair, blue, yellow, red",6,None,"synthetic polymer and silkscreen ink on canvas, in 6 parts
+each signed with the artist's initials and dated 'RP 73' on the reverse
+6 x 4.9 cm. (2 3/8 x 1 7/8 in.)
+Executed in 1973, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222796_001.jpg,https://www.phillips.com/detail/richard-pettibone/222796,None,None,None,None,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+af2181a3-07d1-445d-b0fd-78bf9a2e1abe,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 138,HKD,100000,140000,129000,107500.0,12807.49,17930.48,16521.66,13768.05,Richard Pettibone,None,None,"Andy Warhol, 'Marilyn'",painting,synthetic polymer and silkscreen ink on canvas,<NA>,7.7,9,cm,yes,yes,yes,1978,"Private Collection, Korea","Marilyn Monroe, portrait, pop art, yellow hair, blue eyes, purple background, red lips, canvas, icon, silhouette",1,None,"synthetic polymer and silkscreen ink on canvas
+signed and dated 'Richard Pettibone 1978' on the overlap
+9 x 7.7 cm. (3 1/2 x 3 in.)
+Executed in 1978, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222844_001.jpg,https://www.phillips.com/detail/richard-pettibone/222844,None,None,None,None,None,None,None,nan,gpt-4.1-mini,15300.0,12750.0
+dce34fa6-63e0-4009-ba26-7b8e28ef8ad6,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 139,HKD,400000,550000,774000,645000.0,51229.95,70441.17,99129.94,82608.29,Richard Pettibone,None,None,"Roy Lichtenstein, Masterpiece (unnumbered edition of 25)",prints,acrylic and silkscreen ink on canvas,<NA>,19.7,19.1,cm,yes,yes,yes,1975,"Private Collection\\r\\nSotheby's, New York, 15 May 2008, lot 228\\r\\nAcquired at the above sale by the present owner","woman, man, painting, dialogue, blonde hair, art studio, comic style, portrait, emotions, New York",1,None,"acrylic and silkscreen ink on canvas
+signed, titled and dated '“R Lichtenstein, Masterpiece 1962” Richard Pettibone 1975' on the overlap
+each 19.1 x 19.7 cm. (7 1/2 x 7 3/4 in.)
+Executed in 1975, in the USA, this work is from an unnumbered edition of 25.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222797_001.jpg,https://www.phillips.com/detail/richard-pettibone/222797,None,None,None,None,None,None,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+8c95b897-bc2d-4d83-a6ac-b9447b0175c4,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 140,HKD,150000,240000,193500,161250.0,19211.23,30737.97,24782.49,20652.07,Richard Pettibone,None,None,"Playboy Nude, Left Leg and Crotch; and Ingres, The Princess de Broglie, 1853",painting,acrylic on canvas,<NA>,20,20,cm,yes,yes,yes,1976,"OK Harris Gallery, New York\\r\\nPrivate Collection\\r\\nChristie's, New York, 17 May 2007, lot 369\\r\\nAcquired at the above sale by the present owner","nude, fabric, hand, jewelry, bedding, satin, drapery, colors, skin, pose",1,None,"acrylic on canvas, in artist's frame
+signed, titled and dated '""Playboy Nude, Left Leg and Crotch; and ingres, The Princess de Broglie, 1853"" Richard Pettibone 1976' on the overlap
+work 20 x 20 cm. (7 7/8 x 7 7/8 in.)
+frame 21.5 x 21.5 cm. (8 1/2 x 8 1/2 in.)
+Painted in 1976, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222837_001.jpg,https://www.phillips.com/detail/richard-pettibone/222837,None,None,None,None,None,None,None,nan,gpt-4.1-mini,24300.0,20250.0
+8822249f-2502-4fe9-b4fb-d954f9a19793,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 141,HKD,120000,150000,193500,161250.0,15368.98,19211.23,24782.49,20652.07,Richard Pettibone,None,None,"Andy Warhol, 'Cow', 1966 (blue on yellow)",painting,synthetic polymer and silkscreen ink on canvas,<NA>,9.5,15.2,cm,yes,yes,yes,1971,"O.K. Harris Gallery, New York\\r\\nPrivate Collection\\r\\nChristie's, New York, 17 May 2007, lot 368\\r\\nAcquired at the above sale by the present owner","cow, blue, black, yellow, animal, portrait, head, graphic, outline, pop art",1,None,"synthetic polymer and silkscreen ink on canvas
+signed, numbered and dated 'R Pettibone 1971 OK #219B' on the stretcher
+15.2 x 9.5 cm. (5 7/8 x 3 3/4 in.)
+Executed in 1971, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222842_001.jpg,https://www.phillips.com/detail/richard-pettibone/222842,None,None,None,None,None,None,None,nan,gpt-4.1-mini,17800.0,14833.333333333334
+03bc7522-606b-4e41-9b78-25cbd1a9d2a6,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 142,HKD,240000,300000,309600,258000.0,30737.97,38422.46,39651.98,33043.31,Richard Pettibone,None,None,"Andy Warhol, Pepper Pot",painting,acrylic on canvas,<NA>,15.3,20.5,cm,no,yes,yes,1964,"Private Collection\\r\\nSotheby's, New York, 13 November 2002, lot 129\\r\\nAcquired at the above sale by the present owner","soup can, Campbell's Condensed, Pepper Pot, yellow circle, red, gray, lettering, artistic branding, contemporary art",1,None,"acrylic on canvas
+stamped with the artist's name and dated 'RICHARD PETTIBONE 1964' along the bottom edge; stamped with the artist's name, titled and dated 'Andy Warhol, Pepper Pot, 1962. RICHARD PETTIBONE 1965' along the right edge
+20.5 x 15.3 cm. (8 1/8 x 6 in.)
+Painted in 1964-1965, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222799_001.jpg,https://www.phillips.com/detail/richard-pettibone/222799,None,None,None,None,None,None,None,nan,gpt-4.1-mini,34500.0,28750.0
+ffe90192-4d9f-4939-9eda-b92290d8d59f,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 143,HKD,120000,150000,<NA>,<NA>,15368.98,19211.23,<NA>,<NA>,Richard Pettibone,None,None,"Andy Warhol, Campbell's Consommé Soup",painting,acrylic and silkscreen ink on canvas,<NA>,13,17.3,cm,yes,yes,yes,1986,"Private Collection, Korea","soup can,Campbell's,condensed,beef,red,white,graphic,illustration",1,None,"acrylic and silkscreen ink on canvas
+signed, titled, dedicated and dated '""Andy Warhol, Campbell's Consommé Soup, 1962"" Richard Pettibone, 1986 To Cathy, the boss, with love' on the overlap
+17.3 x 13 cm. (6 3/4 x 5 1/8 in.)
+Executed in 1986, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222843_001.jpg,https://www.phillips.com/detail/richard-pettibone/222843,None,None,None,None,None,None,None,nan,gpt-4.1-mini,17400.0,14500.0
+bb024457-38c0-4f72-aa69-4c3e9fc2110f,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 144,HKD,200000,280000,258000,215000.0,25614.97,35860.96,33043.31,27536.1,Richard Pettibone,None,None,"Andy Warhol, ‘Orange Electric Chair’, 1963",painting,acrylic and silkscreen ink on canvas,<NA>,16.5,12.8,cm,yes,yes,yes,1996,"Leo Castelli Gallery, New York\\r\\nPrivate Collection\\r\\nChristie's, London, 12 February 2010, lot 237\\r\\nAcquired at the above sale by the present owner","chair, room, darkness, light, shadows, electric chair, abandoned place, isolation, empty space",1,None,"acrylic and silkscreen ink on canvas
+signed, titled and dated '""Andy Warhol, ‘Orange Electric Chair’, 1963"" Richard Pettibone 1996' on the stretcher
+12.8 x 16.5 cm. (5 x 6 1/2 in.)
+Executed in 1996, in the USA, this work is number 1 from an edition of 2.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222835_001.jpg,https://www.phillips.com/detail/richard-pettibone/222835,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+8c275967-3d6c-405f-b451-71b1b0965c5f,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 145,HKD,240000,300000,309600,258000.0,30737.97,38422.46,39651.98,33043.31,Richard Pettibone,None,None,Flower and Lavender Disaster,painting,acrylic on canvas,<NA>,22.2,15.3,cm,yes,yes,yes,1969,"Private Collection\\r\\nSotheby's, New York, 13 November 2002, lot 129\\r\\nAcquired at the above sale by the present owner","flower, blue, interior, chair, wall, shadow, plant, grass, pattern, color",1,None,"acrylic on canvas
+signed, titled and dated '""Flower and Lavender Disaster"" R Pettibone 1969' on the stretcher
+15.3 x 22.2 cm. (6 x 8 3/4 in.)
+Painted in 1969, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222800_001.jpg,https://www.phillips.com/detail/richard-pettibone/222800,None,None,None,None,None,None,None,nan,gpt-4.1-mini,34500.0,28750.0
+8ccab191-c85c-451a-8f0e-f69e83b08a7b,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 146,HKD,240000,400000,<NA>,<NA>,30737.97,51229.95,<NA>,<NA>,Richard Pettibone,None,None,Southern Pacific and Stella,mixed media,screenprint ink and oil on canvas,<NA>,44,20.5,cm,yes,yes,yes,1970,"Gallery Carl Oscar, Kansas City\\r\\nPrivate Collection (acquired from the above)\\r\\nChristie's, New York, 3 October 2006, lot 142\\r\\nPrivate Collection\\r\\nWright, Lambertville, 22 May 2007, lot 529\\r\\nAcquired at the above sale by the present owner","train, abstract shapes, colors, photograph, geometric forms",1,None,"screenprint ink and oil on canvas
+signed, titled and dated '""Southern Pacific and Stella"" R. Pettibone 1970' on the stretcher
+20.5 x 44 cm. (8 1/8 x 17 3/8 in.)
+Executed in 1970, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222798_001.jpg,https://www.phillips.com/detail/richard-pettibone/222798,None,None,None,None,None,None,None,nan,gpt-4.1-mini,41000.0,34166.66666666667
+71444fec-6e0a-4fd4-a1d8-c8778bc82c49,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 147,HKD,120000,160000,<NA>,<NA>,15368.98,20491.98,<NA>,<NA>,Richard Pettibone,None,None,"Stella, Tuftonboro",painting,acrylic on canvas,<NA>,14.5,16.5,cm,yes,yes,yes,1966,"Private Collection (acquired directly from the artist)\\r\\nPrivate Collection, New York\\r\\nSotheby's, New York, 26 February 2007, lot 15\\r\\nAcquired at the above sale by the present owner","geometric shapes, color blocks, red, black, brown, yellow",1,None,"acrylic on canvas
+signed, titled and dated '""Stella Tuftonboro 1966"" Richard Pettibone 1967' on the stretcher
+16.5 x 14.5 cm. (6 1/2 x 5 3/4 in.)
+Painted in 1967, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222840_001.jpg,https://www.phillips.com/detail/richard-pettibone/222840,None,None,None,None,None,None,None,nan,gpt-4.1-mini,17900.0,14916.666666666668
+b092a17b-9c61-460c-bf1f-e10b6293a919,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 148,HKD,150000,240000,103200,86000.0,19211.23,30737.97,13217.33,11014.44,Richard Pettibone,None,None,DETAIL OF FRANK STELLA'S UNION PACIFIC 1960 OR MARQUIS de Portago 1960,painting,acrylic on canvas,<NA>,20.5,15,cm,no,yes,yes,1965,"Private Collection, Korea","gray, lines, patterns",1,None,"acrylic on canvas
+titled '""DETAIL OF FRANK STELLA'S UNION PACIFIC 1960 OR MARQUIS de Portago 1960""' on the stretcher; further stamped with the artist's name and dated 'RICHARD PETTIBONE 1965' on the reverse
+15 x 20.5 cm. (5 7/8 x 8 1/8 in.)
+Painted in 1965, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222838_001.jpg,https://www.phillips.com/detail/richard-pettibone/222838,None,None,None,None,None,None,None,nan,gpt-4.1-mini,24900.0,20750.0
+a8c6ce65-5743-4698-82ef-522ea1806e51,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 149,HKD,180000,250000,232200,193500.0,23053.48,32018.72,29738.98,24782.49,Richard Pettibone,None,None,"Frank Stella, 'Darabjevd I'",painting,enamel and graphite on canvas,<NA>,23.4,15.5,cm,yes,yes,yes,1968,"Leo Castelli Gallery, New York\\r\\nPrivate Collection\\r\\nChristie's, New York, 14 May 2008, lot 446\\r\\nAcquired at the above sale by the present owner","colors, geometric shapes, abstract patterns, curves, circles, outlines",1,None,"enamel and graphite on canvas
+signed, titled and dated '""Stella, Darabjevd I, 1967"" R Pettibone 1968' on the stretcher
+15.5 x 23.4 cm. (6 1/8 x 9 1/4 in.)
+Executed in 1968, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222836_001.jpg,https://www.phillips.com/detail/richard-pettibone/222836,None,None,None,None,None,None,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+0cd2acc2-fdcd-4806-8800-63d12e2580e9,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 150,HKD,120000,160000,<NA>,<NA>,15368.98,20491.98,<NA>,<NA>,Richard Pettibone,None,None,Ossippee (Irregular Polygon),painting,oil on canvas,<NA>,17.8,12.4,cm,yes,yes,yes,1966,"Private Collection, Korea","geometric shapes, pentagon, blue, green, white, abstract composition",1,None,"oil on canvas
+signed, titled and dated 'R Pettibone 1967 ""Stella Ossippee 1966""' on the stretcher
+12.4 x 17.8 cm. (4 7/8 x 7 in.)
+Painted in 1967, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222841_001.jpg,https://www.phillips.com/detail/richard-pettibone/222841,None,None,None,None,None,None,None,nan,gpt-4.1-mini,17900.0,14916.666666666668
+7fe8e474-e810-4808-afa8-0fe92f72596d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 151,HKD,100000,150000,141900,118250.0,12807.49,19211.23,18173.82,15144.85,Yves Klein,None,None,Table MONOPINK™,furniture,"plexiglas, wood, glass, chrome-plated legs, dry pigment",100.1,125.2,37.1,cm,yes,yes,yes,1961,"Private Collection\\r\\nPhillips, Hong Kong, 9 July 2020, lot 198\\r\\nAcqured at the above sale by the present owner","table, glass, pink sand, modern design",1,None,"plexiglas, wood, glass, chrome-plated legs and dry pigment
+signed and numbered ‘XW-REPG R. Klein Moquay' on a label affixed to the underside
+37.1 x 125.2 x 100.1 cm. (14 5/8 x 49 1/4 x 39 3/8 in.)
+Designed in 1961 and produced under the supervision of Rotraut Klein-Moquay since 1963, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/219724_001.jpg,https://www.phillips.com/detail/yves-klein/219724,None,None,None,None,None,None,None,nan,gpt-4.1-mini,16000.0,13333.333333333334
+45c5acdf-b8fe-4a17-8263-d078c33a4605,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 152,HKD,120000,200000,167700,139750.0,15368.98,25614.97,21478.15,17898.46,Anselm Reyle,None,None,Untitled,mixed media,mixed media on canvas,19,63,74,cm,yes,yes,no,2012,"Kaikai Kiki Gallery, Taipei\\r\\nAcquired from the above by the present owner","crumpled paper, gold foil, silver foil, abstract forms, three-dimensional",1,None,"mixed media on canvas, in artist's acrylic box frame
+signed and dated 'A. Reyle 2012' on the reverse
+74 x 63 x 19 cm. (29 1/8 x 24 3/4 x 7 1/2 in.)
+Executed in 2012, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222804_001.jpg,https://www.phillips.com/detail/anselm-reyle/222804,None,None,None,None,None,None,None,nan,gpt-4.1-mini,21000.0,17500.0
+def9b78f-74ec-45a7-badf-d60841779c39,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 153,HKD,100000,200000,141900,118250.0,12807.49,25614.97,18173.82,15144.85,Wolfgang Tillmans,None,None,paper drop (passage) X,prints,inkjet print,<NA>,40.6,30.5,cm,yes,yes,yes,2019,"Galerie Buchholz, Berlin\\r\\nAcquired from the above by the present owner","translucent object, curved shape, shadow, light reflection",1,None,"inkjet print
+signed, titled, numbered and dated '""paper drop (passage) X"" ph 12/2019 pr WT 02/2021 7/10+1 Wolfgang Tillmans' on a label affixed to the reverse of the backing board
+30.5 x 40.6 cm. (12 x 15 7/8 in.)
+Executed in December 2019 and printed in February 2021, in Germany, this work is number 7 from an edition of 10 plus 1 artist's proof.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224835_001.jpg,https://www.phillips.com/detail/wolfgang-tillmans/224835,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19210.0,16008.333333333334
+34c99e68-6acc-4505-9e23-7ef81046e7d7,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 154,HKD,200000,300000,361200,301000.0,25614.97,38422.46,46260.64,38550.53,Callum Innes,None,None,"Exposed Painting: Grey Black, Yellow, White",painting,oil on canvas,<NA>,221.5,227.5,cm,yes,yes,yes,1999,"Kiang Malingue, Hong Kong\\r\\nAcquired from the above by the present owner","black, white, beige, geometric shapes, abstract",1,None,"oil on canvas
+signed with the artist's signature and initials, inscribed and dated 'Callum Innes. 99. CI 16 99.' on the overlap
+227.5 x 221.5 cm. (89 5/8 x 87 1/4 in.)
+Painted in 1999, in the UK.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222888_001.jpg,https://www.phillips.com/detail/callum-innes/222888,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+e623427f-0d3c-4be8-beca-73748925f4ec,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 155,HKD,100000,200000,<NA>,<NA>,12807.49,25614.97,<NA>,<NA>,Caio Fonseca,None,None,Pietrasanta Painting C07.15,mixed media,mixed media on canvas,<NA>,114,89,cm,yes,yes,yes,2007,"Ben Brown Fine Arts, Hong Kong\\r\\nAcquired from the above by the present owner","abstract shapes, blue, yellow, red, lines, patterns, color fields, textures",1,None,"mixed media on canvas
+signed 'CAIO' lower right; further signed and titled 'CAIO FONSECA ""PIETRASANTA C07.15"" 2007' on the reverse
+89 x 114 cm. (35 x 44 7/8 in.)
+Executed in 2007, in Italy.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222884_001.jpg,https://www.phillips.com/detail/caio-fonseca/222884,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19200.0,16000.0
+100e59f0-1620-4a13-ae95-0a85ccbed45e,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 156,HKD,90000,120000,<NA>,<NA>,11526.74,15368.98,<NA>,<NA>,Gioele Amaro,None,None,Delphinium Dawn,painting,ink on canvas,<NA>,97.8,130.5,cm,yes,yes,yes,2021,"HdM Gallery, Beijing\\r\\nAcquired from the above by the present owner","color gradients, abstract, blue, green, orange, pink, surface texture, light reflection, non-representational, luminous",1,None,"ink on canvas
+signed and dated 'GIOELE AMARO Gioele Amaro 2021' on the reverse
+130.5 x 97.8 cm. (51 3/8 x 38 1/2 in.)
+Executed in 2021, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/220251_001.jpg,https://www.phillips.com/detail/gioele-amaro/220251,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13450.0,11208.333333333334
+501f128b-a569-4eca-8275-7e3ee15a65f2,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 158,HKD,800000,1200000,838500,698750.0,102459.89,153689.84,107390.77,89492.31,KAWS,None,None,UNTITLED (H&M),mixed media,acrylic on existing advertising poster,<NA>,66.5,124.5,cm,yes,yes,no,2002,"Private Collection, Japan (gifted by the artist)","clown face, eyes, mouth, leather blazer, abstract background, vibrant colors, mixed media, humor, fashion advertisement, mask",1,None,"acrylic on existing advertising poster
+signed and dated 'KAWS.. 02' lower right
+124.5 x 66.5 cm. (49 x 26 1/8 in.)
+Executed in 2002, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224752_001.jpg,https://www.phillips.com/detail/kaws/224752,None,None,None,None,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+72309789-db6e-4d72-93ec-64bdb8648ba1,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 159,HKD,700000,900000,903000,752500.0,89652.4,115267.38,115651.6,96376.33,KAWS,None,None,DON'T SINK,painting,acrylic on canvas,<NA>,<NA>,102,cm,yes,yes,yes,2012,"Galerie Perrotin, Hong Kong\\r\\nPrivate Collection, Los Angeles\\r\\nSotheby's, New York, 15 May 2014, lot 425\\r\\nPrivate Collection\\r\\nChristie's, New York, 1 March 2018, lot 267\\r\\nPrivate Collection\\r\\nSotheby's, New York, 26 September 2019, lot 223\\r\\nPrivate Collection\\r\\nYongle Auction, Beijing, 21 May 2021, lot 1961\\r\\nAcquired at the above sale by the present owner","face, gray, yellow, blue, round, eyes, dots",1,None,"acrylic on canvas
+signed and dated 'KAWS.. 12' on the reverse
+diameter 102 cm. (40 in.)
+Painted in 2012, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225216_001.jpg,https://www.phillips.com/detail/kaws/225216,None,None,None,None,None,None,None,nan,gpt-4.1-mini,103000.0,85833.33333333334
+d726ae56-ea03-418b-89b1-bc3846852bdf,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 160,HKD,400000,550000,<NA>,<NA>,51229.95,70441.17,<NA>,<NA>,Tomoo Gokita,None,None,Bride,painting,acrylic and pastel on canvas,<NA>,162.2,194.2,cm,yes,yes,yes,2020,"Taka Ishii Gallery, Tokyo\\r\\nAcquired from the above by the present owner","figures, women, abstract shapes, red, pink, green, yellow, head covering, patterns, facial features",1,None,"acrylic and pastel on canvas
+signed, titled and dated '“BRIDE” Tomoo Gokita 2020' on the reverse; further titled '""BRIDE""' on the overlap
+194.2 x 162.2 cm. (76 1/2 x 63 7/8 in.)
+Executed in 2020, in Japan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222853_001.jpg,https://www.phillips.com/detail/tomoo-gokita/222853,None,None,None,None,None,None,None,nan,gpt-4.1-mini,61500.0,51250.0
+11f33142-0e02-4f7c-b63e-0b47e3bfefe4,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 161,HKD,200000,300000,<NA>,<NA>,25614.97,38422.46,<NA>,<NA>,Eddie Martinez,None,None,Flowers for Taiwan No.17 (Blue Heaven),painting,oil and spray paint on canvas,<NA>,76.2,102,cm,yes,yes,yes,2019,"Galerie Perrotin, Tokyo\\r\\nAcquired from the above by the present owner","flowers, vase, abstract shapes, blue background, green leaf, red oval, black outlines, textured surface, monochrome areas, mixed media",1,None,"oil and spray paint on canvas
+signed with the artist's initials and dated 'EM. 19' lower left
+102 x 76.2 cm. (40 1/8 x 30 in.)
+Executed in 2019, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222854_001.jpg,https://www.phillips.com/detail/eddie-martinez/222854,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+e2edaf70-1168-4ba1-85a1-ec88e1f8d9f1,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 162,HKD,60000,80000,51600,43000.0,7684.49,10245.99,6608.66,5507.22,Shara Hughes,None,None,Shade Trees,mixed media,mixed media on paper,<NA>,28,38,cm,yes,yes,yes,2020,"Galerie Eva Presenhuber, Zurich\\r\\nAcquired from the above by the present owner","trees, blue, red, yellow, pink, landscape, abstract, shapes, colors, pattern",1,None,"mixed media on paper
+signed, titled and dated '2020 ""Shade Trees"" SHARA HUGHES' on the reverse
+38 x 28 cm. (14 7/8 x 11 in.)
+Executed in 2020, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225143_001.jpg,https://www.phillips.com/detail/shara-hughes/225143,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9000.0,7500.0
+6c0e178b-960c-4b50-b62a-f5425793a7f0,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 163,HKD,80000,120000,206400,172000.0,10245.99,15368.98,26434.65,22028.88,Billy Childish,None,None,sunrise and distant burn-off,painting,oil and charcoal on linen,<NA>,122,122,cm,yes,yes,yes,2021,"Carl Freedman Gallery, Margate\\r\\nAcquired from the above by the present owner","man, boat, water, waves, mountains, sunset, reflection, paddling, shoreline, vegetation",1,None,"oil and charcoal on linen
+signed and dated 'BC 22' lower right
+122 x 122 cm. (48 x 48 in.)
+Executed in 2021, in the UK.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223489_001.jpg,https://www.phillips.com/detail/billy-childish/223489,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+6d3fe59a-d95f-4db4-b6fe-402f7ba5c282,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 164,HKD,180000,280000,<NA>,<NA>,23053.48,35860.96,<NA>,<NA>,Justin Liam O'Brien,None,None,Sanctuary in the Pages,painting,oil on linen,<NA>,152,182,cm,yes,yes,yes,2022,"Richard Heller Gallery, Los Angeles\\r\\nAcquired from the above by the present owner","male figure, portrait, woman, tree, clouds, building, landscape, holding, book, human face",1,None,"oil on linen
+signed, titled and dated '""Sanctuary In The Pages"" Justin Liam O'Brian 2022' on the reverse
+182 x 152 cm. (71 5/8 x 59 7/8 in.)
+Painted in 2022, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223903_001.jpg,https://www.phillips.com/detail/justin-liam-o'brien/223903,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+5407de95-eaa5-4bfa-afbe-794d10121835,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 165,HKD,1200000,2400000,2193000,1827500.0,153689.84,307379.67,280868.17,234056.81,Li Chen,None,None,Angelic Smile,sculpture,bronze,46,55.5,125.5,cm,yes,yes,yes,2010,"Asia Art Center, Taipei\\r\\nAcquired from the above by the present owner","figure, flower, black, gold, sculpture, hair, round, human-like, standing",1,None,"bronze
+incised with the artist's seal, signature and numbered 'Li Chen [in Chinese] Li Chen 5/8' on the reverse
+125.5 x 55.5 x 46 cm. (49 3/8 x 21 7/8 x 18 1/8 in.)
+Executed in 2010, in Taiwan, this work is number 5 from an edition of 8, and is accompanied by a certificate of authenticity issued by Asia Art Center, Taipei.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/213766_001.jpg,https://www.phillips.com/detail/li-chen/213766,None,None,None,None,None,None,None,nan,gpt-4.1-mini,230000.0,191666.6666666667
+fb7d864a-d797-4617-aed0-2b84818bff11,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 166,HKD,150000,200000,154800,129000.0,19211.23,25614.97,19825.99,16521.66,Atsuko Tanaka,None,None,Untitled,drawing,oil pastel on paper,<NA>,39.2,58.7,cm,yes,yes,no,1999,"Gallery Yonetsu, Tokyo\\r\\nPrivate Collection\\r\\nSBI Art Auction, Tokyo, 26 May 2023, lot 314\\r\\nNukaga Gallery, Tokyo\\r\\nAcquired from the above by the present owner","circles, lines, colors, patterns, abstract forms",1,None,"oil pastel on paper
+signed and dated ''99 Atsuko Tanaka' on the reverse
+58.7 x 39.2 cm. (23 1/8 x 15 3/8 in.)
+Executed in 1999, in Japan, this work is accompanied with a registration card issued by Kanayama Akira and Tanaka Atsuko Association.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225140_001.jpg,https://www.phillips.com/detail/atsuko-tanaka/225140,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22400.0,18666.666666666668
+d9a047c9-8c67-485a-9b25-cb829dfcb17d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 167,HKD,400000,600000,451500,376250.0,51229.95,76844.92,57825.8,48188.17,Ha Chong-Hyun,None,None,Work 72-(A),mixed media,barbed wire on panel,<NA>,122,122,cm,yes,yes,yes,1972,"Private Collection\\r\\nSeoul Auction, Hong Kong, 25 November 2017, lot 13\\r\\nAcquired at the above sale by the present owner","abstract patterns, calligraphy, line work, monochrome, shapes, ink on paper",1,None,"barbed wire on panel
+signed, titled and dated 'HA, CHONG-HYUN. ""Work 72-(A)."" [in Hanja and English] Executed in 1972 [in Hanja]' on the reverse
+122 x 122 cm. (48 x 48 in.)
+Executed in 1972, in South Korea.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225938_001.jpg,https://www.phillips.com/detail/ha-chong-hyun/225938,None,None,None,None,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+c575b70c-7237-4adc-9f5f-d6d40a8fdf59,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 168,HKD,220000,420000,580500,483750.0,28176.47,53791.44,74347.46,61956.22,Kim Tschang-Yeul,None,None,Recurrence SH93034,painting,oil and acrylic on hemp cloth,<NA>,90,115,cm,yes,yes,yes,1993,"Galerie Bhak, Seoul\\r\\nPrivate Collection\\r\\nK Auction, Seoul, 17 March 2021, lot 19\\r\\nAcquired from the above by the current owner","gold droplets, text, canvas, abstract, shapes",1,None,"oil and acrylic on hemp cloth
+signed, numbered and dated 'SH. 93034 - 93 T. Kim Kim Tschang-Yeul [in Hanja]' on the right edge
+115 x 90 cm. (45 1/4 x 35 3/8 in.)
+Executed in 1993, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225609_001.jpg,https://www.phillips.com/detail/kim-tschang-yeul/225609,None,None,None,None,None,None,None,nan,gpt-4.1-mini,41400.0,34500.0
+d91f1611-b8a9-4645-8ff7-e32348b2af59,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 169,HKD,300000,600000,903000,752500.0,38422.46,76844.92,115651.6,96376.33,Liu Dan,None,None,Tai Hu Stone,drawing,ink on paper,<NA>,35.5,40,cm,yes,yes,yes,2003,"Private Collection\\r\\nPoly International Auction, Hong Kong, 3 April 2017, lot 118\\r\\nAcquired at the above sale by the present owner","rock formation, text, ink, texture, natural elements",1,None,"ink on paper
+signed, titled, stamped with the artist's seal, inscribed and dated 'Spring 2003 painted and inscribed by Liu Dan [in Chinese]' upper left
+40 x 35.5 cm. (15 3/4 x 13 7/8 in.)
+Executed in 2003, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225220_001.jpg,https://www.phillips.com/detail/liu-dan/225220,None,None,None,None,None,None,None,nan,gpt-4.1-mini,57600.0,48000.0
+d35e79d1-e93b-4872-ac20-ab8b3d2ab1ef,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 170,HKD,200000,300000,258000,215000.0,25614.97,38422.46,33043.31,27536.1,Liu Kuo-Sung,None,None,The Pure Sun,painting,ink and colour on paper,<NA>,45,59.5,cm,yes,yes,yes,1971,"The Estate of Stephanie Shrapel, Adelaide\\r\\nAcquired from the above by the present owner","sun, landscape, earth, black figures, orange hues, yellow hues, abstract shapes, light, texture, horizon",1,None,"ink and colour on paper
+signed, stamped with the artist's seal and dated 'Liu Kuo-Sung 1971 [in Chinese]' lower left
+59.5 x 45 cm. (23 3/8 x 17 3/4 in.)
+Executed in 1971, in Taiwan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222996_001.jpg,https://www.phillips.com/detail/liu-kuo-sung/222996,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+8d1cd38a-cc1c-4abc-ae20-ebf0b6a5ec27,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 171,HKD,200000,400000,<NA>,<NA>,25614.97,51229.95,<NA>,<NA>,Xu Lei,None,None,Perch,painting,ink and colour on paper,<NA>,43,55,cm,yes,yes,yes,1991,"Private Collection (acquired directly from the artist)\\r\\nChristie's, Hong Kong, 29 November 2023, lot 283\\r\\nAcquired at the above sale by the present owner","chair, bird, flower, scroll, wall, decoration, brown, turquoise, white, nature",1,None,"ink and colour on paper
+signed and stamped with the artist's seal 'Lei' lower right
+55 x 43 cm. (21 5/8 x 16 7/8 in.)
+Executed in 1991, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225094_001.jpg,https://www.phillips.com/detail/xu-lei/225094,None,None,None,None,None,None,None,nan,gpt-4.1-mini,38422.46,32018.716666666667
+6d1e2f22-8c17-48b8-be4b-d8a924b97e3a,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 172,HKD,400000,700000,516000,430000.0,51229.95,89652.4,66086.63,55072.19,Ai Xuan,None,None,Grassland and Sheep Behind,painting,oil on canvas,<NA>,80,80,cm,yes,yes,yes,2004,"Private Collection\\r\\nHanhai Auction, Beijing, 11 December 2005, lot 2045\\r\\nPrivate Collection, Asia\\r\\nAcquired from the above by the present owner","girl, sheep, snow, coat, jewelry, landscape, hair, eyes, expression, winter",1,None,"oil on canvas
+signed and dated 'Ai xuan [in Chinese and Pinyin] 2004' lower left
+80 x 80 cm. (31 1/2 x 31 1/2 in.)
+Painted in 2004, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225219_001.jpg,https://www.phillips.com/detail/ai-xuan/225219,None,None,None,None,None,None,None,nan,gpt-4.1-mini,71200.0,59333.333333333336
+e0ba6d48-c8df-49d8-98b0-32bc9b064f5e,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 173,HKD,180000,280000,245100,204250.0,23053.48,35860.96,31391.15,26159.29,André Brasilier,None,None,Méditerranée,painting,oil on canvas,<NA>,97,146,cm,yes,yes,yes,2013,"Opera Gallery, New York\\r\\nAcquired from the above by the present owner on 28 September 2020","woman, blue dress, sea, flowers, sky, coast, greenery, ocean, horizon",1,None,"oil on canvas
+signed 'André Brasilier' lower right; further signed with the initials, titled and dated '""Méditerranée"" A. B. 2013' on the stretcher
+146 x 97 cm. (57 1/2 x 38 1/4 in.)
+Painted in 2013, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/221348_001.jpg,https://www.phillips.com/detail/andr%C3%A9-brasilier/221348,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+7aec5c63-7596-4d49-a1a2-886a77360dd7,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 174,HKD,400000,600000,619200,516000.0,51229.95,76844.92,79303.96,66086.63,Lê Phổ,None,None,Les dahlias,painting,oil on silk,<NA>,49,64,cm,yes,yes,yes,1968,"Wally Findlay Galleries, Chicago\\r\\nPrivate Collection, Winnetka (acquired from the above in 1968)\\r\\nHeritage Auctions, Dallas, 19 May 2022, lot 77015\\r\\nPrivate Collection (acquired at the above sale)\\r\\nSotheby's, Hong Kong, 6 October 2022, lot 770\\r\\nAcquired at the above sale by the present owner","flowers, vase, floral arrangement, colors, leaves, background",1,None,"oil on silk
+signed ‘Le Pho [in Chinese and English]' lower right
+64 x 49 cm. (25 1/4 x 19 1/4 in.)
+Executed in 1968, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224295_001.jpg,https://www.phillips.com/detail/l%C3%AA-ph%E1%BB%95/224295,None,None,None,None,None,None,None,nan,gpt-4.1-mini,68200.0,56833.333333333336
+5240cb79-dd6c-48a5-888e-94874d98daea,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 175,HKD,800000,1200000,1806000,1505000.0,102459.89,153689.84,231303.2,192752.67,Mai Trung Thứ,None,None,Girl Serving Tea,painting,gouache on silk,<NA>,47.5,35,cm,yes,yes,yes,1971,"Private Collection, Paris","two women, child, tea set, green background, traditional clothing, sitting, wooden table, tea cup, short hair, long hair",1,None,"gouache on silk, in artist’s frame
+signed, stamped with the artist's seal and dated 'MAI THU 1971 [in Chinese]' upper left
+work 35 x 47.5 cm. (13 3/4 x 18 3/4 in.)
+frame 51.5 x 63 cm. (20 1/4 x 24 3/4 in.)
+Executed in 1971, in France, this work will be accompanied by a certificate of authenticity prepared by the artist's daughter, Mai Lan Phuong. This work will be included in the artist's forthcoming catalogue raisonné, being prepared by Mai Lan Phuong.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/215949_001.jpg,https://www.phillips.com/detail/mai-trung-th%E1%BB%A9/215949,None,None,None,None,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+4e5b7768-76aa-4e7a-a319-a9fb721f4c90,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 176,HKD,500000,700000,967500,806250.0,64037.43,89652.4,123912.43,103260.36,Mai Trung Thứ,None,None,Tea Cup,painting,gouache on silk,<NA>,22,35,cm,yes,yes,yes,1968,"Private Collection, Paris","woman, tea cup, green dress, blue flowers, seated, profile, yellow background, hair bun, wooden stool, hand",1,None,"gouache on silk, in artist’s frame
+signed, stamped with the artist's seal and dated 'MAI THU 1968 [in Chinese]' upper right
+work 35 x 22 cm. (13 3/4 x 8 5/8 in.)
+frame 52.5 x 38.7 cm. (20 5/8 x 15 1/4 in.)
+Executed in 1968, in France, this work will be accompanied by a certificate of authenticity prepared by the artist's daughter, Mai Lan Phuong. This work will be included in the artist's forthcoming catalogue raisonné, being prepared by Mai Lan Phuong.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/215950_001.jpg,https://www.phillips.com/detail/mai-trung-th%E1%BB%A9/215950,None,None,None,None,None,None,None,nan,gpt-4.1-mini,75000.0,62500.0
+430ef75f-c9f2-4604-9702-06cd6c2b01b3,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 177,HKD,800000,1200000,2193000,1827500.0,102459.89,153689.84,280868.17,234056.81,Mai Trung Thứ,None,None,Walk in the Garden,painting,gouache on silk,<NA>,31,57.5,cm,yes,yes,yes,1971,"Private Collection, Paris","woman, children, flowers, mountains, grass, trees, traditional clothing, portrait, nature, landscape",1,None,"gouache on silk, in artist’s frame
+signed, stamped with the artist's seal and dated 'MAI THU 1971 [in Chinese]' upper right
+work 57.5 x 31 cm. (22 5/8 x 12 1/4 in.)
+frame 74.5 x 46 cm. (29 3/8 x 18 1/8 in.)
+Executed in 1971, in France, this work will be accompanied by a certificate of authenticity prepared by the artist's daughter, Mai Lan Phuong. This work will be included in the artist's forthcoming catalogue raisonné, being prepared by Mai Lan Phuong.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/215951_001.jpg,https://www.phillips.com/detail/mai-trung-th%E1%BB%A9/215951,None,None,None,None,None,None,None,nan,gpt-4.1-mini,128000.0,106666.66666666667
+bd03f2ed-3e95-4ca9-b2f9-7a008c3ec85b,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 178,HKD,450000,650000,967500,806250.0,57633.69,83248.66,123912.43,103260.36,Mai Trung Thứ,None,None,Sadness,painting,gouache on silk,<NA>,24.5,39,cm,yes,yes,yes,1968,"Private Collection, Paris","woman, blue top, white pants, seated, thoughtful expression, green background, hand on face, bare feet, cloth",1,None,"gouache on silk, in artist’s frame
+signed, stamped with the artist's seal and dated 'MAI THU 1968 [in Chinese]' upper right
+work 39 x 24.5 cm. (15 3/8 x 9 5/8 in.)
+frame 50.5 x 39 cm (19 7/8 x 15 3/8 in.)
+Executed in 1968, in France, this work will be accompanied by a certificate of authenticity prepared by the artist's daughter, Mai Lan Phuong. This work will be included in the artist's forthcoming catalogue raisonné, being prepared by Mai Lan Phuong.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/215952_001.jpg,https://www.phillips.com/detail/mai-trung-th%E1%BB%A9/215952,None,None,None,None,None,None,None,nan,gpt-4.1-mini,70400.0,58666.66666666667
+fe209057-9d41-419a-8b05-37121e8e7ba5,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 179,HKD,400000,600000,541800,451500.0,51229.95,76844.92,69390.96,57825.8,Zao Wou-Ki,None,None,Untitled,painting,watercolour on paper,<NA>,36.6,44.4,cm,yes,yes,no,1949,"Lévy Gorvy Dayan, New York\\r\\nAcquired from the above by the present owner","trees, forest, landscape, dark colors, green accents, pink accents, abstract shapes, structures, foliage, snow",1,None,"watercolour on paper
+signed and dated 'Wou-Ki [in Chinese] ZAO 1949‘ lower left
+44.4 x 36.6 cm. (17 1/2 x 14 3/8 in.)
+Executed in 1949, in France, this work is referenced in the archives of the Fondation Zao Wou-Ki from whom a certificate of authenticity can be issued after the sale. (Information provided by Fondation Zao Wou-Ki.)
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224999_001.jpg,https://www.phillips.com/detail/zao-wou-ki/224999,None,None,None,None,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+b78e5b11-2a49-49ba-ae12-952dddf79cda,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 180,HKD,600000,800000,774000,645000.0,76844.92,102459.89,99129.94,82608.29,Zao Wou-Ki,None,None,Untitled,painting,watercolour on paper,<NA>,44.5,35.5,cm,yes,yes,no,1949,Private Collection (gifted by the artist)\\r\\nThence by descent to the present owner,"fish, water, aquatic plants, dark background, blue colors, abstract shapes, grey tones, swirling patterns, texture, lines",1,None,"watercolour on paper
+signed and dated 'Wou-Ki [in Chinese] ZAO 1949' lower right
+35.5 x 44.5 cm. (13 7/8 x 17 1/2 in.)
+Painted in 1949, in France, this work will be accompanied by a certificate of authenticity issued by the Fondation Zao Wou-Ki after the sale. This work is referenced in the archives of the Fondation Zao Wou-Ki and will be included in the artist’s forthcoming catalogue raisonné prepared by Francoise Marquet and Yann Hendgen. (Information provided by Fondation Zao Wou-Ki.)
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/217717_001.jpg,https://www.phillips.com/detail/zao-wou-ki/217717,None,None,None,None,None,None,None,nan,gpt-4.1-mini,90000.0,75000.0
+aa8ccee1-9706-4f00-9adc-532fca5af194,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 181,HKD,400000,600000,516000,430000.0,51229.95,76844.92,66086.63,55072.19,Zao Wou-Ki,None,None,Les oiseaux,drawing,watercolour and ink on paper,<NA>,32,25,cm,yes,yes,yes,1950,"Private Collection\\r\\nAguttes, Paris, 29 April 2011, lot 41\\r\\nAcquired at the above sale by the present owner","bird, feathers, abstract forms, eye, brown, pink, gray, shapes, texture, landscape",1,None,"watercolour and ink on paper
+signed and dated 'Wou-Ki [in Chinese] ZAO 50' lower right quadrant
+25 x 32 cm. (9 7/8 x 12 5/8 in.)
+Executed in 1950, in France, this work is accompanied by a certificate of authenticity issued by the Fondation Zao Wou-Ki.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/218671_001.jpg,https://www.phillips.com/detail/zao-wou-ki/218671,None,None,None,None,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+1c4fe474-7032-4a27-a191-7be2b256bc77,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 182,HKD,2000000,3000000,2838000,2365000.0,256149.73,384224.59,363476.46,302897.05,Zao Wou-Ki,None,None,Untitled,painting,oil on cardboard,<NA>,46,37,cm,yes,yes,no,1948,Private Collection (gifted by the artist)\\r\\nThence by descent to the present owner,"flowers, leaves, green background, pink petals, purple flowers, star shapes, white area, brown stems, abstract patterns, bees",1,None,"oil on cardboard
+signed and dated 'Wou-Ki [in Chinese] ZAO 1948' lower right
+37 x 46 cm. (14 5/8 x 18 1/8 in.)
+Painted in 1948, in France, this work will be accompanied by a certificate of authenticity issued by the Fondation Zao Wou-Ki after the sale. This work is referenced in the archives of the Fondation Zao Wou-Ki. (Information provided by Fondation Zao Wou-Ki.)
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/217716_001.jpg,https://www.phillips.com/detail/zao-wou-ki/217716,None,None,None,None,None,None,None,nan,gpt-4.1-mini,320000.0,266666.6666666667
+cd050334-2489-47e0-8f66-d07024564d28,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 184,HKD,180000,240000,<NA>,<NA>,23053.48,30737.97,<NA>,<NA>,Zao Wou-Ki,None,None,Sans titre,ceramics,glazed ceramic tile,<NA>,15,15,cm,yes,yes,yes,1954,Private Collection (gifted by the artist)\\r\\nThence by descent to the present owner,"inscriptions, symbols, abstract patterns, ceramic, blue background",1,None,"glazed ceramic tile
+signed 'Wou-Ki [in Chinese] ZAO' lower right
+15 x 15 cm. (5 7/8 x 5 7/8 in.)
+Executed circa 1954, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/217719_001.jpg,https://www.phillips.com/detail/zao-wou-ki/217719,None,None,None,None,None,None,None,nan,gpt-4.1-mini,26900.0,22416.666666666668
+ab2cefee-e2ff-4fd1-95a5-9ba1a9d01ef4,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 185,HKD,240000,450000,<NA>,<NA>,30737.97,57633.69,<NA>,<NA>,Zao Wou-Ki,None,None,Untitled,drawing,ink on paper,<NA>,23.5,31.5,cm,yes,yes,no,1948,Collection of Zao Wou-Ki\\r\\nThence by descent to the present owner,"woman, portrait, face, eyes, hair, line, drawing, black ink, 1948",1,None,"ink on paper
+signed and dated 'Wou-Ki [in Chinese] ZAO 48' lower right
+31.5 x 23.5 cm. (12 3/8 x 9 1/4 in.)
+Executed in 1948, in France, this work is accompanied by a certificate of authenticity issued by the Fondation Zao Wou-Ki.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/216513_001.jpg,https://www.phillips.com/detail/zao-wou-ki/216513,None,None,None,None,None,None,None,nan,gpt-4.1-mini,42000.0,35000.0
+8402a36a-a265-45cd-93ea-6c2885ec281d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 186,HKD,20000,30000,58050,48375.0,2561.5,3842.25,7434.75,6195.62,Zao Wou-Ki,None,None,"Untitled from Harry Roskolenko, Paris Poems",prints,lithograph,<NA>,17,21,cm,yes,yes,no,1950,Private Collection (gifted by the artist)\\r\\nThence by descent to the present owner,"cat, moon, black, yellow, silhouette, animal, figure, lines, shape, texture",1,None,"lithograph
+numbered 'épreuve d'artiste' lower left; signed and dedicated 'Wou-Ki [in Chinese] ZAO' lower right
+image 21 x 17 cm. (8 1/4 x 6 3/4 in.)
+sheet 31 x 25 cm. (12 1/4 x 9 7/8 in.)
+Executed in 1950, in France, this work is an artist's proof from an edition of 99.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/217721_001.jpg,https://www.phillips.com/detail/zao-wou-ki/217721,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+5f2e785c-e889-4697-9872-a41ddd2c49fc,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 187,HKD,26000,35000,51600,43000.0,3329.95,4482.62,6608.66,5507.22,Zao Wou-Ki,None,None,Poissons (épreuve d'artiste),prints,lithograph,<NA>,40,31.5,cm,yes,yes,yes,1950,Private Collection (gifted by the artist)\\r\\nThence by descent to the present owner,"fish, abstract shapes, markings, earthy tones, natural textures",1,None,"lithograph
+numbered 'épreuve d'artiste' lower left; further signed and dated 'pour Marguerite et Claude Wou-Ki [in Chinese] ZAO' lower right
+31.5 x 40 cm. (12 3/8 x 15 3/4 in.)
+Executed in 1950, in France, this work is an artist's proof from an edition of 65.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/217718_001.jpg,https://www.phillips.com/detail/zao-wou-ki/217718,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4100.0,3416.666666666667
+520b24ff-457a-4134-8474-e7d0562bbfec,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 188,HKD,30000,50000,154800,129000.0,3842.25,6403.74,19825.99,16521.66,Zao Wou-Ki,None,None,Paysage au croissant de lune (12/30),prints,lithograph,<NA>,25.5,33,cm,yes,yes,yes,1949,Private Collection (gifted by the artist)\\r\\nThence by descent to the present owner,"trees, landscape, animals, clouds, hill, sky, path, foliage, water, mountain",1,None,"lithograph
+numbered '12/30' lower left; further signed and dated 'Wou-Ki [in Chinese] ZAO 1949 Wou-Ki [in Chinese] ZAO' lower right
+33 x 25.5 cm. (12 7/8 x 10 in.)
+Executed in 1949, in France, this work is number 12 from an edition of 30.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/217720_001.jpg,https://www.phillips.com/detail/zao-wou-ki/217720,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5125.0,4270.833333333334
+7781e510-f57c-4195-a0f2-934aaf16cdfa,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 191,HKD,400000,600000,580500,483750.0,51229.95,76844.92,74347.46,61956.22,Sanyu,None,None,Woman in Checkered Skirt,drawing,ink and watercolour on paper,<NA>,30.5,47,cm,yes,yes,yes,1920,"Private Collection (acquired directly from the artist in the 1930s)\\r\\nPrivate Collection, Asia\\r\\nChristie's, Hong Kong, 1 December 2008, lot 703\\r\\nAcquired at the above sale by the present owner","woman, seated, sketching, dress, chair, legs, hand, pen, profile, simplicity",1,None,"ink and watercolour on paper
+signed 'Yu [in Chinese] SANYU' lower right
+47 x 30.5 cm. (18 1/2 x 12 in.)
+Executed in 1920s - 1930s, in France, this work is registered under number W116 in the archives of The Li Ching Cultural & Educational Foundation.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225286_001.jpg,https://www.phillips.com/detail/sanyu/225286,None,None,None,None,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+07fd4bba-3e7f-4de1-a8c4-20cc39bf2aa8,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 192,HKD,100000,200000,141900,118250.0,12807.49,25614.97,18173.82,15144.85,Sanyu,None,None,Buste de femme de profil,drawing,ink on paper,<NA>,26,31.5,cm,yes,yes,yes,<NA>,"Hotel Drouot, Paris\\r\\nCollection of Michel Habart, Paris\\r\\nThence by descent to the present owner","nude, figure, standing, portrait, woman, outline, sketch, simplicity, anatomy, expression",1,None,"ink on paper
+signed 'Yu [in Chinese] SANYU' lower right
+31.5 x 26 cm. (12 3/8 x 10 1/4 in.)
+Executed in France, this work is registered under number D0210 in the archives of The Li Ching Cultural & Educational Foundation.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/206939_001.jpg,https://www.phillips.com/detail/sanyu/206939,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19200.0,16000.0
+37ac4640-3671-46dc-af9d-ac947d2e1691,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 193,HKD,120000,220000,283800,236500.0,15368.98,28176.47,36347.65,30289.71,Sanyu,None,None,Femme assise bras gauche en arriére,drawing,ink on paper,<NA>,31,47,cm,no,yes,yes,<NA>,"Hotel Drouot, Paris\\r\\nCollection of Michel Habart, Paris\\r\\nThence by descent to the present owner","nude, woman, seated, figure, outline, stylized, body, contours, expression",1,None,"ink on paper
+47 x 31 cm. (18 1/2 x 12 1/4 in.)
+Executed in France, this work is registered under number D0079 in the archives of The Li Ching Cultural & Educational Foundation.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/206938_001.jpg,https://www.phillips.com/detail/sanyu/206938,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+fb6a8d1a-baa1-4a8c-92b7-1fbab51cadd8,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 194,HKD,100000,200000,154800,129000.0,12807.49,25614.97,19825.99,16521.66,Sanyu,None,None,Femme debout de dos tete dans les bras,drawing,ink on paper,<NA>,30.5,48,cm,no,yes,yes,<NA>,"Hotel Drouot, Paris\\r\\nCollection of Michel Habart, Paris\\r\\nThence by descent to the present owner","nude figure, human body, back, legs, arms, skin, hair, outline, paper, charcoal",1,None,"ink on paper
+48 x 30.5 cm. (18 7/8 x 12 in.)
+Executed in France, this work is registered under number D1225 in the archives of The Li Ching Cultural & Educational Foundation.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/206936_001.jpg,https://www.phillips.com/detail/sanyu/206936,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19210.0,16008.333333333334
+48e6724a-4d88-4138-81d4-8ce0205025f6,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 195,HKD,100000,200000,129000,107500.0,12807.49,25614.97,16521.66,13768.05,Sanyu,None,None,Femme debout de face saluant,drawing,ink on paper,<NA>,27.5,45.5,cm,no,yes,yes,<NA>,"Hotel Drouot, Paris\\r\\nCollection of Michel Habart, Paris\\r\\nThence by descent to the present owner","nude, woman, hand, body, gesture",1,None,"ink on paper
+45.5 x 27.5 cm. (17 7/8 x 10 7/8 in.)
+Executed in France, this work is registered under number D0454 in the archives of The Li Ching Cultural & Educational Foundation.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/206940_001.jpg,https://www.phillips.com/detail/sanyu/206940,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19210.0,16008.333333333334
+804237b1-c8e2-41a9-a03a-98cf1b00d409,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 196,HKD,150000,250000,193500,161250.0,19211.23,32018.72,24782.49,20652.07,Sanyu,None,None,Femme de 3/4 dessinant,drawing,ink on paper,<NA>,44.5,55.5,cm,no,yes,yes,<NA>,"Hotel Drouot, Paris\\r\\nCollection of Michel Habart, Paris\\r\\nThence by descent to the present owner","man, sitting, coat, shoes, paper, writing",1,None,"ink on paper
+55.5 x 44.5 cm. (21 7/8 x 17 1/2 in.)
+Executed in France, this work is registered under number D2072 in the archives of The Li Ching Cultural & Educational Foundation.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/206937_001.jpg,https://www.phillips.com/detail/sanyu/206937,None,None,None,None,None,None,None,nan,gpt-4.1-mini,26000.0,21666.666666666668
+37682562-6518-4e75-b014-637666d3c1f0,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 197,HKD,600000,1000000,838500,698750.0,76844.92,128074.86,107390.77,89492.31,Chu Teh-Chun,None,None,Composition No.461,painting,oil on paper mounted on canvas,<NA>,65,50.5,cm,yes,yes,yes,1972,"Private Collection of Aida Bott, Francis Bott's second wife (gifted by the artist)\\r\\nChristie's, London, 16 November 2006, lot 196\\r\\nPrivate Collection\\r\\nRavenel, Hong Kong, 28 November 2011, lot 31\\r\\nPrivate Collection\\r\\nChina Guardian, Hong Kong, 6 April 2023, lot 40\\r\\nAcquired at the above sale by the present owner","abstract, colors, textures, forms, movement, light, shadows, brushstrokes, intensity, composition",1,None,"oil on paper mounted on canvas
+signed, numbered, dedicated and dated 'pour ma chère amie Aida amicalement CHU TEH-CHUN [in Chinese and English] 72. 461' lower right
+50.5 x 65 cm. (19 7/8 x 25 5/8 in.)
+Executed in 1972, in France, this work is accompanied by a certificate of authenticity signed by the artist's wife, Chu Ching-Chao. This work will be included in the artist's forthcoming catalogue raisonné on the work of Chu Teh-Chun, being prepared by Fondation Chu Teh-Chun. (Information provided by Fondation Chu Teh-Chun and Mrs Chu Ching Chao.)
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/216523_001.jpg,https://www.phillips.com/detail/chu-teh-chun/216523,None,None,None,None,None,None,None,nan,gpt-4.1-mini,110000.0,91666.66666666667
+d24735d7-6f80-402c-93a3-2b768cb28214,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 198,HKD,2000000,3000000,2580000,2150000.0,256149.73,384224.59,330433.15,275360.96,Chu Teh-Chun,None,None,Transparence voilée,painting,oil on canvas,<NA>,96.5,130,cm,yes,yes,yes,2003,"Alisan Fine Arts, Hong Kong\\r\\nAcquired from the above by the present owner","abstract, colors, shapes, texture",1,None,"oil on canvas
+signed and dated 'Chu Teh-Chun [in Chinese] Chu Teh-Chun 2003' lower right; further signed, titled and dated '""Transparance voilée"" Chu Teh-Chun Chu Teh-Chun [in Chinese] 2003' on the reverse
+130 x 96.5 cm. (51 1/8 x 37 7/8 in.)
+Painted in 2003, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222137_001.jpg,https://www.phillips.com/detail/chu-teh-chun/222137,None,None,None,None,None,None,None,nan,gpt-4.1-mini,320000.0,266666.6666666667
+e1eeffff-8de8-48b4-a5d4-6879144a10a8,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 199,HKD,1000000,2000000,1290000,1075000.0,128074.86,256149.73,165216.57,137680.48,Liu Wei,None,None,Flowers,painting,oil on canvas,<NA>,100.5,150,cm,yes,yes,yes,2004,"Private Collection, Hong Kong","flowers, vase, pink, green, white, still life, nature",1,None,"oil on canvas
+signed and dated 'Liu Wei [in Chinese and pinyin] 2004' lower centre
+150 x 100.5 cm. (59 x 39 5/8 in.)
+Painted in 2004, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222139_001.jpg,https://www.phillips.com/detail/liu-wei/222139,None,None,None,None,None,None,None,nan,gpt-4.1-mini,192112.3,160093.58333333334
+e91e820a-5551-47e2-b3c6-9eb9d3678b3a,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 200,HKD,800000,1200000,1225500,1021250.0,102459.89,153689.84,156955.74,130796.45,Ju Ming,None,None,Taichi Kick,sculpture,bronze,49,95,75,cm,yes,yes,yes,<NA>,"Hanart TZ Gallery, Hong Kong\\r\\nAcquired from the above by the present owner","sculpture, abstract form, dark color, geometric shapes, angular features",1,None,"bronze
+incised with the artist's signature and numbered 'Ju Ming [in Chinese] 17/20' lower back
+75 x 95 x 49 cm. (29 1/2 x 37 3/8 x 19 1/4 in.)
+Executed in Taiwan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222138_001.jpg,https://www.phillips.com/detail/ju-ming/222138,None,None,None,None,None,None,None,nan,gpt-4.1-mini,135000.0,112500.0
+84d96999-be88-4929-a324-616f05e4acb8,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 201,HKD,500000,700000,645000,537500.0,64037.43,89652.4,82608.29,68840.24,Zeng Fanzhi,None,None,Watermelon,painting,oil on canvas,<NA>,60,60,cm,yes,yes,yes,2006,"Private Collection (acquired directly from the artist)\\r\\nSotheby's Hong Kong, 4 April 2016, lot 739\\r\\nAcquired at the above sale by the present owner","watermelon, fruit, pink, green, still life, slice, seeds, texture, food, natural",1,None,"oil on canvas
+signed ‘Zeng Fanzhi [in Chinese and pinyin]' lower right quadrant
+60 x 60 cm. (23 5/8 x 23 5/8 in.)
+Painted in 2006, China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222143_001.jpg,https://www.phillips.com/detail/zeng-fanzhi/222143,None,None,None,None,None,None,None,nan,gpt-4.1-mini,76800.0,64000.0
+a7fb67a4-c983-4cc1-9878-fa6ce0f47605,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 202,HKD,120000,250000,258000,215000.0,15368.98,32018.72,33043.31,27536.1,Liu Wei,None,None,You Want?,mixed media,mixed media on paper,<NA>,54,37,cm,yes,yes,yes,1999,"Tilton Gallery, New York\\r\\nPrivate Collection\\r\\nSotheby's, Hong Kong, 5 April 2013, lot 701\\r\\nAcquired at the above sale by the present owner","cactus, hair, drawing, green, nature, illustration",1,None,"mixed media on paper
+titled '""You Want?""' on the upper centre; signed and dated 'Liu Wei [in Chinese] Liu Wei 1999.12' lower right quadrant
+37 x 54 cm. (14 5/8 x 21 1/4 in.)
+Executed in December 1999, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222141_001.jpg,https://www.phillips.com/detail/liu-wei/222141,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+b0094f8d-0eba-4a1e-98fc-42894644497b,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 203,HKD,1000000,2000000,<NA>,<NA>,128074.86,256149.73,<NA>,<NA>,Zeng Fanzhi,None,None,Countryside No.3,painting,oil on canvas,<NA>,200,69,cm,yes,yes,yes,2004,"ShanghART Gallery, Shanghai\\r\\nPrivate Collection\\r\\nSotheby's, Hong Kong, 4 April 2016, lot 740\\r\\nAcquired at the above sale by the present owner","landscape, abstract, black, white, pink, lines, texture",1,None,"oil on canvas
+signed and dated 'Zeng Fanzhi [in Chinese] 2004 Zeng Fanzhi [in Pinyin]' lower right
+69 x 200 cm. (27 1/8 x 78 3/4 in.)
+Painted in 2004, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222142_001.jpg,https://www.phillips.com/detail/zeng-fanzhi/222142,None,None,None,None,None,None,None,nan,gpt-4.1-mini,192000.0,160000.0
+40c4ece1-9434-43c7-acd4-3d77c092f57d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 204,HKD,650000,850000,1032000,860000.0,83248.66,108863.63,132173.26,110144.38,Ju Ming,None,None,Taichi,sculpture,bronze,36,78,85,cm,yes,yes,yes,2005,"Hanart TZ Gallery, Hong Kong\\r\\nAcquired from the above by the present owner","sculpture, abstract figure, dark color, geometric shape, stylized form",1,None,"bronze
+incised with the artist's signature, numbered and dated 'Ju Ming [in Chinese] 14/20 '05' lower back
+85 x 78 x 36 cm. (33 1/2 x 30 3/4 x 14 1/8 in.)
+Executed in 2005, in Taiwan, this work is number 14 from an edition of 20.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222144_001.jpg,https://www.phillips.com/detail/ju-ming/222144,None,None,None,None,None,None,None,nan,gpt-4.1-mini,95000.0,79166.66666666667
+5ae4117d-792c-4913-941c-b51dff172bce,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 205,HKD,250000,450000,1032000,860000.0,32018.72,57633.69,132173.26,110144.38,Yue Minjun,None,None,Warrior Series A,sculpture,bronze,39,54,135,cm,yes,yes,yes,2003,"Private Collection, Hong Kong","boy, sculpture, prayer, smiling, black",1,None,"bronze
+incised with the artist's signature, numbered and dated 'yue minjun A 5/5 2003' on the top of the base
+135 x 54 x 39 cm. (53 1/8 x 21 1/4 x 15 3/8 in.)
+Executed in 2003, in China, this work is number 5 from an edition of 5.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222147_001.jpg,https://www.phillips.com/detail/yue-minjun/222147,None,None,None,None,None,None,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+c5d6d90b-89ee-4297-9571-169d67e376e0,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 206,HKD,200000,400000,490200,408500.0,25614.97,51229.95,62782.3,52318.58,Zhu Wei,None,None,China China,sculpture,bronze,30,39,85.5,cm,yes,yes,yes,2003,"Private Collection, Hong Kong","sculptures, standing figures, bronze, plinths, clothing, facial expressions, human forms, symmetry, figurative art, expression",1,None,"bronze
+each signed and numbered 'Zhu Wei [in Chinese] 11/12' on the left foot of the figure
+left figure 85.5 x 39 x 30 cm. (33 5/8 x 15 3/8 x 11 3/4 in.)
+right figure 87.5 x 44 x 32 cm. (34 1/2 x 17 3/8 x 12 5/8 in.)
+base each 60 x 35 x 35 cm. (23 5/8 x 13 3/4 x 13 3/4 in.)
+Executed in 2003, in China, this work is number 11 from an edition of 12.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222149_001.jpg,https://www.phillips.com/detail/zhu-wei/222149,None,None,None,None,None,None,None,nan,gpt-4.1-mini,38400.0,32000.0
+3863b4fb-c407-490a-b180-b47c7a5526df,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 207,HKD,300000,400000,774000,645000.0,38422.46,51229.95,99129.94,82608.29,Ju Ming,None,None,Taichi Series,sculpture,bronze,32,43.5,63,cm,yes,yes,yes,1991,"Giotto International Inc., Taipei\\r\\nAcquired from the above by the present owner","abstract sculpture, geometric forms, dark tones, angular shapes, layered textures",1,None,"bronze
+incised with the artist's signature, numbered and dated 'Ju Ming [in Chinese] 7-20 '91' lower back
+63 x 43.5 x 32 cm. (24 3/4 x 17 1/8 x 12 5/8 in.)
+Executed in 1991, in Taiwan, this work is number 7 from an edition of 20, and is accompanied by a certificate of authenticity signed by the artist and issued by Giotto International Inc.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222034_001.jpg,https://www.phillips.com/detail/ju-ming/222034,None,None,None,None,None,None,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+a69b2199-fb6e-44c0-b3ff-ac0b0c1d281e,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 208,HKD,1000000,2000000,1548000,1290000.0,128074.86,256149.73,198259.89,165216.57,Chen Yifei,None,None,Blue Water Village,painting,oil on canvas,<NA>,127,86,cm,yes,yes,yes,<NA>,"Private Collection\\r\\nChristie's, Hong Kong, 26 April 1998, lot 327\\r\\nPrivate Collection\\r\\nChina Guardian, Beijing, 22 November 2006, lot 136\\r\\nPrivate Collection\\r\\nChina Guardian, Beijing, 12 May 2013, lot 2342\\r\\nAcquired at the above sale by the present owner","bridge, water, boat, architecture, trees, reflection, sky, houses, rocks, canal",1,None,"oil on canvas
+signed 'chen yifei' lower left
+86 x 127 cm. (33 7/8 x 50 in.)
+Painted in the USA, the authenticity of this work has been confirmed by Chen Yifei Estate, and will be accompanied by a certificate of authenticity issued by Chen Yifei Estate.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225218_001.jpg,https://www.phillips.com/detail/chen-yifei/225218,None,None,None,None,None,None,None,nan,gpt-4.1-mini,192112.3,160093.58333333334
+00dc90bd-0887-494b-aadd-17cc66ad94b1,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 209,HKD,500000,700000,645000,537500.0,64037.43,89652.4,82608.29,68840.24,Zhang Enli,None,None,Melancholy,painting,oil on canvas,<NA>,109,103,cm,yes,yes,yes,2013,"Hauser \u0026 Wirth, London\\r\\nAcquired from the above by the present owner","beach ball, black sphere, shadow, abstract background, yellow, white, brown, green, round shape, geometric shapes",1,None,"oil on canvas
+signed and dated '2013 Enli [in Chinese]' lower right; further signed, titled and dated '""Melancholy"" 2013 Zhang Enli [in Chinese]' on the reverse
+103 x 109 cm. (40 1/2 x 42 7/8 in.)
+Painted in 2013, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/224204_001.jpg,https://www.phillips.com/detail/zhang-enli/224204,None,None,None,None,None,None,None,nan,gpt-4.1-mini,76800.0,64000.0
+40401e1d-929e-45ec-a362-f362db283ed3,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 210,HKD,700000,1200000,709500,591250.0,89652.4,153689.84,90869.12,75724.26,Wang Guangle,None,None,Coffin Paint,painting,acrylic on canvas,<NA>,114,146,cm,yes,yes,yes,2006,"One Moon Gallery, Beijing\\r\\nAcquired from the above by the present owner","black, gray, lines, texture, pattern",1,None,"acrylic on canvas
+dated '2006/5.18 - 7.31' on the top edge; signed, titled and dated '""Coffin Paint"" 2006.5.18-7.31 Wang Guangle [in Chinese]' on the reverse
+146 x 114 cm. (57 1/2 x 44 7/8 in.)
+Painted in 2006, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/219488_001.jpg,https://www.phillips.com/detail/wang-guangle/219488,None,None,None,None,None,None,None,nan,gpt-4.1-mini,110000.0,91666.66666666667
+69efc221-d297-44e7-93ca-bfe1df70cf3d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 211,HKD,200000,400000,<NA>,<NA>,25614.97,51229.95,<NA>,<NA>,Zhao Zhao,None,None,Constellations,painting,oil on canvas,<NA>,200,250,cm,yes,yes,yes,2018,"Private Collection, Asia\\r\\nAcquired from the above by the present owner","abstract, circles, lines, blue, connection, pattern",1,None,"oil on canvas
+signed and dated 'ZHAO ZHAO Zhao Zhao [in Chinese] 2018' on the reverse
+250 x 200 cm. (98 3/8 x 78 3/4 in.)
+Painted in 2018, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225432_001.jpg,https://www.phillips.com/detail/zhao-zhao/225432,None,None,None,None,None,None,None,nan,gpt-4.1-mini,38422.46,32018.716666666667
+3490bcbd-b74e-49d1-8745-2fa4e8039334,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 212,HKD,150000,200000,<NA>,<NA>,19211.23,25614.97,<NA>,<NA>,Yuan Fang,None,None,Labyrinth 02,painting,acrylic on canvas,<NA>,163,136.4,cm,yes,yes,yes,2022,"Latitude Gallery, New York\\r\\nAcquired from the above by the present owner","abstract, swirling shapes, red, purple, orange, black, dynamic lines, fluid forms, contrasting colors",1,None,"acrylic on canvas
+signed and dated 'Fang Yuan [in Chinese and Pinyin] 2022' on the reverse
+136.4 x 163 cm. (53 3/4 x 64 1/8 in.)
+Painted in 2022, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/216808_001.jpg,https://www.phillips.com/detail/yuan-fang/216808,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22400.0,18666.666666666668
+7154f80b-1abb-4418-9b2c-6d23d65b791e,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 213,HKD,200000,400000,451500,376250.0,25614.97,51229.95,57825.8,48188.17,Xiyao Wang,None,None,Dawn Blossoms Plucked at Dusk No. 1,painting,acrylic and oil stick on canvas,<NA>,190,200,cm,yes,yes,yes,2022,"Tang Contemporary, Beijing\\r\\nAcquired from the above by the present owner","abstract, colors, lines, textures, shapes, patterns, softness, movement, layers, floral",1,None,"acrylic and oil stick on canvas
+signed, titled and dated '""Dawn Blossoms Plucked at Dusk no. 1"" 2022 Xiyao Wang Xiyao Wang [in Chinese]' on the reverse
+200 x 190 cm. (78 3/4 x 74 3/4 in.)
+Executed in 2022, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/217971_001.jpg,https://www.phillips.com/detail/xiyao-wang/217971,None,None,None,None,None,None,None,nan,gpt-4.1-mini,38400.0,32000.0
+a76a29a9-0e77-470e-8c54-a060e8dd3d12,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 214,HKD,80000,100000,116100,96750.0,10245.99,12807.49,14869.49,12391.24,Ju Ting,None,None,Untitled 072422,painting,acrylic on board,<NA>,55,62,cm,yes,yes,no,2020,"Galerie Urs Meile, Beijing\\r\\nAcquired from the above by the present owner","colored fabric, sculpture, folds, draping, abstract, texture, purple, green, blue, multi-colored",1,None,"acrylic on board
+signed and dated 'Ju Ting 2020-2022' on the reverse
+62 x 55 cm. (24 3/8 x 21 5/8 in.)
+Painted in 2020-2022, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222068_001.jpg,https://www.phillips.com/detail/ju-ting/222068,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11500.0,9583.333333333334
+03f22eec-c4e2-4fdc-b6a5-8a2f49410b3d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 215,HKD,280000,380000,<NA>,<NA>,35860.96,48668.45,<NA>,<NA>,Liu Xiaodong,None,None,Series of Having No Way,painting,acrylic on paper,<NA>,145,145,cm,yes,yes,yes,2000,"Yibo Gallery, Shanghai\\r\\nPrivate Collection\\r\\nXiling Yinshe, Hangzhou, 12 December 2010, lot 1673\\r\\nAcquired at the above sale by the present owner","boy, water, swimming, blue background, figure, laying down, skin tones, hair, legs, arms",1,None,"acrylic on paper
+signed and dated 'Xiaodong [in Chinese] 00' upper centre
+145 x 145 cm. (57 1/8 x 57 1/8 in.)
+Executed in 2000, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225221_001.jpg,https://www.phillips.com/detail/liu-xiaodong/225221,None,None,None,None,None,None,None,nan,gpt-4.1-mini,42000.0,35000.0
+f3f5a736-c5e3-43f7-a74e-0e5f0613fb20,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 216,HKD,20000,40000,<NA>,<NA>,2561.5,5122.99,<NA>,<NA>,Lulu Ngie,None,None,Starting to like myself,painting,oil on linen,<NA>,43.5,49.8,cm,no,yes,yes,2020,"Gallery Exit, Hong Kong\\r\\nAcquired from the above by the present owner","figure, body, arms, flower, nude, portrait, gray background, human form, abstraction, emotion",1,None,"oil on linen
+49.8 x 43.5 cm. (19 5/8 x 17 1/8 in.)
+Painted in 2020, in Hong Kong.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225433_001.jpg,https://www.phillips.com/detail/lulu-ngie/225433,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+a44bb79f-1b85-425d-a8b7-af3eeab500d3,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 218,HKD,280000,480000,335400,279500.0,35860.96,61475.93,42956.31,35796.92,Eleanor Swordy,None,None,Where To,painting,oil on canvas,<NA>,117,92,cm,yes,yes,yes,2018,"Moskowitz Bayse, Los Angeles\\r\\nPrivate Collection, New York\\r\\nPrivate Collection (acquired from the above)\\r\\nSotheby's, Hong Kong, 20 April 2021, lot 509\\r\\nAcquired at the above sale by the present owner","woman, yellow hair, sitting, tying shoelaces, shoes, legs, abstract background, colorful, skin tone, vibrant patterns",1,None,"oil on canvas
+signed and dated 'Eleanor Swordy 2018' on the reverse
+92 x 117 cm. (36 1/4 x 46 1/8 in.)
+Painted in 2018, in the USA.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223634_001.jpg,https://www.phillips.com/detail/eleanor-swordy/223634,None,None,None,None,None,None,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+37b6defe-171d-4889-849d-566a44f98331,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 219,HKD,180000,280000,309600,258000.0,23053.48,35860.96,39651.98,33043.31,Tania Marmolejo,None,None,A Quiet Place to Tell Our Secrets,painting,oil on canvas,<NA>,226,185.5,cm,yes,yes,yes,2021,"Eligere Gallery, Seoul\\r\\nPrivate Collection\\r\\nAcquired from the above by the present owner","two women, plants, leaves, water, reflections, nature, hair, skin, expression",1,None,"oil on canvas
+signed 'Tania Marmolejo' lower right; further signed and dated 'Tania Marmolejo 2021' on the reverse
+185.5 x 226 cm. (73 x 88 7/8 in.)
+Painted in 2021, in the USA, this work is accompanied by a certificate of authenticity issued by Eligere Gallery and signed by the artist.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225229_001.jpg,https://www.phillips.com/detail/tania-marmolejo/225229,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+efd512c0-990a-40b3-b04b-9ee69a2e369a,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 220,HKD,260000,380000,335400,279500.0,33299.46,48668.45,42956.31,35796.92,Gongkan,None,None,Capi,painting,acrylic and airbrush on canvas,<NA>,180,120,cm,yes,yes,yes,2021,"Over the Influence, Los Angeles\\r\\nAcquired from the above by the present owner","boy, fishing, pond, grass, stone, stick, reflection, water, yellow sky, twilight",1,None,"acrylic and airbrush on canvas
+signed and dated 'Gongkan 2021' on the right edge
+120 x 180 cm. (47 1/4 x 70 7/8 in.)
+Executed in 2021, in Thailand.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/220511_001.jpg,https://www.phillips.com/detail/gongkan/220511,None,None,None,None,None,None,None,nan,gpt-4.1-mini,41000.0,34166.66666666667
+2baea51c-da2c-47d9-a683-da100c0689e1,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 221,HKD,200000,300000,232200,193500.0,25614.97,38422.46,29738.98,24782.49,Roby Dwi Antono,None,None,Autopsy of Mystery #3,painting,oil on canvas,<NA>,130,160,cm,yes,yes,yes,2022,"Gana Art, Seoul\\r\\nAcquired from the above by the present owner","fish, human, green, ocean, surrealism, portrait, anatomy, face, alien, underwater",1,None,"oil on canvas
+signed and dated 'Roby 2022' on the reverse
+160 x 130 cm. (62 7/8 x 51 1/8 in.)
+Painted in 2022, in Indonesia.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/223902_001.jpg,https://www.phillips.com/detail/roby-dwi-antono/223902,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+c175af51-a28b-4236-a3cd-4127ec841b46,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 222,HKD,80000,120000,83850,69875.0,10245.99,15368.98,10739.08,8949.23,Thierry Noir,None,None,My sense of optimism is the basis of my creativity,painting,acrylic on canvas,<NA>,120,150,cm,yes,yes,yes,2021,Acquired directly from the artist by the present owner,"face, green eye, pink hair, orange background, lips, cartoonish style, bold colors, abstract figure, simplified forms, profile view",1,None,"acrylic on canvas
+signed 'NOIR' lower right; further signed, titled and dated 'THIERRY NOIR 13 MARCH 2021 ""MY SENSE OF OPTIMISM IS THE BASIS OF MY CREATIVITY."" on the reverse
+150 x 120 cm. (59 x 47 1/4 in.)
+Painted in 2021, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/212211_001.jpg,https://www.phillips.com/detail/thierry-noir/212211,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13200.0,11000.0
+458b240f-86ec-4203-965c-40d7f31aade1,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 223,HKD,120000,180000,516000,430000.0,15368.98,23053.48,66086.63,55072.19,Tetsutaro Kamatani,None,None,Nirvana 4,painting,resin on canvas,<NA>,117,117,cm,yes,yes,yes,2025,"Private Collection, USA","flowers, cherry blossoms, female figures, dragon, tiger, traditional clothing, mythical creatures, landscape, colors, patterns",1,None,"resin on canvas
+signed with the artist's initials, titled and dated '""NIRVANA-4"" TK 2025' on the reverse
+117 x 117 cm. (46 1/8 x 46 1/8 in.)
+Executed in 2025, in Japan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225544_001.jpg,https://www.phillips.com/detail/tetsutaro-kamatani/225544,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19200.0,16000.0
+8357afbf-4df9-4526-8b03-f1ad9a391830,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 224,HKD,180000,280000,245100,204250.0,23053.48,35860.96,31391.15,26159.29,MADSAKI,None,None,Three Studies of Lucien Freud II (inspired by Francis Bacon),painting,acrylic paint and aerosol on canvas,<NA>,444,199,cm,yes,yes,yes,2019,"Kaikai Kiki Gallery, New York\\r\\nAcquired from the above by the present owner","figures, male, chair, yellow background, green floor, expression, lines, sitting, posture, drawing",3,None,"acrylic paint and aerosol on canvas, triptych
+each signed and dated 'madsaki 2019' on the overlap
+each 199 x 148 cm. (78 3/8 x 58 1/4 in.)
+overall 199 x 444 cm. (78 3/8 x 174 3/4 in.)
+Executed in 2019, in Japan.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/222855_001.jpg,https://www.phillips.com/detail/madsaki/222855,None,None,None,None,None,None,None,nan,gpt-4.1-mini,29500.0,24583.333333333336
+70d20798-2569-4480-8636-4a7aad6e4cc7,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 225,HKD,100000,200000,<NA>,<NA>,12807.49,25614.97,<NA>,<NA>,Wang Jinsong,None,None,One Child Policy Series,painting,oil on canvas,<NA>,50,38,cm,yes,yes,yes,1996,literature,"people, family, portraits, red background, clothing, faces, children, adults, hair, expressions",6,None,"oil on canvas
+each signed and dated 'WANG JINSONG 1996' along the top edge
+each 38 x 50 cm. (14 7/8 x 19 5/8 in.)
+Painted in 1996, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225133_001.jpg,https://www.phillips.com/detail/wang-jinsong/225133,None,None,None,None,None,None,None,nan,gpt-4.1-mini,19210.0,16008.333333333334
+f5e6cba0-46af-469f-a61d-d380f0642224,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 226,HKD,20000,40000,41280,34400.0,2561.5,5122.99,5286.93,4405.78,Ai Xuan,None,None,Longing - Portrait of a Girl,drawing,charcoal on paper,<NA>,20.5,20.5,cm,yes,yes,yes,2011,"Private Collection, Asia\\r\\nSotheby's, Hong Kong, 6 April 2013, lot 530\\r\\nAcquired at the above sale by the present owner","portrait, girl, long hair, beads, facial expression, sketch, realism, eyes, clothing, abstract lines",1,None,"charcoal on paper
+signed, titled, inscribed and dated '""Longing"" 2011.2.3 sketch Ai Xuan Winter snow covers the past' along the bottom edge
+20.5 x 20.5 cm. (8 1/8 x 8 1/8 in.)
+Executed in 2011, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225225_001.jpg,https://www.phillips.com/detail/ai-xuan/225225,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3840.0,3200.0
+746b8075-43d5-4c18-8c4c-44221dd3a46d,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 227,HKD,30000,50000,7095,5912.5,3842.25,6403.74,908.69,757.24,Ai Xuan,None,None,Xiao Yingzi,drawing,pencil on paper,<NA>,39,54,cm,yes,yes,yes,1996,"Private Collection, China\\r\\nSotheby's, Beijing, 1 December 2013, lot 49\\r\\nPrivate Collection\\r\\nChina Guardian, Beijing, 20 November 2014, lot 68\\r\\nAcquired at the above sale by the present owner","girl, portrait, pigtails, expression, traditional dress, drawing, 1996",1,None,"pencil on paper
+signed, titled and dated '""Xiao Yingzi"" Ai Xuan [in Chinese] 1996.' lower right
+54 x 39 cm. (21 1/4 x 15 3/8 in.)
+Executed in 1996, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225224_001.jpg,https://www.phillips.com/detail/ai-xuan/225224,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+49f8a77d-b127-4f90-908b-bd387a1f8f66,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 228,HKD,80000,150000,<NA>,<NA>,10245.99,19211.23,<NA>,<NA>,Jin Shangyi,None,None,Little Boy; Portrait of Quan Zhenghuan,drawing,pencil on paper,<NA>,26,31.4,cm,yes,yes,yes,1954,"(i) Private Collection\\r\\nChina Guardian, Beijing, 20 November 2014, lot 11\\r\\nAcquired at the above sale by the present owner\\r\\n(ii) Private Collection\\r\\nChina Guardian, Beijing, 20 November 2014, lot 12\\r\\nAcquired at the above sale by the present owner","boy, chair, woman, portrait, expression, hands, clothing, gaze, hairstyle, emotion",2,None,"pencil on paper
+(i) signed and dated '21 April 1954 Shangyi [in Chinese]' upper right
+(ii) signed and dated 'April 54 Shangyi [in Chinese]' lower right
+31.4 x 26 cm. (12 3/8 x 10 1/4 in.)
+Executed in 1954, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225222_001.jpg,https://www.phillips.com/detail/jin-shangyi/225222,None,None,None,None,None,None,None,nan,gpt-4.1-mini,15200.0,12666.666666666668
+6306a1e3-a867-43ce-861f-4d9fdd74cae7,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 229,HKD,20000,40000,4128,3440.0,2561.5,5122.99,528.69,440.58,Ai Xuan,None,None,Tashi Tsering,drawing,charcoal on paper,<NA>,26,38,cm,yes,yes,yes,1998,"Private Collection (acquired directly from the artist)\\r\\nChristie's, Shanghai, 25 April 2015, lot 169\\r\\nAcquired at the above sale by the present owner","portrait, woman, necklace, short hair, pink background, facial features, expression, clothing, drawing, charcoal",1,None,"charcoal on paper
+titled '""Tashi Tsering""' upper right and signed and dated 'Ai Xuan 1998' centre right
+38 x 26 cm. (14 7/8 x 10 1/4 in.)
+Executed in 1998, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225226_001.jpg,https://www.phillips.com/detail/ai-xuan/225226,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3840.0,3200.0
+02ed5b80-f417-4c87-9949-2a1dc8f20f34,Art,Phillips,HK010925,2025-09-28,Hong Kong,Modern & Contemporary Art Day Sale,None,Lot 230,HKD,30000,50000,5160,4300.0,3842.25,6403.74,660.87,550.72,Ai Xuan,None,None,Father and Daughter on Highland,drawing,charcoal on paper,<NA>,36.5,50.5,cm,yes,yes,yes,2004,"Private Collection (acquired directly from the artist)\\r\\nChristie's, Shanghai, 25 April 2015, lot 169\\r\\nAcquired at the above sale by the present owner","man, closed eyes, robe, portrait, hair, beads, soft focus, shading, expression, abstract background",1,None,"charcoal on paper
+signed, titled and dated '""Father and Daughter on Highland"" Ai Xuan [in Chinese] 2004.' lower right
+50.5 x 36.5 cm. (19 7/8 x 14 3/8 in.)
+Executed in 2004, in China.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/HK010925/225223_001.jpg,https://www.phillips.com/detail/ai-xuan/225223,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334

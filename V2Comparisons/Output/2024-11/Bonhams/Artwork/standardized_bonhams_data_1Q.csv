@@ -1,0 +1,213 @@
+lot_number,artist_name,artwork_title,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Sonia Delaunay,"Totem, 1970",855.12,1282.68,1200.0,1000.0
+Lot 2,Sonia Delaunay,"Les illuminations de Rimbaud, 1973",855.12,1282.68,1200.0,1000.0
+Lot 3,Sonia Delaunay,"Coccinelle, circa 1970",1282.68,1710.24,1450.0,1208.3333333333335
+Lot 4,Sonia Delaunay,"Cible, 1970",320.67,534.45,450.0,375.0
+Lot 5,Sonia Delaunay,"Hommage à Tzara, circa 1965",427.56,534.45,500.0,416.6666666666667
+Lot 6,Sonia Delaunay,"Musée de Grenoble, circa 1970",427.56,534.45,500.0,416.6666666666667
+Lot 7,Sonia Delaunay,"Figures de mode, 1978",267.22,374.12,350.0,291.6666666666667
+Lot 8,Sonia Delaunay,Mme Pompidou,641.34,855.12,750.0,625.0
+Lot 9,Sonia Delaunay,"Angers, circa 1970",213.78,320.67,275.0,229.16666666666669
+Lot 10,Sonia Delaunay,"Vol de nuit, circa 1970",641.34,855.12,750.0,625.0
+Lot 11,Sonia Delaunay,"La Verte, 1970",1068.9,1603.35,1450.0,1208.3333333333335
+Lot 12,Sonia Delaunay,"Scottish, circa 1970",641.34,855.12,750.0,625.0
+Lot 13,Alexander Calder,"Green Ball, 1971",160.34,213.78,185.0,154.16666666666669
+Lot 14,Alexander Calder,"Les gueules dégoulinantes, 1966",320.67,427.56,450.0,375.0
+Lot 15,Alexander Calder,"Sans titre, 1973",534.45,641.34,600.0,500.0
+Lot 16,Jean ,"E, 1973",160.34,213.78,185.0,154.16666666666669
+Lot 17,Jean ,"Cueillette, 1965",748.23,962.01,850.0,708.3333333333334
+Lot 18,Alberto Magnelli,"Pierres, 1934-1965",106.89,213.78,175.0,145.83333333333334
+Lot 19,Jean Paul Riopelle,"Midi, 1978-1979",320.67,427.56,450.0,375.0
+Lot 20,Jean Paul Riopelle,"Les mouches à Marier n°3, 1985",320.67,427.56,450.0,375.0
+Lot 21,Andre Marfaing,"Sans titre, 1974",320.67,534.45,450.0,375.0
+Lot 22,Andre Marfaing,"Composition, 1979",534.45,748.23,675.0,562.5
+Lot 23,Andre Marfaing,"Sans titre, 1960",267.22,374.12,350.0,291.6666666666667
+Lot 24,Hans Hartung,"L 1966-8, 1966",641.34,855.12,850.0,708.3333333333334
+Lot 25,Hans Hartung,"Suite B, Planche V, Farandole, 1971",534.45,748.23,650.0,541.6666666666667
+Lot 26,Hans Hartung,"L-3, 1974",534.45,748.23,650.0,541.6666666666667
+Lot 27,Eduardo Chillida,"Eintsu, 1974",1603.35,2672.25,2450.0,2041.6666666666667
+Lot 28,Anna-Eva Bergman,"GB 59-1976 Olivier, 1976",427.56,641.34,550.0,458.33333333333337
+Lot 29,Antoni Tàpies,"Planche de la suite à grande marges pour le livre « Equation », 1987",320.67,427.56,450.0,375.0
+Lot 30,Pierre Soulages,"Sérigraphie 9, 1978",534.45,748.23,650.0,541.6666666666667
+Lot 31,Arthur Luiz Piza,"Rupture, 1990",427.56,534.45,500.0,416.6666666666667
+Lot 32,Arthur Luiz Piza,"Sans titre, circa 1970",342.05,448.94,400.0,333.33333333333337
+Lot 33,Antonio Saura,"Homenaje a Julio Cortazar, 1984",427.56,641.34,550.0,458.33333333333337
+Lot 34,Joan Miró,"Umbracle, 1973",1282.68,1924.02,1850.0,1541.6666666666667
+Lot 35,Joan Miró,"San Lazzaro et ses amis, 1975",1282.68,1603.35,1450.0,1208.3333333333335
+Lot 36,Joan Miró,"Composition, 1961",267.22,320.67,350.0,291.6666666666667
+Lot 37,Bram Van Velde,Lumière Noire,213.78,320.67,275.0,229.16666666666669
+Lot 38,Sam Francis,"Untitled (SF-340), 1989",3206.7,4275.6,3850.0,3208.3333333333335
+Lot 39,Sam Francis,"SF-106 A, 1969",1282.68,1924.02,1850.0,1541.6666666666667
+Lot 40,Sam Francis,"Damp (SF-90), 1969",1282.68,1924.02,1850.0,1541.6666666666667
+Lot 41,Sam Francis,"Sulfur Sails (SF-93), 1969",1282.68,1924.02,1850.0,1541.6666666666667
+Lot 42,Sam Francis,"Untitled (SF-271), 1986",1603.35,2137.8,1850.0,1541.6666666666667
+Lot 43,Sam Francis,"Untitled (SF-270), 1986",2137.8,3206.7,2900.0,2416.666666666667
+Lot 44,Sam Francis,"Untitled (SF-330), 1988",3206.7,4275.6,3750.0,3125.0
+Lot 45,Sam Francis,"Untitled (SF345), 1991",3206.7,4275.6,3850.0,3208.3333333333335
+Lot 46,Sam Francis,"Sans Titre, 1992",320.67,427.56,450.0,375.0
+Lot 47,Robert Rauschenberg,"XXXIV Tavole per l'Inferno di dante, 1965",2137.8,3206.7,2750.0,2291.666666666667
+Lot 48,D'Apres Andy Warhol,"Marilyn Monroe (10 sérigraphies), 1972",1603.35,2672.25,2500.0,2083.3333333333335
+Lot 49,Andy Warhol,"Torsos, 1977",641.34,748.23,850.0,708.3333333333334
+Lot 50,Andy Warhol,"Cow wallpaper, 1976",3206.7,4275.6,3750.0,3125.0
+Lot 51,Andy Warhol,"Cow wallpaper, 1976",3741.15,3848.04,4000.0,3333.3333333333335
+Lot 52,Keith Haring,"Le Mans 84, 1984",5344.5,7482.3,6500.0,5416.666666666667
+Lot 53,Niki De Saint Phalle,"Le monstre, 1995",855.12,1282.68,1200.0,1000.0
+Lot 54,Niki De Saint Phalle,"Lincoln Center Film Festival Poster, 1973",641.34,855.12,850.0,708.3333333333334
+Lot 55,Niki De Saint Phalle,"Flacon aux deux serpents, 1982",641.34,855.12,750.0,625.0
+Lot 56,Jean Tinguely,"Suite Olympic Centennial,1992",106.89,160.34,145.0,120.83333333333334
+Lot 57,Yayoi Kusama,Ensemble de trois boules à neige,106.89,160.34,145.0,120.83333333333334
+Lot 58,Yayoi Kusama,"Pumpkins, Silver, Yellow and Red",534.45,748.23,650.0,541.6666666666667
+Lot 59,Yayoi Kusama,Pumpkin (red),213.78,320.67,275.0,229.16666666666669
+Lot 60,Yayoi Kusama,Naoshima Red Pumpkin,320.67,427.56,375.0,312.5
+Lot 61,Ai Weiwei,"Cats (Black and Red), 2022",1068.9,1603.35,1450.0,1208.3333333333335
+Lot 62,Takashi Murakami,"108 Wordly Desires, 2022",427.56,641.34,550.0,458.33333333333337
+Lot 63,Takashi Murakami,"Coins an other Cryptocoins, 2023",534.45,748.23,650.0,541.6666666666667
+Lot 64,Takashi Murakami,"Circus, skulls and flowers, zero one, 2013-2016",1924.02,2565.36,2450.0,2041.6666666666667
+Lot 65,Takashi Murakami,"Panda Family and me, 2013",534.45,748.23,650.0,541.6666666666667
+Lot 66,Takashi Murakami,"An homage to Yves Klein, 2012",641.34,855.12,850.0,708.3333333333334
+Lot 67,Takashi Murakami,"And Then (x 4), 2011",2672.25,3741.15,3500.0,2916.666666666667
+Lot 68,Takashi Murakami,"Deux Mr DOB Figure (or et rouge), 2016",2137.8,3206.7,2900.0,2416.666666666667
+Lot 69,Takashi Murakami,"Mr Dob/Dobtopus A & B, 2017",2137.8,3206.7,2750.0,2291.666666666667
+Lot 70,Takashi Murakami,"Ensemble de 5 figurines Dob-Kun, 2019",1068.9,1603.35,1450.0,1208.3333333333335
+Lot 71,Ai Weiwei,"Artist's Hand, 2017",3206.7,5344.5,4500.0,3750.0
+Lot 72,Zhang Xiaogang,"Identity Portrait, 2003",534.45,748.23,650.0,541.6666666666667
+Lot 73,Yan Pei Ming,"Vanité, 2012",320.67,427.56,375.0,312.5
+Lot 74,Yoshitomo Nara,"Gummi Girl, 2006",534.45,748.23,650.0,541.6666666666667
+Lot 75,Yue Minjun,"Ingres and I - Planche No.4, 2007-2008",1282.68,1710.24,1450.0,1208.3333333333335
+Lot 76,Julian Opie,"Woman Taking Off Man's Shirt, 2003",855.12,1282.68,1150.0,958.3333333333334
+Lot 77,Julian Opie,"Ruth with Cigarette 5, 2006",534.45,748.23,650.0,541.6666666666667
+Lot 78,Jeff Koons,"One Ball Total Equilibrium Tank (Spalding Dr J 241 Series), 1995",1282.68,1924.02,1500.0,1250.0
+Lot 79,Jeff Koons,"Bourgeois Buste,1995",1603.35,2137.8,1850.0,1541.6666666666667
+Lot 80,Damien Hirst,"The hours spin skull, 2009",3206.7,5344.5,4500.0,3750.0
+Lot 81,Damien Hirst,"The hours spin skull, 2009",3206.7,5344.5,4500.0,3750.0
+Lot 82,Damien Hirst,"The hours spin skull, 2009",3206.7,5344.5,4500.0,3750.0
+Lot 83,D'Apres Damien Hirst,"Doorway to heaven, 2007",427.56,641.34,550.0,458.33333333333337
+Lot 84,Kaws ,"Holiday JAPAN Mount Fuji, 2019",106.89,160.34,145.0,120.83333333333334
+Lot 85,Kaws ,"BFF Plush (Blue), 2016",106.89,213.78,150.0,125.0
+Lot 86,Kaws ,"Holiday Taipei Set, 2019",160.34,213.78,185.0,154.16666666666669
+Lot 87,Kaws ,"Bus Stop Series, 2002",106.89,160.34,145.0,120.83333333333334
+Lot 88,Kaws ,Bijou de Sac Argenté,53.45,106.89,75.0,62.5
+Lot 89,Kaws ,"Along The Way (Grey), 2019",427.56,641.34,550.0,458.33333333333337
+Lot 90,Kaws ,"Plush companion, 2015",106.89,213.78,150.0,125.0
+Lot 91,Kaws ,Holiday UK Ceramic Container (Black),641.34,855.12,750.0,625.0
+Lot 92,Kaws ,"Along the way Monograph Book, 2020",320.67,427.56,450.0,375.0
+Lot 93,Kaws ,"Clean Slate (Brown), 2018",427.56,641.34,550.0,458.33333333333337
+Lot 94,Kaws ,"Holiday: Hong Kong, 2019",320.67,534.45,450.0,375.0
+Lot 95,Kaws ,"Companion (Brown), 2016",427.56,641.34,550.0,458.33333333333337
+Lot 96,Kaws ,"Pinocchio and Jiminy Cricket, 2010",2779.14,3206.7,3000.0,2500.0
+Lot 97,Kaws ,Small Lie (Grey),641.34,855.12,850.0,708.3333333333334
+Lot 98,Kaws ,"What party edition (Orange, Pink, Yellow), 2020",320.67,534.45,450.0,375.0
+Lot 99,Jr ,"28 Millimètres, Portrait d'une génération, Les  Bosquets, In the Mist, Montfermeil, France, 2014",427.56,641.34,550.0,458.33333333333337
+Lot 100,Jr ,"Ballet, Palais Royal, Paris, France, 2020",427.56,641.34,550.0,458.33333333333337
+Lot 101,Jr ,"Ballet, Regard surplombant la façade du Palais Garnier, Opéra de Paris, France, 2014",748.23,1282.68,1025.0,854.1666666666667
+Lot 102,Jr ,"JR au Louvre, La Pyramide, 12 Juin 2016, 5H55 © Pyramide, architecte I. M. Pei, musée du Louvre, Paris, France, 2016",641.34,855.12,750.0,625.0
+Lot 103,Jr ,"The ballerina jumping in containers, Le Havre, France, 2014-2018",427.56,641.34,550.0,458.33333333333337
+Lot 104,Jr ,"Unframed, un groupe posant dans une barque amarrée sur la plage revu par JR, Marseille vers 1930, Marseille, France, 2013",641.34,855.12,750.0,625.0
+Lot 105,Claire Tabouret,"Self-Portrait with a Hood (Pink), 2021",855.12,1282.68,1150.0,958.3333333333334
+Lot 106,Claire Tabouret,"The spell, 2022",2137.8,3206.7,2750.0,2291.666666666667
+Lot 107,Claire Tabouret,"The Dock, 2022",2137.8,3206.7,2750.0,2291.666666666667
+Lot 108,James Jean,"Descendant-Lucid Dreamer, 2023",1924.02,2137.8,2050.0,1708.3333333333335
+Lot 109,David Shrigley,"The elephant, 2022",1603.35,2137.8,1850.0,1541.6666666666667
+Lot 110,David Shrigley,"Just fly away, 2022",1282.68,1924.02,1650.0,1375.0
+Lot 111,David Shrigley,"Everything is fine, 2023",1924.02,2137.8,2050.0,1708.3333333333335
+Lot 112,Walasse Ting,"Cheval bleu, 1981",320.67,534.45,450.0,375.0
+Lot 113,Walasse Ting,"Femmes, fleurs et perroquets, 1988",213.78,320.67,275.0,229.16666666666669
+Lot 114,Pierre Alechinsky,"Les portes de craie, 1989",641.34,855.12,750.0,625.0
+Lot 115,Pierre Alechinsky,"Cul-de-Lampe, 1963",641.34,855.12,750.0,625.0
+Lot 116,Pierre Alechinsky,"Au fil du bois, 1973 (x2)",534.45,641.34,600.0,500.0
+Lot 117,Pierre Alechinsky,"Avec Michel Portal, 1980",534.45,748.23,650.0,541.6666666666667
+Lot 118,Pierre Alechinsky,"Wellen-Ondes, 1991",267.22,320.67,350.0,291.6666666666667
+Lot 119,Opus 50,"Album, 1974",1282.68,1924.02,1750.0,1458.3333333333335
+Lot 120,Arthur Aeschbacher,"Sans titre, circa 1986",213.78,320.67,275.0,229.16666666666669
+Lot 121,Bernard Aubertin,"ACTION ET PARTICIPATION, 1971",1282.68,1603.35,1450.0,1208.3333333333335
+Lot 122,Pablo Picasso,"Côte d'Azur (Affiche Cannes), 1962",534.45,748.23,850.0,708.3333333333334
+Lot 123,Herve Telemaque,"Le Retour du printemps, 1974",299.29,320.67,310.0,258.33333333333337
+Lot 124,Enzo Cucchi,"Prisca, 2012",320.67,534.45,450.0,375.0
+Lot 125,Georg Baselitz,"Ohne Titel, 1977",320.67,534.45,450.0,375.0
+Lot 126,Pierre Tal-Coat,"Montée, 1980 et Comme si..., 1980",160.34,213.78,185.0,154.16666666666669
+Lot 127,Pierre Dmitrienko,"Otage, 1972",235.16,267.22,250.0,208.33333333333334
+Lot 128,Gilles Aillaud,"Le lion en cage, 1972",342.05,374.12,450.0,375.0
+Lot 129,Jan Schoonhoven,"Sans titre, 1972",534.45,748.23,650.0,541.6666666666667
+Lot 130,Emile Gilioli,Quatre planches,320.67,534.45,450.0,375.0
+Lot 131,Jean-Pierre Raynaud,"Vitrail de l'abbaye de Noirlac, (étude pour vitraux), 1977",213.78,320.67,275.0,229.16666666666669
+Lot 132,Jean-Pierre Raynaud,"La maison, 1988",427.56,641.34,550.0,458.33333333333337
+Lot 133,Miguel Berrocal,"Portrait de Michèle, 1969",320.67,534.45,450.0,375.0
+Lot 134,Miguel Berrocal,"Mini David, 1969",320.67,534.45,450.0,375.0
+Lot 135,Tetsumi Kudo,"Sans titre, circa 1970",320.67,534.45,450.0,375.0
+Lot 136,Pierre-Yves Tremois,"Profil, 1988",85.51,128.27,120.0,100.0
+Lot 137,Francois Arnal,"Atelier A, 1992",160.34,267.22,250.0,208.33333333333334
+Lot 138,Olivier Debre,"Cinquième planche: sans titre (Signes-personnages), 1990",213.78,320.67,275.0,229.16666666666669
+Lot 139,Olivier Debre,"Quatorzième planche: sans titre (Signes-personnages), 1990",213.78,320.67,350.0,291.6666666666667
+Lot 140,Chu Teh-Chun,"Suite Olympic Centennial, 1992",1282.68,1710.24,1450.0,1208.3333333333335
+Lot 141,Georg Baselitz,"Ohne Titel, 1971-1972",1710.24,1924.02,1850.0,1541.6666666666667
+Lot 142,François-Xavier Lalanne,"Oiseau sur une branche, 1985",267.22,374.12,350.0,291.6666666666667
+Lot 143,François-Xavier Lalanne,"Canard, 1975",320.67,534.45,450.0,375.0
+Lot 144,Silvestre Santiago Pejac,"Yin-Yang (diptyque), 2019",3848.04,4275.6,4125.0,3437.5
+Lot 145,Silvestre Santiago Pejac,"Love letter, 2018",427.56,641.34,550.0,458.33333333333337
+Lot 146,Silvestre Santiago Pejac,"New Wave, 2022",6413.4,8551.2,7850.0,6541.666666666667
+Lot 147,Jean Dubuffet,"Cité ambulante, 1975",6413.4,8551.2,7500.0,6250.0
+Lot 148,Pol Bury,"Ramollissement, circa 1970",106.89,160.34,145.0,120.83333333333334
+Lot 149,Pol Bury,"Dix neuf disques entre deux obliques, 1977",213.78,320.67,275.0,229.16666666666669
+Lot 150,Pol Bury,"40 bâtons entre deux, 1977",213.78,320.67,350.0,291.6666666666667
+Lot 151,Pol Bury,"Un rectangle arrondi et huit disques, 1976",213.78,320.67,275.0,229.16666666666669
+Lot 152,Pol Bury,"Cercle déchiré, 1977",213.78,320.67,275.0,229.16666666666669
+Lot 153,Pol Bury,"11 cercles sur un carré, 1977",213.78,320.67,350.0,291.6666666666667
+Lot 154,Pol Bury,"14 cercles 6 carrés 2 losanges 3 triangles soulignés, 1977",213.78,320.67,350.0,291.6666666666667
+Lot 155,Pol Bury,40 barres et un cercle sur 2 traverses,213.78,320.67,275.0,229.16666666666669
+Lot 156,Pol Bury,"9 carrés sur un disque, 1978",213.78,320.67,350.0,291.6666666666667
+Lot 157,Pol Bury,"Sans titre, circa 1977",213.78,320.67,350.0,291.6666666666667
+Lot 158,Pol Bury,"New York, circa 1970",160.34,213.78,185.0,154.16666666666669
+Lot 159,Pol Bury,"Cercle sur un angle aigu, 1973",192.4,213.78,205.0,170.83333333333334
+Lot 160,Jonathan Lasker,"Domestic setting, 2002",171.02,192.4,185.0,154.16666666666669
+Lot 161,Jasper Johns,"Sans titre (Cross Hatch), 1977",855.12,1282.68,1200.0,1000.0
+Lot 162,D'Apres Gerhard  Richter,"Himalaja/Himalaya (1968), 2021",481.0,587.89,550.0,458.33333333333337
+Lot 163,D'Apres Gerhard  Richter,"Abstraktes Bild, 1992-2023",481.0,587.89,550.0,458.33333333333337
+Lot 164,Anish Kapoor,"Out of the Dark, 2023",1603.35,2137.8,1850.0,1541.6666666666667
+Lot 165,Victor Vasarely,"Hexagone, 1988",213.78,320.67,275.0,229.16666666666669
+Lot 166,Barbara Hepworth,"Moonplay, 1972",641.34,855.12,850.0,708.3333333333334
+Lot 167,Ellsworth Kelly Et Alexander Calder,Quatre affiches lithographiques pour la Fondation Maeght,106.89,160.34,145.0,120.83333333333334
+Lot 168,Mr Brainwash,"Toronto is Beautiful (RED), 2019",641.34,855.12,850.0,708.3333333333334
+Lot 169,Robert Combas,"L'homme animal, 1991",1068.9,1603.35,1450.0,1208.3333333333335
+Lot 170,Gerard Deschamps,"The fun starts here, 1990",1068.9,1603.35,1450.0,1208.3333333333335
+Lot 171,Mason Storm,"Monkey Parliament II, 200",320.67,534.45,450.0,375.0
+Lot 172,Mason Storm,"Toxic Beach, 2021",320.67,534.45,450.0,375.0
+Lot 173,Mason Storm,"Theft from above, 2021",320.67,534.45,450.0,375.0
+Lot 174,Jonas Wood,"Large Shelf Still Life, 2017",171.02,192.4,185.0,154.16666666666669
+Lot 175,Mel Ramos,"A.C. Annie, 1971",855.12,1282.68,1200.0,1000.0
+Lot 176,Tracey Emin,"The Kiss Was Beautiful, 2016",641.34,855.12,750.0,625.0
+Lot 177,Tracey Emin,It's a crime,213.78,320.67,275.0,229.16666666666669
+Lot 178,David Yarrow,"Space for Giant, 2020",534.45,748.23,650.0,541.6666666666667
+Lot 179,Shepard Fairey,"Welcome Visitor, 2018",213.78,320.67,275.0,229.16666666666669
+Lot 180,Shepard Fairey,"A Champion of Justice (Ruth Bader Ginsburg), 2021",427.56,641.34,550.0,458.33333333333337
+Lot 181,Shepard Fairey,"Bias by numbers, 2019",1282.68,1710.24,1450.0,1208.3333333333335
+Lot 182,Shepard Fairey,"Damaged Wrong Path Mural, 2018",1282.68,1924.02,1850.0,1541.6666666666667
+Lot 183,Shepard Fairey,"Defend dignity - 30th anniversary, 2019",1282.68,1924.02,1850.0,1541.6666666666667
+Lot 184,Shepard Fairey,"Golden Future-Large Format, 2018",1282.68,1924.02,1500.0,1250.0
+Lot 185,Shepard Fairey,"Only the finest poison, 2022",213.78,320.67,275.0,229.16666666666669
+Lot 186,Shepard Fairey,"Gun Culture, 2016-2019",320.67,534.45,450.0,375.0
+Lot 187,Shepard Fairey,"Ideal power, 2018",748.23,1068.9,950.0,791.6666666666667
+Lot 188,Shepard Fairey,"Legal Bribery, 2019",213.78,320.67,275.0,229.16666666666669
+Lot 189,Shepard Fairey,"Muhammad Ali-Heavyweight ideals, 2023",1282.68,1924.02,1850.0,1541.6666666666667
+Lot 190,Shepard Fairey,"Station to station (Ensemble de quatre), 2012",2672.25,3206.7,3000.0,2500.0
+Lot 191,Shepard Fairey,"We the future - suite de 3, 2018",160.34,213.78,185.0,154.16666666666669
+Lot 192,Shepard Fairey,We the people - protect each other,160.34,267.22,250.0,208.33333333333334
+Lot 193,Shepard Fairey,"Your Ad Here Billboard Large Format, 2018",1068.9,1603.35,1450.0,1208.3333333333335
+Lot 194,Shepard Fairey,"Americana Box Set, 2012",1282.68,1924.02,1500.0,1250.0
+Lot 195,D'Apres Egon  Schiele,"Egon Schiele, 1890-1918",1282.68,1603.35,1450.0,1208.3333333333335
+Lot 196,Bernard Buffet,"Rita, 1960",1068.9,1603.35,1450.0,1208.3333333333335
+Lot 197,Bernard Buffet,"Le Microscope, 1969",534.45,748.23,650.0,541.6666666666667
+Lot 198,Bernard Buffet,"Pont de chemin de fer, 1996",534.45,748.23,650.0,541.6666666666667
+Lot 199,D'Apres Henri  De Toulouse-Lautrec,May Milton,128.27,160.34,145.0,120.83333333333334
+Lot 200,Léonard Tsuguharu  Foujita,"La marchande d'oiseaux, 1960",855.12,1282.68,1200.0,1000.0
+Lot 201,Léonard Tsuguharu  Foujita,"Jeune enfant, 1929",641.34,855.12,850.0,708.3333333333334
+Lot 202,Léonard Tsuguharu  Foujita,"Le jardinier et l'éplucheuse de pommes de terre, circa 1960",534.45,748.23,650.0,541.6666666666667
+Lot 203,Alberto Giacometti,"Intérieur, 1965",1496.46,1710.24,1650.0,1375.0
+Lot 204,Alberto Giacometti,"The Artist's Mother Reading II, 1965",1603.35,1817.13,1750.0,1458.3333333333335
+Lot 205,Salvador Dali,"Icarus, 1963",1924.02,2351.58,2150.0,1791.6666666666667
+Lot 206,Salvador Dalí,"L'ampoule à incandescence, 1975",641.34,855.12,850.0,708.3333333333334
+Lot 207,Salvador Dalí,"Flordali, Poire Don Quichotte, 1969-1970",1603.35,2672.25,2450.0,2041.6666666666667
+Lot 208,Salvador Dalí,"Flordali, Pomme Dragon, 1969-1970",1603.35,2672.25,2450.0,2041.6666666666667
+Lot 209,Salvador Dalí,"Le cerf malade, 1974",427.56,641.34,550.0,458.33333333333337
+Lot 210,Giorgio De Chirico,"La muse della musica, 1973",855.12,1282.68,1200.0,1000.0
+Lot 211,Marc Chagall,"L'Automobiliste, 1923",1924.02,2137.8,2050.0,1708.3333333333335
+Lot 212,Marc Chagall,"Les Amoureux, Vor Dem Tore, 1923",1603.35,2137.8,1850.0,1541.6666666666667

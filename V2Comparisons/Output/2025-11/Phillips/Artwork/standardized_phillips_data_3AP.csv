@@ -1,0 +1,571 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+76ab2441-dbb1-4455-a054-f7eed6870c68,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 1,GBP,10000,15000,45150,37625.0,12656.74,18985.12,57145.2,47621.0,Poppy Jones,<NA>,<NA>,Shell,painting,oil and watercolour on suede,<NA>,25.5,19.5,cm,yes,yes,yes,2022,"Overduin \u0026 Co., Los Angeles \\r\\nAcquired from the above by the present owner","shell, conch, objects, nature, marine, texture",None,None,"oil and watercolour on suede, in artist's frame
+signed and dated 'Poppy Jones 2022 Poppy Jones 2022' on the stretcher
+19.5 x 25.5 cm (7 5/8 x 10 in.)
+Painted in 2022, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226335_001.jpg,https://www.phillips.com/detail/poppy-jones/226335,6851.97,None,47336.68,17.17,None,None,None,2025-11,gpt-4.1-mini,15800.0,13166.666666666668
+2f4c4109-282b-4e7c-b898-187265d015ce,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 2,GBP,7000,9000,16770,13975.0,8859.72,11391.07,21225.36,17687.8,Soumya Netrabile,<NA>,<NA>,Sliver Moon,painting,oil on canvas,<NA>,53.4,63.7,cm,yes,yes,yes,2022,"La Loma Gallery, Los Angeles \\r\\nAcquired from the above by the present owner","abstract colors, vibrant hues, trees, foliage, landscape, brushstrokes, green, red, blue, texture",None,None,"oil on canvas, in artist's frame
+signed, titled and dated 'SOUMYA NETRABILE ""SLIVER MOON"" 2022' on the reverse; titled 'SLIVER MOON' on the reverse of the frame
+63.7 x 53.4 cm (25 1/8 x 21 in.)
+Painted in 2022, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223336_001.jpg,https://www.phillips.com/detail/soumya-netrabile/223336,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,10250.0,8541.666666666668
+9e3fbf1c-96dc-493b-9cf9-a149b52e65d3,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 3,GBP,40000,60000,43860,36550.0,50626.98,75940.46,55512.48,46260.4,Marina Perez Simão,<NA>,<NA>,Untitled,painting,oil on canvas,<NA>,50.2,60,cm,yes,yes,no,2021,"Mendes Wood DM, New York \\r\\nAcquired from the above by the present owner","sun, sky, water, landscape, colors, abstract, horizon, shapes, patterns, lines",None,None,"oil on canvas
+signed and dated 'Marina Perez Simão 23.8.21' on the reverse
+60 x 50.2 cm (23 5/8 x 19 3/4 in.)
+Painted in 2021, in Brazil.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/220553_001.jpg,https://www.phillips.com/detail/marina-perez-sim%C3%A3o/220553,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,68250.0,56875.0
+00d8cb03-f65d-40d3-97e8-98266adffef0,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 4,GBP,40000,60000,51600,43000.0,50626.98,75940.46,65308.8,54424.0,Louis Fratino,<NA>,<NA>,Conch and Tickseed,painting,oil on canvas,<NA>,22.9,30.5,cm,yes,yes,yes,2020,"Ciaccia Levi, Paris \\r\\nAcquired from the above by the present owner","shell, flower, blue glass, green leaves, still life",None,None,"oil on canvas
+signed and dated 'Louis Fratino 2020' on the reverse
+30.5 x 22.9 cm (12 x 9 in.)
+Painted in 2020, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226453_001.jpg,https://www.phillips.com/detail/louis-fratino/226453,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+ec2eb4e0-9c28-44bb-94a3-65c1505e7a37,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 5,GBP,40000,60000,45150,37625.0,50626.98,75940.46,57145.2,47621.0,Claire Tabouret,<NA>,<NA>,Les Masques (De Profil),painting,acrylic on canvas,<NA>,45.7,54.9,cm,yes,yes,yes,2015,Private Collection \\r\\nAcquired from the above by the present owner,"figure, mask, red, profile, portrait, hood, expression, hands, clothing, background",None,None,"acrylic on canvas
+signed, titled and dated 'C. TABOURET 2015 LES MASQUES (DE PROFIL)' on the reverse
+54.9 x 45.7 cm (21 5/8 x 17 7/8 in.)
+Painted in 2015, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225573_001.jpg,https://www.phillips.com/detail/claire-tabouret/225573,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,61500.0,51250.0
+fe29995e-8760-4a91-8f67-d224aae3c895,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 6,GBP,10000,15000,18060,15050.0,12656.74,18985.12,22858.08,19048.4,Caroline Walker,<NA>,<NA>,Untitled,painting,oil on board,<NA>,35.1,30.3,cm,yes,yes,no,2009,Acquired directly from the artist by the present owner,"woman, seated, chair, sofa, glasses, book, patterned fabric, red shoes, green walls, interior",None,None,"oil on board
+signed and dated 'Caroline Walker 2009' on the reverse
+30.3 x 35.1 cm (11 7/8 x 13 7/8 in.)
+Painted in 2009, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222168_001.jpg,https://www.phillips.com/detail/caroline-walker/222168,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,15300.0,12750.0
+4c967434-a86e-41ba-8918-c6b8f0e3fdfb,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 7,GBP,30000,50000,61920,51600.0,37970.23,63283.72,78370.56,65308.8,George Condo,<NA>,<NA>,Untitled no. 3,drawing,wax crayon on paper,<NA>,56.5,74.9,cm,yes,yes,no,1999,"Vigo Gallery, London\\r\\nAcquired from the above by the present owner in 2023","woman, nude, abstract figures, pastel colors, red hair, outline, portrait, playful, simplistic, curves",None,None,"wax crayon on paper
+signed and dated 'Condo 1999' lower right; partially titled 'no.3' lower left
+74.9 x 56.5 cm (29 1/2 x 22 1/4 in.)
+Executed in 1999, in the United States.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225574_001.jpg,https://www.phillips.com/detail/george-condo/225574,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,51700.0,43083.333333333336
+291223d8-57bd-4c0a-b97b-2171fe86d624,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 8,GBP,30000,50000,38700,32250.0,37970.23,63283.72,48981.6,40818.0,Yoshitomo Nara,<NA>,<NA>,Untitled,drawing,graphite and coloured pencil on paper,<NA>,21,29.7,cm,no,yes,no,2001,"Red Dot Gallery, Singapore\\r\\nPrivate Collection \\r\\nChristie's, London, 23 June 2006, lot 299\\r\\nAcquired at the above sale by the present owner","girl, red hair, heads, sketches, yellow circle, portraits, expressions, outline, children, illustration",None,None,"graphite and coloured pencil on paper
+29.7 x 21 cm (11 3/4 x 8 1/4 in.)
+Executed in 2001-2002, in Japan.
+This work is registered in the Yoshitomo Nara Online Catalogue Raisonné under registration number YNF3165.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223978_001.jpg,https://www.phillips.com/detail/yoshitomo-nara/223978,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+fda26445-3e28-4f11-ba34-f5b426c46988,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 9,GBP,100000,150000,193500,161250.0,126567.44,189851.16,244908.0,204090.0,Yoshitomo Nara,<NA>,<NA>,Cold Side,painting,acrylic on paper,<NA>,35.7,48,cm,yes,yes,yes,1995,"Galerie Ferdinand van Dieten-d'Eendt, Amsterdam\\r\\nPrivate Collection, Belgium (acquired from the above in 2000)\\r\\nThence by descent to the present owner","girl, yellow dress, gun, long hair, expression, background",None,None,"acrylic on paper
+signed and dated 'Nara '95' lower right
+48 x 35.7 cm (18 7/8 x 14 in.)
+Painted in 1995, in Germany.
+This work will be registered in the Yoshitomo Nara Online Catalogue Raisonné.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223256_001.jpg,https://www.phillips.com/detail/yoshitomo-nara/223256,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,153000.0,127500.0
+339ce292-2afa-437a-99d6-ee515b86a060,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 10,GBP,80000,120000,103200,86000.0,101253.95,151880.93,130617.6,108848.0,George Condo,<NA>,<NA>,Portrait Composition,drawing,charcoal and wax crayon on paper,<NA>,55.8,76.5,cm,yes,yes,yes,2018,"Sprüth Magers, Berlin\\r\\nPrivate Collection, Scandinavia \\r\\nChristie's, London, 1 July 2022, lot 623\\r\\nAcquired at the above sale by the present owner","portrait, face, abstract features, eyes, color pencil, stripes, hair, line work, expression",None,None,"charcoal and wax crayon on paper
+signed and dated 'George Condo July 2018' upper left
+76.5 x 55.8 cm (30 1/8 x 21 7/8 in.)
+Executed in 2018, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225570_001.jpg,https://www.phillips.com/detail/george-condo/225570,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+d6877446-bcd6-4547-bc45-0be8384e1930,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 11,GBP,45000,65000,64500,53750.0,56955.35,82268.84,81636.0,68030.0,Elizabeth Peyton,<NA>,<NA>,Brian Epstein,painting,watercolour on paper,<NA>,18,26,cm,yes,yes,yes,1998,"Galerie Georg Kargl, Vienna\\r\\nAcquired from the above by the present owner in 1998","woman, pink blouse, sitting figure, red armchair, decorative background, yellow accent, portrait",None,None,"watercolour on paper
+signed, titled and dated 'Brian Epstein Elizabeth Peyton 1998' on the reverse
+26 x 18 cm (10 1/4 x 7 1/8 in.)
+Painted in 1998, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225602_001.jpg,https://www.phillips.com/detail/elizabeth-peyton/225602,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,72000.0,60000.0
+df6804b3-05c5-49af-a8f0-bdf536828bd7,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 12,GBP,80000,120000,141900,118250.0,101253.95,151880.93,179599.2,149666.0,Ben Sledsens,<NA>,<NA>,Wanderer with Dog,painting,oil and acrylic on canvas,<NA>,174.9,200,cm,yes,yes,yes,2017,"Tim Van Laere Gallery, Antwerp\\r\\nPrivate Collection, Belgium\\r\\nPhillips, London, 2 March 2023, lot 1 \\r\\nAcquired at the above sale by the present owner","man, dog, forest, flowers, trees, grass, hunter, bushes, pink roses, green background",None,None,"oil and acrylic on canvas
+signed with the artist's initials 'B.S' lower right; signed and dated 'BEN SLEDSENS 2017-2018' on the reverse
+200 x 174.9 cm (78 3/4 x 68 7/8 in.)
+Painted in 2017-2018, in Belgium.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226278_001.jpg,https://www.phillips.com/detail/ben-sledsens/226278,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+ec59d47b-304e-4b0d-8269-f6731877a507,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 13,GBP,80000,120000,129000,107500.0,101253.95,151880.93,163272.0,136060.0,Ewa Juszkiewicz,<NA>,<NA>,Untitled 49,painting,oil on canvas,<NA>,109.7,154.6,cm,yes,yes,no,2017,"Galerie Rolando Anselmi, Rome \\r\\nAcquired from the above by the present owner","bust, flowers, leaves, honeycomb, sculpture, plant, stone, silhouette, pedestal, shadow",None,None,"oil on canvas
+signed and dated 'Ewa Juszkiewicz 2017' on the reverse
+154.6 x 109.7 cm (60 7/8 x 43 1/4 in.)
+Painted in 2017, in Poland.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225793_001.jpg,https://www.phillips.com/detail/ewa-juszkiewicz/225793,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+bd82317c-db9b-49b2-a815-fb2ec35e7456,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 14,GBP,10000,15000,19350,16125.0,12656.74,18985.12,24490.8,20409.0,Georg Wilson,<NA>,<NA>,This Changing Crow of Mine,painting,oil on panel,<NA>,140,100,cm,yes,yes,yes,2022,"Delphian Gallery, London\\r\\nAcquired from the above by the present owner","figure, crow, flowers, landscape, tree, moon, hand, yellow, black, green",None,None,"oil on panel, diptych
+signed, titled, numbered and dated 'GEORG WILSON 'THIS CHANGING CROW OF MINE' 2022 I/II' on the reverse of the left part; signed, titled, numbered and dated 'THIS CHANGING CROW OF MINE GEORG WILSON 2022 II/II' on the reverse of the right part
+100 x 140 cm (39 3/8 x 55 1/8 in.)
+Painted in 2022, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225541_001.jpg,https://www.phillips.com/detail/georg-wilson/225541,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,17250.0,14375.0
+61012317-13b8-4c7f-b3e5-1d3163e14979,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 15,GBP,30000,50000,103200,86000.0,37970.23,63283.72,130617.6,108848.0,George Rouy,<NA>,<NA>,The Shape of Absence,painting,oil and acrylic on canvas,<NA>,170,200.1,cm,yes,yes,yes,2022,"Almine Rech, London\\r\\nAcquired from the above by the present owner in 2023","figure, standing woman, abstract, water, blue background, pink tones, shape, movement, blurred representation, shoreline",None,None,"oil and acrylic on canvas
+signed with the artist's initials and dated 'GR '22' on the reverse
+200.1 x 170 cm (78 3/4 x 66 7/8 in.)
+Painted in 2022, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225576_001.jpg,https://www.phillips.com/detail/george-rouy/225576,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+3c6d22b3-622f-4618-a5a8-47d12ace6429,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 16,GBP,30000,50000,28380,23650.0,37970.23,63283.72,35919.84,29933.2,Jill Mulleady,<NA>,<NA>,Shadowplay,painting,oil on tin-mercury mirror,<NA>,105.1,208.8,cm,no,yes,yes,2020,"Gladstone Gallery, Brussels\\r\\nAcquired from the above by the present owner","figures, people, stacking, colorful clothing, red, green, blue, yellow, abstract, human form",None,None,"oil on tin-mercury mirror
+208.8 x 105.1 cm (82 1/4 x 41 3/8 in.)
+Executed in 2020, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226455_001.jpg,https://www.phillips.com/detail/jill-mulleady/226455,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+22ec811f-f592-4c6c-8283-d14138522c22,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 17,GBP,60000,80000,64500,53750.0,75940.46,101253.95,81636.0,68030.0,Miriam Cahn,<NA>,<NA>,Wie Blumen,painting,oil on canvas,<NA>,79,145,cm,yes,yes,yes,2003,"Meyer Riegger, Berlin \\r\\nAcquired from the above by the present owner in 2008","abstract figure, human form, ghostly presence, muted colors, dark background, ethereal atmosphere, soft edges, standing figure, subtle expressions, horizon line",None,None,"oil on canvas
+signed with the artist's initial, titled and dated twice 'M 14.11.06 Wie Blumen 9.8.03' on the stretcher
+145 x 79 cm (57 1/8 x 31 1/8 in.)
+Painted in 2003/2006, in Switzerland.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225601_001.jpg,https://www.phillips.com/detail/miriam-cahn/225601,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,89300.0,74416.66666666667
+4b033820-467d-4eaa-a531-a35fdf6db653,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 18,GBP,50000,70000,258000,215000.0,63283.72,88597.21,326543.99,272120.0,Sakti Burman,<NA>,<NA>,Serenade,painting,oil on canvas,<NA>,50,62,cm,yes,yes,yes,1980,Private Collection (acquired directly from the artist)\\r\\nThence by descent to the present owner,"two figures, horse, flowers, bird, colorful costumes, trees, joy, dance",None,None,"oil on canvas
+signed 'Sakti Burman' lower left; signed and titled '""SERENADE"" Sakti Burman' on the reverse
+62 x 50 cm (24 3/8 x 19 5/8 in.)
+Painted circa 1980, in France. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226659_001.jpg,https://www.phillips.com/detail/sakti-burman/226659,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,76500.0,63750.0
+d84e4c4c-247e-4c8c-8b69-63fcbe2666b3,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 19,GBP,80000,120000,109650,91375.0,101253.95,151880.93,138781.2,115651.0,Lynette Yiadom-Boakye,<NA>,<NA>,Statistic,painting,oil on linen,<NA>,40.1,49.9,cm,yes,yes,yes,2007,"Arquebuse, Geneva \\r\\nAcquired from the above by the present owner in 2007","male, profile, dark skin, beard, hair, portrait",None,None,"oil on linen
+signed, titled and dated 'Statistic 2007 Lynette Yiadom-Boakye' on the reverse
+49.9 x 40.1 cm (19 5/8 x 15 3/4 in.)
+Painted in 2007, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225645_001.jpg,https://www.phillips.com/detail/lynette-yiadom-boakye/225645,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+f1e27c98-796e-4930-a8ae-3514e67080a7,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 20,GBP,100000,150000,167700,139750.0,126567.44,189851.16,212253.6,176878.0,Ugo Rondinone,<NA>,<NA>,The Adoring,sculpture,"bluestone, granite and steel, concrete",50.8,50.8,177.9,cm,yes,yes,yes,2013,"Galerie Eva Presenhuber, Zurich \\r\\nAcquired from the above by the present owner","stone, sculpture, pedestal, abstract figure, human form, natural material, balanced composition",None,None,"bluestone, granite and steel on artist's concrete plinth
+incised with the artist's initials and dated 'U.R. 13' on the underside of the left leg; incised with the artist's signature, titled and dated 'Ugo Rondinone 2013 the adoring' lower part of the artist's concrete plinth
+sculpture: 89 x 28 x 25 cm (35 x 11 x 9 7/8 in.)
+plinth: 88.9 x 50.8 x 50.8 cm (35 x 20 x 20 in.)
+overall: 177.9 x 50.8 x 50.8 cm (70 x 20 x 20 in.)
+Executed in 2013, in the United States of America. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226608_001.jpg,https://www.phillips.com/detail/ugo-rondinone/226608,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,158000.0,131666.6666666667
+965257e5-9051-411c-b34d-7e1721911f4c,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 21,GBP,60000,80000,58050,48375.0,75940.46,101253.95,73472.4,61227.0,Andy Warhol,<NA>,<NA>,Statue of Liberty-Fabis,painting,synthetic polymer paint on paper,<NA>,102.6,78.2,cm,no,yes,yes,1986,"Thaddaeus Ropac, Paris\\r\\nAcquired from the above by the present owner","Statue of Liberty, flags, facial expression, headdress, crown, drawing, sketch, monochrome, outline",None,None,"synthetic polymer paint on paper
+stamped by the Estate of Andy Warhol and the Andy Warhol Foundation for the Visual Arts, Inc. and numbered 'VF 60.005' on the reverse
+78.2 x 102.6 cm (30 3/4 x 40 3/8 in.)
+Executed in 1986, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225653_001.jpg,https://www.phillips.com/detail/andy-warhol/225653,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,87900.0,73250.0
+4c35af73-c85e-483f-80ce-9108dd38903f,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 22,GBP,180000,250000,490200,408500.0,227821.39,316418.6,620433.59,517027.99,Robert Indiana,<NA>,<NA>,Love-Blue-Green,sculpture,polychrome aluminium,22.8,45.1,45.5,cm,yes,yes,yes,1966,"Morgan Art Foundation Ltd. (acquired directly from the artist)\\r\\nGuy Pieters Gallery, Knokke-Heist (as of 2000)\\r\\nAcquired from the above by the present owner","letters, sculpture, blue, alphabet, word, shape, geometric, three-dimensional, design, modern",None,None,"polychrome aluminium
+incised with the artist's signature, numbered and dated '1966-1999 R INDIANA 6/8' lower interior edge of the letter V
+45.5 x 45.1 x 22.8 cm (17 7/8 x 17 3/4 x 8 7/8 in.)
+Conceived in 1966, cast in 1997-1999, in the United States of America, this work is number 6 from an edition of 8 plus 4 artist's proofs.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225659_001.jpg,https://www.phillips.com/detail/robert-indiana/225659,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,282000.0,235000.0
+6b1630bd-ce45-4ece-9c15-6b5576a1a721,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 23,GBP,180000,250000,193500,161250.0,227821.39,316418.6,244908.0,204090.0,Keith Haring,<NA>,<NA>,Panel (2/9),sculpture,bronze with white patina,5.3,79.5,212.5,cm,yes,yes,yes,1990,Acquired directly from the artist by the present owner,"abstract patterns, human figures, lines, shapes, textures",None,None,"bronze with white patina
+incised with the artist's signature and date 'K. Haring 90 ⨁' lower left; stamped with the number and the foundry mark '2/9' lower right
+212.5 x 79.5 x 5.3 cm (83 5/8 x 31 1/4 x 2 1/8 in.)
+Executed in 1990, in the United States of America, this work is number 2 from an edition of 9 plus 2 artist's proofs.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/224302_001.jpg,https://www.phillips.com/detail/keith-haring/224302,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,272000.0,226666.6666666667
+a3f76f57-7227-4b08-b575-a7e32cdc74b5,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 24,GBP,20000,30000,25800,21500.0,25313.49,37970.23,32654.4,27212.0,Kenny Scharf,<NA>,<NA>,PLACADEZZ,painting,oil and acrylic on canvas,<NA>,68,53,cm,yes,yes,yes,1997,"Cotthem Gallery, Knokke \\r\\nAcquired from the above by the present owner","purple spheres, blue fish, pink coral, yellow shapes, abstract forms, orange background, green frame, lines, swirls, colorful elements",None,None,"oil and acrylic on canvas, in artist's frame
+signed, titled and dated 'Kenny Scharf Placadezz '97' on the reverse
+53 x 68 cm (20 7/8 x 26 3/4 in.)
+Painted in 1997, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225243_001.jpg,https://www.phillips.com/detail/kenny-scharf/225243,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+5c4e0cdd-2237-47b3-9401-15adfb05f944,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 25,GBP,100000,150000,109650,91375.0,126567.44,189851.16,138781.2,115651.0,Kenny Scharf,<NA>,<NA>,BIG GREEN MEAN SHEEN,painting,spray paint on canvas,<NA>,207,160.5,cm,yes,yes,yes,1983,"Tony Shafrazi Gallery, New York\\r\\nPrivate Collection \\r\\nChristie's, New York, 4 May 1995, lot 315\\r\\nAcquired at the above sale by the present owner","smiling face, monster, green, pink, swirls, stars, clouds, yellow background, expressive features, graffiti",None,None,"spray paint on canvas
+signed and dated 'Kenny Scharf '83' on the reverse
+160.5 x 207 cm (63 1/4 x 81 1/2 in.)
+Executed in 1983, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222676_001.jpg,https://www.phillips.com/detail/kenny-scharf/222676,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,158000.0,131666.6666666667
+9ae43f6f-ecff-4d02-a2f8-beaab45f82c9,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 26,GBP,150000,250000,<NA>,<NA>,189851.16,316418.6,<NA>,<NA>,Jean-Michel Basquiat,1960,1988,"Fleas, Flies",mixed media,acrylic and oilstick on wood,22.9,22.7,28,cm,no,yes,yes,1980,"Private Collection, London (gifted by the artist)\\r\\nAcquired from the above by the present owner in 2022","box, text, fleas, flies, blue paint, red paint, dots, patterns, wood",None,None,"acrylic and oilstick on wood
+28 x 22.7 x 22.9 cm (11 x 8 7/8 x 9 in.)
+Executed circa 1980s, in the United States of America. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225901_001.jpg,https://www.phillips.com/detail/jean-michel-basquiat/225901,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,254000.0,211666.6666666667
+ec2edbd4-98ff-422e-837f-3fa1f2e8d9bc,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 27,GBP,60000,80000,54180,45150.0,75940.46,101253.95,68574.24,57145.2,Mark Grotjahn,<NA>,<NA>,Untitled,drawing,graphite and coloured pencil on paper,<NA>,48.3,60.3,cm,yes,yes,no,2004,"Private Collection (acquired directly from the artist)\\r\\nGagosian, New York \\r\\nAcquired from the above by the present owner","black lines, white background, geometric shapes, rays, concentric patterns, abstraction, symmetry, monochrome, minimalism, angular forms",None,None,"graphite and coloured pencil on paper
+signed with the artist's initials and dated 'mg04' on the reverse
+60.3 x 48.3 cm (23 3/4 x 19 in.)
+Executed in 2004, in the United States of America.",https://assets.phillips.com/auctions/UK010625/225131_001.jpg,https://www.phillips.com/detail/mark-grotjahn/225131,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,89000.0,74166.66666666667
+4d2f9205-7658-4e22-ae00-4f3fcb0971cf,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 28,GBP,60000,80000,129000,107500.0,75940.46,101253.95,163272.0,136060.0,Oscar Murillo,<NA>,<NA>,Catalyst 3,painting,"oil, oilstick and dirt on canvas",<NA>,164.9,200.1,cm,yes,yes,yes,2015,"David Zwirner, London \\r\\nAcquired from the above by the present owner in 2020","abstract, blue, lines, textures, patterns, light, dark, chaotic, form, space",None,None,"oil, oilstick and dirt on canvas
+signed, titled and dated 'Oscar Murillo Catalyst #3 2015' on the overlap
+200.1 x 164.9 cm (78 3/4 x 64 7/8 in.)
+Executed in 2015, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225172_001.jpg,https://www.phillips.com/detail/oscar-murillo/225172,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,89300.0,74416.66666666667
+efb2766d-506b-49a6-b58e-d63650ebf9da,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 29,GBP,70000,90000,180600,150500.0,88597.21,113910.7,228580.8,190484.0,Louise Nevelson,<NA>,<NA>,Cascades-Perpendiculars LIII,mixed media,paint on wood,61,78.7,242.5,cm,no,yes,yes,1985,"Pace Gallery, New York \\r\\nPrivate Collection \\r\\nPierre Berge \u0026 Associés, Paris, 24 November 2021, lot 59 \\r\\nPrivate Collection, Paris (acquired at the above sale)\\r\\nThence by descent to the present owner","sculpture, abstract forms, black color, geometric shapes, wooden materials",None,None,"paint on wood, in 2 parts
+242.5 x 78.7 x 61 cm (95 1/2 x 30 7/8 x 24 in.)
+Executed in 1985, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222820_001.jpg,https://www.phillips.com/detail/louise-nevelson/222820,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,102000.0,85000.0
+6bcb8841-fd26-4ed3-8aea-c9d443cfbd93,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 30,GBP,180000,250000,154800,129000.0,227821.39,316418.6,195926.4,163272.0,Frank Stella,<NA>,<NA>,'Oh!' Cried Toni [Q#3],mixed media,mixed media on cast aluminium,71.1,142.2,203.2,cm,no,yes,yes,1998,"Galerie Hans Mayer, Dusseldorf\\r\\nPrivate Collection (acquired from the above in 2006)\\r\\nSotheby's, London, 4th October 2019, lot 154\\r\\nAcquired at the above sale by the present owner","abstract forms, colors, patterns, layers, textures, organic shapes, three-dimensional composition",None,None,"mixed media on cast aluminium
+203.2 x 142.2 x 71.1 cm (80 x 55 7/8 x 27 7/8 in.)
+Executed in 1998, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225657_001.jpg,https://www.phillips.com/detail/frank-stella/225657,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,272000.0,226666.6666666667
+8e2975c6-147f-4863-a37c-756d05e95f69,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 32,GBP,40000,60000,41280,34400.0,50626.98,75940.46,52247.04,43539.2,Jack Whitten,<NA>,<NA>,ECDYSIS I,mixed media,acrylic collage on plywood,<NA>,55.1,42.4,cm,yes,yes,yes,1989,"Hauser \u0026 Wirth, London \\r\\nAcquired from the above by the present owner","green, black, red, white, texture, abstract, pattern, industrial, surface, painting",None,None,"acrylic collage on plywood
+signed, titled and dated 'ECDYSIS I 1989 Jack Whitten' on the reverse
+42.4 x 55.1 cm (16 3/4 x 21 3/4 in.)
+Executed in 1989, in the United States of America. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223709_001.jpg,https://www.phillips.com/detail/jack-whitten/223709,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,68250.0,56875.0
+c45c7ae7-3ba4-4457-b724-e63fcfdf28a6,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 33,GBP,70000,100000,<NA>,<NA>,88597.21,126567.44,<NA>,<NA>,Howard Hodgkin,<NA>,<NA>,Walking on Water,painting,oil on wood,<NA>,51.4,46.4,cm,yes,yes,yes,1999,"Marion Bulton Stroud Collection, Philadelphia\\r\\nAnthony d'Offay Gallery, London\\r\\nGagosian Gallery, London\\r\\nPrivate Collection (acquired from the above in 2016)\\r\\nChristie's Private Sale\\r\\nAcquired from the above by the present owner in 2021","red, orange, gold, abstract, frame, texture",None,None,"oil on wood, in artist's frame
+signed, titled and dated 'WALKING ON WATER 1999-2001 Howard Hodgkin Howard Hodgkin' on the reverse
+46.4 x 51.4 cm (18 1/4 x 20 1/4 in.)
+Painted in 1999-2001, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225571_001.jpg,https://www.phillips.com/detail/howard-hodgkin/225571,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,110000.0,91666.66666666667
+e062d1a1-6228-48c6-bc4d-9b0eb76bb85e,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 34,GBP,30000,50000,<NA>,<NA>,37970.23,63283.72,<NA>,<NA>,Roger Hilton,<NA>,<NA>,Figure,painting,oil on canvas,<NA>,76,91.5,cm,yes,yes,yes,1972,"The New Art Centre, London\\r\\nThe Harriman Judd Collection, Los Angeles (as of 1985)\\r\\nSotheby's, London, 4 December 2002, lot 84 \\r\\nPrivate Collection \\r\\nLyon and Turnbull, Online, 1 September 2006, lot 74 \\r\\nPrivate Collection\\r\\nLyon and Turnbull, Online, 20 January 2021, lot 44 \\r\\nCastlegate House Gallery, Cockermouth (acquired at the above)\\r\\nAcquired from the above by the present owner","figure, abstract, yellow, brown, eyes, torso, arms, circular shapes, lines, texture",None,None,"oil on canvas
+signed and dated 'Roger Hilton '72' on the reverse
+91.5 x 76 cm (36 x 29 7/8 in.)
+Painted in 1972, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225575_001.jpg,https://www.phillips.com/detail/roger-hilton/225575,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,48500.0,40416.66666666667
+85246675-f959-4eb4-b10e-776e1572c83b,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 35,GBP,60000,80000,45150,37625.0,75940.46,101253.95,57145.2,47621.0,William Turnbull,<NA>,<NA>,14-1960 (Mauve Swell),painting,oil on canvas,<NA>,177.8,177.8,cm,yes,yes,yes,1960,"The Artist's Estate \\r\\nOffer Waterman, London \\r\\nAcquired from the above by the present owner","black background, blue arch, purple oval, geometric shapes",None,None,"oil on canvas
+signed, titled and dated '14/60 Turnbull ""MAUVE SWELL"" on the overlap; signed, partially titled and dated 'Turnbull SWELL 14/60' on the stretcher
+177.8 x 177.8 cm (70 x 70 in.)
+Painted in 1960, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225572_001.jpg,https://www.phillips.com/detail/william-turnbull/225572,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,88700.0,73916.66666666667
+47f613fc-8197-4f24-bfdb-b5339f859123,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 36,GBP,60000,80000,90300,75250.0,75940.46,101253.95,114290.4,95242.0,Bernard Frize,<NA>,<NA>,Bork,painting,acrylic and resin on canvas,<NA>,220,180,cm,yes,yes,yes,2018,"Galerie Perrotin, Shanghai \\r\\nAcquired from the above by the present owner","color blocks, stripes, abstract pattern, textured surfaces",None,None,"acrylic and resin on canvas
+signed 'Bernard Frize' on the overlap
+180 x 220 cm (70 7/8 x 86 5/8 in.)
+Executed in 2018, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225114_001.jpg,https://www.phillips.com/detail/bernard-frize/225114,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,88700.0,73916.66666666667
+c7324d1e-9108-4bd5-8a58-830ac3bea854,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 37,GBP,60000,80000,64500,53750.0,75940.46,101253.95,81636.0,68030.0,Yinka Shonibare CBE RA,<NA>,<NA>,Water Kid (Girl),sculpture,"fibreglass mannequin, Dutch wax printed cotton textile, globe, brass, steel baseplate, antique water jug",49.8,57.2,144,cm,no,yes,yes,2020,"James Cohan Gallery, New York \\r\\nAcquired from the above by the present owner","figure, globe, dress, boots, patterned fabric, headless, standing pose, glass object, multi-color, abstract design",None,None,"fibreglass mannequin, Dutch wax printed cotton textile, globe, brass, steel baseplate and antique water jug
+titled 'WATER GIRL' on the underside of the base
+144 x 57.2 x 49.8 cm (56 3/4 x 22 1/2 x 19 5/8 in.)
+Executed in 2020, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/215853_001.jpg,https://www.phillips.com/detail/yinka-shonibare-cbe-ra/215853,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,89300.0,74416.66666666667
+90e81653-af59-4e9c-841f-44725881c938,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 38,GBP,30000,50000,58050,48375.0,37970.23,63283.72,73472.4,61227.0,Niki de Saint Phalle,<NA>,<NA>,Sphinx - L'Imperatrice,sculpture,painted polyester resin,42.2,27,29,cm,no,yes,yes,1979,"Private Collection\\r\\nGalerie Kornfeld Auktionen AG, Bern, 18 June 2004, lot 138\\r\\nPrivate Collection \\r\\nGalerie Vallois, Paris\\r\\nGalerie Mitterrand, Paris\\r\\nAcquired from the above by the present owner","sculpture, woman, colorful patterns, abstract shapes, decorative motifs",None,None,"painted polyester resin
+29 x 27 x 42.2 cm (11 3/8 x 10 5/8 x 16 5/8 in.)
+Executed in 1979-1983, in Italy, this work is a uniquely painted variant from an edition of 11.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226454_001.jpg,https://www.phillips.com/detail/niki-de-saint-phalle/226454,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+6e120244-c4df-4d91-8a80-025b534a7624,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 39,GBP,60000,80000,122550,102125.0,75940.46,101253.95,155108.4,129257.0,Tony Cragg,<NA>,<NA>,Elliptical Column,sculpture,bronze,16,16,50.9,cm,yes,yes,yes,2013,Acquired directly from the artist by the present owner,"sculpture, abstract form, spiral, black, base",None,None,"bronze
+incised with the artist's initials and foundry mark 'TC' on the underside
+50.9 x 16 x 16 cm (20 x 6 1/4 x 6 1/4 in.)
+Executed in 2013, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225665_001.jpg,https://www.phillips.com/detail/tony-cragg/225665,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,87900.0,73250.0
+3834f315-e0b5-49df-a801-475410bf85b5,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 40,GBP,180000,250000,270900,225750.0,227821.39,316418.6,342871.19,285726.0,Tony Cragg,<NA>,<NA>,Lane,sculpture,stainless steel,70,70,182.4,cm,no,yes,yes,2014,Acquired directly from the artist by the present owner,"sculpture, metallic, abstract, form, movement, wave, curve, reflection, smooth, stand",None,None,"stainless steel
+182.4 x 70 x 70 cm (71 3/4 x 27 1/2 x 27 1/2 in.)
+Executed in 2014, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225658_001.jpg,https://www.phillips.com/detail/tony-cragg/225658,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,271000.0,225833.33333333334
+9def3e0b-155f-405e-8e5f-3b454fc26439,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 41,GBP,60000,80000,103200,86000.0,75940.46,101253.95,130617.6,108848.0,Tomás Saraceno,<NA>,<NA>,Superstring,mixed media,"acrylic, elastic rope and metal hardware",196.6,106.6,102.8,cm,no,yes,yes,2010,"Tanya Bonakdar Gallery, New York\\r\\nPrivate Collection\\r\\nAcquired from the above by the present owner","cloud, geometric shapes, reflections, transparency, sculpture, light, suspended, modern design",None,None,"acrylic, elastic rope and metal hardware
+102.8 x 106.6 x 196.6 cm (40 1/2 x 41 7/8 x 77 3/8 in.)
+Executed in 2010, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/224374_001.jpg,https://www.phillips.com/detail/tom%C3%A1s-saraceno/224374,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,87200.0,72666.66666666667
+ba768eef-196b-4a02-bdda-a1dd894efaac,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 42,GBP,28000,35000,34830,29025.0,35438.88,44298.6,44083.44,36736.2,Bernar Venet,<NA>,<NA>,224.5° Arcs,mixed media,oilstick on printed image on paper,<NA>,102,99.9,cm,yes,yes,yes,2002,"Private Collection \\r\\nVersailles Enchères, Versailles, 21 April 2013, lot 191 \\r\\nGuy Pieters Gallery, Knokke-Heist\\r\\nAcquired from the above by the present owner in 2013","curved lines, abstract form, black and brown, circular shape, minimal design",None,None,"oilstick on printed image on paper
+signed, titled and dated '224.5° Arcs - B. Venet 2002' lower right
+99.9 x 102 cm (39 3/8 x 40 1/8 in.)
+Executed in 2002.
+This work is registered in the Bernar Venet archives under inventory number bv02d31.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225783_001.jpg,https://www.phillips.com/detail/bernar-venet/225783,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,39800.0,33166.66666666667
+0929b94a-9445-49d5-800e-45cf48e6c724,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 43,GBP,60000,80000,64500,53750.0,75940.46,101253.95,81636.0,68030.0,Bernar Venet,<NA>,<NA>,Two Undetermined Lines,mixed media,"oilstick, charcoal and collage on paper laid down on canvas",<NA>,330.5,257.8,cm,yes,yes,yes,1989,"Galerie Daniel Templon, Paris \\r\\nPrivate Collection (acquired from the above)\\r\\nSotheby's, Amsterdam, 17 May 2011, lot 100 \\r\\nGuy Pieters Gallery, Knokke-Heist\\r\\nAcquired from the above by the present owner in 2012","abstract shapes, looping lines, dark colors, texture, white background",None,None,"oilstick, charcoal and collage on paper laid down on canvas
+signed and titled 'Two Undetermined Lines Venet B' lower right
+257.8 x 330.5 cm (101 1/2 x 130 1/8 in.)
+Executed in 1989. 
+This work is registered in the Bernar Venet archives under inventory number bv89d108.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225664_001.jpg,https://www.phillips.com/detail/bernar-venet/225664,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,88700.0,73916.66666666667
+6d40af11-85f0-40df-b86c-32fab344bf03,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 44,GBP,100000,150000,167700,139750.0,126567.44,189851.16,212253.6,176878.0,Anselm Kiefer,<NA>,<NA>,Skylla Charybdis,mixed media,mixed media,183,145,190,cm,no,yes,yes,2001,"White Cube, London\\r\\nAcquired from the above by the present owner","dress, sculpture, gray, textile, mixed media, textiles, art fashion, abstract form, artistic representation, display",None,None,"mixed media
+partially titled 'Σκυλλα' centre left; partially titled 'Χαρυβδις' centre right
+190 x 145 x 183 cm (74 3/4 x 57 1/8 x 72 in.)
+Executed in 2001, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225606_001.jpg,https://www.phillips.com/detail/anselm-kiefer/225606,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,158000.0,131666.6666666667
+c8f1802d-fce6-4d82-a2d6-25cdd7f516a4,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 45,GBP,30000,50000,70950,59125.0,37970.23,63283.72,89799.6,74833.0,Bernar Venet,<NA>,<NA>,91.5° Arc x 14,sculpture,rolled steel with black patina,40,24,57.5,cm,yes,yes,yes,2005,"Private Collection​\\r\\nDe Vuyst, Lokeren, 10 March 2018, lot 588​\\r\\nAcquired at the above sale by the present owner","sculpture, metal, curves, black, abstract, base",None,None,"rolled steel with black patina
+incised with the title '91.5° ARC x 14'​
+57.5 x 24 x 40 cm (22 5/8 x 9 1/2 x 15 3/4 in.)
+Executed in 2005, in the United States. 
+This work is registered in the Bernar Venet archives under inventory number bv05ss16, and is accompanied by a certificate of authenticity signed by the artist. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225684_001.jpg,https://www.phillips.com/detail/bernar-venet/225684,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+72b30f1e-489f-4628-8168-9c6162c555eb,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 47,GBP,120000,180000,141900,118250.0,151880.93,227821.39,179599.2,149666.0,Enrico Castellani,<NA>,<NA>,Superficie Bianca,painting,acrylic on shaped canvas,<NA>,150.2,150.2,cm,yes,yes,yes,1996,"Greta Meert Gallery, Brussels \\r\\nAcquired from the above by the present owner","white, texture, pattern, geometric, abstraction, relief, dimensional, surface, light, shadow",None,None,"acrylic on shaped canvas
+signed, titled and dated 'Castellani - Superficie bianca - 1996-' on the overlap
+150.2 x 150.2 cm (59 1/8 x 59 1/8 in.)
+Executed in 1996, in Italy, this work is registered in the Archivio Enrico Castellani under number 96-009.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225058_001.jpg,https://www.phillips.com/detail/enrico-castellani/225058,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,189000.0,157500.0
+842d0325-7a09-4fb1-a1bc-916354e314ec,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 48,GBP,100000,150000,129000,107500.0,126567.44,189851.16,163272.0,136060.0,Carla Accardi,<NA>,<NA>,Grigio (Ideogramma),painting,enamel and casein on canvas,<NA>,98.6,80.1,cm,yes,yes,yes,1954,"Galleria Anna D’Ascanio, Rome\\r\\nTega Gallery, Milan\\r\\nAcquired from the above by the present owner","abstract shapes, black background, white figures, swirling forms, chaotic composition",None,None,"enamel and casein on canvas
+signed 'ACCARDI' lower right; signed and inscribed 'C. ACCARDI VIA DEL BABUINO 154 ROMA' on the reverse
+80.1 x 98.6 cm (31 1/2 x 38 7/8 in.)
+Executed in 1954, in Italy, this work is registered in the Archivio Accardi Sanfilippo, Roma, under no. 36/99 and is accompanied by a certificate of authenticity signed by the artist.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226075_001.jpg,https://www.phillips.com/detail/carla-accardi/226075,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,158000.0,131666.6666666667
+ffdb8ee0-bcaa-4a9b-a4d2-dd434bd67249,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 49,GBP,80000,100000,103200,86000.0,101253.95,126567.44,130617.6,108848.0,Antoni Tàpies,<NA>,<NA>,M i creu blanques,mixed media,mixed media on paper laid down on canvas,<NA>,95.7,139.8,cm,yes,yes,yes,1987,"Galerie Lelong, Zurich\\r\\nGaleria Fluxus, Porto\\r\\nAcquired from the above by the present owner","abstract, black background, white paint, textures, gold accents, brush strokes, shapes, layers, mixed media, contemporary",None,None,"mixed media on paper laid down on canvas
+signed 'tàpies' lower right; signed 'tàpies' on the reverse
+139.8 x 95.7 cm (55 x 37 5/8 in.)
+Executed in 1987, in Spain.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219351_001.jpg,https://www.phillips.com/detail/antoni-t%C3%A0pies/219351,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,114000.0,95000.0
+6ea6a486-a0b8-4cb3-8d83-1f2daedb066c,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 50,GBP,80000,120000,77400,64500.0,101253.95,151880.93,97963.2,81636.0,Serge Poliakoff,<NA>,<NA>,Composition,painting,oil on canvas,<NA>,65.1,80.8,cm,yes,yes,yes,1964,"Galerie Louis Carré \u0026 Co, Paris​\\r\\nGalerie Melki, Paris ​\\r\\nSotheby's, London, 11 December 1997, lot 116\\r\\nAcquired at the above sale by the present owner","abstract, dark red, dark colors, textured surface, geometric shapes",None,None,"oil on canvas
+signed 'Serge Poliakoff' lower right
+80.8 x 65.1 cm (31 3/4 x 25 5/8 in.)
+Painted in 1964, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/218334_001.jpg,https://www.phillips.com/detail/serge-poliakoff/218334,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+996c8057-3efa-45b2-8bae-e3f5f8375653,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 51,GBP,120000,180000,109650,91375.0,151880.93,227821.39,138781.2,115651.0,Karel Appel,<NA>,<NA>,Crying Nude,painting,oil on canvas,<NA>,129.8,162.4,cm,yes,yes,yes,1956,"The Artist's Studio, Paris \\r\\nMartha Jackson Gallery, New York \\r\\nGallery Moos, Toronto (as of 1963)\\r\\nAcquired from the above by the present owner","face, abstract forms, colors, swirls, emotions, dizziness, figures, expressions",None,None,"oil on canvas
+signed 'Appel' lower right
+162.4 x 129.8 cm (63 7/8 x 51 1/8 in.)
+Painted in 1956, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/215476_001.jpg,https://www.phillips.com/detail/karel-appel/215476,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,198500.0,165416.6666666667
+d380e4d3-bb4a-49f4-b1e6-cfad19d63286,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 52,GBP,40000,60000,41280,34400.0,50626.98,75940.46,52247.04,43539.2,Roberto Matta,<NA>,<NA>,Machina fondo blu,painting,oil on canvas,<NA>,100,80,cm,yes,yes,yes,1956,"Galleria d'arte Sanluca, Bologna\\r\\nGalleria Marescalchi, Bologna\\r\\nGalerie Houg, Lyon\\r\\nPrivate Collection, France\\r\\nThence by descent to the present owner","lamp, geometric shapes, blue background, circular forms, abstract composition, triangular forms, red elements, yellow shapes, lines, brown areas",None,None,"oil on canvas
+signed 'Matta' on the reverse
+80 x 100 cm (31 1/2 x 39 3/8 in.)
+Painted in 1956, in Chile. 
+This work is listed under no. 60/65 within the Archives de l'oeuvre de Matta.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226471_001.jpg,https://www.phillips.com/detail/roberto-matta/226471,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+aac802e9-bad8-490e-a2a7-016148e7bd6a,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 53,GBP,18000,25000,20640,17200.0,22782.14,31641.86,26123.52,21769.6,Henry Moore,<NA>,<NA>,Sculptural Ideas,drawing,"coloured pencil, graphite and crayon on paper laid down on board",<NA>,48.8,60.2,cm,yes,yes,yes,1937,"Annely Juda Fine Art, London \\r\\nPrivate Collection, London (as of 1970)\\r\\nCrane Kalman Gallery, London \\r\\nPrivate Collection, Paris (acquired from the above in 1996)\\r\\nThence by descent to the present owner","abstract shapes, figures, lines, curves, textures, patterns, sketches, design elements, expressions, human forms",None,None,"coloured pencil, graphite and crayon on paper laid down on board
+signed and dated 'Moore 37' lower right
+60.2 x 48.8 cm (23 3/4 x 19 1/4 in.)
+Executed in 1937, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222822_001.jpg,https://www.phillips.com/detail/henry-moore/222822,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,28250.0,23541.666666666668
+5f25a984-67fd-4424-8809-27d32c6d9f52,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 54,GBP,60000,80000,77400,64500.0,75940.46,101253.95,97963.2,81636.0,Francis Picabia,<NA>,<NA>,Espagnole à la mantille,drawing,"ink, graphite and watercolour on paper laid down on card",<NA>,56.3,76.5,cm,yes,yes,yes,1920,"Private Collection \\r\\nArtcurial, Paris, 26 October 2004, lot 213\\r\\nPrivate Collection, Paris (acquired at the above sale)\\r\\nThence by descent to the present owner","woman, headscarf, patterned clothing, portrait, black and white, brown background, floral design, lace details, expression, traditional attire",None,None,"ink, graphite and watercolour on paper laid down on card
+signed 'Francis Picabia' lower right
+76.5 x 56.3 cm (30 1/8 x 22 1/8 in.)
+Executed circa 1920, in France. 
+This work is accompanied by a certificate of authenticity issued by the Comité Picabia.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222821_001.jpg,https://www.phillips.com/detail/francis-picabia/222821,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,87900.0,73250.0
+a74279ce-0243-42e5-aa0e-97077853c641,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 55,GBP,30000,50000,67080,55900.0,37970.23,63283.72,84901.44,70751.2,Max Ernst,<NA>,<NA>,Jeune homme aux bras croisés,sculpture,silver,15,10.8,19.7,cm,yes,yes,yes,1967,"Private Collection \\r\\nChristie's, New York, 18 February 1988, lot 208 \\r\\nAcquired at the above sale by the present owner","figure, sculpture, head, abstract, form, metal, facial expression, geometric, base, modern",None,None,"silver
+stamped with the artist's signature and numbered 'Max Ernst 1/2 1687 2368' on the underside; stamped with the goldsmith's mark and the French assay mark for silver on the underside
+19.7 x 10.8 x 15 cm (7 3/4 x 4 1/4 x 5 7/8 in.)
+Conceived in 1967, cast circa 1980, in France, this work is artist's proof 1 from an edition of 3 plus 2 artist's proofs.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222921_001.jpg,https://www.phillips.com/detail/max-ernst/222921,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,51200.0,42666.66666666667
+bbaf6ce8-a44c-4c3f-90db-761d75dfc314,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 56,GBP,10000,15000,58050,48375.0,12656.74,18985.12,73472.4,61227.0,Auguste Rodin,<NA>,<NA>,"Main droite n° 07, petite modèle",sculpture,bronze with green patina,6,4.9,13.5,cm,yes,yes,yes,1880,"Musée Rodin, Paris \\r\\nEdmond Guerin \u0026 Co, Paris (Acquired from the above in September 1951)\\r\\nLillian Florsheim Collection, USA\\r\\nThence by descent to the present owner","hand, sculpture, marble base",None,None,"bronze with green patina
+incised with the artist's signature 'A. Rodin' lower part
+bronze: 7.7 x 4.5 x 5.2 cm (3 x 1 3/4 x 2 in.)
+plinth: 5.9 x 4.9 x 4.9 cm (2 3/8 x 1 7/8 x 1 7/8 in.)
+overall: 13.5 x 4.9 x 6 cm (5 3/8 x 1 7/8 x 2 3/8 in.)
+Conceived in 1880–1900 and cast in 1948, this work is from an edition of 3.
+This work will be included in the forthcoming Auguste Rodin
+currently being prepared by the Comité Auguste Rodin at Galerie Brame et Lorenceau under the direction of Jérôme Le Blay under the archive no. 2025-7526B.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219790_001.jpg,https://www.phillips.com/detail/auguste-rodin/219790,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,17250.0,14375.0
+a47cc8e2-464b-4353-939b-69eefd4e95f4,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 57,GBP,10000,15000,14190,11825.0,12656.74,18985.12,17959.92,14966.6,Auguste Rodin,<NA>,<NA>,"Main n° 14, petit modele",sculpture,bronze with green patina,4,4,13.1,cm,yes,yes,yes,1880,"Musée Rodin, Paris \\r\\nEdmond Guerin \u0026 Co., Paris (acquired from the above in January 1957)\\r\\nLillian Florsheim Collection, USA\\r\\nThence by descent to the present owner","sculpture, hand, bronze, pedestal",None,None,"bronze with green patina
+incised with the artist's signature 'A.Rodin' lower part
+bronze: 6.2 x 3 x 2.5 cm (2 1/2 x 1 1/8 x 0 7/8 in.)
+plinth: 6.9 x 4 x 4 cm (2 3/4 x 1 5/8 x 1 5/8 in.)
+overall: 13.1 x 4 x 4 cm (5 1/8 x 1 5/8 x 1 5/8 in.)
+Conceived in 1880-1885, cast in 1948, in France, this work is from an edition of 3.
+This work will be included in the forthcoming Auguste Rodin 
+ currently being prepared by the Comité Auguste Rodin at Galerie Brame et Lorenceau under the direction of Jérôme Le Blay under the archive no. 2025-7607B.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219788_001.jpg,https://www.phillips.com/detail/auguste-rodin/219788,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+04f536cb-25ce-4c5c-aca3-05432c10dd1a,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 58,GBP,10000,15000,23220,19350.0,12656.74,18985.12,29388.96,24490.8,Auguste Rodin,<NA>,<NA>,Main droite n° 15,sculpture,bronze,4.5,4.5,11.9,cm,yes,yes,yes,1880,"Musée Rodin, Paris \\r\\nEdmond Guerin \u0026 Cie, Paris (acquired from the above in July 1952)\\r\\nPrivate Collection, USA (acquired from the above in July 1952)\\r\\nLillian Florsheim Collection, USA\\r\\nThence by descent to the present owner","hand, sculpture, bronze, plaster, base",None,None,"bronze
+incised with the artist's signature 'A.Rodin' lower part
+bronze: 7.5 x 4.2 x 2.5 cm (2 7/8 x 1 5/8 x 0 7/8 in.)
+plinth: 4.4 x 4.5 x 4.5 cm (1 3/4 x 1 3/4 x 1 3/4 in.)
+overall: 11.9 x 4.5 x 4.5 cm (4 5/8 x 1 3/4 x 1 3/4 in.)
+Conceived in 1880- 1900, cast in 1952, in France, this work is from an edition of 4.
+This work will be included in the forthcoming Auguste Rodin 
+ currently being prepared by the Comité Auguste Rodin at Galerie Brame et Lorenceau under the direction of Jérôme Le Blay under the archive no. 2025-7685B.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219789_001.jpg,https://www.phillips.com/detail/auguste-rodin/219789,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,17250.0,14375.0
+b2aa54f2-6432-4e2f-9e9c-c1b3d7c59a44,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 59,GBP,100000,150000,129000,107500.0,126567.44,189851.16,163272.0,136060.0,Anish Kapoor,<NA>,<NA>,Untitled,sculpture,fibreglass and paint,27,49,51.5,cm,yes,yes,no,2010,"Kamel Mennour, Paris \\r\\nAcquired from the above by the present owner","red sphere, wall, reflection",None,None,"fibreglass and paint
+signed and dated 'Anish Kapoor 2010' on the reverse
+51.5 x 49 x 27 cm (20 1/4 x 19 1/4 x 10 5/8 in.)
+Executed in 2010, in the United Kingdom, this work is from an edition of 6 plus 2 artist's proofs. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226352_001.jpg,https://www.phillips.com/detail/anish-kapoor/226352,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,158000.0,131666.6666666667
+6d244f17-521f-45a3-aee0-702c15fdfd2b,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 60,GBP,25000,30000,25800,21500.0,31641.86,37970.23,32654.4,27212.0,Thomas Houseago,<NA>,<NA>,Construction,sculpture,"Tuf-Cal, wood, iron rebar, oilbar, hemp and graphite",45,111,155.5,cm,yes,yes,yes,2008,"Repetto Gallery, Milan \\r\\nMassimo De Carlo, Milan \\r\\nAcquired from the above by the present owner","sculpture, abstract, face, geometry, wood, lines, structure",None,None,"Tuf-Cal, wood, iron rebar, oilbar, hemp and graphite
+signed 'Thomas Houseago' on the reverse
+155.5 x 111 x 45 cm (61 1/4 x 43 3/4 x 17 3/4 in.)
+Executed in 2008, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225313_001.jpg,https://www.phillips.com/detail/thomas-houseago/225313,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,35000.0,29166.666666666668
+aa9f8542-3c39-4d6f-bfe4-eeac4dd80a8c,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 61,GBP,60000,80000,77400,64500.0,75940.46,101253.95,97963.2,81636.0,Thomas Houseago,<NA>,<NA>,Face in Movement 1,sculpture,bronze,18,90,108.5,cm,no,yes,yes,2011,"Hauser \u0026 Wirth, Zurich \\r\\nAcquired from the above by the present owner","skull, sculpture, black, abstract",None,None,"bronze
+108.5 x 90 x 18 cm (42 3/4 x 35 3/8 x 7 1/8 in.)
+Executed in 2011, in the United States of America, this work is number 1 from an edition of 3 plus 2 artist's proofs.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226354_001.jpg,https://www.phillips.com/detail/thomas-houseago/226354,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,89300.0,74416.66666666667
+b44ec621-63c5-48c4-9e88-8ede664594a7,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 62,GBP,30000,50000,30960,25800.0,37970.23,63283.72,39185.28,32654.4,Alex Israel,<NA>,<NA>,Untitled (Flat),mixed media,acrylic and stucco on panel,<NA>,152,152.4,cm,yes,yes,no,2012,"Lindon \u0026 Co., London \\r\\nAcquired from the above by the present owner","star shape, gradient, orange, pink, textured surface",None,None,"acrylic and stucco on panel
+signed and dated 'Alex Israel '12' on the reverse
+152.4 x 152 cm (60 x 59 7/8 in.)
+Executed in 2012, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225662_001.jpg,https://www.phillips.com/detail/alex-israel/225662,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,48000.0,40000.0
+db7f53d4-7694-4fc8-93c8-122552a1b8dc,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 63,GBP,120000,180000,129000,107500.0,151880.93,227821.39,163272.0,136060.0,Sterling Ruby,<NA>,<NA>,SP66,painting,spray paint on canvas,<NA>,183,183,cm,yes,yes,yes,2009,"SAKS, Geneva \\r\\nAcquired from the above by the present owner","abstract, dark tones, texture, horizontal lines, vertical drips, subtle color variations, layered illumination, atmospheric quality",None,None,"spray paint on canvas
+signed with the artist's initials, titled and dated ''SP66' SR.09' on the reverse
+183 x 183 cm (72 x 72 in.)
+Executed in 2009, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226351_001.jpg,https://www.phillips.com/detail/sterling-ruby/226351,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,189000.0,157500.0
+a73a7841-a9fd-4141-9504-a0a517dddbae,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 64,GBP,60000,80000,141900,118250.0,75940.46,101253.95,179599.2,149666.0,Rashid Johnson,<NA>,<NA>,Left + Right,mixed media,"mirror, wood, MDF, wax, vinyl record, two-way radios, books, shea butter, space rock",30,355,281.5,cm,no,yes,yes,2010,"Massimo de Carlo, Milan\\r\\nAcquired from the above by the present owner","installation, mirrors, shelves, objects, geometric patterns, wall-mounted, line work, interior space, reflections, contemporary art",None,None,"mirror, wood, MDF, wax, vinyl record Roland Kirk ""Left and Right"", two-way radios CB, books, shea butter, space rock
+281.5 x 355 x 30 cm (110 7/8 x 139 3/4 x 11 3/4 in.)
+Executed in 2010, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225312_001.jpg,https://www.phillips.com/detail/rashid-johnson/225312,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,89300.0,74416.66666666667
+2beb47e5-6161-4b7f-b5d1-2d4d593976ec,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 65,GBP,150000,200000,283800,236500.0,189851.16,253134.88,359198.39,299332.0,Theaster Gates,<NA>,<NA>,From time to time these Hot Days get Lonely,mixed media,decommissioned fire hose on panel,10,243.8,147.3,cm,no,yes,yes,2011,"White Cube, London \\r\\nAcquired from the above by the present owner","red, texture, lines, pattern, text",None,None,"decommissioned fire hose on panel
+147.3 x 243.8 x 10 cm (57 7/8 x 95 7/8 x 3 7/8 in.)
+Executed in 2011, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226350_001.jpg,https://www.phillips.com/detail/theaster-gates/226350,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,215000.0,179166.6666666667
+e03120dc-1cf3-4bf8-b92e-c86b78ecc406,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 66,GBP,50000,70000,232200,193500.0,63283.72,88597.21,293889.6,244908.0,Christo,<NA>,<NA>,"Surrounded Islands (Project for Biscayne Bay, Greater Miami, Florida)",mixed media,"graphite, pastel, crayon, charcoal, fabric, enamel and photograph collage on paper laid down on board",<NA>,71.8,85.4,cm,yes,yes,yes,1983,"Galerie Saint Guillaume, Tokyo\\r\\nAcquired from the above by the present owner in 2018","islands, water, pink fabric, landscape, vegetation, bay, buildings, coast, sky, Miami",None,None,"graphite, pastel, crayon, charcoal, fabric, enamel and photograph​ collage on paper laid down on board, in artist's Plexiglas box frame, in 2 parts
+signed and dated 'Christo 1983' lower left of the upper part
+upper part: 28.7 x 71.8 cm (11 1/4 x 28 1/4 in.)
+lower part: 56.7 x 71.8 cm (22 3/8 x 28 1/4 in.)
+overall: 85.4 x 71.8 cm (33 5/8 x 28 1/4 in.)
+Executed in 1983, in the United States.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219513_001.jpg,https://www.phillips.com/detail/christo/219513,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,76500.0,63750.0
+f0657b30-7867-4a35-970b-844b1d74b8d9,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 67,GBP,30000,50000,141900,118250.0,37970.23,63283.72,179599.2,149666.0,Christo,<NA>,<NA>,"Over the River (Project for Arkansas River, State of Colorado)",mixed media,"graphite, enamel, charcoal, pastel, wax crayon, aerial photograph with topographic elevations and fabric on paper laid down on board",<NA>,78.2,98.8,cm,yes,yes,yes,2006,Acquired directly from the artist by the present owner in 2007,"river, landscape, people, water, blue sky, fabric, project, drawing, sketch, mountains",None,None,"graphite, enamel, charcoal, pastel, wax crayon, aerial photograph with topographic elevations and fabric on paper laid down on board, in artist's Plexiglas box frame, in 2 parts
+signed and dated 'Christo 2006' upper centre of the upper part; signed and dated 'CHRISTO 2006' on the reverse of each part
+upper part: 31.3 x 78.2 cm (12 3/8 x 30 3/4 in.)
+lower part: 67.5 x 78.2 cm (26 5/8 x 30 3/4 in.)
+overall: 98.8 x 78.2 cm (38 7/8 x 30 3/4 in.)
+Executed in 2006, in the United States.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219535_001.jpg,https://www.phillips.com/detail/christo/219535,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,52100.0,43416.66666666667
+951054fe-485b-4223-a6f5-b3958cabd18c,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 68,GBP,20000,30000,45150,37625.0,25313.49,37970.23,57145.2,47621.0,Christo,<NA>,<NA>,Wrapped Walkway (Project for Ueno Park - Tokyo),mixed media,"graphite, fabric, crayon, photograph, staples, and paper collage on card laid down on board",<NA>,56.6,71.7,cm,yes,yes,yes,1969,Acquired directly from the artist by the present owner,"building, stairs, trees, park, maps, sketches, architecture, landscape, urban, markers",None,None,"graphite, fabric, crayon, photograph, staples, and paper collage on card laid down on board, in Plexiglas box
+signed and dated 'Christo 1969' lower right; signed and dated 'CHRISTO 1969' on the reverse
+71.7 x 56.6 cm (28 1/4 x 22 1/4 in.)
+Executed in 1969, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219544_001.jpg,https://www.phillips.com/detail/christo/219544,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,34500.0,28750.0
+c4552472-cdc6-437a-8dbe-889fdc47c744,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 69,GBP,15000,20000,45150,37625.0,18985.12,25313.49,57145.2,47621.0,Christo,<NA>,<NA>,Wrapped Books and Magazines,mixed media,"book, polyethene and rope",13.7,31,24,cm,yes,yes,yes,1962,"Giovanni Camuffo Collection, Venice\\r\\nGalleria del Leone, Venice\\r\\nPrivate Collection\\r\\nSotheby's, London, 5 December 1985, lot 408\\r\\nPrivate Collection\\r\\nSotheby's, London, 29 June 1995, lot 195 \\r\\nPrivate Collection \\r\\nChristie's, Amsterdam, 12 April 2017, lot 9\\r\\nStern Pissarro Gallery, London \\r\\nAcquired from the above by the present owner","plastic, wrapped objects, bundle, twine, black background, assorted papers",None,None,"book, polyethene and rope​
+signed and dated 'Christo 62' on the reverse
+24 x 31 x 13.7 cm (9 1/2 x 12 1/4 x 5 3/8 in.)
+Executed in 1962, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/219543_001.jpg,https://www.phillips.com/detail/christo/219543,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+fceea6cc-147b-4af5-9cc1-de8da37a1767,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 70,GBP,18000,25000,15480,12900.0,22782.14,31641.86,19592.64,16327.2,Gavin Turk,<NA>,<NA>,Brillo 1,sculpture,painted bronze,50.4,57.1,49.2,cm,no,yes,yes,2000,"White Cube, London\\r\\nAcquired from the above by the present owner in 2000","box, cardboard, open, empty, shadows, floor",None,None,"painted bronze
+49.2 x 57.1 x 50.4 cm (19 3/8 x 22 1/2 x 19 7/8 in.)
+Executed in 2000, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226279_001.jpg,https://www.phillips.com/detail/gavin-turk/226279,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,27100.0,22583.333333333336
+b1e88c26-9525-47ae-9dd2-bf7b593bf472,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 71,GBP,60000,80000,58050,48375.0,75940.46,101253.95,73472.4,61227.0,Ai Weiwei,<NA>,<NA>,Coloured Vases,mixed media,industrial paint on Neolithic vases,15.3,15.5,19.5,cm,yes,yes,yes,2008,Private Collection (acquired directly from the artist) \\r\\nAcquired from the above by the present owner,"ceramic pots, colorful pots, decorative vases, handmade pottery, terracotta, assorted colors, traditional design, small vessels, artistic ceramics, craftsmanship",None,None,"industrial paint on Neolithic vases, in 13 parts
+signed and dated 'Ai 2008' on the underside of the pink vase
+largest: 19.5 x 15.5 x 15.3 cm (7 5/8 x 6 1/8 x 6 in.)
+smallest: 12 x 11.8 x 11 cm (4 3/4 x 4 5/8 x 4 3/8 in.)
+installation dimensions variable
+Executed in 2008, in China. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226339_001.jpg,https://www.phillips.com/detail/ai-weiwei/226339,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,90000.0,75000.0
+d0387a5a-1585-4315-b8c4-11ff3b2c28e4,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 72,GBP,100000,150000,232200,193500.0,126567.44,189851.16,293889.6,244908.0,Yan Pei-Ming,<NA>,<NA>,Pope Innocent X No. 5,painting,oil on canvas,<NA>,220,220,cm,yes,yes,yes,2013,"Massimo de Carlo, London\\r\\nAcquired from the above by the present owner in 2014","man, throne, green background, red and green robes, white collar, seated position",None,None,"oil on canvas
+signed, titled and dated 'Pope Innocent X No. 5 2013 Yan Pei-Ming Yan Pei-Ming [in Chinese]' on the reverse
+220 x 220 cm (86 5/8 x 86 5/8 in.)
+Painted in 2013, in France.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225860_001.jpg,https://www.phillips.com/detail/yan-pei-ming/225860,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,158000.0,131666.6666666667
+bb78970c-858f-4d14-902d-c1f7838b9a6a,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 73,GBP,30000,40000,23220,19350.0,37970.23,50626.98,29388.96,24490.8,Otto Piene,<NA>,<NA>,Fire Eye,painting,oil and soot on canvas,<NA>,70,50.5,cm,yes,yes,yes,1979,"André Emmerich Gallery, New York\\r\\nPrivate Collection (acquired from the above)\\r\\nThence by descent to the present owner","circle, black, red, texture, abstract, concentric, patterns, tonal variation, gradient, visual depth",None,None,"oil and soot on canvas
+signed, titled and dated '""Fire Eye"" Piene '79' on the reverse
+50.5 x 70 cm (19 7/8 x 27 1/2 in.)
+Executed in 1979, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/220547_001.jpg,https://www.phillips.com/detail/otto-piene/220547,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,43250.0,36041.66666666667
+a7e827e1-b906-4108-86aa-8f9dc9d5a4e2,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 74,GBP,40000,60000,46440,38700.0,50626.98,75940.46,58777.92,48981.6,Neo Rauch,<NA>,<NA>,Die Leiter,painting,oil on paper,<NA>,76.2,121.9,cm,yes,yes,yes,2000,"Galerie EIGEN + ART, Berlin \\r\\nAcquired from the above by the present owner","man, desk, tree, ladder, sculpture, plants, light, landscape, geometric shapes, buildings",None,None,"oil on paper
+signed and dated 'RAUCH 00' lower right
+121.9 x 76.2 cm (47 7/8 x 30 in.)
+Painted in 2000, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223752_001.jpg,https://www.phillips.com/detail/neo-rauch/223752,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+d5925eb4-2d5c-4350-afd5-0861f8338e71,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 75,GBP,25000,35000,25800,21500.0,31641.86,44298.6,32654.4,27212.0,Günther Förg,<NA>,<NA>,Untitled,painting,acrylic on canvas,<NA>,101,120.8,cm,yes,yes,no,1995,"Private Collection, Belgium (acquired directly from the artist) \\r\\nKarl \u0026 Faber, Munich, 6 June 2024, lot 808\\r\\nAcquired at the above sale by the present owner","red, gold, abstract, texture, canvas",None,None,"acrylic on canvas
+signed and dated 'Förg 95' on the reverse
+120.8 x 101 cm (47 1/2 x 39 3/4 in.)
+Painted in 1995, in Germany,  this work is recorded in the archive of Günther Förg as No. WVF.95.B.0502.
+We thank Mr. Michael Neff from the Estate of Günther Förg for the information he has kindly provided on this work.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222074_001.jpg,https://www.phillips.com/detail/g%C3%BCnther-f%C3%B6rg/222074,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,38300.0,31916.666666666668
+a27bf561-2d58-44cb-af6c-cfb3da884c05,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 76,GBP,60000,80000,103200,86000.0,75940.46,101253.95,130617.6,108848.0,Harland Miller,<NA>,<NA>,Who Cares Wins,painting,oil on canvas,<NA>,154.6,223.5,cm,yes,yes,yes,2011,"Galleria Marabini, Bologna\\r\\nPrivate Collection (acquired from the above in 2012)\\r\\nChristie's, London, 2 July 2021, lot 537\\r\\nAcquired at the above sale by the present owner","book cover, penguin, text, green background, yellow background, black letters, title, author name",None,None,"oil on canvas
+signed 'Harland Miller' on the overlap
+223.5 x 154.6 cm (87 7/8 x 60 7/8 in.)
+Painted in 2011, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223248_001.jpg,https://www.phillips.com/detail/harland-miller/223248,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,88700.0,73916.66666666667
+a7fbe261-eb26-4391-a223-c3246e7f5bd5,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 77,GBP,30000,50000,38700,32250.0,37970.23,63283.72,48981.6,40818.0,Marcel Broodthaers,<NA>,<NA>,"Écran fig. 1, fig. 2, fig. O, fig. A",painting,oil on canvas and wood,<NA>,335,206,cm,no,yes,yes,1968,"Galerie Michael Werner, Cologne\\r\\nAcquired from the above by the present owner","canvas, labels, text, figures, black and white, art display",None,None,"oil on canvas and wood
+206 x 335 cm (81 1/8 x 131 7/8 in.)
+Painted in 1968, in Belgium.
+We are grateful for Marie-Puck Broodthaers’ assistance in preparing this catalogue entry.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/206132_001.jpg,https://www.phillips.com/detail/marcel-broodthaers/206132,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,48500.0,40416.66666666667
+02ddd4a0-3cef-404a-affd-8668633b8977,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 78,GBP,30000,40000,70950,59125.0,37970.23,50626.98,89799.6,74833.0,Bill Viola,<NA>,<NA>,The Silent Sea,mixed media,colour high-definition video on plasma display,<NA>,97.3,56.1,cm,yes,yes,yes,2002,"James Cohan Gallery, New York\\r\\nAcquired from the above by the present owner in 2003","figures, group, expressions, emotions, clothing, dark background, poses, human interaction, diverse appearances, dramatic lighting",None,None,"colour high-definition video on plasma display mounted on wall
+56.1 x 97.3 cm (22 1/8 x 38 1/4 in.)
+Executed in 2002, in the United States of America, this work is number 3 from an edition of 5 plus 1 artist's proof.
+This work is accompanied by a Certificate of Authenticity signed by the artist.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/204768_001.jpg,https://www.phillips.com/detail/bill-viola/204768,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+0075d530-d866-423a-892a-2889c3ce4375,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 79,GBP,50000,70000,83850,69875.0,63283.72,88597.21,106126.8,88439.0,Peter Beard,<NA>,<NA>,Single Cheetah,mixed media,"gelatin silver print, blood, watercolour, ink, affixed paper flower, pebble, photographs",<NA>,62,40.8,cm,yes,yes,yes,2007,"Peter Beard Studio, New York\\r\\nAcquired from the above by the present owner","cheetah, teardrop, landscape, photographs, animals, text, flowers, stains, patterns, mixed media",None,None,"unique work, comprising a gelatin silver print with blood, watercolour, ink and affixed paper flower, pebble and photographs
+signed and inscribed ‘Peter Beard Nairobi – Marseille – Cassis B du R S. France’ and extensively annotated in ink on the recto; signed, inscribed and dated ‘Peter Beard Cassis B. du R (July 30, '07)' in ink across the Certificate of Authenticity stamp on the verso
+image: 40.8 x 62 cm (16 1/8 x 24 3/8 in.)
+sheet: 76.4 x 87.8 cm (30 1/8 x 34 5/8 in.)
+frame: 90.4 x 102 cm (35 5/8 x 40 1/8 in.)
+Photographed in 1960 and executed in 2007, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/220458_001.jpg,https://www.phillips.com/detail/peter-beard/220458,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,75400.0,62833.333333333336
+c08d09a2-c8ef-48b7-843b-1fa05263df2e,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 80,GBP,35000,45000,70950,59125.0,44298.6,56955.35,89799.6,74833.0,Andreas Gursky,<NA>,<NA>,Hong Kong Airport (1/5),photographs,chromogenic print mounted to Plexiglas,<NA>,122,89.6,cm,yes,yes,yes,1994,"Mai 36 Galerie, Zurich\\r\\nAcquired from the above by the present owner","airport, airplanes, cargo, cityscape, clouds, freight, terminal, tarmac, vehicles, landscape",None,None,"chromogenic print mounted to Plexiglas, in artist's frame
+signed, titled, numbered and dated 'Hong Kong Airport '94 1/5 A. Gursky' on the reverse; signed with the artist's initials 'A.G' on a studio label affixed to the reverse
+image: 89.6 x 122 cm (35 1/4 x 48 in.)
+sheet: 118.5 x 148.4 cm (46 5/8 x 58 3/8 in.)
+frame: 122.6 x 152.5 cm (48 1/4 x 60 in.)
+Executed in 1994, in Germany, this work is number 1 from an edition of 5 plus 2 artist's proofs.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/210576_001.jpg,https://www.phillips.com/detail/andreas-gursky/210576,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,51200.0,42666.66666666667
+05015b3c-0314-4656-9c53-5f2e4c1d96f9,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 81,GBP,20000,30000,51600,43000.0,25313.49,37970.23,65308.8,54424.0,Wolfgang Tillmans,<NA>,<NA>,after party (c),photographs,c-type print,<NA>,202.9,135,cm,yes,yes,yes,2002,"Maureen Paley Gallery, London \\r\\nAcquired from the above by the present owner in 2003","mirrors, alcoholic beverages, glass bottles, empty cups, interior, messy floor, furniture, reflections, clutter, light",None,None,"c-type print, in artist’s frame
+signed and numbered 'Wolfgang Tillmans 1/A1' on a studio label affixed to the reverse
+image: 135 x 202.9 cm (53 1/8 x 79 7/8 in.)
+frame: 145.1 x 212.3 cm (57 1/8 x 83 5/8 in.)
+Executed in 2002, in Germany, this work is from an edition of 1 plus 1 artist’s proof.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226280_001.jpg,https://www.phillips.com/detail/wolfgang-tillmans/226280,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+ed3d894a-5bb1-4baa-b325-be53c1dc432c,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 82,GBP,12000,18000,25800,21500.0,15188.09,22782.14,32654.4,27212.0,Roni Horn,<NA>,<NA>,"Still Water (The River Thames, For Example)",photographs,photograph and text printed on paper,<NA>,105.2,77.1,cm,yes,yes,yes,1999,"Galerie Xavier Hufkens, Brussels\\r\\nPrivate Collection \\r\\nChristie's, London, 17 February 2011, lot 138\\r\\nAcquired at the above sale by the present owner","water, reflections, texture, waves, light, surface, color gradients, movement, nature, abstraction",None,None,"each: photograph and text printed on paper
+signed, titled, numbered and dated '""Still Water"" (The River Thames, for Example) 1999 ED # 3/7 R Horn (IMAGE B, IMAGE E, IMAGE K)' respectively on the reverse of each
+each: 77.1 x 105.2 cm (30 3/8 x 41 3/8 in.)
+Executed in 1999, in the United States of America, these works are number 3 from an edition of 7 plus 3 artist's proofs. 
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226003_001.jpg,https://www.phillips.com/detail/roni-horn/226003,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,19800.0,16500.0
+6d9feef5-418b-4c81-b50c-80b81df5fb28,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 83,GBP,5000,7000,9030,7525.0,6328.37,8859.72,11429.04,9524.2,Gilbert & George,<NA>,<NA>,THE ORDER OF THE THISTLE,mixed media,postcards on board,<NA>,97.3,97,cm,yes,yes,yes,1981,Acquired directly from the artists by the present owner,"figures, soldiers, ceremony, architecture, honor, colors, men, traditional attire, uniforms, historical scene",None,None,"postcards on board, in artist's frame
+signed, titled and dated 'ORDER OF THE THISTLE Gilbert + George 1981' on an artist's label lower right
+97 x 97.3 cm (38 1/4 x 38 1/4 in.)
+Executed in 1981, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/216082_001.jpg,https://www.phillips.com/detail/gilbert-&-george/216082,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,7500.0,6250.0
+980f88c2-de4f-40b3-ba79-ede060175fe6,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 84,GBP,20000,30000,41280,34400.0,25313.49,37970.23,52247.04,43539.2,Grayson Perry,<NA>,<NA>,Untitled,ceramics,ceramic,33,34.5,52.5,cm,no,yes,no,1980,"Read Stremmel Gallery, San Antonio (acquired directly from the artist in the 1980s)\\r\\nAcquired from the above by the present owner","vase, woman, arms raised, figure, face, humanoid, patterns, decorative, colors, shapes",None,None,"ceramic vase
+52.5 x 34.5 x 33 cm (20 5/8 x 13 5/8 x 12 7/8 in.)
+Executed circa 1980, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223340_001.jpg,https://www.phillips.com/detail/grayson-perry/223340,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+0afbe3f5-0b29-4b51-ba7b-9409ed4137a2,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 85,GBP,12000,15000,20640,17200.0,15188.09,18985.12,26123.52,21769.6,Sam Francis,<NA>,<NA>,Untitled,painting,acrylic on paper,<NA>,30.4,45.7,cm,yes,yes,no,1989,"Estate of Sam Francis, California (as of November 1994)\\r\\nGallery Delaive, Amsterdam (acquired from the above in 2003)\\r\\nGuy Pieters Gallery, Knokke-Heist\\r\\nAcquired from the above by the present owner in 2013","splashes, colors, abstract shapes, patterns, blue, yellow, black, red, green, turquoise",None,None,"acrylic on paper
+signed 'Sam Francis' on the reverse; stamped with the Sam Francis Estate stamp on the reverse
+45.7 x 30.4 cm (17 7/8 x 11 7/8 in.)
+Painted in 1989, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225784_001.jpg,https://www.phillips.com/detail/sam-francis/225784,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,17250.0,14375.0
+7f79c4d1-9367-4723-827d-65b28eed3e9c,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 86,GBP,20000,30000,15480,12900.0,25313.49,37970.23,19592.64,16327.2,Jack Whitten,<NA>,<NA>,Horizontal Plane A,drawing,pastel on Rives,<NA>,65.6,48.2,cm,yes,yes,yes,1972,"Alexander Gray Associates, New York \\r\\nAcquired from the above by the present owner","abstract, colors, shapes, lines, texture, green, orange, yellow, brown, purple",None,None,"pastel on Rives
+signed and dated 'J.Whitten '72' lower right
+48.2 x 65.6 cm (18 7/8 x 25 7/8 in.)
+Executed in 1972, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223710_001.jpg,https://www.phillips.com/detail/jack-whitten/223710,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+008c298c-9024-4ebe-9d2e-e3a0d588b421,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 87,GBP,10000,15000,45150,37625.0,12656.74,18985.12,57145.2,47621.0,Rita Ackermann,<NA>,<NA>,Sandman's Dust II,prints,oil and pigment on unique monotype print,<NA>,64.4,85.8,cm,no,yes,yes,2022,Hauser \u0026 Wirth\\r\\nAcquired from the above by the present owner in 2023,"blue, green, black, white, abstract, texture, swirl, paint, color, motion",None,None,"oil and pigment on unique monotype print, in artist's frame
+85.8 x 64.4 cm (33 3/4 x 25 3/8 in.)
+Executed in 2022, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225563_001.jpg,https://www.phillips.com/detail/rita-ackermann/225563,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+fd3941f0-d5db-47b7-8bf7-dfa576302fb3,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 88,GBP,5000,7000,5805,4837.5,6328.37,8859.72,7347.24,6122.7,Guglielmo Castelli,<NA>,<NA>,Untitled,painting,oil on paper,<NA>,41.3,29.5,cm,yes,yes,no,2022,Acquired directly from the artist by the present owner,"figure, reclining woman, abstract form, brown tones, grid pattern, background shapes, earthy colors, stylized body, limbs, organic lines",None,None,"oil on paper
+signed and dated 'Guglielmo Castelli 2022' on the reverse
+29.5 x 41.3 cm (11 5/8 x 16 1/4 in.)
+Painted in 2022, in Italy.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225792_001.jpg,https://www.phillips.com/detail/guglielmo-castelli/225792,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,7500.0,6250.0
+92cbdb4e-285f-42d1-9d0c-f23ee58bdd01,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 89,GBP,12000,18000,10965,9137.5,15188.09,22782.14,13878.12,11565.1,Anastasia Bay,<NA>,<NA>,The Good Thief,painting,acrylic and oil on canvas,<NA>,160,200,cm,yes,yes,yes,2020,"Nevven Gallery, Göteborg\\r\\nAcquired from the above by the present owner","figures, embrace, yellow background, blue arm, limbs, abstract shapes, human forms, outlines, movement",None,None,"acrylic and oil on canvas
+signed and dated 'Anastasia Bay 2020' on the reverse
+200 x 160 cm (78 3/4 x 62 7/8 in.)
+Painted in 2020, in Belgium.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226456_001.jpg,https://www.phillips.com/detail/anastasia-bay/226456,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,19800.0,16500.0
+d6349c4e-5933-4b4c-9646-2a550950c752,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 90,GBP,25000,35000,32250,26875.0,31641.86,44298.6,40818.0,34015.0,Daniel Richter,<NA>,<NA>,Ohne Titel (Regen),painting,oil on canvas,<NA>,45.5,55.5,cm,yes,yes,yes,2009,"GRIMM, Amsterdam\\r\\nAcquired from the above by the present owner","man, red cloak, guitar, cave, trees, forest, blue background, light, water, snow",None,None,"oil on canvas
+signed and dated 'Daniel Richter, 2009' on the reverse
+55.5 x 45.5 cm (21 7/8 x 17 7/8 in.)
+Painted in 2009, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226096_001.jpg,https://www.phillips.com/detail/daniel-richter/226096,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,38600.0,32166.666666666668
+3b2847c4-0818-4800-9249-bdad928500de,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 91,GBP,18000,25000,36120,30100.0,22782.14,31641.86,45716.16,38096.8,Friedrich Kunath,<NA>,<NA>,Not Today,painting,oil on canvas,<NA>,121.6,152.4,cm,yes,yes,yes,2018,"Blum \u0026 Poe Gallery, New York\\r\\nAcquired from the above by the present owner in 2018","door, figure, tree, rabbit, flowers, silhouettes, landscape, sky, clouds, text",None,None,"oil on canvas
+signed and dated 'Friedrich Kunath 2018' on the reverse
+152.4 x 121.6 cm (60 x 47 7/8 in.)
+Painted in 2018, in the United States.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/224847_001.jpg,https://www.phillips.com/detail/friedrich-kunath/224847,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,27250.0,22708.333333333336
+57c64880-96b0-4203-a0bb-d17828450d00,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 92,GBP,25000,35000,33540,27950.0,31641.86,44298.6,42450.72,35375.6,André Butzer,<NA>,<NA>,Untitled (1),painting,watercolour on paper,<NA>,149.4,226,cm,yes,yes,no,2003,"Galerie Max Hetzler, Berlin \\r\\nAcquired from the above by the present owner","figure, face, yellow circle, abstract, blue, red, black, green, body, hands",None,None,"watercolour on paper
+signed and dated 'A. Butzer '03' lower left
+226 x 149.4 cm (88 7/8 x 58 7/8 in.)
+Painted in 2003, in Germany. 
+The work is registered in the André Butzer Archive. We thank Mr Christian Malycha for the information he has kindly provided.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/226036_001.jpg,https://www.phillips.com/detail/andr%C3%A9-butzer/226036,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,38500.0,32083.333333333336
+619ddba4-53a3-49b4-b195-aebd8359d6d1,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 93,GBP,15000,20000,11610,9675.0,18985.12,25313.49,14694.48,12245.4,Takashi Murakami,<NA>,<NA>,Kinoko4,painting,acrylic on panel,<NA>,9.6,9.6,cm,yes,yes,yes,2002,Private Collection (acquired directly from the artist in the mid-2000s) \\r\\nAcquired from the above by the present owner,"cartoon character, round face, pink eyes, yellow skin, green leaves, circular shape",None,None,"acrylic on panel
+signed and dated 'TAKASHI 02' on the reverse
+9.6 x 9.6 cm (3 3/4 x 3 3/4 in.)
+Painted in 2002, in Japan.
+©2002 Takashi Murakami/Kaikai Kiki Co., Ltd. All Rights Reserved.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225304_001.jpg,https://www.phillips.com/detail/takashi-murakami/225304,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+f1a46a9b-938b-4a1f-a102-af0d8c3ef47f,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 94,GBP,20000,30000,15480,12900.0,25313.49,37970.23,19592.64,16327.2,Louise Bonnet,<NA>,<NA>,Untitled,drawing,coloured pencil on paper,<NA>,48,60.7,cm,yes,yes,no,2019,"Nino Mier Gallery, Los Angeles \\r\\nAcquired from the above by the present owner","woman, figure, nude, brown background, light hair, breast, torso, shapely body, curvy, pink skin",None,None,"coloured pencil on paper
+signed with the artist's initials and dated 'LB 19' on the reverse
+60.7 x 48 cm (23 7/8 x 18 7/8 in.)
+Executed in 2019, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223707_001.jpg,https://www.phillips.com/detail/louise-bonnet/223707,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,31600.0,26333.333333333336
+b4b07954-eef8-4036-9c55-d26942135948,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 95,GBP,10000,15000,24510,20425.0,12656.74,18985.12,31021.68,25851.4,Paula Rego,<NA>,<NA>,The Foxes,drawing,ink with sepia wash on paper,<NA>,28.9,28.2,cm,yes,yes,yes,1987,"Private Collection (gifted by the artist)\\r\\nJulian Page, Ltd, London\\r\\nAcquired from the above by the present owner in 2022","man, sitting, animal masks, fox, woman, dress, groom, chair",None,None,"ink with sepia wash on paper
+signed and dated 'Paula Rego 87' lower right
+28.2 x 28.9 cm (11 1/8 x 11 3/8 in.)
+Executed in 1987, in the United Kingdom.
+This work is included in the Digital Paula Rego Catalogue Raisonné under number CRX.3107.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225580_001.jpg,https://www.phillips.com/detail/paula-rego/225580,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,17850.0,14875.0
+8d4ea8cf-bb76-480a-9a36-3ad0e2bf6486,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 96,GBP,2000,3000,1935,1612.5,2531.35,3797.02,2449.08,2040.9,Caroline Walker,<NA>,<NA>,Untitled,drawing,graphite on paper,<NA>,41.9,29.7,cm,no,yes,no,2009,Acquired directly from the artist by the present owner,"woman, sofa, lamp, chair, room, glasses, cat, sleeping, textiles, artwork",None,None,"graphite on paper
+29.7 x 41.9 cm (11 3/4 x 16 1/2 in.)
+Executed in 2009, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223908_001.jpg,https://www.phillips.com/detail/caroline-walker/223908,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+1fad5473-c682-40d7-aee2-9b6ecbd7d8ae,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 97,GBP,20000,30000,33540,27950.0,25313.49,37970.23,42450.72,35375.6,Chantal Joffe,<NA>,<NA>,Self-Portrait in Striped Trousers,painting,oil on canvas,<NA>,152.4,213.4,cm,yes,yes,yes,2015,"Cheim \u0026 Read, New York \\r\\nVictoria Miro, London\\r\\nAcquired from the above by the present owner","woman, torso, painting, hands, necklace, textured background, expression, skin tone, abstract colors, standing pose",None,None,"oil on canvas
+signed and dated 'Chantal Joffe 2015' on the stretcher
+213.4 x 152.4 cm (84 x 60 in.)
+Painted in 2015, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225577_001.jpg,https://www.phillips.com/detail/chantal-joffe/225577,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,34500.0,28750.0
+746e75f2-63bf-45e9-a544-a9837403dbc2,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 98,GBP,15000,20000,54180,45150.0,18985.12,25313.49,68574.24,57145.2,Billy Childish,<NA>,<NA>,Man Howling to Wolves,painting,oil and charcoal on linen,<NA>,182.8,152.4,cm,yes,yes,yes,2015,"Lehmann Maupin, London\\r\\nAcquired from the above by the present owner","snow, trees, landscape, rocks, blue sky, pine trees, hill, wilderness, nature",None,None,"oil and charcoal on linen
+signed with the artist's monogram and dated '15' lower left
+152.4 x 182.8 cm (60 x 71 7/8 in.)
+Executed in 2015, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225578_001.jpg,https://www.phillips.com/detail/billy-childish/225578,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+cd127480-6550-400b-a25d-028437d1666d,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 99,GBP,20000,30000,23220,19350.0,25313.49,37970.23,29388.96,24490.8,Nick Goss,<NA>,<NA>,Tabernacle,painting,oil and pigment on linen,<NA>,180,230,cm,yes,yes,yes,2018,"Simon Preston Gallery, New York\\r\\nAcquired from the above by the present owner in December 2018","doors, blue buildings, green door, patterns, shadows, plants, abstract shapes, urban scene, alleyway, red walls",None,None,"oil and pigment on linen
+signed, titled and dated 'Tabernacle 2018 Nick Goss' on the reverse
+230 x 180 cm (90 1/2 x 70 7/8 in.)
+Executed in 2018, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223004_001.jpg,https://www.phillips.com/detail/nick-goss/223004,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+3557e8f3-2218-42d1-bc77-38cb0acbdbc3,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 100,GBP,15000,20000,20640,17200.0,18985.12,25313.49,26123.52,21769.6,Shaquelle Whyte,<NA>,<NA>,Wataya’s Back But The Umbrella Is Missing,painting,oil on canvas,<NA>,159.9,179.9,cm,yes,yes,yes,2022,Acquired directly from the artist by the present owner,"man, staircase, cat, legs, yellow, sitting, bare feet, clothing, indoors, lounging",None,None,"oil on canvas
+signed, titled, inscribed and dated 'Shaquelle Whyte Wataya’s Back But The Umbrella Is Missing Age 22 2022' on the reverse
+179.9 x 159.9 cm (70 7/8 x 62 7/8 in.)
+Painted in 2022, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/224845_001.jpg,https://www.phillips.com/detail/shaquelle-whyte/224845,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+1e0f6a39-9d2b-4721-add6-1e1f8fbaa48c,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 101,GBP,35000,45000,45150,37625.0,44298.6,56955.35,57145.2,47621.0,Damien Hirst,<NA>,<NA>,Glowing Blossom,painting,"oil on card laid down on birch ply frames, with canvas webbing around the edges",<NA>,42.1,59.6,cm,yes,yes,yes,2021,"Heni Gallery, London\\r\\nAcquired from the above by the present owner","cherry blossoms, branches, leaves, blue sky, pink flowers, yellow flowers, purple flowers, white flowers, orange flowers, brown bark",None,None,"oil on card laid down on birch ply frames, with canvas webbing around the edges
+signed, titled and dated ''Glowing Blossom' Damien Hirst 2021' on the reverse
+59.6 x 42.1 cm (23 1/2 x 16 5/8 in.)
+Painted in 2021, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223491_001.jpg,https://www.phillips.com/detail/damien-hirst/223491,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,51200.0,42666.66666666667
+171723aa-36c4-4a9c-b55f-092b52251ab6,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 102,GBP,12000,18000,41280,34400.0,15188.09,22782.14,52247.04,43539.2,Brian Calvin,<NA>,<NA>,Moving Forward,painting,acrylic on canvas,<NA>,142.2,177.8,cm,yes,yes,yes,2023,"Almine Rech, Shanghai\\r\\nAcquired from the above by the present owner","face, eyes, lips, hair, patterns, colors, shapes, portrait, abstract, geometric",None,None,"acrylic on canvas
+signed, titled and dated '""MOVING FORWARD"" Brian Calvin 2023' on the reverse
+177.8 x 142.2 cm (70 x 55 7/8 in.)
+Painted in 2023, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225562_001.jpg,https://www.phillips.com/detail/brian-calvin/225562,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,18900.0,15750.0
+f1ccc5eb-2953-4937-a358-ad18d5b35c5f,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 103,GBP,10000,15000,19350,16125.0,12656.74,18985.12,24490.8,20409.0,Joseph Yaeger,<NA>,<NA>,Hard out there for autocrats,painting,watercolour on gessoed canvas,<NA>,51.1,66.6,cm,no,yes,yes,2019,Acquired directly from the artist by the present owner,"man, crown, blue veil, tears, facial expression, portrait, king, headdress, blue background, emotions",None,None,"watercolour on gessoed canvas
+66.6 x 51.1 cm (26 1/4 x 20 1/8 in.)
+Executed in 2019, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/220502_001.jpg,https://www.phillips.com/detail/joseph-yaeger/220502,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,15800.0,13166.666666666668
+f5fc9b5c-1984-4c50-8bbd-2c30ad62ab20,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 104,GBP,15000,20000,18060,15050.0,18985.12,25313.49,22858.08,19048.4,Genieve Figgis,<NA>,<NA>,Marie Antoinette,painting,acrylic on canvas,<NA>,59.8,79.7,cm,yes,yes,yes,2022,"Transition Gallery, London\\r\\nPrivate Collection (acquired from the above in 2014) \\r\\nAcquired from the above by the present owner in 2022","woman, blonde hair, face, makeup, pink, red, abstract, portrait, stylized, textured",None,None,"acrylic on canvas
+signed and dated 'Genieve Figgis 2022' on the reverse
+79.7 x 59.8 cm (31 3/8 x 23 1/2 in.)
+Painted in 2022, in Ireland.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225579_001.jpg,https://www.phillips.com/detail/genieve-figgis/225579,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+eef33ba0-fec4-4450-80bc-ce22313527ec,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 105,GBP,3000,5000,7740,6450.0,3797.02,6328.37,9796.32,8163.6,Sarah Miska,<NA>,<NA>,Rider with Pink Bow,painting,acrylic on canvas,<NA>,28.1,35.4,cm,yes,yes,yes,2021,"Night Gallery, Los Angeles \\r\\nAcquired from the above by the present owner","hair, bow, collar, shirt, green, red, pink, pattern, woman, back",None,None,"acrylic on canvas
+signed with the artist's initials, titled and dated 'SM21 Rider with Pink Bow' on the reverse
+35.4 x 28.1 cm (13 7/8 x 11 1/8 in.)
+Painted in 2021, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/220503_001.jpg,https://www.phillips.com/detail/sarah-miska/220503,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+82466944-dcfb-4605-a76c-8e97a1cd6a07,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 106,GBP,18000,20000,21930,18275.0,22782.14,25313.49,27756.24,23130.2,Katherine Bradford,<NA>,<NA>,Wander into Blue Stripes,painting,acrylic on canvas,<NA>,76.2,101.6,cm,yes,yes,yes,2020,"Haverkampf Leistenschneider, Berlin\\r\\nAcquired from the above by the present owner","woman, black dress, painting, figures, background, abstract, standing, colors, haze, separation",None,None,"acrylic on canvas
+signed and dated 'K Bradford 2020' on the reverse
+101.6 x 76.2 cm (40 x 30 in.)
+Painted in 2020, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/222675_001.jpg,https://www.phillips.com/detail/katherine-bradford/222675,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,24000.0,20000.0
+4cfc6954-3d22-4976-8e39-c795fba64b84,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 107,GBP,12000,18000,14190,11825.0,15188.09,22782.14,17959.92,14966.6,Oli Epp,<NA>,<NA>,Neighbourhood Watch,painting,"oil, acrylic and spray paint on canvas",<NA>,160,180.6,cm,yes,yes,yes,2018,Acquired directly from the artist by the present owner,"binoculars, moon, branches, trees, stars, sky, planets, abstract, colors, shapes",None,None,"oil, acrylic and spray paint on canvas
+signed and dated 'Oli Epp 2018' on the reverse
+180.6 x 160 cm (71 1/8 x 62 7/8 in.)
+Executed in 2018, in the United Kingdom.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225434_001.jpg,https://www.phillips.com/detail/oli-epp/225434,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,19800.0,16500.0
+bb04ba3e-da8a-4b60-9c05-877b61b35494,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 108,GBP,40000,60000,38700,32250.0,50626.98,75940.46,48981.6,40818.0,Robert Combas,<NA>,<NA>,Il a l’âge. Il est chaud. Il n'y a plus d'Hoss que dessous la peau et les Muscles. La Partie en Tok Toromachique Triple Busier des TROIS. C'est des Koneries,painting,acrylic on African fabric laid down on canvas,<NA>,119,235,cm,yes,yes,yes,1989,"Christine Le Chanjour Collection, Villefranche-sur-Mer\\r\\nPrivate Collection, France\\r\\nAcquired from the above by the present owner","man, woman, child, hands, faces, abstract patterns, birds, color contrasts, figures, emotions",None,None,"acrylic on African fabric laid down on canvas
+signed 'Combas' lower right
+235 x 119 cm (92 1/2 x 46 7/8 in.)
+Executed circa 1989, in France.
+The Robert Combas Archives have confirmed that this work is included in their archive database under number 6184.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/225668_001.jpg,https://www.phillips.com/detail/robert-combas/225668,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,68250.0,56875.0
+b7c4732c-bfd0-48f8-9241-ac5f75af9283,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 109,GBP,20000,30000,28380,23650.0,25313.49,37970.23,35919.84,29933.2,Secundino Hernández,<NA>,<NA>,Untitled,painting,acrylic on canvas,<NA>,200.9,241.4,cm,yes,yes,no,2017,"Victoria Miro Gallery, London \\r\\nPrivate Collection \\r\\nPhillips, London, 5 December 2018, lot 19\\r\\nAcquired at the above sale by the present owner","flowers, stems, abstract, circles, blue, black, white, landscape, textured, lines",None,None,"acrylic on canvas, in artist's frame
+signed and dated 'Secundino Hernández . 17' on the reverse
+241.4 x 200.9 cm (95 x 79 1/8 in.)
+Painted in 2017, in Spain.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/224844_001.jpg,https://www.phillips.com/detail/secundino-hern%C3%A1ndez/224844,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+489ffbe2-bf01-4fa1-b390-e4d1dbd6c5d6,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 110,GBP,20000,30000,64500,53750.0,25313.49,37970.23,81636.0,68030.0,Richard Hambleton,<NA>,<NA>,Standing Shadow with Orange,painting,acrylic on canvas laid down on board,<NA>,76,203,cm,yes,yes,yes,2009,Private Collection (acquired directly from the artist)\\r\\nAcquired from the above by the present owner in 2023,"man, silhouette, abstract, red, black, grey, drips, texture, spray, shadows",None,None,"acrylic on canvas laid down on board
+signed and dated 'R. Hambleton 09' on the reverse; signed and dated 'R.Hambleton 09' on the overlap
+203 x 76 cm (79 7/8 x 29 7/8 in.)
+Painted in 2009, in the United States of America.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/220567_001.jpg,https://www.phillips.com/detail/richard-hambleton/220567,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+df16926d-e6b8-456a-ba90-e589bb49a8ad,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 111,GBP,18000,25000,28380,23650.0,22782.14,31641.86,35919.84,29933.2,Larry Rivers,<NA>,<NA>,Parts of the Face: French Vocabulary Lesson,mixed media,oil on board relief,<NA>,28.7,28.7,cm,yes,yes,yes,1965,"Franklin Siden Gallery Inc., Detroit\\r\\nMiles and Shirley Fiterman Collection, USA \\r\\nPhillips, New York, 24 September 2019, lot 49 \\r\\nAcquired at the above sale by the present owner","portrait, face, hair, yellow, green, blue, text, features, paint, abstract",None,None,"oil on board relief
+signed 'Rivers' lower right
+28.7 x 28.7 cm (11 1/4 x 11 1/4 in.)
+Executed in 1965, in the United States.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/223254_001.jpg,https://www.phillips.com/detail/larry-rivers/223254,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,29250.0,24375.0
+7bd32704-60a5-4d7b-9bb6-2dd86a7b6ff8,Art,Phillips,UK010625,2025-10-18,London,Modern & Contemporary Art Day Sale,https://www.phillips.com/auction/UK010625,Lot 112,GBP,10000,15000,12900,10750.0,12656.74,18985.12,16327.2,13606.0,Thierry Noir,<NA>,<NA>,Manifest for always being attractively and superbly clothed,painting,acrylic on canvas,<NA>,180,180,cm,yes,yes,yes,2023,Private Collection,"faces, abstract, orange, pink, line art, expressions, geometric, shapes, profiles, crowd",None,None,"acrylic on canvas
+signed 'NOIR' lower right; signed, titled and dated 'THIERRY NOIR 28 AUGUST 2023 MANIFEST FOR ALWAYS BEING ATTRACTIVELY AND SUPERBLY CLOTHED' on the stretcher
+180 x 180 cm (70 7/8 x 70 7/8 in.)
+Painted in 2023, in Germany.
+Priority Bidding is here! Secure a lower Buyer's Premium.",https://assets.phillips.com/auctions/UK010625/220939_001.jpg,https://www.phillips.com/detail/thierry-noir/220939,6851.97,None,47336.68,17.17,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0

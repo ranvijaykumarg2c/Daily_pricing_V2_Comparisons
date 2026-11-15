@@ -1,0 +1,1013 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+9b0fd851-fab5-4af5-a972-da3ef47d937f,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 1,GBP,30000,50000,None,None,38468.22,64113.7,None,None,JOAN MIRÓ,1893,1983,Équinoxe,prints,"etching, aquatint and carborundum in colours, Mandeure rag paper",<NA>,738,1043,mm,yes,yes,yes,1967,"Christie's, New York, 2-3 November 1999, lot 505.
+With Galerie Maximillian, Aspen.
+Acquired from the above by the present owner.","abstract shapes, colors, stars, sun, red, black, green, blue, yellow, lines",1,074/75,"JOAN MIRÓ (1893-1983)
+Équinoxe
+etching, aquatint and carborundum in colours, 1967, on Mandeure rag paper, signed in pencil, numbered 74/75 (there were also some 
+hors commerce 
+impressions), published by Maeght, Paris
+Image & Sheet 1043 x 738 mm.
+
+Edition: 074/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0001_000(joan_miro_equinoxe024031).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-1/292461?ldp_breadcrumb=back,None,None,None,None,None,None,None,2026-03,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,48600.58,40500.48333333334
+bb805d1d-0ab9-46db-85fa-190237c4bf4c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 2,GBP,40000,60000,None,None,51290.96,76936.44,None,None,JOAN MIRÓ,1893,1983,Gargantua,prints,"etching, aquatint and carborundum in colours",<NA>,1200,1593,mm,yes,yes,yes,1977,Dupin 972,"abstract forms, colorful shapes, red, blue, green, black, yellow, circular patterns, lines, modern art, etching",1,024/50,"JOAN MIRÓ (1893-1983)
+Gargantua
+etching, aquatint and carborundum in colours, 1977, on wove paper, watermark 
+MAEGHT
+, signed in white crayon, numbered 24/50 (there were also 14 
+hors commerce 
+impressions), published by Maeght, Paris
+Image & Sheet 1593 x 1200 mm.
+
+Edition: 024/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0002_000(joan_miro_gargantua024047).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-2/292462?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,102000.0,85000.0
+ddb798e2-0297-4c20-bab8-98f0e34171c5,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 3,GBP,6000,8000,None,None,7693.64,10258.19,None,None,JOAN MIRÓ,1893,1983,Prise à l'hameçon,prints,"etching, aquatint and carborundum in colours",<NA>,678,1060,mm,yes,yes,yes,1969,Dupin 515,"abstract forms, colors, dots, lines, shapes, composition, black, red, green, blue, yellow",1,<NA>,"JOAN MIRÓ (1893-1983)
+Prise à l'hameçon
+etching, aquatint and carborundum in colours, 1969, on Arches wove paper, signed in pencil, inscribed 
+HC.
+, a 
+hors commerce 
+impression aside from the edition of 75, published by Maeght, Paris
+Plate 990 x 595 mm.
+Sheet 1060 x 678 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0003_000(joan_miro_prise_a_lhamecon024100).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-3/292463?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10395.69,8663.075
+e8f1442a-908f-42ef-aba4-6df4ad67d7dc,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 4,GBP,15000,20000,None,None,19234.11,25645.48,None,None,JOAN MIRÓ,1893,1983,Le Cracheur de Flammes,prints,"etching, aquatint and carborundum in colours",<NA>,740,1135,mm,yes,yes,yes,1974,Dupin 650,"abstract shapes, black forms, orange background, colored spots, dotted patterns",1,002/75,"JOAN MIRÓ (1893-1983)
+Le Cracheur de Flammes
+etching, aquatint and carborundum in colours, 1974, on wove paper, watermark 
+MAEGHT
+, signed in pencil, numbered 2/75, published by Maeght, Paris
+Image & Sheet 1135 x 740 mm.
+
+Edition: 002/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0004_000(joan_miro_le_cracheur_de_flammes024111).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-4/292464?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,24252.8,20210.666666666668
+ec92da6c-0b80-4014-b62c-0ab3c2b667a5,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 5,GBP,75000,100000,None,None,96170.55,128227.4,None,None,PABLO PICASSO,1881,1973,Figure au corsage rayé,prints,"lithograph in colours, on wove paper",<NA>,498,651,mm,yes,yes,yes,1949,Bloch 604; Mourlot 179,"figure, face, green, red, yellow, black, stripes, background, lines, patterns",1,038/50,"Figure au corsage rayé
+lithograph in colours, 1949, on wove paper, signed in pencil, numbered 38/50
+Image & Sheet 651 x 498 mm.
+
+Edition: 038/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0005_000(pablo_picasso_figure_au_corsage_raye024123).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-5/292465?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,105670.8,88059.0
+9f4230c0-09b6-4a2c-bf7d-9f23ecf4d143,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 6,GBP,10000,15000,None,None,12822.74,19234.11,None,None,HENRI MATISSE,1869,1954,Le renard blanc,prints,"lithograph, wove paper",<NA>,368,515,mm,yes,yes,yes,1929,Duthuit 514,"fox, woman, fur, jewelry, pearls, portrait, clothing, arms crossed, black and white, expressions",1,045/75,"Le renard blanc
+lithograph, 1929, on wove paper, signed in pencil, numbered 45/75 (there were also ten artist's proofs)
+Image 515 x 368 mm.
+Sheet 587 x 436 mm.
+
+Edition: 045/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0006_000(henri_matisse_le_renard_blanc024136).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-6/292467?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,16215.62,13513.016666666668
+3ffec6b8-b83a-443e-a139-48db39f6d212,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 7,GBP,20000,30000,None,None,25645.48,38468.22,None,None,PABLO PICASSO,1881,1973,Visage de Marie-Thérèse,prints,"lithograph, Japon paper",<NA>,140,206,mm,yes,yes,yes,1928,Bloch 95; Mourlot 23; see Cramer books 16,"face, portrait, lithograph, Marie-Thérèse, eye, cheek, profile, texture, Japon paper, black and white",1,143/200,"Visage de Marie-Thérèse
+lithograph, 1928, on 
+Japon 
+paper, signed in pencil, numbered 143/200 (there were a further 75 on this paper and 25 on 
+chine collé
+); with the accompanying book, A. Level, 
+Picasso, 
+G. Crès et Cie, Paris, 1928
+Image 206 x 140 mm.
+Sheet 264 x 191 mm.
+
+Edition: 143/200",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0007_000(pablo_picasso_visage_de_marie-therese024151).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-7/292466?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,27591.48,22992.9
+fc6197c4-316c-472e-8175-f23786cace70,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 8,GBP,60000,80000,None,None,76936.44,102581.92,None,None,PABLO PICASSO,1881,1973,Le repas frugal,prints,"etching and drypoint, Van Gelder wove paper",<NA>,505,658,mm,no,yes,yes,1904,"Kurt Sponagel-Hirzel (1887-1961), Zurich (Lugt 2929a).","man, woman, bottle, glass, plate, table, cloth, hands, food, portrait",1,<NA>,"Le repas frugal
+etching and drypoint, 1904, on Van Gelder wove paper, a very good impression of the second, final state, after steel-facing, from the edition of 250 on this paper (there were also 27 or 29 impressions on 
+Japon 
+paper), published by Ambroise Vollard, Paris, 1913
+Plate 462 x 375 mm.
+Sheet 658 x 505 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0008_000(pablo_picasso_le_repas_frugal_d6577843060525).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-8/292468?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,103497.8,86248.16666666667
+2114e12c-e56d-4029-b696-fd68e7b27276,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 9,GBP,100000,150000,None,None,128227.4,192341.09,None,None,EDGAR DEGAS,1834,1917,"Manet assis, tourné à droit",prints,"etching and drypoint, on wove paper",<NA>,221,310,mm,no,yes,yes,1864,"The artist's estate, with the red Atelier stamp 
+verso 
+(Lugt 657); his posthumous sale, Paris (experts Delteil, Bernheim-Jeune, Durand-Ruel, Vollard), 22 November 1918, lot 96.
+Paul Prouté (1887-1981), Paris (Lugt 2103c); then by descent to the present owner.","man, seated, chair, beard, long hair, portrait, clothing, expression, arms, background",1,<NA>,"Manet assis, tourné à droit
+etching and drypoint, 1864, on wove paper, a very fine impression of Reed & Shapiro's extremely rare third state (of four), printing with strong contrasts and a light plate tone, with touches of burr
+Plate 195 x 125 mm.
+Sheet 310 x 221 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0009_000(edgar_degas_manet_assis_tourne_a_droit024158).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/edgar-degas-1834-1917-9/292469?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,162609.3,135507.75
+7a44ab17-5398-4926-a4d7-9d2862f27add,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 10,GBP,30000,50000,None,None,38468.22,64113.7,None,None,PAUL GAUGUIN,1848,1903,"Te Atua, from: NOA NOA",prints,"woodcut, tan wove paper, Japon paper support",<NA>,353,204,mm,no,yes,yes,1893,"Gustave Fayet (1865-1925), Béziers.","figures, woman, man, seated figure, trees, flowers, mountain, mouse, vegetation, landscape",1,<NA>,"Te Atua, from: NOA NOA
+woodcut, 
+circa 
+1893-1894, on tan wove paper, a fine impression of Kornfeld's very rare second state (of three), printing with great detail and clarity, probably printed by the artist, Paris, with narrow margins, laid on a 
+Japon 
+paper support
+Block 204 x 353 mm.
+Sheet 206 x 356 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0010_000(paul_gauguin_te_atua_from_noa_noa024212).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/paul-gauguin-1848-1903-10/292470?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,48668.22,40556.850000000006
+7499e5bc-d164-4a95-a252-3c31117dde93,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 11,GBP,7000,10000,None,None,8975.92,12822.74,None,None,PAUL GAUGUIN,1848,1903,"Mahna No Varua Ino, from: NOA NOA",prints,woodcut printed in ochre on Chine paper,<NA>,383,225,mm,no,yes,yes,1893,"Guérin 34; Mongan, Kornfeld & Joachim 19","figures, night, smoke, landscape, abstract shapes, light, ochre",1,<NA>,"Mahna No Varua Ino, from: NOA NOA
+woodcut printed in ochre, 1893-4, on 
+Chine 
+paper, Kornfeld's fourth, final state, an unrecorded proof, with selective burnishing in places, before the edition in black of one hundred printed and published posthumously by Pola Gauguin, Copenhagen, 1921, without the cracking to the block visible in this edition
+Block 203 x 355 mm. 
+Sheet 225 x 383 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0011_000(paul_gauguin_mahna_no_varua_ino_from_noa_noa024226).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/paul-gauguin-1848-1903-11/292471?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12900.69,10750.575
+adaa4ca0-70e6-4f37-b937-39970e0152da,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 12,GBP,110000,150000,None,None,141050.14,192341.09,None,None,EDVARD MUNCH,1863,1944,Melancholy III,prints,"woodcut printed from two blocks in brown, pale ochre, bluish-grey and turquoise on blue-grey Japan paper",<NA>,655,473,mm,yes,yes,yes,1902,"With Commeter’sche Kunsthandlung, Hamburg.
+Peter Kölln (1864-1918), Elmshorn, Schleswig-Holstein; acquired from the above on 1 January 1917 (224 RM); then by descent.
+Kornfeld, Bern, 14 June 2013, lot 113.
+Private collection, Germany; acquired at the above sale.
+Christie's, New York, 23 October 2019, lot 57.
+Acquired from the above sale; then by descent.","man, sitting, landscape, water, boat, hills, sky, melancholic, brown, ochre",1,<NA>,"Melancholy III
+woodcut printed from two blocks in brown, pale ochre, bluish-grey and turquoise, 1902, on blue-grey Japan paper, signed in pencil, a very good, rich impression of Schiefler's second, final state, Woll's third, final state, colour variant four, printed by the artist or Nielsen in 1915-17
+Block 376 x 469 mm.
+Sheet 473 x 655 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0012_000(edvard_munch_melancholy_iii011713).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/edvard-munch-1863-1944-12/292472?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,162000.69,135000.575
+1f892af6-4449-4602-8e5e-13083ffff335,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 13,GBP,70000,100000,None,None,89759.18,128227.4,None,None,HENRI DE TOULOUSE-LAUTREC,1864,1901,La Danse au Moulin Rouge,prints,"lithograph in colours, Chine paper",<NA>,347,418,mm,yes,yes,yes,1897,"Paul Prouté (1887-1981), Paris (Lugt 2103c).","dancers, Moulin Rouge, women, men, colorful, dance, hats, dresses, background figures, couples",1,<NA>,"La Danse au Moulin Rouge
+lithograph in colours, 1897, on white 
+Chine 
+paper, a very fine impression of this rare print, the colours exceptionally vivid and fresh, signed in pencil, numbered 
+n. 19
+, from an edition of twenty published by Gustave Pellet, Paris, with his monogram ink stamp (Lugt 1190)
+Image & Sheet 418 x 347 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0013_000(henri_de_toulouse-lautrec_la_danse_au_moulin_rouge024255).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-de-toulouse-lautrec-1864-1901-13/292473?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,129000.0,107500.0
+534f1562-63d2-4aeb-9a64-c5f82dbc31bc,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 14,GBP,5000,7000,None,None,6411.37,8975.92,None,None,HENRI MATISSE,1869,1954,Liseuse au bouquet de roses,prints,"lithograph, laid Chine paper",<NA>,241,152,mm,yes,yes,yes,1925,"R. S. Johnson-International Gallery, Chicago (their label 
+verso
+).","woman, reading, book, vase, roses, table, floral patterns, hair, room, still life",1,021/50,"Liseuse au bouquet de roses
+lithograph, 1925, on laid 
+Chine 
+paper, signed in pencil, numbered 21/50 (there were also ten artist's proofs)
+Image 152 x 241 mm.
+Sheet 289 x 389 mm.
+
+Edition: 021/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0014_000(henri_matisse_liseuse_au_bouquet_de_roses024303).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-14/292474?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10395.45,8662.875000000002
+0c7323c8-21ec-447f-bf0e-ef88c9aae87a,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 15,GBP,6000,8000,None,None,7693.64,10258.19,None,None,HENRI MATISSE,1869,1954,Jeune fille assise au bouquet de fleurs,prints,"lithograph, simili-japon paper",<NA>,191,275,mm,yes,yes,yes,1923,"With Pace Prints, New York (their label 
+verso
+).","girl, flowers, vase, seated, striped background, portrait, lithograph, pencil signature, inscribed, 1923",1,<NA>,"Jeune fille assise au bouquet de fleurs
+lithograph, 1923, on 
+simili-japon 
+paper, signed in pencil, inscribed '
+Essai
+', one of five proofs aside from the edition of sixty
+Image 275 x 191 mm.
+Sheet 438 x 282 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0015_000(henri_matisse_jeune_fille_assise_au_bouquet_de_fleurs024316).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-15/292475?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10501.35,8751.125
+528b7fe6-106b-4e91-9096-d9b508708592,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 17,GBP,6000,8000,None,None,7693.64,10258.19,None,None,HENRI MATISSE,1869,1954,Danseuse reflétée dans la glace,prints,"lithograph, Chine paper",<NA>,274,397,mm,yes,yes,yes,1927,Duthuit 490,"dancer, mirror, ballet costume, flowers, reflection, room, standing figure, lace, shoes, hairstyle",1,011/50,"Danseuse reflétée dans la glace
+lithograph, 1927, on 
+Chine 
+paper, signed in pencil, numbered 11
+/ 
+50 (there were also ten artist's proofs)
+Image 397 x 274 mm. 
+Sheet 502 × 262 mm.
+
+Edition: 011/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0017_000(henri_matisse_danseuse_refletee_dans_la_glace024347).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-17/292477?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10395.69,8663.075
+43057a09-923b-40a4-b1b9-a101d915a402,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 18,GBP,50000,80000,None,None,64113.7,102581.92,None,None,PABLO PICASSO,1881,1973,"Faune dévoilant une femme, from: La Suite Vollard",prints,etching and aquatint on Montval laid paper,<NA>,509,385,mm,yes,yes,yes,1936,Bloch 230; Baer 609,"male figure, woman, drapery, interior, mythological theme, shadow, floral patterns, reclining figure, sheet, etching",1,<NA>,"Faune dévoilant une femme, from: La Suite Vollard
+etching and aquatint, 1936, on Montval laid paper, signed in pencil, from the edition of fifty with wide margins (there was also an edition of 260 with smaller margins), published by Ambroise Vollard, Paris, 1939
+Plate 317 x 417 mm.
+Sheet 385 x 509 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0018_000(pablo_picasso_faune_devoilant_une_femme_from_la_suite_vollard100009).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-18/292478?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,103497.8,86248.16666666667
+6fed128b-904e-428d-abcd-fe275b564e72,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 19,GBP,20000,30000,None,None,25645.48,38468.22,None,None,PABLO PICASSO,1881,1973,L'Italienne,prints,"offset photo-lithograph with lithograph, Arches wove paper",<NA>,380,445,mm,yes,yes,yes,1953,Bloch 740; Mourlot 238,"woman, figure, music, horns, drapery, portrait, background figures, classical art, attire, expression",1,041/50,"L'Italienne
+offset photo-lithograph with lithograph, 1953, on Arches wove paper, second, final state, signed in pencil, numbered 41/50
+Image 445 x 380 mm.
+Sheet 660 x 500 mm.
+
+Edition: 041/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0019_000(pablo_picasso_litalienne111012).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-19/292479?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,27591.48,22992.9
+2f7f6365-103f-438c-a074-7cc5b2a163bc,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 20,GBP,7000,10000,None,None,8975.92,12822.74,None,None,LOUIS MARCOUSSIS,1878,1941,Portrait de Guillaume Apollinaire,prints,"etching, aquatint and drypoint in bistre",<NA>,370,570,mm,yes,yes,yes,1912,Milet 33,"portrait, man, face, etching, aquatint, drypoint, bistre, paper, signed, dedication",1,<NA>,"Portrait de Guillaume Apollinaire
+etching, aquatint and drypoint in bistre, 1912-20, on laid paper, a fine impression of the sixth, final state, after the removal of the publisher's address, signed and dedicated 
+'A mon chèr Leonardi/ tres affectueusement/ Marcoussis' 
+in pencil, erroneously inscribed 
+'5e état' 
+by the artist, a proof aside from the edition of thirty comprising ten impressions of the 5th, and twenty of the 6th state
+Plate 497 x 277 mm.
+Sheet 570 x 370 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0020_000(louis_marcoussis_portrait_de_guillaume_apollinaire024408).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/louis-marcoussis-1878-1941-20/292480?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12900.69,10750.575
+ac9845f7-40ca-41ae-8ce6-710f5a405e53,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 21,GBP,15000,20000,None,None,19234.11,25645.48,None,None,JOAN MIRÓ,1893,1983,Les Perseides,prints,wove paper,<NA>,67,660,mm,yes,yes,yes,1970,Mourlot 656-660,"abstract shapes, colors, lines, dots, patterns",5,065/75,"JOAN MIRÓ (1893-1983)
+Les Perseides
+the complete set of five lithographs in colours, 1970, on wove paper, watermark 
+LB, 
+each signed in pencil, numbered 65/75, published by Louis Broder, Paris
+Image & Sheet 660-67 x 510 mm.
+
+Edition: 065/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0021_000(joan_miro_les_perseides024422).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-21/292481?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,24300.48,20250.4
+6bf35670-4460-4e2c-84bc-cee1c6b01b80,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 22,GBP,6000,8000,None,None,7693.64,10258.19,None,None,JOAN MIRÓ,1893,1983,Tracé sur la Paroi II,prints,"etching, aquatint and carborundum in colours",<NA>,1044,743,mm,yes,yes,yes,1967,"Property of the Standard Club of Chicago
+, Sotheby's, New York, 9-23 October 2020, lot 177.
+Acquired from the above by the present owner.","black lines, colored dots, abstract shapes, texture, geometric forms, calligraphic elements",1,021/75,"JOAN MIRÓ (1893-1983)
+Tracé sur la Paroi II
+etching, aquatint and carborundum in colours, 1967, on Mandeure wove paper, signed in pencil, numbered 21/75, published by Maeght, Paris
+Plate 585 x 925 mm.
+Sheet 743 x 1044 mm.
+
+Edition: 021/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0022_000(joan_miro_trace_sur_la_paroi_ii024547).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-22/292482?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.69,8583.908333333335
+6c126302-5eab-4d08-b6c8-0669f07b10d4,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 23,GBP,6000,8000,None,None,7693.64,10258.19,None,None,JOAN MIRÓ,1893,1983,Tracé sur la Paroi III,prints,"etching, aquatint and carborundum in colours, Mandeure wove paper",<NA>,1045,740,mm,yes,yes,yes,1967,Dupin 442,"abstract shapes, colorful dots, black lines, etching, aquatint, carborundum, textured background, playful forms, vibrant colors",1,024/75,"JOAN MIRÓ (1893-1983)
+Tracé sur la Paroi III
+etching, aquatint and carborundum in colours, 1967, on Mandeure wove paper, signed in pencil, numbered 24/75, published by Maeght, Paris
+Plate 585 x 925 mm.
+Sheet 740 x 1045 mm.
+
+Edition: 024/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0023_000(joan_miro_trace_sur_la_paroi_iii024602).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-23/292484?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.69,8583.908333333335
+f7851b11-a402-44ef-9e20-8f275b15b40c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 24,GBP,18000,25000,None,None,23080.93,32056.85,None,None,MARC CHAGALL,1887,1985,"Enlèvement de Chloé, from: Daphnis et Chloé",prints,"lithograph in colours, Arches wove paper",<NA>,639,420,mm,yes,yes,yes,1962,Mourlot 327; see Cramer Books 46,"figures, horses, animals, dancers, colors, landscape, silhouettes, water, sheep, trees",1,031/60,"Enlèvement de Chloé, from: Daphnis et Chloé
+lithograph in colours, 1962, on Arches wove paper, signed in pencil, numbered 31/60, from the numbered edition of sixty with wide margins (there was also an unsigned edition of 250 without margins)
+Image 420 x 639 mm.
+Sheet 538 x 757 mm.
+
+Edition: 031/60",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0024_000(marc_chagall_enlevement_de_chloe_from_daphnis_et_chloe024619).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/marc-chagall-1887-1985-24/292483?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,27550.69,22958.908333333333
+d07e705d-9bd7-40ab-8c94-1c2ec5d2c689,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 25,GBP,22000,30000,None,None,28210.03,38468.22,None,None,DAVID HOCKNEY,1937,<NA>,Artist and Model,prints,"etching and aquatint, wove paper",<NA>,565,754,mm,yes,yes,yes,1974,"Piero Crommelynck (1934-2001), Paris; the printer, presumably a gift from the artist.
+Then by descent. 
+Acquired from the above by the present owner.","man, woman, table, window, chair, curtains, still life, portrait, etching, aquatint",1,<NA>,"Artist and Model
+etching and aquatint, 1974, on wove paper, signed, dated, dedicated and inscribe 
+A. P. for Piero 
+in pencil, an artist's proof aside from the numbered edition of one hundred, published by Petersburg Press, London, printed by Atelier Crommelynck, Paris, with their blindstamp
+Plate 576 x 442 mm.
+Sheet 754 x 565 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0025_000(david_hockney_artist_and_model024635).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-25/292485?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,35400.6,29500.5
+7152e5ba-9ac0-4354-add4-7a8d418aa9c7,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 26,GBP,3000,5000,None,None,3846.82,6411.37,None,None,DAVID HOCKNEY,1937,<NA>,My Mother with a Parrot,prints,"etching with aquatint in colours printed from two plates, wove paper",<NA>,502,655,mm,yes,yes,yes,1974,A gift from the artist; then by descent.,"mother, parrot, etching, aquatint, portrait, colors, wove paper, 1974",1,<NA>,"My Mother with a Parrot
+etching with aquatint in colours printed from two plates, 1974, on wove paper, signed, dated and inscribed 
+AP XI 
+in pencil, one of 23 artist's proofs aside from the edition of one hundred, published by Petersburg Press, New York, printed by Atelier Crommelynk, Paris, with their blindstamp
+Image & Sheet 655 x 502 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0026_000(david_hockney_my_mother_with_a_parrot024645).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-26/292486?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+14b2bd45-6553-41f7-beb3-0104e7176e3b,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 27,GBP,15000,20000,None,None,19234.11,25645.48,None,None,DAVID HOCKNEY,1937,<NA>,Illustrations for Six Fairy Tales from the Brothers Grimm,prints,"Hodgkinson handmade wove paper, etchings, aquatint",47,322,475,mm,yes,yes,yes,1969,A gift from the artist; then by descent.,"king, landscape, tower, woman, flowers, window, chair, figures",39,<NA>,"Illustrations for Six Fairy Tales from the Brothers Grimm
+the complete book of 39 etchings, some with aquatint, 1969-70, on Hodgkinson handmade wove paper, watermark 
+DH PP
+, with title, text and justification, Edition C, signed in pencil on the justification, inscribed 
+Ed C Artist's proof III
+, one of 15 artist's proofs aside from the edition of one hundred, published by Petersburg Press, London, with the additional suite of six loose etchings, each signed in pencil 
+recto
+, inscribed 
+Grimm Ed. C. A.P. III 
+or 
+III A.P. 
+in sepia ink 
+verso
+, within the original blue calf binding, boards and slipcase
+Plates 442 x 308 mm. (and smaller)
+Sheets 448 x 310 mm. (and similar)
+475 x 322 x 47 mm. (slipcase)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0027_000(david_hockney_illustrations_for_six_fairy_tales_from_the_brothers_grim024657).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-27/292487?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,24252.8,20210.666666666668
+60bb2968-eed7-419a-aff3-0a9f1adeaccc,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 28,GBP,800,1200,None,None,1025.82,1538.73,None,None,DAVID HOCKNEY,1937,<NA>,autumn,prints,"lithograph in colours, thin wove paper",<NA>,180,242,mm,no,yes,yes,1957,A gift from the artist; then by descent.,"trees, autumn, leaves, forest, green, black ink, print, lithograph, book cover, Hockney",1,<NA>,"autumn
+lithograph in colours, 
+circa 
+1957, on thin wove paper, a rare impression of this early design for a book cover, bearing the inscription 
+Litho/Drawn by David Hockney/18 Hutton Terrace/Bradford 2/Yorkshire/1957 
+in black ink by another hand 
+verso, 
+printed at Bradford School of Art, Bradford
+Image 242 x 180 mm.
+Sheet 255 x 190 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0028_000(david_hockney_autumn024754).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-28/292488?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1620.06,1350.05
+800c792b-367c-4396-9cb2-79e01cc61a11,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 29,GBP,1200,1800,None,None,1538.73,2308.09,None,None,DAVID HOCKNEY,1937,<NA>,Two Peppers (A.P.),prints,"etching in colours, wove paper",<NA>,510,376,mm,yes,yes,yes,1973,A gift from the artist; then by descent.,"peppers, green pepper, red pepper, paper, blue shadow, textured background, 1973, inscription",1,<NA>,"Two Peppers
+etching in colours, 1973, on wove paper, signed, dated and dedicated in pencil, inscribed 
+A.P.
+, an artist's proof aside from the edition of one hundred, published by Petersburg Press, London
+Plate 248 x 388 mm.
+Sheet 376 x 510 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0029_000(david_hockney_two_peppers024834).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-29/292489?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1620.07,1350.0583333333334
+903b0b83-25f2-44c8-ab67-4bdf9edd38b5,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 30,GBP,6000,8000,None,None,7693.64,10258.19,None,None,DAVID HOCKNEY,1937,<NA>,Landscape with a Plant,prints,"laid paper, homemade print executed on an office colour copy machine",<NA>,430,278,mm,yes,yes,yes,1986,A gift from the artist; then by descent.,"landscape, plant, colors, shapes, green, red, blue, pink, grey, background",1,035/50,"Landscape with a Plant
+homemade print executed on an office colour copy machine, 1986, on laid paper, signed and dated in pencil, numbered 35/50, with the artist's blindstamp lower right, in the artist's original frame
+Image & Sheet 278 x 430 mm.
+
+Edition: 035/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0030_000(david_hockney_landscape_with_a_plant024847).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-30/292492?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10500.3,8750.25
+8b729283-0a0e-47b3-ac7c-775894758c9e,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 31,GBP,8000,12000,None,None,10258.19,15387.29,None,None,DAVID HOCKNEY,1937,<NA>,Dancing Flowers,prints,"laid paper, homemade print, office colour copy machine",<NA>,640,559,mm,yes,yes,yes,1986,A gift from the artist; then by descent.,"flowers, leaves, abstract shapes, black and white, patterns, textures, spheres, curves, lines, wood grain",1,044/60,"Dancing Flowers
+homemade print executed on an office colour copy machine, 1986, on six sheets of laid paper, signed and dated in pencil, numbered 44/60, with the artist's blindstamp lower right, in the artist's original frame
+Image & Sheet 559 x 640 mm. (overall)
+
+Edition: 044/60",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0031_000(david_hockney_dancing_flowers024900).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-31/292491?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12900.49,10750.408333333333
+4b7ad37e-5746-4cb9-b3d1-3bb81eefb942,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 32,GBP,6000,8000,None,None,7693.64,10258.19,None,None,DAVID HOCKNEY,1937,<NA>,The Red Pot,prints,"laid paper, handmade print executed on an office colour copy machine",<NA>,215,350,mm,yes,yes,yes,1986,A gift from the artist; then by descent.,"red pot, green leaves, blue background, abstract shapes, colors",1,043/60,"The Red Pot
+handmade print executed on an office colour copy machine, 1986, on laid paper, signed and dated in pencil, numbered 43/60, with the artist's blindstamp lower right, in the artist's original frame
+Image & Sheet 350 x 215 mm.
+
+Edition: 043/60",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0032_000(david_hockney_the_red_pot024915).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-32/292490?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10501.35,8751.125
+40f4e25c-f6f7-472f-8b5c-ba43d6b28f68,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 33,GBP,20000,40000,None,None,25645.48,51290.96,None,None,DAVID HOCKNEY,1937,<NA>,"Pool Made with Paper and Blue Ink for Book, from: Paper Pools",prints,"lithograph in colours, on wove paper",<NA>,218,260,mm,yes,yes,yes,1980,Museum of Contemporary Art Tokyo 234; Tyler 269,"pool, water, blue, orange, green, grid, ink, print, paper, line",1,793/1000,"Pool Made with Paper and Blue Ink for Book, from: Paper Pools
+lithograph in colours, 1980, on wove paper, signed, dated and numbered 793/1000 in pencil (there were also one hundred artist's proofs), published by Tyler Graphics Ltd., Mount Kisco, New York, with their blindstamp 
+recto 
+and their workshop number 
+DH80-460 
+in pencil 
+verso
+; 
+complete with the book 
+Paper Pools
+, 
+signed in red ball-point pen on the justification page and the original card slipcase, both stamp-numbered 793
+Image 260 x 218 mm.
+Sheet 266 x 228 mm.
+
+Edition: 793/1000",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0033_000(david_hockney_pool_made_with_paper_and_blue_ink_for_book_from_paper_po024928).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-33/292493?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,27591.48,22992.9
+1eed4df8-3d59-4e3d-b4ad-67d4d10bdac0,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 34,GBP,20000,30000,None,None,25645.48,38468.22,None,None,DAVID HOCKNEY,1937,<NA>,Vertical Dogs,prints,"etching and aquatint in colours, Somerset wove paper",<NA>,632,570,mm,yes,yes,yes,1995,Museum of Contemporary Art Tokyo 365,"dogs, red, blue, white, etching, aquatint",1,<NA>,"Vertical Dogs
+etching and aquatint in colours, 1995, on Somerset wove paper, signed in pencil, dated and numbered 
+AP. III/XV
+, an artist's proof aside from the edition of eighty, co-published by Lococo Mulder Inc., St. Louis and the artist, with his blindstamp
+Plate 387 x 465 mm. 
+Sheet 570 x 632 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0034_000(david_hockney_vertical_dogs024944).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-34/292494?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,27591.48,22992.9
+bfca7e7a-1566-42c0-88d3-6658659bad75,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 35,GBP,12000,18000,None,None,15387.29,23080.93,None,None,BRIDGET RILEY,1931,<NA>,Silvered 2,prints,"screenprint in colours, thick wove paper",<NA>,763,871,mm,yes,yes,yes,1981,Schubert 29; Tommasini & Gubay 30,"stripes, colors, patterns, abstract, geometric",1,009/75,"Silvered 2
+screenprint in colours, 1981, on thick wove paper, signed and dated in pencil, numbered 9/75 (there were also ten artist's proofs)
+Image 871 x 763 mm.
+Sheet 1063 x 930 mm.
+
+Edition: 009/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0035_000(bridget_riley_silvered_2024959).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/bridget-riley-b-1931-35/292495?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,16200.29,13500.241666666669
+9b108bb5-e2cd-48a1-bf43-a5a0983ca3cf,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 36,GBP,25000,35000,None,None,32056.85,44879.59,None,None,PAULA REGO,1935,2022,Nursery Rhymes,prints,"etchings with aquatint, hand-colouring, pink chine collé, Arches wove paper",<NA>,380,520,mm,yes,yes,yes,1989,"With Marlborough Fine Art, London (their labels 
+verso
+).
+Acquired from the above by the present owner in 2016.","children, horse, dance, figures, animals, fantasy, chair, tree, beach, village",26,005/15,"Nursery Rhymes
+the set of 26 etchings with aquatint, three with extensive hand-colouring by Charlotte Hodes, one on pink 
+chine collé, 
+1989, on Arches wove paper, from the deluxe edition of 15 with an additional etching (Rosenthal 35), each signed in pencil, R. 35 numbered 5/15, otherwise numbered 5/50 (there were also 14 artist's proofs), printed by Culford Press, London, with their blindstamp, published by the artist and Marlborough Graphics, London, lacking the title page and solander box
+Sheet 520 x 380 mm. (each)
+
+Edition: 005/15",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0036_000(paula_rego_nursery_rhymes025028).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/paula-rego-1935-2022-36/292496?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,38262.8,31885.66666666667
+37996a74-7d45-4c59-a5cd-6b04f09364b2,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 37,GBP,80000,120000,None,None,102581.92,153872.88,None,None,ANDY WARHOL,1928,1987,Truck,prints,Lenox Museum Board,<NA>,998,1000,mm,yes,yes,yes,1985,"From the archive of the co-publisher, Bundesverband des Deutschen Güterfernverkehrs (today Bundesverband Güterkraftverkehr Logistik und Entsorgung - BGL), Frankfurt am Main.","truck, screenprints, colors, Lenox Museum Board, signed, numbered, edition, wheels, body, cabin",4,052/60,"Truck
+the complete set of four screenprints in colours, 1985, on Lenox Museum Board, each signed in pencil, numbered 52/60 (there were also 15 artist's proofs), printed by Rupert Jasen Smith, New York, with his blindstamp, published by the Bundesverband des Deutschen Güterfernverkehrs, Frankfurt am Main, in collaboration with Hermann Wünsche, Bonn, with the artist's copyright stamp on the reverse
+Images & Sheets 1000 x 998 mm.
+
+Edition: 052/60",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0037_000(andy_warhol_truck031431).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/andy-warhol-1928-1987-37/292497?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,105000.0,87500.0
+13cffb1b-760f-406d-9336-2f01ce781003,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 38,GBP,120000,180000,None,None,153872.88,230809.31,None,None,ANDY WARHOL,1928,1987,Electric Chair,prints,"thick wove paper, screenprints in colours",<NA>,1216,899,mm,yes,yes,yes,1971,Feldman & Schellman II.74-83,"electric chair, screenprints, colors, thick wove paper, artist's proof, signed, dated, copyright stamp, series, 1971",10,<NA>,"Electric Chair
+the complete set of ten screenprints in colours, 1971, on thick wove paper, each signed and dated in ball-point pen 
+verso
+, stamp-numbered '
+A.p. IV/L
+', one of fifty artist's proof sets, aside from the edition of two hundred and fifty, published by Bruno Bischofberger, Zurich, with their copyright ink stamp on the reverse
+Image, Sheet 899 x 1216 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0038_000(andy_warhol_electric_chair031511).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/andy-warhol-1928-1987-38/292498?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,162609.8,135508.16666666666
+0c338882-8975-4e8e-8ee5-e6a28e92a575,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 39,GBP,30000,50000,None,None,38468.22,64113.7,None,None,ANDY WARHOL,1928,1987,"Queen Margrethe II of Denmark, from: Reigning Queens (Royal Edition)",prints,screenprint in colours with diamond dust on Lenox Museum Board,<NA>,797,997,mm,yes,yes,yes,1985,"With Galerie Mia Joosten, Amsterdam, 1995.
+Acquired from the above by the present owner.","Queen Margrethe II, portrait, tiara, jewelry, necklace, earrings, colors, pink, profile view, royal attire",1,007/30,"Queen Margrethe II of Denmark, from: Reigning Queens (Royal Edition)
+screenprint in colours with diamond dust, 1985, on Lenox Museum Board, signed in pencil, numbered R 7/30 (there were also five artist's proofs), published by George C. P. Mulder, Amsterdam, with the artist's copyright inkstamp on the reverse, printed by Rupert Jasen Smith, New York, with his blindstamp
+Image & Sheet 997 x 797 mm.
+
+Edition: 007/30",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0039_000(andy_warhol_queen_margrethe_ii_of_denmark_from_reigning_queens031637).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/andy-warhol-1928-1987-39/292499?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,48668.22,40556.850000000006
+0cf1b648-6e22-4052-ba86-f2b9e4e883de,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 40,GBP,60000,80000,None,None,76936.44,102581.92,None,None,ANDY WARHOL,1928,1987,Mick Jagger,prints,"screenprint in colours, Arches Aquarelle wove paper",<NA>,734,1110,mm,yes,yes,yes,1975,Feldman & Schellmann II.140,"portrait, Mick Jagger, screenprint, multiple colors, abstract shapes, expression, signed, dedication, Arches Aquarelle paper, printer's annotations",1,<NA>,"Mick Jagger
+screenprint in colours, 1975, on Arches Aquarelle wove paper, signed in pencil, dedicated 
+to Bianca with love 
+in brown ink and pencil, additionally signed in black felt-tip pen by Mick Jagger, a trial proof aside from the numbered edition of 250 (there were also fifty artist’s proofs), with printer's annotations in pencil in the centre subject, published by Seabird Editions, London
+Image & Sheet 1110 x 734 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0040_000(andy_warhol_mick_jagger011729).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/andy-warhol-1928-1987-40/292500?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,103497.8,86248.16666666667
+68c4357b-0372-43de-9cd3-f672d49367b7,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 41,GBP,40000,60000,None,None,51290.96,76936.44,None,None,KEITH HARING,1958,1990,Totem,prints,"woodcut, cream Japan paper",<NA>,895,1970,mm,yes,yes,yes,1989,Littmann p.158,"totem, woodcut, red, black, cream paper, abstract shapes, geometric patterns, signed, numbered, prints",1,007/60,"Totem
+woodcut in black and red, 1989, on three sheets of cream Japan paper, the third sheet signed and dated in pencil, numbered 7/60 (there were also 12 artist's proofs), published by Edition Schellmann, New York and Munich
+Sheets 660 x 890 mm. (each)
+1970 x 895 mm. (overall)
+
+Edition: 007/60",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0041_000(keith_haring_totem031657).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/keith-haring-1958-1990-41/292501?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,102000.0,85000.0
+61bd2e80-4abd-43b1-bb98-85ba902cfe5c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 42,GBP,40000,60000,None,None,51290.96,76936.44,None,None,ROY LICHTENSTEIN,1923,1997,"Seascape, from: Landscapes Series",prints,"lithograph, woodcut and screenprint in colours, Arches wove paper",<NA>,1332,948,mm,yes,yes,yes,1985,Corlett 210; Gemini 1252,"seascape, clouds, waves, colors, abstract patterns, blue, yellow, red, green, grey",1,<NA>,"Seascape, from: Landscapes Series
+lithograph, woodcut and screenprint in colours, 1985, on Arches wove paper, signed and dated in pencil, inscribed 
+RTP
+, a 'Ready to Print' proof, aside from the edition of sixty (there were also 11 artist's proofs), printed and published by Gemini G.E.L., Los Angeles, with their blindstamps and ink stamp on the reverse
+Image 948 x 1332 mm.
+Sheet 1022 x 1404 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0042_000(roy_lichtenstein_seascape_from_landscapes_series011741).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/roy-lichtenstein-1923-1997-42/292502?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,102497.48,85414.56666666667
+d15b516d-1c7f-4064-a299-7242d16038bd,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 43,GBP,7000,10000,None,None,8975.92,12822.74,None,None,ROY LICHTENSTEIN,1923,1997,"Moonscape, from: 11 Pop Artists, Volume I",prints,"screenprint in colours, blue Rowlux",<NA>,609,507,mm,yes,yes,yes,1965,Corlett 37,"moon, clouds, water, blue, horizon, landscape, patterns, light, reflections, color",1,124/200,"Moonscape, from: 
+11 Pop Artists, Volume I
+screenprint in colours, 1965, on blue Rowlux, signed and dated in pencil 
+verso
+, numbered 124/200 (there were also approximately five artist's proofs), published by Original Editions, New York
+Image & Sheet 507 x 609 mm.
+
+Edition: 124/200",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0043_000(roy_lichtenstein_moonscape_from_11_pop_artists_volume_i031715).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/roy-lichtenstein-1923-1997-43/292503?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12900.69,10750.575
+44900677-7b6c-4f94-a644-c846929fc81e,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 44,GBP,30000,50000,None,None,38468.22,64113.7,None,None,ANDY WARHOL,1928,1987,Martha Graham,prints,Lenox Museum Board,<NA>,913,910,mm,yes,yes,yes,1986,Feldman & Schellmann II.387-389,"dancers, movement, costumes, abstraction, emotions, poses, modern dance, colors, patterns, figures",3,074/100,"Martha Graham
+the complete set of three screenprints in colours, 1986, on Lenox Museum Board, each signed in pencil 
+verso
+, numbered 74/100 (there were also 25 artist's proofs), published by the Martha Graham Center of Contemporary Dance, Inc., New York, printed by Rupert Jasen Smith, with his blindstamp, with the artist's copyright inkstamp 
+verso
+Image & Sheet 910 x 913 mm. (F&S ll.387)
+Image & Sheet 912 x 912 mm. (F&S II.388)
+Image & Sheet 913 x 911 mm. (F&S II.389)
+
+Edition: 074/100",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0044_000(andy_warhol_martha_graham055700).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/andy-warhol-1928-1987-44/292504?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,48600.58,40500.48333333334
+4bcadd59-c0a9-4f8c-b22e-af39b2676ed7,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 45,GBP,15000,25000,None,None,19234.11,32056.85,None,None,FRANCIS BACON,1909,1992,"Second Version, Triptych 1944",prints,"Arches wove paper, lithographs in colours",<NA>,460,625,mm,yes,yes,yes,1944,Sabatier 24,"figure, chair, abstract shapes, red background, draped fabric, stool, head, hands, surrealism, still life",3,<NA>,"Second Version, Triptych 1944
+the complete set of three lithographs in colours, 1989, on Arches wove paper, each signed in pencil, inscribed 
+H.C.
+, one of 23 
+hors commerce 
+impressions aside from the edition of sixty (there were also eight artist's proofs), published by Michel Archimbaud for Librairie Séguier for IRCAM, Centre Pompidou, Paris
+Image 625 x 460 mm. (each)
+Sheet 755 x 560 mm. (each)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0045_000(francis_bacon_second_version_triptych_1944031805).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/francis-bacon-1909-1992-45/292505?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,24252.8,20210.666666666668
+78ca555b-e0ba-48ec-94d1-e890ab150b13,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 46,GBP,12000,18000,None,None,15387.29,23080.93,None,None,FRANCIS BACON,1909,1992,Triptych 1983,prints,"lithographs in colours, Arches wove paper",<NA>,498,668,mm,yes,yes,yes,1983,"With Marlborough Gallery, Madrid (their labels 
+verso
+).
+Acquired from the above by the present owner.","figures, men, chairs, orange background, shadows, nude, seated, triptych",3,134/180,"Triptych 1983
+the complete set of three lithographs in colours, 1983, on Arches wove paper, each signed in pencil, numbered 134/180, published by Galerie Lelong, Paris
+Image 668 x 498 mm. (and similar)
+Sheet 898 x 627 mm. (and similar)
+
+Edition: 134/180",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0046_000(francis_bacon_triptych_1983112425).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/francis-bacon-1909-1992-46/292506?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,16200.6,13500.5
+1a66f13f-7d66-45c8-be19-745c5c1b70a8,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 47,GBP,30000,50000,None,None,38468.22,64113.7,None,None,LUCIAN FREUD,1922,2011,Lord Goodman in his Yellow Pyjamas,prints,"etching with hand colouring in yellow watercolour, BFK Rives wove paper",<NA>,557,483,mm,no,yes,yes,1987,"With James Kirkman Limited, London.
+Acquired from the above by the present owner in 1987.","man, yellow pyjamas, etching, portrait, facial expression, textured lines",1,009/50,"Lord Goodman in his Yellow Pyjamas
+etching with hand colouring in yellow watercolour, 1987, on BFK Rives wove paper, initialled in pencil, numbered 9/50 (there were also ten artist's proofs), published by James Kirkman, London, and Brooke Alexander, New York
+Plate 310 x 399 mm.
+Sheet 483 x 557 mm.
+
+Edition: 009/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0047_000(lucian_freud_lord_goodman_in_his_yellow_pyjamas031930).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/lucian-freud-1922-2011-47/292507?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,48648.6,40540.5
+cee3f9b2-18f3-4ba4-8c5f-19c10d3985bb,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 48,GBP,3000,5000,None,None,3846.82,6411.37,None,None,FRANK AUERBACH,1931,2024,"Jake, from: Seven Portraits",prints,"etching, Somerset wove paper",<NA>,213,257,mm,yes,yes,yes,1990,"With Marlborough Gallery, London (their label 
+verso
+).
+Purchased from the above by the present owner in 1991","portrait, face, male, etching, lines, expression, ink, black and white",1,050/50,"Jake, from: Seven Portraits
+etching, 1990, on Somerset wove paper, signed and titled in pencil, numbered 50/50 (there were also ten artist's proof), published by Marlborough Graphics Ltd., London
+Plate 178 x 148 mm.
+Sheet 257 x 213 mm.
+
+Edition: 050/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0048_000(frank_auerbach_jake_from_seven_portraits032001).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/frank-auerbach-1931-2024-48/292508?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+37071bc6-2e0f-410c-aaa3-72e368bf1201,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 49,GBP,15000,20000,None,None,19234.11,25645.48,None,None,DAVID HOCKNEY,1937,<NA>,Illustrations for Six Fairy Tales from the Brothers Grimm,prints,"Hodgkinson handmade wove paper, etchings, aquatint",47,323,477,mm,yes,yes,yes,1969,Scottish Arts Council 70-108; Museum of Contemporary Art Tokyo 67-105,"horse, figure, drapery, woman, man, landscape, house, foliage, interior, garden",39,062/100,"Illustrations for Six Fairy Tales from the Brothers Grimm
+the complete book of 39 etchings, some with aquatint, 1969-70, on Hodgkinson handmade wove paper, watermark 
+DH PP
+, with title, text and justification, Edition A, signed in pencil on the justification, inscribed 
+Ed A 
+and numbered 62/100 (there were also 15 artist's proofs) published by Petersburg Press, London, with the additional suite of six loose etchings, each signed in pencil 
+recto
+, inscribed 
+Grimm Ed. A 62/100 
+in sepia ink 
+verso
+, within the original blue calf binding, boards and slipcase
+Plates 274 x 260 mm. (and smaller)
+Sheets 442 x 308 mm. 
+Portfolio 477 x 323 x 47 mm.
+
+Edition: 062/100",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0049_000(david_hockney_illustrations_for_six_fairy_tales_from_the_brothers_grim032015).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-49/292509?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,24252.8,20210.666666666668
+86e3442b-fdc4-4bef-b79f-f6ae6fcdfe70,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 50,GBP,5000,7000,None,None,6411.37,8975.92,None,None,HOWARD HODGKIN,1932,2017,Moroccan Door,prints,"intaglio with carborundum in colours and extensive hand-colouring, Du Chene hand-made wove paper",<NA>,1115,760,mm,no,yes,yes,1990,Heenk 82,"door, blue, green, black, abstract, swirl, shapes, lines, color, texture",1,011/15,"Moroccan Door
+intaglio with carborundum in colours and extensive hand-colouring, 1990-91, on Du Chene hand-made wove paper, initialled and dated in pencil, inscribed 
+AP 11/15
+, an artist's proof aside from the edition of 55, published by Waddington Graphics, London, printed and hand-coloured by Jack Shirreff at the 107 Workshop, Wiltshire
+Image & Sheet 760 x 1115 mm.
+
+Edition: 011/15",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0050_000(howard_hodgkin_moroccan_door032104).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/howard-hodgkin-1932-2017-50/292510?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10350.41,8625.341666666667
+3169a958-0ded-4876-b6a6-77526c1cb612,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 51,GBP,3000,5000,None,None,3846.82,6411.37,None,None,HOWARD HODGKIN,1932,2017,In an empty Room,prints,"intaglio with carborundum in colours and extensive hand-colouring, wove paper",<NA>,1490,1200,mm,no,yes,yes,1990,Heenk 84,"room, red shape, green border, abstract, texture, shadow, light, patterns, colors, wave",1,<NA>,"In an empty Room
+intaglio with carborundum in colours and extensive hand-colouring, 1990-91, on wove paper, initialled and dated 
+91 
+in pencil, inscribed 
+PP 4/4
+, a printer's proof aside from the edition of 55 (there were also 15 artist's proofs), published by Waddington Graphics, London, printed and hand-coloured by Jack Shirreff at the 107 Workshop, England
+Image & Sheet 1200 x 1490 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0051_000(howard_hodgkin_in_an_empty_room032117).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/howard-hodgkin-1932-2017-51/292511?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+ee56c0db-ef2f-4987-8c0c-fa3bc10d5f97,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 52,GBP,6000,8000,None,None,7693.64,10258.19,None,None,VICTOR VASARELY,1906,1997,Kroa A,mixed media,"anodized aluminum, screenprint in colours",508,508,508,mm,no,yes,yes,1970,<NA>,"anodized aluminum, screenprint, geometric shapes, colorful patterns, cubes, multi-dimensional structure, abstract design, optical art, vibrant colors, installation piece",1,<NA>,"Kroa A
+multiple on anodized aluminum with screenprint in colours, 1970, presumably from the edition of 75, published by Éditions Denise René, Paris
+508 x 508 x 508 mm. (overall)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0052_000(victor_vasarely_kroa_a032132).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/victor-vasarely-1906-1997-52/292512?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10395.3,8662.75
+a416a5a1-daec-485c-b345-ba71cce02656,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 53,GBP,6000,8000,None,None,7693.64,10258.19,None,None,AFTER MARCEL DUCHAMP (1887-1968) BY JACQUES VILLON (1875-1963),1875,1963,La Mariée,prints,"aquatint in colours, Arches wove paper",<NA>,496,646,mm,yes,yes,yes,1934,Schwarz 433; Ginestet & Pouillon E672,"abstract forms, colors, composition, shapes, lines, figures, human-like forms, muted tones, layered elements, interplay of light",1,120/200,"La Mariée
+aquatint in colours, 1934, on Arches wove paper, signed by Duchamp and Villon in pencil, titled and numbered 120/200 (there were also twenty proofs on 
+Japon 
+paper)
+Plate 498 x 313 mm. 
+Sheet 646 x 496 mm.
+
+Edition: 120/200",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0053_000(after_marcel_duchamp_by_jacques_villon_la_mariee032205).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/after-marcel-duchamp-1887-1968-jacques-villon-1875-1963-53/292513?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.69,8583.908333333335
+3e606310-3b79-4b76-a05f-4f61fd72818a,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 54,GBP,7000,10000,None,None,8975.92,12822.74,None,None,RENÉ MAGRITTE,1898,1967,Paysage de Baucis,prints,"etching, BFK Rives wove paper",<NA>,278,357,mm,yes,yes,yes,1966,Kaplan & Baum 5,"man, hat, suit, face, eyes, mouth, lines, patterns",1,049/100,"RENÉ MAGRITTE (1898-1967)
+Paysage de Baucis
+etching, 1966, on BFK Rives wove paper, signed in pencil, numbered 49
+/
+100 (there were also a small number of additional proofs printed in blue or rose pink), published by Georges Visat, Paris
+Plate 228 x 169 mm.
+Sheet 357 x 278 mm.
+
+Edition: 049/100",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0054_000(rene_magritte_paysage_de_baucis032227).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/rene-magritte-1898-1967-54/292514?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12900.69,10750.575
+f0ca0350-75f1-47e8-8259-a1d85037f793,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 55,GBP,2200,3800,None,None,2821.0,4872.64,None,None,AFTER RENÉ MAGRITTE,1898,1967,"Le 16 Septembre, from: Signe de Survie au Temps d'Amour",prints,"etching and aquatint in colours, BFK Rives wove paper",<NA>,222,276,mm,yes,yes,yes,1968,Kaplan & Baum 14,"tree, moon, night, landscape, silhouette",1,101/150,"AFTER RENÉ MAGRITTE (1898-1967)
+Le 16 Septembre, from: Signe de Survie au Temps d'Amour
+etching and aquatint in colours, 1968, on BFK Rives wove paper, with the artist's stamped signature (as issued), numbered 101/150 (there were also one hundred and fifty on 
+Japon nacré 
+paper and a total of fifty 
+hors commerce 
+impressions), printed and published posthumously by Georges Visat, Paris, 1968, with the 
+Gravure Originale Atelier René Magritte 
+blindstamp
+Plate 150 x 100 mm.
+Sheet 276 x 222 mm.
+
+Edition: 101/150",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0055_000(after_rene_magritte_le_16_septembre_from_signe_de_survie_au_temps_damo032239).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/after-rene-magritte-1898-1967-55/292515?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,3540.6,2950.5
+9f975e8b-3c02-4211-a318-532bc222f1ad,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 56,GBP,700,1000,None,None,897.59,1282.27,None,None,AFTER RENÉ MAGRITTE,1898,1967,"Untitled, from: Les Moyens d'Existence",prints,"etching and aquatint in colours, Japon ancien paper",<NA>,109,160,mm,yes,yes,no,1968,Kaplan & Baum 20,"rose, pear, rain, leaves, wooden table, blue background, pink, green, etching, aquatint",1,025/150,"AFTER RENÉ MAGRITTE (1898-1967)
+Untitled, from: Les Moyens d'Existence
+etching and aquatint in colours, 1968, on 
+Japon ancien 
+paper, with the artist's stamped signature (as issued), numbered 25/150 in pencil (there were also one hundred and fifty each on 
+Japon nacré 
+and on Rives wove paper
+, 
+and 25 
+hors commerce 
+impressions each on 
+Japon nacré, 
+Japon ancien 
+and Rives), printed and published posthumously by Georges Visat, Paris, 1968, with the 
+Gravure Originale Atelier René Magritte 
+blindstamp
+Image 160 x 109 mm.
+Sheet 277 x 226 mm.
+
+Edition: 025/150",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0056_000(after_rene_magritte_untitled_from_les_moyens_dexistence032249).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/after-rene-magritte-1898-1967-56/292517?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1296.59,1080.4916666666666
+b610aec6-3013-4103-a78d-f5dc4eac7a80,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 57,GBP,10000,15000,None,None,12822.74,19234.11,None,None,PABLO PICASSO,1881,1973,"Sculpteur et modèle agenouillé, from: La Suite Vollard",prints,"etching, Montval laid paper",<NA>,339,441,mm,yes,yes,yes,1933,"Christies, London, 20 June 2000, lot 358 (labels verso)
+Acquired from the above by the present owner","sculptor, kneeling model, male figure, female figure, classical bust, mountains, water, seated figure, lines, contours",1,<NA>,"Sculpteur et modèle agenouillé, from: La Suite Vollard
+etching, 1933, on Montval laid paper, watermark 
+Vollard
+, signed in pencil, from the edition of 260 (there was also an edition of fifty with wider margins), published by Ambroise Vollard, Paris, 1939
+Plate 368 x 297 mm.
+Sheet 441 x 339 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0057_000(pablo_picasso_sculpteur_et_modele_agenouille_from_la_suite_vollard032300).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-57/292516?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,16200.48,13500.4
+ce57223a-8670-47e0-94ef-de6d57d1fe6d,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 58,GBP,4000,6000,None,None,5129.1,7693.64,None,None,PABLO PICASSO,1881,1973,"Deux femme regardant une tete sculptée, from: La Suite Vollard",prints,"etching, laid paper",<NA>,340,442,mm,yes,yes,yes,1933,"Christie's London; 28 November 1967, lot 338","two women, sculpture, flowers, patterns, lines, head, decorations, hair, clothing, interior",1,<NA>,"Deux femme regardant une tete sculptée, from: La Suite Vollard
+etching, 1933, on laid paper, watermark 
+Vollard
+, signed in pencil, from the edition of 260 (there was also an edition of fifty with wider margin), published by Ambroise Vollard, Paris, 1939
+Plate 269 x 194 mm.
+Sheet 442 x 340 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0058_000(pablo_picasso_deux_femme_regardant_une_tete_sculptee_from_la_suite_vol111026).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-58/292518?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.54,8583.783333333335
+fb37a0cb-dd72-4528-91e6-fe26c5a10b5f,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 59,GBP,5000,7000,None,None,6411.37,8975.92,None,None,PABLO PICASSO,1881,1973,Au Cabaret,prints,"etching, Auvergne Richard de Bas laid paper",<NA>,508,406,mm,yes,yes,yes,1934,"Norman Granz (1918-2001), Geneva; then by descent.
+A Close Friendship: Picasso from the Collection of Norman and Grete Granz
+, Christie's, New York, 14 May 2019, lot 237.
+Acquired from the above by the present owner.","cabaret, figures, musicians, nude woman, chairs, instruments, expressions, audience, art style, performance",1,018/50,"Au Cabaret
+etching, 1934, on Auvergne Richard de Bas laid paper, with the artist stamped signature (as issued), numbered 18/50 (there were also 19 artist's proofs), published by Galerie Louise Leiris, Paris, 1981
+Plate 241 x 299 mm.
+Sheet 406 x 508 mm.
+
+Edition: 018/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0059_000(pablo_picasso_au_cabaret032332).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-59/292520?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.92,8584.1
+ab39522c-3722-4643-ba2d-cb113360c5a8,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 60,GBP,8000,12000,None,None,10258.19,15387.29,None,None,PABLO PICASSO,1881,1973,Trois femmes,prints,"etching, Arches wove paper",<NA>,273,472,mm,yes,yes,yes,1938,"Norman Granz (1918-2001), Geneva; then by descent.
+A Close Friendship: Picasso from the Collection of Norman and Grete Granz
+, Christie's, New York, 14 May 2019, lot 238.
+Acquired from the above by the present owner.","three women, etching, nude figures, floral crowns, bodies, standing figures",1,023/50,"Trois femmes
+etching, 1938, on Arches wove paper, signed in pencil, numbered 23/50 (there were also 15 artist's proofs), published by Galerie Louise Leiris, Paris, 1961
+Plate 305 x 210 mm.
+Sheet 472 x 273 mm.
+
+Edition: 023/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0060_000(pablo_picasso_trois_femmes032347).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-60/292519?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12300.99,10250.825
+013c5d05-caac-48dd-8358-0f7bb47aa4f2,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 61,GBP,3000,4400,None,None,3846.82,5642.01,None,None,HENRI MATISSE,1869,1954,"Danseuse au divan pliée en deux, from: Dix Danseuses",prints,"lithograph, Arches wove paper",<NA>,460,280,mm,yes,yes,yes,1925,Duthuit 489,"dancer, divan, ballet costume, fabric, floral patterns, reclining figure, black and white, Arches paper, lithograph, signed",1,019/130,"Danseuse au divan pliée en deux, from: Dix Danseuses
+lithograph, 1925-26, on Arches wove paper, signed in pencil, numbered 19/130 (there were also five on 
+Chine
+, 15 on 
+Japon 
+and eight 
+hors commerce 
+impressions), published by the Galerie d'Art Contemporain de Paris, 1927
+Image 280 x 460 mm.
+Sheet 330 x 505 mm.
+
+Edition: 019/130",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0061_000(henri_matisse_danseuse_au_divan_pliee_en_deux_from_dix_danseuses032401).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-61/292521?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+01f65f00-6253-4d20-9699-3a042c8fba02,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 62,GBP,4400,6000,None,None,5642.01,7693.64,None,None,HENRI MATISSE,1869,1954,"Danseuse étendue au divan, from: Dix Danseuses",prints,"lithograph, Arches wove paper",<NA>,460,276,mm,yes,yes,yes,1925,Duthuit 484,"woman, reclining, dance, floral dress, divan, lithograph, black and white, signed, numbered edition",1,019/130,"Danseuse étendue au divan, from: Dix Danseuses
+lithograph, 1925-26, on Arches wove paper, signed in pencil, numbered 19/130 (there were also five on 
+Chine
+,15 on 
+Japon 
+and eight 
+hors commerce 
+impressions), published by Galerie d'Art Contemporain, Paris, 1927
+Image 276 x 460 mm.
+Sheet 328 x 504 mm.
+
+Edition: 019/130",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0062_000(henri_matisse_danseuse_etendue_au_divan_from_dix_danseuses032414).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-62/292522?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10350.69,8625.575
+21fa8275-0d1c-48e5-bdea-9e79bd08433a,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 63,GBP,4400,6000,None,None,5642.01,7693.64,None,None,HENRI MATISSE,1869,1954,"Danseuse endormie au divan, from: Dix danseuses",prints,"lithograph, Arches wove paper",<NA>,460,280,mm,yes,yes,yes,1925,Duthuit 485,"dancer, sleeping, ballet costume, floral pattern, lying, feminine figure",1,106/130,"Danseuse endormie au divan, from: Dix danseuses
+lithograph, 1925-26, on Arches wove paper, signed in pencil, numbered 106/130 (there were also five on 
+Chine
+,15 on 
+Japon 
+and eight 
+hors commerce 
+impressions), published by Galerie d'Art Contemporain, Paris, 1927
+Image 280 x 460 mm.
+Sheet 327 x 487 mm.
+
+Edition: 106/130",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0063_000(henri_matisse_danseuse_endormie_au_divan_from_dix_danseuses032428).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-63/292523?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10350.69,8625.575
+7c3e3c75-1b40-4f11-ba81-964daab0f241,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 64,GBP,3000,4400,None,None,3846.82,5642.01,None,None,HENRI MATISSE,1869,1954,"Danseuse allongée, tête accoudée, from: Dix Danseuses",prints,"lithograph, Arches wove paper",<NA>,415,157,mm,yes,yes,yes,1925,"Henri Marie Petiet (1894-1980), Paris (Lugt 5031).","dancer, ballet, lying figure, floral dress, head resting on hand, skirt, Arches paper, lithograph, signed",1,031/130,"Danseuse allongée, tête accoudée, from: Dix Danseuses
+lithograph, 1925-26, on Arches wove paper, signed in pencil, numbered 31/130 (there were also five on Chine,15 on Japon and eight hors commerce impressions), published by Galerie d'Art Contemporain, Paris, 1927
+Image 157 x 415 mm.
+Sheet 330 x 505 mm.
+
+Edition: 031/130",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0064_000(henri_matisse_danseuse_allongee_tete_accoudee_from_dix_danseuses032457).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-64/292524?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+b3e78fe6-a136-4764-a99c-ef089fa4b0f2,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 65,GBP,5000,7000,None,None,6411.37,8975.92,None,None,PABLO PICASSO,1881,1973,"Les Baigneuses surprises, from: La Suite Vollard",prints,"etching and drypoint, Montval laid paper",<NA>,447,340,mm,yes,yes,yes,1933,Bloch 194; Baer 355,"women, figures, trees, water, sculpture, landscape, intimacy, movement, etching, drypoint",1,<NA>,"Les Baigneuses surprises, from: La Suite Vollard
+etching and drypoint, 1933, on Montval laid paper, watermark 
+Vollard
+, signed in pencil, from the edition of 260 (there were also fifty with wider margins), published by Ambroise Vollard, Paris, 1939
+Plate 193 x 268 mm.
+Sheet 340 x 447 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0065_000(pablo_picasso_les_baigneuses_surprises_from_la_suite_vollard032518).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-65/292525?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.92,8584.1
+b19702ad-e3e7-434e-8c6c-4f45d0035a51,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 66,GBP,6000,8000,None,None,7693.64,10258.19,None,None,PABLO PICASSO,1881,1973,"Flûtiste et jeune fille au tambourin, from: La Suite Vollard",prints,etching on Montval laid paper,<NA>,382,500,mm,no,yes,yes,1934,Bloch 213; Baer 412,"flutist, girl, tambourine, musicians, portrait, seated figures, classical, expressions, line art, floral crown",1,<NA>,"Flûtiste et jeune fille au tambourin, from: La Suite Vollard
+etching, 1934, on Montval laid paper, from the edition of fifty with wide margins (there was also an edition of 260 with smaller margins), published by Ambrose Vollard, Paris, 1939
+Plate 278 x 198 mm.
+Sheet 500 x 382 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0066_000(pablo_picasso_flutiste_et_jeune_fille_au_tambourin_from_la_suite_volla032525).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-66/292526?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10395.3,8662.75
+4dd9d852-8574-4097-b1e0-07f4d7d24704,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 67,GBP,5000,7000,None,None,6411.37,8975.92,None,None,PABLO PICASSO,1881,1973,"Jeune femme, from: Lithographies pour Centenaire de l'Imprimerie Mourlot",prints,"lithograph, cream Chine appliqué on Arches wove paper",<NA>,297,397,mm,yes,yes,yes,1949,Bloch 1836; Mourlot 153,"woman, portrait, black and white, abstract, striped shirt, long hair, face, expressive eyes, lithograph, dedication",1,<NA>,"Jeune femme, from: Lithographies pour Centenaire de l'Imprimerie Mourlot
+lithograph, 1949, on cream 
+Chine appliqué 
+on Arches wove paper, with the printed signature and dedication in red (as issued), from the unsigned and unnumbered edition of one hundred, published by Mourlot, Paris, 1952
+Image 397 x 297 mm.
+Sheet 660 x 503 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0067_000(pablo_picasso_jeune_femme_from_lithographies_pour_centenaire_de_limpri032531).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-67/292527?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.92,8584.1
+14ede2ca-78fa-4438-9391-430ed2edcd47,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 68,GBP,3000,5000,None,None,3846.82,6411.37,None,None,PABLO PICASSO,1881,1973,Etreinte III,prints,"etching, BFK Rives wove paper",<NA>,571,422,mm,yes,yes,yes,1967,"Norman Granz (1918-2001), Geneva; then by descent.
+A Close Friendship: Picasso from the Collection of Norman and Grete Granz
+, Christie's, New York, 14 May 2019, lot 245.
+Acquired from the above by the present owner.","couple, embrace, figures, line drawing, nude, abstract forms, intimacy, bed, hair, expression",1,011/50,"Etreinte III
+etching, 1967, on BFK Rives wove paper, signed in pencil, numbered 11/50 (there were also fifteen artist's proofs), published by Galerie Louise Leiris, Paris
+Plate 422 x 571 mm.
+Sheet 564 x 757 mm.
+
+Edition: 011/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0068_000(pablo_picasso_etreinte_iii032544).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-68/292528?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+cf3ae445-0529-457e-af67-16748e1511dc,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 69,GBP,8000,12000,None,None,10258.19,15387.29,None,None,JOAN MIRÓ,1893,1983,"André Breton, Constellations (incomplete)",prints,"etching, pochoirs, Arches wove paper",45,366,458,mm,yes,yes,yes,1959,Dupin 269-70; see Cramer Books 58,"etchings, pochoirs, figures, abstract shapes, colors, stars, patterns, black and green, landscapes, geometric forms",13,041/50,"JOAN MIRÓ (1893-1983)
+André Breton, Constellations (incomplete)
+an incomplete set comprising one etching in black and green, one etching in black, and 11 pochoirs reproductions in colours after gouaches by the artist, 1959, on Arches wove paper, lacking two lithographs and nine pochoirs, the etchings signed in pencil, numbered 41/50 and 41/100 respectively, with title, text by André Breton and justification, the justification signed by the artist in black ink and Breton in red ink, copy number 41, from the the total edition of 384, published by Pierre Matisse, New York, loose (as issued), in the original beige canvas-covered portfolio box
+458 x 366 x 45 mm. (overall)
+
+Edition: 041/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0069_000(joan_miro_constellations032557).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-69/292529?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12900.49,10750.408333333333
+f24136ee-83c5-488d-8292-a5ac820b8b5b,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 70,GBP,2000,3000,None,None,2564.55,3846.82,None,None,JOAN MIRÓ,1893,1983,Hommage a San Lazzaro: one plate (trial proof),prints,"etching and aquatint in colours with embossing, wove paper",<NA>,376,560,mm,yes,yes,yes,1977,"Didier Cointre (printer, Imprimerie Arte, rue Daguerre, Paris); a gift from the artist.","abstract figure, red shape, blue shape, black lines, yellow dot, embossing, etching, aquatint, colors, artistic signature",1,<NA>,"JOAN MIRÓ (1893-1983)
+Hommage a San Lazzaro: one plate (trial proof)
+etching and aquatint in colours with embossing, 1977, on wove paper, signed and dedicated 
+pour Didier 
+in pencil, a rare trial proof printed from the colour plate for Dupin 980 and the line plate for Dupin 982, before the edition of sixty published by Gérald Cramer, Geneva (there were also 11 
+hors commerce 
+impressions numbered in Roman numerals)
+Plate 345 x 247 mm.
+Sheet 560 x 376 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0070_000(joan_miro_hommage_a_san_lazzaro_one_plate032754).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-70/292530?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+9215e7e8-acd0-4783-962c-97ca25cd48cc,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 71,GBP,4000,6000,None,None,5129.1,7693.64,None,None,JOAN MIRÓ,1893,1983,Mobles Juncosa: one plate,prints,"drypoint and aquatint in colours, wove paper",<NA>,263,338,mm,yes,yes,yes,1977,"Didier Cointre (printer, Imprimerie Arte, rue Daguerre, Paris); a gift from the artist.","figure, head, blue shape, red shape, green shape, yellow shape, black shape, purple shape, orange shape, brown shape",1,<NA>,"JOAN MIRÓ (1893-1983)
+Mobles Juncosa: one plate
+drypoint and aquatint in colours, 1977, on wove paper, signed and dedicated 
+pour Didier 
+in pencil, presumably a printer's proof before the numbered edition of 17 on Arches (there were seven on 
+Japon 
+paper numbered in Roman numerals)
+Image & Sheet 338 x 263 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0071_000(joan_miro_mobles_juncosa_one_plate032800).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-71/292531?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.92,8584.1
+46c89dcd-c6d5-4f20-9e30-f8f436fdfdb6,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 72,GBP,2000,3000,None,None,2564.55,3846.82,None,None,JOAN MIRÓ,1893,1983,A collection of four surrealist prints,prints,"etching and aquatint in colours, lithograph in colours",<NA>,277,384,mm,yes,yes,yes,1957,"Dupin 119; see Cramer books 100.
+Dupin 285
+Mourlot 200
+Spies & Leppien 132A","print, surrealism, colors, etching, aquatint, lithograph, abstract forms, plants, stars, figures",4,<NA>,"JOAN MIRÓ (1893-1983)
+A collection of four surrealist prints
+comprising 
+three prints by Joan Miró
+: 
+Feuilles éparses: one plate 
+(Dupin 119)
+, 
+etching and aquatint in colours, 1957, on 
+japon nacré 
+paper, signed in pencil, numbered 3/10, aside from the unsigned book edition of 150 (this edition not cited in Dupin), published by Louis Broder, Paris, 1965; 
+La mesure du temps 
+(D. 285), aquatint in colours, 1960, on BFK Rives wove paper, signed in pencil, numbered 27/30, published by Maeght, Paris;
+La nuit 
+(Mourlot 200), lithograph in colours, 1953, on Arches wove paper, signed in pencil, numbered 47/100, published by Maeght, Paris;
+and 
+one print by Max Ernst
+: 
+Le rire des poètes 
+(Spies &Leppien 132A), lithograph in colours, 1969, on Arches wove paper, signed in pencil, numbered 31/50, published by Pierre Belfond, Paris
+Plate 208 x 175 mm., Sheet 384 x 277 mm. (Dupin 119);
+Plate 200 x 160 mm., Sheet 380 x 283 mm. (Dupin 285);
+Sheet 387 x 278 mm. (Mourlot 200);
+Image 190 x 130 mm., Sheet 276 x 192 mm. (Spies & Leppien 132A)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0072_000(joan_miro_a_collection_of_four_surrealist_prints032807).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/joan-miro-1893-1983-72/292664?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+6c621708-821b-423b-9753-0b8cc152fa08,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 73,GBP,1500,2200,None,None,1923.41,2821.0,None,None,ROBERTO MATTA,1911,2002,Carne-Amont,prints,"etchings and aquatints in colours, Arches wove paper",<NA>,498,660,mm,yes,yes,yes,1979,Ferrari 250-255,"figures, abstract shapes, colors, patterns, animals, geometrical forms",6,048/100,"Carne-Amont
+the set of six etchings and aquatints in colours, 1979, on Arches wove paper, each signed in pencil, numbered 48/100, published by Georges Visat, Paris, with his blindstamp
+Plates 495 x 375 mm.
+Sheet 660 x 498 mm.
+
+Edition: 048/100",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0073_000(roberto_matta_carne-amont032840).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/roberto-matta-1911-2002-73/292533?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,2754.65,2295.541666666667
+4f9b0094-5f00-4555-af8f-6e28acfba0b9,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 74,GBP,5000,7000,None,None,6411.37,8975.92,None,None,SALVADOR DALÍ,1904,1989,Le Décameron,prints,BFK Rives wove paper,<NA>,125,174,mm,yes,yes,yes,1972,Michler and Löpsinger 552-61; Field 72-8,"figures, women, landscapes, trees, abstract patterns, hair, light, nature, bodies, erotica",10,073/150,"SALVADOR DALÍ (1904-1989)
+Le Décameron
+the complete set of ten drypoints in colours, 1972, on BFK Rives wove paper, each signed and numbered in pencil, with the title and justification pages, with text in Swedish, copy 73/150 (there were further editions with texts in English and Italian), published by Galerie Borjeson, Malmö, loose (as issued), with the original red fabric-covered portfolio case
+Plate 174 x 125 mm. (each)
+Portfolio 455 x 325 mm. (overall)
+
+Edition: 073/150",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0074_000(salvador_dali_le_decameron032937).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/salvador-dali-1904-1989-74/292534?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10350.6,8625.5
+9f951322-ef05-4f69-a984-1f0d3942ab72,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 75,GBP,4000,6000,None,None,5129.1,7693.64,None,None,SALVADOR DALÍ,1904,1989,"Lewis Carroll, Alice's Adventures in Wonderland",prints,"Mandeure wove paper, etching in colours, heliogravures",75,330,470,mm,no,yes,yes,1969,Michler & Löpsinger 321-333; Field 69-5,"tree, butterflies, woman, flower, landscape, turtle, dragonfly, abstract shapes, eyes, crown",13,<NA>,"SALVADOR DALÍ (1904-1989)
+Lewis Carroll, Alice's Adventures in Wonderland
+the set comprising one etching in colours and twelve heliogravures, 
+hors-texte
+, 1969, on Mandeure wove paper, with title, text and justification, stamp numbered 623, from the edition of 2500, published by Maecenas Press, Random House, New York, the full sheets, loose (as issued)
+470 x 330 x 75 mm. (album)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0075_000(salvador_dali_lewis_carroll_alices_adventures_in_wonderland033022).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/salvador-dali-1904-1989-75/292535?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.44,8583.7
+ef6f80f0-ec1d-40b2-81f3-7b3b866308b5,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 76,GBP,1500,2500,None,None,1923.41,3205.68,None,None,KONRAD KLAPHECK,1935,2023,A collection of three prints,prints,"drypoint with hand-colouring in gouache, lithograph in colours",<NA>,353,281,mm,yes,yes,yes,1964,"Zwirner 2, 3 and 5","prints, drypoint, lithograph, hand-colouring, machinery, colours, tools, artistic proof, wove paper",3,<NA>,"A collection of three prints
+comprising: 
+Armatur I (Die Sexbombe und ihr Begleiter) 
+(Z. 2)
+, 
+drypoint with hand-colouring in gouache, 1964, on wove paper, signed in pencil, presumably a proof aside from the edition of 75 published by Arturo Schwarz, Milan (Zwirner calls for one hand-coloured impression); 
+Bohrmaschine I (Die Intellektuelle) 
+(Z. 3), drypoint with hand-colouring in gouache and watercolour, 1964, on wove paper, signed in pencil, presumably a proof aside from the edition of one hundred, published by Arturo Schwarz, Milan (Zwirner calls for one hand-coloured impression); 
+and 
+Die Pleite (Der Sportschuh) 
+(Z. 5), lithograph in colours, 1967-68, on wove paper, signed and dedicated 
+fur Monsieur und Madame Block zum 13. II.1968, 
+presumably a proof aside from the edition of one hundred and thirty, published by Kestner-Gesellschaft, Hanover
+Plate 146 x 111 mm., Sheet 255 x 206 mm. (Z. 2)
+Plate 146 x 107 mm., Sheet 252 x 205 mm. (Z. 3)
+Image 281 x 353 mm., Sheet 397 x 528 mm. (Z. 5)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0076_000(konrad_klapheck_a_collection_of_three_prints033217).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/konrad-klapheck-1935-2023-76/292536?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1923.41,1602.8416666666667
+daa2feee-d9cd-45d0-a551-fcd58a0fc931,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 77,GBP,10000,15000,None,None,12822.74,19234.11,None,None,ROY LICHTENSTEIN,1923,1997,Shipboard Girl,prints,"offset lithograph in colours, wove paper",<NA>,486,660,mm,yes,yes,yes,1965,Corlett II.6,"girl, hair, sea, ship, fence, blue, lines, lips, face, expression",1,<NA>,"Shipboard Girl
+offset lithograph in colours, 1965, on wove paper, signed in pencil, from the edition of unknown size, published by Leo Castelli Gallery, New York
+Image 660 x 486 mm.
+Sheet 686 x 514 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0077_000(roy_lichtenstein_shipboard_girl011754).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/roy-lichtenstein-1923-1997-77/292537?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,16222.74,13518.95
+a75e20f5-e928-4b3b-84a5-88243e790969,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 78,GBP,10000,15000,None,None,12822.74,19234.11,None,None,ANDY WARHOL,1928,1987,Liz,prints,"offset lithograph in colours, wove paper",<NA>,557,559,mm,yes,yes,yes,1964,Feldman & Schellmann II.7,"woman, portrait, red lips, black hair, turquoise eyes, orange background",1,<NA>,"Liz
+offset lithograph in colours, 1964, on wove paper, signed and dated in ball-point pen, from the edition of approximately three hundred, published by Leo Castelli Gallery, New York
+Image 559 x 557 mm.
+Sheet 588 x 588 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0078_000(andy_warhol_liz013324).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/andy-warhol-1928-1987-78/292538?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,16215.65,13513.041666666666
+81b4b4aa-fca7-49b3-9293-a7532a9220e0,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 79,GBP,5000,7000,None,None,6411.37,8975.92,None,None,ROY LICHTENSTEIN,1923,1997,"Seascape II, from Collection 65",prints,"screenprint and die-cut collage in colours, blue Rowlux",90,630,335,mm,yes,yes,yes,1965,Corlett 40,"seascape, blue, wave, collage, screenprint, yellow, landscape, abstract, art, acrylic",1,087/100,"Seascape II, from Collection 65
+screenprint and die-cut collage in colours, 1965, on blue Rowlux, signed on the edition MAT label in ball-point pen on the Edition MAT label 
+verso, 
+numbered 87/100, published by Edition MAT, Cologne, in the original artist's frame
+335 x 630 x 90 mm. (Overall)
+
+Edition: 087/100",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0079_000(roy_lichtenstein_seascape_ii_from_collection_65033255).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/roy-lichtenstein-1923-1997-79/292539?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.92,8584.1
+a306c2bc-6fdb-4f97-bd33-6d4d02ccada5,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 80,GBP,1500,2000,None,None,1923.41,2564.55,None,None,VICTOR VASARELY,1906,1997,"René Descartes, Le Discours de la Méthode",prints,"BFK Rives wove paper, Plexiglas, aluminium",73,425,474,mm,yes,yes,yes,1969,<NA>,"lithographs, screenprints, Plexiglas, aluminium, black, colors, collage, portfolio, figures, abstract shapes, prints",21,092/138,"René Descartes, Le Discours de la Méthode
+the complete set of six lithographs and fourteen screenprints printed in black and in colours, two with collage elements, one Plexiglas multiple and one aluminium multiple, 1969, the prints on BFK Rives wove paper, with title, text, and justification, copy number 92, from the edition of 138 (there were also fifteen artist's proofs numbered in Roman numerals), each print signed in ballpoint pen or in pencil, numbered 92/138, published by Éditions Esselier, Paris, loose (as issued) in the original grey paper-covered portfolio box, with two internal Plexiglas flaps
+474 x 425 x 73 mm. (overall)
+
+Edition: 092/138",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0080_001(victor_vasarely_rene_descartes_le_discours_de_la_methode_d6577915033314).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/victor-vasarely-1906-1997-80/292540?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,2759.48,2299.5666666666666
+e0286ee6-57ad-41ef-bef1-43e0960abee2,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 82,GBP,4000,6000,None,None,5129.1,7693.64,None,None,FRANK STELLA,1936,2024,Multicoloured Squares I,prints,"offset lithographs in colours, wove paper",<NA>,554,406,mm,yes,yes,yes,1972,Axsom 76-81,"squares,color,lines",6,<NA>,"Multicoloured Squares I
+the set of six offset lithographs in colours, 1972, on wove paper, each signed and dated in pencil, inscribed 
+AP XIX
+, one of twenty artist's proofs aside from the edition of one hundred, each with the Vert Fonce S.A blindstamp, published by Petersburg Press, New York and London
+Image & Sheet 406 x 554 mm. (each)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0082_000(frank_stella_multicoloured_squares_i033658).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/frank-stella-1936-2024-82/292542?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.44,8583.7
+7bcee672-8597-422f-a26d-393edc47d24c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 83,GBP,500,700,None,None,641.14,897.59,None,None,ROBERT RAUSCHENBERG,1925,2008,Dwan Gallery poster,prints,"offset lithograph in colours, wove paper",<NA>,625,550,mm,yes,yes,yes,1965,Foster 34,"poster, man, ear, hands, photo, abstract shapes, colors, lines, texture, dots",1,<NA>,"Dwan Gallery poster
+offset lithograph in colours, 1965, on wove paper, signed in pencil, one of a few signed impressions, from an edition unknown size
+Image 550 x 625 mm.
+Sheet 585 x 633 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0083_000(robert_rauschenberg_dwan_gallery_poster033751).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/robert-rauschenberg-1925-2008-83/292543?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1030.88,859.0666666666668
+4211492e-3618-412b-a997-95f916831e00,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 84,GBP,4000,6000,None,None,5129.1,7693.64,None,None,JEAN DUBUFFET,1901,1985,L'Homme au chapeau,prints,"lithograph in colours, Arches wove paper",<NA>,384,525,mm,yes,yes,yes,1961,Webel 811,"man, hat",1,002/50,"L'Homme au chapeau
+lithograph in colours, 1961, on Arches wove paper, signed and dated in pencil, numbered 2/50 (there were also four 
+hors-commerce 
+impressions)
+Image 525 x 384 mm.
+Sheet 662 x 505 mm.
+
+Edition: 002/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0084_000(jean_dubuffet_lhomme_au_chapeau112446).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/jean-dubuffet-1901-1985-84/292544?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.44,8583.7
+0ef94e58-6b73-47be-96ea-5115c5fb2b0a,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 85,GBP,8000,12000,None,None,10258.19,15387.29,None,None,VARIOUS ARTISTS,<NA>,<NA>,Bauhaus I and II,prints,gelatin silver prints,<NA>,280,358,mm,yes,yes,yes,1919,<NA>,"portrait, group, eyes, egg, string, boxes, furniture, geometric shapes, textures, still life",20,<NA>,"Bauhaus I and II
+the complete set of twenty gelatin silver prints, 1919-1933, with title, text and justifications, two with stamped signatures (as issued), the remainder signed in pencil or ink in the margin 
+recto, 
+or 
+verso
+, each with the portfolio ink stamp 
+verso
+, numbered consecutively 
+I-10
+, 
+II-10
+, 
+EA III/XXX 
+in ink 
+verso
+, one of thirty artist's proof sets aside from the edition of seventy, printed from the original negatives under the supervision of the artists, published by Rudolf Kicken Gallery, Cologne, 1984-85, loose (as issued), with paper mounts, in the original grey cloth-covered portfolio
+Image, Sheet 358 x 280 mm. (and smaller)
+525 x 415 x 45 mm. (portfolio)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0085_000(various_artists_bauhaus_i_and_ii033827).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/various-artists-85/292545?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10500.3,8750.25
+618e6ca3-2a84-434e-9823-811416353356,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 86,GBP,2000,3000,None,None,2564.55,3846.82,None,None,SOPHIE TAEUBER-ARP,1889,1943,23 Gravures: one plate,prints,"etching, wove paper",<NA>,248,319,mm,yes,yes,yes,1935,<NA>,"lines, waves, abstract, etching, print, black and white, patterns, geometric, shapes, movement",1,024/50,"23 Gravures: one plate
+etching, 1935, on wove paper, signed in pencil, numbered 24/50, published by Orobitz et Cie., Paris
+Plate 274 x 210 mm.
+Sheet 319 x 248 mm.
+
+Edition: 024/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0086_000(sophie_taeuber-arp_23_gravures_one_plate033924).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/sophie-taeuber-arp-1889-1943-86/292546?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.3,4050.2500000000005
+67eb60b9-7561-4d71-bdbd-3609b3de6505,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 87,GBP,2000,3000,None,None,2564.55,3846.82,None,None,JOSEF ALBERS,1888,1976,Interaction of Color,prints,"wove paper, screenprints, offset lithographs, die-cuts, collages",140,280,370,mm,no,yes,yes,1963,see Danilowitz p. 20 & 207,"geometric shapes, color blocks, abstract composition, contrasting colors, layered forms, square patterns, rectangular shapes, graphic design, color theory, visual contrast",80,<NA>,"Interaction of Color
+the complete artist's portfolio, comprising eighty folders with screenprints, offset lithographs, die-cuts and collages, 1963, on wove paper, loose (as issued), with two bound volumes of text, and commentary, from the First Edition of two thousand, published by Yale University Press, New Haven and London, the commentary with paper covers, the text, box and slipcase in brown cloth, with the title printed in grey on the spines
+370 x 280 x 140 mm. (overall)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0087_000(josef_albers_interaction_of_color033937).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/josef-albers-1888-1976-87/292547?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+fb873c83-d657-40fc-b388-4806d3e0acd3,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 88,GBP,10000,15000,None,None,12822.74,19234.11,None,None,BLINKY PALERMO,1943,1977,4 Prototypen,prints,"thick wove paper, screenprints in colours",<NA>,590,590,mm,yes,yes,yes,1970,"With Galerie Daniel Blau, Munich, Germany.
+With Schönewald Fine Arts, Xanten, Germany.
+Acquired from the above by the present owner in 2005.","blue triangle, gray oval, black square, green triangle",1,090/90,"4 Prototypen
+the complete set of four screenprints in colours, 1970, on thick wove paper, each signed and dated in pencil, numbered 90/90, published by Galerie Heiner Friedrich, Munich; together with the title, justification and original paper folder
+Sheet 590 x 590 mm. (each)
+
+Edition: 090/90",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0088_000(blinky_palermo_4_prototypen034009).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/blinky-palermo-1943-1977-88/292548?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,16200.48,13500.4
+155fef9b-8c9c-476d-bced-cf3e4e5a79d8,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 89,GBP,15000,25000,None,None,19234.11,32056.85,None,None,MAURITS CORNELIS ESCHER,1898,1972,Vlakvulling II (Plane filling II),prints,"lithograph, Van Gelder Holland wove paper",<NA>,370,315,mm,yes,yes,yes,1957,Acquired directly from the artist; then by descent to the present owner.,"animals, human figures, fish, birds, reptiles, elephants, abstraction, surrealism, mythical creatures",1,052/56,"Vlakvulling II (Plane filling II)
+lithograph, 1957, on Van Gelder Holland wove paper, signed in pencil, numbered 
+No. 52/56
+Image 315 x 370 mm.
+Sheet 426 x 480 mm.
+
+Edition: 052/56",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0089_000(maurits_cornelis_escher_vlakvulling_ii034051).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/maurits-cornelis-escher-1898-1972-89/292549?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,24252.8,20210.666666666668
+e63b65a7-54bd-4233-b60e-a46b8e591fc8,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 90,GBP,25000,35000,None,None,32056.85,44879.59,None,None,MAURITS CORNELIS ESCHER,1898,1972,Day and Night,prints,woodcut in black and grey on tissue-thin Japon paper,<NA>,700,422,mm,yes,yes,yes,1938,Acquired directly from the artist; then by descent.,"birds, river, fields, village, church, windmill, landscape, trees, patterns, light and dark",1,<NA>,"Day and Night
+woodcut in black and grey, 1938, on tissue-thin 
+Japon 
+paper, signed in pencil
+Block 390 x 679 mm.
+Sheet 422 x 700 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0090_000(maurits_cornelis_escher_day_and_night013341).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/maurits-cornelis-escher-1898-1972-90/292550?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,35448.0,29540.0
+d9dce835-1c3e-41ee-9f8b-818b3f7ef3b6,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 91,GBP,6000,8000,None,None,7693.64,10258.19,None,None,EDVARD MUNCH,1863,1944,"Tête-à-tête, from: Meier-Graefe Portfolio",prints,"etching with drypoint, heavy wove paper",<NA>,452,345,mm,no,yes,yes,1894,"Private Collection, Italy; then by descent.","man, woman, smoke, glasses, table, window, dark background, facial expressions, cloth, intimate setting",1,<NA>,"Tête-à-tête, from: Meier-Graefe Portfolio
+etching with drypoint, 1894, on heavy wove paper, Woll's third, final state, after steel-facing, unsigned (as issued), from the edition of 55 (there were also ten on Japan paper before steel-facing)
+Plate 220 x 328 mm. 
+Sheet 345 x 452 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0091_000(edvard_munch_tete-a-tete_from_meier-graefe_portfolio034107).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/edvard-munch-1863-1944-91/292551?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10395.3,8662.75
+5570eb3f-9dac-4084-9ac6-ed8cb74ff8e8,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 92,GBP,6000,8000,None,None,7693.64,10258.19,None,None,WASSILY KANDINSKY,1866,1944,Kleine Welten III,prints,"lithograph in colours, wove paper",<NA>,230,277,mm,yes,yes,yes,1922,Rosenthal 166,"abstract shapes, colors, lines, patterns, geometric forms",1,<NA>,"Kleine Welten III
+lithograph in colours, 1922, on wove paper, signed in pencil, from the edition of two hundred (there was also a deluxe edition of thirty on 
+Japon 
+paper), published by Propyläen Verlag, Berlin
+Image 277 x 230 mm.
+Sheet 355 x 276 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0092_000(wassily_kandinsky_kleine_welten_iii034124).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/wassily-kandinsky-1866-1944-92/292552?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10500.0,8750.0
+51a6dfde-0463-4278-9120-33585349556c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 93,GBP,2200,3800,None,None,2821.0,4872.64,None,None,MAX ERNST,1891,1976,"Zu: Kurt Schwitters, La loterie au jardin zoologique",prints,"etching with hand-colouring in watercolour, cream wove paper",<NA>,184,240,mm,yes,yes,yes,1951,Spies & Leppien 53C.,"etching, hand-colouring, watercolour, cream wove paper, abstract figures, zoo, circus elements, surrealism, Max Ernst, coloration, textures",1,008/12,"Zu: Kurt Schwitters, La loterie au jardin zoologique
+etching with hand-colouring in watercolour, 1951, on cream wove paper, Spies & Leppien's edition C (of E), signed in pencil, numbered 8/12, one of two impressions from this edition with hand-colouring (there were a further six hand-coloured impressions on grey Ingres, aside from the edition of fifty without hand-colouring), published by Librairie Les Pas Perdus, Paris
+Plate 120 x 90 mm.
+Sheet 240 x 184 mm.
+
+Edition: 008/12",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0093_000(max_ernst_zu_kurt_schwitters_la_loterie_au_jardin_zoologique034138).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/max-ernst-1891-1976-93/292553?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,3540.2,2950.1666666666665
+80029ce4-dcae-4744-8df4-d08da020801c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 94,GBP,350,500,None,None,448.8,641.14,None,None,MAX ERNST,1891,1976,Hibou,prints,"lithograph in colours, cream wove paper",<NA>,362,492,mm,yes,yes,yes,1955,Spies & Leppien 64D,"owl, abstract shapes, red background, grey patterns, human figure, artistic composition, lithograph, signed, numbered edition",1,150/220,"Hibou
+lithograph in colours, 1955, on cream wove paper, watermark 
+Pur JhI
+, Spies & Leppien's edition D (of F), signed in pencil, numbered 150/220, published by Guilde de la Gravure, Geneva and Paris
+Image 492 x 362 mm.
+Sheet 570 x 382 mm.
+
+Edition: 150/220",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0094_000(max_ernst_hibou034152).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/max-ernst-1891-1976-94/292555?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1094.92,912.4333333333334
+c7836599-de9d-4144-9704-d11b81f402dd,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 95,GBP,600,800,None,None,769.36,1025.82,None,None,MAX ERNST,1891,1976,Montagne sacrée,prints,"etching and aquatint in colours, cream BFK Rives wove paper",<NA>,282,380,mm,yes,yes,yes,1963,Spies & Leppien 91B,"sun, landscape, hills, colors, etching, aquatint, yellow, black, pink, texture",1,005/51,"Montagne sacrée
+etching and aquatint in colours, 1963, on cream BFK Rives wove paper, Spies & Leppien's edition B (of C), signed in pencil, numbered 5/51, published by Georges Visat, Paris
+Plate 150 x 133 mm. 
+Sheet 380 x 282 mm.
+
+Edition: 005/51",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0095_000(max_ernst_montagne_sacree034205).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/max-ernst-1891-1976-95/292554?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1050.65,875.5416666666667
+2e05bd8c-d01d-428c-82f6-018f67a082ce,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 96,GBP,200,300,None,None,256.45,384.68,None,None,ANDRE MASSON,1896,1987,Rêve d'eau,prints,"etching, aquatint and drypoint in colours",<NA>,375,325,mm,yes,yes,yes,1967,"With Galerie Catherine Houard, Paris. 
+Acquired from the above; then by descent.","abstract shapes, colors, lines, patterns, organic forms",1,<NA>,"Rêve d'eau
+etching, aquatint and drypoint in colours, 1967, on BFK Rives wove paper, signed in pencil, inscribed 
+E.A.
+, an artist's proof, from an unknown edition size
+Plate 205 x 265 mm.
+Sheet 325 x 375 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0096_000(andre_masson_reve_deau034216).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/andre-masson-1896-1987-96/292556?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1620.09,1350.075
+4a9635af-6ac1-47cf-b722-0f7fa3fba1e4,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 97,GBP,1000,1500,None,None,1282.27,1923.41,None,None,PAUL DELVAUX,1897,1994,Les Rivales,prints,"lithograph in colours, BFK Rives wove paper",<NA>,505,650,mm,yes,yes,yes,1966,Jacob 5,"woman, dress, hat, indoor setting, floor, background, jewelry, hair, standing figures, lighting",1,<NA>,"Les Rivales
+lithograph in colours, 1966, on BFK Rives wove paper, signed in pencil, inscribed 
+H.C
+., a 
+hors commerce 
+impression, aside from the edition of 75 published by Galerie Le Bateau-Lavoir, Paris
+Image 650 x 505 mm.
+Sheet 760 x 565 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0097_000(paul_delvaux_les_rivales111049).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/paul-delvaux-1897-1994-97/292557?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1620.23,1350.1916666666668
+53563d82-fc5d-41e9-8591-b490cec521e4,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 98,GBP,1000,1500,None,None,1282.27,1923.41,None,None,PAUL DELVAUX,1897,<NA>,Anne songeuse,prints,"lithograph in colours, BFK Rives wove paper",<NA>,510,650,mm,yes,yes,yes,1966,Jacob 7,"woman, yellow dress, straw hat, seated, garden, architecture, trees, tiles, landscape, blue dress",1,<NA>,"Anne songeuse
+lithograph in colours, 1966, on BFK Rives wove paper, signed in pencil, inscribed H.C., a 
+hors commerce 
+impression aside from the edition of 75 published by Galerie Le Bateau-Lavoir, Paris
+Image 650 x 510 mm. 
+Sheet 752 x 560 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0098_000(paul_delvaux_anne_songeuse_d6577933074607).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/paul-delvaux-b-1897-98/292559?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1620.23,1350.1916666666668
+59f7c73c-e576-4690-9b10-b46b22e1c7fe,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 99,GBP,700,1000,None,None,897.59,1282.27,None,None,MAN RAY,1890,1976,Julie,prints,"lithograph in colours, Arches wove paper",<NA>,374,473,mm,yes,yes,yes,1970,Anselmino 9,"woman, hands, blue eyes, black hair, red flower, abstract background, colors, portrait",1,<NA>,"Julie
+lithograph in colours, 1970, on Arches wove paper, signed in pencil, inscribed EA, an artist's proof aside from the edition of 110, published by Richard Binder, Brussels
+Image 473 x 374 mm. 
+Sheet 655 x 482 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0099_000(man_ray_julie034252).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/man-ray-1890-1976-99/292558?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1296.04,1080.0333333333333
+61e1e00a-5861-4c60-a096-f1dde577cb6e,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 100,GBP,700,1000,None,None,897.59,1282.27,None,None,MAN RAY,1890,1976,The Rope-Dancer accompanies herself with her Shadow,prints,"lithograph in colours, Arches wove paper",<NA>,705,502,mm,yes,yes,yes,1970,Anselmino 26,"rope-dancer, shadow, colours, lithograph, abstract shapes, lines, figures, composition",1,<NA>,"The Rope-Dancer accompanies herself with her Shadow
+lithograph in colours, 1970, on Arches wove paper, signed in pencil, inscribed 
+H.C
+., an 
+hors commerce 
+impression aside from the edition of 99 (there was also an edition of twenty on 
+Japon 
+paper numbered in Roman numerals
+), 
+published by Michel Toselli, Paris
+Image 502 x 705 mm.
+Sheet 562 x 760 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0100_000(man_ray_the_rope-dancer_accompanies_herself_with_her_shadow034305).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/man-ray-1890-1976-100/292560?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1299.59,1082.9916666666666
+26951a2d-8bae-46fc-bf91-f86b26065924,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 101,GBP,1500,2000,None,None,1923.41,2564.55,None,None,PAULA REGO,1935,2022,"Girl reading at Window, from: Jane Eyre - Poetry and Story",prints,"lithograph in colours, Somerset textured wove paper",<NA>,790,565,mm,yes,yes,yes,2001,Rosenthal 210,"girl, reading, window, interior, figures, curtains, dress, landscape, paper, illustration",1,033/50,"Girl reading at Window, from: Jane Eyre - Poetry and Story
+lithograph in colours, 2001-2002, on Somerset textured wove paper, signed in pencil, numbered 33/50, published by the artist and Marlborough Graphics, London, 2003
+Image 565 x 790 mm.
+Sheet 715 x 849 mm.
+
+Edition: 033/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0101_000(paula_rego_girl_reading_at_window_from_jane_eyre_-_poetry_and_story034318).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/paula-rego-1935-2022-101/292561?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,2754.65,2295.541666666667
+feeabc10-aa62-4dc7-b0c3-77acfd0314f8,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 102,GBP,1500,2000,None,None,1923.41,2564.55,None,None,PAULA REGO,1935,2022,Apr&#232;s la f&#234;te II,prints,"lithograph in colours, Somerset wove paper",<NA>,200,256,mm,yes,yes,yes,2003,Rosenthal 222,"woman, tiger, figure, portrait, lying, hair, face, background, body, expression",1,020/50,"Après la fête II
+lithograph in colours, 2003, on Somerset wove paper, signed in pencil, numbered 20/50 (there were also 25 numbered in Roman numerals and 14 artist's proofs), loose (as issued), in the deluxe edition of T.G. Rosenthal, 
+Paula Rego: The Complete Graphic Work
+, copy number 20, published by Thames & Hudson Ltd., London, in the original red cloth slipcase
+Image 256 x 200 mm.
+Sheet 280 x 200 mm.
+315 x 250 x 40 mm. (book with slipcase)
+
+Edition: 020/50",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0102_000(paula_rego_apres_la_fete_ii034333).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/paula-rego-1935-2022-102/292562?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,2754.7,2295.5833333333335
+e8c3fd7c-1ce6-40d9-b0db-4a9480657028,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 103,GBP,1000,1500,None,None,1282.27,1923.41,None,None,HENRY MOORE,1898,1986,Reclining and Standing Figure and Family Group,prints,"lithograph in colours, wove paper",<NA>,321,438,mm,yes,yes,yes,1973,"Stanley Jones (1933-2023), master printer, Curwen Press (with his archive blindstamp).","reclining figure, standing figure, family group, lithograph, colors, abstract form, sculpture, human figures, shapes",1,<NA>,"Reclining and Standing Figure and Family Group
+lithograph in colours, 1973, on wove paper, signed and dated in pencil, a printer's proof aside from the edition of fifty (there were also ten numbered in Roman numerals and twenty 
+hors commerce 
+impressions), published by Société Internationale d'Art XXe Siècle, Paris
+Image 438 x 321 mm. 
+Sheet 657 x 504 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0103_000(henry_moore_reclining_and_standing_figure_and_family_group034354).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henry-moore-1898-1986-103/292563?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,,
+c4a963b2-e80d-4c04-b8ac-508b00c87531,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 104,GBP,8000,12000,None,None,10258.19,15387.29,None,None,LAURENCE STEPHEN LOWRY,1887,1976,Going to the Match,prints,"offset lithograph in colours, wove paper",<NA>,685,530,mm,yes,yes,yes,1972,<NA>,"people,crowd,buildings,football match,trees,flag,urban landscape,city skyline,streets,industries",1,<NA>,"Going to the Match
+offset lithograph in colours, 1972, on wove paper, signed in pencil, from the edition of 300, published by the Medici Society, London, with the Fine Art Trade Guild blindstamp
+Image 530 x 685 mm.
+Sheet 641 x 785 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0104_000(laurence_stephen_lowry_going_to_the_match034407).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/laurence-stephen-lowry-1887-1976-104/292564?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12950.59,10792.158333333335
+7583c2be-5f59-4b8b-9d1b-c93299ab8660,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 105,GBP,6000,8000,None,None,7693.64,10258.19,None,None,HENRI MATISSE,1869,1954,"Le Loup Garou, from: Jazz",prints,"pochoir in colours, wove paper",<NA>,631,420,mm,no,yes,yes,1947,see Duthuit books 22,"wolf, colors, abstract shapes, cutouts, face, blue, pink, green, orange, red",1,<NA>,"Le Loup Garou, from: Jazz
+pochoir in colours, 1947, on wove paper, from the unfolded deluxe edition of one hundred (there were also twenty 
+hors commerce 
+impressions), published by Tériade, Paris
+Image 420 x 631 mm.
+Sheet 425 x 655 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0105_000(henri_matisse_le_loup_garou_from_jazz034430).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-105/292565?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10500.0,8750.0
+1b5f868d-c1d8-4cd3-8928-4f654f5e4eff,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 106,GBP,8000,12000,None,None,10258.19,15387.29,None,None,MARC CHAGALL,1887,1985,"Hyménée, from: Daphnis et Chloé",prints,"lithograph in colours, Arches wove paper",<NA>,636,418,mm,yes,yes,yes,1961,Mourlot 349; see Cramer books 46,"figures, couple, crowd, blue, red, green, yellow, landscape, building, sheep",1,060/60,"Hyménée, from: Daphnis et Chloé
+lithograph in colours, 1961, on Arches wove paper, signed in pencil, numbered 60/60 (there was also an unsigned edition of 250 without margins), published by Tériade Editeur, Paris
+Image 418 x 636 mm.
+Sheet 535 x 752 mm.
+
+Edition: 060/60",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0106_000(marc_chagall_hymenee_from_daphnis_et_chloe111119).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/marc-chagall-1887-1985-106/292566?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,12900.49,10750.408333333333
+6810831f-8e0a-4271-894c-dc93ce151733,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 107,GBP,3000,5000,None,None,3846.82,6411.37,None,None,MARC CHAGALL,1887,1985,Mère et Enfant devant Notre-Dame,prints,"lithograph in colours, cream wove paper",<NA>,270,360,mm,yes,yes,yes,1952,"With William Weston Gallery, London (their label 
+verso
+).","mother, child, Notre-Dame, lithograph, blue background, clock, figures, nature, architecture, color",1,052/75,"Mère et Enfant devant Notre-Dame
+lithograph in colours, 1952, on cream wove paper, signed in pencil, numbered 52/75, published by Verve, Paris
+Image & Sheet 360 x 270 mm.
+
+Edition: 052/75",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0107_000(marc_chagall_mere_et_enfant_devant_notre-dame034456).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/marc-chagall-1887-1985-107/292567?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+d1b58862-75a7-47e1-a758-3a573f2fa717,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 108,GBP,5000,7000,None,None,6411.37,8975.92,None,None,AFTER PABLO PICASSO,1881,1973,Intérieur rouge avec un transatlantique bleu,prints,"etching and aquatint in colours, BFK Rives wove paper",<NA>,502,661,mm,yes,yes,yes,1959,<NA>,"interior, red color, blue chair, palm trees, windows, geometric shapes, foliage, outlined figures, bright colors, patterns",1,067/300,"Intérieur rouge avec un transatlantique bleu
+etching and aquatint in colours, 1959, on BFK Rives wove paper, signed in red pencil (faded), numbered 67/300, printed and published by Atelier Crommelynck, Paris, with their blindstamp
+Plate 405 x 325 mm.
+Sheet 661 x 502 mm.
+
+Edition: 067/300",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0108_000(after_pablo_picasso_interieur_rouge_avec_un_transatlantique_bleu034510).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/after-pablo-picasso-1881-1973-108/292568?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10395.25,8662.708333333334
+8802760b-6fe2-42dc-9d18-1ad6cfaecfd9,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 109,GBP,3000,5000,None,None,3846.82,6411.37,None,None,ERNST LUDWIG KIRCHNER,1880,1938,Tanzerpaar in kleinem Varieté,prints,"lithograph, on firm grey wove paper",<NA>,315,421,mm,yes,yes,yes,1911,"Estate of the artist; on the reverse with the estate stamp of the Kunstmuseum Basel (Lugt 1570b) 
+verso
+, inscribed with the Schiefler number in black ink 
+L 
+119 I.","couple, performers, audience, stage, hair, costumes, seated figures, lines, expressions, variety",1,<NA>,"Tanzerpaar in kleinem Varieté
+lithograph, 1911, on firm grey wove paper, first state (of two), probably unique (Gercken records only the present impression of the first state, and two of the second, final state), signed in pencil by Erna Schilling, inscribed 
+Handdruck, 
+stamped on the reverse 
+Unverkäuflich E. L. Kirchner
+, and with the artist's estate stamp numbered 
+L 
+119 I 
+in black ink 
+verso
+Image 421 x 315 mm.
+Sheet 540 x 395 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0109_000(ernst_ludwig_kirchner_tanzerpaar_in_kleinem_variete034524).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/ernst-ludwig-kirchner-1880-1938-109/292569?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+f0a6b294-7f2d-487c-98c9-319a26b03bdb,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 110,GBP,6000,8000,None,None,7693.64,10258.19,None,None,HENRI MATISSE,1869,1954,"Danseuse assise, from: Dix Danseuses",prints,"lithograph, Arches wove paper",<NA>,274,435,mm,yes,yes,yes,1925,Duthuit 480,"dancer, sitting, ballet, tutu, necklace, floral pattern, legs, arms, torso, face",1,123/130,"Danseuse assise, from: Dix Danseuses
+lithograph, 1925-26, on Arches wove paper, signed in pencil, numbered 123/130 (there were also five on 
+Chine
+,15 on 
+Japon 
+and eight 
+hors commerce 
+impressions), published by Galerie d'Art Contemporain, Paris, 1927
+Image 435 x 274 mm.
+Sheet 490 x 329 mm.
+
+Edition: 123/130",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0110_000(henri_matisse_danseuse_assise_from_dix_danseuses034538).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-110/292584?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.69,8583.908333333335
+35f11a76-e2b5-4c5a-a308-de6f0b6cf96c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 111,GBP,4400,6000,None,None,5642.01,7693.64,None,None,HENRI MATISSE,1869,1954,"Danseuse au tabouret, from: Dix Danseuses",prints,"lithograph, Arches wove paper",<NA>,278,455,mm,yes,yes,yes,1925,Duthuit 481,"dancer, stool, ballet, legs, dress, necklace, hairstyle, shadow, chair, figure",1,025/130,"Danseuse au tabouret, from: Dix Danseuses
+lithograph, 1925-26, on Arches wove paper, signed in pencil, numbered 25/130 (there were also five on 
+Chine
+,15 on 
+Japon 
+and eight 
+hors commerce 
+impressions), published by Galerie d'Art Contemporain de Paris, Paris, 1927
+Image 455 x 278 mm.
+Sheet 503 x 328 mm.
+
+Edition: 025/130",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0111_000(henri_matisse_danseuse_au_tabouret_from_dix_danseuses034552).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-111/292583?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10350.69,8625.575
+6ea6c852-9bc6-4e2f-ae8b-fe6814e86342,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 112,GBP,3000,4400,None,None,3846.82,5642.01,None,None,HENRI MATISSE,1869,1954,"Danseuse au fauteuil en bois, from: Dix Danseuses",prints,"lithograph, Arches wove paper",<NA>,250,458,mm,yes,yes,yes,1925,Duthuit 483,"dancer, chair, wooden, ballet, dress, lace, arm, hand, legs, expression",1,117/130,"Danseuse au fauteuil en bois, from: Dix Danseuses
+lithograph, 1925-26, on Arches wove paper, signed in pencil, numbered 117/130 (there were also five impressions on 
+Chine
+, 15 on 
+Japon 
+and eight 
+hors commerce
+), published by the Galerie d'Art Contemporain de Paris, 1927
+Image 458 x 250 mm.
+Sheet 480 x 301 mm.
+
+Edition: 117/130",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0112_000(henri_matisse_danseuse_au_fauteuil_en_bois_from_dix_danseuses035001).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/henri-matisse-1869-1954-112/292572?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.48,4050.3999999999996
+bcb46415-6e40-474a-a2f7-491192c35f2e,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 113,GBP,600,800,None,None,769.36,1025.82,None,None,RAOUL DUFY,1877,1953,La grande baigneuse,prints,"lithograph in colours, on wove paper; another impression printed in black from the key stone only, on Arches wove paper",<NA>,525,680,mm,yes,yes,yes,1928,"Henri Marie Petiet (1894-1980), Paris (Lugt 5031); his sale, Piasa, Paris, 4 December 2014, lot 55.
+Acquired from the above; then by descent.","nude woman, seascape, sailboats, ships, draped cloth, water, landscape, figure, waves, abstract patterns",2,039/40,"La grande baigneuse
+lithograph in colours, 
+circa 
+1928, on wove paper, signed in pencil, numbered 39/40, published by La Galerie des Peintres-Graveurs, Paris; together with 
+another impression printed in black 
+from the key stone only, on Arches wove paper, presumably a proof before the edition, signed in pencil
+Image 680 x 525 mm., Sheet 840 x 628 mm. (lithograph in colours)
+Image 670 x 525 mm., Sheet 910 x 630 mm. (lithograph in black)
+
+Edition: 039/40",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0113_000(raoul_dufy_la_grande_baigneuse111134).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/raoul-dufy-1877-1953-113/292586?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1296.48,1080.4
+1dbb4d66-a25d-487a-a4cc-b4ef04bebeeb,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 114,GBP,3000,5000,None,None,3846.82,6411.37,None,None,ODILON REDON,1840,1916,"Béatrice, from: Album des Peintres-Graveurs",prints,"lithograph in colours, Chine appliqué to wove paper",<NA>,292,252,mm,yes,yes,yes,1897,Mellerio 168,"woman, portrait, lithograph, yellow, blue, floral, silhouette",1,<NA>,"Béatrice, from: 
+Album des Peintres-Graveurs
+lithograph in colours, 1897, on 
+Chine appliqué 
+to wove paper, signed in pencil, from the edition of one hundred, published by Ambroise Vollard, Paris
+Image 252 x 292 mm.
+Sheet 538 x 408 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0114_000(odilon_redon_beatrice_from_album_des_peintres-graveurs035049).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/odilon-redon-1840-1916-114/292585?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+734979cf-3a6b-4e58-b0e0-dd3f509139be,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 115,GBP,3000,5000,None,None,3846.82,6411.37,None,None,ODILON REDON,1840,1916,Tête d'enfant avec fleurs,prints,"lithograph in brown and grey with touches of hand-colouring in pastel, chine paper",<NA>,222,252,mm,yes,yes,yes,1897,Mellerio 169,"child, flowers, face, pastel, lithograph, brown, grey, hair",1,<NA>,"Tête d'enfant avec fleurs
+lithograph in brown and grey with touches of hand-colouring in pastel, 1897, on c
+hine 
+paper, inscribed and signed with initials '
+Mai. OdR.
+' in pencil, from the edition of fifty of which approximately 15 were hand-coloured, the sheet folded on all four sides to fit the frame, the signature not visible
+Image 252 x 222 mm. 
+Sheet 457 x 318 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0115_000(odilon_redon_tete_denfant_avec_fleurs035102).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/odilon-redon-1840-1916-115/292575?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+da9e241d-b83f-46d6-a66e-b72e0908d232,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 116,GBP,700,1000,None,None,897.59,1282.27,None,None,RAOUL DUFY,1877,1953,"Alphonse Daudet, Aventures Prodigieuses de Tartarin de Tarascon: three double-pages",prints,"lithographs in colours, wove paper",<NA>,500,323,mm,no,yes,yes,1937,<NA>,"Tartarin, double-pages, lithographs, trial proofs, watermarked paper, printer's instructions",1,<NA>,"Alphonse Daudet
+, Aventures Prodigieuses de Tartarin de Tarascon: 
+three double-pages
+lithographs in colours 
+en-texte
+, 1937, on three sheets of wove paper, watermarked with the artist's and author's names, printed 
+recto 
+and 
+verso
+, trial proofs before the edition of one hundred and thirty published by Scripta et Picta, Paris, with the central fold (as issued), some printer's instructions in pencil in the margins
+323 x 500 mm. (each, unfolded)",/Content/img/christies-roundel.svg,https://onlineonly.christies.com/s/prints-multiples/raoul-dufy-1877-1953-116/292592?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1296.02,1080.0166666666667
+8366355a-783c-401e-96dc-f31715844d32,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 117,GBP,3000,5000,None,None,3846.82,6411.37,None,None,OTTO MUELLER,1874,1930,Polnische Familie,prints,"lithograph, hand-coloured with watercolour and crayon",<NA>,190,255,mm,yes,yes,yes,1920,"Karsch 114; Söhn 72709-6 (Vol. Vll, p.113)","family, mother, child, father, clothing, brick wall, trees, hand-colouring, lithograph, watercolor",1,<NA>,"Polnische Familie
+lithograph, hand-coloured with watercolour and crayon, 1920-21, on wove paper, signed in pencil, one of 25 hand-coloured impressions (there were also one hundred impressions without handcolouring), published by Paul Westheim in the perdioical 
+Die Schaffenden 
+(2nd year, 4th issue), Gustav Kiepenheuer Verlag, Weimar, with their blindstamp
+Image 255 x 190 mm.
+Sheet 378 x 287 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0117_000(otto_mueller_polnische_familie035117).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/otto-mueller-1874-1930-117/292587?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,4860.6,4050.5000000000005
+612bdafa-df5c-43b9-a8a4-96836158da31,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 118,GBP,1800,2500,None,None,2308.09,3205.68,None,None,JAMES MCNEILL WHISTLER,1834,1903,Free Trade Wharf,prints,"etching and drypoint in dark brown ink, etching and drypoint in greyish black ink on laid paper",<NA>,184,98,mm,no,yes,yes,1877,"With Childs Gallery, Boston.
+Purchased from the above by the present owner, 1994.","wharf, ships, water, buildings, boats, docks, sky, clouds, river, landscape",2,<NA>,"Free Trade Wharf
+etching and drypoint in dark brown ink, 1877, on laid paper, Glasgow's fourth state (of eight), from an edition of approximately one hundred, published by the Fine Art Society, 1879, London; together with 
+Battersea Dawn (Cadogan Pier), from: Thames Set
+, etching and drypoint in greyish black ink, 1863, on laid paper, Glasgow's second, final state, published by Ellis & Green, London, 1871
+Plate 98 x 184 mm.; Sheet 180 x 263 mm. (Glasgow 171)
+Plate 111 x 149 mm.; Sheet 167 x 176 mm. (Glasgow 95)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0118_000(james_mcneill_whistler_free_trade_wharf035131).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/james-mcneill-whistler-1834-1903-118/292589?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,2772.03,2310.025
+909bb467-94b7-454b-b1cf-b32d21f4b235,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 119,GBP,6000,8000,None,None,7693.64,10258.19,None,None,PABLO PICASSO,1881,1973,La Série 156: four plates,prints,"etchings, drypoint, aquatint, wove paper",<NA>,376,275,mm,yes,yes,yes,1966,"Bloch 1407, 1410, 1431, 1436; Baer 1422, 1425, 1459, 1466","figures, dancers, nudes, musicians, masks, animals, abstract shapes, performers, movement, lines",4,<NA>,"La Série 156: four plates
+four etchings, some with drypoint and aquatint, 1966, on wove paper, each with the artist's stamped-signature, inscribed 
+E.A. 
+and variously numbered in Roman numerals in pencil, each an artist's proof aside from the numbered edition of fifty, published by Galerie Louise Leiris, Paris, 1981, each with a repaired tear in the lower margin
+Plate 275 x 376 mm. (and smaller)
+Sheet 410 x 498 mm. (and smaller)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0119_000(pablo_picasso_la_serie_156_four_plates035208).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-119/292578?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,10300.69,8583.908333333335
+97343f23-2bc7-41bb-bdf6-72b32a464cdb,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 120,GBP,500,800,None,None,641.14,1025.82,None,None,PABLO PICASSO,1881,1973,Poster for the Alex Maguy Gallery,prints,"lithograph in colours, wove paper",<NA>,340,540,mm,no,yes,yes,1962,Mourlot 382,"face, exhibition, colors, lithograph, text, art gallery, woman, abstract, portrait",1,<NA>,"Poster for the Alex Maguy Gallery
+lithograph in colours, 1962, on wove paper, from the edition of two thousand, published by Alex Maguy
+Image 540 x 340 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0120_000(pablo_picasso_poster_for_the_alex_maguy_gallery035242).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/pablo-picasso-1881-1973-120/292588?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1050.65,875.5416666666667
+78d9277b-2e4b-4253-984d-e5fd342834fc,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 121,GBP,600,800,None,None,769.36,1025.82,None,None,DAVID HOCKNEY,1937,<NA>,A collection of six exhibition posters,prints,paper,<NA>,940,685,mm,yes,yes,yes,1980,A gift from the artist; then by descent.,"exhibition posters, flowers, figures, opera, art gallery, graphic design",6,<NA>,"A collection of six exhibition posters
+comprising:
+David Hockney: Travels with Pen, Pencil and Ink
+, Tate Gallery, London, 1980 (Celia in a Black Dress with White Flowers, 1972): 
+two copies
+, one signed in ink; the other signed in red and green felt-tip (framed) (B. 48);
+Paris Review 25
+th 
+Anniversary 1981 
+(Flower Study, 1980), signed and dedicated ‘for Ken love David H’ (B. 99);
+TRISTAN und ISOLDE/RICHARD WAGNER
+, Los Angeles Music Center Opera, 1987, signed in gold felt tip (B. 182);
+Hockney Paints the Stage
+, Walker Art Center, 20 November 1983 to 22 January 1984, signed and dedicated in black felt-tip pen (B. 110); and
+1
+st 
+British International Print Biennale
+, Bradford City Art Gallery and Museums, Cartwright Hall, Bradford, Yorkshire (Tree with Grass, 1968) (Baggott 20)
+Image & Sheet 685 x 940 mm. (and smaller)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0121_000(david_hockney_a_collection_of_six_exhibition_posters111212).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-121/292590?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1296.48,1080.4
+e0f7bd5a-1932-45e8-87a1-be4630f6fb3c,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 122,GBP,1500,2000,None,None,1923.41,2564.55,None,None,DAVID HOCKNEY,1937,<NA>,A collection of 21 exhibition posters,prints,paper,<NA>,860,970,mm,no,yes,yes,1980,A gift from the artist; then by descent.,"posters, exhibition, David Hockney, pool, dogs, flowers, art galleries, paintings, drawings, retrospectives",21,<NA>,"A collection of 21 exhibition posters
+comprising:
+David Hockney piscines de papier
+, Editions Herscher, Paris, 1980 (Day Pool with Three Blues, 1978) (Baggott 90);
+Hockney’s Progress
+, Graves Art Gallery, Sheffield, 19 September-26 October 1980 (The Artist’s Mother, 1978) (B. 92): 
+three copies
+; 
+David Hockney Prints and Drawings of Celia 1970-1980, 
+Thorden Wetterling Konsthandel Göteborg May-June 1981 (Celia Wearing Checked Sleeves, 1973) (see B. 61);
+The artist’s eye, David Hockney, Looking at Pictures on a Screen
+, National Gallery, 1 July - 31 August 1981 (B. 87): 
+two copies;
+MULHOLLAND DRIVE: THE ROAD TO THE STUDIO, DAVID HOCKNEY
+, Los Angeles County Museum of Art, 1987 (B. 120);
+DAVID HOCKNEY: A Retrospective
+, Tate Gallery, 1988 (My Mother, Bridlington, 1988) (B. 187): 
+three copies
+;
+DAVID HOCKNEY A RETROSPECTIVE
+, Los Angeles County Museum of Art, 4 February – 24 April 1988 (Beach Umbrella, 1971) (B. 44);
+DAVID HOCKNEY A Retrospective
+, Tate Gallery, 27 October – 8 January 1989 (Little Stanley Sleeping, 1987) (B. 183): 
+two copies
+;
+David Hockney New Drawings
+, Salts Mill, Saltaire, Yorkshire, 1994 (John Fitzherbert, 1993) (not in B.);
+David Hockney Dog Paintings
+, Salts Mill, 1995 (Dog Painting 38, 1995) (not in B.): 
+two copies
+;
+David Hockney: A Drawing Retrospective (D. H. Art Car David Hockne
+y), Royal Academy of Arts, 9 November 1995-28 January 1996 (not in B.);
+Off the Wall, HOCKNEY POSTERS
+, Pavilion (not in B.);
+David Hockney
+, Salts Mill, Saltaire Yorkshire (Salts Mill, Saltaire Yorks.,1997) (not in B
+.
+).
+David Hockney
+, Salts Mill, Saltaire Yorkshire (The Arrival of Spring in Woldgate, East Yorkshire in 2011 – 17
+th 
+May) (not in B.).
+970 x 860 mm. (overall)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0122_000(david_hockney_a_collection_of_21_exhibition_posters111257).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-122/292591?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1923.41,1602.8416666666667
+59d21b7d-e1de-4acd-9dcc-ad98cf303104,Art,Christies,24150,2024-03-12,London,Prints and Multiples,https://onlineonly.christies.com/s/prints-multiples/lots/3870?loadall=true&page=10&sortby=LotNumber,Lot 123,GBP,1000,2000,None,None,1282.27,2564.55,None,None,DAVID HOCKNEY,1937,<NA>,A Bigger Book,mixed media,"hardcover, printed in colors",89,514,711,mm,yes,yes,yes,2016,A gift from the artist; then by descent.,"book, bookstand, colors, hardcover, furniture, design, illustrations, modern art, edition, signature",1,<NA>,"A Bigger Book
+hardcover book printed in colors, 2016, signed in ink on the title page, numbered 1311 from the edition of ten thousand, published by Taschen, Cologne, Germany, together with the original bookstand designed by Marc Newson, in very good condition
+Book 711 x 514 x 89 mm.
+Bookstand 511 x 622 x 978 mm.",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24150_0123_000(david_hockney_a_bigger_book035313).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/prints-multiples/david-hockney-b-1937-123/292582?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,artwork-Auction-2026-llama3.2-3B-text-pricer:latest,1620.07,1350.0583333333334

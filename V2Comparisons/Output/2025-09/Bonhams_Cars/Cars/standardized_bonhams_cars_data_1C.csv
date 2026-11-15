@@ -1,0 +1,423 @@
+manufacturer,model,title,year_of_manufacture,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,3500.0,3500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,350.0,350.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+Alvis,Speed 20 Saloon,Alvis Speed 20 Saloon,1937,None,None,72000.0,72000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+Singer,10/26hp Delivery Van,Singer 10/26hp Delivery Van,1928,None,None,38500.0,38500.0
+N/A,N/A,<NA>,N/A,None,None,1250.0,1250.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Ferrari,F40 Spyder,<NA>,N/A,None,None,0.0,0.0
+Lafitte,Cyclecar,Lafitte Cyclecar,1928,None,None,375000.0,375000.0
+Bentley,T-Series Coupé,Bentley T-Series Coupé,1969,None,None,185000.0,185000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,25.0,25.0
+Maserati,Khamsin Coupé,Maserati Khamsin Coupé,1976,None,None,385000.0,385000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+Frazer Nash-BMW,319/1 'Willis Special' Re-creation,Frazer Nash-BMW 319/1 'Willis Special' Re-creation,1935,None,None,385000.0,385000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1250.0,1250.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+Alvis,Crested Eagle Saloon,Alvis Crested Eagle Saloon,1936,None,None,132500.0,132500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+Rolls-Royce,20hp Brougham de Ville,Rolls-Royce 20hp Brougham de Ville,1928,None,None,825000.0,825000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Rover,3500 Estoura,Rover 3500 Estoura Estate Car,1968,None,None,82500.0,82500.0
+Lagonda,M35R ST44 Pillarless Saloon,Lagonda M35R ST44 Pillarless Saloon,1935,None,None,1125000.0,1125000.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Volkswagen,Type 2 'Split-Screen' Panel Van,Volkswagen Type 2 'Split-Screen' Panel Van,1963,None,None,38500.0,38500.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Lancia,Flaminia GT 2.8-Litre 3C Coupé,Lancia Flaminia GT 2.8-Litre 3C Coupé,1963,None,None,165000.0,165000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,850.0,850.0
+Sunbeam,Alpine Harrington Le Mans B V8 Fastback Coupé,Sunbeam Alpine Harrington Le Mans B V8 Fastback Coupé,1962,None,None,1125000.0,1125000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Auto Union,DKW F12 Roadster,Auto Union DKW F12 Roadster,1964,None,None,38500.0,38500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Lagonda,M35 Special,Lagonda M35 Special,1934,None,None,275000.0,275000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Mercedes-Benz,230 SL,Mercedes-Benz 230 SL Convertible with Hardtop,1966,None,None,65000.0,65000.0
+Lagonda,2.6-Litre Saloon,Lagonda 2.6-Litre Saloon,1951,None,None,85000.0,85000.0
+Excalibur,Series IV 2+2 Cabriolet,Excalibur Series IV 2+2 Cabriolet,1984,None,None,85000.0,85000.0
+Jaguar,E-Type Series 2 4.2-Litre Coupé,Jaguar E-Type Series 2 4.2-Litre Coupé,1969,None,None,115000.0,115000.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Bristol,401 Sports Saloon,Bristol 401 Sports Saloon,1950,None,None,385000.0,385000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,12500.0,12500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Land Rover,Range Rover LSE,Range Rover LSE 4x4 Automatic,1993,None,None,28500.0,28500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Triumph,Roadster,Roadster,2000,None,None,38500.0,38500.0
+Bentley,3½-Litre Sports Roadster Special,Bentley 3½-Litre Sports Roadster Special,1934,None,None,1325000.0,1325000.0
+Alvis,Speed 20 Tourer,Alvis Speed 20 Tourer,1933,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Jaguar,E-Type Series 1 4.2-Litre Coupé,Jaguar E-Type Series 1 4.2-Litre Coupé Project,1966,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,1105,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Zimmer,Golden Spirit Coupé,Zimmer Golden Spirit Coupé,1985,None,None,38500.0,38500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Land Rover,Forward Control 4x4,Land Rover Forward Control 4x4 Military Vehicle,1976,None,None,38500.0,38500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,450.0,450.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+MG,Midget 1500,MG Midget 1500 Roadster,1979,None,None,28500.0,28500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+Kurtis-Kraft,Midget Special,Kurtis-Kraft Midget Special,1955,None,None,185000.0,185000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+MG,MGA 1600,MGA 1600 Roadster,1960,None,None,22000.0,22000.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Clénet,2+2 Cabriolet 'Duesey',Clénet 2+2 Cabriolet 'Duesey',1980,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,450.0,450.0
+N/A,N/A,<NA>,N/A,None,None,350.0,350.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Austin-Healey,100/6 BN4 Convertible,Austin-Healey 100/6 BN4 Convertible,1958,None,None,82500.0,82500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Invicta,3-Litre Tourer,Invicta 3-Litre Tourer,1928,None,None,165000.0,165000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,500K Replica,Classic Roadsters 500K Replica,1993,None,None,18000.0,18000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Excalibur,SS Series III Roadster,Excalibur SS Series III Roadster,1979,None,None,132500.0,132500.0
+Bristol,409 Sports Saloon,Bristol 409 Sports Saloon,1966,None,None,165000.0,165000.0
+Ford,V8 Shooting Brake,Ford V8 Shooting Brake,1937,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,1850.0,1850.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Chrysler,CD Eight Sedan,Chrysler CD Eight Sedan,1931,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Iso,Lele Coupé,Iso Lele Coupé,1973,None,None,165000.0,165000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Gatsby,Convertible,Gatsby Convertible,1983,None,None,28500.0,28500.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Alfa Romeo,6C 1750 Sport Tourer,Alfa Romeo 6C 1750 Sport Tourer,1929,None,None,1850000.0,1850000.0
+Packard,Super Eight Limousine,Packard Super Eight Limousine,1938,None,None,275000.0,275000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+Porsche,911 2.7-Litre Targa,Porsche 911 2.7-Litre Targa,1977,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Cadillac,Seville Gucci Edition,Cadillac Seville Gucci Edition Sedan,1979,None,None,132500.0,132500.0
+Maserati,Indy 4.2 Coupé,Maserati Indy 4.2 Coupé,1971,None,None,165000.0,165000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+BMW,501-8,BMW 501-8,1956,None,None,132500.0,132500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Rover,P6 3500 Talago Prototype,Rover P6 3500 Talago Prototype,1962,None,None,275000.0,275000.0
+Mercedes-Benz,190 SL,Mercedes-Benz 190 SL Convertible with Hardtop,1958,None,None,115000.0,115000.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+Austin,12hp Tourer,Austin 12hp Tourer,1923,None,None,18500.0,18500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+Rover,P6 2000 TC Coupé,Rover P6 2000 TC Coupé,1968,None,None,42500.0,42500.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+MG,Magnette NA,"MG Magnette NA ""Allingham"" Tourer",1934,None,None,385000.0,385000.0
+N/A,N/A,<NA>,N/A,None,None,350.0,350.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+Morgan,4/4 1600 Roadster,Morgan 4/4 1600 Roadster,1974,None,None,28500.0,28500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Bentley,3½-Litre Drophead Coupé,Bentley 3½-Litre Drophead Coupé,1935,None,None,1325000.0,1325000.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+Packard,Eight Series 236 Sport Phaeton,Packard Eight Series 236 Sport Phaeton,1925,None,None,165000.0,165000.0
+Bristol,405 Sports Saloon,Bristol 405 Sports Saloon,1957,None,None,42500.0,42500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Clénet,Series III Asha Roadster,Clénet Series III Asha Roadster,1986,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Lotus,Seven Series 2,Lotus Seven Series 2,1962,None,None,65000.0,65000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Lancia,Appia Lusso Saloon,Lancia Appia Lusso Saloon,1961,None,None,35000.0,35000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+MG,Magnette Varitone Sports Saloon,MG Magnette Varitone Sports Saloon,1957,None,None,28500.0,28500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Alfa Romeo,2600 Sprint Coupé,Alfa Romeo 2600 Sprint Coupé,1962,None,None,132500.0,132500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Vauxhall,Type OD 23/60hp Tourer,Vauxhall Type OD 23/60hp Tourer Project,1923,None,None,35000.0,35000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+Bristol,405 Sports Saloon,Bristol 405 Sports Saloon,1955,None,None,165000.0,165000.0
+N/A,N/A,<NA>,N/A,None,None,8500.0,8500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Triumph,2000 Roadster,Triumph 2000 Roadster,1949,None,None,38500.0,38500.0
+Morris,Mini Minor Saloon,Morris Mini Minor Saloon,1968,None,None,8500.0,8500.0
+N/A,N/A,<NA>,N/A,None,None,50.0,50.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Porsche,914/4 2.0-Litre,Porsche 914/4 2.0-Litre Coupé,1973,None,None,22000.0,22000.0
+Lagonda,2-Litre Supercharged 'Low Chassis' T2 Tourer,Lagonda 2-Litre Supercharged 'Low Chassis' T2 Tourer,1932,None,None,725000.0,725000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Lagonda,3.0-Litre Drophead Coupé,Lagonda 3.0-Litre Drophead Coupé,1951,None,None,385000.0,385000.0
+Jaguar,E-Type Series III V12 2+2 Coupé,Jaguar E-Type Series III V12 2+2 Coupé,1971,None,None,132500.0,132500.0
+N/A,N/A,<NA>,N/A,None,None,350.0,350.0
+Daimler,DB18 2½-Litre Special Sports Drophead Coupé,Daimler DB18 2½-Litre Special Sports Drophead Coupé,1952,None,None,85000.0,85000.0
+Alfa Romeo,Spider 2000 Veloce,Alfa Romeo Spider 2000 Veloce,1977,None,None,29500.0,29500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Austin Healey,3000Mk-1 Racing Proto,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,12000.0,12000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,18500.0,18500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,500.0,500.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,12500.0,12500.0
+Stanguellini,Formula Junior Single Seater,Stanguellini Formula Junior Single Seater,1959,None,None,275000.0,275000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Hamilton,Model 741 Jet Launch 'Goldeneye',Hamilton Model 741 Jet Launch 'Goldeneye' and Trailer,1956,None,None,42500.0,42500.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Citroen,SM Coupé,Citroen SM Coupé,1973,None,None,85000.0,85000.0
+Nazzaro,Tipo 3,Nazzaro Tipo 3,1912,None,None,1850000.0,1850000.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+Lea-Francis,1½-Litre 12/40hp P-Type Tourer,Lea-Francis 1½-Litre 12/40hp P-Type Tourer,1929,None,None,115000.0,115000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,50.0,50.0
+Bentley,Continental GT Coupé,Bentley Continental GT Coupé,2004,None,None,42000.0,42000.0
+Rolls-Royce,Silver Cloud III Long-Wheelbase Saloon,Rolls-Royce Silver Cloud III Long-Wheelbase Saloon,1964,None,None,1325000.0,1325000.0
+Renault,40CV Type MC Limousine,Renault 40CV Type MC Limousine,1925,None,None,3250000.0,3250000.0
+Alvis,3½-Litre Speed Twenty SD,Alvis 3½-Litre Speed Twenty SD Project,1935,None,None,85000.0,85000.0
+FIAT,SIATA 1500 TS Coupé,FIAT SIATA 1500 TS Coupé,1963,None,None,85000.0,85000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,450.0,450.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Vauxhall,Type OD 23/60hp Tourer,Vauxhall Type OD 23/60hp Tourer,1923,None,None,115000.0,115000.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+MG,Midget TD II,MG Midget TD II Roadster,1953,None,None,28500.0,28500.0
+N/A,N/A,<NA>,N/A,None,None,1200.0,1200.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,150.0,150.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,1500.0,1500.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+N/A,N/A,<NA>,N/A,None,None,0.0,0.0
+Lagonda,14/60 Saloon,Lagonda 14/60 Saloon,1927,None,None,82500.0,82500.0

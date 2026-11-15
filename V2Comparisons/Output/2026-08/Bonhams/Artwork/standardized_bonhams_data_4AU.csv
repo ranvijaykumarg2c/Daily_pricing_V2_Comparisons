@@ -1,0 +1,519 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+9e7c1ca8-d158-46d7-a140-260c4cbc3296,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 1,USD,4000,6000,5120,4000,4000,6000,5120,4000,Mabel Alvarez,1891,1985,Italian Girl (Adrienne le Clerc Tytla),painting,oil on canvas,N/A,25,30,in,yes,yes,yes,1901,2000,"Maxwell Galleries, San Francisco. Perlmutter Fine Arts, San Francisco. The Collection of Rhoda and Dr. Marvin Kantor.","girl, table, flowers, magazine, seated figure, portrait, oil painting",1,N/A,original,"MABEL ALVAREZ (1891-1985)
+Italian Girl (Adrienne le Clerc Tytla) 
+signed 'Alvarez' (upper right)
+oil on canvas
+30 x 25 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-12-3.jpg,https://www.bonhams.com/auction/31906/lot/1/mabel-alvarez-1891-1985-italian-girl-adrienne-le-clerc-tytla-30-x-25-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,2026-08,4438.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+b0d5962a-0140-415e-bd38-9a4f51e15897,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 2,USD,4000,6000,8320,6500,4000,6000,8320,6500,EDWIN ROSCOE SHRADER,1878,1960,The Window Seat,painting,oil on canvas,N/A,26.25,20.25,in,yes,yes,yes,1901,2000,"George Stern Fine Arts, West Hollywood, California. The Collection of Rhoda and Dr. Marvin Kantor.","woman, sitting, blue dress, sewing, window, curtains, couch, plants, living room, sunlight",1,N/A,original,"EDWIN ROSCOE SHRADER (1878-1960)
+The Window Seat 
+signed 'E. Roscoe Shrader' (lower right)
+oil on canvas
+20 1/4 x 26 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-13-3.jpg,https://www.bonhams.com/auction/31906/lot/2/edwin-roscoe-shrader-1878-1960-the-window-seat-20-14-x-26-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+9e0263de-87a5-46c3-b3ef-fd95c8f13bc0,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 3,USD,8000,12000,11520,9000,8000,12000,11520,9000,ABEL GEORGE WARSHAWSKY,1883,1962,Port de Pêche,painting,oil on canvas,N/A,21.75,18.25,in,yes,yes,yes,1921,1921,The Collection of Rhoda and Dr. Marvin Kantor.,"harbor, boats, water, reflections, buildings, masts, sky, mountains, pilings, shoreline",1,N/A,original,"ABEL GEORGE WARSHAWSKY (1883-1962)
+Port de PÃªche 
+incised and indistinctly dated 'A.G.Warshawsky / 1921' (lower right)
+oil on canvas
+18 1/4 x 21 3/4 in.
+Painted in 1921.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-3-3.jpg,https://www.bonhams.com/auction/31906/lot/3/abel-george-warshawsky-1883-1962-port-de-peche-18-14-x-21-34-in-painted-in-1921/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+49948f2e-1184-471e-88ad-59fdc0dcefb2,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 4,USD,7000,10000,8960,7000,7000,10000,8960,7000,George Kennedy Brandriff,1890,1936,Summer Sea,painting,oil on canvas,N/A,30.25,25,in,yes,yes,yes,1901,2000,The Collection of Rhoda and Dr. Marvin Kantor.,"sailboats, ocean, clouds, water, sky, horizon, waves, sunlight, sailing, seascape",1,N/A,original,"GEORGE KENNEDY BRANDRIFF (1890-1936)
+Summer Sea 
+signed 'George K. Brandriff' (lower right) and titled and signed again (on the reverse)
+oil on canvas
+25 x 30 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-5-3.jpg,https://www.bonhams.com/auction/31906/lot/4/george-kennedy-brandriff-1890-1936-summer-sea-25-x-30-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9200.0,7666.666666666667
+2aec4351-bc4f-4ec2-abe4-8b4834f7dff4,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 5,USD,7000,10000,16640,13000,7000,10000,16640,13000,Franz Arthur Bischoff,1864,1929,"Hazy Landscape, Summer Afternoon, and Woman at Laguna Beach (a group of three)",painting,oil on canvas laid to board,N/A,9.5,6.5,in,yes,yes,yes,1901,2000,"Petersen Galleries, Beverly Hills, California. The Collection of Rhoda and Dr. Marvin Kantor.","landscape, woman, tree, outdoor, summer, cow, meadow, bushes, sky, sunlight",3,N/A,original,"FRANZ ARTHUR BISCHOFF (1864-1929)
+Hazy Landscape, Summer Afternoon, and Woman at Laguna Beach (a group of three) 
+first and second signed 'Franz A. Bischoff' and third signed 'F.A. Bischoff' (each lower right)
+each oil on canvas laid to board
+first and second 6 1/2 x 9 1/2 in. and third 6 1/2 x 9 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25827475-6-6.jpg,https://www.bonhams.com/auction/31906/lot/5/franz-arthur-bischoff-1864-1929-hazy-landscape-summer-afternoon-and-woman-at-laguna-beach-a-group-of-three-first-and-second-6-12-x-9-12-in-and-third-6-12-x-9-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+f092f1e1-bdde-44f7-b7ed-4fb9cf745b1c,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 6,USD,30000,50000,35840,28000,30000,50000,35840,28000,FRANZ ARTHUR BISCHOFF,1864,1929,Women by a Fountain,painting,oil on board,N/A,16,12,in,yes,yes,yes,1914,1914,"Petersen Galleries, Beverly Hills, California. The Collection of Rhoda and Dr. Marvin Kantor.","women, fountain, garden, water lilies, wisteria, dresses, sitting, standing, sunlight, leisure",1,N/A,original,"FRANZ ARTHUR BISCHOFF (1864-1929)
+Women by a Fountain 
+signed 'F.A. Bischoff' (lower left)
+oil on board
+12 x 16 in. 
+Painted circa 1914.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25827475-2-2.jpg,https://www.bonhams.com/auction/31906/lot/6/franz-arthur-bischoff-1864-1929-women-by-a-fountain-12-x-16-in-painted-circa-1914/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,38040.52,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,42000.0,35000.0
+1bee64dc-6b5f-4ecd-98be-656e8a2cadb5,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 7,USD,150000,250000,165600,130000,150000,250000,165600,130000,Franz Arthur Bischoff,1864,1929,"Picking Poppies, Pasadena",painting,oil on canvas,N/A,34,24,in,yes,yes,yes,1910,1910,"Petersen Galleries, Beverly Hills, California. The Collection of Rhoda and Dr. Marvin Kantor, acquired from the above.","women,poppies,field,mountains,sky,hat,clothing,flowers,landscape,group",1,N/A,original,"FRANZ ARTHUR BISCHOFF (1864-1929)
+Picking Poppies, Pasadena 
+signed 'Franz A. Bischoff' (lower left)
+oil on canvas
+24 x 34 in.
+Painted circa 1910.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-1-3.jpg,https://www.bonhams.com/auction/31906/lot/7/franz-arthur-bischoff-1864-1929-picking-poppies-pasadena-24-x-34-in-painted-circa-1910/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,19088.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,195000.0,162500.0
+714a8d22-92b1-4d1c-a2d3-e931d3579392,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 8,USD,5000,7000,20480,16000,5000,7000,20480,16000,DAVID A. LEFFEL,1931,N/A,Still Life with Vase and Oranges,painting,oil on canvas,N/A,22,18,in,yes,yes,yes,1977,1977,"Sandra Wilson Galleries, Denver. The Collection of Rhoda and Dr. Marvin Kantor.","still life, vase, oranges, table, glass, plate, yellow fruit, red fabric, decorative patterns, shadow",1,N/A,original,"DAVID A. LEFFEL (BORN 1931)
+Still Life with Vase and Oranges 
+signed with initials and dated 'DAL / 77' (upper left) 
+oil on canvas
+18 x 22 in.
+Painted in 1977.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-9-3.jpg,https://www.bonhams.com/auction/31906/lot/8/david-a-leffel-born-1931-still-life-with-vase-and-oranges-18-x-22-in-painted-in-1977/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,512.91,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+cbd9aa18-6ce7-42f6-9a48-848c50be1fc3,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 9,USD,5000,7000,8320,6500,5000,7000,8320,6500,DAVID A. LEFFEL,1931,N/A,Orchids & Mums for Rhoda,painting,oil on canvas,N/A,18.25,22,in,yes,yes,yes,1981,1981,"The artist. The Collection of Rhoda and Dr. Marvin Kantor, acquired from the above.","flowers, vase, table, green background, chrysanthemums, orchids, fruit, bowl, ceramic, still life",1,N/A,original,"DAVID A. LEFFEL (BORN 1931)
+Orchids & Mums for Rhoda 
+signed with initials and dated 'DAL 81' (lower right) and titled, inscribed and signed (on the backing)
+oil on canvas
+22 x 18 1/4 in.
+Painted in 1981.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-10-3.jpg,https://www.bonhams.com/auction/31906/lot/9/david-a-leffel-born-1931-orchids-and-mums-for-rhoda-22-x-18-14-in-painted-in-1981/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,5108.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+1b7cb616-e7c0-4839-a035-8dc8716348d1,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 10,USD,5000,7000,8320,6500,5000,7000,8320,6500,DAVID A. LEFFEL,1931,N/A,Composition in Green & Purple,painting,oil on canvas,N/A,17,14,in,yes,yes,yes,1979,1979,"The artist. The Collection of Rhoda and Dr. Marvin Kantor, commissioned from the above.","still life, plate, apples, cherry, flower, bowl, tablecloth, green, purple, shadow",1,N/A,original,"DAVID A. LEFFEL (BORN 1931)
+Composition in Green & Purple 
+signed with initials and dated 'DAL 79' (lower center) and dedicated, titled and signed again (on the stretcher)
+oil on canvas
+14 x 17 in.
+Painted in 1979.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-7-3.jpg,https://www.bonhams.com/auction/31906/lot/10/david-a-leffel-born-1931-composition-in-green-and-purple-14-x-17-in-painted-in-1979/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6090.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+cf0aae66-d605-46c4-9892-46f70be023e6,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 11,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,JOSEPH RAPHAEL,1869,1950,Portrait of Stephen Muldah,painting,oil on canvas,N/A,30,36,in,yes,yes,yes,1908,1908,The Collection of Rhoda and Dr. Marvin Kantor.,"portrait, man, top hat, smiling, suit, oil painting, canvas, 1908, expressive, character",1,N/A,original,"JOSEPH RAPHAEL (1869-1950)
+Portrait of Stephen Muldah 
+titled, signed, and dated '-Jos Raphael- / 1908' (lower right)
+oil on canvas
+36 x 30 in.
+Painted in 1908.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25827475-11-3.jpg,https://www.bonhams.com/auction/31906/lot/11/joseph-raphael-1869-1950-portrait-of-stephen-muldah-36-x-30-in-painted-in-1908/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3099.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+50024277-8531-4648-882e-72c23863870e,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 12,USD,3000,5000,3200,2500,3000,5000,3200,2500,Gilbert Munger,1837,1903,Figures in a Clearing (Twilight),painting,oil on panel,N/A,25.5,17.75,in,yes,yes,yes,1801,1900,"From the estate of Charles Brush of New York. Private collection, Northern California.","figures, trees, twilight, clearing, landscape, water, rocks, sky, foliage, autumn",1,N/A,original,"GILBERT MUNGER (1837-1903)
+Figures in a Clearing (Twilight) 
+signed 'Gilbert Munger' (lower left)
+oil on panel
+17 3/4 x 25 1/2 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25784543-1-2.jpg,https://www.bonhams.com/auction/31906/lot/12/gilbert-munger-1837-1903-figures-in-a-clearing-twilight-17-34-x-25-12-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3068.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+1a85985a-f4e1-4231-8e7f-655895601d7c,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 13,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,Attributed to HANNAH A. MILLARD,1827,1900,"Guadalupe Creek, San Jose, California",painting,oil on canvas laid to Masonite,N/A,20,14,in,no,yes,yes,1870,1870,"Bingham Gallery, San Jose, California. Private collection, Arizona.","creek, mountains, trees, landscape, water, sky, path, hills, greenery, foliage",1,N/A,attributed to,"Attributed to HANNAH A. MILLARD (1827-1900)
+Guadalupe Creek, San Jose, California 
+oil on canvas laid to Masonite
+14 x 20 in.
+Painted circa 1870.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25805472-1-2.jpg,https://www.bonhams.com/auction/31906/lot/13/attributed-to-hannah-a-millard-1827-1900-guadalupe-creek-san-jose-california-14-x-20-in-painted-circa-1870/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3800.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+9d335c1e-61fb-4ebb-b49b-4420ccdd7d60,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 14,USD,7000,10000,8320,6500,7000,10000,8320,6500,Jules Tavernier,1844,1889,Russian River,painting,oil on canvas,N/A,24.25,16.25,in,yes,yes,yes,1801,1900,"Private collection, San Francisco.","river, trees, hillside, rocks, water, landscape, fog, shore, nature, valley",1,N/A,original,"JULES TAVERNIER (1844-1889)
+Russian River 
+signed 'Jules Tavernier' (lower right)
+oil on canvas
+16 1/4 x 24 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25828134-2-2.jpg,https://www.bonhams.com/auction/31906/lot/14/jules-tavernier-1844-1889-russian-river-16-14-x-24-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9200.0,7666.666666666667
+52298a4f-c42a-4dea-b79b-3001a0215729,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 15,USD,15000,25000,17280,13500,15000,25000,17280,13500,Will Sparks,1862,1937,"Colonnade, Palace of Fine Arts",painting,oil on canvas,N/A,20,24,in,yes,yes,yes,1915,1915,"With Trotter Galleries, Carmel, California. Private collection, Los Angeles, California, acquired from the above. Private collection, San Francisco, California. Bonhams, San Francisco and Los Angeles, August 1, 2017, lot 3. Acquired from the above by the present owner.","colonnade, Palace of Fine Arts, night scene, architecture, columns, trees, fountain, city lights, figures, landscape",1,N/A,original,"WILL SPARKS (1862-1937)
+Colonnade, Palace of Fine Arts 
+signed 'Will Sparks' (lower right)
+oil on canvas
+24 x 20 in.
+Painted in 1915.",https://images2.bonhams.com/image?src=Images/live/2026-03/11/25838202-1-3.jpg,https://www.bonhams.com/auction/31906/lot/15/will-sparks-1862-1937-colonnade-palace-of-fine-arts-24-x-20-in-painted-in-1915/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,16408.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,19500.0,16250.0
+ae429024-f285-4b1c-ab8c-bc21348fe26e,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 16,USD,3000,5000,4864,3800,3000,5000,4864,3800,CHARLES ROLLO PETERS,1862,1928,Tiburon Houseboats,painting,oil on canvas,N/A,14.5,11.5,in,no,yes,yes,1901,2000,"Private collection, San Francisco.","houseboat, water, mountains, night, reflection, lights, landscape, dark, nature, sky",1,N/A,original,"CHARLES ROLLO PETERS (1862-1928)
+Tiburon Houseboats 
+oil on canvas
+11 1/2 x 14 1/2 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25828134-4-3.jpg,https://www.bonhams.com/auction/31906/lot/16/charles-rollo-peters-1862-1928-tiburon-houseboats-11-12-x-14-12-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3099.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+44e89e9b-4abc-4c47-95b1-f348da7b1369,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 17,USD,8000,12000,19200,15000,8000,12000,19200,15000,CHARLES ROLLO PETERS,1862,1928,Calle Principal,painting,oil on canvas,N/A,24.25,16.25,in,yes,yes,yes,1901,2000,"Private collection, San Francisco.","houses, night, moonlight, road, shadows",1,N/A,original,"CHARLES ROLLO PETERS (1862-1928)
+Calle Principal 
+faintly incised 'Charles Rollo Peters' (lower right)
+oil on canvas 
+16 1/4 x 24 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25828134-3-3.jpg,https://www.bonhams.com/auction/31906/lot/17/charles-rollo-peters-1862-1928-calle-principal-16-14-x-24-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+54a0c94e-78da-4297-9f90-e3e4a6dbfb30,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 18,USD,3000,5000,3200,2500,3000,5000,3200,2500,Charles Rollo Peters,1862,1928,Adobe Moon,painting,oil on canvas,N/A,24,16.25,in,yes,yes,yes,1901,2000,"Private collection, Arizona.","house, night, moonlight, adobe, landscape, light, darkness, structure, chimney, trees",1,N/A,original,"CHARLES ROLLO PETERS (1862-1928)
+Adobe Moon 
+signed 'Charles Rollo Peters' (lower left) 
+oil on canvas 
+16 1/4 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2025-10/21/25751213-2-5.jpg,https://www.bonhams.com/auction/31906/lot/18/charles-rollo-peters-1862-1928-adobe-moon-16-14-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3098.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+3cb8be68-1606-4db5-b053-b7f626b5bcd9,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 19,USD,60000,80000,83050,65000,60000,80000,83050,65000,Armin Hansen,1886,1957,Monterey Fishers,painting,oil on canvas laid to on Masonite,N/A,22,18,in,yes,no,yes,1886,1957,"Private collection, Florida.","boat, ocean, fishermen, water, waves, sky, colors, marine, fishing, landscape",1,N/A,original,"ARMIN HANSEN (1886-1957)
+Monterey Fishers 
+signed 'ARMIN HANSEN' (lower right) and signed and titled (on the reverse prior to lining)
+oil on canvas laid to on Masonite
+18 x 22Â in.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25796625-1-2.jpg,https://www.bonhams.com/auction/31906/lot/19/armin-hansen-1886-1957-monterey-fishers-18-x-22-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6399.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+a8a021c7-fbc3-400c-801a-87db0e88e991,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 20,USD,15000,25000,28160,22000,15000,25000,28160,22000,Granville Redmond,1871,1935,The Golden Hour,painting,oil on canvas,N/A,20.25,16.25,in,yes,yes,yes,1901,2000,"Paul Metcalf Art Gallery, South Pasadena, California. Elizabeth Anderson, Pasadena, California, circa 1946, acquired from the above. Private collection, Palm Desert, California.","landscape, trees, sky, clouds, field, sunlight, nature, hills, grass, blue",1,N/A,original,"GRANVILLE REDMOND (1871-1935)
+The Golden Hour 
+signed 'Granville Redmond' (lower left) and titled on the artist's label (on the stretcher)
+oil on canvas
+16 1/4 x 20 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25802117-1-2.jpg,https://www.bonhams.com/auction/31906/lot/20/granville-redmond-1871-1935-the-golden-hour-16-14-x-20-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,16480.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,22000.0,18333.333333333336
+ba43109a-0385-4e2b-b718-a5de6b1d97f3,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 21,USD,3000,5000,16640,13000,3000,5000,16640,13000,Percy Gray,1869,1952,Oaks and Color,painting,watercolor on paper,N/A,8.75,6,in,yes,yes,yes,1901,2000,"The Redfern Gallery, Laguna Beach, California. Private collection, Laguna Beach, California, acquired from the above in 2002.","tree, mountains, field, flowers, blue, yellow, landscape, sky, hills, nature",1,N/A,original,"PERCY GRAY (1869-1952)
+Oaks and Color 
+signed 'Percy Gray' (lower left)
+watercolor on paper
+sight 6 x 8 3/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/02/25830334-12-2.jpg,https://www.bonhams.com/auction/31906/lot/21/percy-gray-1869-1952-oaks-and-color-sight-6-x-8-34-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3099.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+b8953180-696f-4dc6-8772-1da9b2f9ca08,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 22,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,DENNIS M. DOHENY,1956,N/A,"Whaler's Cove, Point Lobos",painting,oil on linen,N/A,30,24,in,yes,yes,yes,2009,2009,N/A,"cove, water, rocks, trees, beach, grass, flowers, landscape, shoreline, sky",1,N/A,original,"DENNIS M. DOHENY (BORN 1956)
+Whaler's Cove, Point Lobos 
+signed and dated 'Dennis M. Doheny / 09' (lower right) and signed and dated again (on the backing)
+oil on linen
+24 x 30 in. 
+Painted in 2009.",https://images2.bonhams.com/image?src=Images/live/2026-03/03/25832004-1-2.jpg,https://www.bonhams.com/auction/31906/lot/22/dennis-m-doheny-born-1956-whalers-cove-point-lobos-24-x-30-in-painted-in-2009/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6100.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+385cda86-67ef-4624-be32-d0cf607bd318,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 23,USD,3000,5000,10880,8500,3000,5000,10880,8500,ABEL GEORGE WARSHAWSKY,1883,1962,Carmel Bay,painting,oil on Masonite,N/A,20,16,in,yes,yes,yes,1901,2000,"Portnoy Galleries, Carmel, California. Private collection, Northern California.","Carmel Bay, ocean, rocks, waves, water, seascape, coastline, boats, blue sky, greenery",1,N/A,original,"ABEL GEORGE WARSHAWSKY (1883-1962)
+Carmel Bay 
+signed 'A.G. Warshawsky' (lower center)
+oil on Masonite
+16 x 20 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25831964-3-3.jpg,https://www.bonhams.com/auction/31906/lot/23/abel-george-warshawsky-1883-1962-carmel-bay-16-x-20-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3099.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+07235433-eeea-4d09-bfb7-407e3c73f959,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 24,USD,7000,10000,N/A,N/A,7000,10000,N/A,N/A,Dennis M. Doheny,1956,N/A,"Winter Morning, Carmel Beach",painting,oil on linen,N/A,20,16,in,yes,yes,yes,2004,2004,"William A. Karges Fine Art, Carmel, California. Property from a West Coast Collection.","beach, ocean, rocks, trees, sand, waves, mountains, coastline, sunlight, vegetation",1,N/A,original,"DENNIS M. DOHENY (BORN 1956)
+Winter Morning, Carmel Beach 
+signed and dated 'Dennis M. Doheny / 2004' (lower right) and signed and dated again and titled (on the backing)
+oil on linen
+16 x 20 in.
+Painted in 2004.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25782954-10-2.jpg,https://www.bonhams.com/auction/31906/lot/24/dennis-m-doheny-born-1956-winter-morning-carmel-beach-16-x-20-in-painted-in-2004/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+b4b60827-4ae2-491b-a165-486a1d736175,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 25,USD,20000,30000,48640,38000,20000,30000,48640,38000,Granville Redmond,1871,1935,Marsh Scene,painting,oil on canvas,N/A,18.25,14.25,in,yes,yes,yes,1901,2000,"The Redfern Gallery, Laguna Beach, California. Private collection, Laguna Beach, California, acquired from the above in 1989.","marsh, trees, water, sky, flowers, landscape, sun, vegetation, rural scenery, horizon",1,N/A,original,"GRANVILLE REDMOND (1871-1935)
+Marsh Scene 
+signed 'Granville Redmond' (lower left)
+oil on canvas
+14 1/4 x 18 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/02/25830334-4-2.jpg,https://www.bonhams.com/auction/31906/lot/25/granville-redmond-1871-1935-marsh-scene-14-14-x-18-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,25408.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,27500.0,22916.666666666668
+79a7b0b7-de6e-4d21-bb7e-f437a1c131b2,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 26,USD,10000,15000,26880,21000,10000,15000,26880,21000,Selden Connor Gile,1877,1947,Cottage with Red Tile Roof (Chow House),painting,oil on board,N/A,17,14.25,in,no,yes,yes,1920,1920,"Estate of the artist. Elizabeth C. Hall, Belvedere, California, from the above. WIM Fine Arts, Oakland. Maxwell Galleries, San Francisco. Private collection, Laguna Beach, California, acquired from the above in 1991.","cottage, red tile roof, trees, landscape, outdoor, blue sky, green leaves, colorful, table, pots",1,N/A,original,"SELDEN CONNOR GILE (1877-1947)
+Cottage with Red Tile Roof (Chow House) 
+oil on board
+14 1/4 x 17 in. 
+Painted circa 1920.",https://images2.bonhams.com/image?src=Images/live/2026-03/02/25830334-6-2.jpg,https://www.bonhams.com/auction/31906/lot/26/selden-connor-gile-1877-1947-cottage-with-red-tile-roof-chow-house-14-14-x-17-in-painted-circa-1920/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+9db0aa97-e923-4d41-9b44-09570f134125,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 27,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,SELDEN CONNOR GILE,1877,1947,Boats in Dry Docks,painting,oil on board,N/A,18,15,in,yes,yes,yes,1924,1924,"Gump's, San Francisco. Private collection, Mill Valley, California. Bonhams, Los Angeles, November 8, 2023, lot 47. Steven Stern Fine Arts, Los Angeles.","boats, dry docks, beach, figures, sails, stands, sand, shore",1,N/A,original,"SELDEN CONNOR GILE (1877-1947)
+Boats in Dry Docks 
+signed and dated 'S.C. Gile 24' (lower left)
+oil on board
+15 x 18 in.
+Painted in 1924.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25831152-1-2.jpg,https://www.bonhams.com/auction/31906/lot/27/selden-connor-gile-1877-1947-boats-in-dry-docks-15-x-18-in-painted-in-1924/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,20488.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,25500.0,21250.0
+9d0cd331-4f0d-4a67-8504-420253add5f1,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 28,USD,120000,180000,152900,120000,120000,180000,152900,120000,Selden Connor Gile,1877,1947,Glorious Hill (Arks on Belvedere Lagoon from San Rafael Avenue),painting,oil on canvas,N/A,36.25,30.5,in,no,yes,yes,1926,1926,"Estate of the artist. Elizabeth C. Hall, Belvedere, California, from the above. Private collection, Belvedere, California. Montgomery Gallery, San Francisco, California. Private collection, Arizona. Private collection, Northern California.","hill, lagoon, boats, water, houses, landscape, sky, clouds, colors, reflections",1,N/A,original,"SELDEN CONNOR GILE (1877-1947)
+Glorious Hill (Arks on Belvedere Lagoon from San Rafael Avenue) 
+titled 'Glorious Hill' (on the reverse prior to lining)
+oil on canvas
+30 1/2 x 36 1/4 in. 
+Painted circa 1926.",https://images2.bonhams.com/image?src=Images/live/2026-03/03/25833321-1-2.jpg,https://www.bonhams.com/auction/31906/lot/28/selden-connor-gile-1877-1947-glorious-hill-arks-on-belvedere-lagoon-from-san-rafael-avenue-30-12-x-36-14-in-painted-circa-1926/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,152808.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,165000.0,137500.0
+8e0c0a39-7a77-43c4-a704-998416a0ec8f,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 29,USD,8000,12000,12160,9500,8000,12000,12160,9500,JOHN MARSHALL GAMBLE,1863,1957,Wildflowers,painting,oil on canvas,N/A,26,20.25,in,yes,yes,yes,1901,2000,"Private collection, St. Louis, by family descent.","wildflowers, landscape, mountains, trees, path, rocks, grass, sky, clouds, rural",1,N/A,original,"JOHN MARSHALL GAMBLE (1863-1957)
+Wildflowers 
+signed 'John M. Gamble' (lower left)
+oil on canvas
+20 1/4 x 26 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25758766-1-6.jpg,https://www.bonhams.com/auction/31906/lot/29/john-marshall-gamble-1863-1957-wildflowers-20-14-x-26-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+fa63a409-85ed-46a2-9fa8-122c910a3130,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 30,USD,7000,10000,7040,5500,7000,10000,7040,5500,TOKIO UEYAMA,1889,1954,Autumn Landscape,painting,oil on canvas,N/A,28.25,24.25,in,yes,yes,yes,1919,1919,"Private collection, Santa Barbara, California.","autumn, landscape, trees, orange leaves, path, grass, blue sky, sunlight, nature, foliage",1,N/A,original,"TOKIO UEYAMA (1889-1954)
+Autumn Landscape 
+signed in Japanese (lower left) and signed again, dated and dedicated 'To Older Brother Narumi / Year 1919 / December' in Japanese (on the reverse)
+oil on canvas
+24 1/4 x 28 1/4 in.
+Painted in 1919.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25822017-4-2.jpg,https://www.bonhams.com/auction/31906/lot/30/tokio-ueyama-1889-1954-autumn-landscape-24-14-x-28-14-in-painted-in-1919/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9200.0,7666.666666666667
+ab16d9e9-b184-499f-8437-3388881b60b8,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 31,USD,12000,18000,12800,10000,12000,18000,12800,10000,John Marshall Gamble,1863,1957,Wild Buckwheat (Near Monterey),painting,oil on board,N/A,24,18,in,yes,yes,yes,1901,2000,"The John J. 'Jack' Mitchell Collection. Coeur d'Alene Art Auction, Reno, Nevada, July 27, 2019, lot 165. The Owings Gallery, Santa Fe, New Mexico. Property from a Notable California Collection.","wild buckwheat, flowers, grass, landscape, hills, coastline, ocean, sky, clouds, California",1,N/A,original,"JOHN MARSHALL GAMBLE (1863-1957)
+Wild Buckwheat (Near Monterey) 
+signed 'John M. Gamble' (lower left), signed again, titled and inscribed 'Santa Barbara / Cal.' (on the reverse)
+oil on board
+18 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2025-02/24/25637854-38-1.jpg,https://www.bonhams.com/auction/31906/lot/31/john-marshall-gamble-1863-1957-wild-buckwheat-near-monterey-18-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,15308.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+5a864be4-518e-4079-bc99-88946583f9a0,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 32,USD,400000,600000,572000,450000,400000,600000,572000,450000,Guy Rose,1867,1925,"Incoming Fog, La Jolla",painting,oil on canvas,N/A,29,24,in,yes,yes,yes,1901,1930,"Private collection, Los Angeles, circa 1920's. By family descent from the above. Christie's, Los Angeles, May 2, 2001, lot 15. Private collection, Laguna Beach, California, acquired from the above.","ocean, rocks, waves, shore, fog, coastline, water, sky, landscape, clouds",1,N/A,original,"GUY ROSE (1867-1925)
+Incoming Fog, La Jolla 
+signed 'Guy Rose' (lower right) and inscribed with title and numbered '478' (on the reverse) and inscribed with title again (on the stretcher) 
+oil on canvas
+24 x 29 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/02/25830334-1-2.jpg,https://www.bonhams.com/auction/31906/lot/32/guy-rose-1867-1925-incoming-fog-la-jolla-24-x-29-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,409888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,525000.0,437500.0
+0cbe71f2-3ce0-4110-b009-559681426755,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 33,USD,1000,2000,1280,1000,1000,2000,1280,1000,Julia Bracken Wendt,1871,1942,Birdlings,sculpture,bronze with brown patina,N/A,7.25,7.375,in,no,yes,yes,1901,2000,N/A,"birds, bronze, patina, nature, flora, relief sculpture, roundel, two birds, decorative motifs, natural imagery",1,N/A,original,"JULIA BRACKEN WENDT (1871-1942)
+Birdlings 
+inscribed 'Julia Bracken Wendt' (lower center)
+bronze with brown patina
+7 3/8 x 7 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25835092-2-1.jpg,https://www.bonhams.com/auction/31906/lot/33/julia-bracken-wendt-1871-1942-birdlings-7-38-x-7-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1028.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+72684a3c-fd93-423f-8186-788a54635fbc,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 34,USD,3000,5000,3840,3000,3000,5000,3840,3000,MARK ROSSI,1951,N/A,Jackrabbit,sculpture,bronze with olive green patina,N/A,N/A,17.25,in,no,no,yes,1951,1951,"Private collection, Oregon.","jackrabbit, bronze, sculpture, ears, hind leg, patina, sitting position, animal, wildlife, textured surface",1,N/A,original,"MARK ROSSI (BORN 1951)
+Jackrabbit 
+numbered and inscribed '1/2 M. Rossi' (on the inside hind leg)
+bronze with olive green patina 
+17 1/4 in. high",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25817682-1-1.jpg,https://www.bonhams.com/auction/31906/lot/34/mark-rossi-born-1951-jackrabbit-17-14-in-high/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3098.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+dc6e8eff-3930-4412-8272-dd748abe5dd2,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 35,USD,30000,50000,48640,38000,30000,50000,48640,38000,Edgar Payne,1883,1947,"Lake Ediza, Mammoth Region, Mono Co., Calif.",painting,oil on canvas,N/A,30.25,20.25,in,yes,yes,yes,1901,2000,"Private collection, New Mexico.","lake, mountains, trees, sky, rocks, glacier, water, landscape, snow, reflection",1,N/A,original,"EDGAR PAYNE (1883-1947)
+Lake Ediza, Mammoth Region, Mono Co., Calif. 
+signed 'Edgar Payne' (lower left) and inscribed with title (on the reverse prior to lining)
+oil on canvas 
+20 1/4 x 30 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/20/25803217-1-4.jpg,https://www.bonhams.com/auction/31906/lot/35/edgar-payne-1883-1947-lake-ediza-mammoth-region-mono-co-calif-20-14-x-30-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,38040.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,42000.0,35000.0
+ed6858fe-c890-4705-b7d0-fae0750262ea,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 36,USD,60000,80000,70350,55000,60000,80000,70350,55000,Joseph Kleitsch,1882,1931,Beachcombers,painting,oil on canvas,N/A,30,26,in,yes,yes,yes,1901,2000,"The Kelley Gallery. George Stern Fine Arts, West Hollywood, California. Private collection, Rancho Mirage, California.","boys, seaside, rocks, ocean, painting, sitting, beach, sunlight, canvas, shore",1,N/A,original,"JOSEPH KLEITSCH (1882-1931)
+Beachcombers 
+signed with estate signature 'Joseph Kleitsch' (lower right) and estate stamped (on the stretcher)
+oil on canvas 
+26 x 30 in.
+Painted circa 1928.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25825387-5-2.jpg,https://www.bonhams.com/auction/31906/lot/36/joseph-kleitsch-1882-1931-beachcombers-26-x-30-in-painted-circa-1928/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6398.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+d818fbf7-5299-4ec7-8e56-96dc8df173bf,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 37,USD,7000,10000,15360,12000,7000,10000,15360,12000,Edgar Payne,1883,1947,Venetian Boats,painting,oil on canvas,N/A,18.25,15.25,in,yes,yes,yes,1901,2000,"Private collection, San Francisco.","boats,sails,water,reflection,harbor,red color,green color,buildings,sky,clouds",1,N/A,original,"EDGAR PAYNE (1883-1947)
+Venetian Boats 
+signed 'Edgar Payne' (lower left) and titled (on the reverse prior to lining)
+oil on canvas
+15 1/4 x 18 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25828134-1-3.jpg,https://www.bonhams.com/auction/31906/lot/37/edgar-payne-1883-1947-venetian-boats-15-14-x-18-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+ffd059d9-2f17-490d-9662-90264cf3dbe4,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 38,USD,40000,60000,94480,74000,40000,60000,94480,74000,Edgar Payne,1883,1947,"Tuna Boats, Concarneau, France",painting,oil on canvas,N/A,30,25,in,yes,yes,yes,1901,2000,"Norman and Betty Moss, Eureka, California, circa 1950. The Redfern Gallery, Laguna Beach, California. Private collection, Laguna Beach, California, acquired from the above in 1989.","boats, water, sails, sky, clouds, reflections, harbor, coastal scene, fishing, port",1,N/A,original,"EDGAR PAYNE (1883-1947)
+Tuna Boats, Concarneau, France 
+signed 'Edgar Payne' (lower right) and inscribed with title (on the reverse)
+oil on canvas
+25 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/02/25830334-2-2.jpg,https://www.bonhams.com/auction/31906/lot/38/edgar-payne-1883-1947-tuna-boats-concarneau-france-25-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,44480.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,52000.0,43333.333333333336
+74286a55-c629-4ef8-94b7-669c9089ed1e,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 39,USD,60000,80000,146550,115000,60000,80000,146550,115000,JOSEPH KLEITSCH,1882,1931,Geraniums,painting,oil on canvas,N/A,24,30,in,yes,yes,yes,1930,1930,"George Stern Fine Arts, West Hollywood, California. Private collection, Rancho Mirage, California.","geraniums, red flowers, green leaves, potted plants, garden, foliage",1,N/A,original,"JOSEPH KLEITSCH (1882-1931)
+Geraniums 
+signed, inscribed and dated 'Joseph Kleitsch / California / 1930' (lower right)
+oil on canvas
+30 x 24 in.
+Painted in 1930.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25825387-3-2.jpg,https://www.bonhams.com/auction/31906/lot/39/joseph-kleitsch-1882-1931-geraniums-30-x-24-in-painted-in-1930/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6990.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+4b90b00e-f9c3-463e-b671-4fa92d409452,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 40,USD,20000,30000,25600,20000,20000,30000,25600,20000,Benjamin Chambers Brown,1865,1942,"Sierra Peaks in Autumn - Lone Pine, Calif.",painting,oil on canvas,N/A,30.25,25.25,in,yes,yes,yes,1901,2000,"Stendahl Galleries, The Ambassador Hotel, Los Angeles. Steven Stern Fine Arts, Los Angeles.","mountains, trees, autumn, landscape, fields, yellow flowers, blue sky, clouds, hills, vegetation",1,N/A,original,"BENJAMIN CHAMBERS BROWN (1865-1942)
+Sierra Peaks in Autumn - Lone Pine, Calif. 
+signed 'Benjamin C. Brown' (lower right)
+oil on canvas
+25 1/4 x 30 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25831152-3-3.jpg,https://www.bonhams.com/auction/31906/lot/40/benjamin-chambers-brown-1865-1942-sierra-peaks-in-autumn-lone-pine-calif-25-14-x-30-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,25308.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,26500.0,22083.333333333336
+86be84d5-e56b-4f57-b193-c7a9a70e5aa8,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 41,USD,30000,50000,61440,48000,30000,50000,61440,48000,FRANZ ARTHUR BISCHOFF,1864,1929,Garden of Nasturtiums,painting,oil on canvas,N/A,34.25,24,in,yes,yes,yes,1901,2000,"The artist. Gifted to Frank Greenwald and Emma Prehn. Private collection, Carmel, California, by family descent from the above.","nasturtiums, flowers, garden, orange, yellow, green, leaves, oil painting, floral arrangement, nature",1,N/A,original,"FRANZ ARTHUR BISCHOFF (1864-1929)
+Garden of Nasturtiums 
+signed with estate signature 'Franz A Bischoff' (lower right) 
+oil on canvas
+24 x 34 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/03/25833344-1-2.jpg,https://www.bonhams.com/auction/31906/lot/41/franz-arthur-bischoff-1864-1929-garden-of-nasturtiums-24-x-34-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,38040.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,42000.0,35000.0
+2839c7c8-f12a-4c88-b1b9-376286b70262,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 42,USD,60000,80000,N/A,N/A,60000,80000,N/A,N/A,Jean Mannheim,1861,1945,The Water Nymph (Children Bathing),painting,oil on canvas,N/A,34,39,in,yes,yes,yes,1911,1911,"Private collection, Rancho Mirage, California.","girl, water, bath, rocks, children, landscape, sunlight, nature, reflection, leisure",1,N/A,original,"JEAN MANNHEIM (1861-1945)
+The Water Nymph (Children Bathing) 
+signed 'J. Mannheim' (lower left)
+oil on canvas
+39 x 34 in.
+Painted in 1911.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25825387-1-2.jpg,https://www.bonhams.com/auction/31906/lot/42/jean-mannheim-1861-1945-the-water-nymph-children-bathing-39-x-34-in-painted-in-1911/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6398.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+205254ab-5175-4e19-9979-452919dd47f9,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 43,USD,7000,10000,7680,6000,7000,10000,7680,6000,Paul Grimm,1891,1974,"T.P. Dalzel (sic) Ranch, Santa Barbara",painting,oil on canvas,N/A,24,30,in,yes,yes,yes,1939,1939,"Estate of the Artist. George Stern Fine Arts, West Hollywood, California, no. PG1190. Acquired by the present owner from the above.","trees, landscape, autumn, hills, sky, sunlight, foliage, nature, shadows, path",1,N/A,original,"PAUL GRIMM (1891-1974)
+T.P. Dalzel (sic) Ranch, Santa Barbara 
+signed 'Paul Grimm' (lower left) and titled, dated and signed again (on the reverse)
+oil on canvas 
+30 x 24 in.
+Painted in 1939.",https://images2.bonhams.com/image?src=Images/live/2026-03/12/25835092-4-3.jpg,https://www.bonhams.com/auction/31906/lot/43/paul-grimm-1891-1974-tp-dalzel-sic-ranch-santa-barbara-30-x-24-in-painted-in-1939/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+b1c350dd-31db-4966-a7d9-6a0ec7001481,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 44,USD,4000,6000,4864,3800,4000,6000,4864,3800,Alson Skinner Clark,1876,1949,San Gabriel Mission,painting,oil on canvas laid to Masonite,N/A,22,18,in,yes,yes,yes,1901,2000,N/A,"San Gabriel Mission, architecture, trees, blue sky, walls, vegetation, historic site",1,N/A,original,"ALSON SKINNER CLARK (1876-1949)
+San Gabriel Mission 
+signed 'Alson Clark' (lower left) 
+oil on canvas laid to Masonite
+18 x 22 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25819924-2-2.jpg,https://www.bonhams.com/auction/31906/lot/44/alson-skinner-clark-1876-1949-san-gabriel-mission-18-x-22-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+af508f1e-1ba3-46d4-91d6-a0f1d0078488,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 45,USD,30000,50000,69080,54000,30000,50000,69080,54000,Joseph Kleitsch,1882,1931,"Mission Courtyard, The Old Pepper Tree",painting,oil on canvas,N/A,20,18,in,yes,yes,yes,1901,2000,"Estate of the artist. Edna Kleitsch, from the above. Private collection, Los Angeles. Acquired from the above by family descent.","courtyard, old pepper tree, flowers, archway, garden, greenery, blue sky, building, landscape, pathway",1,N/A,original,"JOSEPH KLEITSCH (1882-1931)
+Mission Courtyard, The Old Pepper Tree 
+signed 'Joseph Kleitsch' (lower right) and inscribed with title (on the stretcher) and estate signed (on the reverse)
+oil on canvas
+18 x 20 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25823705-1-2.jpg,https://www.bonhams.com/auction/31906/lot/45/joseph-kleitsch-1882-1931-mission-courtyard-the-old-pepper-tree-18-x-20-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,38080.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,42000.0,35000.0
+79a5751a-551b-4aab-9971-c337d106a6e8,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 46,USD,5000,7000,14080,11000,5000,7000,14080,11000,Jean Mannheim,1861,1945,Portrait of Miss Tateishi,painting,oil on canvas,N/A,28,36,in,yes,yes,yes,1901,2000,"Bowater Gallery, Los Angeles (as Japanese Woman). Private collection, Rancho Mirage, California.","woman, kimono, red flower, blue fabric, pink blossoms, orange background, sitting pose, traditional clothing, bowl, floral pattern",1,N/A,original,"JEAN MANNHEIM (1861-1945)
+Portrait of Miss Tateishi 
+signed 'J. Mannheim' (lower left)
+oil on canvas
+36 x 28 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25825387-2-2.jpg,https://www.bonhams.com/auction/31906/lot/46/jean-mannheim-1861-1945-portrait-of-miss-tateishi-36-x-28-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+c5013b2c-338b-4692-9d6e-c2050d3c4b55,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 47,USD,15000,25000,19200,15000,15000,25000,19200,15000,Joseph Kleitsch,1882,1931,Portrait of Ruth E. Bach,painting,oil on canvas laid to board,N/A,26,40,in,yes,yes,yes,1930,1930,"Private collection, Rancho Mirage, California.","woman, blue shawl, jewelry, portrait, red background, oil painting, 1930",1,N/A,original,"JOSEPH KLEITSCH (1882-1931)
+Portrait of Ruth E. Bach 
+signed and dated 'Joseph Kleitsch / 1930' (lower right)
+oil on canvas laid to board
+40 x 26 in. 
+Painted in 1930.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25825387-4-2.jpg,https://www.bonhams.com/auction/31906/lot/47/joseph-kleitsch-1882-1931-portrait-of-ruth-e-bach-40-x-26-in-painted-in-1930/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,16688.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,22000.0,18333.333333333336
+6ab143a7-44af-4322-b431-6d33a0859cb9,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 48,USD,7000,10000,9600,7500,7000,10000,9600,7500,Marion Kavanagh Wachtel,1876,1954,Santa Paula Valley,painting,watercolor on paper,N/A,29.25,17.25,in,yes,yes,yes,1901,2000,"Private collection, Southern California, 1934. By family descent to the present owners.","landscape, mountains, trees, valley, hills, sky, vegetation, water",1,N/A,original,"MARION KAVANAGH WACHTEL (1876-1954)
+Santa Paula Valley 
+signed with the artist's device 'Marion Kavanagh Wachtel' (lower right) and inscribed with title (on the backing)
+watercolor on paper
+sight 17 1/4 x 29 1/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25831167-1-2.jpg,https://www.bonhams.com/auction/31906/lot/48/marion-kavanagh-wachtel-1876-1954-santa-paula-valley-sight-17-14-x-29-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+0c08a650-48f0-41fc-8f1d-eacd81171c33,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 49,USD,6000,8000,7680,6000,6000,8000,7680,6000,Marion Kavanagh Wachtel,1876,1954,Yellow Sycamores,painting,watercolor on paper,N/A,29,19.5,in,yes,yes,yes,1901,2000,N/A,"sycamore trees, mountains, landscape, grass, rocks, blue sky, clouds, autumn colors, sunlight, nature",1,N/A,original,"MARION KAVANAGH WACHTEL (1876-1954)
+Yellow Sycamores 
+signed 'Marion Kavanagh Wachtel' (lower left)
+watercolor on paper
+sight 19 1/2 x 29 in.",https://images2.bonhams.com/image?src=Images/live/2023-03/14/25322751-1-3.jpg,https://www.bonhams.com/auction/31906/lot/49/marion-kavanagh-wachtel-1876-1954-yellow-sycamores-sight-19-12-x-29-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1020.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+492884d4-7653-4d48-8477-fdd1a651a295,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 50,USD,40000,60000,51200,40000,40000,60000,51200,40000,EDGAR PAYNE,1883,1947,Sespe Canyon (Ventura County),painting,oil on canvas,N/A,34.25,28.25,in,yes,yes,yes,1921,1921,"The Redfern Gallery, Laguna Beach, California. Steven Stern Fine Arts, Los Angeles.","mountains, valley, landscape, trees, hills, sky, farmland",1,N/A,original,"EDGAR PAYNE (1883-1947)
+Sespe Canyon (Ventura County) 
+signed and dated 'Edgar Payne / 1921' (lower right) and inscribed with the title (on the reverse prior to lining)
+oil on canvas
+28 1/4 x 34 1/4 in.
+Painted in 1921.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25831152-2-3.jpg,https://www.bonhams.com/auction/31906/lot/50/edgar-payne-1883-1947-sespe-canyon-ventura-county-28-14-x-34-14-in-painted-in-1921/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,40988.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,52000.0,43333.333333333336
+3ffa5000-cf74-4eb1-b8af-6dced9164cc6,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 51,USD,8000,12000,11520,9000,8000,12000,11520,9000,Marion Kavanagh Wachtel,1876,1954,Indian Summer Sunset,painting,watercolor on paper,N/A,15.5,19.5,in,yes,yes,yes,1901,2000,"The Redfern Gallery, Laguna Beach, California. Private collection, Laguna Beach, California, acquired from the above in 2002.","mountains, trees, river, water, rocks, sky, clouds, autumn, landscape, sunlight",1,N/A,original,"MARION KAVANAGH WACHTEL (1876-1954)
+Indian Summer Sunset 
+signed with the artist's device 'Marion Kavanagh Wachtel' (lower left)
+watercolor on paper
+sight 19 1/2 x 15 1/2 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/02/25830334-11-2.jpg,https://www.bonhams.com/auction/31906/lot/51/marion-kavanagh-wachtel-1876-1954-indian-summer-sunset-sight-19-12-x-15-12-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+26b4dc10-61c0-4d69-ae57-88a13123487a,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 52,USD,5000,7000,7040,5500,5000,7000,7040,5500,RICHARD DEY DE RIBCOWSKY,1880,1936,Poppy Fields in Panoramic California,painting,oil on canvas,N/A,64,45.5,in,yes,yes,yes,1901,2000,"Alderfer Auction, Montgomery, Pennsylvania, March 21, 2016, lot 1145. Portnoy Galleries, Carmel, California. Private collection, Northern California.","poppy fields, landscape, mountains, trees, path, yellow flowers, green grass, mist, sky, horizon",1,N/A,original,"RICHARD DEY DE RIBCOWSKY (1880-1936)
+Poppy Fields in Panoramic California 
+signed 'D. De Ribcowsky' (lower right)
+oil on canvas
+45 1/2 x 64 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25831964-1-2.jpg,https://www.bonhams.com/auction/31906/lot/52/richard-dey-de-ribcowsky-1880-1936-poppy-fields-in-panoramic-california-45-12-x-64-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6400.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+0632b08e-b91b-497f-8cb8-5a6b2894868f,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 53,USD,5000,7000,5376,4200,5000,7000,5376,4200,Paul Grimm,1891,1974,Desert Growth,painting,oil on Masonite,N/A,24,20,in,yes,yes,yes,1941,1941,"Estate of the artist. George Stern Fine Arts, West Hollywood, California, no. PG1034. Acquired by the present owner from the above.","desert, mountains, vegetation, shrubs, landscape, sky, sunlight, rocks, colors, plants",1,N/A,original,"PAUL GRIMM (1891-1974)
+Desert Growth 
+signed 'Paul Grimm' (lower right) and titled, signed again and dated (on the reverse)
+oil on Masonite
+20 x 24 in.
+Painted in 1941.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25835092-3-2.jpg,https://www.bonhams.com/auction/31906/lot/53/paul-grimm-1891-1974-desert-growth-20-x-24-in-painted-in-1941/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,5120.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+31e0e527-d689-4b77-8352-8b06a7610fa3,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 54,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,Hanson Puthuff,1875,1972,Rocky Coast,painting,oil on Masonite,N/A,16,12,in,yes,yes,yes,1901,2000,"Christie's, Los Angeles, October 24, 2007, lot 12. Private collection, Los Angeles, California, acquired from the above. Bonhams, San Francisco and Los Angeles, November 23, 2015, lot 51. Private collection, Southern California, acquired from the above.","rocks, sea, water, waves, coast, beach, blue, brown, horizon, sand",1,N/A,original,"HANSON PUTHUFF (1875-1972)
+Rocky Coast 
+signed 'H Puthuff' (lower left)
+oil on Masonite
+12 x 16 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/11/25838183-2-2.jpg,https://www.bonhams.com/auction/31906/lot/54/hanson-puthuff-1875-1972-rocky-coast-12-x-16-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6400.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+dbd2c603-5e56-4b83-9b6a-c348bd9566b2,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 55,USD,4000,6000,5120,4000,4000,6000,5120,4000,Marion Kavanagh Wachtel,1876,1954,Coastal Ranch,painting,oil on canvas,N/A,18,13.75,in,yes,yes,yes,1901,2000,"Estate of the artist. Bonhams & Butterfields, Los Angeles and San Francisco, December 11, 2006, lot 164. Private collection, Carmel, California. Bonhams, Los Angeles, October 13, 2020, lot 81. Private collection, Southern California, acquired from the above.","trees, coastal landscape, ranch, blue sky, hills, vegetation, distant mountains, water, fields, shadows",1,N/A,original,"MARION KAVANAGH WACHTEL (1876-1954)
+Coastal Ranch 
+signed with the artist's device 'Marion Kavanagh Wachtel' (lower left) and estate stamped (on the stretcher bar)
+oil on canvas
+13 3/4 x 18 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/11/25838183-1-2.jpg,https://www.bonhams.com/auction/31906/lot/55/marion-kavanagh-wachtel-1876-1954-coastal-ranch-13-34-x-18-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+d1540e32-44e4-44e5-a273-bf649b3b5ca5,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 56,USD,3000,5000,3200,2500,3000,5000,3200,2500,Sam Hyde Harris,1889,1977,South Pasadena,painting,oil on canvasboard,N/A,20,16,in,yes,yes,yes,1901,2000,"Private collection, Nevada. Bonhams, San Francisco and Los Angeles, November 23, 2015, lot 71. Private collection, Southern California, acquired from the above.","landscape, hills, buildings, trees, grass, sky",1,N/A,original,"SAM HYDE HARRIS (1889-1977)
+South Pasadena 
+signed 'Sam Hyde Harris' (lower left) and titled and numbered '137' (on the reverse)
+oil on canvasboard
+16 x 20 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/11/25838183-3-3.jpg,https://www.bonhams.com/auction/31906/lot/56/sam-hyde-harris-1889-1977-south-pasadena-16-x-20-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3098.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+7e3be6cd-79e3-4c9a-ad3d-2a345d0171b6,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 57,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,DANA BARTLETT,1882,1957,California Landscape,painting,oil on canvas,N/A,20,16,in,yes,yes,yes,1901,2000,"Private estate, Nevada. Private collection, Nevada, acquired from the above. Bonhams & Butterfields, Los Angeles, September 28, 2015, lot 3002. Private collection, Southern California, acquired from the above.","landscape, trees, hills, sky, clouds, vegetation, green, brown, blue",1,N/A,original,"DANA BARTLETT (1882-1957)
+California Landscape 
+signed 'DANA BARTLETT' (lower left) and titled (on the stretcher bar)
+oil on canvas
+16 x 20 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/11/25838183-4-3.jpg,https://www.bonhams.com/auction/31906/lot/57/dana-bartlett-1882-1957-california-landscape-16-x-20-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2410.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+506070fd-48b5-47fb-94de-b1ab40c2fa39,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 58,USD,6000,8000,6400,5000,6000,8000,6400,5000,Charles Reiffel,1862,1942,Bit of Nogales,painting,oil on panel,N/A,24,20,in,yes,yes,yes,1901,2000,"Private collection, Mexico. John Moran Auctioneers, Monrovia, October 26, 2004, lot 44. Private collection, Arizona.","mountain, village, landscape, hills, rocks, clouds, vegetation, homes, earth tones",1,N/A,original,"CHARLES REIFFEL (1862-1942)
+Bit of Nogales 
+signed 'Charles Reiffel' (lower right) and titled and signed again (on the reverse)
+oil on panel
+20 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25828745-7-2.jpg,https://www.bonhams.com/auction/31906/lot/58/charles-reiffel-1862-1942-bit-of-nogales-20-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6400.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+998bdd06-fae8-476a-aa45-5a4c8429fd9f,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 59,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,Maurice Braun,1877,1941,"Midsummer, Calif.",painting,oil on canvas,N/A,30,25,in,yes,yes,yes,1901,2000,"Ferguson Art Galleries, La Jolla, California. Bonhams, Los Angeles, December 12, 1996, lot 3227. Private collection, Arizona.","mountains, trees, landscape, clouds, hills, vegetation, sky, valley, brush, colors",1,N/A,original,"MAURICE BRAUN (1877-1941)
+Midsummer, Calif. 
+signed 'Maurice Braun-' (lower left) and inscribed with title (on the stretcher)
+oil on canvas 
+25 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25828745-1-2.jpg,https://www.bonhams.com/auction/31906/lot/59/maurice-braun-1877-1941-midsummer-calif-25-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10299.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+fe950b9a-f5f9-46d8-91cb-3efde4750ca9,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 60,USD,8000,12000,12160,9500,8000,12000,12160,9500,CHARLES REIFFEL,1862,1942,"Seir Hill, Norwalk (Connecticut)",painting,oil on canvas,N/A,24,20,in,yes,yes,yes,1901,2000,"Private collection, Northern California.","landscape, trees, fields, buildings, sky, farm, rural, greenery, fence, hills",1,N/A,original,"CHARLES REIFFEL (1862-1942)
+Seir Hill, Norwalk (Connecticut) 
+signed 'C. Reiffel' (lower right) and signed again, titled and dated (on the stretcher)
+oil on canvas
+20 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/03/25831183-1-2.jpg,https://www.bonhams.com/auction/31906/lot/60/charles-reiffel-1862-1942-seir-hill-norwalk-connecticut-20-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+74fc9a40-d5f7-47b8-ad55-ac0bb7d5cac9,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 61,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,Maurice Braun,1877,1941,San Diego Hills,painting,oil on canvas,N/A,24,16.25,in,yes,yes,yes,1901,2000,"DeRu's Fine Art, Laguna Beach, California. Private collection, Laguna Beach, California, acquired from the above in 1999.","trees, autumn foliage, hills, fence, landscape, house, blue sky, clouds, grass, fields",1,N/A,original,"MAURICE BRAUN (1877-1941)
+San Diego Hills 
+signed 'Maurice Braun' (lower right)
+oil on canvas
+16 1/4 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/02/25830334-7-2.jpg,https://www.bonhams.com/auction/31906/lot/61/maurice-braun-1877-1941-san-diego-hills-16-14-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6448.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+1f39c1cd-2a7e-43cf-af98-03b538205a4b,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 62,USD,5000,7000,5120,4000,5000,7000,5120,4000,FRANCIS DE ERDELY,1904,1959,Still Life with Log and Plants,painting,oil on canvas,N/A,30,40,in,yes,yes,yes,1901,2000,"Pasadena Art Museum, Pasadena, March 14-15, 1970, PAM #70-49 (as Still Life). Private collection, Northern California.","still life, log, plants, pots, leaves, table, green, brown, orange, shadows",1,N/A,original,"FRANCIS DE ERDELY (1904-1959)
+Still Life with Log and Plants 
+signed 'De Erdely' (lower right)
+oil on canvas
+40 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25790087-1-2.jpg,https://www.bonhams.com/auction/31906/lot/62/francis-de-erdely-1904-1959-still-life-with-log-and-plants-40-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6098.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+d27f9ea2-e803-4967-96ef-d8dcdefa4332,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 63,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,HENRIETTA BERK,1919,1990,Anne with Cello (The Artist's Daughter),painting,oil on canvas,N/A,28.25,50,in,yes,yes,yes,1960,1969,"Private collection, Canada.","girl, cello, music, art, portrait, seated, brown hair, green shirt, abstract background, oil painting",1,N/A,original,"HENRIETTA BERK (1919-1990)
+Anne with Cello (The Artist's Daughter) 
+signed 'H. Berk' (lower left)
+oil on canvas 
+50 x 28 1/4 in.
+Painted circa 1960-61.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25742914-1-2.jpg,https://www.bonhams.com/auction/31906/lot/63/henrietta-berk-1919-1990-anne-with-cello-the-artists-daughter-50-x-28-14-in-painted-circa-1960-61/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10280.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+307a6cb2-c16b-41b1-b5fe-25dae8b69cbb,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 64,USD,5000,7000,15360,12000,5000,7000,15360,12000,Morris Graves,1910,2001,Colt,painting,oil on canvas,N/A,39.25,35.25,in,no,yes,yes,1936,1936,"Miss Nannette Tibbals, San Francisco. Private collection, Northern California.","colt, horse, grass, landscape, brown, white, green, movement, animal, nature",1,N/A,original,"MORRIS GRAVES (1910-2001)
+Colt 
+oil on canvas
+35 1/4 x 39 1/4 in.
+Painted circa 1936-37.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25790087-2-1.jpg,https://www.bonhams.com/auction/31906/lot/64/morris-graves-1910-2001-colt-35-14-x-39-14-in-painted-circa-1936-37/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6400.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+d9ab52f8-0722-4555-b458-49a152de595c,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 65,USD,3000,5000,4096,3200,3000,5000,4096,3200,PAUL GRIMM,1891,1974,Seaside Sunsets (a group of two),painting,oil on board,N/A,12,9,in,yes,yes,yes,1901,2000,"Estate of the artist. George Stern Fine Arts, West Hollywood, California, nos. PG1112 and PG634. Acquired by the present owner from the above.","sunset, seaside, houses, ocean, sky, clouds, rooftops, warm colors, evening light",2,N/A,original,"PAUL GRIMM (1891-1974)
+Seaside Sunsets (a group of two) 
+each signed 'P. Grimm' (lower left and right)
+each oil on board
+each 9 x 12 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25835092-6-2.jpg,https://www.bonhams.com/auction/31906/lot/65/paul-grimm-1891-1974-seaside-sunsets-a-group-of-two-each-9-x-12-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3098.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+1e738720-774e-4f4e-aa83-5d774edce84f,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 66,USD,1000,1500,3840,3000,1000,1500,3840,3000,Sally Storch,1952,N/A,Lola's Cafe,painting,oil on canvas,N/A,30,24,in,yes,no,yes,1952,1952,The Collection of Richard and Constance E. Aprahamian.,"cafe, storefront, dress, woman, brick building, awning, paint store, sidewalk, window display, shop",1,N/A,original,"SALLY STORCH (BORN 1952)
+Lola's Cafe 
+signed 'Storch' (lower right)
+oil on canvas
+24 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2025-06/03/25639501-22-2.jpg,https://www.bonhams.com/auction/31906/lot/66/sally-storch-born-1952-lolas-cafe-24-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1028.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+3abfd9c8-9db1-499e-ab48-24f1ca81e946,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 67,USD,3000,5000,5760,4500,3000,5000,5760,4500,ROGER KUNTZ,1926,1975,Low Tide,painting,oil on canvas,N/A,24,18,in,yes,yes,yes,1901,2000,The Collection of Richard and Constance E. Aprahamian.,"beach, rocks, ocean, people, sky, seagulls, water, shoreline, landscape, green",1,N/A,original,"ROGER KUNTZ (1926-1975)
+Low Tide 
+signed 'Kuntz' (lower right) and inscribed with title (on the stretcher) 
+oil on canvas 
+18 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2025-06/03/25639501-18-2.jpg,https://www.bonhams.com/auction/31906/lot/67/roger-kuntz-1926-1975-low-tide-18-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3098.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+0999b5a2-0e67-4919-b176-95b927e87023,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 68,USD,3000,5000,3200,2500,3000,5000,3200,2500,ROGER KUNTZ,1926,1975,"Bette Davis House, Laguna Beach",painting,oil on canvas,N/A,36,30,in,yes,yes,yes,1901,2000,The Collection of Richard and Constance E. Aprahamian.,"house, ocean, trees, sky, road, architecture, landscape, greenery, rooftops, coastline",1,N/A,original,"ROGER KUNTZ (1926-1975)
+Bette Davis House, Laguna Beach 
+signed 'Kuntz' (lower left) 
+oil on canvas
+30 x 36 in.",https://images2.bonhams.com/image?src=Images/live/2025-06/03/25639501-9-2.jpg,https://www.bonhams.com/auction/31906/lot/68/roger-kuntz-1926-1975-bette-davis-house-laguna-beach-30-x-36-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3078.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+ef6ffbb7-b4a7-48a8-a994-7446c985a727,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 69,USD,4000,6000,14080,11000,4000,6000,14080,11000,Millard Sheets,1907,1989,Farm Near Lompoc,painting,watercolor on paper,N/A,19,13.5,in,yes,yes,yes,1928,1928,"Stary-Sheets Gallery, Gualala, California. Private collection. Heritage Auctions, Dallas, September 9, 2021, lot 27007. Portnoy Galleries, Carmel, California. Private collection, Northern California.","farm, hills, house, windmill, cows, hay, landscape, dirt road, orange barn, blue sky",1,N/A,original,"MILLARD SHEETS (1907-1989)
+Farm Near Lompoc 
+signed 'Millard Sheets' (lower right)
+watercolor on paper
+sight 13 1/2 x 19 in. 
+Executed circa 1928.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25831964-2-3.jpg,https://www.bonhams.com/auction/31906/lot/69/millard-sheets-1907-1989-farm-near-lompoc-sight-13-12-x-19-in-executed-circa-1928/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+b342e53c-1076-47cf-a213-7974d6bf5eda,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 70,USD,2500,3500,4096,3200,2500,3500,4096,3200,Sam Hyde Harris,1889,1977,Shadowed Corner,painting,oil on canvas,N/A,30,24,in,yes,yes,yes,1901,2000,"Michael Hollis Fine Art, South Pasadena. Private collection, acquired from the above.","trees, mountains, landscape, desert, foliage, sunlight, shadows, rocks, shrubs, sky",1,N/A,original,"SAM HYDE HARRIS (1889-1977)
+Shadowed Corner 
+signed 'Sam Hyde Harris' (lower right) and estate stamped (on the reverse)
+oil on canvas 
+24 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25819955-1-3.jpg,https://www.bonhams.com/auction/31906/lot/70/sam-hyde-harris-1889-1977-shadowed-corner-24-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2410.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3100.0,2583.3333333333335
+b4faa06f-4b42-482b-bd44-e550a3ee2167,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 71,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,Millard Sheets,1907,1989,The Wave,painting,watercolor on paper,N/A,29.25,21,in,yes,yes,yes,1975,1975,"Kennedy Galleries, Inc., New York, New York. Collection of Henry W. Coil Jr. Private collection, Palm Springs.","waves, rocks, ocean, sky, birds, green water, brown, orange, clouds, seascape",1,N/A,original,"MILLARD SHEETS (1907-1989)
+The Wave 
+signed and dated 'Millard Sheets / 1975' (lower right)
+watercolor on paper
+sight 21 x 29 1/4 in.
+Executed in 1975.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25819715-1-2.jpg,https://www.bonhams.com/auction/31906/lot/71/millard-sheets-1907-1989-the-wave-sight-21-x-29-14-in-executed-in-1975/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+a0d1a64e-9b11-4b49-a73c-a55af02f7ea1,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 72,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,David Chapple,1947,N/A,Crystal Cove,painting,oil on canvas affixed to board,N/A,28,22.5,in,yes,no,yes,1947,1947,N/A,"coastline, beach, ocean, clouds, cliffs, vegetation, shore, landscape, blue sky, water",1,N/A,original,"DAVID CHAPPLE (BORN 1947)
+Crystal Cove 
+signed 'David Chapple' (lower right) and titled (on the reverse)
+oil on canvas affixed to board
+22 1/2 x 28 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25831925-1-3.jpg,https://www.bonhams.com/auction/31906/lot/72/david-chapple-born-1947-crystal-cove-22-12-x-28-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3099.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+3f8f4fc7-9374-4ef7-8df0-e70a082e5ef3,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 73,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,Paul Grimm,1891,1974,Docked (a group of three),painting,"oil on board, oil on canvasboard",N/A,12,9,in,yes,yes,yes,1901,2000,"Estate of the artist. George Stern Fine Arts, West Hollywood, nos. PG1104, PG792 and PG686. Acquired by the present owner from the above.","boats, dock, water, reflections, pier, orange, white, green, blue, horizon",3,N/A,original,"PAUL GRIMM (1891-1974)
+Docked (a group of three) 
+each signed 'Paul Grimm' or 'P. Grimm' (lower left) and third inscribed 'To-Tillie / From Paul' (on the reverse)
+first and second oil on board and third oil on canvasboard
+each 9 x 12 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25835092-5-6.jpg,https://www.bonhams.com/auction/31906/lot/73/paul-grimm-1891-1974-docked-a-group-of-three-each-9-x-12-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4108.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+aa69d968-d263-4c99-9efc-a7864c130086,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 74,USD,4000,6000,3200,2500,4000,6000,3200,2500,Phil Dike,1906,1990,"Summer Fun, Newport",drawing,watercolor and ink on paper,N/A,22.75,17.25,in,yes,yes,yes,1901,2000,N/A,"sailboat, water, people, beach, summer, fishing, shoreline, boats, waves, activities",1,N/A,original,"PHIL DIKE (1906-1990)
+Summer Fun, Newport 
+signed 'Phil Dike' (lower right)
+watercolor and ink on paper 
+sight 17 1/4 x 22 3/4 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25819924-1-3.jpg,https://www.bonhams.com/auction/31906/lot/74/phil-dike-1906-1990-summer-fun-newport-sight-17-14-x-22-34-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3800.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+9bf81289-6712-48cc-b2e8-7075c6d1a596,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 75,USD,3000,5000,3584,2800,3000,5000,3584,2800,Arthur Beaumont,1890,1978,'The Kista Dan' - Released from Ice by U.S.S. Glacier,painting,watercolor on paper,N/A,21.25,15.75,in,yes,yes,yes,1960,1960,"Private collection, Southern California.","ship, ice, water, smoke, ocean, Antarctica, blue sky, reflections, crew, red",1,N/A,original,"ARTHUR BEAUMONT (1890-1978)
+'The Kista Dan' - Released from Ice by U.S.S. Glacier 
+signed, inscribed and dated 'Arthur Beaumont / Marguerite Bay / Antarctica / Mar 1960' (lower right)
+watercolor on paper
+sight 15 3/4 x 21 1/4 in.
+Executed in 1960.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25819882-1-2.jpg,https://www.bonhams.com/auction/31906/lot/75/arthur-beaumont-1890-1978-the-kista-dan-released-from-ice-by-uss-glacier-sight-15-34-x-21-14-in-executed-in-1960/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3099.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+c77bd8fa-1da3-4ef2-85d6-d18879fce0fb,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 77,USD,60000,80000,203700,160000,60000,80000,203700,160000,Bob Ross,1942,1995,Walk in the Woods (Practice),painting,Bob Ross Wet-on-Wet Technique® on canvas,N/A,24,18,in,yes,yes,yes,1980,1989,"Private collection, Virginia. A Certificate of Authenticity from Bob Ross Inc. accompanies this lot.","trees, water, pond, landscape, rocks, autumn foliage, pastel colors, sky, nature, reflections",1,N/A,original,"BOB ROSS (1942-1995)
+Walk in the Woods (Practice) 
+signed 'Ross' (lower left) and dated (on the stretcher)
+Bob Ross Wet-on-Wet TechniqueÂ® on canvas
+18 x 24 in.
+Painted circa 1982.",https://images2.bonhams.com/image?src=Images/live/2026-02/12/25794255-1-1.jpg,https://www.bonhams.com/auction/31906/lot/77/bob-ross-1942-1995-walk-in-the-woods-practice-18-x-24-in-painted-circa-1982/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,69480.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+5f4edd4e-a3fc-45b5-aec3-cc0401349c98,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 78,USD,8000,12000,10240,8000,8000,12000,10240,8000,WILLARD NASH,1898,1943,Landscape with Reservoir,painting,oil on canvas,N/A,20.25,16,in,yes,yes,yes,1930,1930,"The Collection of Florence Dimi Nash Hansell. Gerald P. Peters Gallery, Santa Fe, New Mexico. Private collection, Washington D.C. Santa Fe Art Auction, Santa Fe, November 10, 2018, lot 89. Private collection, Arizona.","landscape, reservoir, trees, hills, sky, path, green, brown, blue, water",1,N/A,original,"WILLARD NASH (1898-1943)
+Landscape with Reservoir 
+signed 'Nash' (lower right)
+oil on canvas 
+16 x 20 1/4 in.
+Painted circa 1930-33.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25828745-5-2.jpg,https://www.bonhams.com/auction/31906/lot/78/willard-nash-1898-1943-landscape-with-reservoir-16-x-20-14-in-painted-circa-1930-33/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+2821fc46-261f-4523-83f9-c41eb23eb4ac,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 79,USD,3000,5000,6400,5000,3000,5000,6400,5000,CHUZO TAMOTZU,1888,1975,The Gardener,painting,oil on canvas,N/A,30,24,in,yes,yes,yes,1901,2000,"Lido Galleries, Long Beach, New York. Private collection, Northern California.","gardener, house, trees, vegetables, chickens, farm, landscape, soil, sky, garden",1,N/A,original,"CHUZO TAMOTZU (1888-1975)
+The Gardener 
+signed 'Tamotzu' (lower right)
+oil on canvas
+24 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/26/25831964-5-3.jpg,https://www.bonhams.com/auction/31906/lot/79/chuzo-tamotzu-1888-1975-the-gardener-24-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3098.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+144de7ab-3d20-40d1-8987-bcc7440608d3,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 80,USD,4000,6000,8320,6500,4000,6000,8320,6500,CATHERINE ANNA WILEY,1879,1958,Path in the Forest,painting,oil on canvas,N/A,14,16,in,yes,yes,yes,1901,2000,"Private collection, Santa Barbara, California.","forest,path,trees,light,green,shadows,ground,nature,landscape,tranquility",1,N/A,original,"CATHERINE ANNA WILEY (1879-1958)
+Path in the Forest 
+signed 'C. Wiley' (lower right)
+oil on canvas
+16 x 14 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25822017-3-1.jpg,https://www.bonhams.com/auction/31906/lot/80/catherine-anna-wiley-1879-1958-path-in-the-forest-16-x-14-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+443891b5-01b6-4490-a663-4a25c94f3876,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 81,USD,80000,120000,140200,110000,80000,120000,140200,110000,Armin Hansen,1886,1957,Spirit of the Rodeo,painting,oil on canvasboard,N/A,24,20,in,yes,yes,yes,1901,2000,"Oliver's Mission Art and Curio Store, Monterey, California. The Redfern Gallery, Laguna Beach, California. Private collection, Arizona. Private collection, Northern California.","rodeo, horses, cowboys, action, entertainment, dust, animals, Western, competition, movement",1,N/A,original,"ARMIN HANSEN (1886-1957)
+Spirit of the Rodeo 
+signed 'Armin Hansen' (lower right) and titled and signed again (on the reverse)
+oil on canvasboard
+20 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/03/25833321-2-2.jpg,https://www.bonhams.com/auction/31906/lot/81/armin-hansen-1886-1957-spirit-of-the-rodeo-20-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,101008.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,102500.0,85416.66666666667
+28f86715-4860-4303-bf70-d5b456ede60a,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 82,USD,3000,5000,5376,4200,3000,5000,5376,4200,HENRY LEWIS,1819,1904,Buffalo Hunting on the Western Prairies of America,painting,oil on canvas,N/A,16.5,12.25,in,yes,yes,yes,1869,1869,"Kunstauktionshaus Günther, Dresden, Germany, November 14, 2020. Acquired by the present owner from the above.","buffalo, horse, rider, prairie, lake, sky, clouds, hills, grass, plants",1,N/A,original,"HENRY LEWIS (1819-1904)
+Buffalo Hunting on the Western Prairies of America 
+signed, indistinctly dated and inscribed 'H. Lewis 18** Dusseldorf' (lower right) and faintly inscribed (on the stretcher)
+oil on canvas 
+12 1/4 x 16 1/2 in.
+Painted circa 1869.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25791276-1-2.jpg,https://www.bonhams.com/auction/31906/lot/82/henry-lewis-1819-1904-buffalo-hunting-on-the-western-prairies-of-america-12-14-x-16-12-in-painted-circa-1869/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3099.53,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+3dcf0bba-e04e-4aec-8db6-1c8b09d59c4b,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 83,USD,5000,7000,4480,3500,5000,7000,4480,3500,Glenna Goodacre,1939,2020,Shoshone Mother and Child,sculpture,bronze with brown patina,N/A,N/A,25,in,no,yes,yes,1999,1999,"Nedra Matteucci Galleries, Santa Fe, New Mexico. Private collection, Denver, acquired from the above.","mother, child, bronze sculpture, Shoshone, cape, wooden base, woman, standing figure, patina, tribal clothing",1,N/A,original,"GLENNA GOODACRE (1939-2020)
+Shoshone Mother and Child 
+inscribed, dated and numbered 'G. Goodacre / Â© 1999 15/40' (on the figure's cape)
+bronze with brown patina
+25 in. high, on a 1 3/4 in. high wooden base",https://images2.bonhams.com/image?src=Images/live/2025-10/09/25749013-2-1.jpg,https://www.bonhams.com/auction/31906/lot/83/glenna-goodacre-1939-2020-shoshone-mother-and-child-25-in-high-on-a-1-34-in-high-wooden-base/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6098.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+5a51f2c2-239d-4a25-8fca-d358a0e7f67e,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 84,USD,12000,18000,40960,32000,12000,18000,40960,32000,FRANK HOFFMAN,1888,1958,Bronco Buster,painting,oil on Masonite,N/A,30,24,in,yes,yes,yes,1901,2000,"Private collection, Saratoga, California. Bonhams & Butterfields, Los Angeles, December 8, 2004, lot 119. The Pamplin Collection. Private collection, Oregon, acquired from the above.","cowboy, horse, rodeo, ranch, saddle, dust, action, landscape, figure, grass",1,N/A,original,"FRANK HOFFMAN (1888-1958)
+Bronco Buster 
+signed 'Hoffman' (lower right)
+oil on Masonite
+24 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25801532-2-2.jpg,https://www.bonhams.com/auction/31906/lot/84/frank-hoffman-1888-1958-bronco-buster-24-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,15300.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+9b7e6db3-632b-44ad-a2ec-89b24297b0c2,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 85,USD,50000,70000,64000,50000,50000,70000,64000,50000,Carl Clemens Moritz Rungius,1869,1959,At the Pond,painting,oil on canvas,N/A,16.25,12.25,in,yes,yes,yes,1916,1916,"Private collection, Wisconsin. Private collection, Wisconsin, acquired from the above by family descent.","moose, pond, trees, water, landscape, forest, brown color, green color, rocky shore, wildlife",1,N/A,original,"CARL CLEMENS MORITZ RUNGIUS (1869-1959)
+At the Pond 
+signed 'C. Rungius' (lower right)
+oil on canvas
+12 1/4 x 16 1/4 in.
+Painted in 1916.",https://images1.bonhams.com/image?src=Images/live/2025-12/18/25773271-1-1.jpg,https://www.bonhams.com/auction/31906/lot/85/carl-clemens-moritz-rungius-1869-1959-at-the-pond-12-14-x-16-14-in-painted-in-1916/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,5080.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,62000.0,51666.66666666667
+fbc23119-1a6b-48b3-b321-eb0bad9a650e,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 86,USD,7000,10000,16640,13000,7000,10000,16640,13000,DAWSON DAWSON-WATSON,1864,1939,Prickly Pear Cactus,painting,oil on canvas laid to board,N/A,11,15,in,yes,yes,yes,1937,1937,"A private Massachusetts estate. Private collection, Massachusetts, acquired from the above, circa 2000.","prickly pear cactus, flowers, landscape, hills, sky, sunlight, green, orange, texture, nature",1,N/A,original,"DAWSON DAWSON-WATSON (1864-1939)
+Prickly Pear Cactus 
+signed, dedicated and dated 'To the Tufts from / Dawson-Watson / 37' (lower right)
+oil on canvas laid to board
+15 x 11 in.
+Painted in 1937.",https://images2.bonhams.com/image?src=Images/live/2026-02/12/25788185-1-2.jpg,https://www.bonhams.com/auction/31906/lot/86/dawson-dawson-watson-1864-1939-prickly-pear-cactus-15-x-11-in-painted-in-1937/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+f53b733f-7dc9-4e42-9c62-383acb8dc59b,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 87,USD,10000,15000,12800,10000,10000,15000,12800,10000,Frederick Emanuel Shane,1906,1992,Memories of the Southwest (Mural),painting,oil on linen affixed to Masonite,N/A,112,36,in,yes,yes,yes,1930,1939,"The artist. Private collection, Kansas City, Missouri, commissioned from the above. With Gerald P. Peters, Santa Fe, New Mexico. Thomas McCormick Works of Art, Kansas City, Missouri. The Collection of Dean Pitchford, acquired from the above, 1992.","men, rocks, horses, landscape, digging, coulees, plants, mountains, cowboys, canyon",1,N/A,original,"FREDERICK EMANUEL SHANE (1906-1992)
+Memories of the Southwest (Mural) 
+signed and dated 'Frederick Shane 1933' (lower left)
+oil on linen affixed to Masonite
+36 x 112 in. 
+Painted in 1933.",https://images2.bonhams.com/image?src=Images/live/2026-02/25/25821111-2-3.jpg,https://www.bonhams.com/auction/31906/lot/87/frederick-emanuel-shane-1906-1992-memories-of-the-southwest-mural-36-x-112-in-painted-in-1933/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+6ad2b4ac-629c-407f-9f7d-97d467e42182,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 88,USD,4000,6000,7680,6000,4000,6000,7680,6000,Conrad Buff,1886,1975,Grand Canyon,painting,oil on board,N/A,30,23.5,in,no,yes,yes,1901,2000,"The artist.<br />Mary Elizabeth Buff, from the estate of the above. <br />DeRu's Fine Arts, Laguna Beach, California. <br />Private collection, Arizona.","Grand Canyon, rocks, landscape, sky, colors, shadows, cliffs, hills, desert, vegetation",1,N/A,original,"CONRAD BUFF (1886-1975)
+Grand Canyon 
+estate stamped 'Conrad Buff' (lower right)
+oil on board
+23 1/2 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/04/25828745-2-2.jpg,https://www.bonhams.com/auction/31906/lot/88/conrad-buff-1886-1975-grand-canyon-23-12-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+ad692716-a25d-4a7e-b128-a1b7e4fd3916,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 89,USD,15000,25000,N/A,N/A,15000,25000,N/A,N/A,BEN CULWELL,1918,1992,Mill,mixed media,oil and mixed media on Masonite,N/A,23.75,17,in,yes,yes,yes,1947,1947,"Fred R. Kline Gallery and Kline Art Research Associates, Sante Fe, New Mexico. A private Massachusetts collection.","mill, abstract, colors, shapes, mixed media, oil painting, 1940s, landscape, textured",1,N/A,original,"BEN CULWELL (1918-1992)
+Mill 
+signed with initials 'BLC' (lower right) and numbered, titled, dated, and signed again 'No. 47-2 / Mill / 1947 / B.L. Culwell' (on the reverse)
+oil and mixed media on Masonite
+17 x 23 3/4 in.
+Painted in 1947.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25787932-2-2.jpg,https://www.bonhams.com/auction/31906/lot/89/ben-culwell-1918-1992-mill-17-x-23-34-in-painted-in-1947/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,16408.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,21000.0,17500.0
+c820e5c3-bf0e-471c-84f4-fb0d6deccd1d,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 90,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,RANDAL M. DUTRA,1958,N/A,Winter Mallards,painting,oil on linen,N/A,30,24,in,yes,no,yes,1958,1958,"National Cowboy Hall of Fame, Prix de West Invitational. Property from the Estate of James and Nancy Dominy.","mallards, ducks, water, ice, snow, winter, reflections, trees, ripples, landscape",1,N/A,original,"RANDAL M. DUTRA (BORN 1958)
+Winter Mallards 
+signed 'R. Dutra Â©' (lower right) and signed again (on the backing)
+oil on linen
+24 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-03/09/25816906-15-2.jpg,https://www.bonhams.com/auction/31906/lot/90/randal-m-dutra-born-1958-winter-mallards-24-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6400.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+a8def760-f16f-4203-834f-447b1cd5308a,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 91,USD,3000,5000,4096,3200,3000,5000,4096,3200,Al Barnes,1937,2015,Sunrise Flight,painting,oil on canvas,N/A,40,30,in,yes,yes,yes,1901,2000,From a Houston Corporate Collection.,"sunrise, flight, birds, landscape, water, sky, clouds, shore, reflection, flora",1,N/A,original,"AL BARNES (1937-2015)
+Sunrise Flight 
+signed 'Al Barnes' (lower right) 
+oil on canvas 
+30 x 40 in.",https://images2.bonhams.com/image?src=Images/live/2026-01/13/25766224-4-1.jpg,https://www.bonhams.com/auction/31906/lot/91/al-barnes-1937-2015-sunrise-flight-30-x-40-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3098.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+bc344228-bb42-464e-8f8a-c86014dceb93,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 92,USD,30000,50000,53760,42000,30000,50000,53760,42000,RUSSELL CHATHAM,1939,2019,August Near Deep Creek,painting,oil on canvas,N/A,50,36,in,yes,yes,yes,1992,1992,"Barney Wyckoff Gallery, Aspen, Colorado. Private collection, Connecticut.","landscape, fields, trees, hills, yellow, green, nature, agricultural",1,N/A,original,"RUSSELL CHATHAM (1939-2019)
+August Near Deep Creek 
+signed with artist's monogram (lower left)
+oil on canvas
+36 x 50 in.
+Painted in 1992.",https://images2.bonhams.com/image?src=Images/live/2026-02/27/25806107-1-2.jpg,https://www.bonhams.com/auction/31906/lot/92/russell-chatham-1939-2019-august-near-deep-creek-36-x-50-in-painted-in-1992/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,38040.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,42000.0,35000.0
+b9339cc6-91b4-4887-af2f-ac683c7888af,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 93,USD,4000,6000,2560,2000,4000,6000,2560,2000,David Mann,1948,N/A,Four Winds Medicine,painting,oil on canvas,N/A,16,12,in,yes,no,yes,1948,1948,"Altermann & Morris Galleries, Santa Fe, New Mexico. The Legacy Gallery, Scottsdale, Arizona. A Midwestern Collector.","man, flute, feathers, necklace, brown skin, clouds, landscape, jewelry, warrior, traditional clothing",1,N/A,original,"DAVID MANN (BORN 1948)
+Four Winds Medicine 
+signed 'D. Mann' (lower right)
+oil on canvas
+16 x 12 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25796103-6-2.jpg,https://www.bonhams.com/auction/31906/lot/93/david-mann-born-1948-four-winds-medicine-16-x-12-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+617badf6-8773-4f25-9aa9-f56074e03a4e,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 94,USD,3000,5000,2816,2200,3000,5000,2816,2200,ROY ANDERSEN,1930,2019,Pawnee Scout,painting,oil on canvas,N/A,20,24,in,yes,yes,yes,1901,2000,"The Legacy Gallery, Scottsdale, Arizona. A Midwestern Collector.","Pawnee, scout, horse, rifle, orange background, traditional clothing, headdress, portrait, American Indian, nature",1,N/A,original,"ROY ANDERSEN (1930-2019)
+Pawnee Scout 
+signed and inscribed 'Roy Andersen / CA' (lower right) and titled (on the presentation plaque)
+oil on canvas
+24 x 20 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25796103-8-2.jpg,https://www.bonhams.com/auction/31906/lot/94/roy-andersen-1930-2019-pawnee-scout-24-x-20-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3800.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+ae29fe8b-281c-4bea-85d7-750fdd2bbf6a,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 95,USD,15000,25000,15360,12000,15000,25000,15360,12000,John Moyers,1958,N/A,Sage Riders,painting,oil on panel,N/A,36,36,in,yes,yes,yes,2022,2022,"The Legacy Gallery, Scottsdale, Arizona. A Midwestern Collector.","Native Americans, horses, headdresses, mountains, landscape, men, blankets, clothing, warriors, group",1,N/A,original,"JOHN MOYERS (BORN 1958)
+Sage Riders 
+signed '-John Moyers-' (lower left) and titled, signed again and dated (on the reverse)
+oil on panel
+36 x 36 in.
+Painted in 2022.",https://images2.bonhams.com/image?src=Images/live/2026-02/11/25796103-15-2.jpg,https://www.bonhams.com/auction/31906/lot/95/john-moyers-born-1958-sage-riders-36-x-36-in-painted-in-2022/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,19030.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,22000.0,18333.333333333336
+7cca1403-bb5c-4a01-8408-6f217bda2c59,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 96,USD,20000,30000,15360,12000,20000,30000,15360,12000,Bill Anton,1957,N/A,Rimming Out,painting,oil on linen affixed to board,N/A,42,42,in,yes,yes,yes,2021,2021,"The artist. The Legacy Gallery, Scottsdale, Arizona. A Midwestern Collector.","cowboys, horses, canyon, landscape, mountains, desert, grass, blue sky, clouds, packing gear",1,N/A,original,"BILL ANTON (BORN 1957)
+Rimming Out 
+signed 'Bill Anton' (lower right) and titled, signed again, and dated (on an artist's label affixed to the backing)
+oil on linen affixed to board
+42 x 42 in.
+Painted in 2021.",https://images2.bonhams.com/image?src=Images/live/2026-02/11/25796103-1-2.jpg,https://www.bonhams.com/auction/31906/lot/96/bill-anton-born-1957-rimming-out-42-x-42-in-painted-in-2021/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,20488.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,27500.0,22916.666666666668
+370dfdf8-5d8d-43db-b78e-173cca637f28,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 97,USD,5000,7000,7680,6000,5000,7000,7680,6000,Tom Browning,1949,N/A,Facing Tomorrow,painting,oil on canvasboard,N/A,24,14,in,yes,no,yes,1949,1949,"The Legacy Gallery, Scottsdale, Arizona. A Midwestern Collector.","two figures, horses, sunset, mountains, grass, sky, clouds, spears, traditional clothing, landscape",1,N/A,original,"TOM BROWNING (BORN 1949)
+Facing Tomorrow 
+signed and inscribed 'Tom Browning / CA' (lower left) and titled and signed and inscribed again (on the reverse)
+oil on canvasboard
+14 x 24 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25796103-5-2.jpg,https://www.bonhams.com/auction/31906/lot/97/tom-browning-born-1949-facing-tomorrow-14-x-24-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,5100.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+31684fa0-851b-4298-8954-588875deafd4,Artwork,Bonhams,31906,2026-04-15,Los Angeles,California & Western Art,https://www.bonhams.com/auction/31906/california-and-western-art/,Lot 98,USD,4000,6000,6144,4800,4000,6000,6144,4800,Ray Roberts,1954,N/A,Canyon Color,painting,oil on canvas affixed to board,N/A,30,24,in,yes,no,yes,1954,1954,"The Legacy Gallery, Scottsdale, Arizona. A Midwestern Collector.","woman, blanket, canyon, boots, landscape, sunset, rocks, shirt, colors, texture",1,N/A,original,"RAY ROBERTS (BORN 1954)
+Canyon Color 
+signed 'Ray Roberts' (lower right) and titled and signed again (on the reverse)
+oil on canvas affixed to board
+24 x 30 in.",https://images2.bonhams.com/image?src=Images/live/2026-02/24/25796103-9-2.jpg,https://www.bonhams.com/auction/31906/lot/98/ray-roberts-born-1954-canyon-color-24-x-30-in/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4438.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334

@@ -1,0 +1,1098 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,product_name,brand_identifier,collection_identifier,model_identifier,reference_identifier,maker_signatures_and_hallmarks,primary_metal_type,primary_purity,primary_color,total_item_weight_measurement,ring_size_measurement,jewelry_category_and_subtypes,necklace_length_measurement,bracelet_length_measurement,earring_length_measurement,pendant_length_measurement,chain_length_measurement,gemstone_count,diamond_count,pearl_count,gemstone_type,gemstone_carat,gemstone_shape,gemstone_color,gemstone_clarity,gemstone_measurements,diamond_carat,diamond_color,diamond_fancy_color,diamond_clarity,diamond_cut_type,diamond_cut_grade,diamond_brand,diamond_certification,diamond_certificate,diamond_type,diamond_potential,diamond_source,diamond_mounted,diamond_mounting,diamond_size,diamond_polish,diamond_symmetry,diamond_flouresence,pearl_type,pearl_diameter,pearl_specs_count,pearl_color,pearl_luster,design_style,design_motif,enamel_primary_color,enamel_secondary_color,lab,report_number,inclusions_note,country_of_origin,item_count,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+2cf6a3c5-7f74-457e-b42f-345f5a49bb11,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1101,HKD,20000,40000,70400,55000,2561.5,5122.99,9016.47,7044.12,HERMÈS: DIAMOND 'ATTELAGE D'OR' DOUBLE RING,HERMÈS,N/A,N/A,16AI002976,"maker's and French assay marks, stamped Au750 and eagle's head",yellow gold,18 karat,yellow,12.3,6 (Hermès size 52),ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,F-G,N/A,VS,mounted,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute hairline scratches,N/A,1,"HERMÃS: DIAMOND 'ATTELAGE D'OR' DOUBLE RING
+æé¦¬ä»ï¼ãAttelage D'orãé½ç³ææ
+Signature: HERMÃS, numbered 16AI002976, maker's and French assay marks
+Accompaniment: signed case
+Metal: 18 karat yellow gold
+Ring size: 6 (HermÃ¨s size 52)
+Gross weight: 12.3g",https://images3.bonhams.com/image?src=Images/live/2026-05/09/25861255-19-1.jpg,https://www.bonhams.com/auction/32082/lot/1101/hermes-diamond-attelage-dor-double-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,2026-09,6180.86,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4375.0,3645.8333333333335
+9847c331-3b9c-49e9-9bcd-1d6eb52f9044,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1102,HKD,40000,60000,64000,50000,5122.99,7684.49,8196.79,6403.74,GEM-SET AND DIAMOND 'HAPPY DIAMONDS' BRACELET,Chopard,N/A,N/A,9602508 and 85/1062-20,"Chopard, stamped 750",yellow gold,18 karat,yellow,58.6,N/A,bracelet,N/A,15.5,N/A,N/A,N/A,2,N/A,N/A,sapphire,N/A,N/A,very slight blue tint,excellent good clarity,N/A,0.61,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Abrasions on the sapphire window at the back of the heart charm.,Southeast Asia,1,"Property of a Southeast Asian Collector
+æ±åäºèå®¶çèCHOPARD: GEM-SET AND DIAMOND 'HAPPY DIAMONDS' BRACELET
+è­é¦ï¼åçåé½ç³ãHappy Diamondsãæé²
+Signature: Chopard, numbered 9602508 and 85/1062-20
+Accompaniment: Certificate of Origin
+Metal: 18 karat yellow gold 
+Inner circumference: 15.5cm
+Gross weight: 58.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/25/25889762-1-4.jpg,https://www.bonhams.com/auction/32082/lot/1102/chopard-gem-set-and-diamond-happy-diamonds-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6820.0,5683.333333333334
+cbef38f7-0d7a-4e49-9c7f-24da6b38bba3,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1103,HKD,32000,65000,40960,32000,4098.4,8324.87,5245.95,4098.4,TWO BICOLOURED GOLD AND DIAMOND 'BUTTERFLY' BROOCHES,N/A,N/A,N/A,N/A,both stamped 14K,14 karat white and yellow gold,14K,bicoloured,32.7,N/A,brooches,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.2,G-H-I,N/A,VS-SI with an occasional of I1,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,butterfly,N/A,N/A,N/A,N/A,Very minute signs of wear,N/A,2,"Property from a Private Collection
+ç§äººæ¶èTWO BICOLOURED GOLD AND DIAMOND 'BUTTERFLY' BROOCHES
+é½ç³ãè´è¶ãå¥éå©æ
+Metal: 14 karat white and yellow gold
+Dimensions: 7.1 x 4.3cm and 3.6 x 2.4cm
+Gross weight: 24.5g and 8.2g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-15-1.jpg,https://www.bonhams.com/auction/32082/lot/1103/two-bicoloured-gold-and-diamond-butterfly-brooches-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.24,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6750.0,5625.0
+05b587eb-53ac-4ab0-8eda-b9f1930b9ac7,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1104,HKD,46000,65000,58880,46000,5891.44,8324.87,7541.05,5891.44,Cultured Pearl and Diamond Necklace and Earring Set,N/A,N/A,N/A,N/A,"unstamped, tested 18K",yellow gold,18 karat,yellow,44.9,N/A,necklace and earrings,39.5,N/A,2.3,N/A,N/A,1,N/A,1,cultured pearl,N/A,drop,white bodycolour with soft rosé and green overtones,almost clean surface,approx. 12.35 x 13.70mm,7.5,G-H-I,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,1,white,good lustre,N/A,N/A,N/A,N/A,N/A,N/A,Visible wringing towards the top and pits at the back of the pearl,Southeast Asia,2,"Property of a Southeast Asian Collector
+æ±åäºèå®¶çèCULTURED PEARL AND DIAMOND NECKLACE AND EARRING SET
+é¤æ®çç éé½ç³åå¢é éåè³ç°
+Cultured pearl: approx. 12.35 x 13.70mm
+Metal: 18 karat yellow gold
+Length: necklace 39.5cm; earring 2.3cm
+Gross weight: necklace 37.8g; earrings 7.1g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25889762-4-3.jpg,https://www.bonhams.com/auction/32082/lot/1104/cultured-pearl-and-diamond-necklace-and-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,7128.28,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7200.0,6000.0
+f671d53d-0b5b-4913-a5de-9758cb4b851f,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1105,HKD,85000,170000,108800,85000,10886.36,21772.73,13934.55,10886.36,GOLD AND DIAMOND 'MESH' NECKLACE,N/A,N/A,N/A,N/A,stamped 750,white and yellow gold,18 karat,white and yellow,129.1,N/A,necklace,39.5,N/A,N/A,N/A,N/A,1,N/A,N/A,diamond,6.25,N/A,F-G-H,VS-SI,N/A,6.25,F-G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute signs of wear and slight oxidization to metal.,N/A,1,"Property from a Private Collection
+ç§äººæ¶èGOLD AND DIAMOND 'MESH' NECKLACE
+é»éé½ç³é é
+Metal: 18 karat white and yellow gold
+Length: 39.5cm
+Gross weight: 129.1g",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25851914-1-3.jpg,https://www.bonhams.com/auction/32082/lot/1105/gold-and-diamond-mesh-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,25290.34,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,16800.0,14000.0
+34ad052e-8d9d-4869-970d-a48d9864d00e,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1106,HKD,22000,38000,30720,24000,2817.65,4866.84,3934.46,3073.8,PAIR OF SAPPHIRE AND DIAMOND EARRINGS,N/A,N/A,N/A,N/A,stamped 750,yellow gold,18 karat,yellow,12.1,N/A,earrings,N/A,N/A,2.2,N/A,N/A,2,N/A,N/A,sapphire,N/A,N/A,blue,eye clean and slightly included under 10x magnification,2.2 x 2.1 cm,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,"PAIR OF SAPPHIRE AND DIAMOND EARRINGS
+èå¯¶ç³éé½ç³è³ç°
+Metal: 18 karat yellow gold
+Dimensions: 2.2 x 2.1cm
+Gross weight: 12.1g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25903884-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1106/pair-of-sapphire-and-diamond-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4829.91,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4140.0,3450.0
+6d8bd55e-6c48-42e1-9d70-932f137d8868,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1107,HKD,32000,65000,53760,42000,4098.4,8324.87,6885.3,5379.14,Sapphire and Diamond Crossover Ring,N/A,N/A,N/A,N/A,A rubbed stamp unrecognizable,Yellow Gold,18 karat,Yellow,17.6,6½,Ring,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,Sapphire,N/A,N/A,Blue,"Minor typical inclusions such as crystals, feathers and fingerprints",N/A,6.0,F-G-H,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,Natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Minor typical inclusions such as crystals, feathers and fingerprints; very minute chips spotted on the edges towards the sides facing inward",N/A,1,"Property from a Private Collection
+ç§äººæ¶èSAPPHIRE AND DIAMOND CROSSOVER RING
+èå¯¶ç³éé½ç³ææ
+Metal: 18 karat yellow gold
+Ring size: 6Â½
+Gross weight: 17.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25888116-7-1.jpg,https://www.bonhams.com/auction/32082/lot/1107/sapphire-and-diamond-crossover-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.7,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+8978a528-e3f9-42fe-b194-8e24499079e5,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1108,HKD,20000,40000,25600,20000,2561.5,5122.99,3278.72,2561.5,TURQUOISE AND SEED PEARL SUITE,N/A,N/A,N/A,N/A,all stamped 14K and 585,yellow gold,14 karat,yellow,50.6,7½,suite,N/A,N/A,2.7,N/A,N/A,4,N/A,N/A,turquoise,N/A,N/A,greenish blue,N/A,approx. 16.38 x 11.68 x 6.80mm (brooch); 19.94 x 15.14 x 6.15mm (ring); 20.20 x 14.70 x 3.80mm and 19.37 x 13.80 x 4.45mm (earclips),N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,N/A,white with rosé overtone,good,N/A,ropetwist decorative details,N/A,N/A,N/A,N/A,"Visible minute dark matrix on ring and earclips; visible pyrites, white mottling, indented naturals and minor crazing on brooch; minute glue marks on earclip and brooch; minute chip on brooch turquoise.",N/A,3,"Property from a Private Collection
+ç§äººæ¶èTURQUOISE AND SEED PEARL SUITE
+ç¶ æ¾ç³éé¤æ®çç å¥éãææåè³å¤¾å¥è£
+Principal turquoises: approx. 16.38 x 11.68 x 6.80mm (on brooch); 19.94 x 15.14 x 6.15mm (on ring); 20.20 x 14.70 x 3.80 and 19.37 x 13.80 x 4.45mm (on earclips)
+Metal: 14 karat yellow gold
+Dimensions: brooch 5.4 x 5.1cm; earclip 2.7 x 2.3cm
+Ring size: 7Â½
+Gross weight: brooch 23.8g; ring 10.1g; earclips 16.7g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25851914-2-3.jpg,https://www.bonhams.com/auction/32082/lot/1108/turquoise-and-seed-pearl-suite-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4845.09,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3860.0,3216.666666666667
+9fff9906-2c86-419b-af3e-df25ffdc1582,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1109,HKD,60000,90000,76800,60000,7684.49,11526.74,9836.15,7684.49,Cultured Pearl and Diamond 'Pushkin' Bracelet,Chopard,N/A,N/A,2669070 and 85/3596,"Chopard, stamped 750",white gold,18 karat,white,79.7,N/A,bracelet,N/A,16.5,N/A,N/A,N/A,30,N/A,30,cultured pearl,N/A,round to very slightly off-round,white and creamy white with silver and soft rosé overtones,almost clean surfaces with very minute blemishes,approx. 4.30 - 4.45mm,3.3,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,30,white and creamy white,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Glue mark found around the first pearl from the clasp side, very slightly out of position, not affecting overall appearance.",N/A,1,"Property of a Southeast Asian Collector
+æ±åäºèå®¶çèCHOPARD: CULTURED PEARL AND DIAMOND 'PUSHKIN' BRACELET
+è­é¦ï¼é¤æ®çç éé½ç³ãPushkinãæé
+Signature: Chopard, numbered 2669070 and 85/3596
+Accompaniment: signed case and Certificate of Origin
+Cultured pearls: 30pcs, approx. 4.30 - 4.45mm
+Diamonds: approx. 3.30cts
+Metal: 18 karat white gold
+Length: 16.5cm
+Gross weight: 79.7g",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25889762-3-4.jpg,https://www.bonhams.com/auction/32082/lot/1109/chopard-cultured-pearl-and-diamond-pushkin-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+623e7532-8ef4-4ac3-9ac9-aeb9a00cecbc,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1110,HKD,120000,240000,N/A,N/A,15368.98,30737.97,N/A,N/A,CULTURED PEARL NECKLACE,N/A,N/A,N/A,N/A,stamped 750,yellow gold,18 karat,yellow,163.2,N/A,necklace,44.5,N/A,N/A,N/A,N/A,25,N/A,25,cultured pearl,N/A,round to almost round,white bodycolour with soft rosé and silver overtones,lightly spotted surfaces with minute blemishes,approx. 18.40 x 17.75mm to 15.15 x 14.90mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,25,white bodycolour with soft rosé and silver overtones,very good,N/A,N/A,N/A,N/A,N/A,N/A,lightly spotted surfaces with minute blemishes,N/A,1,"CULTURED PEARL NECKLACE
+é¤æ®çç é é
+Cultured pearls: 25pcs, approx. 18.40 x 17.75mm to 15.15 x 14.90mm
+Metal: 18 karat yellow gold
+Length: 44.5cm
+Gross weight: 163.2g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25881847-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1110/cultured-pearl-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,27724.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,23400.0,19500.0
+f373e460-c7af-49d8-902c-ad0545d6afe3,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1111,HKD,30000,50000,14080,11000,3842.25,6403.74,1803.29,1408.82,AMETHYST AND GEM-SET RING,N/A,N/A,N/A,8995-Q/AMET,stamped 750 18K,blackened gold,18 karat,blackened,13.4,6¼,ring,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,amethyst,16.94,rectangular,purple,eye-clean,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gem report,8995-Q/AMET,"minute hair-line scratches on the table, pit on the crown facet and abrasion on the girdle facet",Southeast Asia,1,"Property from a Southeast Asian Collection
+æ±åäºèå®¶çèAMETHYST AND GEM-SET RING
+16.94åæå¤©ç¶ç´«æ°´æ¶éå½©è²å¯¶ç³ææ
+Certificate: gem report, amethyst, natural, 16.94cts
+(8995-Q/AMET, 7 May 2003)
+Metal: 18 karat blackened gold
+Ring size: 6Â¼
+Gross weight: 13.4g",https://images3.bonhams.com/image?src=Images/live/2026-08/25/25890297-3-4.jpg,https://www.bonhams.com/auction/32082/lot/1111/amethyst-and-gem-set-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+9e9c3645-a30e-4aa2-a73d-714ecadf6db4,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1112,HKD,19000,38000,24320,19000,2433.42,4866.84,3114.78,2433.42,TITANIUM AND DIAMOND RING/PENDANT,N/A,N/A,N/A,N/A,"tested titanium, 18K",titanium and 18 karat yellow and blackened gold,18K,yellow and blackened,32.0,7½,ring/pendant,N/A,N/A,N/A,5.0,N/A,N/A,N/A,N/A,diamond,2.2,N/A,H-I,VS-SI,N/A,2.21,H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1,"TITANIUM AND DIAMOND RING/PENDANT
+é¦éå±¬éé½ç³ææ/åå¢
+Diamonds: approx. 2.20cts
+Metal: titanium and 18 karat yellow and blackened gold
+Pendant dimensions: 5.0 x 4.9cm
+Ring size: 7Â½
+Gross weight: 32.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25899404-2-4.jpg,https://www.bonhams.com/auction/32082/lot/1112/titanium-and-diamond-ringpendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4829.91,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3500.0,2916.666666666667
+ef9261db-3b14-4045-b922-57984c9fa614,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1113,HKD,30000,50000,15360,12000,3842.25,6403.74,1967.23,1536.9,TOPAZ AND DIAMOND RING AND EARRING SET,Staurino,N/A,N/A,N/A,"Staurino, stamped 750",white gold,18 karat,white,25.6,7,ring and earring set,N/A,N/A,6.2,N/A,N/A,2,N/A,N/A,topaz,N/A,N/A,blue,excellent,N/A,1.9,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,roses,N/A,N/A,N/A,N/A,Minor polish lines observed on the surface under very close inspection. Visible glue marks underneath the topazes.,Southeast Asia,2,"Property from a Southeast Asian Collection
+æ±åäºèå®¶çèSTAURINO: TOPAZ AND DIAMOND RING AND EARRING SET
+Staurinoï¼æå¸ç³éé½ç³ææåè³ç°å¥è£
+Signature: Staurino
+Metal: 18 karat white gold
+Ring size: 7
+Earring length: 6.2cm
+Gross weight: ring 5.3g; earrings 20.3g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25890297-5-1.jpg,https://www.bonhams.com/auction/32082/lot/1113/staurino-topaz-and-diamond-ring-and-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+0a11ef83-a056-4ff6-9330-267cf7b68952,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1114,HKD,30000,60000,19200,15000,3842.25,7684.49,2459.04,1921.12,AQUAMARINE AND DIAMOND RING AND EARRING SET,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,20.7,5½,ring and earring set,N/A,N/A,1.0,N/A,N/A,2,N/A,N/A,aquamarine,N/A,emerald-cut,blue,almost loupe-clean with minute needle inclusions,N/A,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minor signs of wear. Scratches and dents on the ring shank.,N/A,2,"Property from an Asian Private Collection
+äºæ´²ç§äººèå®¶çèAQUAMARINE AND DIAMOND RING AND EARRING SET
+æµ·èå¯¶ç³éé½ç³ææåè³ç°å¥è£
+Metal: 18 karat white gold
+Ring size: 5Â½
+Earring dimensions: 1.0 x 0.8cm
+Gross weight: ring 16.5g; earrings 4.2g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25902432-10-3.jpg,https://www.bonhams.com/auction/32082/lot/1114/aquamarine-and-diamond-ring-and-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.24,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5760.0,4800.0
+69c42c1b-7ca3-4996-b609-811075edf3da,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1115,HKD,20000,30000,25600,20000,2561.5,3842.25,3278.72,2561.5,DIAMOND RING AND EARRINGS,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,16.2,7,ring and earrings,N/A,N/A,1.8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.5,G-H,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute signs of wear,N/A,2,"DIAMOND RING AND EARRINGS
+é½ç³ææåè³ç°
+Metal: 18 karat white gold
+Ring size: 7
+Earring dimensions: 1.8 x 1.2cm
+Gross weight: ring 7.3g; earrings 8.9g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-05/07/25846511-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1115/diamond-ring-and-earrings-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4860.19,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+ae4f7604-b751-48a8-abef-603aea2e8575,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1116,HKD,30000,50000,46080,36000,3842.25,6403.74,5901.69,4610.7,DIAMOND BRACELET,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,25.0,N/A,bracelet,N/A,16.4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.5,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,millegrain decorative details,N/A,N/A,N/A,N/A,Graded mounted.,Southeast Asia,1,"Property of a Southeast Asian Collector
+æ±åäºèå®¶çèDIAMOND BRACELET
+é½ç³æé
+Metal: 18 karat white gold 
+Length: 16.4cm
+Gross weight: 25.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25889762-6-1.jpg,https://www.bonhams.com/auction/32082/lot/1116/diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+4037813a-0238-4179-a35b-0b8beece5ebf,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1117,HKD,32000,60000,20480,16000,4098.4,7684.49,2622.97,2049.2,"EMERALD, BLACK DIAMOND AND DIAMOND RING",N/A,N/A,N/A,5118698381,stamped 750,white gold,18 karat,white,17.6,7½,ring,N/A,N/A,N/A,N/A,N/A,1,5,N/A,emerald,0.8,oval,vivid green,eye-clean overall,N/A,5.1,G-H,N/A,VS-SI,N/A,N/A,N/A,Guild,1,N/A,0,natural,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Guild,5118698381,typical natural inclusions such as fingerprints and crystals,Zambia,1,"EMERALD, BLACK DIAMOND AND DIAMOND RING
+å¤©ç¶ãè´æ¯äºãæªç¶æ·¨åº¦èçç¥æ¯ç¶ éé»è²é½ç³åé½ç³ææ
+Certificate: Guild, emerald, natural, vivid green, Zambia, untreated
+(5118698381, 2 July 2026)
+Black diamonds and diamonds: approx. 5.10cts
+Metal: 18 karat white gold
+Ring size: 7Â½
+Gross weight: 17.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25882344-16-2.jpg,https://www.bonhams.com/auction/32082/lot/1117/emerald-black-diamond-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6210.0,5175.0
+9c6b6b04-a763-407a-a36b-0d6651e7f0cc,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1118,HKD,36000,55000,48640,38000,4610.7,7044.12,6229.56,4866.84,DIAMOND 'DOPPIO CUORE' PENDANT NECKLACE AND EARRING SET,BULGARI,N/A,N/A,N/A,BVLGARI and Italian registry marks,18 karat white and yellow gold; clasp in steel,750,white and yellow,55.1,N/A,necklace and earring set,38.5,N/A,2.4,4.9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,G-H,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,one diamond deficient,Italy,2,"Property of a Southeast Asian Collector
+æ±åäºèå®¶çèBULGARI: DIAMOND 'DOPPIO CUORE' PENDANT NECKLACE AND EARRING SET
+å¯¶æ ¼éºï¼é½ç³ãDoppio Cuoreãåå¢é éåè³ç°å¥è£
+Signature: BVLGARI and Italian registry marks
+Metal: 18 karat white and yellow gold; clasp in steel
+Length: pendant 4.9cm; black cords 38.5cm; earring 2.4cm
+Gross weight: necklace 31.3g; earrings 23.8g
+ one diamond deficient (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25889762-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1118/bulgari-diamond-doppio-cuore-pendant-necklace-and-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.06,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5775.0,4812.5
+d4a47323-9a07-4959-ae6c-4923c16c885b,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1119,HKD,19000,38000,35840,28000,2433.42,4866.84,4590.2,3586.1,BLACK DIAMOND AND DIAMOND SPHERICAL RING AND 'FLORAL' PENDANT,N/A,N/A,N/A,N/A,pendant stamped 750,18 karat white and blackened gold,18K,white and black,47.2,5½ to 7½,ring and pendant,N/A,N/A,N/A,3.4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.1,G-H,N/A,VS-SI with an occasional I1,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,floral,N/A,N/A,N/A,N/A,one diamond deficient on ring,N/A,2,"Property from a Private Collection
+ç§äººæ¶èBLACK DIAMOND AND DIAMOND SPHERICAL RING AND 'FLORAL' PENDANT
+é»è²é½ç³éé½ç³ææååå¢
+Metal: 18 karat white and blackened gold
+Ring size: 5Â½ to 7Â½ (expandable ring guard attached)
+Pendant dimensions: 3.4 x 3.3cm
+Gross weight: ring 30.6g; pendant 16.6g
+one diamond deficient on ring (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1119/black-diamond-and-diamond-spherical-ring-and-floral-pendant-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4875.15,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3500.0,2916.666666666667
+3848da64-6135-45e0-8d7b-bff8b24e74a5,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1120,HKD,20000,30000,24320,19000,2561.5,3842.25,3114.78,2433.42,"GEM-SET, ONYX AND DIAMOND '167 BUTTON' PENDANT NECKLACE AND EARCLIP SET",Asprey,N/A,167 Button,N/A,"Asprey, stamped 750, MADE IN ITALY",white gold,18 karat,white,27.4,N/A,pendant necklace and earclip set,41.2,N/A,3.7,2.3,41.2,2,N/A,N/A,amethyst,N/A,N/A,intense purple,slightly included,N/A,N/A,G-H,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Minute chip on the edge of onyx, not noticeable to the unaided eye.",Italy,2,"Property from a Southeast Asian Collection
+æ±åäºèå®¶çèASPREY: GEM-SET, ONYX AND DIAMOND ' 167 BUTTON' PENDANT NECKLACE AND EARCLIP SET
+Aspreyï¼å½©è²å¯¶ç³éç¸çªçåé½ç³ã167 Buttonãåå¢é éåè³å¤¾å¥è£
+Signature: Asprey
+Metal: 18 karat white gold
+Length: pendant 2.3cm; chain 41.2cm; earclip 3.7cm
+Gross weight: necklace 12.2g; earclips 15.2g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25890297-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1120/asprey-gem-set-onyx-and-diamond-167-button-pendant-necklace-and-earclip-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4840.14,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+f5180c74-fa68-42b2-9a8b-3762da577025,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1121,HKD,120000,150000,153600,120000,15368.98,19211.23,19672.3,15368.98,EMERALD AND DIAMOND RING,N/A,N/A,N/A,26071040,stamped 3.61cts,platinum,Pt950,white,7.5,6¼,ring,N/A,N/A,N/A,N/A,N/A,1,10,N/A,emerald,2.19,emerald-cut,green,nearly eye clean,N/A,3.61,F-G,N/A,VS-SI,pear-shaped,N/A,N/A,Gübelin,1,N/A,0,natural,1,platinum,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gübelin,26071040,Natural minor crystals inclusions can be observed only under 10x magnification.,Brazil,1,"EMERALD AND DIAMOND RING
+2.19åæå¤©ç¶ãå·´è¥¿ãæªç¶æ·¨åº¦èçç¥æ¯ç¶ éé½ç³ææ
+Certificate: GÃ¼belin, emerald, natural, 2.19cts, green, Brazil, untreated; along with Information Sheet on 'Untreated emerald"" and Gemstone Rating card (83.6pt)
+(26071040, 15 July 2026)
+Diamonds: stamped 3.61cts
+Metal: platinum
+Ring size: 6Â¼
+Gross weight: 7.5g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25886141-5-4.jpg,https://www.bonhams.com/auction/32082/lot/1121/emerald-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,24390.95,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,17850.0,14875.0
+337c4abb-7b26-4a77-bcb8-79c1bf5c8fd1,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1122,HKD,95000,135000,121600,95000,12167.11,17290.11,15573.9,12167.11,PAIR OF EMERALD AND DIAMOND PENDENT EARRINGS,N/A,N/A,N/A,N/A,stamped Pt950,platinum,Pt950,white,16.0,N/A,earrings,N/A,N/A,4.1,N/A,N/A,2,3,N/A,emerald,1.16,marquise,green,eye clean,N/A,3.59,F-G,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,platinum,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gübelin,24051023 and 24051022,"Minor typical natural inclusions such as crystals and needles can be observed. A minute indented natural spotted on the crown facet for one of the emeralds, but it is hardly noticeable to the unaided eye.",Zambia,2,"PAIR OF EMERALD AND DIAMOND PENDENT EARRINGS
+1.16å1.02åæå¤©ç¶ãè´æ¯äºãæªç¶æ·¨åº¦èçç¥æ¯ç¶ éç¥æ¯ç¶ åé½ç³åå¢è³ç°
+Certificates: 2 GÃ¼belin, emeralds, natural, 1.16 and 1.02cts, Zambia (Kafubu), untreated; along with Information Sheets on 'untreated emeralds' and 'Emeralds from Zambia (kafubu)'; and along with Gemstone Rating cards (84.9 and 84.8pts)
+(24051023 and 24051022, 14 May 2024)
+Diamonds: stamped 3.59cts
+Metal: platinum
+Length: 4.1cm
+Gross weight: 16.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25886141-4-6.jpg,https://www.bonhams.com/auction/32082/lot/1122/pair-of-emerald-and-diamond-pendent-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,16295.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,15300.0,12750.0
+a1cc8f5a-a4d4-45d2-bb42-612fe2c28b23,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1123,HKD,55000,110000,N/A,N/A,7044.12,14088.23,N/A,N/A,DIAMOND DRESS BRACELET,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,16.8,N/A,bracelet,N/A,17.0,N/A,N/A,N/A,12,12,N/A,diamond,7.63,N/A,G-H-I,VVS-SI,N/A,7.63,G-H-I,N/A,VVS-SI,N/A,Excellent,N/A,GIA,1,N/A,0,natural,1,N/A,N/A,Excellent,Excellent,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GIA,"6157447618, 5191609295, 3235823241","Few principal diamonds are inscribed as the following order starting from the hoop side: GIA 6157447618 (2nd), GIA 5197447618 (3rd), GIA 3235823241 (6th), CH BCZT5913 (11th).",N/A,1,"DIAMOND DRESS BRACELET
+é½ç³æé
+Certificates: 3 GIA Diamond Dossier facsimiles, selected diamonds
+0.53ct, H, I1, Excellent Polish and Symmetry (5191609295, 29 August 2018)
+0.52ct, G, VS1, Excellent Cut, Polish and Symmetry (3235823241, 23 September 2016)
+0.50ct, G, VVS2, Excellent Polish (6157447618, 16 May 2013) 
+Principal diamonds: 12pcs, stamped 6.08cts 
+Remaining diamonds: stamped 1.55cts
+Metal: 18 karat white gold
+Length: 17.0cm
+Gross weight: 16.8g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-2-4.jpg,https://www.bonhams.com/auction/32082/lot/1123/diamond-dress-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,12300.0,10250.0
+678edc51-2ce6-489d-90e8-73d4e4dec30d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1124,HKD,30000,60000,51200,40000,3842.25,7684.49,6557.43,5122.99,DIAMOND RIVIÈRE NECKLACE,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,21.0,N/A,necklace,40.5,N/A,N/A,N/A,N/A,152,152,N/A,diamond,11.72,N/A,J-K-L,VS-SI with occasional I1,N/A,11.72,J-K-L,N/A,VS-SI with occasional I1,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Graded mounted,N/A,1,"DIAMOND RIVIÃRE NECKLACE
+é½ç³é é
+Diamonds: 152pcs, stamped 11.72cts
+Metal: 18 karat white gold
+Length: 40.5cm
+Gross weight: 21.0g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-4-1.jpg,https://www.bonhams.com/auction/32082/lot/1124/diamond-riviere-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.07,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+49983de3-ce2e-4f26-86e1-0d636598468f,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1125,HKD,22000,34000,30720,24000,2817.65,4354.55,3934.46,3073.8,Sapphire Bracelet,N/A,N/A,N/A,N/A,"stamped Pt950, chain tested 18k",platinum and 18 karat white gold,18k,white,16.4,N/A,bracelet,N/A,17.0,N/A,N/A,N/A,53,N/A,N/A,sapphire,16.0,N/A,blue,typical inclusions and minute abrasions on the facet lines,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Under 10x magnification, typical inclusions and minute abrasions on the facet lines can be observed. However, they are hardly visible to the unaided eye.",N/A,1,"SAPPHIRE BRACELET
+èå¯¶ç³æé
+Sapphires: 53pcs, approx. 16.00cts
+Metal: platinum and 18 karat white gold
+Length: 17.0cm
+Gross weight: 16.4g",https://images3.bonhams.com/image?src=Images/live/2026-05/07/25850257-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1125/sapphire-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4841.28,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3650.0,3041.666666666667
+726db940-445c-425f-8fba-5a4212228226,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1126,HKD,24000,48000,70400,55000,3073.8,6147.59,9016.47,7044.12,PAIR OF SAPPHIRE AND DIAMOND 'FLOWER' EARCLIPS,N/A,N/A,N/A,N/A,stamped 750,18 karat white and yellow gold,750,white and yellow,38.8,N/A,earclips,N/A,N/A,3.2,N/A,N/A,N/A,N/A,N/A,sapphire,N/A,N/A,blue,"typical inclusions such as feathers, silks, crystals and occasionally opaque inclusions",3.2 x 3.2cm,3.6,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,flower,N/A,N/A,N/A,N/A,"Minor signs of wear, minute abrasions on edges but overall appearance is not affected.",N/A,2,"Property from a Private Collection
+ç§äººæ¶èPAIR OF SAPPHIRE AND DIAMOND 'FLOWER' EARCLIPS
+èå¯¶ç³éé½ç³è³å¤¾
+Metal: 18 karat white and yellow gold
+Dimensions: 3.2 x 3.2cm
+Gross weight: 38.8g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-5-1.jpg,https://www.bonhams.com/auction/32082/lot/1126/pair-of-sapphire-and-diamond-flower-earclips/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6180.89,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+c97465ee-dcda-493b-950b-e7b22d5aebb6,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1127,HKD,75000,150000,96000,75000,9605.61,19211.23,12295.19,9605.61,"Tanzanite, Cultured Pearl and Diamond Necklace",N/A,N/A,N/A,N/A,"unstamped, tested 18K",white gold,18K,white,55.3,N/A,necklace,54.8,N/A,N/A,N/A,N/A,1,N/A,N/A,tanzanite,5.55,pear,violetish blue,almost loupe clean,N/A,15.5,G-H-I,N/A,VS-SI,N/A,N/A,N/A,gem report,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,cultured,5.25,N/A,"white with rosé, silver and slight greenish overtones",good,N/A,N/A,N/A,N/A,gemmological laboratory,"TC 60800324, ZS0610",very minute hairline scratches can be observed on the table,N/A,1,"TANZANITE, CULTURED PEARL AND DIAMOND NECKLACE
+å¤©ç¶å¦æ¡ç³éé¤æ®çç åé½ç³é é
+Tanzanite: approx. 5.55cts
+Cultured pearls: 5.05 - 5.45mm
+Diamonds: approx. 15.50cts
+Metal: 18 karat white gold
+Length: 54.8cm
+Gross weight: 55.3g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25881847-2-2.jpg,https://www.bonhams.com/auction/32082/lot/1127/tanzanite-cultured-pearl-and-diamond-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10448.54,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,16800.0,14000.0
+0a412bef-d18a-4ea7-9ca9-8417f88516ed,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1128,HKD,36000,50000,N/A,N/A,4610.7,6403.74,N/A,N/A,"Cultured Pearl, Gem-Set and Diamond Pendant Necklace and Ring Set",N/A,N/A,N/A,N/A,all stamped 750,white gold,18 karat,white,22.2,6½,pendant necklace and ring set,44.5,N/A,N/A,4.9,N/A,2,0,2,sapphire,2.45,N/A,blue,loupe-clean,12.80 x 12.90 x 13.40mm; 14.70 x 14.75 x 14.45mm,0.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,0,N/A,N/A,N/A,N/A,N/A,cultured,N/A,2,white with subtle rosé and silver overtones,very good,N/A,N/A,N/A,N/A,N/A,N/A,Clean surfaces with only a couple of minute 'pinpricks' under close inspection.,N/A,2,"CULTURED PEARL, GEM-SET AND DIAMOND PENDANT NECKLACE AND RING SET
+é¤æ®çç éèå¯¶ç³åé½ç³åå¢é éåææå¥è£
+Cultured pearl on necklace: approx. 12.80 x 12.90 x 13.40mm
+Cultured pearl on ring: approx. 14.70 x 14.75 x 14.45mm
+Sapphires: approx. 2.45cts total
+Metal: 18 karat white gold
+Length: pendant 4.9cm; chain 44.5 and 42.0cm
+Ring size: 6Â½
+Gross weight: necklace 11.2g; ring 11.0g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25848297-24-1.jpg,https://www.bonhams.com/auction/32082/lot/1128/cultured-pearl-gem-set-and-diamond-pendant-necklace-and-ring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,5199.15,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5700.0,4750.0
+57c8ea05-1542-48a6-a6b2-0dd9555eca1b,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1129,HKD,100000,150000,N/A,N/A,12807.49,19211.23,N/A,N/A,MULTI-COLOURED SAPPHIRE AND DIAMOND NECKLACE,N/A,N/A,N/A,SIG26080156,stamped 18K,white gold,18 karat,white,27.2,N/A,necklace,44.8,N/A,N/A,N/A,N/A,49,N/A,N/A,sapphire,36.74,N/A,pinkish purple/orange pink,slightly included,N/A,3.05,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SIG,SIG26080156,slightly included with typical natural crystal inclusions and minute abrasions on the edges,Madagascar,1,"MULTI-COLOURED SAPPHIRE AND DIAMOND NECKLACE
+å½©è²åçéé½ç³é é
+Certificate: SIG, selected purple sapphire and padparadscha sapphire, natural, pinkish purple/orange pink, Madagascar, unheated, colour determined to be stable
+(SIG26080156, 13 August 2026)
+Sapphires: 49pcs, stamped 36.74cts
+Metal: 18 karat white gold
+Length: 44.8cm
+Gross weight: 27.2g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25902842-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1129/multi-coloured-sapphire-and-diamond-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,25819.38,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,16850.0,14041.666666666668
+c38a2598-5111-4192-b253-9756a8810127,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1130,HKD,90000,120000,N/A,N/A,11526.74,15368.98,N/A,N/A,COLOURED SAPPHIRE AND DIAMOND RING,N/A,N/A,N/A,SIG26080153,stamped 750,18 karat white gold,750,white,7.1,6¼,ring,N/A,N/A,N/A,N/A,N/A,1,8,N/A,purple sapphire,4.5,cushion,pinkish purple,excellent,N/A,2.65,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,1,N/A,0,natural,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SIG,SIG26080153,Screening for natural diamonds passed.,Sri Lanka (Ceylon),1,"COLOURED SAPPHIRE AND DIAMOND RING
+å¤©ç¶ç´«è²åçéé½ç³ææ
+Certificates:
+SIG, purple sapphire, natural, pinkish purple, Sri Lanka (Ceylon), unheated
+(SIG26080153, 13 August 2026)
+ICA, color-change sapphire, natural, violet to purple, Sri Lanka, unheated
+(150286, 13 February 2020)
+Coloured sapphire: stamped 4.50cts
+Diamonds: stamped 2.65cts total
+Metal: 18 karat white gold
+Ring size: 6Â¼
+Gross weight: 7.1g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25903884-5-3.jpg,https://www.bonhams.com/auction/32082/lot/1130/coloured-sapphire-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,14580.57,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,13900.0,11583.333333333334
+f8f0fcb2-152e-4226-adba-e843623dcfe6,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1131,HKD,24000,38000,N/A,N/A,3073.8,4866.84,N/A,N/A,"Cultured Pearl, Emerald and Diamond Pendant Necklace",N/A,N/A,N/A,N/A,stamped Pt950,platinum,Pt950,white,11.2,N/A,necklace,40.0,N/A,N/A,4.6,N/A,3,3,1,emerald,0.74,drop,green,almost eye-clean,15.60 x 13.80,0.49,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,15.6,1,white with rosé and green overtones,good,N/A,N/A,N/A,N/A,N/A,N/A,minor typical fingerprint inclusions and minute hairline scratches,N/A,1,"CULTURED PEARL, EMERALD AND DIAMOND PENDANT NECKLACE
+é¤æ®çç éç¥æ¯ç¶ åé½ç³åå¢é é
+Cultured pearl: approx. 15.60 x 13.80mm
+Metal: platinum
+Length: pendant 4.6cm; chain 40.0cm
+Gross weight: 11.2g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25886141-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1131/cultured-pearl-emerald-and-diamond-pendant-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4050.16,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4140.0,3450.0
+3ecfd3ea-5916-4739-9702-8057dc0259e3,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1132,HKD,28000,55000,46080,36000,3586.1,7044.12,5901.69,4610.7,Cultured Pearl and Diamond Necklace,N/A,N/A,N/A,N/A,"stamped 14K, tested silver + 5K, pin tested copper, Other stamp: C.T.F.",white gold and silver,14K,white,N/A,N/A,necklace,36.5,N/A,N/A,6.3,N/A,N/A,N/A,N/A,cultured pearl,N/A,round to near round,"creamy white with rosé, silver and golden overtones","lightly to moderately spotted surfaces with occasional pits, blemishes and growth marks",6.55 - 6.95mm,1.7,H-I-J,N/A,VS2-I1,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,diamond-set pendant,N/A,N/A,N/A,N/A,cultured,N/A,N/A,creamy white,good,N/A,N/A,N/A,N/A,N/A,N/A,"lightly to moderately spotted surfaces with occasional pits, blemishes and growth marks",N/A,1,"Property from a Private Collection
+ç§äººæ¶èCULTURED PEARL AND DIAMOND NECKLACE
+é¤æ®çç éé½ç³é é
+Cultured pearls: 6.55 - 6.95mm
+Metal: 5 karat white gold and silver, pin in copper
+Length: shortest 36.5cm; longest 50.0cm
+Diamond brooch/pendant dimensions: 6.3 x 3.3cm
+Gross weight: 14 karat white gold",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1132/cultured-pearl-and-diamond-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4840.86,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+4d274d7f-27e9-435c-bcff-93212e21a830,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1133,HKD,30000,50000,48640,38000,3842.25,6403.74,6229.56,4866.84,PAIR OF CULTURED PEARL AND DIAMOND PENDENT EARRINGS,N/A,N/A,N/A,N/A,unstamped,platinum and 18 karat white gold,18K,white,18.2,N/A,earrings,N/A,N/A,4.4,N/A,N/A,2,N/A,2,cultured pearl,N/A,oval,white bodycolour with silvery overtone,almost clean surfaces with very minute blemishes,approx. 11.00 x 11.05 x 12.45mm and 11.05 x 11.10 x 12.59mm,4.0,H-J,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,platinum,N/A,N/A,N/A,N/A,cultured,N/A,2,white,good lustre,N/A,N/A,N/A,N/A,N/A,N/A,Visible glue marks around the drill holes,Southeast Asia,2,"Property from a Southeast Asian Collection
+æ±åäºèå®¶çèPAIR OF CULTURED PEARL AND DIAMOND PENDENT EARRINGS
+é¤æ®çç éé½ç³åå¢è³ç°
+Cultured pearls: approx. 11.00 x 11.05 x 12.45mm and 11.05 x 11.10 x 12.59mm
+Metal: platinum and 18 karat white gold; earbacks in silver and 9 karat white gold
+Length: 4.4 and 3.0cm (pearl drops detachable)
+Gross weight: 18.2g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25890297-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1133/pair-of-cultured-pearl-and-diamond-pendent-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5175.0,4312.5
+bf0fdd76-1460-4b84-a4de-090dde75239d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1134,HKD,24000,40000,N/A,N/A,3073.8,5122.99,N/A,N/A,CULTURED PEARL AND GEM-SET NECKLACE,N/A,N/A,N/A,N/A,stamped 18K 750,yellow gold,18 karat,yellow,36.7,N/A,necklace,92.6,N/A,N/A,N/A,N/A,9,N/A,9,rubellite tourmaline,6.3,N/A,pink,eye-clean,approx. 15.55 - 10.10mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,9,light golden and white with subtle rosé and silver overtones,good,N/A,N/A,N/A,N/A,N/A,N/A,minute to minor dents and blemishes occasionally,N/A,1,"CULTURED PEARL AND GEM-SET NECKLACE
+é¤æ®çç éç¢§ç½é é
+Cultured pearls: 9pcs, approx. 15.55 - 10.10mm
+Rubellite tourmalines: stamped 6.30cts
+Metal: 18 karat yellow gold
+Length: 92.6cm
+Gross weight: 36.7g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25848297-26-3.jpg,https://www.bonhams.com/auction/32082/lot/1134/cultured-pearl-and-gem-set-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4845.05,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4040.0,3366.666666666667
+2c330858-4d1a-49bc-a4f1-d03005947898,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1135,HKD,38000,75000,48640,38000,4866.84,9605.61,6229.56,4866.84,BAROQUE CULTURED PEARL AND DIAMOND BRACELET,N/A,N/A,N/A,N/A,"unstamped, tested 18K",white gold,18 karat,white,136.0,N/A,bracelet,N/A,17.3,N/A,N/A,N/A,39,N/A,39,cultured pearl,N/A,Baroque,"white bodycolour, with silver and green overtones",moderately spotted surfaces with growth marks and blemishes,N/A,N/A,G-H-I,N/A,VS2-I1,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,Baroque,N/A,39,"white bodycolour, with silver and green overtones",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cultured pearls have not been tested for natural colour and origin,N/A,1,"BAROQUE CULTURED PEARL AND DIAMOND BRACELET
+å·´æ´åé¤æ®çç éé½ç³æé
+Baroque cultured pearls: 39pcs
+Metal: 18 karat white gold
+Length: 17.3cm
+Gross weight: 136.0g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25881847-5-1.jpg,https://www.bonhams.com/auction/32082/lot/1135/baroque-cultured-pearl-and-diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.48,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7200.0,6000.0
+4bf9a587-8994-450e-a8e1-78bc8cb14e91,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1136,HKD,28000,38000,12160,9500,3586.1,4866.84,1557.39,1216.71,"RUBY AND DIAMOND RING; AND CULTURED PEARL, GEM-SET AND DIAMOND 'BUTTERFLY' BROOCH",N/A,N/A,N/A,23J8478625,"stamped 18K 750, K18 750",white gold,18 karat,white,19.5,6¼,ring; brooch,N/A,N/A,N/A,N/A,N/A,N/A,2,3,ruby; cultured pearl; coloured sapphire,2.54,N/A,vivid pink red; creamy white; orangy-yellow; pink,eye-clean; loupe-clean,15.20 x 10.90 x 8.05mm to 11.60 x 11.10 x 8.80mm,0.34,G-H-I,N/A,VS-SI,N/A,N/A,N/A,IGI,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,Keshi,N/A,3,"creamy white, rosé and silver overtones",good,N/A,butterfly,N/A,N/A,IGI,23J8478625,Minute typical inclusions can be observed occasionally under 10x magnification; visible blemishes on the back of one of the pearls,Myanmar,2,"RUBY AND DIAMOND RING; AND CULTURED PEARL, GEM-SET AND DIAMOND 'BUTTERFLY' BROOCH
+å¤©ç¶ãç·¬ç¸ãç´å¯¶ç³éé½ç³ææï¼åé¤æ®çç éå½©è²åçåé½ç³ãè´è¶ãå¥é
+Certificate: IGI, rubies, natural, vivid pink red, Myanmar, heated
+(23J8478625, 12 March 2025)
+Rubies: stamped 2.54cts
+Cultured pearls: approx. 15.20 x 10.90 x 8.05mm to 11.60 x 11.10 x 8.80mm
+Coloured sapphires on brooch: stamped 1.42cts
+Metal: 18 karat white gold
+Ring size: 6Â¼
+Brooch dimensions: 3.1 x 2.5cm
+Gross weight: ring 5.8g; brooch 13.7g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25886172-6-2.jpg,https://www.bonhams.com/auction/32082/lot/1136/ruby-and-diamond-ring-and-cultured-pearl-gem-set-and-diamond-butterfly-brooch-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6180.48,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4420.0,3683.3333333333335
+d72ecfcd-459d-4d5b-9908-fac8557581d6,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1137,HKD,60000,120000,83200,65000,7684.49,15368.98,10655.83,8324.87,RUBY AND DIAMOND RING/PENDANT,N/A,N/A,N/A,GRS2025-069376,stamped 18K,white gold,18 karat,white,9.0,6,ring/pendant,N/A,N/A,N/A,N/A,N/A,1,12,N/A,ruby,2.0,oval,red,"natural inclusions, fingerprints, and crystals",N/A,1.77,G-H-I,N/A,VS-SI,N/A,N/A,N/A,GRS,1,N/A,0,natural,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GRS,GRS2025-069376,"natural inclusions such as fingerprints and crystals can be observed, and with some extend to the surface; some abrasions present",Burma (Myanmar),1,"RUBY AND DIAMOND RING/PENDANT
+2.00åæå¤©ç¶ãç·¬ç¸ãæªç¶å ç±èçç´å¯¶ç³éé½ç³ææ/åå¢
+Certificate: GRS, ruby, natural, 2.00cts, red, Burma (Myanmar), unheated
+(GRS2025-069376, 23 June 2025)
+Diamonds: stamped 1.77cts
+Metal: 18 karat white gold
+Ring size: 6
+Gross weight: 9.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25902513-1-6.jpg,https://www.bonhams.com/auction/32082/lot/1137/ruby-and-diamond-ringpendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,13200.0,11000.0
+04d83e2e-970d-40e7-b66c-fbfb901e17f4,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1138,HKD,48000,80000,N/A,N/A,6147.59,10245.99,N/A,N/A,RUBY AND DIAMOND BRACELET,N/A,N/A,N/A,7542212123,stamped 750,white gold,18 karat,white,20.9,N/A,bracelet,N/A,17.5,N/A,N/A,N/A,54,27,N/A,ruby,9.53,N/A,purplish red,eye-clean,N/A,3.72,G-H-I,N/A,VS-SI,N/A,N/A,N/A,GIA,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GIA,7542212123,"minor typical natural inclusions such as crystals, silks and feathers upon 10x magnification; minute chips on a few rubies which are hardly visible to the unaided eye",Mozambique,1,"RUBY AND DIAMOND BRACELET
+ç´å¯¶ç³éé½ç³æé
+Certificate: GIA, selected ruby, natural, purplish red, Mozambique, unheated
+(7542212123, 14 January 2026)
+Rubies: 54pcs, stamped 9.53cts
+Diamonds: 27pcs, stamped 3.72cts
+Metal: 18 karat white gold
+Length: 17.5cm
+Gross weight: 20.9g",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25854897-3-2.jpg,https://www.bonhams.com/auction/32082/lot/1138/ruby-and-diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8720.0,7266.666666666667
+2460a30a-e5a3-4384-84c4-3945cf75eaec,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1139,HKD,50000,80000,38400,30000,6403.74,10245.99,4918.07,3842.25,DIAMOND BANGLE,N/A,N/A,N/A,N/A,stamped 18K,white gold,18 karat,white,13.8,N/A,bangle,N/A,16.3,N/A,N/A,N/A,47,47,N/A,diamond,5.22,N/A,I-J-K,VS-SI and occasional I,N/A,5.22,I-J-K,N/A,VS-SI and occasional I,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Approximate colour and clarity: I-J-K colour, VS-SI and occasional I clarity.",N/A,1,"DIAMOND BANGLE
+é½ç³æé²
+Diamonds: 47pcs, stamped 5.22cts
+Metal: 18 karat white gold
+Inner circumference: 16.3cm
+Gross weight: 13.8g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25902842-13-2.jpg,https://www.bonhams.com/auction/32082/lot/1139/diamond-bangle/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.56,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8750.0,7291.666666666667
+265cd85c-4564-4a9d-9066-1d8ad525b1dc,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1140,HKD,42000,70000,53760,42000,5379.14,8965.24,6885.3,5379.14,PAIR OF RUBY AND DIAMOND EARRINGS,N/A,N/A,N/A,SIG26060061,stamped 750,18 karat white and yellow gold,750,white and yellow,8.9,N/A,earrings,N/A,N/A,2.2,N/A,N/A,18,N/A,N/A,ruby,3.85,N/A,red,minor typical natural inclusions,2.2 x 1.5 cm,2.51,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SIG,SIG26060061,minor typical natural inclusions such as crystals and fingerprints,"Burma (Mogok, Myanmar)",2,"PAIR OF RUBY AND DIAMOND EARRINGS
+å¤©ç¶ãç·¬ç¸æ¹è°·ãæªç¶å ç±èçç´å¯¶ç³éé½ç³è³ç°
+Certificate: SIG, rubies, natural, red, Burma (Mogok, Myanmar), unheated
+(SIG26060061, 8 June 2026)
+Rubies: 18pcs, stamped 3.85cts
+Diamonds: stamped 2.51cts
+Metal: 18 karat white and yellow gold
+Dimensions: 2.2 x 1.5cm
+Gross weight: 8.9g",https://images3.bonhams.com/image?src=Images/live/2026-08/27/25854897-2-5.jpg,https://www.bonhams.com/auction/32082/lot/1140/pair-of-ruby-and-diamond-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.49,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7200.0,6000.0
+fd372455-a1bb-4268-8844-97eedab0fe77,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1141,HKD,30000,50000,38400,30000,3842.25,6403.74,4918.07,3842.25,PAIR OF DIAMOND DANGLE EARRINGS,N/A,N/A,N/A,N/A,unstamped and tested 18K,white gold,18 karat,white,11.4,N/A,earrings,N/A,N/A,6.0,N/A,N/A,28,176,N/A,diamond,4.15,"marquise-cut, pear-shaped, round brilliant-cut",G-H-I,VS-SI,N/A,4.15,G-H-I,N/A,VS-SI,"marquise-cut, pear-shaped, round brilliant-cut",N/A,N/A,N/A,0,N/A,0,natural,1,with posts and butterfly backs,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Graded mounted. Screening for natural diamonds passed.,N/A,1,"PAIR OF DIAMOND DANGLE EARRINGS
+é½ç³è³ç°
+Diamonds: approx. 4.15cts 
+Metal: 18 karat white gold 
+Length: 6.0cm
+Gross weight: 11.4g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25903884-6-2.jpg,https://www.bonhams.com/auction/32082/lot/1141/pair-of-diamond-dangle-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+30954143-6914-4ca5-a06d-6def292ecf2a,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1142,HKD,100000,150000,N/A,N/A,12807.49,19211.23,N/A,N/A,JADEITE AND DIAMOND RING AND PENDENT EARRING SET,N/A,N/A,N/A,N/A,stamped Au750,Gold,750,Yellow,21.8,6½,Ring and Earring Set,N/A,N/A,2.8,N/A,N/A,2,3,N/A,Jadeite,N/A,Oval,Green,Eye-clean,12.32 x 10.46 x 3.23mm; 9.20 x 7.69 x 2.50mm,3.51,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,Natural,1,Mounted in closed back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 258491 and SJ 258492,No inclusions noted; eye-clean,N/A,2,"JADEITE AND DIAMOND RING AND PENDENT EARRING SET
+å¤©ç¶ç¿¡ç¿ éé½ç³ææååå¢è³ç°å¥è£
+Certificates: 2 HKJSL, selected jadeites, natural, type A 
+(SJ 258491 and SJ 258492, 30 July 2026)
+Jadeite on ring: approx. 12.32 x 10.46 x 3.23mm
+Selected jadeite on earring: approx. 9.20 x 7.69 x 2.50mm
+Diamonds: stamped 3.51cts total
+Ring size: 6Â½
+Length: 2.8cm
+Gross weight: ring 10.3g; earrings 11.5g 
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25897637-2-2.jpg,https://www.bonhams.com/auction/32082/lot/1142/jadeite-and-diamond-ring-and-pendent-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,25491.93,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,16800.0,14000.0
+42a3858b-c0c6-4007-a67d-0f4ecf711f04,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1143,HKD,200000,300000,281600,220000,25614.97,38422.46,36065.88,28176.47,JADEITE AND DIAMOND RING,N/A,N/A,N/A,FC 0256,stamped Au750,white gold,18 karat,white,13.3,6½,ring,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,jadeite,N/A,oval,green,very good translucency,approx. 14.46 x 13.09 x 5.05mm,2.9,G-H,N/A,VS-SI,N/A,N/A,N/A,HKJSL,1,N/A,0,natural,1,mounted in closed back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,FC 0256,N/A,Burma,1,"JADEITE AND DIAMOND RING
+å¤©ç¶ãç·¬ç¸ãç¿¡ç¿ éé½ç³ææ
+Certificate: HKJSL, jadeite, natural, Burma, type A 
+(FC 0256, 30 July 2026)
+Jadeite: approx. 14.46 x 13.09 x 5.05mm
+Diamond: stamped 2.90cts total
+Metal: 18 karat white gold
+Ring size: 6Â½
+Gross weight: 13.3g",https://images3.bonhams.com/image?src=Images/live/2026-08/25/25897637-1-5.jpg,https://www.bonhams.com/auction/32082/lot/1143/jadeite-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,48795.68,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,34500.0,28750.0
+9056be12-e67a-4735-82de-27f1f8608d65,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1144,HKD,150000,300000,179200,140000,19211.23,38422.46,22951.02,17930.48,DIAMOND NECKLACE,N/A,N/A,N/A,2534841537,stamped platinum,platinum,N/A,N/A,49.9,N/A,necklace,44.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1.66,N/A,F,VS1,N/A,28.1,G-H-I-J,N/A,VS-SI,N/A,Very Good,N/A,GIA,1,N/A,0,natural,1,N/A,N/A,Very Good,Very Good,No,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GIA,2534841537,N/A,N/A,1,"DIAMOND NECKLACE
+é½ç³é é
+Certificate: GIA, selected diamond, 1.66cts, F, VS1
+(2534841537, 14 November 2025)
+Remaining diamonds: stamped 28.10cts
+Metal: platinum
+Length: 44.5cm
+Gross weight: 49.9g",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25882344-15-2.jpg,https://www.bonhams.com/auction/32082/lot/1144/diamond-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,48795.68,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,34500.0,28750.0
+81a2feb3-0b75-4242-84ff-e1724bfe0f81,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1145,HKD,22000,36000,48640,38000,2817.65,4610.7,6229.56,4866.84,PAIR OF COLOURED DIAMOND AND DIAMOND PENDENT EARRINGS,N/A,N/A,N/A,N/A,stamped 18K,white and yellow gold,18 karat,white and yellow,6.8,N/A,earrings,N/A,N/A,3.4,N/A,N/A,N/A,N/A,N/A,coloured diamond,1.02,pear,yellow tint,VS-SI,N/A,1.09,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,yellow gold,N/A,very good,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approximately VS-SI clarity,N/A,1,"PAIR OF COLOURED DIAMOND AND DIAMOND PENDENT EARRINGS
+å½©è²é½ç³éé½ç³åå¢è³ç°
+Principal coloured diamonds: stamped 1.02cts
+Remaining coloured diamonds and diamonds: approx. 1.45cts
+Metal: 18 karat white and yellow gold
+Length: 3.4cm
+Gross weight: 6.8g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25850257-4-1.jpg,https://www.bonhams.com/auction/32082/lot/1145/pair-of-coloured-diamond-and-diamond-pendent-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4860.19,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3860.0,3216.666666666667
+d7742bb6-bffb-4bc9-8da9-55414bea6f24,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1146,HKD,90000,180000,179200,140000,11526.74,23053.48,22951.02,17930.48,"FANCY LIGHT YELLOW DIAMOND, COLOURED DIAMOND AND DIAMOND 'FLOWER' PENDANT NECKLACE/BROOCH",N/A,N/A,N/A,1383101553,stamped Au750,18 karat white and yellow gold,18K,white and yellow,18.2,N/A,pendant necklace/brooch,39.5,N/A,N/A,3.4,39.5,N/A,8,N/A,Fancy Light Yellow Diamond,5.02,N/A,Fancy Light Yellow,VS2,3.4 x 3.2 cm,8.0,F-G-H,N/A,VS-SI,N/A,N/A,N/A,GIA,1,N/A,0,natural,1,yellow gold,N/A,Excellent,Good,No fluorescence,N/A,N/A,N/A,N/A,N/A,N/A,flower,N/A,N/A,GIA,1383101553,Visible natural inclusions under 10x magnification,N/A,1,"Property of a Lady
+å¥³ä»ç§äººçèFANCY LIGHT YELLOW DIAMOND, COLOURED DIAMOND AND DIAMOND 'FLOWER' PENDANT NECKLACE/BROOCH
+5.02åæå¤©ç¶æ·¡å½©é»è²VS2æ·¨åº¦é½ç³éå½©è²é½ç³åé½ç³åå¢é é/å¥é
+Certificate: GIA, Fancy Light Yellow diamond, natural, 5.02cts, VS2, Excellent Polish
+(1383101553, 15 April 2021) 
+Metal: 18 karat white and yellow gold
+Pendant dimensions: 3.4 x 3.2cm
+Chain length: 39.5cm
+Gross weight: 18.2g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25890266-3-3.jpg,https://www.bonhams.com/auction/32082/lot/1146/fancy-light-yellow-diamond-coloured-diamond-and-diamond-flower-pendant-necklacebrooch/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,16265.59,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,19800.0,16500.0
+06bb190a-4a41-4a8e-868d-161e7e4936bb,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1147,HKD,50000,100000,70400,55000,6403.74,12807.49,9016.47,7044.12,"PAIR OF EMERALD, COLOURED DIAMOND AND DIAMOND PENDENT EARRINGS",N/A,N/A,N/A,N/A,unstamped and tested 18K,18 karat white and yellow gold,18K,white and yellow,16.6,N/A,earrings,N/A,N/A,4.5,N/A,N/A,2,N/A,N/A,emerald,3.62,pear,vivid green,"typical natural inclusions such as needles, crystals and fingerprints",N/A,6.9,G-H,N/A,VS-SI,N/A,N/A,N/A,Bellerophon,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,B64020 and B64021,Minor surface reaching fissures on one emerald,Zambia,1,"PAIR OF EMERALD, COLOURED DIAMOND AND DIAMOND PENDENT EARRINGS
+3.62å2.84åæå¤©ç¶ãè´æ¯äºãç¥æ¯ç¶ éå½©è²é½ç³åé½ç³åå¢è³ç°
+Certificates: 2 Bellerophon, emeralds, natural, 3.624 and 2.845cts, vivid green, Zambia (Kafubu), minor amount of oil
+(B64020 and B64021, 19 September 2025)
+Coloured diamonds and diamonds: approx. 6.90cts
+Metal: 18 karat white and yellow gold, and non-gold metal backings
+Length: 4.5cm
+Gross weight: 16.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25741234-5-3.jpg,https://www.bonhams.com/auction/32082/lot/1147/pair-of-emerald-coloured-diamond-and-diamond-pendent-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10775.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+5ce5d788-7b0a-4e29-823a-89dc0d96a8b2,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1148,HKD,30000,50000,21760,17000,3842.25,6403.74,2786.91,2177.27,"Sapphire, Gem-Set and Diamond Pendant",N/A,N/A,N/A,GFC24104652,stamped Pt950,platinum,950,white,7.2,N/A,pendant,N/A,N/A,N/A,2.7,N/A,N/A,N/A,N/A,sapphire,2.12,rectangular,blue ('Royal Blue'),feather inclusion detected,27 x 21,0.129,G-H,N/A,VS-SI,N/A,N/A,N/A,AIGS,1,N/A,0,natural,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,AIGS,GFC24104652,"Feather inclusion detected, slightly reaches the surface; minute needle inclusions found near the bottom of the stone.",N/A,1,"SAPPHIRE, GEM-SET AND DIAMOND PENDANT
+2.12åæå¤©ç¶æªç¶å ç±èçãçå®¶èãèå¯¶ç³éå½©è²åçåé½ç³åå¢
+Certificate: AIGS, sapphire, natural, 2.12cts, blue ('Royal Blue'), unheated
+(GFC24104652, 1 November 2024)
+Remaining coloured sapphires: stamped 3.375cts
+Metal: platinum
+Dimensions: 2.7 x 2.1cm
+Gross weight: 7.2g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25850435-6-2.jpg,https://www.bonhams.com/auction/32082/lot/1148/sapphire-gem-set-and-diamond-pendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.24,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5550.0,4625.0
+3cd3e4db-5a82-4a50-8888-7043f435adae,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1149,HKD,70000,150000,N/A,N/A,8965.24,19211.23,N/A,N/A,DIAMOND BRACELET,N/A,N/A,N/A,N/A,N/A,white gold,18 karat,white,51.7,N/A,bracelet,N/A,18.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,11.0,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute signs of wear,N/A,1,"DIAMOND BRACELET
+é½ç³æé
+Metal: 18 karat white gold
+Length: 18.0cm
+Gross weight: 51.7g",https://images3.bonhams.com/image?src=Images/live/2026-08/26/25889522-1-5.jpg,https://www.bonhams.com/auction/32082/lot/1149/diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10444.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,16850.0,14041.666666666668
+99290f38-37c1-474f-a8cb-6593181de6d3,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1150,HKD,42000,80000,53760,42000,5379.14,10245.99,6885.3,5379.14,RUBY AND DIAMOND FLORAL BROOCH,N/A,N/A,N/A,N/A,stamped and partially tested 14K; partially tested silver with 8K gold; pin tested copper,"14 and 8 karat white gold, silver, copper","14K, 8K",white,46.2,N/A,brooch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,ruby,N/A,N/A,red,moderately included,N/A,7.9,G-H,N/A,VS-SI with occasional I1,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,floral,N/A,N/A,N/A,N/A,"Moderately included with visible typical inclusions such as fingerprints, crystals and oxide inclusions. Some distinctly surface reaching, with visible glue marks on the back side.",N/A,1,"Property from a Private Collection
+ç§äººæ¶èRUBY AND DIAMOND FLORAL BROOCH
+ç´å¯¶ç³éé½ç³å¥é
+Metal: 14 and 8 karat white gold, and silver; pin in copper
+Length: 8.8cm
+Gross weight: 46.2g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1150/ruby-and-diamond-floral-brooch/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.49,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8125.0,6770.833333333334
+0f21f308-1d12-4777-a0be-df05fb3a6c9f,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1151,HKD,46000,90000,64000,50000,5891.44,11526.74,8196.79,6403.74,"JADEITE, CULTURED PEARL AND DIAMOND LONGCHAIN NECKLACE",N/A,N/A,N/A,1559812081,unstamped and tested 18K,white gold,18 karat,white,178.6,N/A,necklace,94.8,N/A,N/A,N/A,N/A,1,N/A,N/A,jadeite,N/A,oval,green,translucent to semi-opaque,50.51 x 25.33 x 2.06,N/A,H-I,N/A,VS-SI-I,N/A,N/A,N/A,GIA,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,N/A,white,good,N/A,N/A,N/A,N/A,GIA,1559812081,minute blemishes and pits occasionally found,N/A,1,"JADEITE, CULTURED PEARL AND DIAMOND LONGCHAIN NECKLACE
+ç¿¡ç¿ éé¤æ®çç åé½ç³é é
+Certificate: GIA, selected jadeite, undyed, polymer coated
+(1559812081, 29 July 2026)
+Selected jadeite: approx. 50.51 x 25.33 x 2.06mm
+Metal: 18 karat white gold
+Length: 94.8 to 110.5cm
+Gross weight: 178.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25885516-1-4.jpg,https://www.bonhams.com/auction/32082/lot/1151/jadeite-cultured-pearl-and-diamond-longchain-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+81a4a487-5db7-4cc7-83e0-6c32e1986edb,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1152,HKD,48000,95000,61440,48000,6147.59,12167.11,7868.92,6147.59,"JADEITE, GEM-SET AND SEED PEARL PENDANT, AND JADEITE AND DIAMOND RING",N/A,N/A,N/A,N/A,unstamped and tested platinum,platinum,N/A,N/A,31.7,6¼,pendant and ring,N/A,N/A,N/A,N/A,N/A,2,0,1,jadeite,N/A,N/A,yellowish green to green,N/A,"54.67 x 32.71 x 8.36 mm (pendant), 14.03 x 10.08 x 5.41 mm (ring)",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,"HKJSL, GIA","SJ 117899, SJ 117898, 1228108043, 6222107968","A few yellowish and black patches, some of surface reaching. Abrasions in the form of scratches.",N/A,2,"Property of a Prominent International Family
+åéé¡¯èµ«å®¶æçèJADEITE, GEM-SET AND SEED PEARL PENDANT, AND JADEITE AND DIAMOND RING
+å¤©ç¶ç¿¡ç¿ éç²ç´è²æ°´æ¶åé¤æ®çç åå¢ï¼åå¤©ç¶ç¿¡ç¿ éé½ç³ææ
+Certificates: 2 HKJSL, jadeites, natural, type A 
+(SJ 117899 and SJ 117898, 30 June 2015)
+Certificates: 2 GIA, jadeites, natural, no indications of impregnation
+(1228108043, 23 March 2016 and 6222107968 22 March 2016)
+Jadeite pendant: approx.54.67 x 32.71 x 8.36mm 
+Jadeite on ring: approx. 14.03 x 10.08 x 5.41mm
+Metal: platinum
+Ring size: 6Â¼
+Gross weight: pendant 26.4g; ring 5.3g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-04/23/25855734-3-3.jpg,https://www.bonhams.com/auction/32082/lot/1152/jadeite-gem-set-and-seed-pearl-pendant-and-jadeite-and-diamond-ring-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+86efb12b-5064-4edf-b9c3-ce85bf7b658b,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1153,HKD,50000,70000,102400,80000,6403.74,8965.24,13114.87,10245.99,"Cultured Pearl, Gem-Set and Diamond Necklace and Earclip Set",N/A,N/A,N/A,N/A,unstamped,18 karat yellow gold and 14 karat white gold,18K and 14K,yellow and white,140.0,N/A,necklace and earclip set,42.5,N/A,5.6,N/A,N/A,N/A,N/A,2,corundum,N/A,off-round to drop shapes,white bodycolour with silver and yellow-green overtones,visible blemishes on the back side,approx. 12.06 x 11.05mm to 11.55 x 11.08 x 11.05mm,N/A,H-I-J,N/A,VS-I,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,2,white with silver and yellow-green overtones,good,N/A,N/A,N/A,N/A,N/A,N/A,typical inclusions such as crystals and silks can be observed,N/A,2,"CULTURED PEARL, GEM-SET AND DIAMOND NECKLACE AND EARCLIP SET
+é¤æ®çç éç´å¯¶ç³åé½ç³é éååå¢è³å¤¾å¥è£
+Cultured pearls: approx. 12.06 x 11.05mm to 11.55 x 11.08 x 11.05mm
+Metal: 18 karat yellow gold and 14 karat white gold
+Length: necklace 42.5cm; earclip 5.6cm
+Gross weight: necklace 105.4g; earclips 34.6g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888704-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1153/cultured-pearl-gem-set-and-diamond-necklace-and-earclip-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10772.75,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8080.0,6733.333333333334
+013e56de-f25c-46f0-8f70-2f9a71c2a673,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1154,HKD,40000,60000,61440,48000,5122.99,7684.49,7868.92,6147.59,"Tsavorite Garnet, Coloured Diamond and Diamond Ring/Pendant",N/A,N/A,N/A,1119538948,stamped Au750,18 karat white gold,18K,white,10.6,6½,ring/pendant,N/A,N/A,N/A,2.3,N/A,1,N/A,N/A,tsavorite garnet,5.64,emerald-cut,vivid green,"minor typical inclusions, one minute surface reaching fissure",unknown,1.709,G-H,N/A,VS-SI,N/A,N/A,N/A,Guild,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Guild,1119538948,"minor typical inclusions such as fingerprints and crystals, one minute surface reaching fissure detected at one of the corners",N/A,1,"TSAVORITE GARNET, COLOURED DIAMOND AND DIAMOND RING/PENDANT
+5.64åæå¤©ç¶æªç¶èçæ²å¼èç³æ¦´ç³éå½©è²é½ç³åé½ç³ææ/åå¢
+Certificate: Guild, tsavorite garnet, natural, 5.64cts, vivid green, untreated
+(1119538948, 27 November 2023) 
+Coloured diamonds and diamonds: stamped 1.709cts
+Metal: 18 karat white gold
+Ring size: 6Â½
+Pendant dimensions: 2.3 x 2.2cm
+Gross weight: 10.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25855935-2-2.jpg,https://www.bonhams.com/auction/32082/lot/1154/tsavorite-garnet-coloured-diamond-and-diamond-ringpendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.37,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6825.0,5687.5
+99de0015-b517-445d-acb4-e382ca99c1ed,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1155,HKD,40000,60000,56320,44000,5122.99,7684.49,7213.18,5635.29,GOLD AND DIAMOND SUITE,N/A,N/A,N/A,N/A,all stamped 750,yellow gold,18 karat,yellow,61.9,6¼,"necklace, ring, earrings",40.6,N/A,1.8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Slightly tarnished on the inside of the ring shank and earclips,Southeast Asia,3,"Property of a Southeast Asian Collector
+æ±åäºèå®¶çèGOLD AND DIAMOND SUITE
+é½ç³é éãææåè³ç°å¥è£
+Metal: 18 karat yellow gold
+Length: necklace 40.6cm; earclip 1.8cm
+Ring size: 6Â¼
+Gross weight: necklace 41.2g; ring 9.5g; earclips 11.2g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25889762-5-1.jpg,https://www.bonhams.com/auction/32082/lot/1155/gold-and-diamond-suite-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.06,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6825.0,5687.5
+f636b23c-e629-42db-a65f-806f47f7dd4f,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1156,HKD,15000,30000,N/A,N/A,1921.12,3842.25,N/A,N/A,GOLD AND DIAMOND BROOCH,N/A,N/A,N/A,N/A,stamped 14K 585,"yellow gold, white gold","14 karat, 6 karat","yellow, white",21.9,N/A,brooch,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,diamond,0.4,single-cut,F-G-H,VS,N/A,0.4,F-G-H,N/A,VS,single-cut,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Screening for natural diamonds passed.,N/A,1,"Property from a Private Collection
+ç§äººæ¶èGOLD AND DIAMOND BROOCH
+é»éé½ç³å¥é
+Metal: 14 karat yellow gold and 6 karat white gold
+Dimensions: 5.2 x 4.5cm
+Gross weight: 21.9g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25851914-4-2.jpg,https://www.bonhams.com/auction/32082/lot/1156/gold-and-diamond-brooch/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3564.14,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+c1f77972-b752-4c47-82f0-7300db8322c1,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1157,HKD,500000,1200000,613600,480000,64037.43,153689.84,78586.74,61475.93,MOUAWAD: GEM-SET AND DIAMOND PARURE,Mouawad,N/A,N/A,N/A,"Mouawad, RM for Robert Mouawad and J, maker's mark",yellow gold,18 karat,yellow,228.8,6½,parure,39.0,17.5,4.9,N/A,N/A,4,N/A,N/A,"ruby, emerald",75.0,N/A,"red to purplish red, green",typical inclusions,N/A,39.0,H-J,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Cabochon rubies with typical inclusions, surface reaching chips and dark crystals; emeralds with typical inclusions, surface reaching dark crystals and minute chips; diamonds with H-J color, VS-SI clarity.",N/A,4,"Property of a Prominent International Family
+åéé¡¯èµ«å®¶æçèMOUAWAD: GEM-SET AND DIAMOND PARURE
+Mouawadï¼ç´å¯¶ç³åç¥æ¯ç¶ éé½ç³åå¢é éï¼æéï¼ææååå¢è³ç°å¥è£
+Signature: Mouawad, RM for Robert Mouawad and J, maker's mark
+Rubies: approx. 75.00cts
+Emeralds: approx. 140.00cts
+Diamonds: approx. 39.00cts
+Metal: 18 karat yellow gold
+Length: necklace 39.0cm; bracelet 17.5cm; earring 4.9cm
+Ring size: 6Â½
+Gross weight: necklace 125.1g, bracelet 49.8g, earrings 34.4g, ring 19.5g
+ (4)",https://images3.bonhams.com/image?src=Images/live/2026-04/23/25855734-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1157/mouawad-gem-set-and-diamond-parure-4/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,206441.78,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,139000.0,115833.33333333334
+7477ae88-01a2-4b66-8abd-9fbbfdb76b94,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1158,HKD,140000,350000,N/A,N/A,17930.48,44826.2,N/A,N/A,DIAMOND BRACELET,N/A,N/A,N/A,N/A,N/A,platinum,N/A,N/A,64.2,N/A,bracelet,N/A,18.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.65,old European-cut,G-H,I,10.50 x 10.55 x 6.65,N/A,H-I-J,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,One diamond deficient,N/A,1,"Property of a Prominent International Family
+åéé¡¯èµ«å®¶æçèDIAMOND BRACELET
+é½ç³æé
+Principal diamond: approx. 4.65cts
+Metal: platinum
+Length: 18.0cm
+Gross weight: 64.2g
+ One diamond deficient",https://images3.bonhams.com/image?src=Images/live/2026-04/23/25855734-14-1.jpg,https://www.bonhams.com/auction/32082/lot/1158/diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,48410.68,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,32400.0,27000.0
+bf8482c9-1178-41f7-a1bc-da8eaac9720e,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1159,HKD,130000,180000,N/A,N/A,16649.73,23053.48,N/A,N/A,COLOURED DIAMOND BANGLE,N/A,N/A,N/A,N/A,stamped 18K,yellow gold,18 karat,yellow,26.6,N/A,bangle,N/A,15.0,N/A,N/A,N/A,N/A,N/A,N/A,coloured diamonds,19.35,N/A,yellow tint in various tones,VS-SI and occasional I,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Coloured diamonds have not been tested for natural colour.,N/A,1,"COLOURED DIAMOND BANGLE
+å½©è²é½ç³æé²
+Coloured diamonds: approx. 19.35cts
+Metal: 18 karat yellow gold
+Inner circumference: 15.0cm (expandable) 
+Gross weight: 26.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25902842-4-1.jpg,https://www.bonhams.com/auction/32082/lot/1159/coloured-diamond-bangle/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,25292.54,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,19800.0,16500.0
+3987aa00-a038-4d4f-8447-25f6bd2313d5,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1160,HKD,48000,95000,61440,48000,6147.59,12167.11,7868.92,6147.59,TWO GEM-SET AND DIAMOND 'TURTLE' AND 'GOLDFISH' BROOCHES,N/A,N/A,N/A,N/A,"turtle brooch stamped 750, goldfish brooch tested 18K",yellow gold,18 karat,yellow,77.4,N/A,brooches,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"hardstones, ruby",N/A,N/A,"yellow to orangy yellow, red","almost loupe-clean, almost eye-clean",turtle 6.1 x 6.0cm; goldfish 5.3 x 3.2cm,3.2,G-H-I,N/A,VS-SI with an occasional I1,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,turtle and goldfish,N/A,N/A,N/A,N/A,"minute signs of wear, prong on the turtle cracked, two stones glued down",N/A,2,"Property from a Private Collection
+ç§äººæ¶èTWO GEM-SET AND DIAMOND 'TURTLE' AND 'GOLDFISH' BROOCHES
+å½©è²å¯¶ç³éé½ç³å¥éå©æ
+Metal: 18 karat yellow gold
+Dimensions: turtle 6.1 x 6.0cm; goldfish 5.3 x 3.2cm
+Gross weight: turtle 55.9g; goldfish 21.5g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25888116-13-4.jpg,https://www.bonhams.com/auction/32082/lot/1160/two-gem-set-and-diamond-turtle-and-goldfish-brooches-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+7173f31b-c2a7-4fe5-972c-5f619974c0df,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1161,HKD,36000,50000,24320,19000,4610.7,6403.74,3114.78,2433.42,JADEITE AND DIAMOND PENDANT,N/A,N/A,N/A,KJ 58131,"HKJSL, 18K 750",white gold,18 karat,white,8.0,N/A,pendant,N/A,N/A,N/A,4.7,N/A,1,1,N/A,jadeite,N/A,N/A,green,good translucency,27.95 x 19.91 x 5.25,0.46,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,KJ 58131,"Minute mottling with deeper green veins and spready white patches are detected, which are the typical natural inclusions of natural jadeite and they remain subtle.",N/A,1,"JADEITE AND DIAMOND PENDANT
+å¤©ç¶ç¿¡ç¿ éé½ç³åå¢
+Certificate: HKJSL, jadeite, natural, type A 
+(KJ 58131, 1 March 2011)
+Jadeite: approx. 27.95 x 19.91 x 5.25mm
+Metal: 18 karat white gold
+Dimensions: 4.7 x 1.9mm
+Gross weight: 8.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25886172-1-2.jpg,https://www.bonhams.com/auction/32082/lot/1161/jadeite-and-diamond-pendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10441.56,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5530.0,4608.333333333334
+80a47fc4-a14a-4cd9-81c0-defc05b7c33a,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1162,HKD,16000,32000,21760,17000,2049.2,4098.4,2786.91,2177.27,"PAIR OF JADEITE, ONYX AND DIAMOND EARCLIPS, AND JADEITE 'COIN' AND DIAMOND LONGCHAIN",N/A,N/A,N/A,N/A,"stamped 585, possibly a maker's mark 'GB' on necklace",14 karat yellow gold,14K,yellow,51.1,N/A,"earclips, necklace",77.0,N/A,4.0,N/A,N/A,N/A,N/A,N/A,jadeite,N/A,N/A,"bright green to celadon green, intense green",semi-translucent to opaque,earclip: approx. 34.21 x 21.99 x 1.14mm; necklace: approx. 8.21 - 8.25 x 0.83mm,N/A,H-I,N/A,VS-SI,Round Brilliant and Single-cut,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 251288 and SJ 251290,surface-reaching hairline fissures typical of natural jadeite,N/A,2,"PAIR OF JADEITE, ONYX AND DIAMOND EARCLIPS, AND JADEITE 'COIN' AND DIAMOND LONGCHAIN
+å¤©ç¶ç¿¡ç¿ éé½ç³è³å¤¾ï¼åå¤©ç¶ç¿¡ç¿ ãéé¢ãéé½ç³é é
+Certificates: 2 HKJSL, selected jadeites, natural, type A 
+(SJ 251288 and SJ 251290, 16 January 2026)
+Selected jadeite on earclip: approx. 34.21 x 21.99 x 1.14mm
+Selected jadeite on necklace: approx. 8.21 - 8.25 x 0.83mm
+Metal: 14 karat yellow gold
+Lengths: earclip 4.0cm; necklace 77.0cm
+Gross weight: eaclips 27.8g; necklace 23.3g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-02/11/25745352-2-5.jpg,https://www.bonhams.com/auction/32082/lot/1162/pair-of-jadeite-onyx-and-diamond-earclips-and-jadeite-coin-and-diamond-longchain-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4841.28,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3700.0,3083.3333333333335
+b3166b52-92cf-4956-80fc-7cd1bb13d33d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1163,HKD,48000,95000,108800,85000,6147.59,12167.11,13934.55,10886.36,RUBY AND DIAMOND CHOKER NECKLACE AND EARCLIP SET,N/A,N/A,N/A,N/A,necklace stamped 750,white and yellow gold,18 karat,white and yellow,133.4,N/A,necklace and earclip set,32.0,N/A,2.3,N/A,N/A,N/A,N/A,N/A,ruby,N/A,N/A,"red hue, medium tone, strong saturation",minor typical inclusions such as feathers and fingerprints,N/A,1.0,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute glue marks around the heart-shaped pendant on necklace,N/A,2,"Property from a Private Collection
+ç§äººæ¶èRUBY AND DIAMOND CHOKER NECKLACE AND EARCLIP SET
+ç´å¯¶ç³éé½ç³é éåè³å¤¾å¥è£
+Metal: 18 karat white and yellow gold
+Necklace inner circumference: 32.0cm
+Earclip length: 2.3cm 
+Gross weight: necklace 100.7g; earclips 32.7g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-4-1.jpg,https://www.bonhams.com/auction/32082/lot/1163/ruby-and-diamond-choker-necklace-and-earclip-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+32de9603-77a3-42dc-8053-2a77951dba76,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1164,HKD,26000,50000,14080,11000,3329.95,6403.74,1803.29,1408.82,"GEM-SET, ONYX AND DIAMOND PENDANT NECKLACE",N/A,N/A,N/A,N/A,"pendant stamped Au750, chain stamped K18",yellow gold,18 karat,yellow,8.4,N/A,pendant necklace,45.0,N/A,N/A,4.0,40.0,1,1,N/A,garnet (tsavorite),N/A,N/A,green,almost loupe clean,N/A,0.306,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute crystals detected under 10x magnification; minute abrasions on the edges of onyx.,N/A,1,"GEM-SET, ONYX AND DIAMOND PENDANT NECKLACE
+æ²å¼èç³æ¦´ç³éç¸çªçåé½ç³åå¢é é
+Metal: 18 karat yellow gold
+Length: pendant 4.0cm; chain 45.0 to 40.0cm (adjustable)
+Gross weight: 8.4g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25850435-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1164/gem-set-onyx-and-diamond-pendant-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,5199.13,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+4506da62-4e88-4356-864c-750090d3f970,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1165,HKD,20000,40000,N/A,N/A,2561.5,5122.99,N/A,N/A,JADEITE AND DIAMOND RING,N/A,N/A,N/A,SJ 254238,Au750,white gold,18 karat,white,5.3,6½,ring,N/A,N/A,N/A,N/A,N/A,1,76,N/A,jadeite,N/A,oval,green,natural cotton-like inclusions,approx. 12.29 x 10.60 x 4.02mm,0.76,G-H,N/A,VS-SI,N/A,N/A,N/A,HKJSL,1,N/A,0,N/A,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 254238,Natural cotton-like inclusions observed under strong direct lighting.,N/A,1,"JADEITE AND DIAMOND RING
+å¤©ç¶ç¿¡ç¿ éé½ç³ææ 
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 254238, 21 April 2026)
+Jadeite: approx. 12.29 x 10.60 x 4.02mm
+Metal: 18 karat white gold
+Ring size: 6Â½
+Gross weight: 5.3g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25855935-5-2.jpg,https://www.bonhams.com/auction/32082/lot/1165/jadeite-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4860.19,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4625.0,3854.166666666667
+c9cde181-45dd-4f7d-8883-73f45e02d250,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1166,HKD,55000,110000,64000,50000,7044.12,14088.23,8196.79,6403.74,PAIR OF JADEITE AND DIAMOND EARRINGS,N/A,N/A,N/A,N/A,stamped Au750,18 karat white gold,18K,white,19.5,N/A,earrings,N/A,N/A,4.7,N/A,N/A,2,6,N/A,jadeite,N/A,disc,bright green,good translucency,approx. 15.67 - 15.68 x 4.83mm,4.86,M,N/A,SI2,heart-shaped,Excellent,N/A,GIA,1,N/A,0,natural,1,mounted,N/A,Excellent,Excellent,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 257017,minute opaque inclusions spotted near the edges on one of the jadeites,N/A,2,"PAIR OF JADEITE AND DIAMOND EARRINGS
+å¤©ç¶ç¿¡ç¿ éé½ç³è³ç°
+Certificate: HKJSL, selected jadeite, natural, type A
+(SJ 257017, 22 June 2026) 
+Selected jadeite: approx. 15.67 - 15.68 x 4.83mm
+Certificates: 2 GIA Diamond Dossier, selected diamonds
+0.73ct, M, SI2, Excellent Polish and Symmetry (2516961610, 24 April 2025)
+0.71ct, M, SI2, Excellent Polish (7521134574, 14 May 2025)
+Diamonds: stamped 6.30cts total
+Metal: 18 karat white gold
+Length: 4.7cm
+Gross weight: 19.5g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25882344-6-3.jpg,https://www.bonhams.com/auction/32082/lot/1166/pair-of-jadeite-and-diamond-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,12300.0,10250.0
+3b813118-5827-41b1-83ea-3d7e36090f6f,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1167,HKD,30000,60000,N/A,N/A,3842.25,7684.49,N/A,N/A,JADEITE AND DIAMOND BRACELET,N/A,N/A,N/A,SJ 256521,stamped Au750,white gold,18 karat,white,16.3,N/A,bracelet,N/A,17.8,N/A,N/A,N/A,1,10,N/A,jadeite,N/A,oval,bright green,good translucency,approx. 7.02 x 6.07 x 3.26mm,1.39,G-H-I,N/A,VS-I1,N/A,N/A,N/A,HKJSL,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 256521,minor white patches and veins can be observed,N/A,1,"JADEITE AND DIAMOND BRACELET
+å¤©ç¶ç¿¡ç¿ éé½ç³æé
+Certificate: HKJSL, selected jadeite, natural, type A 
+(SJ 256521, 4 June 2026)
+Selected jadeite: approx. 7.02 x 6.07 x 3.26mm
+Diamonds: stamped 1.390cts
+Metal: 18 karat white gold 
+Length: 17.8cm
+Gross weight: 16.3g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-7-2.jpg,https://www.bonhams.com/auction/32082/lot/1167/jadeite-and-diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5760.0,4800.0
+0a235c6c-1579-4800-aaf6-779c4b4c98ba,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1168,HKD,15000,30000,16640,13000,1921.12,3842.25,2131.17,1664.97,"TWO ICY JADEITE, JADEITE, DIAMOND AND BLACK DIAMOND 'GOURD' PENDANTS",N/A,N/A,N/A,N/A,Chain stamped 585 Italy,"14 karat white and blackened gold, and 12 karat white gold","14K, 12K",white and black,9.5,N/A,pendants,44.5,N/A,N/A,2.5,44.5,2,N/A,N/A,jadeite,N/A,N/A,green and icy,N/A,"16.12 x 9.42 x 4.18mm, 15.03 x 8.85 x 3.92mm",N/A,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gourd,N/A,N/A,HKJSL,SJ 244165 and SJ 244166,Black diamonds have not been tested for natural colour.,N/A,2,"TWO ICY JADEITE, JADEITE, DIAMOND AND BLACK DIAMOND 'GOURD' PENDANTS
+å¤©ç¶å°ç¨®ç¿¡ç¿ åç¿¡ç¿ éé½ç³åé»é½ç³ãè«èãåå¢å©æ
+Certificates: 2 HKJSL, selected jadeites, natural, type A 
+(SJ 244165 and SJ 244166, 14 August 2025)
+Selected green jadeite: approx. 16.12 x 9.42 x 4.18mm
+Selected icy jadeite: approx. 15.03 x 8.85 x 3.92mm
+Accompaniment: 14 karat white gold chain
+Metal: 14 karat white and blackened gold, and 12 karat white gold
+Length: pendants 2.5 and 4.2cm; chain 44.5cm 
+Gross weight: pendants 2.8 and 4.7g; necklace 2.5g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2025-08/25/25666231-6-3.jpg,https://www.bonhams.com/auction/32082/lot/1168/two-icy-jadeite-jadeite-diamond-and-black-diamond-gourd-pendants-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4841.28,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+d4f65f09-21ce-4147-acc3-f365b05c05f1,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1169,HKD,30000,50000,15360,12000,3842.25,6403.74,1967.23,1536.9,ICY JADEITE AND GEM-SET 'PEAPOD' PENDANT AND PENDENT EARRING SET,N/A,N/A,N/A,N/A,all stamped Au750; chain stamped S925,white gold,18 karat,white,18.7,N/A,pendant and earring set,N/A,N/A,4.2,4.0,N/A,3,0,0,"jadeite, pink spinels, colourless topazes, tsavorite garnets",N/A,peapod,nearly colourless,eye-clean,32.25 x 16.55 x 5.76mm; 24.93 x 13.65 x 5.86mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,peapod,N/A,N/A,HKJSL,SJ 254235 and SJ 254236,subtle cotton-like natural inclusions can be observed,N/A,2,"ICY JADEITE AND GEM-SET 'PEAPOD' PENDANT AND PENDENT EARRING SET
+å¤©ç¶å°ç¨®ç¿¡ç¿ éå½©è²å¯¶ç³ãç¦è±ãåå¢ååå¢è³ç°å¥è£
+Certificates: 2 HKJSL, selected jadeites, natural, type A 
+(SJ 254235 and SJ 254236, 21 April 2026)
+Jadeite on pendant: approx. 32.25 x 16.55 x 5.76mm
+Selected jadeite on earring: approx. 24.93 x 13.65 x 5.86mm
+Metal: 18 karat white gold
+Length: pendant 4.0cm; earring 4.2cm
+Gross weight: pendant 7.5g; earrings 11.2g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25855935-1-2.jpg,https://www.bonhams.com/auction/32082/lot/1169/icy-jadeite-and-gem-set-peapod-pendant-and-pendent-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+1b83e1fc-0c42-4428-8237-725706904be6,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1170,HKD,40000,80000,N/A,N/A,5122.99,10245.99,N/A,N/A,DIAMOND TENNIS BRACELET,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,12.6,N/A,bracelet,N/A,16.5,N/A,N/A,N/A,46,46,N/A,diamond,5.85,N/A,H-I-J-K,VS-SI,N/A,5.85,H-I-J-K,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,secure clasp,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Graded mounted, consistent in size and shape overall.",N/A,1,"DIAMOND TENNIS BRACELET
+é½ç³æé
+Diamonds: 46pcs, stamped 5.85cts
+Metal: 18 karat white gold
+Length: 16.5cm
+Gross weight: 12.6g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-5-1.jpg,https://www.bonhams.com/auction/32082/lot/1170/diamond-tennis-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.49,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8125.0,6770.833333333334
+0400dbea-cbb2-4f7c-9421-216b0e0ef4d6,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1171,HKD,22000,35000,N/A,N/A,2817.65,4482.62,N/A,N/A,"CORAL, GEM-SET AND DIAMOND 'PHOENIX' BROOCH/PENDANT",N/A,N/A,N/A,SIG26070177,stamped K14WG,14 karat white gold and non-gold metal,14K,white,16.3,N/A,brooch/pendant,N/A,N/A,N/A,6.5,N/A,1,N/A,N/A,coral,N/A,freeform,red,very clean surface,27.50 x 13.60 x 8.10,1.75,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,mounted in open-back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,phoenix,N/A,N/A,SIG,SIG26070177,Growth lines can be observed under very close inspection; minor visible porous surface on the back side,N/A,1,"Property of a Private Collector
+ç§äººèå®¶çèCORAL, GEM-SET AND DIAMOND 'PHOENIX' BROOCH/PENDANT
+å¤©ç¶æªç¶èçççéå½©è²å¯¶ç³åé½ç³ãé³³å°ãå¥é/åå¢
+Certificate: SIG, precious coral, natural, red, untreated
+(SIG26070177, 14 July 2026)
+Coral: approx. 27.50 x 13.60 x 8.10mm
+Metal: 14 karat white gold and non-gold metal pin
+Dimensions: 6.5 x 3.0mm
+Gross weight: 16.3g",https://images3.bonhams.com/image?src=Images/live/2026-05/05/25845794-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1171/coral-gem-set-and-diamond-phoenix-broochpendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4829.65,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3850.0,3208.3333333333335
+100f767c-5d40-470d-95cd-60beb72434d5,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1172,HKD,28000,50000,38400,30000,3586.1,6403.74,4918.07,3842.25,"CORAL, GEM-SET AND DIAMOND 'FISH' BROOCH/PENDANT",N/A,N/A,N/A,SIG26070179,"stamped G18K, CCF",white gold,18 karat,white,36.8,N/A,brooch/pendant,N/A,N/A,N/A,5.8,N/A,N/A,N/A,N/A,"coral, sapphires, emeralds, jadeites",N/A,irregular,"red, blue, purple, green, colorless","very clean surface, minute typical inclusions",32.50 x 23.40 x 9.10,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,mounted in open back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,fish,N/A,N/A,SIG,SIG26070179,"growth lines can be observed, minute white spots on the back side",N/A,1,"Property of a Private Collector
+ç§äººèå®¶çèCORAL, GEM-SET AND DIAMOND 'FISH' BROOCH/PENDANT
+å¤©ç¶æªç¶èçççéå½©è²å¯¶ç³åé½ç³å¥é/åå¢
+Certificate: SIG, precious coral, natural, red, untreated
+(SIG26070179, 14 July 2026)
+Coral: approx. 32.50 x 23.40 x 9.10mm
+Metal: 18 karat white gold
+Dimensions: 5.8 x 4.6cm
+Gross weight: 36.8g",https://images3.bonhams.com/image?src=Images/live/2026-05/05/25845794-4-1.jpg,https://www.bonhams.com/auction/32082/lot/1172/coral-gem-set-and-diamond-fish-broochpendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5210.0,4341.666666666667
+95aebbff-242a-4295-a8a8-678ed21361bd,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1173,HKD,50000,80000,N/A,N/A,6403.74,10245.99,N/A,N/A,"GROUP OF CORAL, GEM-SET AND DIAMOND JEWELLERY",N/A,N/A,N/A,SIG26080151,"G18K, CCF",18 karat white and blackened gold,18K,white and blackened,58.5,6½,"brooch, pendant, ring, earrings",N/A,N/A,2.0,N/A,N/A,N/A,N/A,N/A,"tanzanite, coloured sapphires, garnets",N/A,N/A,N/A,almost eye-clean,coral on ring: approx. 15.89 x 15.85mm; corals on brooch: approx. 12.00 to 11.25mm; corals on earrings: 10.50 to 10.45mm,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SIG,SIG26080151,minute pores and glue marks under the prongs,N/A,3,"Property of a Private Collector
+ç§äººèå®¶çèGROUP OF CORAL, GEM-SET AND DIAMOND JEWELLERY
+ççç éå½©è²å¯¶ç³åé½ç³å¥é/åå¢ãææåè³ç°
+Certificate: SIG, selected precious coral, natural, red, untreated 
+(SIG26080151, 13 August 2026)
+Coral on ring: approx. 15.89 x 15.85mm
+Corals on brooch: approx. 12.00 to 11.25mm
+Corals on earrings: 10.50 to 10.45mm
+Metal: 18 karat white and blackened gold
+Brooch dimensions: 7.1 x 4.7cm
+Ring size: 6Â½
+Earring length: 2.0cm
+Gross weight: brooch 34.5g; ring 16.5g; earrings 7.5g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25902382-3-2.jpg,https://www.bonhams.com/auction/32082/lot/1173/group-of-coral-gem-set-and-diamond-jewellery-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10738.38,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,9275.0,7729.166666666667
+36117dc4-e873-4a14-84c4-6ad7b976ab46,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1174,HKD,20000,30000,9600,7500,2561.5,3842.25,1229.52,960.56,UNMOUNTED EMERALD,N/A,N/A,N/A,B43628,N/A,N/A,N/A,N/A,2.19,N/A,gemstone,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,emerald,2.197,oval,green,minor typical needle and fingerprint inclusions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,1,N/A,0,natural,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,B43628,"minor typical needle and fingerprint inclusions, with minute surface reaching",Colombia,1,"UNMOUNTED EMERALD
+2.19åæå¤©ç¶ãå¥å«æ¯äºãç¥æ¯ç¶ 
+Certificate: Bellerophon, emerald, natural, 2.197cts, Colombia, minor amount of clarity modification
+(B43628, 3 April 2025)",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25741323-2-2.jpg,https://www.bonhams.com/auction/32082/lot/1174/unmounted-emerald/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3564.14,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+54bd7e06-93e0-4ab7-a557-2aa388b4926b,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1175,HKD,28000,50000,35840,28000,3586.1,6403.74,4590.2,3586.1,"CORAL, GEM-SET, COLOURED DIAMOND AND DIAMOND 'FLOWER' PENDANT",N/A,N/A,N/A,SIG26070176,"stamped G18K, CCF",blackened gold,18 karat,blackened,35.9,N/A,pendant,N/A,N/A,N/A,4.8,N/A,N/A,N/A,N/A,tsavorite garnets,N/A,round,red,very clean surface,approx. 18.53 x 18.46mm,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SIG,SIG26070176,"minute growth lines can be spotted, mostly located at the two diagonal ends",N/A,1,"Property of a Private Collector
+ç§äººèå®¶çèCORAL, GEM-SET, COLOURED DIAMOND AND DIAMOND 'FLOWER' PENDANT
+å¤©ç¶æªç¶èçççéå½©è²å¯¶ç³ãå½©è²é½ç³åé½ç³åå¢
+Certificate: SIG, precious coral, natural, red, untreated
+(SIG26070176, 14 July 2026)
+Coral: approx. 18.53 x 18.46mm
+Metal: 18 karat blackened gold
+Dimensions: 4.8 x 4.5cm
+Gross weight: 35.9g",https://images3.bonhams.com/image?src=Images/live/2026-05/05/25845794-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1175/coral-gem-set-coloured-diamond-and-diamond-flower-pendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+a0b21ff1-74ca-4e98-a8ff-a1e29a7a17d4,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1176,HKD,32000,50000,N/A,N/A,4098.4,6403.74,N/A,N/A,DIAMOND LINE BRACELET AND EARRINGS,N/A,N/A,N/A,N/A,stamped Au750,white gold,18 karat,white,15.9,N/A,bracelet and earrings,N/A,16.7,7.0,N/A,N/A,55,55,N/A,diamond,1.62,N/A,G-H-I,VS-SI and occasional I,N/A,2.387,G-H-I,N/A,VS-SI and occasional I,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Approximate colour and clarity: G-H-I colour, VS-SI and occasional I clarity. Good brilliancy and lustre. Graded mounted.",N/A,2,"DIAMOND LINE BRACELET AND EARRINGS
+é½ç³æéåè³ç°
+Diamonds on bracelet: 55pcs, stamped 1.62cts
+Diamonds on earrings: stamped 2.387cts
+Metal: 18 karat white gold
+Length: bracelet 16.7cm; earring 7.0cm
+Gross weight: bracelet 9.6g; earrings 6.3g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25903884-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1176/diamond-line-bracelet-and-earrings-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5700.0,4750.0
+16afd182-b83e-4bdc-a9bf-6e6500197c6d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1177,HKD,60000,120000,N/A,N/A,7684.49,15368.98,N/A,N/A,DIAMOND SUITE,N/A,N/A,N/A,N/A,all stamped 750,white gold,18 karat,white,56.8,7,jewelry set,41.0,16.5,2.0,2.9,39.0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.2,F-G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute scratch marks,N/A,4,"DIAMOND SUITE
+é½ç³åå¢é éãæé²ãææåè³ç°å¥è£
+Metal: 18 karat white gold
+Length: pendant 2.9cm; chain 41.0 and 39.0cm; earring 2.0cm
+Bangle inner circumference: 16.5cm
+Ring size: 7
+Gross weight: necklace 14.6g; bangle 16.4g; ring 5.1g; earrings 4.7g
+ (4)",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25881847-8-1.jpg,https://www.bonhams.com/auction/32082/lot/1177/diamond-suite-4/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,12300.0,10250.0
+4e98dbdc-3e57-4747-bf73-2fbd8d27bac3,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1178,HKD,18000,24000,8320,6500,2305.35,3073.8,1065.58,832.49,MOONSTONE AND GEM-SET RING,N/A,N/A,N/A,GS24052700561,stamped Au750,white gold,18 karat,white,7.3,6½,ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,feldspar (rainbow moonstone),8.08,oval,almost colourless,eye-clean,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GS24052700561,Visible adularescence effect across the top. Minute typical crystal inclusions occasionally spotted upon 10x magnification.,N/A,1,"MOONSTONE AND GEM-SET RING
+å¤©ç¶æåç³éå½©è²å¯¶ç³ææ
+Certificate: gem report, feldspar (rainbow moonstone), natural, white
+(GS24052700561, 28 May 2024)
+Moonstone: stamped 8.08cts
+Metal: 18 karat white gold
+Ring size: 6Â½
+Gross weight: 7.3g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25855935-7-2.jpg,https://www.bonhams.com/auction/32082/lot/1178/moonstone-and-gem-set-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3240.13,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2730.0,2275.0
+4a2a00a1-a8b4-4612-882c-570ecaae32f0,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1179,HKD,38000,75000,N/A,N/A,4866.84,9605.61,N/A,N/A,CULTURED PEARL LONG NECKLACE,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,165.9,N/A,necklace,163.0,N/A,N/A,N/A,N/A,171,N/A,171,cultured pearl,N/A,round to near round,white bodycolour with rosé and soft green overtones,lightly spotted surfaces with occasional minute blemishes and pits,approx. 8.88 x 9.39mm - 8.89 x 9.26mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,171,white bodycolour with rosé and soft green overtones,good lustre overall,N/A,N/A,N/A,N/A,N/A,N/A,lightly spotted surfaces with occasional minute blemishes and pits,N/A,1,"CULTURED PEARL LONG NECKLACE
+é¤æ®çç é é
+Cultured pearls: 171pcs, approx. 8.88 x 9.39mm - 8.89 x 9.26mm
+Metal: 18 karat white gold 
+Length: 163.0cm
+Gross weight: 165.9g",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25881847-4-2.jpg,https://www.bonhams.com/auction/32082/lot/1179/cultured-pearl-long-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.7,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7200.0,6000.0
+cc1a41d2-eaba-451d-98bd-2ef121ebed9b,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1180,HKD,45000,60000,N/A,N/A,5763.37,7684.49,N/A,N/A,"Turquoise, Gem-Set and Diamond Pendant Necklace; and Pair of Diamond Hoop Earrings",N/A,N/A,N/A,N/A,stamped 750,platinum and 18 karat white gold,750,white,21.0,N/A,necklace and earrings,44.0,N/A,2.7,7.2,N/A,2,3,N/A,turquoise and sapphires,7.8,N/A,blue,eye-clean,N/A,3.6,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,platinum and 18K,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Eye-clean clarity for sapphires,N/A,2,"TURQUOISE, GEM-SET AND DIAMOND PENDANT NECKLACE; AND PAIR OF DIAMOND HOOP EARRINGS
+ç¶ æ¾ç³éèå¯¶ç³åé½ç³åå¢é éï¼åé½ç³è³ç°
+Turquoise: stamped 7.80cts
+Diamonds: stamped 3.00cts (on earrings)
+Metal: platinum and 18 karat white gold
+Length: pendant 7.2cm; chain 44.0cm; earring 2.7cm
+Gross weight: necklace 9.0g; earrings 12.0g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25886172-5-1.jpg,https://www.bonhams.com/auction/32082/lot/1180/turquoise-gem-set-and-diamond-pendant-necklace-and-pair-of-diamond-hoop-earrings-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.7,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6825.0,5687.5
+41a93915-2212-40ed-b582-1792367e64ba,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1181,HKD,22000,44000,35840,28000,2817.65,5635.29,4590.2,3586.1,JADEITE AND DIAMOND 'ENDLESS KNOT' BROOCH; AND TWO PAIRS OF JADEITE AND DIAMOND PENDENT EARRINGS,N/A,N/A,N/A,N/A,stamped 750,18 karat white gold,750,white,25.4,N/A,brooch; earrings,N/A,N/A,2.8,N/A,N/A,3,N/A,N/A,jadeite,N/A,N/A,intense green,good translucency,27.05 x 33.15 x 1.81mm; 13.30 x 7.13 x 2.25mm; 15.90 x 6.12 x 4.62mm,1.8,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Endless Knot,N/A,N/A,S.P.Yu Gem Testing Laboratory,19598-J,minute white patches; white mottling with occasional white patches and green veins,Burma,3,"Property of a Lady
+å¥³ä»ç§äººçèJADEITE AND DIAMOND 'ENDLESS KNOT' BROOCH; AND TWO PAIRS OF JADEITE AND DIAMOND PENDENT EARRINGS
+å¤©ç¶ç¿¡ç¿ éé½ç³ãå¦æçµãå¥éï¼åå¤©ç¶ç¿¡ç¿ éé½ç³ãè«èãåãæ·å¤ãåå¢è³ç°å©å°
+Certificates: 3 HKJSL, selected jadeites, natural, type A 
+(SJ 258498, SJ 258499 and SJ 258497, 30 July 2026)
+Jadeite on brooch: approx. 27.05 x 33.15 x 1.81mm
+Selected jadeites on earrings: approx. 13.30 x 7.13 x 2.25mm and 15.90 x 6.12 x 4.62mm
+Metal: 18 karat white gold
+Brooch dimensions: 3.7 x 3.1cm
+Earring lengths: 2.8cm and 3.2cm
+Gross weight: brooch 12.2g; earrings 5.9g and 7.3g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25894651-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1181/jadeite-and-diamond-endless-knot-brooch-and-two-pairs-of-jadeite-and-diamond-pendent-earrings-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6180.89,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4210.0,3508.3333333333335
+2754cdfb-542e-4cf6-9e66-79257066b619,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1182,HKD,38000,60000,N/A,N/A,4866.84,7684.49,N/A,N/A,"JADEITE, GEM-SET AND DIAMOND 'BUTTERFLY' BROOCH/PENDANT",N/A,N/A,N/A,KJ 109180,stamped 750,white gold,18 karat,white,34.8,N/A,brooch/pendant,N/A,N/A,N/A,7.2,N/A,2,N/A,N/A,jadeite,N/A,N/A,green,good translucency,46.61 x 18.69 x 2.89,2.49,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,butterfly,N/A,N/A,HKJSL,KJ 109180,Some cotton-like natural inclusions are noticeable under strong direct lighting.,N/A,1,"JADEITE, GEM-SET AND DIAMOND 'BUTTERFLY' BROOCH/PENDANT
+å¤©ç¶ç¿¡ç¿ éç´å¯¶ç³åé½ç³ãè´è¶ãå¥é
+Certificate: HKJSL, selected jadeite, natural, type A 
+(KJ 109180, 29 July 2026)
+Selected jadeite: approx. 46.61 x 18.69 x 2.89mm
+Diamonds: stamped 2.49cts
+Metal: 18 karat white gold
+Dimensions: 7.2 x 6.4cm
+Gross weight: 34.8g",https://images3.bonhams.com/image?src=Images/live/2026-08/25/25899404-4-6.jpg,https://www.bonhams.com/auction/32082/lot/1182/jadeite-gem-set-and-diamond-butterfly-broochpendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.06,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6825.0,5687.5
+c70f7618-d56c-4b64-a841-eee1083f673a,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1183,HKD,10000,20000,15360,12000,1280.75,2561.5,1967.23,1536.9,UNMOUNTED SPINEL,N/A,N/A,N/A,6515497275,N/A,N/A,N/A,N/A,5.68,N/A,gemstone,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,spinel,5.68,cushion,pink,"very good polish, minute silks and crystals",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GIA,1,N/A,0,natural,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GIA,6515497275,minute silks and crystals which are typical natural inclusions,N/A,1,"UNMOUNTED SPINEL
+5.68åæå¤©ç¶æªç¶å ç±èçå°æ¶ç³
+Certificate: GIA, spinel, natural, 5.68cts, pink, unheated
+(6515497275, 25 February 2025)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/30010881-2-2.jpg,https://www.bonhams.com/auction/32082/lot/1183/unmounted-spinel/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,2430.09,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2300.0,1916.6666666666667
+8c4b9812-170d-49ca-92ae-bd2dc9a3c6db,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1184,HKD,28000,38000,N/A,N/A,3586.1,4866.84,N/A,N/A,UNMOUNTED JADEITE PLAQUE,N/A,N/A,N/A,SJ 253681,N/A,N/A,N/A,N/A,N/A,N/A,Jadeite,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,jadeite,N/A,plaque,green,medium intense tone and saturation,approx. 34.78 x 20.81 x 4.59mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 253681,"Two natural minor surface-reaching fissures can be spotted with coloured substance infused on the two long length-sides, extending to the back.",N/A,1,"UNMOUNTED JADEITE PLAQUE
+å¤©ç¶ç¿¡ç¿ 
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 253681, 1 April 2026)
+Jadeite: approx. 34.78 x 20.81 x 4.59mm",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25886141-8-2.jpg,https://www.bonhams.com/auction/32082/lot/1184/unmounted-jadeite-plaque/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6180.48,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4320.0,3600.0
+5997eb44-b8f6-483f-8686-77cccb6c48d3,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1185,HKD,120000,180000,153600,120000,15368.98,23053.48,19672.3,15368.98,RUBY AND DIAMOND BRACELET,N/A,N/A,N/A,GRS2022-038482,stamped 750,18 karat white and yellow gold,750,white and yellow,13.3,N/A,bracelet,N/A,16.7,N/A,N/A,N/A,29,N/A,N/A,ruby,15.94,N/A,vivid red,almost loupe-clean with occasional typical feather and crystal inclusions,N/A,2.71,G-H,N/A,VVS-VS,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GRS,GRS2022-038482,almost loupe-clean with occasional typical feather and crystal inclusions,Mozambique,1,"RUBY AND DIAMOND BRACELET
+ç´å¯¶ç³éé½ç³æé
+Certificate: GRS, selected five rubies, natural, vivid red ('GRS-type pigeon blood ruby'), Mozambique, unheated; along with appendixes 
+(GRS2022-038482, 16 March 2022)
+Rubies: 29pcs, stamped 15.94cts
+Diamonds: stamped 2.71cts
+Metal: 18 karat white and yellow gold
+Length: 16.7cm
+Gross weight: 13.3g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25903884-3-3.jpg,https://www.bonhams.com/auction/32082/lot/1185/ruby-and-diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,25819.13,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,19800.0,16500.0
+c52d4e01-56d0-4004-b819-d703cb54e9d7,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1186,HKD,16000,23000,N/A,N/A,2049.2,2945.72,N/A,N/A,UNMOUNTED SPESSARTINE GARNET,N/A,N/A,N/A,B43646,N/A,N/A,N/A,N/A,5.41,N/A,gemstone,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,spessartine garnet,5.41,round,reddish orange,loupe-clean,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,1,N/A,0,natural,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,B43646,"Minor nicks can be spotted under 10x magnification, mostly concentrated on the culet.",N/A,1,"UNMOUNTED SPESSARTINE GARNET
+5.41åæå¤©ç¶æªç¶èçç´æ©è²é³éç³æ¦´ç³
+Certificate: Bellerophon, spessartine-garnet, natural, 5.412cts, reddish orange, untreated
+(B43646, 3 April 2025)",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25741323-8-2.jpg,https://www.bonhams.com/auction/32082/lot/1186/unmounted-spessartine-garnet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3564.14,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2600.0,2166.666666666667
+ac54de61-7078-49b5-925f-75bc341435a3,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1187,HKD,20000,30000,25600,20000,2561.5,3842.25,3278.72,2561.5,JADEITE AND DIAMOND 'GUANYIN' PENDANT,N/A,N/A,N/A,SJ 251595,stamped G14K,white gold,14 karat,white,14.0,N/A,pendant,N/A,N/A,N/A,4.9,N/A,1,N/A,N/A,jadeite,N/A,rectangular,intense green,good clarity,39.98 x 25.41 x 3.27,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,HKJSL,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Guanyin,N/A,N/A,HKJSL,SJ 251595,very few minute brown veins and dark green specks that are not visible under natural light,N/A,1,"JADEITE AND DIAMOND 'GUANYIN' PENDANT
+å¤©ç¶ç¿¡ç¿ éé½ç³ãè§é³ãåå¢
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 251595, 27 January 2026)
+Jadeite: approx. 39.98 x 25.41 x 3.27mm
+Metal: 14 karat white gold
+Length: 4.9cm
+Gross weight: 14.0g",https://images3.bonhams.com/image?src=Images/live/2026-02/11/25812023-4-4.jpg,https://www.bonhams.com/auction/32082/lot/1187/jadeite-and-diamond-guanyin-pendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4860.19,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+5dacf5fc-5093-437f-8209-35e155559148,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1188,HKD,18000,28000,25600,20000,2305.35,3586.1,3278.72,2561.5,JADEITE AND DIAMOND 'LAUGHING BUDDHA' PENDANT,N/A,N/A,N/A,SJ 251596,stamped G14K,white gold,14 karat,white,12.9,N/A,pendant,3.5,N/A,N/A,3.5,N/A,1,1,N/A,jadeite,N/A,cabochon,intense green,eye-clean and almost loupe-clean,approx. 26.08 x 31.32 x 2.45mm,0.573,H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Buddha,N/A,N/A,HKJSL,SJ 251596,very few inclusions that are hard to notice,N/A,1,"JADEITE AND DIAMOND 'LAUGHING BUDDHA' PENDANT
+å¤©ç¶ç¿¡ç¿ éé½ç³ãå½åä½ãåå¢
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 251596, 27 January 2026)
+Jadeite 'buddha': approx. 26.08 x 31.32 x 2.45mm
+Metal: 14 karat white gold
+Length: 3.5cm
+Gross weight: 12.9g",https://images3.bonhams.com/image?src=Images/live/2026-02/26/25812023-5-4.jpg,https://www.bonhams.com/auction/32082/lot/1188/jadeite-and-diamond-laughing-buddha-pendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4879.68,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+d6df84c3-573e-4e6a-8570-7a2e04acdae5,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1189,HKD,15000,28000,N/A,N/A,1921.12,3586.1,N/A,N/A,CONCH PEARL AND DIAMOND RING,N/A,N/A,N/A,2477102131,stamped Pt900,platinum,900,white,12.2,6,ring,N/A,N/A,N/A,N/A,N/A,1,N/A,1,conch pearl,1.66,off-round,pink,N/A,N/A,0.85,F-G,N/A,VS or better,N/A,N/A,N/A,GIA,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,natural saltwater,N/A,1,pink,N/A,N/A,N/A,N/A,N/A,GIA,2477102131,very subtle flame-structure noticeable,N/A,1,"CONCH PEARL AND DIAMOND RING
+å¤©ç¶æªç¶èçæµ·èºç éé½ç³ææ
+Certificate: GIA, conch pearl, natural, pink, Saltwater, untreated
+(2477102131, 20 July 2023)
+Conch pearl: stamped 1.66cts
+Metal: platinum
+Ring size: 6
+Gross weight: 12.2g",https://images3.bonhams.com/image?src=Images/live/2024-04/23/25510365-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1189/conch-pearl-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3572.14,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+13164d15-c07f-48ea-bd70-a75e1f0a5622,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1190,HKD,15000,25000,17920,14000,1921.12,3201.87,2295.1,1793.05,"GROUP OF CULTURED PEARL, GEM-SET, COLOURED DIAMOND AND DIAMOND JEWELLERY",N/A,N/A,N/A,N/A,"Earring backs stamped 750, earrings mount and backs tested for 18K. Ring stamped 750 and tested for 18K.","white gold, blackened gold","6 to 12 karat, 18 karat","white, blackened",31.7,6½,jewelry set,2.5,N/A,5.3,2.5,N/A,N/A,N/A,3,pink sapphire,N/A,N/A,red,N/A,"approx. 11.95mm, 11.20mm, 11.25mm",N/A,G-H-I,N/A,"VS-SI, a few I1",N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,11.95,3,black with rosé overtone,N/A,N/A,N/A,N/A,N/A,N/A,N/A,some subtle blemishes to closer inspection but not obvious to naked eye and when worn,N/A,3,"GROUP OF CULTURED PEARL, GEM-SET, COLOURED DIAMOND AND DIAMOND JEWELLERY
+é¤æ®çç éé½ç³åå¢åè³ç°å¥è£ï¼åå½©è²å¯¶ç³éå½©è²é½ç³åé½ç³ææ
+Cultured pearls: pendant approx. 11.95mm; earrings approx. 11.20 and 11.25mm 
+Metal: pendant in 6 to 12 karat white gold; earrings and ring in 18 karat white and blackened gold
+Lengths: pendant 2.5cm; earring 5.3cm
+Ring size: 6Â½
+Gross weight: pendant 5.8g; earrings 7.9g; ring 18.0g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2025-08/22/25666231-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1190/group-of-cultured-pearl-gem-set-coloured-diamond-and-diamond-jewellery-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3564.14,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2730.0,2275.0
+c8d51d3c-1517-45c8-a7c7-515052430315,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1191,HKD,10000,20000,7680,6000,1280.75,2561.5,983.61,768.45,BICOLOURED CULTURED PEARL AND DIAMOND 'TULIP' BROOCH,N/A,N/A,N/A,N/A,"unstamped, tested for 14K, pin tested for 10K",white gold,14K and 10K,white,21.9,N/A,brooch,N/A,N/A,N/A,N/A,N/A,2,N/A,2,cultured pearl,1.3,round,white and intense reddish grey,eye-clean and not eye-clean,approx. 13.85 x 13.60 and 12.00mm,1.3,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,2,white and reddish grey,N/A,N/A,tulip,N/A,N/A,N/A,N/A,few minute abrasions and polish marks detected on the visible area only under 10x magnification,N/A,1,"BICOLOURED CULTURED PEARL AND DIAMOND 'TULIP' BROOCH
+éè²é¤æ®çç éé½ç³ãé¬±éé¦ãå¥é
+Cultured pearls: approx. 13.85 x 13.60 and 12.00mm
+Diamonds: approx. 1.30cts
+Metal: 14 and 10 karat white gold
+Dimensions: 8.2 x 3.5cm
+Gross weight: 21.9g",https://images3.bonhams.com/image?src=Images/live/2024-08/01/25538125-9-1.jpg,https://www.bonhams.com/auction/32082/lot/1191/bicoloured-cultured-pearl-and-diamond-tulip-brooch/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,1944.08,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2100.0,1750.0
+9a8951cf-ac88-4192-8061-9a61c66b4c0d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1192,HKD,18000,36000,23040,18000,2305.35,4610.7,2950.84,2305.35,CULTURED PEARL AND DIAMOND BANGLE,N/A,N/A,N/A,N/A,"unstamped, tested 18K",white gold,18 karat,white,78.9,N/A,bangle,N/A,16.0,N/A,N/A,N/A,14,N/A,N/A,cultured pearl,N/A,round to off-round,grey bodycolour with rosé and silver overtones,lightly spotted surfaces with some blemishes and pits,approx. 14.88 - 12.30mm,3.5,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,cultured,N/A,N/A,grey,good,N/A,N/A,N/A,N/A,N/A,N/A,Natural colour and origin remain untested,N/A,1,"CULTURED PEARL AND DIAMOND BANGLE
+é¤æ®çç éé½ç³æé²
+Cultured pearls: approx. 14.88 - 12.30mm
+Metal: 18 karat white gold
+Inner circumference: 16.0cm
+Gross weight: 78.9g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25881847-6-1.jpg,https://www.bonhams.com/auction/32082/lot/1192/cultured-pearl-and-diamond-bangle/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4841.26,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3450.0,2875.0
+6b82f9b7-c26e-47af-a5e5-3b771181ebe1,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1193,HKD,55000,110000,N/A,N/A,7044.12,14088.23,N/A,N/A,Diamond 'Oera' Bangle and Ring,TABAYER,N/A,N/A,T2428 (on bangle) and T4341 (on ring),stamped Au750,yellow gold,18 karat,yellow,41.8,7¼,bangle and ring,N/A,17.0,N/A,N/A,N/A,2,2,N/A,diamond,1.2,N/A,F-G-H,VS-SI,N/A,1.24,F-G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Visible scratch on the bottom side of the bangle,N/A,2,"TABAYER: DIAMOND 'OERA' BANGLE AND RING
+Tabayerï¼ãOeraãé½ç³æé²åææ
+Signature: TABAYER, no. T2428(on bangle) and T4341 (on ring)
+Diamonds: approx. 1.20cts
+Metal: 18 karat yellow gold
+Inner circumference: 17.0cm
+Ring size: 7Â¼ 
+Gross weight: bangle 22.7g; ring 19.1g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25881847-7-1.jpg,https://www.bonhams.com/auction/32082/lot/1193/tabayer-diamond-oera-bangle-and-ring-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,16414.7,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,11200.0,9333.333333333334
+9d18aa45-da77-4b4c-93cc-1141401ab0a7,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1194,HKD,65000,130000,N/A,N/A,8324.87,16649.73,N/A,N/A,DIAMOND AND GEM-SET NECKLACE AND EARRING SET,N/A,N/A,N/A,N/A,stamped 750,pink gold,18 karat,pink,48.6,N/A,necklace and earring set,44.5,N/A,4.7,6.3,N/A,N/A,N/A,N/A,morganite,N/A,N/A,N/A,minute needle inclusions under 10x magnification,N/A,14.5,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,minute needle inclusions can be observed under 10x magnification,N/A,2,"DIAMOND AND GEM-SET NECKLACE AND EARRING SET
+é½ç³éå½©è²å¯¶ç³é éåè³ç°å¥è£
+Metal: 18 karat pink gold
+Length: pendant 6.3cm; chain 44.5 and 42.0cm; earring 4.7cm
+Gross weight: necklace 22.4g; earrings 26.2g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25881847-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1194/diamond-and-gem-set-necklace-and-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,12300.0,10250.0
+f1b51cdc-ae65-4fba-8b3e-d2b9cd691e3d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1195,HKD,50000,100000,N/A,N/A,6403.74,12807.49,N/A,N/A,Cultured Pearl and Diamond Ring; and Diamond Bangle,N/A,N/A,N/A,N/A,both stamped 18K 750,white gold,18 karat,white,33.6,6,ring; bangle,N/A,16.0,N/A,N/A,N/A,2,20,1,cultured pearl,N/A,round,creamy-white with silver overtone,very lightly spotted surface with minute blemishes,approx. 14.63mm,20.0,H-I,N/A,VS-I1,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,14.63,1,creamy-white,good,N/A,N/A,N/A,N/A,N/A,N/A,minute signs of wear,N/A,2,"CULTURED PEARL AND DIAMOND RING; AND DIAMOND BANGLE
+é¤æ®çç éé½ç³ææï¼åé½ç³æé²
+Cultured pearl: approx. 14.63mm
+Diamonds: approx. 20.00cts total 
+Metal: 18 karat white gold
+Ring size: 6
+Inner circumference: 16.0cm
+Gross weight: ring 13.2g; bangle 20.4g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25882344-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1195/cultured-pearl-and-diamond-ring-and-diamond-bangle-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.56,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+a46c7668-8108-4f0b-9d92-054b38563ecd,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1196,HKD,16000,32000,20480,16000,2049.2,4098.4,2622.97,2049.2,"MOTHER-OF-PEARL, ONYX AND DIAMOND 'THE HEARTS' SUITE",YVONNE LÉON,N/A,N/A,N/A,"Yvonne Leon, maker's and convention marks",yellow gold,18 and 9 karat,yellow,34.8,N/A,"suite (necklace, bracelet, earrings)",50.5,18.5,1.7,3.2,N/A,N/A,N/A,N/A,"mother-of-pearl, onyx",N/A,heart,white,N/A,N/A,N/A,G-H,N/A,VS-I1,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,hearts,N/A,N/A,N/A,N/A,Very minute abrasions on the edges upon very close inspection.,N/A,3,"Property of a Lady
+å¥³ä»ç§äººçèYVONNE LÃON: MOTHER-OF-PEARL, ONYX AND DIAMOND 'THE HEARTS' SUITE
+Yvonne LÃ©onï¼çç è²æ¯éç¸çªçåé½ç³ãThe Heartsãåå¢é éãæéåè³ç°å¥è£
+Signature: Yvonne Leon, maker's and convention marks
+Accompaniment: two signed cases
+Metal: 18 and 9 karat yellow gold
+Length: pendant 3.2cm; chain 50.5cm; bracelet 18.5cm
+Earring dimension: 1.5 x 1.7cm
+Gross weight: necklace 13.3g; bracelet 16.1g; earrings 5.4g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25865713-4-1.jpg,https://www.bonhams.com/auction/32082/lot/1196/yvonne-leon-mother-of-pearl-onyx-and-diamond-the-hearts-suite-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4536.18,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3700.0,3083.3333333333335
+175ae403-1e20-43b1-a2b5-80861d6890f4,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1197,HKD,30000,50000,N/A,N/A,3842.25,6403.74,N/A,N/A,"Emerald and Diamond Pendant Necklace, Diamond Necklace and Bracelet",N/A,N/A,N/A,N/A,stamped 750 and Pt950,platinum and 18 karat white gold,750 and Pt950,white,13.8,N/A,necklace and bracelet,39.5,17.5,N/A,N/A,N/A,1,3,N/A,emerald,1.52,N/A,green,minor typical inclusions,N/A,1.05,F-G,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minor typical inclusions such as crystals and fissures are noticeable only under 10x magnification. Very minute nicks on the girdle.,N/A,3,"EMERALD AND DIAMOND PENDANT NECKLACE, DIAMOND NECKLACE AND BRACELET
+ç¥æ¯ç¶ éé½ç³åå¢é éï¼åé½ç³é éåæé
+Emerald: stamped 1.52cts
+Diamonds: stamped 1.05cts total
+Metal: platinum and 18 karat white gold 
+Length: emerald necklace 39.5cm; diamond-set necklace 40.0cm; bracelet 17.5cm
+Gross weight: emerald necklace 6.7g; diamond-set necklace 4.0g; bracelet 3.1g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25886141-7-1.jpg,https://www.bonhams.com/auction/32082/lot/1197/emerald-and-diamond-pendant-necklace-diamond-necklace-and-bracelet-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5175.0,4312.5
+bf371a55-5e21-4bae-bc8a-1c9ba3d2eaaa,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1198,HKD,36000,70000,46080,36000,4610.7,8965.24,5901.69,4610.7,ENAMEL AND DIAMOND BROOCH AND EARCLIP SET,N/A,N/A,N/A,N/A,all stamped 750,white gold,18 karat,white,66.0,N/A,brooch and earclip set,N/A,N/A,3.4,8.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.7,F-G-H,N/A,VS-SI1,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Very minute signs of wear,N/A,2,"Property from a Private Collection
+ç§äººæ¶èENAMEL AND DIAMOND BROOCH AND EARCLIP SET
+çºç¯éé½ç³å¥éåè³å¤¾å¥è£
+Metal: 18 karat white gold
+Brooch length: 8.5cm
+Earclip dimensions: 3.4 x 2.2cm
+Gross weight: brooch 41.9g; earclips 24.1g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-6-1.jpg,https://www.bonhams.com/auction/32082/lot/1198/enamel-and-diamond-brooch-and-earclip-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10444.97,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7200.0,6000.0
+f3d10e2e-dcfc-4773-8edd-7a3bd1a999ce,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1199,HKD,38000,75000,N/A,N/A,4866.84,9605.61,N/A,N/A,GEM-SET AND DIAMOND 'FLOWER' BROOCH/PENDANT; AND LAVENDER JADEITE PENDANT,N/A,N/A,N/A,N/A,stamped Au750,18 karat yellow gold and non-gold metal,18K,yellow,42.0,N/A,brooch/pendant,N/A,N/A,N/A,5.6,N/A,N/A,N/A,N/A,jadeite,N/A,N/A,lavender,N/A,45.01 x 26.54 x 8.47,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 255117,"Minute surface-reaching inclusions can be observed near the upper right prong of the emerald; minor typical inclusions such as feathers, crystals, and fingerprints can be observed in the pink sapphires.",N/A,2,"GEM-SET AND DIAMOND 'FLOWER' BROOCH/PENDANT; AND LAVENDER JADEITE PENDANT
+å½©è²å¯¶ç³éé½ç³å¥é/åå¢ï¼åå¤©ç¶ç´«è²ç¿¡ç¿ åå¢
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 255117, 8 May 2026)
+Jadeite: approx. 45.01 x 26.54 x 8.47mm
+Metal: 18 karat yellow gold and non-gold metal (on pin)
+Dimensions: gem-set 6.0 x 3.4cm; jadeite 5.6 x 2.6cm
+Gross weight: gem-set 19.4g; jadeite 22.6g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-10-2.jpg,https://www.bonhams.com/auction/32082/lot/1199/gem-set-and-diamond-flower-broochpendant-and-lavender-jadeite-pendant-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7260.0,6050.0
+bd69445a-2ab5-4d1e-ac04-25a4fc41813d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1200,HKD,30000,60000,12160,9500,3842.25,7684.49,1557.39,1216.71,TWO LAVENDER JADEITE BEAD NECKLACES,N/A,N/A,N/A,N/A,both stamped 750,white gold,18 karat,white,245.8,N/A,necklaces,57.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,jadeite,N/A,N/A,lavender,N/A,approx. 13.94 and 13.22mm,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 257136 and SJ 257137,"Under strong direct light source, yellow patches and inconsistent colouring of the beads detected.",N/A,2,"TWO LAVENDER JADEITE BEAD NECKLACES
+å¤©ç¶ç´«è²ç¿¡ç¿ ä¸²ç é éå©æ¢
+Certificates: 2 HKJSL, selected jadeites, natural, type A 
+(SJ 257136 and SJ 257137, 25 June 2026)
+Selected jadeites: approx. 13.94 and 13.22mm
+Metal: 18 karat white gold
+Length: 43pcs, 57.5cm; 42pcs, 57.0cm
+Gross weight: 125.5g and 120.3g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-12-2.jpg,https://www.bonhams.com/auction/32082/lot/1200/two-lavender-jadeite-bead-necklaces-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.81,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5760.0,4800.0
+709f6ac7-0261-4fa0-9e4c-f5f6adc6123e,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1201,HKD,26000,50000,N/A,N/A,3329.95,6403.74,N/A,N/A,PINK SAPPHIRE AND DIAMOND RING,N/A,N/A,N/A,2517884106,stamped 18K,white gold,18 karat,white,7.1,6,ring,N/A,N/A,N/A,N/A,N/A,2,2,N/A,pink sapphire,1.97,pear,pink,excellent clarity overall,N/A,1.983,G-H,N/A,VS-SI,N/A,N/A,N/A,GIA,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GIA,2517884106,very minute pits observed on the crown facet for one of the pink sapphires but not obvious to the unaided eye,N/A,1,"PINK SAPPHIRE AND DIAMOND RING
+ç²ç´è²åçéé½ç³ææ
+Certificate: GIA, selected sapphire, natural, pink, unheated
+(2517884106, 30 April 2025)
+Pink sapphires: stamped 1.97cts
+Diamonds: stamped 1.983cts total
+Metal: 18 karat white gold
+Ring size: 6
+Gross weight: 7.1g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25854897-1-3.jpg,https://www.bonhams.com/auction/32082/lot/1201/pink-sapphire-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,5199.11,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5700.0,4750.0
+64de3bf0-9775-47d6-a059-6c67107793ed,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1202,HKD,30000,60000,38400,30000,3842.25,7684.49,4918.07,3842.25,PINK SAPPHIRE 'HEPBURN' CHOKER AND BRACELET SET,ANITA KO,N/A,N/A,N/A,"Anita Ko, stamped 18K 750",pink gold,18 karat,pink,19.2,N/A,choker and bracelet set,40.5,16.3,N/A,N/A,N/A,N/A,N/A,N/A,pink sapphire,9.95,N/A,pink,minor typical inclusions such as clouds and feathers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Minute signs of wear, well-matched in colour overall",N/A,2,"Property of a Lady
+å¥³ä»ç§äººçèANITA KO: PINK SAPPHIRE 'HEPBURN' CHOKER AND BRACELET SET
+Anita Koï¼ãHepburnãç²ç´è²åçé éåæéå¥è£
+Signature: Anita Ko
+Pink Sapphires: approx. 9.95cts total
+Metal 18 karat pink gold
+Length: necklace 40.5cm; bracelet 16.3cm
+Gross weight: necklace 13.4g; bracelet 5.8g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25865713-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1202/anita-ko-pink-sapphire-hepburn-choker-and-bracelet-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5760.0,4800.0
+c23755db-06c0-4f13-a1a8-e24fc3b727a2,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1203,HKD,90000,180000,108800,85000,11526.74,23053.48,13934.55,10886.36,DIAMOND NECKLACE,N/A,N/A,N/A,5116519460,stamped Au585,pink gold,14 karat,pink,29.7,N/A,necklace,45.3,N/A,N/A,N/A,N/A,N/A,25,N/A,N/A,N/A,N/A,N/A,N/A,N/A,25.08,K,N/A,VS2,Excellent Cut,N/A,N/A,GIA,1,N/A,0,natural,1,N/A,N/A,Excellent,Excellent,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GIA,5116519460,"Approximate colour and clarity: I-J-K-L-M colour, VS-SI clarity with an occasional of I1. Graded mounted.",N/A,1,"DIAMOND NECKLACE
+é½ç³é é
+Certificate: GIA, selected diamond, 1.14cts, K, VS2, Excellent Cut, Polish and Symmetry 
+(5116519460, 5 June 2026) 
+Diamonds: stamped 25.08cts total
+Metal: 14 karat pink gold
+Length: 45.3cm
+Gross weight: 29.7g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-11-2.jpg,https://www.bonhams.com/auction/32082/lot/1203/diamond-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,16438.49,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,19800.0,16500.0
+bf98b671-e5fd-469d-a693-ff05f5e97ebe,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1204,HKD,15000,30000,19200,15000,1921.12,3842.25,2459.04,1921.12,"GEM-SET AND DIAMOND PENDANT NECKLACE, RING AND EARRINGS",N/A,N/A,N/A,N/A,Earrings stamped 750; Pendant and ring stamped 14k and 585; Chain and key pendant stamped 10K and 375 with convention mark,yellow and white gold,"18, 14 and 10 karat",yellow and white,21.5,7,"necklace, ring, earrings",40.0,N/A,2.8,3.9,N/A,N/A,N/A,N/A,corundum (rubies),N/A,N/A,"red hue, medium tone, strong saturation","Minor typical inclusions such as silks, feathers and crystals",N/A,N/A,H-I,N/A,SI-I1,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute abrasions on edges and hairline scratches can be observed occasionally but not affecting the overall appearance.,N/A,3,"Property of a Lady
+å¥³ä»ç§äººçèGEM-SET AND DIAMOND PENDANT NECKLACE, RING AND EARRINGS
+å½©è²å¯¶ç³éé½ç³åå¢é éãææåè³ç° 
+Metal: 18, 14 and 10 karat yellow and white gold
+Length: pendant 3.9cm; chain 40.0cm; earring 2.8cm
+Ring size: 7
+Gross weight: necklace 7.7g; ring 6.1g; earrings 7.7g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25865713-6-1.jpg,https://www.bonhams.com/auction/32082/lot/1204/gem-set-and-diamond-pendant-necklace-ring-and-earrings-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3240.13,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+c351cd3a-1a56-4cc3-848d-609c71fee81d,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1205,HKD,15000,30000,19200,15000,1921.12,3842.25,2459.04,1921.12,Pink Opal 'Rose' Pendant Necklace and Pendant Earring Set; Morganite and Gem-Set Pendant Necklace,Dolce & Gabbana; Jacquie Aiche,N/A,N/A,N/A,Dolce & Gabbana and Italian maker's mark,yellow gold,18 and 14 karat,yellow,23.2,N/A,necklace and earring set; pendant necklace,55.5,N/A,3.5,3.5,N/A,N/A,9,N/A,pink opal; morganite; diamonds; colored gemstones,0.6,N/A,pink,subtle surface reaching inclusions; small fissure inclusions,N/A,0.6,H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,rose,N/A,N/A,N/A,N/A,A couple beads have surface reaching inclusions; a couple small fissure inclusions detected.,N/A,3,"Property of a Lady
+å¥³ä»ç§äººçèDOLCE & GABBANA: PINK OPAL 'ROSE' PENDANT NECKLACE AND PENDENT EARRING SET; AND JACQUIE AICHE: UNSIGNED MORGANITE AND GEM-SET PENDANT NECKLACE
+Dolce & Gabbanaï¼ç²ç´è²èç½ç³åå¢é éåè³ç°å¥è£ï¼Jacquise Aicheï¼å½©è²å¯¶ç³åå¢é é
+Signature: Dolce & Gabbana and Italian maker's mark
+Accompaniment: two signed cases and guarantee certificates
+Metal: 18 and 14 karat yellow gold
+Length: D&G pendant 3.5cm; necklace 55.5cm; earring 3.5cm; pendant 2.3cm; necklace 80.5cm
+Gross weight: D&G necklace 7.1g; earrings 6.4g; necklace 9.7g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25865713-1-2.jpg,https://www.bonhams.com/auction/32082/lot/1205/dolce-and-gabbana-pink-opal-rose-pendant-necklace-and-pendent-earring-set-and-jacquie-aiche-unsigned-morganite-and-gem-set-pendant-necklace-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4841.28,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+0799638d-8fa4-47be-9ac9-16570c432799,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1206,HKD,12000,18000,17920,14000,1536.9,2305.35,2295.1,1793.05,MULTI-COLOURED SAPPHIRE AND DIAMOND RING AND BRACELET,N/A,N/A,N/A,N/A,Ring stamped 14K 585; bracelet stamped 585,14 karat white and yellow gold,14K,white and yellow,19.3,7¼,ring and bracelet,N/A,16.5,N/A,N/A,N/A,N/A,N/A,N/A,sapphire,4.9,N/A,"orange, yellow, pink, blue",moderate clarity,N/A,N/A,G-H-I-J,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,one prong broken,N/A,2,"MULTI-COLOURED SAPPHIRE AND DIAMOND RING AND BRACELET
+å½©è²åçéé½ç³ææåæé
+Coloured sapphires: approx. 4.90cts
+Metal: 14 karat white and yellow gold
+Ring size: 7Â¼
+Bracelet length: 16.5cm
+Gross weight: ring 9.3g; bracelet 10.0g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2025-09/08/25729322-3-3.jpg,https://www.bonhams.com/auction/32082/lot/1206/multi-coloured-sapphire-and-diamond-ring-and-bracelet-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,2430.09,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+d68ad7fa-98a6-4e5c-b58e-0c838e11872f,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1207,HKD,40000,60000,51200,40000,5122.99,7684.49,6557.43,5122.99,"DIAMOND, COLOURED DIAMOND AND RUBY NECKLACE",N/A,N/A,N/A,N/A,stamped 750,18 karat pink and blacken gold,750,pink and black,49.7,N/A,necklace,41.0,N/A,N/A,N/A,N/A,3,9,N/A,"diamond, coloured diamond, ruby",13.75,N/A,"brown tint for coloured diamonds, red hue for rubies","VS-SI for coloured diamonds, VS for diamonds",N/A,9.5,I-J,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,black coloured mounting,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Very minute pit on the table but hardly noticeable to the unaided eyes.,Southeast Asia,1,"Property from a Southeast Asian Collection
+æ±åäºèå®¶çèDIAMOND, COLOURED DIAMOND AND RUBY NECKLACE
+é½ç³éå½©è²é½ç³åç´å¯¶ç³é é
+Diamonds and coloured diamonds: approx. 10.75cts
+Rubies: approx. 3.00cts
+Metal: 18 karat pink and blacken gold
+Length: 41.0cm
+Gross weight: 49.7g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25890297-4-1.jpg,https://www.bonhams.com/auction/32082/lot/1207/diamond-coloured-diamond-and-ruby-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.81,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6830.0,5691.666666666667
+fbc0bf03-79a3-4706-861d-298160edc49a,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1208,HKD,26000,50000,33280,26000,3329.95,6403.74,4262.33,3329.95,"GEM-SET, COLOURED DIAMOND AND DIAMOND 'DRAGONFLY' BROOCH AND RING",N/A,N/A,N/A,N/A,unstamped and tested 18K,yellow gold,18 karat,yellow,47.0,8,brooch and ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"sapphire, citrine",N/A,N/A,"yellow, orange, red",eye-clean,not specified,2.5,"brown, yellow, grey",N/A,SI-I1 on brooch; VS2-I1 on ring,N/A,N/A,N/A,N/A,0,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,dragonfly,N/A,N/A,N/A,N/A,one diamond deficient on ring,N/A,2,"Property from a Private Collection
+ç§äººæ¶èGEM-SET, COLOURED DIAMOND AND DIAMOND 'DRAGONFLY' BROOCH AND RING
+å½©è²å¯¶ç³éå½©è²é½ç³åé½ç³ãè»èãå¥éåææ
+Metal: 18 karat yellow gold
+Brooch dimensions: 8.4 x 10.0cm
+Ring size: 8
+Gross weight: brooch 36.0g; ring 11.0g
+ one diamond deficient on ring (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25888116-14-1.jpg,https://www.bonhams.com/auction/32082/lot/1208/gem-set-coloured-diamond-and-diamond-dragonfly-brooch-and-ring-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.24,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+6202ccd9-0e2d-417c-ab38-3e8854bd5188,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1209,HKD,50000,100000,N/A,N/A,6403.74,12807.49,N/A,N/A,JADEITE AND DIAMOND RING/PENDANT,N/A,N/A,N/A,SJ 256879,stamped 585,yellow gold,14 karat,yellow,18.5,6½,ring/pendant,N/A,N/A,N/A,3.8,N/A,1,12,N/A,jadeite,N/A,oval,green,good translucency,approx. 18.92 x 14.34 x 3.88mm,3.648,G-H,N/A,VS-SI with occasional few of I clarity,N/A,N/A,N/A,HKJSL,1,N/A,0,natural,1,diamond-set bail,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 256879,white patches and veins can be observed and mostly concentrated in the two ends of the jadeite,N/A,1,"JADEITE AND DIAMOND RING/PENDANT
+å¤©ç¶ç¿¡ç¿ éé½ç³ææ/åå¢
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 256879, 12 June 2026)
+Jadeite: approx. 18.92 x 14.34 x 3.88mm
+Diamonds: approx. 3.60cts
+Metal: 14 karat yellow gold
+Ring size: 6Â½
+Pendant dimensions: 3.8 x 2.6cm
+Gross weight: 18.5g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25882344-8-2.jpg,https://www.bonhams.com/auction/32082/lot/1209/jadeite-and-diamond-ringpendant/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+eb8cac37-b023-4ff0-a328-1433ec3901a0,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1210,HKD,40000,60000,51200,40000,5122.99,7684.49,6557.43,5122.99,"JADEITE, GEM-SET AND DIAMOND 'FEATHER' BROOCH",N/A,N/A,N/A,SJ 257895,"unstamped, tested 18K",white and yellow gold,18 karat,white and yellow,34.1,N/A,brooch,N/A,N/A,N/A,8.0,N/A,3,N/A,N/A,"jadeite, rubies",N/A,pear,green,Good translucency,approx. 14.23 x 11.36 x 3.58mm,N/A,G-H-I,N/A,VS-SI,N/A,N/A,N/A,HKJSL,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,feather,N/A,N/A,HKJSL,SJ 257895,"Subtle white patches, minute veins, minute chips and typical inclusions observed in certain rubies",N/A,1,"Property of a Lady
+å¥³ä»ç§äººçèJADEITE, GEM-SET AND DIAMOND 'FEATHER' BROOCH
+å¤©ç¶ç¿¡ç¿ éç´å¯¶ç³éé½ç³å¥é
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 257895, 13 July 2026)
+Jadeite: approx. 14.23 x 11.36 x 3.58mm
+Metal: 18 karat white and yellow gold
+Length: 8.0cm
+Gross weight: 34.1g
+ two diamonds deficient",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25889561-1-2.jpg,https://www.bonhams.com/auction/32082/lot/1210/jadeite-gem-set-and-diamond-feather-brooch/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6830.0,5691.666666666667
+1d3e892a-69d6-4ed6-af85-5f5987643c7b,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1211,HKD,18000,36000,30720,24000,2305.35,4610.7,3934.46,3073.8,"JADEITE, GEM-SET AND DIAMOND RING",N/A,N/A,N/A,KJ 109179,stamped AU750,white gold,18 karat,white,16.0,6½,ring,N/A,N/A,N/A,N/A,N/A,3,N/A,N/A,jadeite,N/A,duck carving,bright green,subtle natural white cloud-like inclusions,approx. 19.82 x 8.60 x 4.62mm,N/A,H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,duck,N/A,N/A,HKJSL,KJ 109179,"A faint, natural fissure that reaches the surface is detected along the 'neckline,' though it is hardly noticeable under normal lighting and does not affect the carving's overall beauty.",N/A,1,"JADEITE, GEM-SET AND DIAMOND RING
+å¤©ç¶ç¿¡ç¿ éèå¯¶ç³åé½ç³ææ
+Certificate: HKJSL, jadeite, natural, type A 
+(KJ 109179, 29 July 2026)
+Jadeite: approx. 19.82 x 8.60 x 4.62mm
+Sapphires: approx. 2.05cts
+Metal: 18 karat white gold
+Ring size: 6Â½
+Gross weight: 16.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25899404-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1211/jadeite-gem-set-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4841.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3450.0,2875.0
+52e02060-e416-4fd6-a196-680ef91bbc7c,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1212,HKD,10000,20000,7040,5500,1280.75,2561.5,901.65,704.41,UNMOUNTED SPINEL,N/A,N/A,N/A,B64045,N/A,N/A,N/A,N/A,3.31,N/A,gemstone,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,spinel,3.31,octagonal,intense blue,"minor typical crystal inclusions, minute surface-reaching fissure",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,1,N/A,0,natural,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,B64045,"minor typical crystal inclusions, minute surface-reaching fissure, minor chip on the pavilion facet",N/A,1,"UNMOUNTED SPINEL
+3.31åæå¤©ç¶æªç¶èçå°æ¶ç³
+Certificate: Bellerophon, spinel, natural, 3.313cts, intense blue, untreated
+(B64045, 19 September 2025)",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25734787-4-2.jpg,https://www.bonhams.com/auction/32082/lot/1212/unmounted-spinel/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,2430.09,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2200.0,1833.3333333333335
+5d6c7e46-d1ea-4843-9b72-c6baef85adce,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1213,HKD,50000,80000,24320,19000,6403.74,10245.99,3114.78,2433.42,PAIR OF JADEITE AND DIAMOND 'GOURD' PENDENT EARRINGS,N/A,N/A,N/A,SJ 258490,Au750,white gold,18 karat,white,6.9,N/A,earrings,N/A,N/A,3.2,N/A,N/A,2,N/A,N/A,jadeite,N/A,N/A,green,N/A,approx. 14.85 x 11.61 x 2.15mm,N/A,F-G,N/A,VS-SI,N/A,N/A,N/A,HKJSL,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gourd,N/A,N/A,HKJSL,SJ 258490,N/A,N/A,2,"PAIR OF JADEITE AND DIAMOND 'GOURD' PENDENT EARRINGS
+å¤©ç¶ç¿¡ç¿ éé½ç³ãè«èãåå¢è³ç°
+Certificate: HKJSL, selected jadeite, natural, type A 
+(SJ 258490, 30 July 2026)
+Selected jadeite: approx. 14.85 x 11.61 x 2.15mm
+Metal: 18 karat white gold
+Length: 3.2cm
+Gross weight: 6.9g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25897637-4-2.jpg,https://www.bonhams.com/auction/32082/lot/1213/pair-of-jadeite-and-diamond-gourd-pendent-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.07,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8720.0,7266.666666666667
+60057cca-1312-46b6-acf3-7b63e809b215,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1214,HKD,20000,30000,14080,11000,2561.5,3842.25,1803.29,1408.82,"JADEITE, COLOURED JADEITE AND DIAMOND 'GOURD' PENDANT NECKLACE AND RING",N/A,N/A,N/A,N/A,stamped 585,white gold,14 karat,white,19.9,6,pendant necklace and ring,45.0,N/A,N/A,4.1,N/A,2,N/A,N/A,jadeite,N/A,N/A,green,good translucency,24.89 x 16.07 x 3.07mm; 16.23 x 11.69 x 3.12mm,N/A,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gourd,N/A,N/A,HKJSL,SJ 244162 and SJ 244163,N/A,N/A,2,"JADEITE, COLOURED JADEITE AND DIAMOND 'GOURD' PENDANT NECKLACE AND RING
+å¤©ç¶ç¿¡ç¿ éå½©è²ç¿¡ç¿ åé½ç³ãè«èãåå¢é éåææ
+Certificates: 2 HKJSL, jadeites, natural, type A 
+(SJ 244162 and SJ 244163, 14 August 2025)
+Jadeite on pendant: approx. 24.89 x 16.07 x 3.07mm
+Jadeite on ring: approx. 16.23 x 11.69 x 3.12mm
+Metal: 14 karat white gold
+Lengths: pendant 4.1cm; necklace 45.0cm
+Ring size: 6
+Gross weight: necklace 9.1g; ring 10.8g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2025-08/06/25666231-19-1.jpg,https://www.bonhams.com/auction/32082/lot/1214/jadeite-coloured-jadeite-and-diamond-gourd-pendant-necklace-and-ring-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4841.28,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+061506b8-7af5-49d1-9e0f-b2f198099198,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1215,HKD,38000,50000,N/A,N/A,4866.84,6403.74,N/A,N/A,"GROUP OF GEM-SET, CULTURED PEARL AND DIAMOND JEWELLERY",N/A,N/A,N/A,23J7551125,stamped 750,18 karat white gold,750,white,24.8,6¾,"ring, necklace, earrings",45.0,N/A,N/A,4.5,45.0,3,3,3,"sapphire, topaz",17.41,N/A,orangy yellow,loupe-clean,"approx. 13.10 x 13.00mm, 13.40 - 13.45mm",0.53,G-H,N/A,VS-SI,N/A,N/A,N/A,IGI,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,cultured,13.1,3,white with rosé and silvery overtones,N/A,N/A,N/A,N/A,N/A,IGI,23J7551125,minute clouds observed under 10x magnification,N/A,3,"GROUP OF GEM-SET, CULTURED PEARL AND DIAMOND JEWELLERY
+å¤©ç¶æ©é»è²åçéé½ç³ææï¼é¤æ®çç éæå¸ç³åé½ç³åå¢é éï¼åé¤æ®çç è³ç°
+Certificate: IGI, sapphires, natural, intense orangy yellow, heated
+(23J7551125, 12 March 2025)
+Orangy yellow sapphires: stamped 17.41cts
+Cultured pearl on necklace: approx. 13.10 x 13.00mm
+Cultured pearls on earrings: approx. 13.40 - 13.45mm
+Topaz on necklace: stamped 2.42cts
+Metal: 18 karat white gold
+Ring size: 6Â¾
+Length: pendant 4.5cm; chain 45.0cm
+Gross weight: ring 7.9g; necklace 7.9g; earrings 9.0g
+ (3)",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25886172-3-2.jpg,https://www.bonhams.com/auction/32082/lot/1215/group-of-gem-set-cultured-pearl-and-diamond-jewellery-3/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5775.0,4812.5
+9daff153-df8c-4bba-974b-85ff65a64878,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1216,HKD,50000,80000,76800,60000,6403.74,10245.99,9836.15,7684.49,EMERALD AND DIAMOND PENDANT NECKLACE,N/A,N/A,N/A,GRS2025-089519,stamped Pt950,platinum,950,white,8.0,N/A,pendant necklace,42.5,N/A,N/A,3.2,N/A,1,3,N/A,emerald,5.72,pear,vivid green,minor clarity enhancement,N/A,0.52,F-G,N/A,VS-SI,N/A,N/A,N/A,GRS,1,N/A,0,natural,1,platinum,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GRS,GRS2025-089519,"Natural inclusions including fissures and needle-like feathers are present, and some extend toward the surface at the end and on the back side of the stone.",Colombia,1,"EMERALD AND DIAMOND PENDANT NECKLACE
+5.72åæå¤©ç¶ãå¥å«æ¯äºããæ¨ä½ç¶ ãç¥æ¯ç¶ éé½ç³åå¢é é
+Certificate: GRS, emerald, natural, 5.72cts, vivid green, Colombia, with minor clarity enhancement; along with appendix stating that the emerald is 'formally described as ""Muzo Green"" and commonly known in the trade as ""Old Mine""'
+(GRS2025-089519, 28 August 2025)
+Metal: platinum
+Length: pendant 3.2cm; necklace 42.5cm
+Gross weight: 8.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25848297-21-5.jpg,https://www.bonhams.com/auction/32082/lot/1216/emerald-and-diamond-pendant-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.37,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,9250.0,7708.333333333334
+9db638f5-6429-425a-bce6-0b49ef684422,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1217,HKD,26000,36000,N/A,N/A,3329.95,4610.7,N/A,N/A,JADEITE AND DIAMOND RING,N/A,N/A,N/A,KJ 107642,stamped 18K 750,white gold,18 karat,white,6.4,6,ring,N/A,N/A,N/A,N/A,N/A,1,12,N/A,jadeite,N/A,oval,bright green,good translucency,approx. 12.75 x 10.25 x 5.08mm,1.08,G-H,N/A,VS-SI,N/A,N/A,N/A,HKJSL,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,KJ 107642,Minor visible veins and white patches under strong white light; a minute natural surface reaching fissure detected under 10x magnification.,N/A,1,"JADEITE AND DIAMOND RING
+å¤©ç¶ç¿¡ç¿ éé½ç³ææ
+Certificate: HKJSL, jadeite, natural, type A 
+(KJ 107642, 13 March 2025)
+Jadeite: approx. 12.75 x 10.25 x 5.08mm
+Diamond: stamped 1.08cts
+Metal: 18 karat white gold 
+Ring size: 6
+Gross weight: 6.4g",https://images3.bonhams.com/image?src=Images/live/2026-05/05/25848297-1-1.jpg,https://www.bonhams.com/auction/32082/lot/1217/jadeite-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,5199.13,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4200.0,3500.0
+eaeb79fb-a6c3-4d2d-a98b-711226f490a5,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1218,HKD,32000,48000,N/A,N/A,4098.4,6147.59,N/A,N/A,"YELLOW JADEITE, COLOURED DIAMOND, DIAMOND AND BLACK ENAMEL RING",N/A,N/A,N/A,SC258066,stamped 750,blackened gold,18 karat,black,19.4,6¼,ring,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,jadeite,N/A,oval,orangy-yellow,N/A,approx. 20.00 x 16.00 x 6.00mm,2.85,brown tint,N/A,approximate SI clarity,N/A,N/A,N/A,HKKJJL,1,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,black,N/A,HKKJJL,SC258066,"A couple black enamel dots are slightly abraded, but only visible under 10x magnification.",N/A,1,"YELLOW JADEITE, COLOURED DIAMOND, DIAMOND AND BLACK ENAMEL RING
+å¤©ç¶é»è²ç¿¡ç¿ éå½©è²é½ç³ãé½ç³åé»è²çºç¯ææ
+Certificate: HKKJJL, jadeite, natural, type A 
+(SC258066, 29 July 2026) 
+Jadeite: approx. 20.00 x 16.00 x 6.00mm
+Coloured diamonds and diamonds: approx. 2.85cts
+Metal: 18 karat blackened gold
+Ring size: 6Â¼
+Gross weight: 19.4g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25899404-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1218/yellow-jadeite-coloured-diamond-diamond-and-black-enamel-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+aad867e2-2034-4345-945d-59a7d1f17889,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1219,HKD,28000,38000,N/A,N/A,3586.1,4866.84,N/A,N/A,CAT'S EYE CHRYSOBERYL AND DIAMOND RING,N/A,N/A,N/A,GRS2012-080863T,"stamped G750, 498, CCF",white gold,18 karat,white,7.3,6¾,ring,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,cat's eye chrysoberyl,4.98,oval,brownish greenish-yellow,minute natural feather inclusions,N/A,N/A,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GRS,GRS2012-080863T,minute natural feather inclusions,N/A,1,"Property of a Private Collector
+ç§äººèå®¶çè
+CAT'S EYE CHRYSOBERYL AND DIAMOND RING
+4.98åæå¤©ç¶æªç¶èçéç¶ è²ç¼ç³éé½ç³ææ
+Certificate: GRS, cat's eye chrysoberyl, natural, 4.98cts, brownish greenish-yellow, untreated 
+(GRS2012-080863T, 28 September 2012)
+Metal: 18 karat white gold
+Ring size: 6Â¾
+Gross weight: 7.3g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25902382-1-3.jpg,https://www.bonhams.com/auction/32082/lot/1219/cats-eye-chrysoberyl-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.2,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,4425.0,3687.5
+869eea3d-f6d3-4fa1-8345-14f63eacd158,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1220,HKD,60000,120000,N/A,N/A,7684.49,15368.98,N/A,N/A,RUBY AND DIAMOND PENDANT NECKLACE AND EARRING SET,N/A,N/A,N/A,N/A,stamped Au750,white gold,18 karat,white,13.5,N/A,necklace and earrings set,46.0,N/A,1.8,1.9,N/A,2,8,N/A,ruby,3.81,oval,vivid red ('Pigeon's Blood'),almost eye-clean,1.9 x 1.8 cm,2.16,F-G-H,N/A,VS-I1,N/A,N/A,N/A,3 Guild,1,N/A,0,natural,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3 Guild,"5113824174, 5119751854 and 5110069033","very minute pits and abrasions on the girdle facets, and some typical inclusions can be observed",Burma,2,"RUBY AND DIAMOND PENDANT NECKLACE AND EARRING SET
+å¤©ç¶ãç·¬ç¸ããé´¿è¡ç´ãç´å¯¶ç³éé½ç³åå¢é éåè³ç°å¥è£
+Certificates: 3 Guild, rubies, natural, vivid red ('Pigeon's Blood'), Burma, heated
+(5113824174, 5119751854 and 5110069033, 21 May 2026)
+Rubies: stamped 3.81cts total
+Diamonds: approx. 2.16cts
+Metal: 18 karat white gold
+Dimensions: pendant 1.9 x 1.8cm; earring 1.8 x 1.8cm
+Length: 46.0cm
+Gross weight: necklace 5.2g; earrings 8.3g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/28/25882344-1-7.jpg,https://www.bonhams.com/auction/32082/lot/1220/ruby-and-diamond-pendant-necklace-and-earring-set-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+2a09832b-d738-487e-bc7e-76ad2d296e8c,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1221,HKD,60000,90000,N/A,N/A,7684.49,11526.74,N/A,N/A,EMERALD AND DIAMOND BANGLE AND RING SET (2),N/A,N/A,N/A,N/A,stamped 18K 750,white gold,18 karat,white,22.7,4½,bangle and ring set,N/A,14.5,N/A,N/A,N/A,2,N/A,N/A,emerald,3.23,N/A,green,natural minor typical inclusions,N/A,2.86,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,"EMERALD AND DIAMOND BANGLE AND RING SET (2)
+ç¥æ¯ç¶ éé½ç³æé²åææ
+Emeralds: stamped 2.15cts (on bangle) and 1.08cts (on ring)
+Diamonds: stamped 2.86cts total
+Metal: 18 karat white gold
+Bangle inner circumference: 14.5cm
+Ring size: 4Â½
+Gross weight: bangle 16.6g; ring 6.1g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/24/25902803-1-4.jpg,https://www.bonhams.com/auction/32082/lot/1221/emerald-and-diamond-bangle-and-ring-set-2-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+362a215c-b4c5-4aa9-b831-6ff05fd6811b,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1222,HKD,50000,80000,N/A,N/A,6403.74,10245.99,N/A,N/A,TOURMALINE AND DIAMOND RING,N/A,N/A,N/A,SIG26080152,stamped 750,white gold,18 karat,white,9.0,6¼,ring,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,tourmaline,11.62,N/A,bluish green,loupe-clean,N/A,1.3,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,SIG,SIG26080152,minor nick on the crown facet and minute abrasions on the edges of the girdle,N/A,1,"TOURMALINE AND DIAMOND RING
+å¤©ç¶ç¢§ç½éé½ç³ææ
+Certificate: SIG, tourmaline, natural, 11.62cts, bluish green, application of heat treatment is indeterminable
+(SIG26080152, 13 August 2026)
+Tourmaline: stamped 11.62cts
+Metal: 18 karat white gold
+Ring size: 6Â¼
+Gross weight: 9.0g",https://images3.bonhams.com/image?src=Images/live/2026-08/21/25903884-4-2.jpg,https://www.bonhams.com/auction/32082/lot/1222/tourmaline-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.3,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8720.0,7266.666666666667
+8e8a99da-7eff-45c3-8754-200260d21d34,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1223,HKD,15000,28000,19200,15000,1921.12,3586.1,2459.04,1921.12,UNMOUNTED COBALT SPINEL,N/A,N/A,N/A,B60924,N/A,N/A,N/A,N/A,1.56,N/A,gemstone,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,cobalt spinel,1.567,rectangular,intense blue,few subtle fingerprint and crystal inclusions,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,1,N/A,0,natural,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,B60924,few subtle fingerprint and crystal inclusions,Tanzania,1,"UNMOUNTED COBALT SPINEL
+1.56åæå¤©ç¶ãå¦æ¡å°¼äºãæªç¶èçé·èè²å°æ¶ç³ 
+Certificate: Bellerophon, cobalt-spinel, natural, 1.567cts, intense blue, Tanzania (Mahenge), untreated; with comment 'this gemstone may be called ""Vibrant"" due to its ideal cutting proportions.' 
+(B60924, 27 August 2025)",https://images3.bonhams.com/image?src=Images/live/2025-08/08/72003745-3-1.jpg,https://www.bonhams.com/auction/32082/lot/1223/unmounted-cobalt-spinel/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,2430.09,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+abe47844-bdab-48bd-acb8-cf37328e79bc,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1224,HKD,17000,25000,21760,17000,2177.27,3201.87,2786.91,2177.27,UNMOUNTED SPINEL,N/A,N/A,N/A,B60919,N/A,N/A,N/A,N/A,4.08,N/A,gemstone,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,spinel,4.084,octagonal,purple,"eye clean; under 10x magnification, there are crystal, fingerprint and mineral inclusions",N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,1,N/A,0,natural,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bellerophon,B60919,"crystal, fingerprint and mineral inclusions along one of the long side girdles and on one of the corners",Burma (Myanmar),1,"UNMOUNTED SPINEL
+4.08åæå¤©ç¶ãç·¬ç¸ãæªç¶èçå°æ¶ç³
+Certificate: Bellerophon, spinel, natural, 4.084cts, purple, Burma (Myanmar), untreated; with comment 'this gemstone may be called ""Vibrant"" due to its ideal cutting proportions.'
+(B60919, 27 August 2025)",https://images3.bonhams.com/image?src=Images/live/2025-08/08/72003745-2-1.jpg,https://www.bonhams.com/auction/32082/lot/1224/unmounted-spinel/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,3564.14,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+8dd59d58-54ab-481e-8dcd-720f3bead406,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1225,HKD,50000,80000,N/A,N/A,6403.74,10245.99,N/A,N/A,RUBY AND DIAMOND BRACELET,N/A,N/A,N/A,N/A,stamped 18K,white gold,18 karat,white,24.4,N/A,bracelet,N/A,17.0,N/A,N/A,N/A,66,N/A,N/A,ruby,29.0,N/A,purplish-red,minor natural inclusions,N/A,2.05,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"minor natural inclusions such as feathers, fingerprints and crystal inclusions",N/A,1,"RUBY AND DIAMOND BRACELET
+ç´å¯¶ç³éé½ç³æé
+Rubies: 66pcs, approx. 29.00cts
+Diamonds: approx. 2.05cts
+Metal: 18 karat white gold
+Length: 17.0cm
+Gross weight: 24.4g",https://images3.bonhams.com/image?src=Images/live/2026-08/25/25850257-10-4.jpg,https://www.bonhams.com/auction/32082/lot/1225/ruby-and-diamond-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.07,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,8720.0,7266.666666666667
+6bdacb48-e4a4-41b3-8950-64ae725fdf54,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1226,HKD,50000,80000,48640,38000,6403.74,10245.99,6229.56,4866.84,"PAIR OF RUBY, SAPPHIRE, CULTURED PEARL, PINK SAPPHIRE AND DIAMOND EARRINGS",N/A,N/A,N/A,N/A,stamped Au750,18 karat white gold,18K,white,6.3,N/A,earrings,N/A,N/A,1.7,N/A,N/A,5,N/A,2,"ruby, sapphire, cultured pearl, pink sapphire",1.03,N/A,"red ('Pigeon Blood'), blue ('Cornflower Blue')",minor typical natural feather and crystal inclusions,N/A,1.11,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,cultured,3.88,2,"white bodycolour, silver overtone",good lustre,N/A,N/A,N/A,N/A,"AIGS, Gübelin","GFC23102059, GFC26062328, 26041103","minor typical natural feather and crystal inclusions, mostly concentrated towards the bottom area",Myanmar,2,"PAIR OF RUBY, SAPPHIRE, CULTURED PEARL, PINK SAPPHIRE AND DIAMOND EARRINGS
+1.03åæå¤©ç¶ãç·¬ç¸ãæªç¶å ç±èçç´å¯¶ç³å1.15åæå¤©ç¶ãç·¬ç¸ãæªç¶å ç±èçèå¯¶ç³éé¤æ®çç ãå½©è²å¯¶ç³åé½ç³è³ç°
+Certificates: 2 AIGS
+ruby, natural, 1.03cts, red ('Pigeon Blood'), Myanmar, unheated (GFC23102059, 11 October 2023)
+sapphire, natural, 1.15cts, blue ('Cornflower Blue'), Myanmar, unheated (GFC26062328, 3 June 2023)
+Certificate: GÃ¼belin, sapphire, natural, 1.15cts, unheated; along with two Information Sheets on 'unheated sapphire' and 'sapphires, origin not determinable'; and a Gemstone Rating card (82.5pts)
+(26041103, 13 May 2026)
+Cultured pearls: approx. 3.88mm
+Diamonds: stamped 1.11cts
+Metal: 18 karat white gold
+Length: 1.7cm
+Gross weight: 6.3g",https://images3.bonhams.com/image?src=Images/live/2026-08/27/25903427-1-10.jpg,https://www.bonhams.com/auction/32082/lot/1226/pair-of-ruby-sapphire-cultured-pearl-pink-sapphire-and-diamond-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.37,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,9275.0,7729.166666666667
+031b0260-8b82-4c0e-bbb3-d3188c234319,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1227,HKD,30000,50000,N/A,N/A,3842.25,6403.74,N/A,N/A,"SPINEL, GEM-SET AND DIAMOND RING",N/A,N/A,N/A,GS25103000021,stamped Au750,white gold,18 karat,white,7.8,6½,ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,spinel,4.76,N/A,vivid red,very good clarity,N/A,0.157,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,GS25103000021,typical natural inclusions such as rutile silks,Myanmar,1,"SPINEL, GEM-SET AND DIAMOND RING
+å¤©ç¶ãç·¬ç¸ãæªç¶å ç±èçå°æ¶ç³éå½©è²å¯¶ç³åé½ç³ææ
+Certificate: gem report, spinel, natural, vivid red ('Jedi Spinel'), Myanmar, unheated
+(GS25103000021, 30 October 2025)
+Spinel: stamped 4.76cts
+Aquamarines: stamped 3.10cts
+Metal: 18 karat white gold
+Ring size: 6Â½
+Gross weight: 7.8g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25855935-4-2.jpg,https://www.bonhams.com/auction/32082/lot/1227/spinel-gem-set-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.24,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+a151edf5-a7d9-46c8-8591-09eaf2ccb6cd,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1228,HKD,22000,34000,46080,36000,2817.65,4354.55,5901.69,4610.7,COLOURED SAPPHIRE AND DIAMOND RING,N/A,N/A,N/A,2100136740,stamped Au750,white gold,18 karat,white,7.1,6,ring,N/A,N/A,N/A,N/A,N/A,1,8,N/A,padparadscha sapphire,2.03,N/A,orangy pink,almost eye-clean,N/A,1.347,G-H-I,N/A,VS-SI,N/A,N/A,N/A,Guild,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Guild,2100136740,Minor typical inclusions such as crystals and needles visible under 10x magnification but hardly noticeable to the unaided eye.,N/A,1,"COLOURED SAPPHIRE AND DIAMOND RING
+2.03åæå¤©ç¶æªç¶å ç±èçå½©è²åçéé½ç³ææ
+Certificate: Guild, padparadscha sapphire, natural, 2.03cts, orangy pink, unheated
+(2100136740, 16 September 2025) 
+Diamonds: stamped 1.347cts total
+Metal: 18 karat white gold
+Ring size: 6
+Gross weight: 7.1g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25855935-8-2.jpg,https://www.bonhams.com/auction/32082/lot/1228/coloured-sapphire-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,4879.7,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3850.0,3208.3333333333335
+90533fa9-bbc5-4c67-b43c-9f168f492d55,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1229,HKD,40000,75000,51200,40000,5122.99,9605.61,6557.43,5122.99,PAIR OF CULTURED PEARL AND DIAMOND PENDENT EARRINGS,N/A,N/A,N/A,N/A,stamped 750,white gold,18 karat,white,29.3,N/A,earrings,N/A,N/A,4.9,N/A,N/A,2,N/A,2,cultured pearl,N/A,drop-shaped,creamy white and silvery white,N/A,17.96 x 20.00mm and 17.35 x 20.00mm,1.75,G-H-I,N/A,VVS-VS,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,creamy white and silvery white,medium to medium high,N/A,N/A,N/A,N/A,N/A,N/A,dimples and growth marks/rings detected,N/A,2,"Property of a Prominent International Family
+åéé¡¯èµ«å®¶æçèPAIR OF CULTURED PEARL AND DIAMOND PENDENT EARRINGS
+é¤æ®çç éé½ç³åå¢è³ç°
+Cultured pearls: approx. 17.96 x 20.00mm and 17.35 x 20.00mm
+Diamonds: approx. 1.75cts
+Metal: 18 karat white gold
+Length: 4.9cm (pendants detachable) 
+Gross weight: 29.3g",https://images3.bonhams.com/image?src=Images/live/2026-04/23/25855734-36-1.jpg,https://www.bonhams.com/auction/32082/lot/1229/pair-of-cultured-pearl-and-diamond-pendent-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10530.49,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7200.0,6000.0
+c3094177-2ad8-4b26-82e1-4fd3a9b865e8,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1230,HKD,50000,80000,N/A,N/A,6403.74,10245.99,N/A,N/A,PARAÍBA TOURMALINE AND DIAMOND PENDANT NECKLACE,N/A,N/A,N/A,22061006,stamped 750 18K,white gold,18 karat,white,6.6,N/A,pendant necklace,40.0,N/A,N/A,3.3,40.0,1,N/A,N/A,Paraíba tourmaline,0.89,pear,greenish-blue,visible typical inclusions,N/A,1.6,G-H,N/A,VS-SI,N/A,N/A,N/A,Gübelin,1,N/A,0,natural,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gübelin,22061006,"Visible typical inclusions such as tube-like needles, crystals and minerals; minor hair-line scratches on the table can be observed under very close inspection.",Brazil,1,"PARAÃBA TOURMALINE AND DIAMOND PENDANT NECKLACE
+0.89åæå¤©ç¶ãå·´è¥¿ãå¸æä¼å·´ç¢§ç½éé½ç³åå¢é é
+Certificate: GÃ¼belin, paraÃ­ba tourmaline, natural, 0.89ct, Brazil, greenish-blue, heated; along with Information Sheet on 'ParaÃ­ba tourmaline' and Gemstone Rating Card (77.5pts)
+(22061006, 23 June 2022)
+Diamonds: stamped 1.60cts
+Metal: 18 karat white gold
+Length: pendant 3.3cm; chain 40.0cm
+Gross weight: 6.6g",https://images3.bonhams.com/image?src=Images/live/2026-08/26/25886141-6-6.jpg,https://www.bonhams.com/auction/32082/lot/1230/paraiba-tourmaline-and-diamond-pendant-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,8100.37,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,9275.0,7729.166666666667
+9442589b-7285-45c4-825b-0fdedd7cf293,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1231,HKD,20000,38000,25600,20000,2561.5,4866.84,3278.72,2561.5,DOLCE & GABBANA: PAIR OF DIAMOND 'DEVOTION' EARRINGS,DOLCE & GABBANA,Devotion,N/A,N/A,"Dolce & Gabbana and Italian registry mark, stamped 750",white gold,18 karat,white,13.6,N/A,earrings,N/A,N/A,3.0,N/A,N/A,1,1,N/A,diamond,0.45,N/A,G-H,VS-SI,N/A,0.45,G-H,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,mounted,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute signs of wear,N/A,2,"Property of a Lady
+å¥³ä»ç§äººçèDOLCE & GABBANA: PAIR OF DIAMOND 'DEVOTION' EARRINGS
+Dolce & Gabbanaï¼ãDevotionãé½ç³åå¢è³ç°
+Signature: Dolce & Gabbana and Italian registry mark
+Accompaniment: signed case and guarantee certificate
+Metal: 18 karat white gold
+length: 3.0cm
+Gross weight: 13.6g",https://images3.bonhams.com/image?src=Images/live/2026-07/27/25865713-3-2.jpg,https://www.bonhams.com/auction/32082/lot/1231/dolce-and-gabbana-pair-of-diamond-devotion-earrings/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6180.95,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3860.0,3216.666666666667
+10798c6b-2cca-4a26-8e89-33453581a8f0,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1232,HKD,18000,36000,24320,19000,2305.35,4610.7,3114.78,2433.42,DIAMOND 'MULTI-ICON' BRACELET,SYDNEY EVAN,N/A,N/A,N/A,"maker's mark for Sydney Evan, stamped 585, 14K, SE for Sydney Evan",yellow gold,18 karat,yellow,12.2,N/A,bracelet,N/A,17.5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Minute signs of wear,N/A,1,"Property of a Lady
+å¥³ä»ç§äººçèSYDNEY EVAN: DIAMOND 'MULTI-ICON' BRACELET
+Sydney Evan: ãMulti-iconãé½ç³æé
+Signature: maker's mark for Sydney Evan
+Metal: 18 karat yellow gold
+Length: 17.5cm
+Gross weight: 12.2g",https://images3.bonhams.com/image?src=Images/live/2026-08/20/25865713-5-1.jpg,https://www.bonhams.com/auction/32082/lot/1232/sydney-evan-diamond-multi-icon-bracelet/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.87,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,3450.0,2875.0
+a69eefe0-b41f-45af-8504-8c15dd044e26,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1233,HKD,48000,60000,N/A,N/A,6147.59,7684.49,N/A,N/A,LAVENDER JADEITE AND DIAMOND RING,N/A,N/A,N/A,SJ 258645,stamped G18K,white gold,18 karat,white,7.7,6¼,ring,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,jadeite,N/A,oval,lavender,N/A,approx. 18.35 x 14.22 x 5.05mm,N/A,G-H,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 258645,N/A,N/A,1,"LAVENDER JADEITE AND DIAMOND RING
+å¤©ç¶ç´«è²ç¿¡ç¿ éé½ç³ææ
+Certificate: HKJSL, jadeite, natural, type A 
+(SJ 258645, 5 August 2026)
+Jadeite: approx. 18.35 x 14.22 x 5.05mm
+Metal: 18 karat white gold
+Ring size: 6Â¼
+Gross weight: 7.7g",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25902293-1-2.jpg,https://www.bonhams.com/auction/32082/lot/1233/lavender-jadeite-and-diamond-ring/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10774.58,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7075.0,5895.833333333334
+bda3204b-7a8c-4f2a-a248-d7d1745b004c,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1234,HKD,120000,180000,179200,140000,15368.98,23053.48,22951.02,17930.48,"LAVENDER JADEITE BEAD, GEM-SET AND DIAMOND NECKLACE",N/A,N/A,N/A,SJ 219207,stamped G18K,pink gold,18 karat,pink,192.3,N/A,necklace,72.5,N/A,N/A,N/A,N/A,46,N/A,N/A,jadeite,N/A,N/A,lavender,N/A,approx. 13.45 to 13.35mm,N/A,G-H,N/A,VS,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,HKJSL,SJ 219207,"Suffused with subtle white patches throughout the beads, which are typical in natural jadeites.",N/A,1,"LAVENDER JADEITE BEAD, GEM-SET AND DIAMOND NECKLACE
+å¤©ç¶ç´«è²ç¿¡ç¿ éå½©è²å¯¶ç³åé½ç³ç é
+Certificate: HKJSL, selected jadeite, natural, type A 
+(SJ 219207, 11 April 2023)
+Jadeites: 46pcs, approx. 13.45 to 13.35mm
+Metal: 18 karat pink gold
+Length: 72.5cm
+Gross weight: 192.3g",https://images3.bonhams.com/image?src=Images/live/2026-08/24/72003066-1-5.jpg,https://www.bonhams.com/auction/32082/lot/1234/lavender-jadeite-bead-gem-set-and-diamond-necklace/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,25491.93,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,19800.0,16500.0
+b47c56f1-8ad2-4a44-8823-14f854d4f9a4,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1235,HKD,40000,70000,N/A,N/A,5122.99,8965.24,N/A,N/A,"STAR RUBY AND DIAMOND BRACELET, CIRCA 1935",N/A,N/A,N/A,N/A,stamped 750 but tested platinum,platinum,750,white,27.6,N/A,bracelet,N/A,17.5,N/A,N/A,N/A,4,N/A,N/A,star ruby,8.0,N/A,purplish red,"natural inclusions such as silk, color zoning and fissures",N/A,N/A,G-H-I,N/A,VS-SI,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"chips and cavities are noticeable, however, not obvious when worn",N/A,1,"Property of a Prominent International Family
+åéé¡¯èµ«å®¶æçèSTAR RUBY AND DIAMOND BRACELET, CIRCA 1935
+æåç´å¯¶ç³éé½ç³æéï¼ç´1935å¹´
+Star rubies: approx. 8.00cts
+Metal: platinum
+Length: 17.5cm
+Gross weight: 27.6g",https://images3.bonhams.com/image?src=Images/live/2026-04/22/25855734-23-1.jpg,https://www.bonhams.com/auction/32082/lot/1235/star-ruby-and-diamond-bracelet-circa-1935/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,10739.48,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,7200.0,6000.0
+496424bc-6c26-404e-b02b-eed89dd5cacf,Jewelry,Bonhams,32082,2026-09-02,"Online, Hong Kong","Online Jewellery, Hong Kong",https://www.bonhams.com/auction/32082/online-jewellery-hong-kong/,Lot 1236,HKD,28000,55000,33280,26000,3586.1,7044.12,4262.33,3329.95,STAR RUBY AND DIAMOND RING; AND PAIR OF RUBY AND DIAMOND EARRINGS,N/A,N/A,N/A,N/A,stamped 585,white gold,14 karat,white,16.1,5¼,ring; earrings,N/A,N/A,2.0,N/A,N/A,4,N/A,N/A,ruby,N/A,oval,red,moderately strong saturation,N/A,N/A,G-H,N/A,VS-SI and occasional I1,N/A,N/A,N/A,N/A,0,N/A,0,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Typical inclusions such as iridescent rutile silks can be observed. Minor pits and abrasions can be spotted upon closed inspection but not affecting the overall appearance.,N/A,2,"Property from an Asian Private Collection
+äºæ´²ç§äººèå®¶çèSTAR RUBY AND DIAMOND RING; AND PAIR OF RUBY AND DIAMOND EARRINGS
+æåç´å¯¶ç³éé½ç³ææï¼åç´å¯¶ç³éé½ç³è³ç°
+Metal: 14 karat white gold
+Ring size: 5Â¼
+Earring dimensions: 2.0 x 1.6cm
+Gross weight: ring 6.5g; earrings 9.6g
+ (2)",https://images3.bonhams.com/image?src=Images/live/2026-08/18/25902432-9-1.jpg,https://www.bonhams.com/auction/32082/lot/1236/star-ruby-and-diamond-ring-and-pair-of-ruby-and-diamond-earrings-2/,7619.98,26186.41,52421.2,17.1,109.51,4.8,N/A,N/A,6156.24,gpt-4.1-mini,jewelry-Auction-2025-gemma3-4B-text-pricer:latest,6420.0,5350.0

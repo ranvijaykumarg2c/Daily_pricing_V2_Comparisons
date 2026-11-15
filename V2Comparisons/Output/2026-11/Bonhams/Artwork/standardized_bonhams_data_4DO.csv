@@ -1,0 +1,1141 @@
+ID,asset_type,source_name,data_source,sale_id,sale_date,location,sale_title,sale_url,asset_number,asset_price,description_block,image_url,asset_url,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,creation_year_start,creation_year_end,signed,dated,titled,provenance,subject_matter,item_count,edition,authorship,auction_house,auction_url,auction_title,lot_number,lot_url,currency,ah_low_estimate,ah_low_estimate_usd,ah_high_estimate,ah_high_estimate_usd,ah_bp_price,ah_bp_price_usd,ah_price,ah_price_usd,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+1ab321cf-0dc8-4982-9cea-00ea4ca81af5,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 1,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 8000.0, 'amount_usd': 10125.4}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 12000.0, 'amount_usd': 15188.09}]","A RARE AGATE CIRCULAR SEAL PASTE BOX AND COVER
+Qianlong incised seal mark and of the period
+Exquisitely carved and hollowed, the box rising from a short slightly inward-tapering foot, with curved sides to a raised rim providing secure seating for the domed cover, the translucent stone smoothly polished to reveal its naturally lustrous amber-honey tone striations. 5.3cm (2 1/8in) diam. (2).
+
+清乾隆 瑪瑙印泥盒 
+「乾隆年製」篆書刻款
+
+Provenance: Pat Miller, Hawaii
+Robert Kleiner & Co. Ltd., London
+Acquired from the above on 25 October 2008
+
+Exhibited: Honolulu Academy of Arts, Hawaii
+
+來源：Pat Miller，夏威夷
+倫敦古董商Robert Kleiner & Co. Ltd.
+從上處獲得于2008年10月25日
+
+展覽：檀香山藝術學院，美國夏威夷
+
+Agate was particularly favoured at the Qing Court for its natural beauty, translucency and subtle variations of colour, with the Yongzheng Emperor showing a marked appreciation for the inherent qualities of the stone. Archival records from the yuzuo (Imperial Jade Workshop) within the Zaobanchu (Imperial Palace Workshops), dated between 1724 and 1729, record that the Emperor instructed that agate brushwashers and bowls should remain undecorated in order to reveal the natural patterns of the stone; vessels with 'intricate' designs or of unsatisfactory quality were rejected and returned to the workshops. A number of extant agate vessels bearing Yongzheng reign marks in the Imperial collections of the Palace Museum, Taipei, and the Palace Museum, Beijing, similarly demonstrate this preference for restraint and an appreciation of the material itself. See Feng Mingzhu, Harmony and Integrity: The Yongzheng Emperor and His Times, Taipei, 2009, pp.235–245. See also a rare agate oval dish, Yongzheng incised four-character mark and of the period, which was sold at Bonhams London, 12 May 2011, lot 184. 
+
+This appreciation for the natural beauty of agate continued into the Qianlong reign, when the Imperial Workshops produced refined objects for the scholar's studio, including seal-paste boxes such as the present example. The plain, undecorated surface of the present box, which allows the naturally occurring bands and colour variations of the agate to serve as its principal ornament, reflects the same aesthetic preference for the unaltered beauty of the material. See an agate dish, Qianlong seal mark and period, in the Victoria and Albert Museum, London, which according to the Wells Bequest records came 'from the Summer Palace at Pekin', referring to the Yuanmingyuan; see M.Wilson, Chinese Jades, London, 2004, pp.98 (acc.no.1551-1882). See also an agate bowl, 18th century, in the Metropolitan Museum of Art, New York (acc.no.02.18.899).
+
+See a rare small agate bowl, Qianlong four-character mark and of the period, which was sold at Sotheby's Paris, 12 December 2013, lot 43. Compare also with a similar chalcedony seal paste box and cover, from the collection of Mary and George Bloch, Qianlong seal mark and of the period, which was sold at Sotheby's Hong Kong, 23 October 2005, lot 26. And another finely carved agate seal paste box with cover, Qianlong seal mark and of the period, which was sold at Christie's New York, 1st December 1983, lot 669.",https://images1.bonhams.com/image?src=Images/live/2026-06/18/25826626-4-1.jpg,https://www.bonhams.com/auction/32511/lot/1/a-rare-agate-circular-seal-paste-box-and-cover-qianlong-incised-seal-mark-and-of-the-period-2/,N/A,N/A,N/A,A RARE AGATE CIRCULAR SEAL PASTE BOX AND COVER,decorative arts,agate,N/A,N/A,N/A,cm,N/A,N/A,yes,yes,yes,"Pat Miller, Hawaii; Robert Kleiner & Co. Ltd., London; Acquired from the above on 25 October 2008","agate, circular seal paste box, cover, Qianlong mark, amber-honey tone, polished stone, carved surface, imperial aesthetics, natural beauty, decorative object",2,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 1,https://www.bonhams.com/auction/32511/lot/1/a-rare-agate-circular-seal-paste-box-and-cover-qianlong-incised-seal-mark-and-of-the-period-2/,GBP,8000,10125.4,12000,15188.09,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,2026-11,12899.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13800.0,11500.0
+9f334ddb-647c-4c5e-9119-89417e697da1,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 2,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 15000.0, 'amount_usd': 18985.12}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 20000.0, 'amount_usd': 25313.49}]","A RARE GE-TYPE GLAZED 'EAR CUP' SHAPED INK PALETTE, BITIAN
+Qianlong seal mark and of the period
+Finely potted of oval form, rising with tapering sides from a counter-sunk base, flanked by two flat crescent moon-shaped handles below the mouth rim, covered overall in a pale sky-blue glaze suffused with yellow-ochre crackles, save the foot ring fired to a dark chocolate brown tone. 7.8cm (3 1/8in) long.
+
+清乾隆 仿哥釉耳杯形筆舔
+青花「大清乾隆年製」篆書款
+
+Provenance: John Berwald, London
+Acquired from the above on 9 January 2012
+
+來源：倫敦古董商John Berwald
+從上處獲得于2012年1月9日 
+
+The present palette is distinguished by its deliberate archaism, uniting an ancient ear-cup form with a finely controlled crackled glaze of exceptional tactility. The small handled shape derives from early prototypes. Known in Chinese as bei (杯) or yushang (羽觴), vessels of this type appear to have served a dual purpose in early China, functioning both as drinking cups for wine and as containers for food offerings; see for example, a set of ninety lacquer ear cups excavated from the Han dynasty tombs of the Marquis Dai and his family, located at Mawangdui near Changsha in Hunan Province, where fifty cups were found inscribed with jun feng shi ('to serve you food') and the rest jun feng jiu ('to serve you wine'); see J.Waley-Cohen, trans., 'The Lacquers of the Mawangdui Tomb', Oriental Ceramic Society Translations, no.11, Hong Kong, 1984, p.16. 
+
+Rather than serving as a vessel for food or wine, however, the present lot's restrained scale suggests use as a water or ink palette, intended for the subtle dilution and modulation of ink tones within the scholar's studio. In this context, the choice of archaistic form would have carried intellectual as well as aesthetic resonance.
+
+The soft grey-blue glaze, densely suffused with an even network of crackle, consciously evokes the revered wares of the Song dynasty, especially those associated with the Guan and Ge traditions. Such glazes had long been esteemed for their quiet refinement and subtle surface complexity, remaining objects of connoisseurly admiration throughout subsequent centuries. Under the Yongzheng Emperor and his successor, the Qianlong Emperor, this admiration evolved into a sustained programme of revival at the Imperial kilns at Jingdezhen. By the eighteenth century, technical advances in ceramic production enabled potters to recreate these celebrated crackled surfaces with remarkable precision. The intricate web of fissures was not incidental but carefully engineered through the controlled cooling of glaze and body, producing layered crackle patterns that were later accentuated through staining. The subtle tonal variation across the surface, together with the characteristic darkened footrim imitating Song prototypes, demonstrates the high level of technical mastery achieved during the Qianlong reign.
+
+Similar Ge or Guan type glazed ear cups are extremely rare. A related Guan type glazed ear-cup, Qianlong, is in the Musée Guimet, Paris, (acc.no.MA4236). This example is inscribed with a poem composed by the Qianlong Emperor himself. Written in 1776 for a Guan-glazed vase, the verse reflects the Emperor's connoisseurial sensibilities and his engagement with the antiquities he so admired:
+
+Its iron foot supports a waist encased in ice-like crackles,
+Xuande and Chenghua followed, yet their brilliance waned.
+Now at Jingdezhen this style is brought to life again 
+Yet the path back to antiquity is never easily trodden.
+
+The inscription underscores both the aesthetic ideals of the Qianlong Court and the broader revivalist ethos that informed the production of archaistic porcelain during his reign. Through such works, the Emperor sought not merely to reproduce forms of the past, but to engage in a scholarly dialogue with them, merging technical mastery with historical awareness.
+
+Compare with a related Ru-type glazed ear cup, 18th century, which was sold at Bonhams Hong Kong, 29 May 2024, lot 1. See also another Ru-type ear cup, Qianlong seal mark and of the period, which was sold at Sotheby's London, 5 November 2014, lot 9.",https://images1.bonhams.com/image?src=Images/live/2026-09/14/25826626-3-5.jpg,https://www.bonhams.com/auction/32511/lot/2/a-rare-ge-type-glazed-ear-cup-shaped-ink-palette-bitian-qianlong-seal-mark-and-of-the-period/,Unknown,N/A,N/A,"A RARE GE-TYPE GLAZED 'EAR CUP' SHAPED INK PALETTE, BITIAN",ceramics,"Ceramic, Glaze",7.8,N/A,N/A,cm,N/A,N/A,no,yes,yes,"John Berwald, London
+Acquired from the above on 9 January 2012","ink palette, ear cup, sky-blue glaze, handles, round shape, crackle pattern, counter-sunk base, historic ceramics, Qianlong period, Chinese porcelain",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 2,https://www.bonhams.com/auction/32511/lot/2/a-rare-ge-type-glazed-ear-cup-shaped-ink-palette-bitian-qianlong-seal-mark-and-of-the-period/,GBP,15000,18985.12,20000,25313.49,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,24109.49,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,22150.0,18458.333333333336
+119cf5aa-53f5-4302-bc56-c11900a9a928,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 3,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 300000.0, 'amount_usd': 379702.32}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 400000.0, 'amount_usd': 506269.76}]","AN EXTREMELY RARE AND IMPORTANT 'TANG YING' FAMILLE ROSE BRUSHPOT, BITONG
+Qianlong
+Exquisitely enamelled around the straight sides with a continuous mountain landscape, craggy peaks receding into the distance from bold turquoise to pale blue and a misty brown horizon, dotted with delicate trees in blush pink and gnarled evergreens, wutong trees fluttering among the rocks, winding paths and stone stairways ascending to walled pavilions nestled within the folds of the mountains, beside a tranquil lake where a sampan carries three figures and other boats lie moored along the shore, above a finely inscribed poem in lishu script flanked by two painted seals reading Pianyue ('Crescent of the Moon') and Guwanshi ('Master of Ancient Accomplishments'), box. 13.5cm (5 1/4in) high. (2).
+
+清乾隆 粉彩九江琵琶亭山水圖筆筒
+款識：展開樓閣添詩料，裝點江山歸畫圖
+鈐印：「片月」「古完氏」 
+
+Provenance: Sotheby's Hong Kong, 26-27 October 1993, lot 262
+Spink & Son Ltd., London
+Acquired from the above on 21 July 1994
+
+Published, Illustrated and Exhibited: Spink & Son Ltd., Far Eastern Art at Spink, London, 1994, p.25, no.26. 
+The Oriental Ceramic Society, China Without Dragons: an Exhibition of the Oriental Ceramic Society, London, 2016, pp.344-345, no.205 (and cover)
+R.Krahl, 'China without Dragons: An Exhibition of the Oriental Ceramic Society', Orientations, 2016, p.99, fig.12.
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.108-109 
+
+來源： 香港蘇富比，1993年10月26至27日，拍品編號262 
+倫敦古董商 Spink & Son Ltd. 
+從上處獲得于1994年7月21日 
+
+展覽著錄：Spink & Son Ltd.，《Far Eastern Art at Spink》，倫敦，1994年，第25頁，編號26
+東方陶瓷學會，《龍隱：英國東方陶瓷學會會員珍稀藏品展》，倫敦，2016年，第344-345頁，編號205（及封面）
+R.Krahl，《龍隱：英國東方陶瓷學會會員珍稀藏品展》，《Orientations》，2016年，第99頁，插圖12
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第108-109頁
+
+The present brushpot is an exceptionally rare and remarkable example of mid 18th century porcelain, combining technical virtuosity and refined aesthetic sensibility. Executed in vibrant famille rose enamels, it presents a landscape identified in China Without Dragons: an Exhibition of the Oriental Ceramic Society, as the Pipa Pavilion (琵琶亭) at Jiujiang, a site closely associated with Tang Ying 唐英 (1682–1756), the celebrated superintendent of the Imperial Porcelain Manufactory at Jingdezhen. The brushpot bears the seal Pianyue (片月, 'Crescent Moon'), associated with Tang Ying, together with the seal Guwanshi (古完氏, 'Master of Ancient Accomplishments'), which recent scholarship by Huang Qinghua has identified as being associated with Lü Ji (呂績), a painter active under Tang Ying at the Imperial kilns (see the essay at the beginning of this catalogue). The presence of these seals provides a rare insight into the collaborative nature of 18th century porcelain production, revealing the interaction between Tang Ying's literary and artistic direction and the individual hands responsible for its execution. Beyond its beauty, this brushpot exemplifies the confluence of literati culture, craftsmanship, and banner technocracy, preserving a rare survival in which the personalities behind the Imperial workshops can be glimpsed through the object itself.
+
+Tang Ying occupies a singular position in the history of 18th century Chinese porcelain. Appointed Superintendent of the Imperial Porcelain Manufactory at Jingdezhen from 1728 until his death in 1756, he was not merely an administrator overseeing production, but a transformative figure who reshaped the aesthetic identity of Imperial wares during the Yongzheng and Qianlong reigns. Under his direction, Jingdezhen became a centre where technical innovation, Court taste, antiquarian learning, and literati ideals converged, producing porcelains of exceptional refinement and intellectual ambition.
+
+Prior to the Qing dynasty, supervision of the Imperial kilns was frequently entrusted to Court eunuchs, while the identities of artisan and literatus remained largely distinct. Craftsmen possessed technical expertise, while scholar-officials cultivated the arts of poetry, calligraphy, and painting. Under the Qing, however, a new figure emerged: the banner technocrat, a Court official whose administrative responsibilities were combined with literary education and artistic discernment. For a discussion of Qing dynasty technocratic culture, see D.Ko, The Social Life of Inkstones: Artisans and Scholars in Early Qing China, Seattle, 2017, pp.18–35. Tang Ying embodied this new model. Born into a bondservant family and affiliated with one of the Three Banners under direct Imperial command, he entered the Imperial Household Department (Neiwufu 內務府) at sixteen, where he developed a close relationship with the future Yongzheng Emperor and gained access to the Imperial collections of ancient bronzes, jades, paintings, and calligraphy. These encounters shaped the antiquarian interests and refined visual sensibility that would later inform his supervision of the Jingdezhen Imperial manufactory.
+
+Despite his privileged access to the finest works of art and the leading arbiters of Court taste, Tang Ying was not merely a patron or administrator. He cultivated a profound engagement with ceramic production itself, writing extensively on porcelain manufacture and embracing the identity of the ceramic specialist. In the preface to his play Meng Yuxi (夢玉溪), Tang Ying articulated a self-conscious identity that united official responsibility with cultivated leisure:
+
+I aspire to become a potter rather than an Immortal, so that I will not suffer condescending inspection nor plead for pity. Half my life has been spent on the business of poetry while tending to the five colours [i.e. pottery] on Pearl Hill. The Buddhist Layman Who Made Pottery, Taocheng Jushi (陶成居士), is my name. By Imperial orders I was appointed Supervisor of Ceramic Production. I work hard to repay this Imperial favour. I reside in Jiangxi's ancient town [i.e. Jingdezhen]; the Emperor resides far away in the northern palace. Thus I am a solitary subject, free from mundane burdens, an official who enjoys some leisure.
+
+Here, the distinction between scholar and craftsman becomes fluid. The kiln became, in Tang Ying's imagination, not simply an industrial site but a place of cultivated creation. Yet the production of Imperial porcelain remained fundamentally collaborative: Tang Ying's literary and aesthetic vision was realised through the skills of painters, decorators, and craftsmen working under his direction.
+
+The present brushpot should be understood within this intellectual and artistic environment. Its cylindrical surface unfolds like a handscroll, painted in meticulously controlled famille rose enamels with a landscape traditionally identified as the Pipa Pavilion (琵琶亭) at Jiujiang. Although the precise topographical identification remains uncertain, the association is highly significant in relation to Tang Ying's life. Following his appointment as Customs Supervisor after the accession of the Qianlong Emperor in 1736, Tang Ying was stationed first at Huai'an and subsequently transferred to Jiujiang in 1739. While residing near the Jiujiang Customs Barrier on the Yangzi River, he developed a profound personal connection with the Pipa Pavilion, composing more than fifty poems and essays on the site and contributing funds towards its restoration in 1744 and 1746. Whether conceived as a literal depiction or a literati evocation of the landscape, the subject reflects the close relationship between place, memory, and artistic expression in Tang Ying's world.
+
+The landscape decoration reflects the aesthetic ideals associated with the orthodox landscape tradition of the early Qing Court, particularly the influence of the Four Wangs: Wang Shimin, Wang Jian, Wang Hui, and Wang Yuanqi, whose styles shaped elite painting culture during the period. The present composition may be understood as a ceramic translation of ink painting, transforming brush-and-ink conventions into the medium of famille rose enamels. Tang Ying's surviving paintings, including a hanging scroll, in the Qing Court Collection, in the Palace Museum, Beijing (acc.no.新00071391), display atmospheric washes and precise brushwork indebted to orthodox landscape models, particularly those associated with Wang Yuanqi (1642/1646–1715), under whom Tang Ying studied. Comparable effects can be observed in the Marsh brushpot in the delicate trees, layered distance, and subtle tonal modulation achieved through enamel painting.
+
+The influence of orthodox literati landscape painting on porcelain decoration became particularly prominent during the Qianlong reign, and Tang Ying played a crucial role in facilitating this translation of elite artistic ideals into Imperial manufacture. Comparable examples include a famille rose two-handled vase and a teapot with landscape panels, both with Qianlong marks and of the period, illustrated in The Complete Collection of Treasures of the Palace Museum: Porcelains with Cloisonné Enamel Decoration and Famille Rose Decoration, Beijing, 2009, nos.130 and 110. These works demonstrate the period's preference for greenish-blue mountains receding into sepia-toned distance, enriched with famille rose foliage, a refined visual language derived from orthodox literati painting.
+
+The calligraphy on the present brushpot similarly reflects the literary culture surrounding Tang Ying's circle. The clerical script, with its sharply pointed brushstrokes and archaistic character, closely parallels Tang Ying's own calligraphic style, which was modelled on the Xia Chen stele of the Eastern Han dynasty (2nd century AD); see P.Y.K. Lam, 'Tang Ying (1682–1756): The Imperial Factory Superintendent at Jingdezhen,' Transactions of the Oriental Ceramic Society, vol.63, 1998–1999, pp.73 and 75, fig.10. Whether the inscription was written personally by Tang Ying or carefully transcribed under his direction cannot be established with certainty; nevertheless, its archaistic character aligns closely with the Qing Court fascination with antiquity and the refined revival of earlier artistic traditions. See also a square brushpot with an inscription by Tang Ying in the Palace Museum, Beijing (acc.no.新00154083).
+
+The fourteen-character couplet derives from the Southern Song writer Hua Yue (華岳, d.1221), though adapted by Tang Ying:
+
+展開樓閣添詩料，裝點江山歸畫圖
+
+Which may be translated as:
+
+Open the pavilion and gather fresh matter for verse;
+adorn the rivers and mountains and return them to painting.
+
+The inscription is more than a literary quotation: it describes the very process embodied by the vessel itself. Architecture unfolds like a handscroll, landscape is transformed into painted image, and poetry, painting, and porcelain converge in a single act of cultured creation.
+
+Accompanying the inscription are the iron-red seals Pianyue (片月, 'Crescent Moon') and Guwanshi (古完氏, 'Master of Ancient Accomplishments'). The former has traditionally been associated with Tang Ying, while recent research by Huang Qinghua has reconsidered the identity of the latter, identifying Guwanshi as the sobriquet of Lü Ji (呂績), a skilled painter active under Tang Ying at the Jingdezhen Imperial manufactory. 
+
+A similar Tang Ying landscape and inscription can be seen on a famille rose vase from the collections of Wong Kai Zu, Charles Russell, Paul and Helen Bernat and now Alan Chuang, illustrated by J.Thompson, The Alan Chuang Collection of Chinese Porcelain, Hong Kong, 2009, no.101, which was sold at Sotheby's London, 25 June 1946, lot 79, Sotheby's Hong Kong, 15 November 1988, lot 52, and Christie's Hong Kong, 29 April 2001, lot 516, and illustrated in Sotheby's Hong Kong: Twenty Years, 1973-1993, Hong Kong, 1993, pl.294, fig.2.
+
+Other porcelain works by Tang Ying, with Pianyue seal, include a celadon-glazed famille rose bamboo-shaped brushpot, Qianlong, in the Capital Museum, Beijing, illustrated by Geng Baochang, Ming Qing ciqi jianding (明清瓷器鑑定), Hong Kong, 1993, p.291, no.497; and a sepia-enamel 'dragon' brushpot, early Qianlong, signed by Tang Ying, in the Art Museum of the Chinese University of Hong Kong, illustrated in Qing Imperial Porcelain of the Kangxi, Yongzheng and Qianlong Reigns, Hong Kong, 1995, pl.85. See also a coral-ground famille rose 'Tang Ying' bowl, Qianlong cyclical Yihai date, corresponding to 1755 and of the period, which was sold at Christie's Hong Kong, 1 December 2009 lot 1921, and illustrated in Sotheby's Thirty Years in Hong Kong, Hong Kong, 2003, p.314, pl.355.
+
+Compare also with a related famille rose 'landscape' brushpot, Jiaqing seal mark and of the period, which reflects the enduring influence of Tang Ying and the orthodox landscape manner of the Four Wangs, in the Baur Collection, illustrated by J.Ayers, The Baur Collection, vol.4, Geneva, 1974, no.A 635.",https://images1.bonhams.com/image?src=Images/live/2026-02/27/25826626-1-33.jpg,https://www.bonhams.com/auction/32511/lot/3/an-extremely-rare-and-important-tang-ying-famille-rose-brushpot-bitong-qianlong-2/,Tang Ying,1682,1756,"AN EXTREMELY RARE AND IMPORTANT 'TANG YING' FAMILLE ROSE BRUSHPOT, BITONG",ceramics,"porcelain, famille rose enamels",N/A,N/A,13.5,cm,N/A,N/A,no,yes,yes,"Sotheby's Hong Kong, 26-27 October 1993, lot 262
+Spink & Son Ltd., London
+Acquired from the above on 21 July 1994","mountain landscape, craggy peaks, trees, pavilion, lake, sampan, figures, winding paths, stone stairways, boats",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 3,https://www.bonhams.com/auction/32511/lot/3/an-extremely-rare-and-important-tang-ying-famille-rose-brushpot-bitong-qianlong-2/,GBP,300000,379702.32,400000,506269.76,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,649881.29,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,462000.0,385000.0
+f5f78efa-4c8d-414a-a009-92812bcdfe38,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 4,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 15000.0, 'amount_usd': 18985.12}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 20000.0, 'amount_usd': 25313.49}]","A SMALL BLUE AND WHITE AND COPPER-RED 'LANDSCAPE' DISH
+Kangxi Zhonghe Tang mark, cyclically dated to the Xinhai year, corresponding to 1671 and of the period
+Finely potted with slightly curved tapering sides, rising from a countersunk flat base with channelled foot ring, painted in the interior with a lone sage holding a staff walking across a bridge, all within a lakeside landscape with mountains rendered with 'hemp-fibre' brushstrokes, and trees, some dotted with copper-red leaves, a poetic inscription with seal mark above, a band of classic scroll just beneath the mouth rim. 11.1cm (4 3/8in) diam.
+
+清康熙辛亥年（1671）青花釉裏紅詩文山水圖盤
+青花「康熙辛亥中和堂製」楷書款 
+款識：過橋分野色，移石動雲根。漱玉亭 
+印：「瞻公」
+
+Provenance:
+C.T. Loo & Co., Paris (label)
+Cohen collection, USA
+Berwald Oriental Art, London, 27 November 1997
+
+Published, Illustrated and Exhibited:
+The Oriental Ceramic Society, China Without Dragons: Rare Pieces from Oriental Ceramic Society Members, London, 2016, pp.240-241, no.145 (bottom dish)
+
+來源：
+盧吳公司，巴黎（標籤）
+Cohen舊藏，美國
+倫敦古董商Berwald Oriental Art，1997年11月27日
+
+展覽著錄：
+東方陶瓷學會，《龍隱：東方陶瓷學會會員稀珍藏品展》， 倫敦，2016年，第240-241頁，編號145（下側盤）
+
+The present lot is of considerable documentary significance as one of the earliest Imperial porcelains of the Kangxi reign, produced in the aftermath of a prolonged period of upheaval, when Qing authority over Jingdezhen remained fragile and direct Court commissions were still uncommon. The base is inscribed Kangxi xinhai Zhonghetang, or 'made in the Xinhai year of Kangxi (1671) for the Hall of Central Harmony', connecting the piece with the earliest recorded kiln production undertaken for the Imperial Court during this reign. Only a small but highly important group of porcelains bearing this inscription survives today, of which the present dish is an example.
+
+The Zhonghetang ('Hall of Central Harmony') inscription has long attracted scholarly attention, although its precise referent remains uncertain. One recent proposal suggests that it may relate to Fan Wenying (courtesy name Zhangong), a native of Fengtian who was appointed acting prefect of Raozhou, the prefecture encompassing Jingdezhen, in 1671; see China's Southern Paradise: Treasures from the Lower Yangzi Delta, New Haven and London, 2021, p.321. Although the significance of the inscription remains debated, the dated Xinhai group constitutes the earliest securely datable Imperial Kangxi porcelains, preceding the standardised reign-marked production of the later Kangxi period.
+
+Technically and stylistically, these early wares are distinguished by their restrained palette, most commonly combining underglaze cobalt-blue with copper-red, although a smaller number are known with rich monochrome glazes, including an unusual dark brown. Dishes of the present type are typically inscribed with a short poetic couplet, followed by the characters Shuyuting ('Clean Jade Pavilion') and the seal Zhangong ('Master Zhan'), reflecting the cultivated literati aesthetic that informed the earliest Imperial commissions of the Kangxi reign.
+
+The poem is attributed to the Tang dynasty poet Du Fu (712–770):
+
+過橋分野色，
+移石動雲根。
+
+Which may be translated as:
+
+Crossing the bridge, the colours of the fields divide;
+Shifting a stone, one stirs the very roots of the clouds.
+
+The imagery is characteristic of Du Fu's poetry, presenting a landscape whose appearance shifts with the viewer's movement. Crossing a bridge changes the perceived divisions of the landscape, while the displacement of a single stone appears to disturb even the 'roots' of the clouds, conveying an intimate relationship between the visible world and the unseen forces that animate it. The inscription is entirely in keeping with the refined literary taste reflected in this early group of Imperial wares.
+
+For related examples, see five comparable blue and white and copper-red dishes, three bearing the same Xinhai date of 1671 but with different poetic inscriptions and landscape compositions, illustrated by Wang Qingzheng, Kangxi Porcelain Wares from the Shanghai Museum Collection, Hong Kong, 1998, pls.1–5. Another closely related dish of the same date is illustrated in Gugong bowuyuan cang qingdai ciqi lei xuan, Beijing, 2005, pl.6. Further comparisons include three Xinhai-dated dishes, illustrated by T.Canepa and K.Butler, Leaping the Dragon Gate: The Sir Michael Butler Collection of Seventeenth Century Chinese Porcelain, London, 2021, p.420. 
+
+Compare also a similar dish, Zhonghetang mark and cyclically dated to the Xinhai year (1671), formerly in the Marsh Collection, exhibited and published alongside the present lot, which was sold at Bonhams London, 6 November 2025, lot 9.",https://images1.bonhams.com/image?src=Images/live/2026-06/19/25862154-18-1.jpg,https://www.bonhams.com/auction/32511/lot/4/a-small-blue-and-white-and-copper-red-landscape-dish-kangxi-zhonghe-tang-mark-cyclically-dated-to-the-xinhai-year-corresponding-to-1671-and-of-the-period/,N/A,N/A,N/A,A SMALL BLUE AND WHITE AND COPPER-RED 'LANDSCAPE' DISH,ceramics,porcelain,N/A,N/A,N/A,cm,1671,1671,no,yes,yes,"C.T. Loo & Co., Paris (label)
+Cohen collection, USA
+Berwald Oriental Art, London, 27 November 1997","sage, bridge, lake, mountains, trees, poetic inscription, copper-red leaves, clouds, water",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 4,https://www.bonhams.com/auction/32511/lot/4/a-small-blue-and-white-and-copper-red-landscape-dish-kangxi-zhonghe-tang-mark-cyclically-dated-to-the-xinhai-year-corresponding-to-1671-and-of-the-period/,GBP,15000,18985.12,20000,25313.49,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,24169.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,23400.0,19500.0
+7fa549e0-4551-4b34-b0a1-3d2e77d19307,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 5,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 20000.0, 'amount_usd': 25313.49}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 30000.0, 'amount_usd': 37970.23}]","A BLUE AND WHITE 'LADY PLAYING FLUTE' BRUSHPOT, BITONG
+Chongzhen
+Sturdily potted with tapering sides rising from an unglazed foot to an unglazed rim, the exterior finely painted in underglaze cobalt-blue with a continuous landscape scene depicting a lady standing in a luxurious pavilion furnished with a screen and table bearing a book, brushpot and water pot, attended by two maidservants, the lady plays a flute while gazing towards a scholar mounted on horseback, who turns to look back over his shoulder, accompanied by an attendant carrying a shoulder pole suspending boxes, the scene framed by trees, swirling clouds and a distant city wall within a misty landscape. 21.8cm (8 1/2in) diam.
+
+明崇禎 青花人物故事圖筆筒 
+
+Provenance:
+Berwald Oriental Art, London
+Acquired from the above on 6 July 2016
+
+來源：
+倫敦古董商Berwald Oriental Art
+從上處獲得于2016年7月6日 
+
+The scene painted on the present brushpot belongs to the rich visual tradition of scholar and beauty (caizi jiaren) imagery that flourished during the late Ming and early Qing periods. The principal figures comprise a mounted scholar, accompanied by an attendant carrying a shoulder yoke, who turns to look towards a lady standing within a pavilion and playing the flute. Such scenes were intended to evoke ideals of romance, refinement, and literary accomplishment, themes that found expression in both popular drama and elite literature.
+
+The flute-playing lady may recall celebrated poetic imagery such as that found in Du Mu's 杜牧 (803–852) Sent to Assistant Magistrate Han Chuo of Yangzhou (Ji Yangzhou Han Chuo Panguan 寄揚州韓綽判官):
+
+青山隱隱水迢迢，
+秋盡江南草未凋。
+二十四橋明月夜，
+玉人何處教吹簫？
+
+Which may be translated as:
+
+Dimly the green hills recede, while the waters stretch endlessly afar;
+Though autumn has passed, the grasses of Jiangnan have not yet withered.
+On a moonlit night by the Twenty-Four Bridges,
+Where is that jade-like figure now, teaching the flute?
+
+The celebrated concluding line asks, 'Where is that jade-like figure now, teaching the flute?' (玉人何處教吹簫？). By the seventeenth century, this poetic image had become deeply embedded within the Chinese visual imagination and was frequently employed to suggest longing, separation, and cultivated elegance. See for example, a blue and white jardinière, Kangxi, with a lady gazing out from a pavilion, but not playing a flute and with a different poetic inscription, illustrated in Folklore in Ming and Qing Porcelain, Hong Kong, 2019, pp.68-69.
+
+More broadly, however, the composition bears comparison with illustrations to dramatic literature, particularly The Romance of the Western Chamber (Xixiangji). The motif of a scholar travelling on horseback, accompanied by a servant bearing luggage, closely resembles depictions of Scholar Zhang's journey found in early woodblock editions of the play. The presence of walls, architectural structures, and banners in the distance may further reinforce the suggestion of arrival at an important urban or religious destination, recalling the opening episodes of the drama of Scholar Zhang's journey to the capital. Whether intended as a direct literary reference or a more general evocation of the scholar and beauty tradition, the scene demonstrates the close relationship between literature, theatre, and the decorative arts during the seventeenth century, when popular narratives increasingly supplied artists with a rich repertoire of pictorial subjects.
+
+Compare with a related large blue and white 'investiture of the Gods' brushpot, Chongzhen, with similarly tapering sides, which was sold at Sotheby's New York, 22 March 2023, lot 513.",https://images1.bonhams.com/image?src=Images/live/2026-06/16/25862154-8-2.jpg,https://www.bonhams.com/auction/32511/lot/5/a-blue-and-white-lady-playing-flute-brushpot-bitong-chongzhen/,N/A,N/A,N/A,"A BLUE AND WHITE 'LADY PLAYING FLUTE' BRUSHPOT, BITONG",ceramics,ceramic,N/A,N/A,N/A,cm,N/A,N/A,no,yes,yes,"Berwald Oriental Art, London
+Acquired from the above on 6 July 2016","lady, flute, pavilion, horse, scholar, maidservants, trees, clouds, city wall, misty landscape",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 5,https://www.bonhams.com/auction/32511/lot/5/a-blue-and-white-lady-playing-flute-brushpot-bitong-chongzhen/,GBP,20000,25313.49,30000,37970.23,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,35788.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,32000.0,26666.666666666668
+2d3d8a3b-e1da-4a37-9ca1-78fe151ae3bf,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 6,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 20000.0, 'amount_usd': 25313.49}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 30000.0, 'amount_usd': 37970.23}]","A LARGE DOUCAI 'EGRETS IN A LOTUS POND' BOWL
+Kangxi
+Of rounded form with swelling shoulders, decorated around the exterior with a continuous lotus-pond scene depicting egrets outlined in underglaze-blue amongst luxuriant red-enamelled lotus blossoms and sweeping emerald-green leaves, all enclosed by bands of stud-like circles at the mouth and foot. 26cm (10 1/4in) diam.
+
+清康熙 鬥彩一路連科紋缽缸
+
+Provenance:
+Bukowskis Stockholm, 1-4 June 2010, lot 1576
+Berwald Oriental Art, London
+Acquired from the above on 10 November 2010
+
+來源：
+斯德哥爾摩Bukowskis，2010年6月1-4日，拍品編號1576
+倫敦古董商Berwald Oriental Art
+從上處獲得于2010年11月10日 
+
+The representation of egrets amongst lotus plants combines two motifs rich in symbolic meaning within the Chinese decorative tradition. The lotus (lianhua 蓮花), emerging unstained from muddy waters, has long been admired as an emblem of purity, integrity, and spiritual refinement. Its name also forms a rebus with lian (連), meaning 'continuous' or 'successive', making it a popular symbol of continuity and abundance.
+
+The egret (lu 鷺) carries its own auspicious associations. Through a visual pun, lu is homophonous with lu (路), meaning 'road' or 'path', and appears frequently in decorative arts as a symbol of advancement and success. When combined with the lotus, the motif may allude to the phrase yilu lianke (一路連科), 'may you pass successive examinations all along your path', expressing wishes for continuous scholarly achievement and official promotion. Such imagery would have been particularly appropriate in the Kangxi period, when the restoration of the civil service examination system after the turmoil of the Ming-Qing transition renewed the importance of scholarly advancement as a route to status and office.
+
+Beyond its rebus meaning, the image of elegant white egrets wading amongst lotus blooms also evokes the cultivated naturalism celebrated in Chinese painting and poetry. The pairing creates a tranquil waterside scene that embodies purity, harmony, and the refined pleasures of the literati garden, while simultaneously conveying auspicious wishes for success, distinction, and enduring prosperity.
+
+See a related fish bowl with design of fish in copper-red, Kangxi, illustrated in Kangxi Porcelain Wares from the Shanghai Museum Collection, Hong Kong, 1998, no.72. See also a larger famille verte vat, Kangxi, of similar shape and decorated with a dragon, illustrated in Weisses Gold: Porcelain and Architectural Ceramics from China 1400 to 1900, Cologne, 2015, no.50.",https://images1.bonhams.com/image?src=Images/live/2026-06/23/25862154-9-2.jpg,https://www.bonhams.com/auction/32511/lot/6/a-large-doucai-egrets-in-a-lotus-pond-bowl-kangxi/,Kangxi,N/A,N/A,A LARGE DOUCAI 'EGRETS IN A LOTUS POND' BOWL,ceramics,porcelain,N/A,26.0,N/A,cm,N/A,N/A,no,yes,yes,"Bukowskis Stockholm, 1-4 June 2010, lot 1576
+Berwald Oriental Art, London
+Acquired from the above on 10 November 2010","egrets, lotus pond, lotus blossoms, green leaves, circles, water, flowers, birds, nature, purity, harmony",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 6,https://www.bonhams.com/auction/32511/lot/6/a-large-doucai-egrets-in-a-lotus-pond-bowl-kangxi/,GBP,20000,25313.49,30000,37970.23,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,30609.49,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,33400.0,27833.333333333336
+deb76fcc-74b7-43e9-8a39-755947954ad0,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 7,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 25000.0, 'amount_usd': 31641.86}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 35000.0, 'amount_usd': 44298.6}]","A LARGE BLUE AND WHITE 'SHOULAO AND THE EIGHT DAOIST IMMORTALS' DISH
+Yutang Jiaqi four-character mark, Shunzhi
+With deeply rounded sides rising from a short inward-tapering foot to a brown-painted rim, the interior painted with a scene depicting the Eight Daoist Immortals bearing their various attributes and paying homage to Shoulao across a stream, Li Tieguai standing amongst them with curling vapours issuing from his magical double-gourd vessel, the smoke rising to form a shou (longevity) character above an incense burner before Shoulao, who is accompanied by a deer, all set within a landscape of rocks and pine trees. 36cm (14 1/8in) diam.
+
+清順治 青花八仙祝壽圖盤 
+青花「玉堂佳器」楷書款
+
+Provenance:
+Sotheby's London, 19 November 1985, lot 4
+S. Marchant & Son, London, 1985
+Julia and John Curtis, New York
+Christie's New York, An Era of Inspiration: 17th-Century Chinese Porcelains from the Collection of Julia and John Curtis, 16 March 2015, lot 3560
+
+來源：
+倫敦蘇富比，1985年11月19日，拍品編號4 
+倫敦古董商馬錢特，1985年 
+朱麗雅及約翰‧柯蒂斯伉儷，紐約
+紐約佳士得，""奔放奇逸：朱麗雅及約翰‧柯蒂斯珍藏十七世紀中國瓷器""，2015年3月16日，拍品編號3560 
+
+The present dish depicts the Eight Immortals paying homage to Shoulao, the God of Longevity, a highly auspicious Daoist subject expressing wishes for longevity, prosperity and protection. Shoulao, one of the principal deities of the Daoist pantheon, is traditionally shown accompanied by a deer, whose name lu forms a visual rebus for official prosperity (lu) and whose association with longevity further reinforces the auspicious meaning of the composition. The Eight Immortals, each representing different paths of spiritual cultivation and transcendence, are shown in collective veneration before Shoulao, emphasising his supreme authority over longevity and immortality. Such imagery would have carried particular significance during the political uncertainty of the seventeenth century, when porcelains decorated with auspicious themes reflected hopes for enduring prosperity and well-being.
+
+The present dish belongs to an early group of large saucer-dishes that retain stylistic characteristics inherited from High Transitional porcelain, including finely articulated figural drawing, carefully delineated facial features and garments, and the use of the so-called 'fish-roe' texture in the rendering of foliage. Comparable dishes from the later Shunzhi period demonstrate a gradual development towards a more fluid and painterly style. These include an example from the Caromy Hoare collection, illustrated by M.Butler, S.Little and J.Curtis, Shunzhi: Treasures from an Unknown Reign, Seattle and London, 2002, p.225, no.76, and a dish from the Butler Collection, illustrated by T.Canepa and K.Butler, Leaping the Dragon Gate: The Sir Michael Butler Collection of Seventeenth Century Chinese Porcelain, London, 2021, p.280.
+
+In these later examples, the treatment of the figures becomes increasingly abbreviated and expressive, while cloud scrolls develop into more formalised swirling and spiralling motifs. Landscape details likewise evolve: grasses are rendered through repeated U-shaped strokes arranged in overlapping rows, while rock formations are constructed through dense, parallel curving lines following the contours of the forms, replacing the dotted texturing characteristic of High Transitional porcelain. In both the Butler and Hoare collection examples, the outlines of the rocks are further reinforced with darker washes, a feature frequently associated with Shunzhi period porcelain painting.
+
+A closely related blue and white dish depicting the Eight Immortals paying homage to Shoulao, Yutang Jiaqi mark, Shunzhi, is in the Palace Museum, Beijing, illustrated in Qing Shunzhi Kangxi chao qinghuaci, Beijing, 2005, pp.38–39.",https://images1.bonhams.com/image?src=Images/live/2026-06/19/25862154-7-3.jpg,https://www.bonhams.com/auction/32511/lot/7/a-large-blue-and-white-shoulao-and-the-eight-daoist-immortals-dish-yutang-jiaqi-four-character-mark-shunzhi/,Unknown,N/A,N/A,A LARGE BLUE AND WHITE 'SHOULAO AND THE EIGHT DAOIST IMMORTALS' DISH,ceramics,porcelain,N/A,N/A,N/A,cm,N/A,N/A,no,yes,yes,"Sotheby's London, 19 November 1985, lot 4
+S. Marchant & Son, London, 1985
+Julia and John Curtis, New York
+Christie's New York, An Era of Inspiration: 17th-Century Chinese Porcelains from the Collection of Julia and John Curtis, 16 March 2015, lot 3560","Eight Daoist Immortals, Shoulao, deer, incense burner, landscape, rocks, pine trees, streams, figures, attributes, longevity character",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 7,https://www.bonhams.com/auction/32511/lot/7/a-large-blue-and-white-shoulao-and-the-eight-daoist-immortals-dish-yutang-jiaqi-four-character-mark-shunzhi/,GBP,25000,31641.86,35000,44298.6,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,44298.63,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,38800.0,32333.333333333336
+8c9c36e1-2967-4363-9621-d4371e009733,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 8,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 50000.0, 'amount_usd': 63283.72}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 70000.0, 'amount_usd': 88597.21}]","AN EXCEPTIONALLY RARE UNDERGLAZE-RED 'ZHONG KUI AND DEMON' ROULEAU VASE
+Kangxi
+Finely potted with a tall cylindrical body rising to a waisted neck with a raised rib beneath a galleried rim, the exterior boldly painted with Zhong Kui, the famed demon-queller, depicted grasping a sword and gazing towards an auspicious bat overhead, his fierce visage, distinguished by vivid cobalt-blue eyes, a wild flowing beard and scholar's cap, emerges from robes dramatically billowing in the wind, at his side, a horned demon attendant clad in an animal-skin tunic offers a vase filled with flowering plum branches. 45cm (17 3/4in) high.
+
+清康熙 釉裏紅青花點睛鍾馗圖棒槌瓶 
+
+Provenance:
+Sotheby's Hong Kong, 16 November 1983, lot 543
+S. Marchant & Son, London, 1984
+George Frederick Wingfield Digby (1911-1989) and Cornelia Wingfield Digby (1911-2001), Sherborne, Dorset
+Sotheby's Olympia, London, The George and Cornelia Wingfield Digby Collection of Chinese and Japanese Porcelain, 12 June 2003, lot 1123
+
+Published, Illustrated, and Exhibited:
+Sherborne Castle, Dorset, prior to 2003 (Exhibited)
+The Oriental Ceramic Society, China Without Dragons: Rare Pieces from Oriental Ceramic Society Members, London, 3-9 November 2016, pp.250-251, no.150 (Published, Illustrated and Exhibited)
+
+來源：
+香港蘇富比，1983年11月16日，拍品編號543
+倫敦古董商馬錢特，1984年
+George Frederick Wingfield Digby (1911-1989)及Cornelia Wingfield Digby (1911-2001)，舍伯恩，英國多塞特郡
+奧林匹亞蘇富比，倫敦，""The George and Cornelia Wingfield Digby Collection of Chinese and Japanese Porcelain""，2003年6月12日，拍品編號1123
+
+展覽著錄：
+舍伯恩城堡，英國多塞特郡，2003年前（展覽）
+東方陶瓷學會，《龍隱：英國東方陶瓷學會會員珍稀藏品展》，倫敦，2016年11月3-9日，第250-251頁，編號150（展覽著錄） 
+
+George Wingfield Digby was keeper of the textile department at the Victoria and Albert Museum, London (1957-1972). 
+
+Zhong Kui (鍾馗), the legendary demon-queller, occupies a prominent place in Chinese popular religion and visual culture. According to tradition, he was a gifted scholar who achieved the highest marks in the Imperial examinations, but was denied official honours because of his unattractive appearance. In despair, he took his own life on the palace steps. The Tang Emperor Xuanzong later dreamed of Zhong Kui vanquishing demons that had plagued him during an illness; upon awakening, the Emperor was cured and decreed that images of Zhong Kui should be displayed as talismans against malevolent spirits. Thereafter, Zhong Kui became one of the most widely depicted apotropaic figures in Chinese art, particularly during the fifth lunar month, a period traditionally associated with disease and harmful influences.
+
+The imagery on the present vase is rich in auspicious symbolism. The bat (fu 蝠) serves as a visual pun for fu (福), meaning 'blessing', 'good fortune', or 'happiness', and is among the most common emblems of auspiciousness in Chinese decorative art. The demon attendant carrying a vase filled with blossoming plum branches similarly conveys positive wishes. The vase (ping 瓶) forms a rebus with ping'an (平安), meaning 'peace' or 'safe passage', while plum blossom (mei 梅), flowering amid the hardships of winter, symbolises perseverance, renewal, and the arrival of spring. Together, these motifs express wishes for blessings, peace, protection, and the triumph of good fortune over adversity.
+
+The vivid underglaze-red palette further reinforces the protective nature of the decoration. Red has long been regarded in China as a powerful colour capable of repelling evil influences, averting misfortune, and warding off disease. The combination of Zhong Kui, auspicious emblems, and a brilliant red palette suggests that the vase was intended not merely as an ornamental object but also as a potent visual expression of protection, health, and prosperity.
+
+See a related underglaze-red decorated vase with Zhong Kui and demon carrying a vase with prunus, Kangxi, illustrated in Kangxi Porcelain Wares from the Shanghai Museum Collection, Shanghai, 1998, p.118, no.80. A vase decorated in underglaze-red with dragons, further embellished with underglaze-blue eyes, Kangxi, is illustrated by T.Canepa and K.Butler, Leaping the Dragon Gate: The Sir Michael Butler Collection of Seventeenth Century Chinese Porcelain, London, 2021, p.466.",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25862154-10-1.jpg,https://www.bonhams.com/auction/32511/lot/8/an-exceptionally-rare-underglaze-red-zhong-kui-and-demon-rouleau-vase-kangxi/,N/A,N/A,N/A,AN EXCEPTIONALLY RARE UNDERGLAZE-RED 'ZHONG KUI AND DEMON' ROULEAU VASE,ceramics,Porcelain,N/A,N/A,45.0,cm,N/A,N/A,no,yes,yes,"Sotheby's Hong Kong, 16 November 1983, lot 543
+S. Marchant & Son, London, 1984
+George Frederick Wingfield Digby (1911-1989) and Cornelia Wingfield Digby (1911-2001), Sherborne, Dorset
+Sotheby's Olympia, London, The George and Cornelia Wingfield Digby Collection of Chinese and Japanese Porcelain, 12 June 2003, lot 1123","Zhong Kui, demon, sword, bat, vase, plum branches, robes, flowing beard, cap, auspicious symbols",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 8,https://www.bonhams.com/auction/32511/lot/8/an-exceptionally-rare-underglaze-red-zhong-kui-and-demon-rouleau-vase-kangxi/,GBP,50000,63283.72,70000,88597.21,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,106876.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,79750.0,66458.33333333334
+be74945a-d8ae-4b30-8d9a-ad4ea4770759,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 9,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 25000.0, 'amount_usd': 31641.86}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 35000.0, 'amount_usd': 44298.6}]","A RARE BLUE AND WHITE 'KUI XING' BRUSHPOT, BITONG
+Shunzhi
+The cylindrical vessel rising to an unglazed mouth rim and vibrantly painted around the exterior with a continuous scene of Kui Xing clad in an animal fur tunic with billowing scarf around his shoulders, one foot atop the mythical fish-dragon (ao) emerging from whirlpools amidst craggy rocks and spray, all beneath a star constellation and measuring vessel in the sky, beside a twenty-five-character poetic inscription, the flat base unglazed. 19.5cm (7 5/8in) high.
+
+清順治 青花魁星點斗圖詩文筆筒 
+款識：筆掃九靝雲霧，斗量萬觚珠璣。手提至寶獻明時，足躡青雲萬里。 
+
+Provenance:
+Jan van Beers Oriental Art, London
+Acquired from the above on 15 November 1999
+
+Published and Illustrated:
+M.Butler, J.B.Curtis and S.Little, Shunzhi Porcelain: Treasures from an Unknown Reign, Alexandria VA, 2002, p.45, figs.3-4
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.100-101
+
+來源：
+倫敦古董商Jan van Beers Oriental Art
+從上處獲得于1999年11月15日
+
+著錄：
+M.Butler, J.B.Curtis 及 S.Little，《Shunzhi Porcelain: Treasures from an Unknown Reign》，美國弗吉尼亞州亞歷山德裏亞，2002年，第45頁，插圖3-4
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第100-101頁 
+
+The result of Oxford Authentication Ltd. thermoluminescence test no.P299f47 dated 27 October 1999, is consistent with the dating of this lot.
+
+本拍品經牛津熱釋光檢測，編號P299f47（1999年10月27日），結果與其斷代相符
+
+Remarkably, the same twenty-five-character poem on the present lot appears again on Lots 10 and 11 in this catalogue, and seemingly in the hand of the very same calligrapher. This may be identified through the distinctive use of an archaic form of the character shi (時), meaning 'time' or 'moment', which occurs consistently across the inscriptions. The recurrence of both poem and calligraphy strongly suggests the work of a single specialist decorator or inscription writer operating within the same workshop.
+
+In Shunzhi Porcelain: Treasures from an Unknown Reign, Michael Butler, Julia Curtis, and Stephen Little note on p.63 that Bai Qianshen identified this calligrapher as the same individual responsible for the distinctive clerical script on the 'Three Friends of Winter' vase dated 1653 in the Shanghai Museum. A very similar blue and white brushpot, Shunzhi, is illustrated in Ibid., p.45, figs.3-4. 
+
+Kui Xing 魁星, whose name may be translated as 'Chief Star', is the Daoist deity associated with literature and success in the Imperial Examinations. Images of the god were especially popular among scholars, for whom such imagery served both as an auspicious emblem and as a visual invocation of academic achievement.
+
+The character kui (魁) incorporates the radical for 'ghost' or 'demon' (鬼) together with the component dou (斗), meaning a ladle or dipper, alluding to Kui Xing's celestial association with the Big Dipper. This attribute is represented on the present vessel by the square-form dipper floating above. Kui Xing is traditionally depicted with an unusual and sometimes grotesque appearance: a gaunt body, protruding features, and a horn-like growth upon his head.
+
+According to legend, Kui Xing was once a brilliant scholar whose physical ugliness prevented him from attaining success in the civil service examinations. In despair, he cast himself into a river, where he was rescued by the mythical ao creature. Thereafter, he ascended to the heavens and became the divine patron of scholars and literary accomplishment.
+
+Dreams of Kui Xing on the eve of the examinations were considered highly auspicious, while the successful candidate who achieved first place, the zhuangyuan, was symbolically associated with the ao beast. Representations of Kui Xing standing upon an ao thus became enduring symbols of scholarly distinction, examination success, and advancement to high office. The poem further underscores themes of literary accomplishment:
+
+筆掃九靝雲霧，
+斗量萬觚珠璣，
+手提至寶獻明時，
+足躡青雲萬里
+
+Which may be translated as: 
+
+The brush sweeps away the clouds and mists of the nine heavens;
+by the dipperful are measured myriad cups of pearls and jade-like gems.
+With treasured rarities in hand, they are presented to an enlightened age;
+their feet tread the blue clouds for ten thousand li.
+
+The poem celebrates the power of the brush and the attainment of scholarly distinction. The opening line, 'the brush sweeps away the clouds and mists of the nine heavens,' evokes the extraordinary force of literary talent, capable of dispelling ignorance and reaching the celestial realm itself. The following phrase, referring to 'pearls and jade-like gems measured by the dipperful,' likens refined writing and learned thought to precious treasures of immeasurable value. The third line, 'with treasured rarities in hand, they are presented to an enlightened age,' suggests the offering of one's cultivated abilities to a wise and flourishing dynasty, while the final line, 'treading the blue clouds for ten thousand li,' alludes to meteoric advancement and success in the Imperial examinations. Together, the imagery closely accords with Kui Xing's role as patron of scholars, embodying aspirations for literary brilliance, official promotion, and enduring fame.
+
+See a related blue and white documentary 'Kui Xing' vessel, dated to the Jiawu year, corresponding to 1654 and of the period, which was sold at Bonhams London, 3 November 2022, lot 3.",https://images1.bonhams.com/image?src=Images/live/2026-06/16/25862154-1-3.jpg,https://www.bonhams.com/auction/32511/lot/9/a-rare-blue-and-white-kui-xing-brushpot-bitong-shunzhi/,N/A,N/A,N/A,"A RARE BLUE AND WHITE 'KUI XING' BRUSHPOT, BITONG",ceramics,porcelain,N/A,N/A,19.5,cm,N/A,N/A,no,yes,yes,"Jan van Beers Oriental Art, London
+Acquired from the above on 15 November 1999","Kui Xing, fish-dragon, poetry, stars, scrolls, waves, rocks, clouds, inscriptions, brushpot",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 9,https://www.bonhams.com/auction/32511/lot/9/a-rare-blue-and-white-kui-xing-brushpot-bitong-shunzhi/,GBP,25000,31641.86,35000,44298.6,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,44298.69,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,38800.0,32333.333333333336
+029c35cf-de68-4a93-81a0-3140e2999e7d,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 10,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 12000.0, 'amount_usd': 15188.09}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 15000.0, 'amount_usd': 18985.12}]","A RARE BLUE AND WHITE 'KUI XING' JAR
+Shunzhi
+Robustly potted rising from a flat base to swelling shoulders surmounted by a tapering narrow mouth rim, boldly painted around the exterior with Kui Xing clad in animal fur tunic and billowing scarves, a brush in right hand and a silver ingot in his left, his left foot atop the mythical fish-dragon or ao, all amidst swirling waves, beneath the north star constellation and a dipper, all beside a twenty-five-character inscription, with carved bamboo cover. 26cm (10 1/4in) high. (2).
+
+清順治 青花魁星點斗圖詩文罐
+款識：筆掃九靝雲霧，斗量萬觚珠璣。手提至寶獻明時，足躡青雲萬里。 
+
+Provenance:
+Jan van Beers Oriental Art, London
+Acquired from the above on 5 December 2014
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.100-101
+
+來源：
+倫敦古董商Jan van Beers Oriental Art
+從上處獲得于2014年12月5日
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第100-101頁 
+
+The present vessel belongs to a small group of highly distinctive Shunzhi period porcelains decorated with images of Kui Xing (魁星), the Daoist deity associated with literature, scholarly distinction, and success in the Imperial examinations. Accompanying the figure is a twenty-five-character poem, also found on Lots 9 and 11:
+
+筆掃九靝雲霧，
+斗量萬觚珠璣，
+手提至寶獻明時，
+足躡青雲萬里
+
+Which may be translated:
+
+The brush sweeps away the clouds and mists of the nine heavens; 
+by the dipperful are measured myriad cups of pearls and jade-like gems. 
+With treasured rarities in hand, they are presented to an enlightened age; 
+their feet tread the blue clouds for ten thousand li.
+
+The inscription is rich in examination imagery. The brush is endowed with the power to reach the celestial realm, whilst literary accomplishment is compared to pearls and jade of immeasurable worth. The final phrase, describing one who 'treads the blue clouds for ten thousand li', alludes to extraordinary advancement and success within the Imperial examination system. Together, text and image form a coherent visual programme celebrating scholarly achievement and official promotion.
+
+Particularly noteworthy is the recurrence of both the poem and its distinctive calligraphy on related vessels (see also Lots 9 and 11). The inscriptions share an unusual archaic form of the character shi (時), meaning 'time' or 'moment', strongly suggesting the hand of a single specialist calligrapher or inscription writer. In Shunzhi Porcelain: Treasures from an Unknown Reign, Michael Butler, Julia Curtis, and Stephen Little note (p.63) that Bai Qianshen identified this calligraphic hand as corresponding to that found on the celebrated 'Three Friends of Winter' vase dated 1653 in the Shanghai Museum. 
+
+For a further example of the subject, see a blue and white rolwagen, circa 1650, similarly decorated with Kui Xing and bearing the same inscription, illustrated by J.B.Curtis, Chinese Porcelains of the Seventeenth Century: Landscapes, Scholars' Motifs and Narratives, New York, 1995, pp.118–119.
+
+Kui Xing occupied a special place in the aspirations of degree candidates. The character kui (魁) incorporates the radical for 'ghost' or 'demon' together with dou (斗), meaning a dipper, referring to the deity's association with the Big Dipper, represented on the present vessel by the square-form dipper floating above. According to legend, Kui Xing was a gifted scholar whose unattractive appearance prevented him from attaining examination success. After throwing himself into a river in despair, he was rescued by the mythical ao creature and subsequently transformed into the heavenly patron of scholars. Images of Kui Xing standing atop an ao therefore became enduring symbols of literary distinction, examination success, and advancement to high office.
+
+Compare with a blue and white documentary Kui Xing vessel, dated to the Jiawu year, corresponding to 1654, and of the period, which was sold at Bonhams London, 3 November 2022, lot 3.",https://images1.bonhams.com/image?src=Images/live/2026-06/18/25862154-3-4.jpg,https://www.bonhams.com/auction/32511/lot/10/a-rare-blue-and-white-kui-xing-jar-shunzhi-2/,N/A,N/A,N/A,A RARE BLUE AND WHITE 'KUI XING' JAR,ceramics,porcelain,N/A,N/A,26.0,cm,N/A,N/A,no,yes,yes,"Jan van Beers Oriental Art, London
+Acquired from the above on 5 December 2014","jar, Kui Xing, swirling waves, south star constellation, silver ingot, mythical fish-dragon, animal fur tunic, billowing scarves, poem inscription, calligraphy",2,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 10,https://www.bonhams.com/auction/32511/lot/10/a-rare-blue-and-white-kui-xing-jar-shunzhi-2/,GBP,12000,15188.09,15000,18985.12,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,24181.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,17450.0,14541.666666666668
+9342e893-5c4e-460e-b25f-bff98815f47c,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 11,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 15000.0, 'amount_usd': 18985.12}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 20000.0, 'amount_usd': 25313.49}]","A RARE BLUE AND WHITE 'KUI XING' BEAKER VASE
+Shunzhi
+Elegantly potted rising from a spreading foot to a tall trumpet neck with brown-painted rim, boldly painted around the exterior with Kui Xing clad in animal fur tunic and billowing scarves, a brush in right hand and a silver ingot in his left, his left foot atop the mythical fish-dragon or ao, all amidst swirling waves, beneath the north star constellation and a dipper, twenty-five-characters inscription, the central section of the vase painted with craggy Taihu scholars' rocks, the lower section of the vase with pendant plantain leaves. 39.3cm (15 1/2in) high.
+
+清順治 青花魁星點斗詩文花觚
+款識：筆掃九靝雲霧，斗量萬觚珠璣。手提至寶獻明時，足躡青雲萬里。
+
+Provenance:
+Kwok Gallery, Singapore, 28 September 1985
+An Asian private collection
+Christie's London, 4 November 2008, lot 172
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.100-101
+
+來源：
+郭古玩行私人有限公司，新加坡，1985年9月28日
+亞洲私人收藏
+倫敦佳士得，2008年11月4日，拍品編號172
+
+著錄：
+墨一閑，《筆筒淵鑑：收藏家的隨心所悟》，香港，2020年，第100-101頁 
+
+Of particular interest is the inscription borne on the present vessel, a twenty-five-character poem celebrating literary accomplishment and official advancement, which can also be seen on Lots 9 and 10:
+
+筆掃九靝雲霧，
+斗量萬觚珠璣，
+手提至寶獻明時，
+足躡青雲萬里
+
+Which may be translated:
+
+The brush sweeps away the clouds and mists of the nine heavens; 
+by the dipperful are measured myriad cups of pearls and jade-like gems. 
+With treasured rarities in hand, they are presented to an enlightened age; 
+their feet tread the blue clouds for ten thousand li.
+
+The poem extols the transformative power of literary talent and learned accomplishment. Refined writing is likened to pearls and jade of immeasurable value, whilst the concluding image of 'treading the blue clouds' evokes rapid advancement through the Imperial examination system and elevation to official rank. Such themes accord closely with the accompanying image of Kui Xing (魁星), the Daoist deity associated with literature and scholarly success.
+
+Most remarkably, the same twenty-five-character poem appears on Lots 9 and 10 in this catalogue, seemingly written by the very same hand. This may be recognised through the distinctive use of an archaic form of the character shi (時), meaning 'time' or 'moment', which recurs consistently across the inscriptions. The repetition of both text and calligraphic style strongly suggests the work of a single specialist inscription writer operating within the same workshop tradition. In Shunzhi Porcelain: Treasures from an Unknown Reign, Michael Butler, Julia Curtis, and Stephen Little note (p.63) that Bai Qianshen identified this calligraphic hand as corresponding to that found on the celebrated 'Three Friends of Winter' vase dated 1653 in the Shanghai Museum.
+
+Widely revered by examination candidates, Kui Xing was regarded as the divine patron of literary distinction and official promotion. The character kui (魁) combines the radical for 'ghost' or 'demon' with the component dou (斗), meaning a dipper or ladle, alluding to the deity's celestial association with the Big Dipper, represented on the present vessel by the square-form dipper shown above. According to legend, Kui Xing was a brilliant scholar whose ungainly appearance prevented him from achieving success in the examinations. After casting himself into a river in despair, he was rescued by the mythical ao creature and subsequently ascended to the heavens, becoming the patron deity of scholars. Images of Kui Xing standing atop an ao thus became potent emblems of examination success, literary accomplishment, and advancement to high office.
+
+The central register is further decorated with a band of fantastically perforated Taihu rocks, among the most prized objects within the scholar's studio. During the late Ming and early Qing periods, the collecting and connoisseurship of scholars' rocks attained unprecedented popularity amongst the educated elite, who admired their dramatic silhouettes, weathered surfaces, and evocative resemblance to mountains and cosmic landscapes in miniature. Their cultural significance is reflected in contemporary literature, notably in Pu Songling's (1640-1715) Liaozhai zhiyi, where the tale The Ethereal Rock (石清虛) recounts a collector so captivated by a remarkable scholar's rock that he is willing to sacrifice years of his life in order to possess it. The inclusion of Taihu rocks on the present vessel therefore reinforces its distinctly scholarly character, complementing the imagery of Kui Xing and the accompanying poem celebrating literary accomplishment and official success. See another related blue and white beaker vase, with similar decoration of rocks around the middle register above pendant leaves, but with a lotus pond on the upper register, Shunzhi, in the Palace Museum, Beijing, illustrated in Qing Shunzhi Kangxi chao qinghuaci, Beijing, 2005, pp.104-105, no.55.
+
+See also a blue and white rolwagen, circa 1650, with similar depiction of Kui Xing and the same inscription, illustrated by J.B.Curtis, Chinese Porcelains of the Seventeenth Century: Landscapes, Scholars' Motifs and Narratives, New York, 1995, pp.118-119.
+
+Compare with a blue and white 'Romance of the Three Kingdoms' vase, Chenghua six-character mark, Kangxi, which was sold at Bonhams Hong Kong, 5 May 2025, lot 221. See also a blue and white gu vase, mid 17th century, which was sold at Christie's London, 14 May 2010, lot 759.",https://images1.bonhams.com/image?src=Images/live/2026-06/18/25862154-2-2.jpg,https://www.bonhams.com/auction/32511/lot/11/a-rare-blue-and-white-kui-xing-beaker-vase-shunzhi/,N/A,N/A,N/A,A RARE BLUE AND WHITE 'KUI XING' BEAKER VASE,ceramics,porcelain,N/A,N/A,39.3,cm,N/A,N/A,no,yes,yes,"Kwok Gallery, Singapore, 28 September 1985
+An Asian private collection
+Christie's London, 4 November 2008, lot 172","beaker vase, Kui Xing, mythical fish-dragon, waves, north star, inscription, Taihu rocks, plantain leaves, scholarly motifs, clouds",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 11,https://www.bonhams.com/auction/32511/lot/11/a-rare-blue-and-white-kui-xing-beaker-vase-shunzhi/,GBP,15000,18985.12,20000,25313.49,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,32418.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,23250.0,19375.0
+c89f83dd-b7ef-4e91-92bf-32e70fb10c52,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 12,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 40000.0, 'amount_usd': 50626.98}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 60000.0, 'amount_usd': 75940.46}]","A RARE CARVED CINNABAR LACQUER 'EIGHTEEN LUOHANS' BRUSHPOT, BITONG
+Qianlong
+Carved in deep layers of cinnabar lacquer with exquisite precision, the continuous scene unfolding around the exterior depicting Luohans with animated expressions in various pursuits including scratching their backs, others stroking long eyebrows, perched in trees, reciting sutras by the water, or confronting a tiger, their robes rendered with meticulous detail, all amidst a rugged landscape of rocks, trees, and swirling whirlpools, a dragon rising from the waves, all set against a black lacquer diaper-pattern ground, supported on four bracket feet and rising to an everted rim, box. 17cm (6 5/8in) diam. (2).
+
+清乾隆 綠地剔紅十八羅漢圖筆筒 
+
+Provenance: 
+John Berwald, London
+
+Published and Illustrated: 
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.82-85.
+
+來源：
+倫敦古董商John Berwald
+
+著錄：
+墨一閑，《筆筒淵鑑：收藏家的隨心所悟》，香港，2020年，第82-85頁 
+
+A similar cinnabar lacquer brushpot with Luohans, in the Qing Court Collection, mid Qing dynasty, is illustrated in Lacquer Wares of the Qing Dynasty: The Complete Collection of Treasures of the Palace Museum, Shenzhen, 2006, p.97, no.66. See also another similar cinnabar lacquer brushpot with Luohans, 18th century, illustrated in Hung's Arts Foundation, 30 Antique Bar, Taipei, 2011, p.185, fig.10.
+
+The Qianlong Emperor's particular interest in Luohans is well documented. In 1757, during his inspection of the Shenying Temple in present-day Hangzhou, the Emperor encountered Guanxiu's celebrated paintings of Luohans, executed in 891. Deeply moved by the images, he composed a poem for each figure and commissioned the Court artist Ding Guanpeng to make copies, which he personally inscribed. In the following decades, the Qianlong Emperor ordered the Luohans to be reproduced in a variety of media, making the subject especially appropriate to the artistic patronage of his reign. See, for example, the zitan and lacquer sixteen double-sided panels depicting Luohans after Guanxiu, Qianlong, illustrated in The Emperor's Private Paradise: Treasures from the Forbidden City, New Haven, 2010, no.26.
+
+Guanxiu's Luohans were renowned for their strikingly individualised and unconventional physiognomies, with gaunt faces, deeply furrowed brows and piercing eyes conveying the spiritual endurance of ascetic practice. His depictions, first conceived in 891, exerted a profound influence on later representations of the Luohans in China, their expressive intensity departing markedly from the idealised Buddhist figures of earlier Tang painting; see Three Thousand Years of Chinese Painting, New Haven and London, 1997, pp.88–89.
+
+The present composition captures this duality of transcendence and personality. Some Luohans appear gaunt and contemplative, others animated or eccentric, their luxuriant eyebrows and expressive features lending both gravitas and humanity to the scene. The balance between disciplined carving and animated narrative reflects a sophisticated understanding of both sculptural form and religious meaning.
+
+See a very similar rare Imperial carved cinnabar lacquer 'Luohan' brushpot, 18th century, which was sold at Christie's Hong Kong, 29 November 2024, lot 1366. See also another very similar carved cinnabar lacquer brushpot, 18th century, which was sold at Sotheby's New York, 15 September 2015, lot 238.",https://images1.bonhams.com/image?src=Images/live/2026-07/24/25826626-2-2.jpg,https://www.bonhams.com/auction/32511/lot/12/a-rare-carved-cinnabar-lacquer-eighteen-luohans-brushpot-bitong-qianlong-2/,Qianlong,N/A,N/A,"A RARE CARVED CINNABAR LACQUER 'EIGHTEEN LUOHANS' BRUSHPOT, BITONG",decorative arts,cinnabar lacquer,N/A,17.0,17.0,cm,N/A,N/A,no,yes,yes,"John Berwald, London","Luohans, brushpot, robes, rocks, trees, whirlpools, dragon, expressions, landscape, water, tiger",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 12,https://www.bonhams.com/auction/32511/lot/12/a-rare-carved-cinnabar-lacquer-eighteen-luohans-brushpot-bitong-qianlong-2/,GBP,40000,50626.98,60000,75940.46,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,104999.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72600.0,60500.0
+0a11a1e0-9ac3-476f-aff3-d369e7094cab,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 13,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 30000.0, 'amount_usd': 37970.23}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 50000.0, 'amount_usd': 63283.72}]","A FAMILLE VERTE 'FOUR NARRATIVES' SQUARE VASE
+Kangxi
+Robustly potted of square section with tapering sides rising to flat shoulders and a flaring cylindrical neck, each face vividly enamelled with a different figural scene, including a scholar reading by candlelight, a scholar playing the guqin in a pavilion, literati gathered beneath flowering prunus on a moonlit evening, drinking wine and composing poetry, and a martial official seated at a table before a flag-bearing attendant, the neck encircled by the Bajixiang. 48.7cm (19 1/2in) high.
+
+清康熙 五彩人物故事圖方瓶 
+
+Provenance:
+A & J Speelman Oriental Art Ltd., London
+Acquired from the above on 15 May 2012
+
+來源：
+倫敦古董商A & J Speelman Oriental Art Ltd.
+從上處獲得于2012年5月15日 
+
+The four panels are painted with scenes drawn from some of the most celebrated figures and episodes in Chinese history and literature. One depicts Mu Guiying from the Romance of the Yang Family Generals (Yangjiajiang yanyi), the legendary heroine who married the Yang general Yang Zongbao and, following the deaths of many members of the Yang clan in their defence of the Song dynasty against northern invaders, assumed command of the Yang armies. Renowned for her courage and military skill, she became one of the most enduring female warrior figures in Chinese popular culture. A similar scene is found on a blue and white square vase, late 17th century, illustrated by C.J.A.Jorg, Chinese Ceramics in the Collection of the Rijksmuseum, Amsterdam: The Ming and Qing Dynasties, Amsterdam, 1997, p.91, no.79.
+
+Another panel illustrates an episode from the Romance of the Three Kingdoms (Sanguo yanyi), in which Hu Ban is ordered to set fire to the lodging of Guan Yu. Before carrying out the plot, he discovers the celebrated general reading by candlelight and, moved by his reputation for loyalty and righteousness, ultimately abandons the mission and assists his escape. The story reflects Guan Yu's status as the embodiment of integrity and moral virtue.
+
+A third panel depicts Li Bai at the celebrated Spring Night Banquet in the Peach and Plum Garden (Chunye Yan Taoliyuan Xu), one of the most renowned episodes associated with the Tang poet. Amidst blossoming trees, Li Bai and his companions gather to drink wine and compose poetry, a scene celebrating literary accomplishment, friendship, and the fleeting beauty of spring. See a blue and white brushpot, Kangxi, illustrated by Chen Runmin, Gugong bowuyuan cang Qingdai ciqi leixuan, Qing Shunzhi Kangxi chao qinghuaci, vol.1, Beijing, 2004, pl.211.
+
+The final panel portrays Emperor Taizu of the Song dynasty, Zhao Kuangyin (r.960–976), visiting his trusted chief minister Zhao Pu on a snowy evening to discuss affairs of state. Known as the 'xueye fang Zhao Pu' ('Snowy Night Visit to Zhao Pu') episode, the scene became a celebrated exemplar of enlightened rulership, illustrating the Emperor's diligence in government and his willingness to seek the counsel of capable ministers. The scene is depicted in a famous painting by Liu Jin, Emperor Taizu Calling on Zhao Pu on a Snowy Night, Ming dynasty, in the Palace Museum, Beijing, illustrated in Three Thousand Years of Chinese Painting, New Haven and London, 1997, p.200, fig.181.
+
+See a related famille verte 'figural' square vase, Kangxi, which was sold at Sotheby's New York, 19 March 2024, lot 359.",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25862154-19-2.jpg,https://www.bonhams.com/auction/32511/lot/13/a-famille-verte-four-narratives-square-vase-kangxi/,unknown,N/A,N/A,A FAMILLE VERTE 'FOUR NARRATIVES' SQUARE VASE,ceramics,porcelain,N/A,N/A,48.7,cm,N/A,N/A,no,yes,yes,"A & J Speelman Oriental Art Ltd., London
+Acquired from the above on 15 May 2012","vase, scholars, candlelight, music, poetry, wine, military official, moonlight, prunus tree, episode",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 13,https://www.bonhams.com/auction/32511/lot/13/a-famille-verte-four-narratives-square-vase-kangxi/,GBP,30000,37970.23,50000,63283.72,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,4816.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,52100.0,43416.66666666667
+45a60b99-fb2c-4719-9452-c727ded7a3be,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 14,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 12000.0, 'amount_usd': 15188.09}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 15000.0, 'amount_usd': 18985.12}]","A BLUE AND WHITE, COPPER-RED AND CELADON BRUSHPOT, BITONG
+Xuande six-character mark, Kangxi
+Sturdily potted with straight sides rising from a recessed 'button' base with underglaze-blue mark, decorated around the exterior with slightly raised white chrysanthemums surrounded by an underglaze-blue wash, others detailed in iron-red, the leaves in varying shades of cobalt blue, the peonies similarly decorated, all issuing from celadon-green rocks, all amidst fluttering butterflies. 18.5cm (7 1/4in) diam.
+
+清康熙 豆青釉青花釉裏紅花卉紋筆筒 
+青花「大明宣德年製」楷書款
+
+Provenance:
+S. Marchant & Son, London (label)
+Roy Leslie Davids FSA (1942-2017), Oxfordshire, collection no.34, acquired from the above on 8 October 2004
+Bonhams London, The Roy Davids Collection of Chinese Ceramics, 6 November 2014, lot 133 and Front Cover (detail)
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.132-133
+
+來源：
+倫敦古董商馬錢特（標簽）
+Roy Leslie Davids FSA (1942-2017)，牛津郡，藏品編號34，于2004年10月8日從上處獲得
+倫敦邦瀚斯，""The Roy Davids Collection of Chinese Ceramics""，2014年11月6日，拍品133及封面（細節）
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第132-133頁 
+
+The present lot is unusually decorated with three high-fired colours: celadon glaze, underglaze blue, and underglaze copper-red. The brushpot has a semi-glazed base with a recessed button, and an apocryphal Xuande mark. It was likely made towards the end of the Kangxi reign, a period in which technically ambitious polychrome wares were being explored with increasing confidence.
+
+The decoration is carefully organised around a celadon-green rock formation, from which the composition develops in underglaze blue and copper-red. Flowers and butterflies enliven the surface, producing a rich, layered effect that contrasts with the restrained geometry of the form. The chrysanthemum (juhua, 菊花), symbolising longevity, appears alongside the peony (mudan, 牡丹), associated with wealth and honour. Together they form a traditional auspicious rebus, expressed as 'changshou fugui' (長壽富貴), wishing for longevity, wealth, and high status.
+
+The present brushpot is further distinguished by the unusually detailed treatment of the body, with subtle incised modelling used to articulate petals and rocks. This contrasts with the majority of brushpots of the type, which typically have flat, unmodulated sides, and enhances the sense of pictorial depth across the surface. Compare with a bowl, Kangxi, but with related decoration of prunus blossoms with raised white petals, and underglaze-red stamens, in the Palace Museum, Beijing, illustrated in Qing Shunzhi Kangxi chao qinghuaci, Beijing, 2005, p.225, no.140.
+
+A very similar brushpot, Kangxi mark and of the period, is illustrated in Kangxi Porcelain Wares from the Shanghai Museum Collection, Hong Kong, 1998, no.87. Another brushpot, Kangxi mark and of the period, with related design and technique is illustrated in Selected Porcelain of the Flourishing Qing Dynasty at the Palace Museum, Hong Kong, 1994, pp.54-55, no.14.",https://images1.bonhams.com/image?src=Images/live/2026-06/16/25862154-12-2.jpg,https://www.bonhams.com/auction/32511/lot/14/a-blue-and-white-copper-red-and-celadon-brushpot-bitong-xuande-six-character-mark-kangxi/,N/A,N/A,N/A,"A BLUE AND WHITE, COPPER-RED AND CELADON BRUSHPOT, BITONG",ceramics,"ceramic, celadon glaze, underglaze blue, underglaze copper-red",N/A,18.5,N/A,cm,1670,1700,no,yes,yes,"S. Marchant & Son, London (label)
+Roy Leslie Davids FSA (1942-2017), Oxfordshire, collection no.34, acquired from the above on 8 October 2004
+Bonhams London, The Roy Davids Collection of Chinese Ceramics, 6 November 2014, lot 133 and Front Cover (detail)","brushpot, chrysanthemums, peonies, butterflies, celadon rocks, underglaze blue, copper-red, floral decoration, traditional symbols, ceramic",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 14,https://www.bonhams.com/auction/32511/lot/14/a-blue-and-white-copper-red-and-celadon-brushpot-bitong-xuande-six-character-mark-kangxi/,GBP,12000,15188.09,15000,18985.12,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,24161.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,17850.0,14875.0
+7dfe609e-8b41-43cb-9fab-2405ea19375d,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 15,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 25000.0, 'amount_usd': 31641.86}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 35000.0, 'amount_usd': 44298.6}]","A VERY RARE WUCAI BEEHIVE-SHAPED INCENSE BURNER
+Xuande four-character mark, Shunzhi
+Finely potted of hollow domed form, the sides pierced with three lozenge-shaped panels and the top with a stylised cash-coin aperture, brightly enamelled around the exterior with a fish emerging from waves, a floral spray and a calligraphic inscription above a band of iron-red waves, the domed top decorated in cobalt blue with four cranes amidst ruyi-clouds. 11.4cm (5 1/2in) diam.
+
+清順治 青花五彩詩文香薰
+青花「宣德年製」楷書款
+款識：朝罷香煙攜滿袖，詩成珠玉在揮毫
+印：木 林 
+
+Provenance:
+Nelson Aldrich Rockefeller (1908-1979), Vice President of the United States of America (December 1974 - January 1977) and Margaretta Large 'Happy' Rockefeller (1926-2015)
+Sotheby's New York, Rockefeller - A Collecting Legacy, 18 January 2019, lot 486
+Marchant, London
+Acquired from the above on 7 February 2020
+
+來源：
+Nelson Aldrich Rockefeller (1908-1979)，美國副總統（1974年12月-1977年1月）及Margaretta Large 'Happy' Rockefeller (1926-2015)
+紐約蘇富比，""Rockefeller - A Collecting Legacy""，2019年1月18日，拍品編號486
+倫敦古董商馬錢特 
+從上處獲得于2020年2月7日 
+
+Nelson Aldrich Rockefeller (1908–1979) was an American politician, businessman, and member of the Rockefeller family, who served as Vice President of the United States from 1974 to 1977 under President Gerald Ford, having previously been Governor of New York (1959–1973) and a major advocate for public infrastructure and cultural patronage, particularly in the field of modern art. His wife, Margaretta Large 'Happy' Rockefeller (1926–2015), was a social figure and philanthropist active in civic and charitable work, and together they were a prominent couple in American political and cultural life during the mid-20th century.
+
+The present lot is extremely rare. A related incense burner, circa 1670–1680, is illustrated by J.B.Curtis, Chinese Porcelains of the Seventeenth Century: Landscape, Scholars' Motifs and Narratives, New York, 1995, pp.106–107, no.37, where the author notes that 'the only other incense burner of this type is in the British Museum, London (from the collection of Sir Augustus Wollaston Franks (1826-1897); acc.no.Franks.1347.+; described as a 'fire holder').
+
+The inscription, followed by the seals reading mu and lin, quotes a well-known couplet associated with the Tang dynasty poet Du Fu (712–770), evoking the refined atmosphere of Court life at the imperial palace, Daming Gong in Chang'an. The verse reads:
+
+朝罷香煙攜滿袖，詩成珠玉在揮毫
+
+Which may be translated as:
+
+After the morning court session, fragrant incense smoke fills my sleeves; when the poem is completed, it becomes like pearls and jade under the movement of the brush.
+
+The imagery expresses the sensory richness and ritualised elegance of the Tang Imperial Court, where the lingering fragrance of incense evokes the sacred and ceremonial space of governance, making the verse particularly apt for inscription on an incense burner. In the act of poetic composition, literary creation is elevated to something materially precious, the finished poem likened to pearls and jade brought forth through the movement of the calligraphic brush. The couplet thus encapsulates the ideal of the cultured official-poet, in which governance, ritual refinement, and literary accomplishment are seamlessly united.
+
+As suggested by the poetic imagery, the domed form may further be understood in relation to the practice of fumigating and scenting garments, frequently described in domestic contexts in Dream of the Red Mansions (Honglou meng). In such passages, interiors are permeated with fragrant smoke, while garments and bedding are warmed and imbued with scent within enclosed structures designed to contain heat and protect textiles from direct exposure to flame. The present form may therefore be associated with similar practices of scenting, warming, and ritual refinement within elite domestic life.",https://images1.bonhams.com/image?src=Images/live/2026-06/17/25862154-6-2.jpg,https://www.bonhams.com/auction/32511/lot/15/a-very-rare-wucai-beehive-shaped-incense-burner-xuande-four-character-mark-shunzhi/,N/A,N/A,N/A,A VERY RARE WUCAI BEEHIVE-SHAPED INCENSE BURNER,ceramics,"porcelain, enamel",N/A,N/A,N/A,cm,N/A,N/A,no,yes,yes,"Nelson Aldrich Rockefeller (1908-1979), Vice President of the United States of America (December 1974 - January 1977) and Margaretta Large 'Happy' Rockefeller (1926-2015)
+Sotheby's New York, Rockefeller - A Collecting Legacy, 18 January 2019, lot 486
+Marchant, London
+Acquired from the above on 7 February 2020","incense burner, fish, waves, cranes, floral spray, calligraphy, clouds, ruyi, red waves, poetic inscription",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 15,https://www.bonhams.com/auction/32511/lot/15/a-very-rare-wucai-beehive-shaped-incense-burner-xuande-four-character-mark-shunzhi/,GBP,25000,31641.86,35000,44298.6,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,48109.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,38800.0,32333.333333333336
+43bd316d-baff-4982-b90f-cc3d6852bd7f,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 16,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 40000.0, 'amount_usd': 50626.98}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 60000.0, 'amount_usd': 75940.46}]","A FINE BLUE AND WHITE 'SHANG EMPEROR WU DING SHOWING SCROLL TO FU YUE' VASE
+Early Kangxi
+Elegantly potted in pear-shaped form, rising from a short spreading foot with channelled groove to a tall cylindrical neck, painted in vibrant tones of underglaze blue with a scene of Emperor Wu Ding accompanied by a parasol bearer, followed by soldiers and attendants, presenting a scroll with a portrait to Fu Yue, who stands with hands raised in gratitude, his hoe and hat placed on the ground beside him, the scene unfolding within a landscape of pavilions shrouded in clouds, with trees and rockwork, the neck decorated with a cracked-ice border at the mouth and the foot with a band of painted 'blobby dots'. 26cm (10 1/4in) high.
+
+康熙早期 青花版築求賢圖膽瓶 
+
+Provenance:
+Mr and Mrs Jack Levy, Philadelphia
+Marchant, London
+Acquired from the above on 2 November 2020
+
+Published and Illustrated:
+S.Little, Chinese Ceramics of the Transitional Period, 1620-1683, China Institute in America, New York, 1983, pp.112-113, pl.51
+Ni Yibin, Explaining The Stories in Chinese Porcelain, Beijing, 2008, p.36 
+
+Exhibited:
+S.Little, Chinese Ceramics of the Transitional Period, 1620-1683, China Institute in America, China House Gallery, New York, 21 October 1983-29 January 1984; and Kimbell Art Museum, Fort Worth, Texas, 26 May-26 August 1984
+
+來源：
+Jack Levy伉儷，美國費城 
+倫敦古董商馬錢特
+從上處獲得于2020年11月2日
+
+著錄：
+S.Little.，《Chinese Ceramics of the Transitional Period, 1620-1683》， 華美協進社，紐約，1983年， 第112-113頁，圖版51
+倪亦斌，《看圖說瓷》，北京，2008，第36頁 
+
+展覽：
+S.Little.，《過渡期的中國陶瓷：1620-1683》，華美協進社，China House Gallery，紐約，1983年10月21日至1984年1月29日；及金貝爾美術館，沃斯堡，美國德克薩斯，1984年5月26日至8月26日 
+
+The scene depicts an episode from the story of Fu Yue, the celebrated minister of the Shang ruler Wu Ding, as recorded in Sima Qian's Records of the Historian (Shi ji). According to tradition, Wu Ding dreamed of a worthy man who had been granted to him by Heaven as an adviser. Upon waking, he ordered an artist to paint the likeness of the figure he had seen in his dream and dispatched officials throughout the realm to search for the man.
+
+The present scene captures the moment of discovery. Fu Yue is shown standing beside the painted portrait, while his hoe and work hat are on the ground beside him, alluding to his humble circumstances prior to his elevation. The ruler Wu Ding, identified by the attendant holding a parasol above him, compares the man before him with the image revealed in his dream and recognises him as the destined sage. Fu Yue was subsequently appointed to high office and became one of the most esteemed ministers of the Shang dynasty.
+
+The story became a popular subject in Chinese painting and decorative arts as an illustration of the Confucian ideal that virtue and talent, rather than birth or social status, should determine advancement. It also celebrates the enlightened ruler's ability to recognise worthy service wherever it may be found, even amongst those of the humblest origins. The same scene is illustrated on a jar, Shunzhi, illustrated by M.Butler, J.B.Curtis and S.Little, Shunzhi Porcelain: Treasures from an Unknown Reign, Seattle and London, 2002, pp.196-197, no.59.",https://images1.bonhams.com/image?src=Images/live/2026-06/23/25862154-14-1.jpg,https://www.bonhams.com/auction/32511/lot/16/a-fine-blue-and-white-shang-emperor-wu-ding-showing-scroll-to-fu-yue-vase-early-kangxi/,N/A,N/A,N/A,A FINE BLUE AND WHITE 'SHANG EMPEROR WU DING SHOWING SCROLL TO FU YUE' VASE,ceramics,porcelain,N/A,N/A,26.0,cm,N/A,N/A,no,yes,yes,"Mr and Mrs Jack Levy, Philadelphia
+Marchant, London
+Acquired from the above on 2 November 2020","vase, emperor, soldiers, attendants, scroll, portrait, landscape, trees, rocks, clouds",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 16,https://www.bonhams.com/auction/32511/lot/16/a-fine-blue-and-white-shang-emperor-wu-ding-showing-scroll-to-fu-yue-vase-early-kangxi/,GBP,40000,50626.98,60000,75940.46,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,64489.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,68400.0,57000.0
+ce03c2b2-2537-429a-9c86-566c31f26cc8,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 17,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 12000.0, 'amount_usd': 15188.09}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 15000.0, 'amount_usd': 18985.12}]","A CELADON-GROUND BLUE AND WHITE, COPPER-RED AND CREAM BRUSHPOT, BITONG
+Kangxi
+The vessel with slightly curved sides rising from a flat base with recessed 'button' to a channelled mouth rim, decorated around the exterior in underglaze blue and snowy-white slip with gnarled branches of blossoming prunus, some highlighted in copper-red, and two magpies in flight, all set against a celadon-green ground. 14.3cm (5 5/8in) high.
+
+清康熙 豆青地青花釉裏紅竹梅雙喜圖筆筒 
+
+Provenance:
+Mme. G., Montreal, Canada
+Marchant, London
+Acquired from the above on 7 November 2011
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.134-135
+
+來源：
+Mme. G.，蒙特利爾，加拿大
+倫敦古董商馬錢特
+從上處獲得于2011年11月7日
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第134-135頁 
+
+The present lot may have been intended as a wedding gift, being decorated with two magpies, bamboo, and plum blossom, which together form a visual rebus for zhumei shuangxi (竹梅雙喜), 'double happiness for bride and groom'.
+
+Brushpots combining a celadon glaze with white slip, underglaze cobalt blue, and copper-red are relatively uncommon. The use of copper-red to pick out the plum blossoms is particularly effective, lending warmth and emphasis to the composition.
+
+Compare with a vase with similar design of magpies on a plum blossom tree in underglaze blue on a celadon glaze ground, Kangxi, illustrated in Kangxi Porcelain Wares from the Shanghai Museum Collection, Hong Kong, 1998, pp.94-95, no.62.",https://images1.bonhams.com/image?src=Images/live/2026-06/17/25862154-11-3.jpg,https://www.bonhams.com/auction/32511/lot/17/a-celadon-ground-blue-and-white-copper-red-and-cream-brushpot-bitong-kangxi/,Kangxi,N/A,N/A,"A CELADON-GROUND BLUE AND WHITE, COPPER-RED AND CREAM BRUSHPOT, BITONG",ceramics,"celadon glaze, underglaze blue, copper-red, snowy-white slip",N/A,N/A,14.3,cm,1701,1730,no,yes,yes,"Mme. G., Montreal, Canada
+Marchant, London
+Acquired from the above on 7 November 2011","brushpot, prunus branches, magpies, celadon glaze, copper-red, blue and white, floral design, wedding gift symbolism, bamboo, plum blossom, landscape elements",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 17,https://www.bonhams.com/auction/32511/lot/17/a-celadon-ground-blue-and-white-copper-red-and-cream-brushpot-bitong-kangxi/,GBP,12000,15188.09,15000,18985.12,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,16387.48,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,17450.0,14541.666666666668
+220748bb-2f62-429a-9ad5-5cc5f1968d5b,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 18,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 60000.0, 'amount_usd': 75940.46}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 80000.0, 'amount_usd': 101253.95}]","A RARE WUCAI 'EIGHTEEN LUOHANS' 'ELEPHANT-LEG' VASE
+Shunzhi
+Well potted of cylindrical form with slightly curving walls surmounted by a short waisted neck and everted rim painted brown, the body finely decorated in a rich palette of underglaze cobalt-blue and overglaze green, red and yellow enamels, with a continuous scene of eighteen Luohans with various attributes, one beside a bristling tiger, while three others ride a leaf, turtle and crayfish, several others seated on mats or lotus leaves, one caressing his long eyebrows, a dragon in the sky beneath wispy flames, the shoulder with a band of underglaze blue cracked-ice beneath upright petals of alternating red and green enamels. 46.3cm (18 1/4in) high.
+
+清順治 五彩十八羅漢圖象腿瓶
+
+Provenance:
+Priestley & Ferraro Chinese Art, London
+Acquired from the above on 9 May 2013
+
+來源：
+倫敦古董商覺是軒 
+從上處獲得于2013年5月9日
+
+Representations of the Eighteen Luohans became an increasingly popular subject in painting during the late Ming period, particularly among artists such as Wu Bin (active c.1590–1610) and Ding Yunpeng (1547–after 1629), whose highly imaginative interpretations emphasised the eccentric, supernatural, and otherworldly qualities of these enlightened disciples. A notable example is Wu Bin's Sixteen Luohans of 1591, now in the Metropolitan Museum of Art, New York, illustrated in Images of the Mind: Selections from the Edward L. Elliott Family and John B. Elliott Collections of Chinese Calligraphy and Painting at the Art Museum, Princeton, 1984, p.200, fig.166. The popularity of Luohan imagery during this period reflects both religious devotion and a broader cultural fascination with unusual and fantastical subjects. Such imagery, however, has much earlier origins, most famously in the celebrated Luohan paintings executed by Guanxiu in AD 891 for Shengyin Temple in Hangzhou, which were later admired, studied, and copied under the patronage of the Qianlong Emperor following his visit to the site in 1757.
+
+The late sixteenth and seventeenth centuries witnessed significant developments within Chinese Buddhism. Chan Buddhism became increasingly integrated with Pure Land practice, combining meditative discipline with devotional worship. At the same time, intellectual and religious life was characterised by an openness to syncretism, often expressed through the concept of sanjiao heyi ('the unity of the Three Teachings'), which sought to harmonise the doctrines of Buddhism, Daoism, and Confucianism.
+
+This climate of doctrinal flexibility together with the political chaos of the transitional period contributed to a growing appreciation of Buddhism among the scholar-gentry. As Buddhist ideas gained wider acceptance among educated elites, Buddhist themes became increasingly prevalent in painting, ceramics, and other decorative arts. Within this context, the Eighteen Luohans emerged as particularly compelling subjects, embodying spiritual attainment while also providing artists with opportunities to explore highly individualised and often unconventional forms.
+
+The appeal of such imagery was further enhanced by the late Ming fascination with the extraordinary and the eccentric. During a period marked by both commercial prosperity and social change, artists and collectors developed a keen interest in the strange, marvellous, and uncanny. This fascination found expression across a range of cultural pursuits, from ghost stories and accounts of the supernatural to paintings depicting unusual landscapes, fantastic beings, and eccentric religious figures. On this subject, see K.P.Burnett, Dimensions of Originality: Essays on Seventeenth Century Chinese Art, Hong Kong, 2013, pp.142–163.
+
+Influenced by both Neo-Confucian and Daoist thought, many intellectuals viewed the unusual and the sublime as vehicles for deeper philosophical reflection. Depictions of the Luohans therefore operated on several levels: they conveyed religious meaning, demonstrated artistic invention, and satisfied contemporary tastes for the remarkable and unexpected. As a result, images of the Eighteen Luohans enjoyed enduring popularity among both religious devotees and secular collectors throughout the late Ming and early Qing periods.
+
+Compare with a related wucai rouleau vase, decorated with a narrative scene beneath a cracked-ice border, c.1650–1660, in the Butler Family Collection, illustrated by M.Butler, M.Medley and S.Little, Shunzhi Porcelain: Treasures from an Unknown Reign, Alexandria, 2002, p.206, no.64.
+
+See also a very similar wucai 'Eighteen Luohans' vase, Shunzhi, which was sold at Bonhams Hong Kong, 27 November 2024, lot 16.",https://images1.bonhams.com/image?src=Images/live/2026-06/18/25862154-17-4.jpg,https://www.bonhams.com/auction/32511/lot/18/a-rare-wucai-eighteen-luohans-elephant-leg-vase-shunzhi/,unknown,N/A,N/A,A RARE WUCAI 'EIGHTEEN LUOHANS' 'ELEPHANT-LEG' VASE,ceramics,porcelain,N/A,N/A,46.3,cm,N/A,N/A,no,yes,yes,"Priestley & Ferraro Chinese Art, London
+Acquired from the above on 9 May 2013","eighteen Luohans, tiger, turtle, crayfish, lotus leaves, mats, dragon, flames, cracked-ice pattern, floral motifs, natural landscape",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 18,https://www.bonhams.com/auction/32511/lot/18/a-rare-wucai-eighteen-luohans-elephant-leg-vase-shunzhi/,GBP,60000,75940.46,80000,101253.95,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,108960.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,88700.0,73916.66666666667
+6857adbd-a9db-4414-b4b7-6d56061d8103,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 19,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 4000.0, 'amount_usd': 5062.7}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 6000.0, 'amount_usd': 7594.05}]","A POLYCHROME ENAMELLED 'SCHOLAR' BRUSHWASHER AND WATERDROPPER
+17th century
+Modelled as a smiling scholar in official robes and scholar's cap, his right hand holding his belt, seated upon rockwork forming a water dropper, with a spout at one end and a water reservoir at the other, brightly decorated in iron red and green enamel. 12cm (4 3/4in) wide.
+
+Please note this Lot is to be sold at No Reserve. 本拍品不設底價
+
+十七世紀 五彩高士形筆洗及水滴 
+
+Provenance:
+A & J Speelman Oriental Art, London
+Acquired from the above on 7 July 2021
+
+來源：
+倫敦古董商A & J Speelman Oriental Art
+從上處獲得于2021年7月7日 
+
+See a related polychrome enamelled 'Li Bai' water pot, Kangxi, illustrated in Chinese Ceramic Treasures: A Selection from Ulricehamn East Asian Museum, including The Carl Kempe Collection, Ulricehamn, 2002, p.449, no.1039.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-34-1.jpg,https://www.bonhams.com/auction/32511/lot/19/a-polychrome-enamelled-scholar-brushwasher-and-waterdropper-17th-century/,N/A,N/A,N/A,A POLYCHROME ENAMELLED 'SCHOLAR' BRUSHWASHER AND WATERDROPPER,ceramics,polychrome enamel,N/A,12.0,N/A,cm,1601,1700,no,yes,yes,"A & J Speelman Oriental Art, London
+Acquired from the above on 7 July 2021","scholar, robes, cap, water dropper, rockwork, enamel, smiling, iron red, green, 17th century",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 19,https://www.bonhams.com/auction/32511/lot/19/a-polychrome-enamelled-scholar-brushwasher-and-waterdropper-17th-century/,GBP,4000,5062.7,6000,7594.05,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,6419.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6825.0,5687.5
+6b7733e8-693a-41fa-a642-3cf85b0ef24d,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 20,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 8000.0, 'amount_usd': 10125.4}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 12000.0, 'amount_usd': 15188.09}]","A WUCAI 'BOYS AND BUDDHIST LIONS' TABLE SCREEN
+Wanli
+Of square form, raised on a rectangular plinth with a pair of grinning Buddhist lions modelled to the front, the screen decorated with a fenced garden scene of two boys at play, the reverse painted with a crane in flight amidst scrolling clouds, above a rectangular box pierced with three apertures for holding brushes. 11cm (4 3/8in) wide.
+
+明萬曆 五彩嬰戲圖桌屏
+
+Provenance:
+Sotheby's London, 13 July 2006, lot 734
+
+來源：
+倫敦蘇富比，2006年7月13日，拍品編號734 
+
+The depiction of boys at play is a popular auspicious subject in Ming art, symbolising the wish for numerous male heirs and the prosperity of future generations. Their placement behind Buddhist lions, symbols of protection, power, and prestige, reinforces the auspicious character of the scene. Such imagery would have conveyed blessings for a flourishing lineage and the success of one's descendants.
+
+Compare with a related desk stand in the form of a screen with relief, polychrome enamel and gilded decoration, Wanli, illustrated by J.Harrison-Hall, Ming Ceramics in the British Museum, London, 2001, p.263, fig.9:109.
+
+See a very similar wucai 'boys and mythical beasts' table screen, 17th century, which was sold at Sotheby's London, 14 May 2014, lot 285.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-30-1.jpg,https://www.bonhams.com/auction/32511/lot/20/a-wucai-boys-and-buddhist-lions-table-screen-wanli/,N/A,N/A,N/A,A WUCAI 'BOYS AND BUDDHIST LIONS' TABLE SCREEN,decorative arts,ceramic,N/A,11.0,N/A,cm,N/A,N/A,no,yes,yes,"Sotheby's London, 13 July 2006, lot 734","boys, Buddhist lions, garden, crane, clouds, landscape, play, pottery, portrait, sculpture",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 20,https://www.bonhams.com/auction/32511/lot/20/a-wucai-boys-and-buddhist-lions-table-screen-wanli/,GBP,8000,10125.4,12000,15188.09,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,12818.91,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13800.0,11500.0
+c0f4452f-c94d-4a8b-8ff7-022188bc05a7,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 21,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 20000.0, 'amount_usd': 25313.49}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 30000.0, 'amount_usd': 37970.23}]","A WUCAI 'BIRDS, TREE PEONY AND ROCKWORK' BRUSHPOT, BITONG
+Shunzhi
+The cylindrical vessel with straight sides rising from a flat unglazed base, decorated around the exterior in vibrant tones of green and iron-red enamel over underglaze blue with blossoming peony sprays issuing from craggy rockwork, beside which a pheasant perches, with two further birds in flight above. 20.7cm (8 1/9in) diam.
+
+清順治 五彩花鳥山石圖筆筒 
+
+Provenance:
+Paul M Peters Fine Art Ltd., Harrogate
+Acquired from the above on 7 June 2004
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.208-209
+
+來源：
+英國哈羅蓋特古董商Paul M Peters Fine Art Ltd.
+從上處獲得于2004年6月7日
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第208-209頁 
+
+See a related wucai brushpot decorated with a similar scene of a pheasant perched upon rockwork beside peonies, illustrated in Shunzhi Porcelain: Treasures from an Unknown Reign, Alexandria, Virginia, 2002, pp.118–119, which was later sold at Christie's New York, 'An Era of Inspiration: 17th-Century Chinese Porcelains from the Collection of Julia and John Curtis', 16 March 2015, lot 3542. 
+
+Compare also with a related blue and white baluster jar and cover, Shunzhi, with similar design of pheasant, rockwork and peonies, in the Qing Court Collection, illustrated in Qing Shunzhi Kangxi chao qinghua ci, Beijing, 2005, p.73, no.36. See also a wucai cylindrical vase, Shunzhi, with similar design of peonies and pheasants, in the Qing Court Collection, illustrated in Porcelains in Polychrome and Contrasting Colours: The Complete Collection of the Treasures of the Palace Museum, Shanghai, 1999, p.67, no.62. 
+
+The golden pheasant, native to southern China and distinguished by its brilliant plumage of yellow, red, and gold, was an especially auspicious decorative motif during the Ming and Qing dynasties. Within the Imperial hierarchy, representations of the bird appeared on the embroidered rank badges of civil officials (the second rank after the crane), and it gradually came to symbolise the cultivated scholar-official serving within the bureaucracy. As the sinologist Wolfram Eberhard observed, the long-tailed pheasant became associated with literary refinement, rank, and official distinction; see A Dictionary of Chinese Symbols: Hidden Symbols in Chinese Life and Thought, London, 1986, p.234. Depicted poised elegantly upon rockwork amidst flowering peonies, the subject emerged as one of the most characteristic decorative themes of the late seventeenth and early eighteenth centuries.
+
+See a pair of wucai baluster vases and cover, Shunzhi, with similar design of pheasant and peonies, which was sold at Bonhams London, 9 November 2017, lot 292.",https://images1.bonhams.com/image?src=Images/live/2026-09/14/25862154-5-5.jpg,https://www.bonhams.com/auction/32511/lot/21/a-wucai-birds-tree-peony-and-rockwork-brushpot-bitong-shunzhi/,N/A,N/A,N/A,"A WUCAI 'BIRDS, TREE PEONY AND ROCKWORK' BRUSHPOT, BITONG",ceramics,"ceramic, enamel, underglaze blue",N/A,N/A,N/A,cm,N/A,N/A,no,yes,yes,"Paul M Peters Fine Art Ltd., Harrogate
+Acquired from the above on 7 June 2004","brushpot, pheasant, rockwork, peony, birds, floral decoration, cylindrical vessel, green, iron-red, blue",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 21,https://www.bonhams.com/auction/32511/lot/21/a-wucai-birds-tree-peony-and-rockwork-brushpot-bitong-shunzhi/,GBP,20000,25313.49,30000,37970.23,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,30609.49,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,34500.0,28750.0
+7b12f4af-8129-4140-8840-397d1dd7b5a9,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 22,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 8000.0, 'amount_usd': 10125.4}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 10000.0, 'amount_usd': 12656.74}]","A WUCAI 'FISH-SCALE'-GROUND 'LANDSCAPE AND ROCKWORK' SLEEVE VASE, GU
+Shunzhi
+Of tall cylindrical form with spreading foot and flaring trumpet mouth rim painted brown, brightly decorated around the exterior in underglaze blue with a mountainous landscape reserved on an iron-red scale-pattern ground, the composition further enriched with green enamelled leaves and distant peaks, all above a band of Taihu rockwork interspersed with floral sprays and fruit, the lower register decorated with pendant plantain leaves. 38.3cm (15in) high.
+
+清順治 青花五彩風景圖花觚 
+
+Provenance:
+Priestley & Ferraro Chinese Art, London
+Acquired from the above on 31 October 2008
+
+來源：
+倫敦古董商覺是軒
+從上處獲得于2008年10月31日 
+
+The ground decoration, composed of densely overlapping iron-red elements, may be interpreted either as a stylised 'fish-scale' pattern or as closely packed petals arranged in a scale-like formation. Such all-over red grounds are characteristic of a small group of porcelains produced during the Shunzhi and early Kangxi period. Fish-scale patterns in iron-red are particularly associated with Shunzhi and early Kangxi wares; compare, for example, a vase decorated with an iron-red 'fish-scale' ground surrounding polychrome enamel flowers and birds in the Qing Court Collection, illustrated in Porcelains in Polychrome and Contrasting Colours: The Complete Collection of the Treasures of the Palace Museum, Shenzhen, 2007, p.135, no.123.
+
+The use of dense floral or scale-pattern grounds reserved in iron-red appears to have been especially favoured on certain export porcelains. A related Shunzhi-period jar decorated with flowers and rockwork against a red diaper-pattern ground is illustrated by T.Canepa and K.Butler, Leaping the Dragon Gate: The Sir Michael Butler Collection of Seventeenth-Century Chinese Porcelain, London, 2021, p.345. The same jar is also published in Seventeenth Century Chinese Porcelain from the Butler Family Collection, Alexandria, 1990, no.60, where the author notes that 'some pieces of this type were made for the Indian or Middle Eastern markets. Friedrich Volker asserts two red rolwagens were given to an Indian King in 1648'; see ibid., p.107.
+
+Further documentary evidence is provided by T.Volker in Porcelain and the Dutch East India Company: As Recorded in the Dagh Registers of Batavia Castle, Those of Hirado and Deshima and other Contemporary Papers, Leiden, 1971, p.105, where he records that on 31 May 1649 the Dutch informed Batavia of their intention to present the King of Surat with '...2 large red rolwagens with leaf work in relief and flowers...'. The distinctive predominance of iron-red decoration on the present vase may therefore suggest production for an export market, particularly India or the Middle East, where such richly ornamented wares appear to have enjoyed considerable appeal.
+
+See a rare wucai rouleau vase, Shunzhi, with flowers and iron-red 'fish-scale' pattern, which was sold at Bonhams London, 3 November 2022, lot 41. Compare also with a wucai gu vase with red decoration in the background, Shunzhi, which was sold at Christie's New York, 'An Era of Inspiration: 17th-Century Chinese Porcelains from the Collection of Julia and John Curtis', 16 March 2015, lot 3546.",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25862154-15-3.jpg,https://www.bonhams.com/auction/32511/lot/22/a-wucai-fish-scale-ground-landscape-and-rockwork-sleeve-vase-gu-shunzhi/,GU Shunzhi,N/A,N/A,"A WUCAI 'FISH-SCALE'-GROUND 'LANDSCAPE AND ROCKWORK' SLEEVE VASE, GU",ceramics,porcelain,N/A,N/A,38.3,cm,N/A,N/A,no,yes,yes,"Priestley & Ferraro Chinese Art, London
+Acquired from the above on 31 October 2008","landscape, mountains, rockwork, floral sprays, fruit, plantain leaves, blue enamel, iron-red scale-pattern, porcelain vase, cylindrical form",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 22,https://www.bonhams.com/auction/32511/lot/22/a-wucai-fish-scale-ground-landscape-and-rockwork-sleeve-vase-gu-shunzhi/,GBP,8000,10125.4,10000,12656.74,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,12899.49,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11450.0,9541.666666666668
+b10faefb-3821-4d75-842f-9a8bbae7ab63,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 23,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 10000.0, 'amount_usd': 12656.74}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 15000.0, 'amount_usd': 18985.12}]","A BLUE AND WHITE 'DRAGON AND PHOENIX' BRUSHPOT, BITONG
+Kangxi
+Of waisted cylindrical form with flaring mouth rim, painted around the exterior with a scaly four-clawed dragon and phoenix with finely detailed plumage, the flaming pearl of wisdom above, all amidst ruyi-clouds. 15.2cm (6in) high.
+
+清康熙 青花龍鳳紋筆筒 
+
+Provenance:
+Paul Ruitenbeek Chinese Art, Amsterdam
+Acquired from the above on 5 December 2020
+
+來源：
+阿姆斯特丹古董商Paul Ruitenbeek Chinese Art
+從上處獲得于2020年12月5日 
+
+The dragon and phoenix are among the most auspicious and enduring motifs in Chinese art. Traditionally, the dragon symbolises power, vitality, and the dynamic forces of the cosmos, whilst the phoenix represents virtue, peace, and enlightened governance. Together they embody the harmonious balance of complementary forces and the ideal of a prosperous and well-ordered realm. Particularly appropriate for a scholar's object, the pairing may also be understood as an expression of the cultivated virtues and aspirations associated with the literati tradition, combining strength with refinement, achievement with moral rectitude. 
+
+See a blue and white four-tiered box and cover, with related dragon and phoenix design, Kangxi six-character mark and of the period, in the Palace Museum, Beijing, illustrated in Qing Shunzhi Kangxi chao qinghuaci, Beijing, 2005, p.285, no.187.",https://images1.bonhams.com/image?src=Images/live/2026-06/17/25862154-4-2.jpg,https://www.bonhams.com/auction/32511/lot/23/a-blue-and-white-dragon-and-phoenix-brushpot-bitong-kangxi/,Kangxi,N/A,N/A,"A BLUE AND WHITE 'DRAGON AND PHOENIX' BRUSHPOT, BITONG",ceramics,porcelain,N/A,N/A,15.2,cm,1701,1730,no,yes,yes,"Paul Ruitenbeek Chinese Art, Amsterdam
+Acquired from the above on 5 December 2020","blue and white, dragon, phoenix, brushpot, clouds, pearl, ceramic, cylindrical, Kangxi",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 23,https://www.bonhams.com/auction/32511/lot/23/a-blue-and-white-dragon-and-phoenix-brushpot-bitong-kangxi/,GBP,10000,12656.74,15000,18985.12,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,13999.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+ec70078e-1691-4dbb-8e38-66059bc67d92,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 24,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 8000.0, 'amount_usd': 10125.4}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 12000.0, 'amount_usd': 15188.09}]","A RARE BLUE AND WHITE FIVE-PEAK BRUSHREST
+Shendetang zhi mark, Daoguang
+Sturdily potted in the form of five mountain peaks with flattened sides, one face painted in underglaze blue with a mountainous landscape depicting a fisherman, a woodcutter, and scholars in conversation, the reverse inscribed in xingshu (running script) with a lengthy inscription and mark. 21.3cm (8 3/8in) wide.
+
+清道光 青花山水詩文山形筆擱 
+青花「慎德堂製」楷書款
+
+Provenance:
+A Connecticut private collection, USA, acquired in the early 1980s
+Christie's New York, 14 September 2012, lot 1479
+
+來源：
+康涅狄格私人收藏，美國，獲得于1980年代
+紐約佳士得，2012年9月14日，拍品編號1479 
+
+The present brushrest is inscribed with Yuan Haowen's 元好問 (1119-1257) celebrated poem Boating on Daming Lake (Fanzhou Daming Hu 泛舟大明湖), a lyrical evocation of the famous scenic lake at Jinan renowned for its lotus-filled waters and elegant natural beauty. In the poem, the author describes expansive stretches of blooming lotus, mist-shrouded mountains reflected in the water, and the graceful presence of white egrets, creating an image of extraordinary tranquillity and refinement:
+
+長白山前繡江水，
+展放荷花三十里。
+看山水底山更佳，
+一堆蒼煙收不起。
+
+山從西來青一彎，
+天公擲下半玉環。
+大明湖上一杯酒，
+昨日繡江眉睫間。
+
+晚涼一棹東城渡，
+水暗荷深若無路。
+江妃不惜水芝香，
+狼藉秋風與秋露。
+
+藍襟鬱鬱散芳澤，
+羅襪盈盈見微步。
+晚晴一賦畫不成，
+枉著風標誇白鷺。
+
+我時驂鸾追散仙，
+金支翠蕤相後先。
+眼花耳熱不稱意，
+高唱吳歌叩兩舷。
+四海爲家，不用長江限南北。
+
+Which may be translated as:
+
+Before Changbai Mountain flows the Embroidered River,
+Its lotus blossoms spread for thirty li.
+Looking at the mountains reflected in the water,
+They seem lovelier still beneath the surface,
+While heaps of blue-grey mist cannot be gathered or contained.
+
+From Yangqiu in the west the mountains curve in a sweep of green,
+As if Heaven had cast down half a jade ring.
+Drinking a cup of wine upon Daming Lake,
+The Embroidered River of yesterday still lingers before my eyes.
+
+In the evening coolness I row across the eastern ferry,
+The waters dark, the lotus growth so dense there seems no path ahead.
+The River Goddess begrudges none of the fragrance of her water plants,
+Though autumn wind and autumn dew scatter them carelessly.
+
+Their orchid-like scent spreads richly through the air,
+And delicate footsteps seem to emerge from beneath silk stockings.
+Even were one to compose a rhapsody in the clear evening light, the scene could not be fully painted;
+It is almost unnecessary to praise the elegant bearing of the white egrets.
+
+At times I harness phoenix-drawn steeds in pursuit of the wandering immortals,
+Their golden branches and emerald plumes weaving before and behind me.
+With dazzled eyes and warmed ears, exhilaration beyond measure,
+I raise my voice in a Wu song, striking the gunwales on either side.
+The four seas are my home—there is no need for the Yangtze River to mark a boundary between north and south.
+
+The literary character of the present brushrest is further reinforced by the four-character mark Shende Tang zhi (慎德堂製), 'Made for the Hall of Prudent Virtue'. The Hall of Prudent Virtue (Shende Tang) was the principal residence of the future Daoguang Emperor within the Imperial Palace, completed in 1831, and porcelains bearing this mark form a distinctive group of Imperial wares associated with his personal patronage. The choice of Yuan Haowen's celebrated poem, together with the depiction of fishermen, woodcutters, farmers, and scholars, accords closely with the literati ideals of self-cultivation, moral reflection, and communion with nature embodied by the name of the hall itself. The present brushrest therefore combines poetic, pictorial, and Imperial associations, transforming a functional scholar's object into a sophisticated expression of cultivated taste.",https://images1.bonhams.com/image?src=Images/live/2026-09/10/25862154-28-8.jpg,https://www.bonhams.com/auction/32511/lot/24/a-rare-blue-and-white-five-peak-brushrest-shendetang-zhi-mark-daoguang/,N/A,N/A,N/A,A RARE BLUE AND WHITE FIVE-PEAK BRUSHREST,ceramics,porcelain,N/A,21.3,N/A,cm,N/A,N/A,no,yes,yes,"A Connecticut private collection, USA, acquired in the early 1980s
+Christie's New York, 14 September 2012, lot 1479","mountain peaks, landscape, fisherman, woodcutter, scholars, river, house, lotus, egrets, clouds",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 24,https://www.bonhams.com/auction/32511/lot/24/a-rare-blue-and-white-five-peak-brushrest-shendetang-zhi-mark-daoguang/,GBP,8000,10125.4,12000,15188.09,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,12899.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13800.0,11500.0
+6c9afd96-67c6-49dd-8298-eda8bf9691ac,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 25,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 4000.0, 'amount_usd': 5062.7}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 6000.0, 'amount_usd': 7594.05}]","A BLUE AND WHITE SQUARE 'SCHOLAR AT A TABLE' BOX AND COVER
+Tianqi/Chongzhen
+The square box with straight sides rising from a shaped foot, the exterior painted with orchids, the slightly domed cover decorated with a scholar seated at his desk beside a brushpot, before a screen, a plantain leaf seen through the window beyond, a candle burning nearby indicating a night-time scene. 8cm (3 1/8in) square. (2).
+
+明天啓/崇禎 青花高士圖蓋盒 
+
+Provenance:
+Roger Keverne Ltd., London
+Acquired from the above on 27 April 2015
+
+來源：
+倫敦古董商Roger Keverne Ltd.
+從上處獲得于2015年4月27日 
+
+See two related blue and white boxes and covers with similarly rendered grasses, Wanli, illustrated in Transitional Wares and Their Forerunners, Hong Kong, 1981, p.71, no.21.
+
+Such imagery, rendered solely in line with no shading or tonal modelling, was likely inspired by the woodblock-printed illustrations accompanying popular novels and theatrical publications. See for example, a woodblock print of a scholar by a table, Lifa Tongshu Daquan (The Comprehensive Almanac and Calendar Manual), Jiajing/Longqing period, illustrated in Zhongguo banhua shi tulu, vol.1, Beijing, 2012, p.273.",https://images1.bonhams.com/image?src=Images/live/2026-06/23/25862154-31-1.jpg,https://www.bonhams.com/auction/32511/lot/25/a-blue-and-white-square-scholar-at-a-table-box-and-cover-tianqichongzhen-2/,unknown,N/A,N/A,A BLUE AND WHITE SQUARE 'SCHOLAR AT A TABLE' BOX AND COVER,ceramics,porcelain,8.0,8.0,8.0,cm,N/A,N/A,no,yes,yes,"Roger Keverne Ltd., London
+Acquired from the above on 27 April 2015","box, cover, scholar, table, brushpot, plantain leaf, candle, night scene, orchids, screen",2,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 25,https://www.bonhams.com/auction/32511/lot/25/a-blue-and-white-square-scholar-at-a-table-box-and-cover-tianqichongzhen-2/,GBP,4000,5062.7,6000,7594.05,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,6419.48,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6420.0,5350.0
+be13993d-014f-4df2-ae3b-4afd9dc509ef,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 26,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 4000.0, 'amount_usd': 5062.7}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 6000.0, 'amount_usd': 7594.05}]","A FAMILLE VERTE BISCUIT 'PHOENIXES' SQUARE BOX AND COVER
+Kangxi
+The box of square form with straight sides rising from four bracket feet, finely enamelled around the exterior with phoenixes of elaborate plumage amidst ruyi clouds, the flat cover similarly decorated and surmounted by a straight finial, the interior divided into two compartments. 9cm (3 1/2in) square. (2).
+
+Please note this Lot is to be sold at No Reserve. 本拍品不設底價
+
+清康熙 素三彩鳳紋蓋盒 
+
+Provenance:
+A & J Speelman Oriental Art, London
+Acquired from the above on 22 May 2015
+
+來源：
+倫敦古董商A & J Speelman Oriental Art
+從上處獲得于2015年5月22日 
+
+The phoenix (fenghuang 鳳凰) is one of the most auspicious creatures in Chinese art, traditionally associated with virtue, prosperity, and the advent of a peaceful and well-governed age. As the mythical counterpart to the dragon, it also symbolises the Empress and, when depicted together with the dragon, represents marital harmony and the union of yin and yang.
+
+See a similar famille verte biscuit box and cover, Kangxi, decorated with sea horses, illustrated by R.L.Hobson, Catalogue of the Leonard Gow Collection of Chinese Porcelain, London, 1931, pl.LIV, no.260.",https://images1.bonhams.com/image?src=Images/live/2026-09/10/25862154-32-7.jpg,https://www.bonhams.com/auction/32511/lot/26/a-famille-verte-biscuit-phoenixes-square-box-and-cover-kangxi-2/,Kangxi,N/A,N/A,A FAMILLE VERTE BISCUIT 'PHOENIXES' SQUARE BOX AND COVER,ceramics,biscuit porcelain,9.0,9.0,9.0,cm,1701,1730,no,yes,yes,"A & J Speelman Oriental Art, London
+Acquired from the above on 22 May 2015","box, cover, phoenix, ruyi clouds, feet, compartments, finial, enamel, green, yellow",2,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 26,https://www.bonhams.com/auction/32511/lot/26/a-famille-verte-biscuit-phoenixes-square-box-and-cover-kangxi-2/,GBP,4000,5062.7,6000,7594.05,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,6419.58,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6825.0,5687.5
+b06e7a10-a85b-49a8-8c6f-ea5542ab9644,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 27,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 1500.0, 'amount_usd': 1898.51}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 2000.0, 'amount_usd': 2531.35}]","A FAMILLE VERTE BISCUIT BRUSHREST AND AN EGG AND SPINACH-GLAZED BRUSHREST
+18th century
+The famille verte brushrest crisply modelled with five sharp mountain peaks curving slightly forward, brightly enamelled with chrysanthemums, peonies and other flowers and butterflies on a green dappled ground, 14.5cm (5 3/4in) wide; the egg and spinach-glazed brushrest slightly curved and also with five mountain peaks, decorated with splashes of spinach green, yellow and aubergine, 15.2cm (6in) wide. (2).
+
+十八世紀 五彩花蝶圖筆擱及素三彩筆擱 一組兩件
+
+Provenance:
+The famille verte brushrest: Basil (1884-1950) and the Hon. Mrs. Nellie Ionides (1883-1962), Buxted Park, Sussex
+Roger Keverne Ltd., London, 4 November 2016
+
+The egg and spinach brushrest: Antiquaire Duval, Brussels, Belgium, 4 January 1947, lot 261
+Professor Robert and Mrs de Strycker, Belgium
+S. Marchant & Son, London, 9 May 2014
+
+來源：
+五彩花蝶圖筆擱：Basil (1884-1950)及 Nellie Ionides(1883-1962)伉儷舊藏，巴克斯特德公園，英國薩塞克斯郡
+倫敦古董商Roger Keverne Ltd.，2016年11月4日
+
+素三彩筆擱：比利時布魯塞爾古董商Antiquaire Duval，1947年1月4日，拍品編號261
+Robert教授及de Strycker夫人舊藏，比利時
+倫敦古董商馬錢特，2014年5月9日
+
+Basil Ionides (1884–1950) was a distinguished British architect, interior designer and collector, best known for the rebuilding of the Savoy Theatre in London and his influential writings on interior decoration. In 1930 he married the Hon. Nellie Ionides (née Samuel, 1883–1962), daughter of Marcus Samuel, 1st Viscount Bearsted, who was herself a renowned connoisseur of Chinese porcelain. Together they acquired Buxted Park, Sussex, in 1931, restoring the house and assembling one of Britain's most celebrated private collections of decorative arts and Chinese ceramics.
+
+For a similar famille verte brushrest, Kangxi, see R.L.Hobson, et al., Chinese Ceramics in Private Collections, London, 1937, p.150, fig. 264 for the example from the W.J. Hoyt collection. A famille verte brushrest of similar shape, but decorated with phoenix, Kangxi, is also illustrated in Kangxi Porcelain Wares from the Shanghai Museum, Hong Kong, 1998, no.137.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-27-3.jpg,https://www.bonhams.com/auction/32511/lot/27/a-famille-verte-biscuit-brushrest-and-an-egg-and-spinach-glazed-brushrest-18th-century-2/,N/A,N/A,N/A,A FAMILLE VERTE BISCUIT BRUSHREST AND AN EGG AND SPINACH-GLAZED BRUSHREST,decorative arts,ceramics,N/A,15.2,14.5,cm,1701,1800,no,yes,yes,"The famille verte brushrest: Basil (1884-1950) and the Hon. Mrs. Nellie Ionides (1883-1962), Buxted Park, Sussex
+Roger Keverne Ltd., London, 4 November 2016
+
+The egg and spinach brushrest: Antiquaire Duval, Brussels, Belgium, 4 January 1947, lot 261
+Professor Robert and Mrs de Strycker, Belgium
+S. Marchant & Son, London, 9 May 2014","brushrest, mountain peaks, chrysanthemums, peonies, flowers, butterflies, green glaze, spinach glaze, yellow glaze, aubergine",2,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 27,https://www.bonhams.com/auction/32511/lot/27/a-famille-verte-biscuit-brushrest-and-an-egg-and-spinach-glazed-brushrest-18th-century-2/,GBP,1500,1898.51,2000,2531.35,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,2410.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+c007bb5c-424d-4c59-963d-e94751556032,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 28,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 1000.0, 'amount_usd': 1265.67}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 1500.0, 'amount_usd': 1898.51}]","A GREEN-GLAZED TRISULA-SHAPED BRUSHREST
+Kangxi
+Modelled as a trisula (trident), the three-pronged sacred emblem associated with divine power and protection, rising from a shaped four-footed stand, the surface enveloped in a vibrant green glaze. 11.5cm (4 1/2in) high.
+
+清康熙 綠釉山形筆擱 
+
+Provenance:
+A & J Speelman Oriental Art, London
+Acquired from the above on 4 November 2015
+
+來源：
+倫敦古董商A & J Speelman Oriental Art
+從上處獲得于2015年11月4日 
+
+The trisula (Sanskrit triśūla, 'three-pronged spear') is a sacred trident emblem found in Hindu and Buddhist iconography, most closely associated with the deity Shiva. It symbolises divine authority and cosmic power, with its three points commonly interpreted as representing the fundamental triad of creation, preservation and destruction, or alternatively past, present and future. In Buddhist contexts, particularly within Vajrayana traditions, it may also signify the overcoming of the 'three poisons' of desire, aversion and ignorance. Frequently depicted as both a ritual implement and an attribute of protective deities, the trisula functions as a potent symbol of spiritual force and transcendence, here adapted into a decorative form for a brushrest.
+
+Compare with a very similar green-glazed brushrest, Qing dynasty, which was sold at Bonhams New York, 'Passion and Philanthropy: Chinese Art from the Metropolitan Museum of Art', 18 March 2024, lot 61.",https://images1.bonhams.com/image?src=Images/live/2026-06/23/25862154-29-1.jpg,https://www.bonhams.com/auction/32511/lot/28/a-green-glazed-trisula-shaped-brushrest-kangxi/,N/A,N/A,N/A,A GREEN-GLAZED TRISULA-SHAPED BRUSHREST,ceramics,Ceramic,N/A,N/A,11.5,cm,N/A,N/A,no,yes,yes,"A & J Speelman Oriental Art, London
+Acquired from the above on 4 November 2015","trisula, brushrest, green glaze, Hindu iconography, Buddhist symbol, sacred emblem, trident, decorative art, Kangxi, ceramic",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 28,https://www.bonhams.com/auction/32511/lot/28/a-green-glazed-trisula-shaped-brushrest-kangxi/,GBP,1000,1265.67,1500,1898.51,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,1399.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+11b15ee1-854e-4cd2-bcf3-543b4af3b484,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 29,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 5000.0, 'amount_usd': 6328.37}]","A TURQUOISE GLAZED BISCUIT 'BOY AND TOAD' BRUSHPOT, BITONG
+Kangxi
+Deftly pierced and modelled as craggy rockwork and gnarled pine trees, a young boy climbing over the mouth rim, his tufted head bent sharply to the left as he peers down outside the vessel towards a toad emerging from below, the entire surface covered in a lustrous turquoise-blue glaze. 9.5cm (3 3/4in) high.
+
+Please note this Lot is to be sold at No Reserve. 本拍品不設底價
+
+清康熙 孔雀藍釉童子蟾蜍紋鏤空筆筒 
+
+Provenance:
+S. Marchant & Son, London
+Acquired from the above on 2 November 2004 
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.196-197
+
+來源： 
+倫敦古董商馬錢特 
+從上處獲得于2004年11月2日
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第196-197頁 
+
+The boy on the present lot may depict Liu Hai, the legendary Daoist Immortal often shown in the company of a three-legged toad (chanchu 蟾蜍). According to popular legend, Liu Hai befriended and subdued the magical creature, which possessed the ability to produce gold and silver and was therefore associated with the acquisition of wealth and good fortune. In art, Liu Hai is frequently represented enticing the toad with a string of cash coins, symbolising the attraction and attainment of prosperity.
+
+The three-legged toad itself occupies an important place in Chinese folklore and Daoist symbolism. Associated with hidden treasure, it came to be regarded as one of the most potent emblems of wealth and auspicious fortune. The image of the toad emerging from a cave is particularly evocative, as caves and rocky grottoes were traditionally viewed as liminal spaces connected with Immortals and supernatural realms. The interaction between the youthful figure and the toad may therefore be understood not merely as a playful scene, but as an auspicious visual metaphor for the discovery of hidden blessings, the attainment of prosperity, and the pursuit of transcendence. Such imagery was especially appropriate on a scholar's object, where it conveyed wishes for both material success and spiritual cultivation.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-25-1.jpg,https://www.bonhams.com/auction/32511/lot/29/a-turquoise-glazed-biscuit-boy-and-toad-brushpot-bitong-kangxi/,Kangxi,N/A,N/A,"A TURQUOISE GLAZED BISCUIT 'BOY AND TOAD' BRUSHPOT, BITONG",ceramics,turquoise glazed biscuit,N/A,N/A,9.5,cm,N/A,N/A,no,yes,yes,"S. Marchant & Son, London
+Acquired from the above on 2 November 2004","boy, toad, rockwork, pine trees, brushpot, turquoise glaze, cave, treasure, prosperity, Daoist symbolism",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 29,https://www.bonhams.com/auction/32511/lot/29/a-turquoise-glazed-biscuit-boy-and-toad-brushpot-bitong-kangxi/,GBP,3000,3797.02,5000,6328.37,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,4810.51,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5125.0,4270.833333333334
+bac79018-27fe-4210-8146-2049ee38f067,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 30,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 4000.0, 'amount_usd': 5062.7}]","A TURQUOISE-GLAZED BISCUIT 'BOYS' BRUSHWASHER
+Kangxi
+Of circular form, modelled as a naturalistic rock pool with jagged rockwork rising around the sides, the rock peaks applied in relief with two boys clambering atop, one nude and the other dressed and carrying a vase, two fish swimming below within the pool, all beneath a vibrant turquoise-blue glaze. 12.9cm (5 1/16in) high.
+
+Please note this Lot is to be sold at No Reserve. 本拍品不設底價
+
+清康熙 孔雀藍釉童子紋筆洗 
+
+Provenance:
+C.Y. Tse Antiques & Collectibles, Hong Kong (label)
+A & J Speelman Oriental Art, London
+Acquired from the above on 7 July 2021
+
+來源：
+香港古董商子揚行（標簽）
+倫敦古董商A & J Speelman Oriental Art
+從上處獲得于2021年7月7日",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-33-1.jpg,https://www.bonhams.com/auction/32511/lot/30/a-turquoise-glazed-biscuit-boys-brushwasher-kangxi/,N/A,N/A,N/A,A TURQUOISE-GLAZED BISCUIT 'BOYS' BRUSHWASHER,ceramics,ceramic,N/A,N/A,12.9,cm,N/A,N/A,no,yes,yes,"C.Y. Tse Antiques & Collectibles, Hong Kong (label); A & J Speelman Oriental Art, London; Acquired from the above on 7 July 2021","boys, rock pool, vase, fish, turquoise glaze, relief sculpture, naturalistic, children, aquatic, decorative arts",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 30,https://www.bonhams.com/auction/32511/lot/30/a-turquoise-glazed-biscuit-boys-brushwasher-kangxi/,GBP,3000,3797.02,4000,5062.7,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,4480.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4430.0,3691.666666666667
+be60d980-135a-4246-8eda-20a68a4cc898,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 31,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 1000.0, 'amount_usd': 1265.67}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 1500.0, 'amount_usd': 1898.51}]","THREE TURQUOISE-GLAZED BISCUIT WASHERS AND BRUSHRESTS
+Kangxi
+Comprising a washer modelled as a hollowed conch shell raised on three feet, and two brushrests formed as miniature Taihu rocks, both incorporating large lotus leaves with naturalistically rendered veins forming the water receptacle, the other with more deeply undercut and curving rockwork, all covered in a turquoise glaze. The largest, 10.8cm (4 1/4in) wide. (3).
+
+清康熙 孔雀藍釉筆洗及筆擱 一組三件 
+
+Provenance:
+Bonhams Knightsbridge, 1 November 2022, lot 348
+
+來源：
+倫敦邦瀚斯騎士橋，2022年11月1日，拍品編號348 
+
+Compare with two related turquoise-glazed brushrests and waterpots, Kangxi, illustrated in East Asian Ceramics: The Laura Collection, Turin, 2012, p.257, no.301, and also p.258, no.302.",https://images1.bonhams.com/image?src=Images/live/2026-09/09/25862154-35-3.jpg,https://www.bonhams.com/auction/32511/lot/31/three-turquoise-glazed-biscuit-washers-and-brushrests-kangxi-3/,Kangxi,N/A,N/A,THREE TURQUOISE-GLAZED BISCUIT WASHERS AND BRUSHRESTS,ceramics,ceramic,N/A,10.8,N/A,cm,N/A,N/A,no,yes,yes,"Bonhams Knightsbridge, 1 November 2022, lot 348","conch shell, brushrests, Taihu rocks, lotus leaves, turquoise glaze",3,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 31,https://www.bonhams.com/auction/32511/lot/31/three-turquoise-glazed-biscuit-washers-and-brushrests-kangxi-3/,GBP,1000,1265.67,1500,1898.51,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,1446.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1575.0,1312.5
+0b3a9c7c-e2b4-473f-aed1-b7b52afc4dde,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 32,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 2000.0, 'amount_usd': 2531.35}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}]","A YELLOW GLAZED BISCUIT 'PEONY' BRUSHPOT, BITONG
+19th century
+The narrow cylindrical vessel finely moulded and carved in relief with luxuriant peony blossoms issuing from craggy rockwork, with a sparrow in flight above, the whole covered in a vibrant lemon-yellow glaze. 13cm (5 1/8in) high.
+
+十九世紀 黃釉牡丹紋筆筒 
+
+Provenance:
+Robert Kleiner & Co., London
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.198, 200 and 202.
+
+來源：
+倫敦古董商Robert Kleiner & Co.
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第198、200及202頁 
+
+The present brushpot belongs to a distinctive group of finely carved porcelain wares that emerged during the first half of the nineteenth century, particularly from the Daoguang period (1821–1850) onwards. Characterised by their intricate relief carving and often monochrome glazes, these porcelains are thought to reflect the transfer of carving techniques traditionally associated with materials such as ivory, bamboo and jade into the ceramic medium. Their development has been linked to the dispersal of highly skilled craftsmen from the Imperial workshops in Beijing during the late eighteenth and early nineteenth centuries. Intended for the scholar's desk, such works allowed their owners to display both refinement and connoisseurship, with the illusion of carved organic materials rendered in porcelain. The finest examples were often produced as individual artistic creations rather than standardised kiln products, and are closely associated with celebrated nineteenth century ceramic carvers such as Chen Guozhi (陳國治), Wang Bingrong (王炳榮) and Li Yucheng (李裕成).
+
+Compare with a related yellow glazed brushpot in the style of a bamboo carving with mountainous landscape, Daoguang seal mark and of the period, illustrated in Small Refined Articles of the Study: The Complete Collection of Treasures of the Palace Museum, Shenzhen, 2009, p.107, no.78. See also a related brushpot carved with flowers, birds and rocks, Li Yucheng seal mark, Daoguan, illustrated in Elegance in Relief: Carved Porcelain from Jingdezhen of the 19th to Early 20th Centuries, Hong Kong, 2006, pp.144-145, no.31.
+
+See a carved yellow-glazed biscuit 'horse' brushpot, Daoguang seal mark and of the period, which was sold at Sotheby's New York, 27 June 2025, lot 81.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-21-2.jpg,https://www.bonhams.com/auction/32511/lot/32/a-yellow-glazed-biscuit-peony-brushpot-bitong-19th-century/,N/A,N/A,N/A,"A YELLOW GLAZED BISCUIT 'PEONY' BRUSHPOT, BITONG",ceramics,porcelain,N/A,N/A,13.0,cm,1801,1900,no,yes,yes,"Robert Kleiner & Co., London","peony, brushpot, sparrow, rockwork, yellow glaze, relief carving, porcelain, 19th century, Daoguang period, floral",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 32,https://www.bonhams.com/auction/32511/lot/32/a-yellow-glazed-biscuit-peony-brushpot-bitong-19th-century/,GBP,2000,2531.35,3000,3797.02,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,3200.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+ff23b107-2123-4db4-a326-9eaba7a24216,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 33,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 5000.0, 'amount_usd': 6328.37}]","A RED OVERLAY BEIJING GLASS 'SNOWFLAKE' BRUSHPOT, BITONG
+Qianlong/Jiaqing
+The frosty-white cylindrical vessel overlaid in ruby-red glass with flowering prunus and bamboo emerging amongst craggy rocks, the composition surmounted by a pendant ruyi-head border. 9.5cm (3 3/4in) high.
+
+清乾隆/嘉慶 京作霏雪地套寶石紅料梅竹紋筆筒 
+
+Provenance:
+Ben Janssens Oriental Art, London
+Acquired from the above on 10 April 2000
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.66-67
+
+來源：
+倫敦古董商Ben Janssens Oriental Art
+從上處獲得于2000年4月10日
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第66-67頁 
+
+The establishment of the Imperial Glassworks in 1696 marked a significant development in the production of luxury objects for the Qing Court. Administered by the Zaobanchu (Imperial Household Department Workshops), the manufactory was established following the successful treatment of the Kangxi Emperor's malaria by Jesuit missionaries and placed under the direction of the Bavarian Jesuit Kilian Stumpf (1655–1720), who introduced European glassmaking techniques to the Court. The workshop brought together European technology and the expertise of Chinese artisans. Sustained Imperial patronage and exchanges between the various Court workshops encouraged experimentation, with techniques developed in jade and hardstone carving influencing the cutting of glass. The resulting wares represent a distinctive synthesis of Chinese craftsmanship and European technology, reflecting the cosmopolitan character of the Qing Court.
+
+See a related red overlay glass brushpot with prunus, lotus, and peony, 19th century, in Bristol Museum (acc.no.N4665). Compare with a larger Yongzheng mark and period red overlay glass 'peaches and bats' brushpot in the Museum of Fine Arts, Boston (acc.no.1986.643).
+
+Compare also with a red overlay glass brushpot, incised Qianlong four-character mark, 18th/19th century, which was sold at Christie's London, 19 June 2001, lot 150. See also a ruby-red overlay snowstorm-ground glass bottle vase, Qianlong seal mark and of the period, which was sold at Sotheby's New York, 21 September 2022, lot 347.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-22-2.jpg,https://www.bonhams.com/auction/32511/lot/33/a-red-overlay-beijing-glass-snowflake-brushpot-bitong-qianlongjiaqing/,N/A,N/A,N/A,"A RED OVERLAY BEIJING GLASS 'SNOWFLAKE' BRUSHPOT, BITONG",decorative arts,"Beijing glass, ruby-red glass",N/A,N/A,9.5,cm,N/A,N/A,no,yes,yes,"Ben Janssens Oriental Art, London; Acquired from the above on 10 April 2000","glass, brushpot, prunus, bamboo, rocks, ruyi-head border, ruby-red, frosty-white, cylindrical vessel, Qing dynasty",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 33,https://www.bonhams.com/auction/32511/lot/33/a-red-overlay-beijing-glass-snowflake-brushpot-bitong-qianlongjiaqing/,GBP,3000,3797.02,5000,6328.37,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,4488.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+3db13523-5cfd-4d45-a74d-4484c79ab05e,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 34,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 5000.0, 'amount_usd': 6328.37}]","A COPPER-RED GLAZED BRUSHPOT, BITONG
+19th century
+Of cylindrical form with straight sides rising from a recessed 'button' base, the exterior richly covered in a crushed raspberry-red glaze, the colour thinning attractively to a pale cream tone at the mouth rim and interior. 12.5cm (4 7/8in) high.
+
+Please note this Lot is to be sold at No Reserve. 本拍品不設底價
+
+十九世紀 紅釉筆筒 
+
+Provenance:
+An English private collection
+Bonhams Knightsbridge, 5 November 2019, lot 629
+
+來源：
+英格蘭私人收藏
+倫敦邦瀚斯騎士橋，2019年11月5日，拍品編號629 
+
+The restrained elegance of this copper-red glazed brushpot follows the aesthetic established by Langyao red wares of the Kangxi period, whose luminous monochrome surfaces were particularly admired by Qing dynasty literati and collectors. Compare with a related copper-red glazed brushpot, Qing dynasty, which was sold at Christie's Paris, 10 December 2021, lot 732.",https://images1.bonhams.com/image?src=Images/live/2026-07/17/25862154-16-3.jpg,https://www.bonhams.com/auction/32511/lot/34/a-copper-red-glazed-brushpot-bitong-19th-century/,N/A,N/A,N/A,"A COPPER-RED GLAZED BRUSHPOT, BITONG",ceramics,ceramic,N/A,N/A,12.5,cm,1801,1900,no,yes,yes,"An English private collection
+Bonhams Knightsbridge, 5 November 2019, lot 629","brushpot, copper-red glaze, cylindrical form, straight sides, recessed base, cream tone, Qing dynasty, aesthetics, 19th century, porcelain",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 34,https://www.bonhams.com/auction/32511/lot/34/a-copper-red-glazed-brushpot-bitong-19th-century/,GBP,3000,3797.02,5000,6328.37,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,4830.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+c34d55a6-8bb3-4c02-82d1-f1b36f45b609,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 35,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 2000.0, 'amount_usd': 2531.35}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}]","A ZITAN BRUSHPOT, BITONG
+20th century 
+Deftly carved with tapering foliate sides rising to a galleried rim, supported on a foliate stand with three bracket feet, the dense hardwood of deep chocolate-brown tone with finely dispersed silvery streaking. 15.6cm (6 1/8in) high. (2).
+
+二十世紀 紫檀筆筒 
+
+See a related zitan barbed and fluted brushpot, 17th/18th century, illustrated by Sydney L. Moss Ltd., Escape from the Dusty World: Chinese Paintings and Literati Works of Art, London, 1999, no.41.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-26-1.jpg,https://www.bonhams.com/auction/32511/lot/35/a-zitan-brushpot-bitong-20th-century-2/,N/A,N/A,N/A,"A ZITAN BRUSHPOT, BITONG",decorative arts,zitan wood,N/A,N/A,15.6,cm,1901,2000,no,yes,yes,N/A,"brushpot, hardwood, foliate stand, galleried rim, bracket feet, chocolate-brown, silvery streaking",2,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 35,https://www.bonhams.com/auction/32511/lot/35/a-zitan-brushpot-bitong-20th-century-2/,GBP,2000,2531.35,3000,3797.02,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,3200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335
+4dd46ae0-7f35-42fc-87d9-a1121c09a624,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 36,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 5000.0, 'amount_usd': 6328.37}]","A YIXING BRUSHPOT, BITONG
+Tiehua Xuan seal mark, dated to the Renchen year, corresponding to 1952 and of the period
+The cylindrical vessel finely potted with gently curving walls, carved and incised through the sandy clay around the exterior with a bird and prunus blossoms, beside an inscription in xing calligraphy. 13cm (5 1/8in) high.
+
+壬辰年（1952) 宜興紫砂花鳥紋詩文筆筒 
+款識：不知花影動，疑是蝶尋香。歲在壬辰年冬月於古陽羡筆 
+「鉄畫軒製」篆書款 
+
+Provenance:
+Ben Janssens Oriental Art, London
+Acquired from the above on 3 November 2016
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.188-189
+
+來源：
+倫敦古董商Ben Janssens Oriental Art
+從上處獲得于2016年11月3日 
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第188-189頁 
+
+The present brushpot is formed from fine zisha clay and covered with a yellow slip. While the clay was still leather-hard, the decoration was incised through the slip to reveal the darker body beneath, creating a striking contrast between the two colours. One side is decorated with a bird perched on a flowering plum branch, accompanied by a two-line poetic inscription, which may be translated as:
+
+Not realising the shadows were cast by swaying flowers,
+I mistook them for butterflies searching for fragrance.
+
+The inscription is dated to the winter of the Renchen year (1952) and records Guyangxian, the historical name for Yixing. The square seal on the base reads Tie Hua Xuan zhi (鐵畫軒製, 'Made by Tiehua Xuan'). As demand for Yixing wares expanded during the nineteenth century, specialist dealers established shops in major Chinese cities, commissioning vessels from Yixing potters before employing their own artists to decorate them. Tiehua Xuan, founded in Shanghai by Dai Guobao (1875–1926) in 1913, became particularly noted for the quality of its calligraphic decoration and remains in operation today. Wares bearing the Tie Hua Xuan zhi seal are illustrated in The Art of the Yixing Potter: the K.S. Lo Collection, Flagstaff House Museum of Tea Ware, Hong Kong, 1990, pp.51-52.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-13-3.jpg,https://www.bonhams.com/auction/32511/lot/36/a-yixing-brushpot-bitong-tiehua-xuan-seal-mark-dated-to-the-renchen-year-corresponding-to-1952-and-of-the-period/,unknown,N/A,N/A,"A YIXING BRUSHPOT, BITONG",ceramics,"zisha clay, yellow slip",N/A,N/A,13.0,cm,1952,1952,yes,yes,yes,"Ben Janssens Oriental Art, London; Acquired from the above on 3 November 2016","brushpot, bird, prunus blossom, inscription, yellow slip, zisha clay",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 36,https://www.bonhams.com/auction/32511/lot/36/a-yixing-brushpot-bitong-tiehua-xuan-seal-mark-dated-to-the-renchen-year-corresponding-to-1952-and-of-the-period/,GBP,3000,3797.02,5000,6328.37,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,4838.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5125.0,4270.833333333334
+a4d4430e-802e-4e18-9847-aebbc1ad53ad,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 37,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 2000.0, 'amount_usd': 2531.35}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}]","A ROCK-CRYSTAL BAMBOO-SHAPED 'CHILONG' BRUSHPOT, BITONG
+18th century
+The transparent stone expertly carved and hollowed in the form of two bamboo stems, detailed with ring-punched nodes, two archaistic chilong with bifurcated tails clambering up the sides clasping sprigs of auspicious lingzhi in their jaws. 11.2cm (4 3/8in) high.
+
+十八世紀 水晶雕竹節式螭龍紋筆筒 
+
+Provenance:
+Littleton & Hennessy Asian Art, London
+Acquired from the above on 8 November 2007
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.20-21
+
+來源：
+倫敦古董商Littleton & Hennessy Asian Art
+從上處獲得于2007年11月8日
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第20-21頁 
+
+The present rock crystal brushpot is carved in imitation of a bamboo segment, a form long favoured in scholar's table objects for its associations with resilience and the cultivated life. The surface is further enlivened with two archaistic chilong clambering in high relief, its sinewy body reflecting the eighteenth century Qing taste for revived Han and ancient bronze-inspired forms. Such playful combinations of naturalism and artifice are characteristic of courtly production in the Qianlong period, when artisans frequently exploited the visual ambiguities of hardstones to evoke other materials: here rock crystal rendered to suggest both water-worn bamboo and the elegance of archaic jade carving. See a related rock-crystal brushpot carved as a gnarled pine tree with crane and bamboo, Qing dynasty, illustrated in The Jade Carving Art in the Ch'ing Dynasty, Taipei, 1990, p.165.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-23-3.jpg,https://www.bonhams.com/auction/32511/lot/37/a-rock-crystal-bamboo-shaped-chilong-brushpot-bitong-18th-century/,N/A,N/A,N/A,"A ROCK-CRYSTAL BAMBOO-SHAPED 'CHILONG' BRUSHPOT, BITONG",decorative arts,rock crystal,N/A,N/A,11.2,cm,1701,1800,no,yes,yes,"Littleton & Hennessy Asian Art, London
+Acquired from the above on 8 November 2007","rock crystal, bamboo, chilong, brushpot, auspicious lingzhi, Qing dynasty, carvings, scholar's table, water-worn bamboo, gnarled pine tree",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 37,https://www.bonhams.com/auction/32511/lot/37/a-rock-crystal-bamboo-shaped-chilong-brushpot-bitong-18th-century/,GBP,2000,2531.35,3000,3797.02,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,3208.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335
+a806bf3d-c6da-445b-8763-7a57bd044b18,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 38,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 2000.0, 'amount_usd': 2531.35}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}]","A ROCK-CRYSTAL TREE-TRUNK-SHAPED 'THREE FRIENDS OF WINTER' BRUSHPOT, BITONG
+18th century
+The translucent greyish stone masterfully hollowed and carved as a gnarled pine trunk issuing two branches in high relief, the natural fibrous inclusions ingeniously utilised to evoke clusters of pine needles, the exterior further embellished with bamboo, prunus blossoms and a bird perched amongst the branches. 12cm (4 3/4in) high.
+
+十八世紀 茶晶雕歲寒三友紋筆筒 
+
+Provenance:
+Gerard Hawthorn Ltd., London, 2006
+
+Published and Illustrated:
+S.Marsh, Brushpots: A Collector's View, Hong Kong, 2020, pp.18-19
+
+來源：
+倫敦古董商好善簃，2006年
+
+著錄：
+墨一閑，《筆筒淵鑒：收藏家的隨心所悟》，香港，2020年，第18-19頁 
+
+The decoration incorporates the 'Three Friends of Winter' (suihan sanyou 歲寒三友): pine, bamboo, and prunus, a motif celebrated in Chinese art and literature from at least the Song dynasty onwards. Admired for their ability to withstand the hardships of winter, the three plants became symbols of the virtues of the ideal gentleman.
+
+The evergreen pine represents steadfastness and longevity, bamboo symbolises integrity and resilience, while prunus, flowering amidst the cold of late winter, signifies perseverance and renewal. Together they embody endurance in adversity and the triumph of virtue over hardship, making them among the most enduring and auspicious motifs in Chinese art. 
+
+See a related rock-crystal brushpot carved as a gnarled pine tree with crane and bamboo, Qing dynasty, illustrated in The Jade Carving Art in the Ch'ing Dynasty, Taipei, 1990, p.165.
+
+Compare with a related rock-crystal tree-trunk shaped brushpot, mid-Qing dynasty, which was sold at Bonhams London, 3 November 2022, lot 11.",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25862154-24-2.jpg,https://www.bonhams.com/auction/32511/lot/38/a-rock-crystal-tree-trunk-shaped-three-friends-of-winter-brushpot-bitong-18th-century/,N/A,N/A,N/A,"A ROCK-CRYSTAL TREE-TRUNK-SHAPED 'THREE FRIENDS OF WINTER' BRUSHPOT, BITONG",decorative arts,rock crystal,N/A,N/A,12.0,cm,1701,1800,no,yes,yes,"Gerard Hawthorn Ltd., London, 2006","rock crystal, brushpot, tree trunk, pine, bamboo, prunus blossoms, bird, gnarled structure, nature motifs, winter",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 38,https://www.bonhams.com/auction/32511/lot/38/a-rock-crystal-tree-trunk-shaped-three-friends-of-winter-brushpot-bitong-18th-century/,GBP,2000,2531.35,3000,3797.02,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,3208.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335
+e97a376c-c671-4234-9a38-687ed3642d37,Artwork,Bonhams,auction,32511,2026-11-05,"London, New Bond Street",The Marsh Collection: Art for the Literati (Part V),https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,Lot 39,"[{'pricing_type': 'low_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 2000.0, 'amount_usd': 2531.35}, {'pricing_type': 'high_estimate', 'currency': 'GBP', 'effective_date': '2026-11-05', 'amount': 3000.0, 'amount_usd': 3797.02}]","A POLYCHROME ENEMELLED 'DRAGON' BRUSHPOT, BITONG
+Late Qing Dynasty
+Robustly potted with straight sides rising from a recessed 'button' base, the exterior vividly enamelled in red and green with five five-clawed dragons in dynamic pursuit amidst ruyi-shaped clouds and tongues of flame, all between underglaze-blue bands at the foot and mouth rim. 22.1cm (8 3/4in) diam.
+
+Please note this Lot is to be sold at No Reserve. 本拍品不設底價
+
+晚清 五彩龍紋筆筒 
+
+Provenance: Woolley and Wallis, Salisbury, 21 May 2008, lot 679
+
+來源：威力士拍賣行，英國索爾兹伯裏，2008年5月21日，拍品編號679",https://images1.bonhams.com/image?src=Images/live/2026-06/23/25862154-36-1.jpg,https://www.bonhams.com/auction/32511/lot/39/a-polychrome-enemelled-dragon-brushpot-bitong-late-qing-dynasty/,N/A,N/A,N/A,"A POLYCHROME ENEMELLED 'DRAGON' BRUSHPOT, BITONG",ceramics,"Ceramic, enamel",N/A,N/A,N/A,cm,N/A,N/A,no,yes,yes,"Woolley and Wallis, Salisbury, 21 May 2008, lot 679","dragon, clouds, flames, brushpot, polychrome, enamel, Qing Dynasty, ornamentation",1,N/A,original,Bonhams,https://www.bonhams.com/auction/32511/the-marsh-collection-art-for-the-literati-part-v/,The Marsh Collection: Art for the Literati (Part V),Lot 39,https://www.bonhams.com/auction/32511/lot/39/a-polychrome-enemelled-dragon-brushpot-bitong-late-qing-dynasty/,GBP,2000,2531.35,3000,3797.02,N/A,N/A,N/A,N/A,7520.93,25065.87,52231.89,19.46,107.03,4.67,N/A,N/A,320.68,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335

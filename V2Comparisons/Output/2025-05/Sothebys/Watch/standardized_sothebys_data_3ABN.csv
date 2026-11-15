@@ -1,0 +1,170 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 201,Rolex,GMT-Master 'Cornino',Sotheby's,13382.16,20073.24,None,17500.0,14583.333333333334
+Lot 202,Rolex,GMT-Master,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 203,Rolex,GMT-Master 'Desert Eagle',Sotheby's,22303.6,44607.2,None,32750.0,27291.666666666668
+Lot 204,Rolex,GMT-Master 'Long E',Sotheby's,8921.44,13382.16,None,11500.0,9583.333333333334
+Lot 205,Rolex,Daytona 'Fuerza Aerea Del Peru',Sotheby's,44607.2,89214.4,None,67500.0,56250.0
+Lot 206,Rolex,Daytona,Sotheby's,33455.4,66910.8,None,45000.0,37500.0
+Lot 207,Rolex,Daytona,Sotheby's,39031.3,78062.6,None,65000.0,54166.66666666667
+Lot 208,Rolex,Daytona 'Fuerza Aerea del Perú',Sotheby's,39031.3,72486.7,None,55000.0,45833.333333333336
+Lot 209,Rolex,Daytona 'Zenith',Sotheby's,16727.7,33455.4,None,24500.0,20416.666666666668
+Lot 210,Rolex,Daytona 'Zenith',Sotheby's,13382.16,20073.24,None,18650.0,15541.666666666668
+Lot 212,Piaget,<NA>,Sotheby's,5575.9,7806.26,None,6750.0,5625.0
+Lot 213,Patek Philippe,<NA>,Sotheby's,5575.9,7806.26,None,7500.0,6250.0
+Lot 214,Piaget,<NA>,Sotheby's,5575.9,7806.26,None,6750.0,5625.0
+Lot 215,Piaget,<NA>,Sotheby's,6691.08,8921.44,None,7500.0,6250.0
+Lot 216,Piaget,<NA>,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 217,Piaget,<NA>,Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 218,Piaget,<NA>,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 219,Patek Philippe,<NA>,Sotheby's,11151.8,16727.7,None,15000.0,12500.0
+Lot 220,Piaget,<NA>,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 221,Piaget,<NA>,Sotheby's,4460.72,6691.08,None,5500.0,4583.333333333334
+Lot 222,Van Cleef & Arpels,<NA>,Sotheby's,7806.26,10036.62,None,8500.0,7083.333333333334
+Lot 223,Norwegian Air Force,Luftförsvaret,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 224,TAG Heuer,Autavia 'Shauntavia',Sotheby's,4460.72,8921.44,None,6000.0,5000.0
+Lot 225,Robert Atkinson Lancaster,<NA>,Sotheby's,5575.9,11151.8,None,10200.0,8500.0
+Lot 226,W. Gabus,<NA>,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 227,Julius Assmann,<NA>,Sotheby's,7806.26,11151.8,None,10200.0,8500.0
+Lot 228,null,null,Sotheby's,11151.8,22303.6,None,18500.0,15416.666666666668
+Lot 229,<NA>,<NA>,Sotheby's,3345.54,5575.9,None,4500.0,3750.0
+Lot 230,null,<NA>,Sotheby's,5575.9,11151.8,None,7500.0,6250.0
+Lot 231,Cartier,Ceinture ‘Jumbo’,Sotheby's,5575.9,11151.8,None,8500.0,7083.333333333334
+Lot 232,Cartier,Gondole 'Jumbo',Sotheby's,7806.26,15612.52,None,10200.0,8500.0
+Lot 233,Cartier,Baignoire 'large',Sotheby's,5575.9,8921.44,None,7500.0,6250.0
+Lot 234,Cartier,Libre noeud,Sotheby's,18958.06,39031.3,None,28900.0,24083.333333333336
+Lot 235,Cartier,Tank Allongée,Sotheby's,8921.44,17842.88,None,13450.0,11208.333333333334
+Lot 236,Cartier,Tank Basculante 'CPCP',Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 237,Cartier,Tortue,Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 238,Cartier,Santos Dumont 'CPCP',Sotheby's,6691.08,11151.8,None,10200.0,8500.0
+Lot 239,Cartier,Tank Américaine 'CPCP',Sotheby's,5575.9,11151.8,None,10000.0,8333.333333333334
+Lot 240,Cartier,Tank à Vis 'CPCP',Sotheby's,6691.08,11151.8,None,10200.0,8500.0
+Lot 241,Cartier,Tank Obus 'CPCP',Sotheby's,5575.9,11151.8,None,10000.0,8333.333333333334
+Lot 242,Cartier,Ronde Louis,Sotheby's,5575.9,8921.44,None,7500.0,6250.0
+Lot 243,Cartier,Drive de Cartier,Sotheby's,6691.08,11151.8,None,10000.0,8333.333333333334
+Lot 244,Fabergé,<NA>,Sotheby's,13382.16,26764.32,None,18650.0,15541.666666666668
+Lot 245,Cartier,Tank Louis Cartier,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 246,Cartier,Tank Basculante,Sotheby's,6691.08,11151.8,None,8500.0,7083.333333333334
+Lot 247,Cartier,Tank Américaine,Sotheby's,5575.9,7806.26,None,6750.0,5625.0
+Lot 248,Cartier,Tank Louis,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 249,Cartier,Tank Mini Americaine,Sotheby's,5575.9,11151.8,None,10200.0,8500.0
+Lot 250,Cartier,Tank Solo 'Panthère',Sotheby's,5575.9,7806.26,None,6750.0,5625.0
+Lot 251,Cartier,Panthère,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 252,Cartier,Mini Santos Dumont,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 253,Cartier,Quadrant,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 254,Cartier,Ceinture,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 256,Fabergé,<NA>,Sotheby's,6691.08,20073.24,None,15000.0,12500.0
+Lot 257,Cartier,Baignoire allongée,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 258,Cartier,<NA>,Sotheby's,6691.08,8921.44,None,7500.0,6250.0
+Lot 259,Jacob & Co.,Astronomia Tourbillon 'N°1',Sotheby's,111518.0,167277.0,None,145000.0,120833.33333333334
+Lot 260,Chopard,XP 'Urushi Sky Peacock',Sotheby's,10036.62,16727.7,None,14500.0,12083.333333333334
+Lot 261,Hublot,Big Bang 'Unico Italia Independent,Sotheby's,5575.9,7806.26,None,6750.0,5625.0
+Lot 262,Hublot,Big Bang 'Meca-10 Full Magic Gold',Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 263,Vacheron Constantin,<NA>,Sotheby's,6691.08,8921.44,None,7500.0,6250.0
+Lot 266,Patek Philippe,<NA>,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 267,Vacheron Constantin,<NA>,Sotheby's,6691.08,15612.52,None,10200.0,8500.0
+Lot 268,Patek Philippe,<NA>,Sotheby's,6691.08,8921.44,None,7500.0,6250.0
+Lot 270,Audemars Piguet,Cobra Day Date 'Royal Khanjar',Sotheby's,55759.0,111518.0,None,85000.0,70833.33333333334
+Lot 271,Audemars Piguet,Cobra,Sotheby's,16727.7,33455.4,None,25000.0,20833.333333333336
+Lot 272,Audemars Piguet,<NA>,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 273,Audemars Piguet,Cobra,Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 274,Audemars Piguet,<NA>,Sotheby's,8921.44,13382.16,None,11600.0,9666.666666666668
+Lot 275,Audemars Piguet,Bamboo,Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 276,Patek Philippe,<NA>,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 277,Longines,<NA>,Sotheby's,11151.8,22303.6,None,14500.0,12083.333333333334
+Lot 278,Audemars Piguet,<NA>,Sotheby's,11151.8,22303.6,None,18600.0,15500.0
+Lot 279,Audemars Piguet,Classique,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 280,Audemars Piguet,Jules Audemars,Sotheby's,11151.8,22303.6,None,18600.0,15500.0
+Lot 282,Audemars Piguet,Royal Oak Offshore 'The Beast',Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 284,Audemars Piguet,Royal Oak,Sotheby's,13382.16,20073.24,None,15800.0,13166.666666666668
+Lot 287,Vacheron Constantin,<NA>,Sotheby's,7806.26,10036.62,None,8500.0,7083.333333333334
+Lot 288,Audemars Piguet,<NA>,Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 290,Patek Philippe,Golden Ellipse,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 293,Patek Philippe,Ellipse,Sotheby's,6133.49,11151.8,None,10200.0,8500.0
+Lot 295,Patek Philippe,Ellipse,Sotheby's,22303.6,33455.4,None,27500.0,22916.666666666668
+Lot 297,Patek Philippe,<NA>,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 298,Patek Philippe,La Flamme,Sotheby's,8921.44,13382.16,None,11500.0,9583.333333333334
+Lot 300,Patek Philippe,<NA>,Sotheby's,4460.72,6691.08,None,5500.0,4583.333333333334
+Lot 301,Patek Philippe,Gondolo,Sotheby's,5575.9,11151.8,None,10200.0,8500.0
+Lot 302,Patek Philippe,Nautilus,Sotheby's,33455.4,55759.0,None,45000.0,37500.0
+Lot 304,Patek Philippe,<NA>,Sotheby's,16727.7,26764.32,None,24500.0,20416.666666666668
+Lot 305,Patek Philippe,<NA>,Sotheby's,16727.7,26764.32,None,21500.0,17916.666666666668
+Lot 306,Patek Philippe,<NA>,Sotheby's,16727.7,27879.5,None,24500.0,20416.666666666668
+Lot 307,Patek Philippe,<NA>,Sotheby's,26764.32,40146.48,None,35000.0,29166.666666666668
+Lot 308,Patek Philippe,150th Anniversary,Sotheby's,11151.8,22303.6,None,18600.0,15500.0
+Lot 309,Patek Philippe,<NA>,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 311,Patek Philippe,Calatrava,Sotheby's,16727.7,26764.32,None,21500.0,17916.666666666668
+Lot 312,Patek Philippe,<NA>,Sotheby's,13382.16,22303.6,None,19500.0,16250.0
+Lot 313,Patek Philippe,<NA>,Sotheby's,16727.7,26764.32,None,24500.0,20416.666666666668
+Lot 314,Patek Philippe,Gondolo,Sotheby's,22303.6,33455.4,None,28750.0,23958.333333333336
+Lot 315,Patek Philippe,<NA>,Sotheby's,13382.16,27879.5,None,19500.0,16250.0
+Lot 317,Rolex,Oyster,Sotheby's,5575.9,11151.8,None,7500.0,6250.0
+Lot 318,Rolex,Oyster Perpetual,Sotheby's,5575.9,11151.8,None,10200.0,8500.0
+Lot 319,Rolex,Oyster Perpetual,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 320,Rolex,Cellini,Sotheby's,5575.9,7806.26,None,6750.0,5625.0
+Lot 321,Rolex,Air-King,Sotheby's,2787.95,5018.31,None,3500.0,2916.666666666667
+Lot 322,Rolex,Oyster Perpetual Date,Sotheby's,6691.08,10036.62,None,8500.0,7083.333333333334
+Lot 323,Rolex,Oyster Date,Sotheby's,5575.9,8921.44,None,6750.0,5625.0
+Lot 325,Rolex,Datejust,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 326,Rolex,Oysterquartz Datejust,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 327,Rolex,Oysterquartz Datejust,Sotheby's,1672.77,4460.72,None,3500.0,2916.666666666667
+Lot 328,Rolex,Datejust 'Albilad',Sotheby's,4460.72,6691.08,None,5500.0,4583.333333333334
+Lot 329,Rolex,Datejust,Sotheby's,3345.54,6691.08,None,4500.0,3750.0
+Lot 330,Rolex,Datejust,Sotheby's,3345.54,5575.9,None,4500.0,3750.0
+Lot 331,Rolex,Datejust 'XXV',Sotheby's,4460.72,6691.08,None,5500.0,4583.333333333334
+Lot 332,Rolex,Datejust Turn-O-Graph,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 333,Rolex,Datejust,Sotheby's,5575.9,11151.8,None,10000.0,8333.333333333334
+Lot 334,Rolex,Day-Date,Sotheby's,16727.7,26764.32,None,21500.0,17916.666666666668
+Lot 335,Rolex,Submariner,Sotheby's,66910.8,133821.6,None,102000.0,85000.0
+Lot 336,Rolex,Submariner,Sotheby's,44607.2,89214.4,None,65000.0,54166.66666666667
+Lot 337,Rolex,Submariner,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 338,Rolex,Submariner 'Single Red',Sotheby's,11151.8,22303.6,None,18500.0,15416.666666666668
+Lot 339,Rolex,Sea-Dweller 'Double Red',Sotheby's,16727.7,33455.4,None,24500.0,20416.666666666668
+Lot 340,Rolex,Submariner ‘Red’,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 341,Rolex,Submariner,Sotheby's,6133.49,8921.44,None,7500.0,6250.0
+Lot 342,Rolex,Explorer II,Sotheby's,16727.7,26764.32,None,21500.0,17916.666666666668
+Lot 343,Rolex,Explorer II,Sotheby's,11151.8,22303.6,None,17500.0,14583.333333333334
+Lot 344,Rolex,GMT-Master,Sotheby's,39031.3,78062.6,None,55000.0,45833.333333333336
+Lot 346,Rolex,GMT-Master 'Pepsi',Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 347,Rolex,GMT-Master 'Nipple Dial',Sotheby's,6691.08,11151.8,None,10200.0,8500.0
+Lot 348,Rolex,GMT-Master II ‘Fat Lady’,Sotheby's,6691.08,11151.8,None,10200.0,8500.0
+Lot 349,Rolex,GMT-Master II 'Pepsi',Sotheby's,7806.26,11151.8,None,10000.0,8333.333333333334
+Lot 350,Rolex,Submariner ‘Snowflake Meter First’,Sotheby's,6133.49,8921.44,None,7500.0,6250.0
+Lot 351,Ulysse Nardin,<NA>,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 352,Blancpain,<NA>,Sotheby's,5575.9,11151.8,None,8500.0,7083.333333333334
+Lot 353,Blancpain,<NA>,Sotheby's,3345.54,5575.9,None,4500.0,3750.0
+Lot 354,Roger Dubuis,<NA>,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 356,Daniel Roth,<NA>,Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 357,Gérald Genta,<NA>,Sotheby's,5575.9,11151.8,None,10200.0,8500.0
+Lot 358,Bulgari,Octo Bi-Retro,Sotheby's,4460.72,6691.08,None,5500.0,4583.333333333334
+Lot 359,Gérald Genta,Biretro Safari,Sotheby's,6691.08,10036.62,None,8500.0,7083.333333333334
+Lot 360,Gerald Genta,Arena Bi-Retro 'Mickey Mouse',Sotheby's,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 361,Gerald Genta,Mikey Mouse,Sotheby's,5575.9,11151.8,None,8500.0,7083.333333333334
+Lot 362,De Grisogono,<NA>,Sotheby's,5575.9,11151.8,None,10200.0,8500.0
+Lot 363,Panerai,Luminor 1950 ‘Fiddy’,Sotheby's,5575.9,11151.8,None,10200.0,8500.0
+Lot 365,Glashütte Original,Senator,Sotheby's,7806.26,15612.52,None,10200.0,8500.0
+Lot 366,Glashütte Original,Senator,Sotheby's,5575.9,11151.8,None,10000.0,8333.333333333334
+Lot 367,Glashütte Original,Senator,Sotheby's,5575.9,8921.44,None,7540.0,6283.333333333334
+Lot 368,Omega,Broad Arrow Speedmaster,Sotheby's,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 369,Omega,Speedmaster 'CK 2998',Sotheby's,5575.9,8921.44,None,7500.0,6250.0
+Lot 370,Omega,Seamaster Chronograph,Sotheby's,4460.72,6691.08,None,5500.0,4583.333333333334
+Lot 371,Omega,Seamaster,Sotheby's,2787.95,5018.31,None,3925.0,3270.8333333333335
+Lot 376,IWC,Ingenieur,Sotheby's,4460.72,6691.08,None,5500.0,4583.333333333334
+Lot 377,IWC,Fliegerchronograph,Sotheby's,16727.7,28994.68,None,21500.0,17916.666666666668
+Lot 379,IWC,Portugieser,Sotheby's,2230.36,3345.54,None,2750.0,2291.666666666667
+Lot 380,Jaeger-Jaeger-LeCoultre,Heraion,Sotheby's,892.14,1115.18,None,1025.0,854.1666666666667
+Lot 381,Jaeger-Jaeger-LeCoultre,Master Reveil Memovox,Sotheby's,1115.18,2230.36,None,1875.0,1562.5
+Lot 382,Longines,<NA>,Sotheby's,5575.9,11151.8,None,8000.0,6666.666666666667
+Lot 383,Jaeger-LeCoultre,Serie Unique Triple Date Moonphase,Sotheby's,2230.36,4460.72,None,3500.0,2916.666666666667
+Lot 384,Jaeger-LeCoultre,Atmos du Millénaire,Sotheby's,7806.26,11151.8,None,10000.0,8333.333333333334
+Lot 385,BVLGARI,Tubogas,Sotheby's,5575.9,8921.44,None,6750.0,5625.0
+Lot 386,BVLGARI,Gianni Bulgari Enigma,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 387,Tiffany & Co.,<NA>,Sotheby's,5575.9,11151.8,None,8000.0,6666.666666666667
+Lot 388,Ipso-Matic,Cioccolatone,Sotheby's,5575.9,8921.44,None,7500.0,6250.0
+Lot 390,Speak-Marin,Piccadilly,Sotheby's,6691.08,10036.62,None,8500.0,7083.333333333334
+Lot 391,Franck Muller,Chronometro,Sotheby's,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 392,Bulgari,<NA>,Sotheby's,5575.9,7806.26,None,6500.0,5416.666666666667
+Lot 393,Corum,Golden Bridge,Sotheby's,5575.9,8921.44,None,7500.0,6250.0
+Lot 394,Seven Friday,<NA>,Sotheby's,5575.9,8921.44,None,6780.0,5650.0
+Lot 396,Harry Winston,<NA>,Sotheby's,10036.62,15612.52,None,13400.0,11166.666666666668
+Lot 397,Asprey,<NA>,Sotheby's,557.59,1115.18,None,850.0,708.3333333333334
+Lot 398,Asprey,<NA>,Sotheby's,557.59,1115.18,None,850.0,708.3333333333334

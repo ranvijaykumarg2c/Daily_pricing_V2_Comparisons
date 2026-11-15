@@ -1,0 +1,736 @@
+ID,asset_type,auction_house,title,sale_date,memorabilia_type,personality,autographed,signed_by,authentication,year_of_issue,condition,dimensions,materials,limited_edition,edition_number,provenance,manufacturer,sport,league,team,player,jersey_number,game_used,rookie_item,match_event,driver,series,race_event,race_used,vehicle_model,auto_memorabilia_type,sponsor_logos,franchise,character,actor_or_creator,media_type,publisher_or_studio,issue_number,prop_used,release_year,genre,ah_low_estimate,ah_high_estimate,ah_bp_price,currency,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,description_block,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+b6cd392e-8c3a-4e57-83fc-228973ea0ed9,Memorabilia,Bonhams,Le Mans 1954 after Nicholas Watts,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/77/le-mans-1954-after-nicholas-watts/,6812.63,23275.92,47289.33,17.24,None,None,None,2025-12,gpt-4.1-mini,0.0,0.0
+5b437b1c-2191-4358-8669-12083df80538,Memorabilia,Bonhams,Porsche printed ephemera,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/107/porsche-printed-ephemera-4/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+174013ed-1db8-47f6-a7b0-09e6af284d7e,Memorabilia,Bonhams,A pair of Lucas No.742 oil-illuminating brass sidelamps and a No.634 tail lamp,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,brass,false,N/A,N/A,Lucas,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,sidelamps and tail lamp,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/35/a-pair-of-lucas-no742-oil-illuminating-brass-sidelamps-and-a-no634-tail-lamp-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+b91ed695-765b-44a9-a786-5da0e8d8fc7d,Memorabilia,Bonhams,"A 'Loch Corrie' Malt Whisky enamel sign, and three other Whisky advertising signs",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/10/a-loch-corrie-malt-whisky-enamel-sign-and-three-other-whisky-advertising-signs-4/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+666fc87d-ff2b-4a10-880f-f304bdcee694,Memorabilia,Bonhams,"A monochrome photograph of Mick Jagger and his Aston Martin, mounted with an autograph",None,Automotive,Mick Jagger,true,Mick Jagger,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Aston Martin,Photograph,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,800,1200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/53/a-monochrome-photograph-of-mick-jagger-and-his-aston-martin-mounted-with-an-autograph/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b05a9721-c396-4a7d-ba7c-e1cedf781bed,Memorabilia,Bonhams,"An engineer's scale model of a grass-hopper beam engine, by G. Emery of Worcestershire",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/144/an-engineers-scale-model-of-a-grass-hopper-beam-engine-by-g-emery-of-worcestershire/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+e905241a-5915-4ce2-b319-f80179566925,Memorabilia,Bonhams,"A pair of Rotax electric headlamps, 1920s",None,Automotive,N/A,false,N/A,N/A,1920,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Headlamp,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1920,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/32/a-pair-of-rotax-electric-headlamps-1920s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+8bc41533-b555-42a7-8e12-d75026950485,Memorabilia,Bonhams,Dick & George,None,Pop Culture,Doug Nye & Geoffrey Goddard,false,N/A,N/A,2002,N/A,N/A,leather,true,N/A,N/A,Palawan Press,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,2002,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/96/doug-nye-and-geoffrey-goddard-dick-and-george-a-leather-bound-limited-edition-published-by-palawan-press-2002/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+b06020c7-6ea5-450b-a5d9-1c5899a63eaf,Memorabilia,Bonhams,Batey's - John Bull's Favourite Ginger Beer,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/5/a-bateys-john-bulls-favourite-ginger-beer-enamel-advertising-sign-early-20th-century-5/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5e415f68-2982-4471-9c77-b04dd9027ebf,Memorabilia,Bonhams,"A set of three ""World's Greatest Air Race"" limited edition prints to publicise the 2016 launch of Bremont Chronometers' de Havilland DH-88 Comet limited edition wristwatch",None,Pop Culture,N/A,false,N/A,N/A,2016,N/A,N/A,N/A,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,2016,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/114/a-set-of-three-worlds-greatest-air-race-limited-edition-prints-to-publicise-the-2016-launch-of-bremont-chronometers-de-havilland-dh-88-comet-limited-edition-wristwatch-5/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5291d8d3-32ce-4503-a3d0-a2d5874318e5,Memorabilia,Bonhams,W.O. - The Autobiography of W.O.Bentley,None,Pop Culture,W.O. Bentley,true,W.O. Bentley,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/94/an-author-signed-edition-of-wo-the-autobiography-of-wobentley-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+36cd98e9-6d7f-45d8-9355-200687c752b5,Memorabilia,Bonhams,A Portrait of Enzo Ferrari,None,Automotive,Enzo Ferrari,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/86/dexter-brown-british-1942-a-portrait-of-enzo-ferrari/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+549ffe52-4295-45d2-8dd7-3701922d701e,Memorabilia,Bonhams,A Riva speedboat steering wheel centre boss,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,400,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/41/a-riva-speedboat-steering-wheel-centre-boss/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+2f905c9b-bc2f-4cbd-bd29-1e0bdd136422,Memorabilia,Bonhams,A Shell oil dispenser and four Shell advertising garage signs,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/7/a-shell-oil-dispenser-and-four-shell-advertising-garage-signs-6/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+ba983ea6-2062-4b6f-9530-75da2203830d,Memorabilia,Bonhams,"A rare colour illustrated educational poster depicting the French Grand Palais Paris Motor Show, circa late 1950s",None,Automotive,N/A,false,N/A,N/A,1950,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1950,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/59/a-rare-colour-illustrated-educational-poster-depicting-the-french-grand-palais-paris-motor-show-circa-late-1950s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+2d3d18de-475f-4c9b-b91e-14f904146678,Memorabilia,Bonhams,For Your Eyes Only,None,Pop Culture,N/A,false,N/A,N/A,1981,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,James Bond,N/A,N/A,Movie,N/A,N/A,false,1981,N/A,200,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/62/for-your-eyes-only-james-bond-film-poster-japanese-1981/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+2832be04-f4ec-4e9a-b0ca-6095d01f9a56,Memorabilia,Bonhams,1970 Automobile Club de L'Ouest Le Mans poster,None,Automotive,N/A,false,N/A,N/A,1970,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1970,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/54/a-1970-automobile-club-de-louest-le-mans-poster/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+3b5dfb9c-8cf5-4bfe-a380-507db7b8c094,Memorabilia,Bonhams,Two race photographs with signatures of race driver Eric Thompson,None,Automotive,Eric Thompson,true,Eric Thompson,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,Eric Thompson,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/49/two-race-photographs-with-signatures-of-race-driver-eric-thompson-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+0bdb38f1-a495-4121-9f5e-cde64f65ce4a,Memorabilia,Bonhams,The Velocipede; cycling instruction book,None,Automotive,Joseph Firth Bottomley,false,N/A,N/A,1869,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1869,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/112/jfb-joseph-firth-bottomley-the-velocipede-cycling-instruction-book-1869/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+19811466-3823-44f7-a550-5767cdb8fb69,Memorabilia,Bonhams,1:18 scale model 1962 Ferarri 250 GTO by Amalgam,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,Amalgam,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,1962 Ferarri 250 GTO,Model,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/146/a-118-scale-model-1962-ferarri-250-gto-by-amalgam/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+9bb263fc-47a4-4e32-b410-67eb60d682ad,Memorabilia,Bonhams,A 1:43 scale white metal Meri Bam Kits model of the 1979 Le Mans Ferrari 512 BB,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,white metal,false,N/A,"built and finished by Dennis Koleber of Texas, USA",Meri Bam Kits,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Ferrari 512 BB,model,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,600,800,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/147/a-143-scale-white-metal-meri-bam-kits-model-of-the-1979-le-mans-ferrari-512-bb-built-and-finished-by-dennis-koleber-of-texas-usa-4/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+1b03108c-4f3d-416d-b4c7-09afb7889252,Memorabilia,Bonhams,"Three 'Olympia Racing Car Show' posters for 1964, 1966 and 1967",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/57/three-olympia-racing-car-show-posters-for-1964-1966-and-1967-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+015f6bfb-0cb3-4f35-8bfd-b04b8fa16291,Memorabilia,Bonhams,Le long chemin du retour,None,Automotive,Frederick Gordon Crosby,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,600,800,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/88/frederick-gordon-crosby-british-1885-1943-le-long-chemin-du-retour/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+0e04c3e6-2920-4d84-88bd-e43cf38a2dc4,Memorabilia,Bonhams,"A bespoke five-piece set of leather luggage for Bentley, by Swaine Adeney Brigg",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,leather,false,N/A,N/A,Swaine Adeney Brigg,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Bentley,luggage,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,800,1200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/136/a-bespoke-five-piece-set-of-leather-luggage-for-bentley-by-swaine-adeney-brigg-9/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+e2ba0305-23aa-4eba-9d89-5dc8b45b9c34,Memorabilia,Bonhams,Four Aston Martin sales brochures,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/101/four-aston-martin-sales-brochures-5/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+238f835b-54ea-4f8f-b1d5-e60b0f02d793,Memorabilia,Bonhams,"A rare 'Old Father Time' mascot, British, 1930s",None,Automotive,N/A,false,N/A,N/A,1930,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Mascot,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1930,N/A,800,1200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/123/a-rare-old-father-time-mascot-british-1930s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+2ede8c91-2288-4282-8f33-53929c9a181c,Memorabilia,Bonhams,British Grand Prix Silverstone 1952 Presentation Sculpture,None,Automotive,Eric Thompson,false,N/A,N/A,1952,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,Eric Thompson,N/A,British Grand Prix 1952,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1952,N/A,400,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/141/a-british-grand-prix-silverstone-1952-presentation-sculpture-awarded-to-driver-eric-thompson-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+a723fb8f-9710-4cc7-93e6-555a58f6e4ec,Memorabilia,Bonhams,Eight 1970s rally posters including RAC Lombard Rally,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/65/eight-1970s-rally-posters-including-rac-lombard-rally-8/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+c20b124a-a4f1-4c63-a5b2-b20e0ac19e1f,Memorabilia,Bonhams,"A pair of S.Smith & Son oil-illuminating side-lamps, patented 1907, and two other lamps",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,S.Smith & Son,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/30/a-pair-of-ssmith-and-son-oil-illuminating-side-lamps-patented-1907-and-two-other-lamps-4/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+5160976f-1ad8-49be-88f6-85d84bb14ba9,Memorabilia,Bonhams,Milegal Meter dashboard mounting instrument,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/37/a-milegal-meter-dashboard-mounting-instrument-patented-1922/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+0c2f1a63-773e-4a02-bafe-e5f663d0b104,Memorabilia,Bonhams,Assorted Camel F1 promotional material,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/128/assorted-camel-f1-promotional-material/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+6fa01e54-5f8b-456e-b34b-69dbf9e93ac1,Memorabilia,Bonhams,David Weston: Rolls Royce Fantasia,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Rolls Royce Fantasia,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/90/david-weston-rolls-royce-fantasia-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+ec2ccf5d-02b7-4c80-a9e4-4badd9ceded4,Memorabilia,Bonhams,A Bosch type ZAV motorcycle magneto,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/40/a-bosch-type-zav-motorcycle-magneto/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+52030fd9-aac2-4f8a-9b96-e0fca8b1c58a,Memorabilia,Bonhams,A 1:14 scale model Ferrari 512 Berlinetta Boxer by ABC di Carlo Brianza,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,ABC di Carlo Brianza,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Ferrari 512 Berlinetta Boxer,Model Car,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/143/a-114-scale-model-ferrari-512-berlinetta-boxer-by-abc-di-carlo-brianza/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+56892089-be3f-4533-bd2e-9fe72234f0d6,Memorabilia,Bonhams,Assorted Porsche sales brochures and ephemera,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/103/assorted-porsche-sales-brochures-and-ephemera-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b2f6ad15-4857-4a87-9481-b186a7a61536,Memorabilia,Bonhams,Assorted F1 clothing,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,Formula 1,N/A,false,N/A,Clothing,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/131/assorted-f1-clothing/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+4fde10b1-e7ec-4d00-a389-44fd06263724,Memorabilia,Bonhams,For Your Eyes Only and Octopussy signed display,None,Pop Culture,N/A,true,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/74/for-your-eyes-only-and-octopussy-signed-display/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+c5b363c2-e6c5-4416-a430-24fcf38a7f05,Memorabilia,Bonhams,Spirit of Ecstasy showroom display statue,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/120/a-spirit-of-ecstasy-showroom-display-statue/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+df623117-9264-4792-8f2d-2d24c3dc4840,Memorabilia,Bonhams,"A vintage Bentley Winged 'B' badge, circa 1929",None,Automotive,N/A,false,N/A,N/A,1929,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Badge,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1929,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/119/a-vintage-bentley-winged-b-badge-circa-1929-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+ea6dd058-105e-4b6c-bcc7-9f62e2e3d5f8,Memorabilia,Bonhams,A 1970 Commercial Motor Show poster,None,Automotive,N/A,false,N/A,N/A,1970,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1970,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/55/a-1970-commercial-motor-show-poster/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+8b9df8b6-0101-4d5e-b234-fb6b701749d5,Memorabilia,Bonhams,Assorted sales brochures and ephemera for Jowett and other British Marques,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/100/assorted-sales-brochures-and-ephemera-for-jowett-and-other-british-marques-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+8db7ee53-a190-4326-af0f-6aa0cdcf3c30,Memorabilia,Bonhams,A signed British Automobile Racing Club 1965 Annual Dinner Dance Menu,None,Automotive,N/A,true,N/A,N/A,1965,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Menu,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1965,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/111/a-signed-british-automobile-racing-club-1965-annual-dinner-dance-menu/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+9771e549-8b38-4243-a904-ce2ace8ccbc4,Memorabilia,Bonhams,Three brass acetylene drum-shaped headlamps,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,brass,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,headlamp,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/25/three-brass-acetylene-drum-shaped-headlamps-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+af492e45-95ad-4c55-87ea-1034c8c505db,Memorabilia,Bonhams,"A Type 77 JPS Lotus front wing offside section, signed by Mario Andretti",None,Automotive,Mario Andretti,true,Mario Andretti,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,Mario Andretti,N/A,N/A,false,N/A,Front Wing,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,900,1100,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/133/a-type-77-jps-lotus-front-wing-offside-section-signed-by-mario-andretti/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+4ec8b9c3-792d-49dd-a787-13e867afddfa,Memorabilia,Bonhams,"Le Mans 1927, Bentley success booklet",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/89/le-mans-1927-bentley-success-booklet-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+86bc5ed2-a894-4662-a5ec-262064767156,Memorabilia,Bonhams,Seven assorted garage signs,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/11/seven-assorted-garage-signs-7/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5a2088b5-12de-45fd-ade0-28358809ca74,Memorabilia,Bonhams,"A signed replica of the 1959 Aston Martin ""Le Mans Sweeping Triumph..."" poster",None,Automotive,N/A,true,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Aston Martin,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/43/a-signed-replica-of-the-1959-aston-martin-le-mans-sweeping-triumphposter/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+c65fd37e-481a-4151-ae2f-3ee744c2c8b0,Memorabilia,Bonhams,Assorted acetylene motorcycle and cycle lamps,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/27/assorted-acetylene-motorcycle-and-cycle-lamps-8/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+26e5ecf0-a01f-4264-bdaf-39c8df4aecac,Memorabilia,Bonhams,Ten assorted car badges,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/115/ten-assorted-car-badges-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+7eda6806-f2a1-471f-bb66-6efe35c62b19,Memorabilia,Bonhams,Never Say Never Again display with Sean Connery signature,None,Pop Culture,Sean Connery,true,Sean Connery,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/72/never-say-never-again-display-with-sean-connery-signature/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+6658c14d-a5b1-4b8b-bd7f-e663ee13b961,Memorabilia,Bonhams,Five tobacco related printed tin signs,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,tin,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Tin Sign,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/16/five-tobacco-related-printed-tin-signs-6/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+bd361b07-3335-426c-a207-168c3a2abc12,Memorabilia,Bonhams,Garage adverting signs for tyre manufacturers,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/3/garage-adverting-signs-for-tyre-manufacturers-7/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5f7ebdb7-169c-41bb-9398-f311a663205f,Memorabilia,Bonhams,"Two CMF (Club Motocycliste Français) motoring and motorcycling lithographic posters after Geo Ham, circa 1935",None,Automotive,N/A,false,N/A,N/A,1935,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1935,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/73/two-cmf-club-motocycliste-francais-motoring-and-motorcycling-lithographic-posters-after-geo-ham-circa-1935/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+33522bc2-49a7-4817-bc45-de1682c281f9,Memorabilia,Bonhams,A J & R Oldfield 'Dependence' oil illuminated rear lamp,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/34/a-j-and-r-oldfield-dependence-oil-illuminated-rear-lamp/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+ba72cddb-02d1-49a9-b2e1-3006cf72a830,Memorabilia,Bonhams,"Seven Michelin, Shell and Dunlop advertisements",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/17/seven-michelin-shell-and-dunlop-advertisements-7/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+4297c773-6533-4947-8e9c-0e3a074e084d,Memorabilia,Bonhams,Two signed Paddy Hopkirk books,None,Pop Culture,Paddy Hopkirk,true,Paddy Hopkirk,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/93/two-signed-paddy-hopkirk-books-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+9ed67992-e695-4fda-8f0c-19739408d818,Memorabilia,Bonhams,"A pair of large Rushmore 'Searchlight' acetylene brass drum-shaped headlamps, American",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,brass,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,headlamps,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/24/a-pair-of-large-rushmore-searchlight-acetylene-brass-drum-shaped-headlamps-american-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+4cf6e44e-46d3-4379-83a5-b0ccb0762ac0,Memorabilia,Bonhams,A highly polished walnut veneered box,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/137/a-highly-polished-walnut-veneered-box/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+511ba044-f995-45b0-bd9c-3acacac91686,Memorabilia,Bonhams,Happy Anniversary 007,None,Pop Culture,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,James Bond,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/58/a-happy-anniversary-007-poster-celebrating-25-years-of-james-bond/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+ef2bc531-2d5d-42f4-b8f6-6efff155e03f,Memorabilia,Bonhams,Assorted car badges,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/116/assorted-car-badges-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+82aa4f39-0179-4cea-a9f4-690b952e1f95,Memorabilia,Bonhams,A National Coal Board 'Fire Danger' forestry warning sign,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/4/a-national-coal-board-fire-danger-forestry-warning-sign/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+09431c60-b000-4310-bb64-1401ea418780,Memorabilia,Bonhams,1952 Nurburgring 'Um Die Automobil - Weltmeisterschaft' Grand Prix poster,None,Automotive,N/A,false,N/A,N/A,1952,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1952,N/A,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/71/a-1952-nurburgring-um-die-automobil-weltmeisterschaft-grand-prix-poster/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+841e56f7-b14e-49b5-ae95-7fea68ecc3c6,Memorabilia,Bonhams,A Mike Hawthorn signed Le Mans 1955 leaflet,None,Automotive,Mike Hawthorn,true,Mike Hawthorn,N/A,1955,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1955,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/108/a-mike-hawthorn-signed-le-mans-1955-leaflet-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+cd501b33-1283-48a0-bfa0-54e1afc7d8b2,Memorabilia,Bonhams,Jim Clark At The Wheel,None,Automotive,Jim Clark,true,Jim Clark,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,500,700,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/97/arthur-baker-jim-clark-at-the-wheel-a-first-edition-signed-by-jim-clark/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+f2525ace-99cf-4195-9537-1718f428d1fe,Memorabilia,Bonhams,A large 'Liverpool & London & Globe Insurance Co.Ltd. - Safety First' enamel advertising sign,None,Automotive,N/A,false,N/A,N/A,1920,N/A,N/A,enamel,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Sign,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1920,N/A,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/6/a-large-liverpool-and-london-and-globe-insurance-coltd-safety-first-enamel-advertising-sign-1920s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+f424b04e-017c-4ee9-acf4-41bad125791d,Memorabilia,Bonhams,The 1953 Goodwood International Nine Hour Race chequered flag,None,Automotive,"Eric Thompson, Reg Parnell",false,N/A,N/A,1953,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,Goodwood International Nine Hour Race,false,N/A,chequered flag,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1953,N/A,600,800,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/129/the-1953-goodwood-international-nine-hour-race-chequered-flag-presented-by-the-barc-for-the-race-victory-by-eric-thompson-and-reg-parnell-for-aston-martin/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+794fcc1d-242c-4feb-b461-2d69a469630b,Memorabilia,Bonhams,A Ferrari 246 Dino jack by Battaini,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,Battaini,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Ferrari 246 Dino,Jack,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,1000,1500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/18/a-ferrari-246-dino-jack-by-battaini/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+02e7170b-7709-4aab-b76e-f33317cde3a6,Memorabilia,Bonhams,Two framed reproduction French motoring posters for 'Diort Cycles et Automobiles' and 'Pneu Michelin',None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/56/two-framed-reproduction-french-motoring-posters-for-diort-cycles-et-automobiles-and-pneu-michelin-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+f8ee60aa-6287-4349-8663-051367c87dcd,Memorabilia,Bonhams,"Four Brands Hatch, Snetterton and Crystal Palace race posters",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/64/four-brands-hatch-snetterton-and-crystal-palace-race-posters-4/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+c3eff755-716a-483c-a5be-fa3a2877c814,Memorabilia,Bonhams,"De Bruyne (Dexter Brown, British, 1942-), 'Alfa Romeo P2'",None,Automotive,Dexter Brown,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Alfa Romeo P2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/84/de-bruyne-dexter-brown-british-1942-alfa-romeo-p2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+83dccee3-d9c7-48be-8169-5960b53edd19,Memorabilia,Bonhams,Five pen and ink motoring cartoons by Carson,None,Automotive,N/A,false,N/A,N/A,1960,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1960,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/79/five-pen-and-ink-motoring-cartoons-by-carson-published-in-autosport-circa-1960s-5/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+fb9d83ea-8f6a-4a90-8c8a-1c8621402726,Memorabilia,Bonhams,A photograph of the MGA prototype and other MGA images and ephemera,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,120,180,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/44/a-photograph-of-the-mga-prototype-and-other-mga-images-and-ephemera/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+57e5fe6e-405a-495a-abcb-838f49e2e01c,Memorabilia,Bonhams,Three garage motoring accessories advertising racks,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/21/three-garage-motoring-accessories-advertising-racks-4/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5fb74355-8931-4a19-a8cd-4dd50227c324,Memorabilia,Bonhams,An original Steve McQueen Le Mans poster by Cinema Centre Films,None,Pop Culture,Steve McQueen,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,Cinema Centre Films,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/67/an-original-steve-mcqueen-le-mans-poster-by-cinema-centre-films/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+9cfdc7fd-6f04-4b5e-9b30-6c852934074b,Memorabilia,Bonhams,A cased display set of 'Badges of the World's Great Motor Cars',None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,Danbury Mint,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/117/a-cased-display-set-of-badges-of-the-worlds-great-motor-cars-by-danbury-mint/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+d6706de2-37b2-4ce3-ae93-82285857e8b8,Memorabilia,Bonhams,Icarus mascot by Colin George for Finnigans of London,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Mascot,N/A,N/A,N/A,Colin George,N/A,N/A,N/A,false,<NA>,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/122/an-icarus-mascot-by-colin-george-for-finnigans-of-london-circa-1930/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+9213f75e-9ad8-4967-b03f-c94c12ab9f9d,Memorabilia,Bonhams,Assorted signed ephemera,None,Automotive,N/A,true,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/109/assorted-signed-ephemera-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b5155086-47ed-40e3-91a7-7e681d69a5dc,Memorabilia,Bonhams,"Twenty-five enamelled ERA lapel and pin badges, 1930s",None,Automotive,N/A,false,N/A,N/A,1930,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1930,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/118/twenty-five-enamelled-era-lapel-and-pin-badges-1930s-25/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+fc764104-8d3d-4cdd-ac86-25c286d9bd7c,Memorabilia,Bonhams,Spectre - a signed Daniel Craig framed display,None,Pop Culture,Daniel Craig,true,Daniel Craig,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,500,700,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/52/spectre-a-signed-daniel-craig-framed-display/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b9d57e69-f1d1-44db-8f06-e917e4256f83,Memorabilia,Bonhams,A pair of 'Belvedere' brass electric headlamps,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,brass,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,headlamps,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/29/a-pair-of-belvedere-brass-electric-headlamps-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+06a5df6a-b3a1-4703-85bf-6950194d7415,Memorabilia,Bonhams,"A 'Birglow Auto Signal' indicator arm, registered design 1931",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/22/a-birglow-auto-signal-indicator-arm-registered-design-1931/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+e64b9661-6d92-48b8-8ed6-6ae917e60a98,Memorabilia,Bonhams,"An Aston Martin DB Mark III coachbuilder's model, late 1950s",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Aston Martin DB Mark III,Model,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,500,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/145/an-aston-martin-db-mark-iii-coachbuilders-model-late-1950s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+74e0fd81-6aaa-4631-99b5-52ef89cc6082,Memorabilia,Bonhams,Assorted veteran sales brochures and handbooks including De Dion Bouton,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/104/assorted-veteran-sales-brochures-and-handbooks-including-de-dion-bouton-8/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+a041a371-651c-4e27-9d7f-76d3c451023d,Memorabilia,Bonhams,"A Record of Grand Prix and Voiturette Racing, Volumes 1 to 17",None,Automotive,"Paul Sheldon, Duncan Rabagliati",false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,500,700,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/98/paul-sheldon-duncan-rabagliati-and-other-authors-a-record-of-grand-prix-and-voiturette-racing-volumes-1-to-17-18/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5eab3fef-505e-4686-ab11-edee599d9f6e,Memorabilia,Bonhams,A Sean Connery James Bond 'Goldfinger' Aston Martin DB5 framed display with signature,None,Automotive,Sean Connery,true,Sean Connery,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Aston Martin DB5,Framed Display,N/A,James Bond,N/A,Sean Connery,N/A,N/A,N/A,false,<NA>,N/A,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/48/a-sean-connery-james-bond-goldfinger-aston-martin-db5-framed-display-with-signature/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+76fc7b88-4126-4928-9867-92dccddaa60f,Memorabilia,Bonhams,"A Motometer fitted with St Christopher enamelled plaque, 1920s",None,Automotive,N/A,false,N/A,N/A,1920,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1920,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/121/a-motometer-fitted-with-st-christopher-enamelled-plaque-1920s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b9349407-6d35-444b-b92b-62c678241bbb,Memorabilia,Bonhams,No Time To Die - a Daniel Craig signed framed display,None,Pop Culture,Daniel Craig,true,Daniel Craig,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,James Bond,N/A,Daniel Craig,Movie,N/A,N/A,false,2021,Action,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/47/no-time-to-die-a-daniel-craig-signed-framed-display/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+68429441-8770-4e03-aa5f-29a1bed56dd7,Memorabilia,Bonhams,Capstan Navy Cut Cigarettes Sold Here,None,Automotive,N/A,false,N/A,N/A,1930,N/A,N/A,enamel,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1930,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/13/a-capstan-navy-cut-cigarettes-sold-here-enamel-sign-1930s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+62406467-11d6-4d25-9859-8a6745b35f03,Memorabilia,Bonhams,Patrick 'Pat' Milne; 'Camille Jenatzy in the 1903 Gordon Bennett Trophy winning Mercedes Simplex 90 HP',None,Automotive,Camille Jenatzy,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,Mercedes,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Mercedes Simplex 90 HP,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/82/patrick-pat-milne-camille-jenatzy-in-the-1903-gordon-bennett-trophy-winning-mercedes-simplex-90-hp/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+2bc1cb36-dbed-4b89-a358-09f1db4e7192,Memorabilia,Bonhams,A framed display of ten original screen run film cells from 'Goldfinger',None,Pop Culture,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,James Bond,N/A,N/A,Movie,N/A,N/A,false,<NA>,Action,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/45/a-framed-display-of-ten-original-screen-run-film-cells-from-goldfinger/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b68a8808-e203-46c7-8110-58dc2f309a86,Memorabilia,Bonhams,"A Brabham Repco BT7 steering wheel, signed by Jack Brabham and Dan Gurney",None,Automotive,"Jack Brabham, Dan Gurney",true,"Jack Brabham, Dan Gurney",N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Steering Wheel,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,850,1000,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/132/a-brabham-repco-bt7-steering-wheel-signed-by-jack-brabham-and-dan-gurney/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+be61ae81-baaa-4d5e-8ac8-6a427ccc4fcb,Memorabilia,Bonhams,Various electric sidelamps,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/31/various-electric-sidelamps-10/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+3978d1ad-68f8-44ca-a101-cc7174350590,Memorabilia,Bonhams,Assorted motoring accessories,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/138/assorted-motoring-accessories-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+f04f1880-595c-4223-b426-20ca65d93d1d,Memorabilia,Bonhams,Three large brass headlamps,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,brass,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/26/three-large-brass-headlamps-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5a59b842-efbb-46b6-9ee1-c4f68b63478b,Memorabilia,Bonhams,A Bentley radiator surround with grille,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/42/a-bentley-radiator-surround-with-grille/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+c49a3fd7-24ea-4bd3-8558-a3d2d9551ebd,Memorabilia,Bonhams,RAC Hotel Wall Mounting Double-Sided Illuminating Sign,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Sign,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/2/an-rac-hotel-wall-mounting-double-sided-illuminating-sign-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+571ea247-e7f6-4dc5-bcfd-9099604488af,Memorabilia,Bonhams,Huntley & Palmers Ginger Nuts Advertising Enamel Sign,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/14/a-huntley-and-palmers-ginger-nuts-advertising-enamel-sign/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+2132f7e2-9114-4058-8e89-48a45d46b25f,Memorabilia,Bonhams,"A Huile D.F. advertising poster, French, circa 1910",None,Automotive,N/A,false,N/A,N/A,1910,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1910,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/70/a-huile-df-advertising-poster-french-circa-1910/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+d2dc4c2d-87e5-44c2-8eac-fb7a065bcefb,Memorabilia,Bonhams,A 'Vaux - Fine Ales & Lagers' brewery of Sunderland illuminating wall-mounting lantern sign,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/15/a-vaux-fine-ales-and-lagers-brewery-of-sunderland-illuminating-wall-mounting-lantern-sign/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+64ab5864-5586-4e6c-b5bd-cfc55d5b5443,Memorabilia,Bonhams,Assorted sales brochures and ephemera for British Marques,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/102/assorted-sales-brochures-and-ephemera-for-british-marques-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+d9cc7180-ad2e-4ec6-8c0f-4a84537bb68b,Memorabilia,Bonhams,Bizzarrini spares and badges,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/23/bizzarrini-spares-and-badges-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+0994bcb4-bf4e-4326-a91e-4ccaaf74c928,Memorabilia,Bonhams,Two Powell & Hanmer motorcycle lamp and generator sets on brackets,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Lamp and Generator Sets,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/28/two-powell-and-hanmer-motorcycle-lamp-and-generator-sets-on-brackets-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+96ee5879-8f15-4572-b705-2cb6ecd01075,Memorabilia,Bonhams,"Le Mans 1959, after Michael Turner",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/78/le-mans-1959-after-michael-turner-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+fd8284ea-fccf-4b06-8982-52c9fc4eb770,Memorabilia,Bonhams,Hugh Conway & Jacques Greilsamer: Bugatti,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/91/hugh-conway-and-jacques-greilsamer-bugatti-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5148364c-c2be-45d4-ac9b-327b3db56caa,Memorabilia,Bonhams,"A pair of Bleriot-Phi electric headlamps, 1920s",None,Automotive,N/A,false,N/A,N/A,1920,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Headlamp,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1920,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/33/a-pair-of-bleriot-phi-electric-headlamps-1920s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+eae15d98-e6ba-4ac0-a70c-309512f34a0e,Memorabilia,Bonhams,Assorted oil product and motoring accessories garage advertising signs,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/8/assorted-oil-product-and-motoring-accessories-garage-advertising-signs-13/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+ac1296a1-c3e5-4abb-b03c-62a54d8a1d57,Memorabilia,Bonhams,"Assorted Scuderia Ferrari F1 clothing signed by Charles Leclerc, Carlos Sainz Jr and Fernando Alonso",None,Automotive,"Charles Leclerc, Carlos Sainz Jr, Fernando Alonso",true,"Charles Leclerc, Carlos Sainz Jr, Fernando Alonso",N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,Formula 1,N/A,false,N/A,Clothing,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/130/assorted-scuderia-ferrari-f1-clothing-signed-by-charles-leclerc-carlos-sainz-jr-and-fernando-alonso-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5beecbd4-7e6a-48f2-9324-c7d559325134,Memorabilia,Bonhams,A 24 Heures du Mans 1966 poster,None,Automotive,N/A,false,N/A,N/A,1966,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1966,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/68/a-24-heures-du-mans-1966-poster/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+50c002a0-f0bf-452f-b4d8-bea80fa9a004,Memorabilia,Bonhams,Bugatti Magnum,None,Automotive,N/A,false,N/A,N/A,1989,N/A,N/A,N/A,false,N/A,N/A,Haynes,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1989,N/A,150,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/92/hugh-conway-and-maurice-sauzay-bugatti-magnum-published-by-haynes-1989-5/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+450d7762-cb2b-4c4c-800e-1dda49abcbd2,Memorabilia,Bonhams,A September 1968 24 Heures du Mans poster,None,Automotive,N/A,false,N/A,N/A,1968,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1968,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/60/a-september-1968-24-heures-du-mans-poster/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+9d8f0608-e44b-449f-be3c-07837af1161d,Memorabilia,Bonhams,Steve McQueen Le Mans poster,None,Pop Culture,Steve McQueen,false,N/A,N/A,1971,N/A,N/A,N/A,false,N/A,N/A,Cinema Center Films,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1971,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/61/an-original-steve-mcqueen-le-mans-poster-by-cinema-center-films-1971/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+fee9f8ba-17fd-4b57-a410-6500d876ff51,Memorabilia,Bonhams,"A boxed 'Chrysis' glass mascot/paperweight by Lalique, French, post-War",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,glass,false,N/A,N/A,Lalique,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,mascot/paperweight,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/125/a-boxed-chrysis-glass-mascotpaperweight-by-lalique-french-post-war/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+4d666a1b-727c-4a22-92fe-a47c5a0cc5d0,Memorabilia,Bonhams,Six assorted brass bulb horns,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,brass,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/36/six-assorted-brass-bulb-horns-6/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+5dbff631-78a6-499e-9d06-da8f4b615fec,Memorabilia,Bonhams,Athletes Prefer Shell,None,Pop Culture,Eve Kirk,false,N/A,N/A,1934,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1934,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/87/eve-kirk-british-1900-1969-athletes-prefer-shell-an-original-proposed-artwork-for-a-1934-shell-advertising-poster-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+95f35124-6ac9-4026-85b6-8555a2872a57,Memorabilia,Bonhams,"A Mercedes-Benz radiator decanter by Ruddspeed, British, 1960s",None,Automotive,N/A,false,N/A,N/A,1960,N/A,N/A,N/A,false,N/A,N/A,Ruddspeed,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Mercedes-Benz,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1960,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/140/a-mercedes-benz-radiator-decanter-by-ruddspeed-british-1960s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+208b24f3-9907-4dde-bd07-43d0391f11f0,Memorabilia,Bonhams,A wooden tool chest,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,200,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/20/a-wooden-tool-chest/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+d61bda3d-6247-4911-b049-ac4152ade1d9,Memorabilia,Bonhams,Five driver signed photographs and photoprints,None,Automotive,N/A,true,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Photograph,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/127/five-driver-signed-photographs-and-photoprints-5/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+824ca5a4-9a7d-41df-bd5c-27febb0ba0f7,Memorabilia,Bonhams,Seven enamel and printed tin advertising signs for various domestic products,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,tin,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/12/seven-enamel-and-printed-tin-advertising-signs-for-various-domestic-products-8/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+09b6d4b6-091f-4448-ac8a-c59796152e19,Memorabilia,Bonhams,A signed British Automobile Racing Club 1964 Annual Dinner Dance Menu,None,Automotive,N/A,true,N/A,N/A,1964,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Menu,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1964,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/110/a-signed-british-automobile-racing-club-1964-annual-dinner-dance-menu/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+734df12e-53f6-44ae-8272-716ecc32c9be,Memorabilia,Bonhams,"A Tautz & Co No.2 improved 'Warren' Aviator's Safety Helmet by Hobson & Sons of London, 1917",None,Automotive,N/A,false,N/A,N/A,1917,N/A,N/A,N/A,false,N/A,N/A,Hobson & Sons,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Helmet,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1917,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/113/a-tautz-and-co-no2-improved-warren-aviators-safety-helmet-by-hobson-and-sons-of-london-1917-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+0fcdcbaa-01f5-4de2-a706-a0f39ad266bf,Memorabilia,Bonhams,"Three reproduction photo prints after the print of Stirling Moss, The Blonde and The Maserati",None,Automotive,Stirling Moss,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/46/three-reproduction-photo-prints-after-the-print-of-stirling-moss-the-blonde-and-the-maserati-4/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+97135dba-154d-43c5-958f-28c8223525c3,Memorabilia,Bonhams,Twelve motoring fire extinguishers,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/19/twelve-motoring-fire-extinguishers-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+629d3ae9-6076-4e3a-896f-8435e27717e8,Memorabilia,Bonhams,"De Bruyne (Dexter Brown, British, 1942-), three preliminary artworks",None,Pop Culture,Dexter Brown,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/81/de-bruyne-dexter-brown-british-1942-three-preliminary-artworks-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+52080daa-f6cc-4fb5-8d74-c403cd90a6e5,Memorabilia,Bonhams,"Walkden Fisher (1913-1979), British, 'ERA'",None,Automotive,Walkden Fisher,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/83/walkden-fisher-1913-1979-british-era/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+eb81e408-1721-4cb0-9748-6df50a9456f2,Memorabilia,Bonhams,"A boxed 'Tete d'Aigle' (Eagle's Head) glass mascot/paperweight, by Cristal Lalique, French, post-War",None,Pop Culture,N/A,false,N/A,N/A,<NA>,N/A,N/A,glass,false,N/A,N/A,Cristal Lalique,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/124/a-boxed-tete-daigle-eagles-head-glass-mascotpaperweight-by-cristal-lalique-french-post-war/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+52157ad2-8839-4a68-b48c-4ab13465f359,Memorabilia,Bonhams,1966 Monaco Grand Prix poster after Michael Turner,None,Automotive,N/A,false,N/A,N/A,1966,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,Monaco Grand Prix 1966,false,N/A,Poster,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1966,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/66/a-1966-monaco-grand-prix-poster-after-michael-turner/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+f4a7e348-c544-49dd-8503-e645f1319cda,Memorabilia,Bonhams,A signed Sean Connery 'James Bond' portrait photograph,None,Pop Culture,Sean Connery,true,Sean Connery,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,James Bond,James Bond,Sean Connery,N/A,N/A,N/A,false,<NA>,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/51/a-signed-sean-connery-james-bond-portrait-photograph-framed-connery-2-photo-display-signed-in-gold/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+147ae7ed-7c1a-4364-8913-101128c040a1,Memorabilia,Bonhams,Five enamel tobacco related advertising signs,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,150,250,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/9/five-enamel-tobacco-related-advertising-signs-5/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+c1b4630c-c2c6-4067-a39b-02bc9cd99d92,Memorabilia,Bonhams,An AA 'West Ilsley' circular enamel road sign,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,enamel,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,road sign,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/1/an-aa-west-ilsley-circular-enamel-road-sign-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+127df14a-5ae7-4bbb-a7d1-cd0c98993e6c,Memorabilia,Bonhams,"A considerable collection of Formula 1 and motorsport stickers, 1970s-1980s",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,Formula 1,N/A,false,N/A,Stickers,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/134/a-considerable-collection-of-formula-1-and-motorsport-stickers-1970s-1980s-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+bf64d53d-715a-4873-8338-e30f09aa6763,Memorabilia,Bonhams,"A Jaeger Paris 8 day car clock, French, 1930s",None,Automotive,N/A,false,N/A,N/A,1930,N/A,N/A,N/A,false,N/A,N/A,Jaeger,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Clock,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1930,N/A,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/38/a-jaeger-paris-8-day-car-clock-french-1930s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.01,0.01
+6e31d5f2-a893-4c3f-b7d8-ec51ea957bb9,Memorabilia,Bonhams,A 'Bugatti' radiator decanter,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Bugatti,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,500,700,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/142/a-bugatti-radiator-decanter/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+12d52318-0d41-4f4f-a45f-dc20d3de700a,Memorabilia,Bonhams,Bearing the appropriate number...,None,Automotive,Walkden Fisher,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/80/walkden-fisher-1913-1979-british-bearing-the-appropriate-number/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+26eec54f-dd02-44dc-9e49-6fdab9f30ce2,Memorabilia,Bonhams,Assorted sales brochures and ephemera for European Marques,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/99/assorted-sales-brochures-and-ephemera-for-european-marques-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+8287554f-6b45-41fb-b8e3-4cd2bc8d49be,Memorabilia,Bonhams,Joseph Figoni - Alfa Romeo - Volume One,None,Automotive,Peter M. Larsen & Ben Erickson,true,Peter M. Larsen & Ben Erickson,N/A,<NA>,N/A,N/A,N/A,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,500,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/95/peter-mlarsen-and-ben-erickson-joseph-figoni-alfa-romeo-volume-one-a-signed-limited-edition/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+1c0ee98a-9691-48d3-bb7f-67bc17d59923,Memorabilia,Bonhams,Three British motor racing posters,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/63/three-british-motor-racing-posters-3/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+83e1071a-66dc-470d-8049-9cb73fcb54d2,Memorabilia,Bonhams,"Dexter Brown (British, 1942-), 'Invicta S-Type'",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,Invicta S-Type,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,300,400,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/85/dexter-brown-british-1942-invicta-s-type/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+196a810c-fe30-4af2-89fd-c80b2e2738ee,Memorabilia,Bonhams,"Two sales leaflets for Bentley Silent Speed Six and Bentley 4½ Litre, dated October 1929",None,Automotive,N/A,false,N/A,N/A,1929,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1929,N/A,380,540,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/105/two-sales-leaflets-for-bentley-silent-speed-six-and-bentley-412-litre-dated-october-1929-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+ac77423c-cf79-4aa1-b482-4f186ff6995d,Memorabilia,Bonhams,A Sean Connery signature 'Goldfinger' display,None,Pop Culture,Sean Connery,true,Sean Connery,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/75/a-sean-connery-signature-goldfinger-display/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+0efea868-d6ec-4171-a259-4d1ce85993b3,Memorabilia,Bonhams,A 1958 Rallye Monte-Carlo competitor's plate number 318,None,Automotive,N/A,false,N/A,N/A,1958,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1958,N/A,500,700,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/126/a-1958-rallye-monte-carlo-competitors-plate-number-318/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+c1909dae-f4b4-4408-8dc2-6cefb3960ee8,Memorabilia,Bonhams,"An A.R.Co. brass 8-day car clock, Swiss",None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,brass,false,N/A,N/A,A.R.Co.,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,clock,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/39/an-arco-brass-8-day-car-clock-swiss/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b483f320-0244-4915-ae46-0cbc63c4fdcb,Memorabilia,Bonhams,Le 24 Ore di Le Mans Italian film poster,None,Pop Culture,N/A,false,N/A,N/A,1971,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,Movie,N/A,N/A,false,1971,N/A,250,350,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/69/le-24-ore-di-le-mans-italian-film-poster-first-edition-1971/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+e6203e43-7917-41e9-9eae-ba1c85821e68,Memorabilia,Bonhams,"A 'John Surtees' signed limited edition print, after Martin Smith",None,Automotive,John Surtees,true,John Surtees,N/A,<NA>,N/A,N/A,N/A,true,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Print,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/76/a-john-surtees-signed-limited-edition-print-after-martin-smith/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+71c0ff13-2083-43a7-a298-3dc45f5306ed,Memorabilia,Bonhams,A selection of British Grand Prix programmes,None,Automotive,N/A,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,100,150,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/106/a-selection-of-british-grand-prix-programmes-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+b322f274-0632-47df-9564-239a98736070,Memorabilia,Bonhams,Eric Thompson's 'BRDC' jacket with patch,None,Automotive,Eric Thompson,false,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,Jacket,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,200,300,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/139/eric-thompsons-brdc-jacket-with-patch-2/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+69d56dab-2083-4536-8ce1-0c3d0dc39d5b,Memorabilia,Bonhams,A collection of Jaguar team autographs,None,Automotive,N/A,true,N/A,N/A,<NA>,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,<NA>,N/A,400,600,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/50/a-collection-of-jaguar-team-autographs-qty/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0
+3167bf6b-f1bd-466d-98ca-f62dbd2214b1,Memorabilia,Bonhams,"A Louis Vuitton leather attaché ""Dolls"" case, 1920s",None,Automotive,N/A,false,N/A,N/A,1920,N/A,N/A,leather,false,N/A,N/A,Louis Vuitton,N/A,N/A,N/A,N/A,N/A,false,false,N/A,N/A,N/A,N/A,false,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,false,1920,N/A,600,800,None,GBP,None,None,None,"REGISTRATION_NO.: None
+
+CHASIS_NO.: None
+
+YEAR_MANUFACTURED: None",https://cars.bonhams.com/auction/31234/lot/135/a-louis-vuitton-leather-attache-dolls-case-1920s/,6812.63,23275.92,47289.33,17.24,None,None,None,nan,gpt-4.1-mini,0.0,0.0

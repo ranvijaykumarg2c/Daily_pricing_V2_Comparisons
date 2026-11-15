@@ -1,0 +1,293 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+9c27f2ea-659b-4fbb-8b94-5061516d7882,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 1,USD,8000,12000,8320,6500,8000,12000,8320,6500,Pablo Picasso,1881,1973,"Picador, 1959",prints,linocut in colors on Arches paper,N/A,25.25,20.875,in,no,yes,yes,1959,1959,N/A,"picador, bullfighting, abstract figures, shapes, silhouettes, color contrast, movement, gestures",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Picador, 1959
+linocut in colors on Arches paper
+a proof, inscribed 'le 7.10.59 à tirer', '1ère épreuve', '5.10.59' in pencil, inkstamped 'Imprimerie Arnéra Archives/Non Signé', verso
+
+20 7/8 x 25 1/4 inches.
+
+This lot is located in Philadelphia.
+Printed by Hidalgo Arnéra, VallaurisLiterature:Bloch 909; Baer 1226",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3351d455-fa08-4c02-b024-6d48042ebf9e,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/1,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,2026-09,N/A,gpt-4.1-mini,DISABLED_VRAM,11000.0,9166.666666666668
+6f0bae03-1bb3-4acc-a593-68bfb782aa96,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 2,USD,4000,6000,16640,13000,4000,6000,16640,13000,Pablo Picasso,1881,1973,"Pichet Yan (A.R. 140), 1952",ceramics,"red earthenware clay turned pitcher, decorations in engobes",N/A,N/A,10.25,in,no,yes,yes,1952,1952,Acquired directly from the above in 1963; Thence by descent to the present owner,"pitcher, clay, decoration, earthenware, black, red, white, curve, handle, abstract",1,N/A,original,"Pablo Picasso 
+(Spanish, 1881–1973)
+Pichet Yan (A.R. 140), 1952
+red earthenware clay turned pitcher, decorations in engobes
+from the edition of 400; with 'Madoura Plein Feu' and 'Edition Picasso' stamps on the underside
+
+Height: 10 1/4 inches.
+
+This lot is located in Philadelphia.
+Madoura, Vallauris, FranceAcquired directly from the above in 1963Thence by descent to the present ownerLiterature:Alain Ramié 140",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/eca6b8f8-f6fc-4023-9df0-9d55819e7519,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/2,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+3332406e-1fef-46ac-80f5-27e0fe7224e2,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 3,USD,3000,5000,8960,7000,3000,5000,8960,7000,Pablo Picasso,1881,1973,"Sujet poisson (A.R. 139), 1952",ceramics,"red earthenware clay turned pitcher, decoration in engobes",N/A,N/A,5.25,in,no,yes,yes,1952,1952,Acquired directly from the above in 1963; Thence by descent to the present owner,"pitcher, fish, red earthenware, decoration, clay",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Sujet poisson (A.R. 139), 1952
+red earthenware clay turned pitcher, decoration in engobes
+from the edition of 500; with the 'Edition Picasso' and 'Madoura Plein Feu' stamps on the underside
+
+Height: 5 1/4 inches.
+
+This lot is located in Philadelphia.
+Madoura, Vallauris, FranceAcquired directly from the above in 1963Thence by descent to the present ownerLiterature:Alain Ramié 139",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ed46cbfa-ed96-4df9-afcb-03616b677b2c,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/3,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+11d20f9b-dde3-422a-8398-aa2dfc93e189,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 4,USD,30000,50000,48000,37500,30000,50000,48000,37500,Pablo Picasso,1881,1973,La Dame à la Collerette (Portrait de Jacqueline à la fraise),prints,linocut in colors,N/A,15.5,21,in,yes,yes,yes,1963,1963,"Published by Galerie Louise Leiris, Paris; printed by Arnéra, Vallauris","portrait, woman, ruff collar, face, black background, colored frame, expression, eyes, hairstyle, linocut",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+La Dame à la Collerette (Portrait de Jacqueline à la fraise), 1963
+linocut in colors
+signed and numbered 14/50 in pencil
+
+21 x 15 1/2 inches.
+
+This lot is located in Chicago.
+Published by Galerie Louise Leiris, Paris; printed by Arnéra, VallaurisLiterature:Bloch 1147; Baer 1321",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/13973d56-82ee-49f9-b249-07849da91159,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/4,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,42000.0,35000.0
+8986a0c9-f8ee-44fe-be07-ba20a8b1bffb,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 5,USD,4000,6000,8320,6500,4000,6000,8320,6500,Pablo Picasso,1881,1973,Tête de Bouffon - Carnival 1965,prints,linocut in colors on Arches paper,N/A,20.75,25.25,in,no,yes,yes,1965,1965,N/A,"clown, face, colors, crown, abstract, linocut, figure, carnaval, brown, cream",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Tête de Bouffon - Carnival 1965, 1965
+linocut in colors on Arches paper
+a proof; inkstamped 'Imprimerie Arnéra Archives/Non Signé' verso,
+
+25 1/4 x 20 3/4 inches.
+
+This lot is located in Philadelphia.
+Printed by Imprimerie Arnéra, VallaurisLiterature:Bloch 1193; Baer 1356",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e1a395cd-5379-4ef7-85e9-e65dd831cf84,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/5,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+3a41b411-f42b-44e7-a385-41243347cc2b,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 6,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,Pablo Picasso,1881,1973,"Le Vieux Bouffon, 1963",prints,linocut on thin wove paper,N/A,20.75,25,in,no,yes,yes,1963,1963,N/A,"face, jester, abstract shapes, lines, patterns",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Le Vieux Bouffon, 1963
+linocut on thin wove paper
+a proof; inkstamped 'Imprimerie Arnéra Archives/Non Signé' verso
+
+25 x 20 3/4 inches.
+
+This lot is located in Philadelphia.
+Printed by Imprimerie Arnéra, VallaurisLiterature:Bloch 1152; Baer 1338",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6618037e-cda8-420e-a58c-4a242fd3247a,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/6,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+f3f945c1-ad12-4662-8d7f-bba2c2a71e74,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 7,USD,60000,80000,N/A,N/A,60000,80000,N/A,N/A,Pablo Picasso,1881,1973,"Portrait de Jacqueline de Face. I, 1961",prints,linocut in black on thin wove green paper,N/A,20.75,25.25,in,no,yes,yes,1961,1961,N/A,"portrait, face, profile, line art, woman, man, abstract, figures, black, green",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Portrait de Jacqueline de Face. I, 1961
+linocut in black on thin wove green paper
+a proof, state 1 (of 3), inkstamped 'Imprimerie Arnéra / Non Signé / Archives', verso
+
+25 1/4 x 20 3/4 inches.
+
+This lot is located in Philadelphia.
+Printed by Imprimerie Arnéra, VallaurisLiterature:Bloch 1064; Baer 1278",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d28b7201-9d0f-4f2b-a8d5-ad86fbafb4d5,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/7,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,72000.0,60000.0
+9e19916c-b879-4320-a2e0-2f20083622c9,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 8,USD,50000,70000,N/A,N/A,50000,70000,N/A,N/A,Pablo Picasso,1881,1973,"Portrait de Jacqueline au Fauteuil, 1958",prints,linocut on thin pink wove paper,N/A,20.875,25.125,in,no,yes,yes,1958,1958,N/A,"portrait, woman, chair, necklace, line work, geometric patterns, face, leaves, background, abstract",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Portrait de Jacqueline au Fauteuil, 1958
+linocut on thin pink wove paper
+a proof, state 1 (of 2) of the Premier plateau: le Noir, inkstamped 'Imprimerie Arnéra Archives/Non Signé', verso
+
+Sheet: 25 1/8 x 20 7/8 inches.
+
+This lot is located in Philadelphia.
+Printed by Imprimerie Arnéra, VallaurisLiterature:Baer 1054",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6fcf4244-57f2-4050-945b-b1b904f65a09,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/8,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,62000.0,51666.66666666667
+6ce35cf2-9f61-4b64-9fd1-3cca0489a710,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 9,USD,50000,70000,N/A,N/A,50000,70000,N/A,N/A,Pablo Picasso,1881,1973,"Portrait de Jacqueline au Fauteuil, 1958",prints,linocut in color on thick wove paper,N/A,20.75,25,in,no,yes,yes,1958,1958,N/A,"portrait, woman, red background, white lines, abstract features, chair, foliage, expression, face, printmaking",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Portrait de Jacqueline au Fauteuil, 1958
+linocut in color on thick wove paper
+a proof, state 1 (of 2) of the Deuxième plateau: le Rouge, inkstamped 'Imprimerie Arnéra Archives/Non Signé', verso
+
+25 x 20 3/4 inches.
+
+This lot is located in Philadelphia.
+Printed by Imprimerie Arnéra, VallaurisLiterature:Baer 1054",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b52ef17b-7c60-4ea1-b4b2-e9c8cd9b2e9c,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/9,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,62000.0,51666.66666666667
+9a6aefe3-169c-4678-bdf3-bc32fb723358,Artwork,Freemans,6491,2026-03-05,Cincinnati,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 10,USD,8000,12000,19200,15000,8000,12000,19200,15000,Pablo Picasso,1881,1973,"Tête au masque (A.R. 364), 1956",ceramics,white earthenware clay,N/A,N/A,N/A,in,yes,yes,yes,1956,1956,"Madoura, Vallauris, France; Acquired directly from the above on October 13, 1998","plate, face, expression, ceramic, white, round, decorative, lines, texture, glaze",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Tête au masque (A.R. 364), 1956
+white earthenware clay round square dish, the reverse with decoration in engobes under partial brushed glaze
+incised 'B 100 Bis' and '58/100', with 'Madoura Plein Feu' and 'Empreinte Originale de Picasso' stamps on the underside 
+
+Diameter: 12 1/4 inches.
+
+This lot is located in Cincinnati.
+Provenance:Madoura, Vallauris, FranceAcquired directly from the above on October 13, 1998Literature:Alain Ramié 364",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/593b56f4-efdc-427c-b479-43d425278bc5,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/10,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,11000.0,9166.666666666668
+095cbb49-1f4e-459a-82bb-b1712a21d41b,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 11,USD,15000,20000,26880,21000,15000,20000,26880,21000,Pablo Picasso,1881,1973,"Bouteille gravée (A.R. 249), 1954",ceramics,"white earthenware ceramic, black oxide, black engobe, glaze",N/A,N/A,17.5,in,yes,yes,yes,1954,1954,N/A,"vase, ceramic, black stripes, face, decorative patterns, bottle shape",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Bouteille gravée (A.R. 249), 1954
+white earthenware ceramic vase, partially engraved, with black oxide, black engobe and glaze
+incised 'Edition Picasso', '89/300' and 'Madoura' on the underside
+
+Height: 17 1/2 inches.
+
+This lot is located in Chicago.
+Literature: Alain Ramié 249",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d706c814-2826-4a20-a0bf-5104880652a5,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/11,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,18500.0,15416.666666666668
+84c4f3f5-c7f1-4365-a0c9-a3999c1b4985,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 12,USD,4000,6000,5440,4250,4000,6000,5440,4250,Pablo Picasso,1881,1973,Quatre danseurs (A.R. 313),ceramics,white earthenware ceramic plaque with black engobe and white glaze,N/A,N/A,N/A,in,no,yes,yes,1956,1956,N/A,"dancers, figures, ceramic, black engobe, white glaze, plaque, sculpture, round, movement",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Quatre danseurs (A.R. 313), 1956
+white earthenware ceramic plaque with black engobe and white glaze
+from the edition of 450; with 'Madoura Plein Feu' and 'Empreinte Originale de Picasso' stamps on the underside
+
+Diameter: 9 7/8 inches.
+
+This lot is located in Philadelphia.
+Literature:Alain Ramié 313",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/064e6ffc-decb-468d-8d98-42264c096fb6,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/12,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+e0c3e09d-89ae-4aa5-b395-b1df73010229,Artwork,Freemans,6491,2026-03-05,Cincinnati,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 13,USD,20000,30000,32000,25000,20000,30000,32000,25000,Pablo Picasso,1881,1973,"Portrait de Françoise aux Cheveux Flous, 1947",prints,aquatint on Arches paper,N/A,17.75,24.125,in,yes,yes,yes,1947,1947,"Gallerie Louis Leiris, Paris; Private Collection; Pace Master Prints, New York; Acquired directly from the above on April 1, 1998","portrait, woman, hair, facial features, patterned top, artist proof, aquatint, monochrome",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Portrait de Françoise aux Cheveux Flous, 1947
+aquatint on Arches paper
+signed and inscribed 'épreuve d'artiste' in pencil; one of about 15 artist proofs aside from the edition of 50
+
+24 1/8 x 17 3/4 inches.
+
+This lot is located in Cincinnati.
+Published by Galerie Louise Leiris, Paris; printed by Lacourière, ParisProvenance:Gallerie Louis Leiris, ParisPrivate CollectionPace Master Prints, New YorkAcquired directly from the above on April 1, 1998Literature:Bloch 457; Baer 791",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6871b4d2-2c71-4937-ad34-227c71349689,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/13,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,27500.0,22916.666666666668
+79ebde58-e233-4fe8-9500-a619fbc8749e,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 14,USD,8000,12000,5440,4250,8000,12000,5440,4250,Pablo Picasso,1881,1973,"Jacqueline, en Maja nue, avec la Célestine (from Séries 347)",prints,aquatint on wove paper,N/A,8.75,6.75,in,yes,yes,yes,1968,1968,Property of a California Collector,"nude woman, three figures, abstract forms, aquatint, black and white",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Jacqueline, en Maja nue, avec la Célestine (from Séries 347), 1968
+aquatint on wove paper
+signed and numbered 33/50 in pencil
+
+6 3/4 x 8 3/4 inches.
+
+Property of a California Collector
+
+This lot is located in Chicago.
+Published by Galerie L. Leiris, Paris, 1969Literature:Bloch 1692; Baer 1708",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2fc33bd0-dae7-4e81-84b5-74304d8d7c51,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/14,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,10500.0,8750.0
+4a638238-5d76-47d2-8ea1-39f82c286906,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 15,USD,2000,3000,4160,3250,2000,3000,4160,3250,Pablo Picasso,1881,1973,"Homme à la pipe assis, Maja et Célestine (from Série 347)",prints,etching and aquatint on wove paper,N/A,3.375,2.375,in,yes,yes,yes,1968,1968,N/A,"man, pipe, seated figure, woman, nude, abstract forms, textures, dark colors, prints, etching",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Homme à la pipe assis, Maja et Célestine (from Série 347), 1968 
+etching and aquatint on wove paper
+signed and numbered 32/50 in pencil
+
+2 3/8 x 3 3/8 inches.
+
+This lot is located in Philadelphia.
+Printed by Editions of Crommelynck Studio, Paris, 1971Literature:Bloch 1690; Baer 1705",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/8b804d7e-9b04-4877-8c29-0eb161a0243b,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/15,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+920b115c-5c60-421f-8461-02bed74a3779,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 16,USD,10000,15000,10880,8500,10000,15000,10880,8500,Pablo Picasso,1881,1973,Le Cirque (from La Suite Vollard),prints,etching on laid paper,N/A,11,7.875,in,yes,yes,yes,1933,1933,N/A,"woman, horse, male figures, circus, dancing, costumes, playful, acrobat, ball, line drawing",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Le Cirque (from La Suite Vollard), 1933
+etching on laid paper
+signed in pencil; from the edition of 50 with wide margins
+
+7 7/8 x 11 inches.
+
+This lot is located in Philadelphia.
+Published by Vollard, Paris, 1939; printed by Lacourière, ParisLiterature:Bloch 205; Baer 385",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ee498554-ee58-4f5a-b338-c86a23ff1175,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/16,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,13500.0,11250.0
+510c83d0-c172-49cb-8112-c1766dfa0270,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 17,USD,10000,15000,15360,12000,10000,15000,15360,12000,Pablo Picasso,1881,1973,Minotaure attaquant une Amazone (from La Suite Vollard),prints,etching on Montval laid paper with Picasso watermark,N/A,10.625,7.625,in,yes,yes,yes,1933,1933,N/A,"minotaur, amazon, wrestling, nude figures, etching, mythical creature, line drawing, paper, sexual tension, violence",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Minotaure attaquant une Amazone (from La Suite Vollard), 1933
+etching on Montval laid paper with Picasso watermark
+signed in pencil; from the edition of 260
+
+7 5/8 x 10 5/8 inches.
+
+This lot is located in Philadelphia.
+Published by Vollard, Paris, 1939; printed by Lacourière, ParisLiterature:Bloch 195; Baer 356",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3c006ef1-e524-47a7-97da-e3995d0f8431,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/17,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,13250.0,11041.666666666668
+1a17c2e9-f502-4325-b36f-3b42db2a4c6a,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 18,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,Pablo Picasso,1881,1973,"Les Trois Grâces II, 1923",prints,etching on Rives BFK paper,N/A,7.875,12.875,in,yes,yes,yes,1923,1923,N/A,"three women, standing figures, nude, outline, feet, arms, hair, torso, abstract shapes, interaction",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Les Trois Grâces II, 1923
+etching on Rives BFK paper
+signed and numbered 65/100 in pencil
+
+12 7/8 x 7 7/8 inches.
+
+This lot is located in Philadelphia.
+Published by Marcel Guiot, Paris, 1929Literature:Bloch 59; Baer 105",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c72d6d31-964d-47d2-b893-39c3fe7b8d18,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/18,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,11000.0,9166.666666666668
+6c811f9f-35e4-438a-aba2-04ab5342fe6f,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 19,USD,3000,5000,3200,2500,3000,5000,3200,2500,Pablo Picasso,1881,1973,Les Saltimbanques (from La Suite des Saltimbanques),prints,drypoint on wove paper,N/A,13,11.25,in,yes,yes,yes,1905,1905,"Published by Ambroise Vollard, Paris; printed by Louis Fort, 1913","figures, performers, acrobat, women, children, landscape, bowls, trees, clothing, poses",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Les Saltimbanques (from La Suite des Saltimbanques), 1905
+drypoint on wove paper
+signed and dated in the plate, from the edition of 250
+
+11 1/4 x 13 inches.
+
+This lot is located in Chicago.
+Published by Ambroise Vollard, Paris; printed by Louis Fort,1913Literature:Bloch 7; Baer 9",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b06a2972-eaab-483d-8d99-e339000747e7,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/19,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+caf2035d-f292-45a7-aeb6-d148417f439b,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 20,USD,70000,90000,140800,110000,70000,90000,140800,110000,Pablo Picasso,1881,1973,Le Repas Frugal (from La Suite des Saltimbanques),prints,etching with drypoint on Van Gelder paper,N/A,15,18.25,in,no,yes,yes,1901,1930,"Park West Gallery, Southfield, Michigan","man, woman, table, wine bottle, glass, plate, bread, cloth, hat, hands",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Le Repas Frugal (from La Suite des Saltimbanques), 1904; printed 1913
+etching with drypoint on Van Gelder paper, with wide margins
+from the edition of 250
+
+18 1/4 x 15 inches.
+
+This lot is located in Chicago.
+Published by Ambroise Vollard, Paris; printed by Louis Fort, ParisProvenance:Park West Gallery, Southfield, MichiganLiterature:Bloch 1; Baer 2",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2801d184-cdfd-4aaa-b58e-e965a96a7e08,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/20,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,85000.0,70833.33333333334
+74f92ca0-d60d-424c-b86f-61a03adc14d8,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 21,USD,8000,12000,10240,8000,8000,12000,10240,8000,Pablo Picasso,1881,1973,Rembrandt et deux Femmes (from La Suite Vollard),prints,etching on Montval laid paper with Picasso watermark,N/A,7.75,10.875,in,yes,yes,yes,1934,1934,"Published by Vollard, Paris, 1939; printed by Lacourière, Paris","two women, flowers, drapery, abstraction, line art, portrait, etching, nude",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Rembrandt et deux Femmes (from La Suite Vollard), 1934
+etching on Montval laid paper with Picasso watermark
+signed in pencil; from the edition of 260
+
+10 7/8 x 7 3/4 inches.
+
+This lot is located in Philadelphia.
+Published by Vollard, Paris, 1939; printed by Lacourière, ParisLiterature:Bloch 215; Baer 414",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f1b6d4b2-c73d-47fa-a815-ca7854c7cd72,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/21,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,10500.0,8750.0
+01ab5aef-dd16-4cf7-81f5-2b2d8216aec8,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 22,USD,2000,3000,5440,4250,2000,3000,5440,4250,After Pablo Picasso,1881,1973,Madame Ricardo Canals (from Barcelona Suite),prints,offset lithograph in colors,N/A,17.25,22.75,in,yes,yes,yes,1966,1966,"Published by the Museo Picasso, Barcelona, with their blindstamp","woman, portrait, veil, black lace, blue tones, Spanish, expression, Picasso, Barcelona Suite, lithograph",1,N/A,after,"After Pablo Picasso
+(Spanish, 1881–1973)
+Madame Ricardo Canals (from Barcelona Suite), 1966
+offset lithograph in colors
+signed in pencil
+
+22 3/4 x 17 1/4 inches.
+
+This lot is located in Chicago.
+Published by the Museo Picasso, Barcelona, with their blindstampLiterature:Czwiklitzer 232",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/38ed5678-1c7c-4101-94a8-5fb20708c590,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/22,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+a0230c8e-253c-490d-864d-c6de1977b37c,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 23,USD,3000,5000,5440,4250,3000,5000,5440,4250,Pablo Picasso,1881,1973,Vallauris 1960 Exposition,prints,linocut in colors,N/A,20.75,25,in,yes,yes,yes,1960,1960,"Galerie Maximillian, Aspen, Colorado; Acquired directly from the above on August 7, 2001","owl, text, blue background, lines, shapes, title, exposition, Vallauris, 1960, signed",1,N/A,original,"Pablo Picasso
+(Spanish, 1881-1973)
+Vallauris 1960 Exposition, 1960
+linocut in colors
+signed in blue crayon
+
+25 x 20 3/4 inches.
+
+This lot is located in Chicago.
+Provenance:Galerie Maximillian, Aspen, ColoradoAcquired directly from the above on August 7, 2001Literature:Bloch 1290; Baer 1268",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/91df8c85-f57e-48fa-ba59-a018e191b387,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/23,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+7dbc2c2e-8ab2-4682-a8c9-ca7af15efe97,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 24,USD,8000,12000,9600,7500,8000,12000,9600,7500,Pablo Picasso,1881,1973,"Tête d'Histrion (Le Danseur), 1965",prints,linocut in colors,N/A,20.75,25.25,in,yes,yes,yes,1965,1965,Merrill Chase Galleries,"portrait, face, dancer, abstract, line drawing, brown color, black background",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Tête d'Histrion (Le Danseur), 1965
+linocut in colors
+signed and numbered 146/200 in pencil
+
+25 1/4 x 20 3/4 inches.
+
+This lot is located in Chicago.
+Published by the Musée des Augustins, Toulouse; printed by Imprimerie Arnéra, VallaurisProvenance:Merrill Chase GalleriesLiterature:Bloch 1849; Baer 1360",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/343fe1b3-f489-4b41-b625-e252ab3c5b74,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/24,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,10500.0,8750.0
+70f811ad-67df-44c2-ad55-4a055029feee,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 25,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,Pablo Picasso,1881,1973,Tête d'Histrion (Le Danseur) (2 works),prints,linocuts in colors on Arches paper,N/A,20.875,25.5,in,no,yes,yes,1965,1965,"Published by the Musée des Augustins, Toulous; printed by Imprimerie Arnéra, Vallauris","face, dancer, figure, linocut, color, portrait, abstract, art",2,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Tête d'Histrion (Le Danseur) (2 works), 1965
+linocuts in colors each on Arches paper
+two trial proofs, aside from the edition of 220; each inkstamped 'Imprimerie Arnéra Archives/Non signé', verso
+
+25 1/2 x 20 7/8 inches. ; 25 1/4 x 20 3/4 inches.
+
+This lot is located in Philadelphia.
+Published by the Musée des Augustins, Toulous; printed by Imprimerie Arnéra, VallaurisLiteratureBloch 1849; Baer 1360 A",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d5f08733-414e-4f92-bf23-12edcbe4af16,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/25,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,11000.0,9166.666666666668
+77af92ea-c21c-4ca9-b119-11f89666b70b,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 26,USD,2000,3000,3520,2750,2000,3000,3520,2750,Pablo Picasso,1881,1973,"Picador (A.R. 289), 1955",ceramics,white earthenware ceramic bowl with black and red engobes and glaze,N/A,N/A,N/A,in,yes,yes,yes,1955,1955,Acquired directly from the above in 1963; Thence by descent to the present owner,"bowl, bull, horse, rider, geometric patterns, black and red colors, earthenware, ceramic",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Picador (A.R. 289), 1955
+white earthenware ceramic bowl with black and red engobes and glaze
+from the edition of 500; marked 'Edition Picasso' and 'Madoura' on the underside
+
+Diameter: 4 5/8 inches.
+
+This lot is located in Philadelphia.
+Madoura, Vallauris, FranceAcquired directly from the above in 1963Thence by descent to the present ownerLiterature:Alain Ramié 289",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/936a9998-7c57-46ca-8bf8-043bf9c3124a,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/26,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+fa2f8321-48fc-44e1-a632-f0d69cfa2ccb,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 27,USD,2500,3500,5440,4250,2500,3500,5440,4250,Pablo Picasso,1881,1973,"Sylvette (A.R. 266), 1955",ceramics,"white earthenware clay cupel, engraving accentuated with oxidized paraffin, glaze bath, black enamel underside",N/A,N/A,N/A,in,no,yes,yes,1955,1955,N/A,"profile, woman, hair, headband, pottery, cupel, engraving, monochrome, glaze, ceramic",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Sylvette (A.R. 266), 1955
+white earthenware clay cupel, engraving accentuated with oxidized paraffin, glaze bath, black enamel underside
+from the edition of 100; with 'Madoura Empreinte Originale de Picasso' stamp on the underside
+
+Diameter: 7 inches.
+
+This lot is located in Philadelphia.
+Literature:Alain Ramié 266",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f5d2ad3f-0d1b-430d-b597-e4af21a351be,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/27,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3200.0,2666.666666666667
+19874a56-5b4a-4aa5-a5d3-db6e73467c2f,Artwork,Freemans,6491,2026-03-05,Chicago,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 28,USD,2000,3000,3840,3000,2000,3000,3840,3000,Pablo Picasso,1881,1973,"Visage (A.R. 290), 1955",ceramics,"white earthenware clay turned round cupel, decoration in engobes under glaze",N/A,N/A,N/A,in,yes,yes,yes,1955,1955,Acquired directly from the above in 1963; Thence by descent to the present owner,"face, clay cupel, decoration, engobes, glaze, black, green, brown, round",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Visage (A.R. 290), 1955
+white earthenware clay turned round cupel, decoration in engobes under glaze
+from the edition of 500; marked 'Edition Picasso' and 'Madoura' on the underside
+
+Diameter: 5 inches.
+
+This lot is located in Chicago.
+Madoura, Vallauris, FranceAcquired directly from the above in 1963Thence by descent to the present ownerLiterature:Alain Ramié 290",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/dffa7146-6cd9-4753-8110-1c78a7fab34f,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/28,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+a8c16394-53b7-43fe-8321-f4406cede454,Artwork,Freemans,6491,2026-03-05,Philadelphia,Picasso: Master of Multiple,https://freemansauction.com/auctions/6491-picasso-master-of-multiple,Lot 29,USD,3000,5000,8320,6500,3000,5000,8320,6500,Pablo Picasso,1881,1973,"Sujet poule (A.R. 250), 1954",ceramics,"white earthenware clay, oxide decoration on white enamel",N/A,N/A,5.125,in,yes,yes,yes,1954,1954,Acquired directly from the above in 1963; Thence by descent to the present owner,"chicken, blue decoration, earthenware, clay, ceramic, decorative art, vessel, animal form, geometric patterns, modern art",1,N/A,original,"Pablo Picasso 
+(Spanish, 1881–1973)
+Sujet poule (A.R. 250), 1954
+white earthenware clay turned shaped piece, oxide decoration on white enamel
+from the edition of 500; marked 'Edition Picasso' and 'Madoura', with 'Edition Picasso' and 'Madoura Plein Feu' stamps on the underside
+
+Height: 5 1/8 inches.
+
+This lot is located in Philadelphia.
+Madoura, Vallauris, FranceAcquired directly from the above in 1963Thence by descent to the present ownerLiterature:Alain Ramié 250",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/27436a89-a4ad-4b7b-8b8e-1840bade0bc2,https://freemansauction.com/auction/6491-picasso-master-of-multiple/lot/29,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0

@@ -1,0 +1,13 @@
+sport,checked_house,N,median_ape_pct,median_bias_pct,within_20_pct,below_range_pct,in_range_pct,above_range_pct
+Baseball,Freemans,416,29.73,11.5,33.41,26.2,45.91,27.88
+Basketball,Freemans,112,30.08,9.88,32.14,25.0,45.54,29.46
+Basketball,Sothebys,3,18.11,18.11,66.67,0.0,100.0,0.0
+Boxing,Freemans,3,16.38,-2.44,66.67,33.33,33.33,33.33
+Cricket,Bonhams,1,40.0,40.0,0.0,100.0,0.0,0.0
+Football,Freemans,57,39.02,21.95,14.04,45.61,28.07,26.32
+Golf,Freemans,2,58.0,-11.66,0.0,0.0,50.0,50.0
+Hockey,Freemans,28,41.19,33.33,28.57,50.0,42.86,7.14
+Mixed Martial Arts,Freemans,1,95.12,95.12,0.0,100.0,0.0,0.0
+Soccer,Freemans,1,17.07,17.07,100.0,0.0,100.0,0.0
+,Bonhams,212,50.0,50.0,0.0,100.0,0.0,0.0
+,Freemans,47,46.34,29.73,14.89,40.43,38.3,21.28

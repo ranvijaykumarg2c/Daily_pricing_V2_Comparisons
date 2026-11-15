@@ -1,0 +1,37 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1001,Rolex,Submariner,Bonhams,800000,1600000,None,1350000.0,1125000.0
+Lot 1002,Rolex,Cosmograph Daytona,Bonhams,160000,320000,None,275000.0,229166.6666666667
+Lot 1003,Rolex,Day-Date,Bonhams,120000,240000,None,185000.0,154166.6666666667
+Lot 1004,Rolex,GMT-Master “Swiss Only”,Bonhams,85000,170000,None,112500.0,93750.0
+Lot 1005,Rolex,Deepsea Sea-Dweller,Bonhams,65000,130000,None,72000.0,60000.0
+Lot 1006,Rolex,"Datejust ""Caramel""",Bonhams,40000,80000,None,52500.0,43750.0
+Lot 1007,Rolex,Datejust,Bonhams,30000,60000,None,42500.0,35416.66666666667
+Lot 1009,Rolex,Cellini Danaos,Bonhams,40000,80000,None,45500.0,37916.66666666667
+Lot 1010,Rolex,Cellini,Bonhams,10000,20000,None,18500.0,15416.666666666668
+Lot 1011,Patek Philippe,World Time,Bonhams,500000,1000000,None,875000.0,729166.6666666667
+Lot 1012,Patek Philippe,Grand Complications,Bonhams,340000,550000,None,375000.0,312500.0
+Lot 1013,Patek Philippe,Annual Calendar,Bonhams,200000,300000,None,275000.0,229166.6666666667
+Lot 1014,Audemars Piguet,Royal Oak Offshore Music Edition,Bonhams,320000,480000,None,455000.0,379166.6666666667
+Lot 1015,Audemars Piguet,Royal Oak Offshore,Bonhams,150000,300000,None,235000.0,195833.33333333334
+Lot 1016,Audemars Piguet,Royal Oak Rectangular,Bonhams,24000,50000,None,38500.0,32083.333333333336
+Lot 1017,Vacheron Constantin,Jubilé 1755 250th Anniversary,Bonhams,70000,140000,None,115000.0,95833.33333333334
+Lot 1019,Cartier,Pasha de Cartier,Bonhams,70000,140000,None,85000.0,70833.33333333334
+Lot 1020,Cartier,Ballon Bleu,Bonhams,70000,140000,None,85000.0,70833.33333333334
+Lot 1021,Cartier,Ballon Bleu,Bonhams,44000,90000,None,72000.0,60000.0
+Lot 1022,Cartier,Rotonde,Bonhams,26000,50000,None,28500.0,23750.0
+Lot 1023,Cartier,Ronde de Cartier,Bonhams,20000,40000,None,25500.0,21250.0
+Lot 1024,Cartier,Basculante,Bonhams,28000,55000,None,34500.0,28750.0
+Lot 1025,Cartier,Bascule,Bonhams,16000,32000,None,18500.0,15416.666666666668
+Lot 1026,Cartier,Tank MC,Bonhams,24000,48000,None,27500.0,22916.666666666668
+Lot 1027,Cartier,Tank Solo XL,Bonhams,13000,26000,None,14500.0,12083.333333333334
+Lot 1030,Breguet,Reine de Naples,Bonhams,80000,160000,None,112500.0,93750.0
+Lot 1032,Chanel,J12,Bonhams,17000,34000,None,25500.0,21250.0
+Lot 1033,Piaget,Polo Fortyfive,Bonhams,30000,60000,None,38500.0,32083.333333333336
+Lot 1034,Panerai,Luminor,Bonhams,19000,38000,None,24500.0,20416.666666666668
+Lot 1035,Panerai,Radiomir Black Seal,Bonhams,18000,36000,None,22000.0,18333.333333333336
+Lot 1036,Jaeger-Jaeger-LeCoultre,Atmos 150th Anniversary Edition,Bonhams,20000,40000,None,28500.0,23750.0
+Lot 1037,BVLGARI,Octo Finissimo,Bonhams,50000,100000,None,72000.0,60000.0
+Lot 1043,Chopard,"Happy Sport Sun, Moon and Stars",Bonhams,22000,44000,None,38500.0,32083.333333333336
+Lot 1046,IWC,<NA>,Bonhams,22000,40000,None,27500.0,22916.666666666668
+Lot 1047,IWC,GST,Bonhams,10000,20000,None,13500.0,11250.0
+Lot 1048,IWC,Portofino,Bonhams,10000,20000,None,13500.0,11250.0

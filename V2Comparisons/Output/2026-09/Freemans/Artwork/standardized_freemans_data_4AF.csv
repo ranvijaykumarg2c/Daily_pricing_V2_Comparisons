@@ -1,0 +1,806 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+51e2b9bd-ac57-4b09-8a8f-6fbd20845c06,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 1,USD,15000,25000,14080,11000,15000,25000,14080,11000,Jasper Johns,1930,N/A,"Two Flags, 1980",prints,lithograph,N/A,36,47.5,in,yes,yes,yes,1980,1980,"Brooke Alexander Gallery, New York","flag, stars, stripes, monochrome, lithograph, abstract, geometric, pattern, texture, print",1,N/A,original,"Jasper Johns
+(American, b. 1930)
+Two Flags, 1980
+lithograph
+signed, dated, and numbered 37/56 in pencil
+
+Sheet: 47 1/2 x 36 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published and printed by Gemini G.E.L., Los AngelesProvenance: Brooke Alexander Gallery, New YorkLiterature:ULAE 209; Gemini G.E.L. 878",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/300f7d51-fd0f-4504-9b9c-7ab28820118b,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/1,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,2026-09,N/A,gpt-4.1-mini,DISABLED_VRAM,19500.0,16250.0
+30479974-4c04-428d-b3db-8ae679a2b220,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 2,USD,15000,25000,16640,13000,15000,25000,16640,13000,Ernest Trova,1927,2009,"Study/Falling Man (Walking Jackman), 1985",sculpture,stainless steel,51,51,31,in,yes,yes,yes,1985,1985,"Mangel Gallery, Philadelphia
+Acquired directly from the above","stainless steel, sculpture, figures, abstract form",1,N/A,original,"Ernest Trova
+(American, 1927-2009)
+Study/Falling Man (Walking Jackman), 1985
+stainless steel
+signed, dated and numbered 3/8
+
+31 x 51 x 51 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, PhiladelphiaAcquired directly from the above",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/dadaebd6-6f44-4447-b202-c35fc90da9b7,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/2,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,22000.0,18333.333333333336
+86f167dd-384d-4989-a715-88b905b19c98,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 3,USD,2000,3000,2176,1700,2000,3000,2176,1700,Adolph Gottlieb,1903,1974,"Black Field, 1972",prints,screenprint in colors,N/A,17.5,24,in,yes,yes,yes,1972,1972,The Estate of the Honorable Sandra Schultz Newman,"black field, circular shape, white shape, gold accents",1,N/A,original,"Adolph Gottlieb
+(American, 1903-1974)
+Black Field, 1972
+screenprint in colors
+signed, dated, and numbered 71/150 in pencil
+
+24 x 17 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Marlborough Graphics, New York; printed by Kelpra Studios, London",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/9d0e65b2-8357-40c0-99fc-8ac2c299f294,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/3,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2800.0,2333.3333333333335
+06a182d6-a148-44ff-9036-76ba860edef7,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 4,USD,1500,2500,2304,1800,1500,2500,2304,1800,Charles Rennie Mackintosh,1868,1928,A pair of Willow Chairs for Cassina,furniture,"painted wood, upholstery, foam",17,37,47,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"pair, chairs, painted wood, upholstery, foam, furniture, design",1,N/A,original,"Charles Rennie Mackintosh
+(Scottish, 1868–1928)
+A pair of Willow Chairs 
+for Cassina 
+painted wood, upholstery, foam 
+with 'Cassina' stamp to underside and '2977' 
+
+47 h x 37 w x 17 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c3f2e749-89c3-4df7-b19f-0470fc5fe313,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/4,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+a9e9b4ca-f925-461e-b5df-5af14653cedc,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 5,USD,800,1200,4160,3250,800,1200,4160,3250,N/A,N/A,N/A,Frosted Glass Chandelier,decorative arts,Frosted Glass,N/A,48,40.5,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"chandelier, frosted glass, Art Deco, metal, lighting, 20th century, interior decor, traditional design, shape, craftsmanship",1,N/A,original,"French Art Deco
+20th Century
+Frosted Glass Chandelier 
+
+40 1/2 h x 48 dia inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/50379fa2-1831-4794-a638-188e61fa3bcc,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/5,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+0828b459-8010-4897-ac58-287b795179b3,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 6,USD,5000,7000,7040,5500,5000,7000,7040,5500,Charles Rennie Mackintosh,1868,1928,Set of 14 Argyle Chairs,furniture,ash wood,18.5,20,54,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"chairs, Argyle design, ash wood, black finish, upholstery, high back, geometric patterns, furniture design, modernist style, Scottish craftsmanship",1,N/A,original,"Charles Rennie Mackintosh
+(Scottish, 1868–1928)
+Set of 14 Argyle Chairs 
+Cassina 
+ash wood
+with 'Cassina Charles Rennie Mackintosh' stamp to inside of seat frame 
+
+54 h x 20 w x 18 1/2 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c51614cd-e996-4ca8-8e19-516cf4c740c0,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/6,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,6500.0,5416.666666666667
+9be98ab4-ac36-4732-91ab-8981f65ab6db,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 7,USD,2000,3000,2304,1800,2000,3000,2304,1800,Robert Motherwell,1915,1991,Untitled (from The Basque Suite),prints,screenprint in colors on J.B. Green,N/A,17.375,22.5,in,yes,yes,yes,1970,1971,The Estate of the Honorable Sandra Schultz Newman,"abstract, colors, shapes, black, yellow, green, red, texture, splash, pattern",1,N/A,original,"Robert Motherwell
+(American, 1915-1991)
+Untitled (from The Basque Suite), 1970-1971
+screenprint in colors on J.B. Green
+signed and numbered 112/150 in pencil
+
+22 1/2 x 17 3/8 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Marlborough Graphics, Inc., New York; Kelpra Studio, LondonLiterature:Engberg & Banach 83; Belknap 54",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/aeb08add-efdf-40b9-9b3d-3b446d81ee18,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/7,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+197dc955-9765-4167-a799-2a80c0fb1a54,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 8,USD,3000,5000,2048,1600,3000,5000,2048,1600,Robert Motherwell,1913,1991,Africa 5 (from Africa Suite),prints,screenprint in black and cream on J.B. Green,N/A,23.75,31.875,in,yes,yes,yes,1970,1970,The Estate of the Honorable Sandra Schultz Newman,N/A,N/A,N/A,original,"Robert Motherwell
+(American, 1913-1991)
+Africa 5 (from Africa Suite), 1970
+screenprint in black and cream on J.B. Green
+ signed and numbered 97/150 in pencil
+
+31 7/8 x 23 3/4 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Marlborough Graphics, Inc., New York; printed by Kelpra Studio, LondonLiterature:Engberg & Banach 73; Belknap 44",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f5a05612-a236-4ed5-b233-4e447edc4611,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/8,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+720a3f11-baa4-4821-81a9-c57f5dcd3d7a,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 9,USD,800,1200,1920,1500,800,1200,1920,1500,Victor Vasarely,1906,1997,Untitled and Untitled (a pair of works),prints,screenprints in colors,N/A,23.5,29.375,in,yes,no,yes,1906,1997,The Estate of the Honorable Sandra Schultz Newman,"abstract shapes, geometric forms, colors, red, blue, yellow, green, brown, forms",2,N/A,original,"Victor Vasarely
+(Hungarian, 1906-1997)
+Untitled and Untitled (a pair of works)
+screenprints in colors
+each signed and numbered 148/150 in pencil
+
+Each: 29 3/8 x 23 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/660cecc3-8818-473c-961b-4aba3163b68b,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/9,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+db406b9a-d04d-423c-8041-d26d0d6cc658,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 10,USD,1500,2500,1024,800,1500,2500,1024,800,Robert Roesch,1946,N/A,Moon Harp,sculpture,painted steel and wire,N/A,N/A,52.5,in,yes,yes,yes,1991,1991,The Estate of the Honorable Sandra Schultz Newman,"sculpture, steel, wire, abstract form, geometric shape, black color, musical instrument, installation, kinetic art, contemporary art",1,N/A,original,"Robert Roesch
+(American, b. 1946)
+Moon Harp, 1991
+painted steel and wire
+stamped with signature and date
+
+Height: 52 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/bb777bbf-4aed-4ea8-8b1b-73f5d548f1d1,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/10,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2100.0,1750.0
+a6dff107-dcc7-4ee3-94de-ec2094292cc7,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 11,USD,10000,15000,6400,5000,10000,15000,6400,5000,Red Grooms,1937,N/A,After Nude Descending a Staircase,drawing,gouache on paper,N/A,29.25,42,in,yes,yes,yes,1982,1982,"Marlborough Gallery, New York","nude, staircase, abstract forms, lines, colors, figure, movement, shadows, shapes, composition",1,N/A,original,"Red Grooms
+(American, b. 1937)
+After Nude Descending a Staircase, 1982
+gouache on paper
+signed Red Grooms and dated (lower right), inscribed Nu Descendant un Escalier (lower center)
+
+42 x 29 1/4 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Marlborough Gallery, New York",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/94e7e8d1-1f07-4677-9e7b-ee392f31debb,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/11,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,12350.0,10291.666666666668
+26ba7e07-ca88-4d40-8cdf-d9ae2271e529,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 12,USD,20000,40000,38400,30000,20000,40000,38400,30000,Bösendorfer,N/A,N/A,"Grand Piano, Model 225",furniture,black lacquered finish,89,62.5,40,in,no,yes,yes,1986,1986,The Estate of the Honorable Sandra Schultz Newman,"grand piano, black lacquer, adjustable bench",1,N/A,original,"Bösendorfer
+1986
+Grand Piano, Model 225
+with a black lacquered finish, together with an adjustable bench
+serial no. 38364-9189
+
+Height 40 x length 89 x width 62 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2b94420e-f1f9-47cb-a4e7-5a05177412eb,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/12,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,34500.0,28750.0
+eefa37ff-f2fa-451a-85a4-03edd83e305a,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 13,USD,700,900,640,500,700,900,640,500,Fabrice,N/A,N/A,"Fabrice, Beaded Cream Cocktail Dress",decorative arts,"cream silk mousseline, bead and sequin embellishments",37,44,42.5,in,no,yes,yes,1980,1980,The Estate of the Honorable Sandra Schultz Newman,"cocktail dress, cream silk, bead embellishments, sequins, deep V neckline, dolman sleeves, dropped waist, elasticated waistband, high-low skirt, jagged hemline",1,N/A,original,"Fabrice, Beaded Cream Cocktail Dress
+
+Knee-length cocktail wrap dress in cream silk mousseline with all-over bead and sequin embellishments. Deep V neckline. Padding at shoulders. Full-length dolman sleeves with zipper closures at sleeve hems. Dropped waist with elasticated waistband. Knee-length high-low skirt with jagged hemline. Thread belt loops at waist side seams. Overlaid wrap closure at front with two hook-and-eyes. Fully lined.
+
+Label: Fabrice
+Retail Label: Giorgio Beverly Hills
+Size Label: Unmarked
+Date: 1980's
+Country of Origin: USA
+
+Approximate Measurements:
+Shoulders: 17“
+Sleeve: 30.5“
+Chest: 44“
+Waist: 26-32“
+Hips: 37“
+Length (high shoulder point to hem): 42.5“
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/321444e0-f22f-48dc-b19e-0579308314ea,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/13,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,825.0,687.5
+db58d9f1-483b-473a-bd53-ef4644c6deef,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 14,USD,1000,2000,1216,950,1000,2000,1216,950,François Maurice Roganeau,1883,1974,Bal des Etudiants Alhambra,prints,poster,N/A,37,56.5,in,no,yes,yes,1927,1927,The Estate of the Honorable Sandra Schultz Newman,"woman, dress, hosiery, hat, books, vintage poster, theatrical, Alhambra, enthusiastic pose, January 14",1,N/A,original,"François Maurice Roganeau
+(French, 1883–1974)
+Bal des Etudiants Alhambra, 1927
+poster
+
+56 1/2 x 37 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4d0a16a5-88ad-4b31-aba9-4e92f84ed8a1,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/14,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1650.0,1375.0
+fce75405-3dda-40fc-8615-4d87cf99fb8c,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 15,USD,500,700,512,400,500,700,512,400,Larry Weinstein,N/A,N/A,"Larry Weinstein, Red Fox Fur Coat",decorative arts,red fox fur,N/A,N/A,N/A,N/A,no,yes,yes,1980,1980,The Estate of the Honorable Sandra Schultz Newman,"red fox fur coat, stroller-length coat, short stand collar, full-length sleeves, two slit pockets, two hook-and-eye closures, embroidered name, 1980s fashion, USA clothing",1,N/A,original,"Larry Weinstein, Red Fox Fur Coat
+
+Stroller-length coat in red fox fur. Short stand collar. Full-length sleeves. Two slit pockets at front. Two hook-and-eye closures at front. Fully lined. Features embroidered name at interior.
+
+Label: Larry Weinstein
+Size Label: Unmarked
+Date: 1980's
+Country of Origin: USA
+
+Approximate Measurements:
+Shoulders: 18“
+Sleeve: 30“
+Chest: 40“
+Waist: 42“
+Hips: 46“
+Length (high shoulder point to hem): 29“
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f26ae561-9a93-4bcb-9558-2c481d7ccc04,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/15,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,600.0,500.0
+c62dae23-ba62-40a1-96d6-0f1862e4251a,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 16,USD,400,600,768,600,400,600,768,600,René Lalique,1860,1945,Serpent bowl,decorative arts,glass,N/A,9.125,3,in,yes,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"bowl, serpent, glass, amber, clear glass, decorative art, nature",1,N/A,original,"René Lalique
+(French, 1860–1945)
+Serpent bowl
+
+with etched signature to underside 
+
+3 h x 9 1/8 dia inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0b7279a5-2976-4f55-b506-ba059885c048,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/16,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+329cd702-9b23-4955-b6a5-507cff8308d8,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 17,USD,600,900,832,650,600,900,832,650,René Lalique,1860,1945,Caviar Dish,decorative arts,glass,N/A,7.75,10,in,yes,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"caviar dish, glass, bird, round, etched signature, decorative, unique design, transparent, container, elegant",1,N/A,original,"René Lalique 
+(French, 1860–1945)
+Caviar Dish 
+
+with etched signature toward base 
+
+10 h x 7 3/4 dia inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/50578d16-4592-4c80-8a78-e92f1f2f861e,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/17,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,850.0,708.3333333333334
+b1ca25d3-604e-462d-a3b0-de68ae386c16,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 18,USD,5000,7000,10240,8000,5000,7000,10240,8000,Wallace,N/A,N/A,An American Silver Flatware Service – Grand Baroque Pattern,decorative arts,Silver,13.5,N/A,N/A,in,no,no,yes,N/A,N/A,The Estate of the Hon. Sandra Schultz Newman,"flatware, silver, service, cutlery, spoons, forks, knives, kitchenware, dining, ornate",158,N/A,original,"An American Silver Flatware Service – Grand Baroque Pattern, by Wallace
+
+4 tablespoons
+23 teaspoons
+24 soup spoons
+20 salad forks
+21 dinner forks
+24 dinner knives
+25 butter knives
+1 angel food cake knife
+2 small ladles
+3 serving forks
+1 carving knife
+1 large carving fork
+1 fruit fork
+1 bread knife
+1 cheese knife
+2 cake/pie knives
+2 pierced tablespoons
+2 cream spoons
+
+158 Items Total
+167.345 ozt (weighable silver only)
+
+Length 13 1/2 inches (longest)
+
+The Estate of the Hon. Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/283c06d7-8911-4a2b-ae24-57885a63db0e,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/18,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,6500.0,5416.666666666667
+8913a1d6-8276-4c8a-aff0-71df06592b63,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 19,USD,400,600,1088,850,400,600,1088,850,J. Wade Beam,N/A,N/A,Occasional Table for Brueton,furniture,"chromed metal, glass",18.5,18.75,20.5,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"occasional table, chromed metal, glass, furniture, modern design",1,N/A,original,"J. Wade Beam
+20th Century
+Occasional Table 
+for Brueton 
+chromed metal, glass 
+
+20 1/2 h x 18 3/4 w x 18 1/2 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/494060e6-cfdd-44ea-b248-4d6bf18125d0,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/19,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+3c3c0ce0-f305-4449-919e-aeac28dfc8e7,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 20,USD,600,900,1536,1200,600,900,1536,1200,Carlos Ojínaga Erill,N/A,N/A,Cinta arm chair,furniture,"chromed steel, vinyl",23,28.5,30,in,no,yes,yes,1930,1970,The Estate of the Honorable Sandra Schultz Newman,"arm chair, chromed steel, vinyl, mid 20th century, decorative pattern",1,N/A,original,"Carlos Ojínaga Erill
+Spanish, Mid 20th Century
+Cinta arm chair 
+chromed steel, vinyl 
+
+30 h x 28 1/2 w x 23 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/97abbf03-1e55-40ed-a2a8-8f66251571fd,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/20,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+e2dc49f8-d283-4011-879e-a42bfd5e05ad,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 21,USD,3000,5000,11520,9000,3000,5000,11520,9000,Vladimir Kagan,1927,2016,Demi-Lune Executive Desk,furniture,"acrylic, oak veneer",54,84,29,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"executive desk, acrylic, oak veneer, foil sticker, center drawer, modern design",1,N/A,original,"Vladimir Kagan
+(American, 1927–2016) 
+Demi-Lune Executive Desk
+acrylic, oak veneer 
+with foil 'Vladimir Kagan' sticker to inside of center drawer 
+
+29 h x 84 w x 54 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ce22db4a-f0e2-4ef8-b908-5ef2a65872f1,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/21,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+ed7b5bf2-c392-42d3-ad89-a563e14b7776,Artwork,Freemans,6496,2026-06-23,New York,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 22,USD,600,900,1152,900,600,900,1152,900,N/A,N/A,N/A,Pair of X-Frame chairs,furniture,N/A,39.75,19.25,42.25,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"X-frame chairs, modern design, furniture, upholstery, red color, interior decor, postmodern style, pair of chairs, 20th century",2,N/A,original,"Postmodern Design
+20th Century
+Pair of X-Frame chairs 
+
+42 1/4 h x 19 1/4 w x 39 3/4 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e5e370b7-a795-4eab-b7f2-245d4d73d98a,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/22,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+9dddb498-c45b-4625-9f1b-d620c708880b,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 23,USD,5000,7000,10240,8000,5000,7000,10240,8000,Vladimir Kagan,1927,2016,Bar Cabinet,furniture,"wood, metal",20,84,29.25,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"bar cabinet, wood, metal, furniture, storage, design, modernism",1,N/A,original,"Vladimir Kagan
+(American, 1927-2016) 
+Bar Cabinet 
+wood, metal
+with foil 'Vladimir Kagan Workshop' sticker to inside of top drawer 
+
+29 1/4 h x 84 w 20 d inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ebfe41a3-e3e7-4a68-9439-958770d163a6,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/23,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,6500.0,5416.666666666667
+1d58eee6-bf65-48cc-8fd2-8e412a061453,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 24,USD,800,1200,704,550,800,1200,704,550,N/A,N/A,N/A,Stark 20th Century,decorative arts,N/A,N/A,15.875,18.1,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"area rug, floral pattern, red, beige, intricate design",1,N/A,original,"Stark
+20th Century
+Area Rug 
+
+18 ft 1/8 in x 15 ft 10 1/2 inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4e516fd4-5e50-430e-96ac-124a1122de70,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/24,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1050.0,875.0
+b58bda9d-db36-4b3d-8ebc-247dc8c110ba,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 25,USD,800,1200,1664,1300,800,1200,1664,1300,Karl Springer,1931,1991,Pair of Console Tables,furniture,lacquered wood,18,54,34.5,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"console tables, lacquered wood, furniture, pair, black color, modern design, decorative arts",2,N/A,original,"Karl Springer 
+(American, 1931–1991)
+Pair of Console Tables 
+lacquered wood
+
+34 1/2 h x 54 w x 18 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/99c19a51-b82f-4b30-b12a-6899f0c718ae,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/25,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+53443743-d56e-4384-9a2d-464710265c95,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 26,USD,2000,4000,3200,2500,2000,4000,3200,2500,René Lalique,N/A,N/A,Two Cygne sculptures,sculpture,etched glass,12.5,7.5,9,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"swans, glass, sculpture, etching",2,N/A,original,"René Lalique
+(French, 1960–1945)
+Two Cygne sculptures 
+etched glass
+'Lalique' stickers present 
+
+9 h x 7 1/2 w x 12 1/2 d inches. | taller 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/fedaac53-70c4-4866-80e9-fc0e56e1e80f,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/26,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3500.0,2916.666666666667
+853a0dbc-fd76-4816-b01f-7aedd851db31,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 27,USD,800,1200,1152,900,800,1200,1152,900,René Lalique,1860,1945,Zeila panther sculpture,sculpture,glass,6.75,14.25,4.5,in,yes,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"panther, sculpture, glass",1,N/A,original,"René Lalique
+(French, 1860–1945)
+Zeila panther sculpture 
+glass 
+4 1/2 h x 14 1/4 w x 6 3/4 w inches. 
+
+etched signature to foot
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/de779c55-1ec1-439e-8b1f-b3aa2ac468d4,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/27,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+bd69a01b-429e-451c-86f2-17154da6e230,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 28,USD,600,900,1792,1400,600,900,1792,1400,René Lalique,1860,1945,Bacchantes vase,decorative arts,frosted glass,N/A,8.5,9.5,in,yes,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"vase, frosted glass, female figures, Bacchantes, sculpture, decorative art, design, etched signature, bas-relief, organic shapes",1,N/A,original,"René Lalique
+(French, 1860–1945)
+Bacchantes vase
+frosted glass
+etched signature to base 
+
+9 1/2 h x 8 1/2 dia inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4eee73ba-a4a3-484e-8691-454a36f959bf,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/28,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,850.0,708.3333333333334
+ccca184b-c894-44c3-b010-792d5a488d7f,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 29,USD,1500,2000,5760,4500,1500,2000,5760,4500,Fernando Botero,1932,2022,Mujer fumando (from Botero: Dessins et Aquarelles),prints,lithograph in colors,N/A,13,16,in,yes,yes,yes,1984,1984,The Estate of the Honorable Sandra Schultz Newman,"woman, smoking, striped dress, jewelry, puffs of smoke, portrait, arms crossed, hairstyle, expression, figure",1,N/A,original,"Fernando Botero
+(Colombian, 1932-2022)
+Mujer fumando (from Botero: Dessins et Aquarelles), 1984
+lithograph in colors
+signed and numbered 147/150 in pencil
+
+16 x 13 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Éditions de la Différence, Paris",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b4d9ba9b-bb05-4d37-9748-e8cf6c076810,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/29,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+801dd9f5-7e56-45c5-9b45-7db5e411c3fd,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 30,USD,1500,2000,6080,4750,1500,2000,6080,4750,Fernando Botero,1932,2022,Mujer ante el espejo (from Botero: Dessins et Aquarelles),prints,offset lithograph,N/A,13,16,in,yes,yes,yes,1984,1984,The Estate of the Honorable Sandra Schultz Newman,"woman, mirror, reflection, nudity, hair, polka dots, dresser, bottle, heels, interior",1,N/A,original,"Fernando Botero
+(Colombian, 1932-2022)
+Mujer ante el espejo (from Botero: Dessins et Aquarelles), 1984
+offset lithograph
+signed and numbered 147/150 in pencil
+
+16 x 13 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Éditions de la Différence, Paris",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/91617e52-88c7-4998-8af2-e8ae432f2e5a,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/30,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+1f7773b0-b024-481e-a419-447515ca2e8c,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 31,USD,2000,3000,3200,2500,2000,3000,3200,2500,R.C. Gorman,1932,2005,Canyon Harvest,drawing,color crayon and wash on paper,N/A,52.5,29.75,in,yes,no,yes,1932,2005,The Estate of the Honorable Sandra Schultz Newman,"three women, color crayon, wash, warm colors, golds, oranges, earth tones",1,N/A,original,"R.C. Gorman
+(American, 1932-2005)
+Canyon Harvest
+color crayon and wash on paper
+signed R.C. Gorman (lower left)
+
+29 3/4 x 52 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Lot Note: The present work appears to relate to R.C. Gorman’s Canyon Harvest composition, a subject the artist also developed in stained glass and in the closely related acrylic painting Golden Harvest. Across these iterations, Gorman explores a composition of three women arranged in a closely interrelated grouping. Executed in color crayon and wash on paper, the present work is distinguished by a more restrained and selective use of color, while still reflecting his characteristic palette of warm golds, oranges, and earth tones. The drawing may represent a preparatory study or developmental exploration of this motif, which the artist revisited across multiple media. As such, it offers insight into Gorman’s working process and the evolution of a recurring compositional theme.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/8c8f9507-6b53-4646-9a56-772b72e28b29,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/31,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+d755ecb2-d566-489e-9f08-04057a74906a,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 32,USD,500,700,384,300,500,700,384,300,Larry Rivers,1923,2002,"Patriotic Stamps, 1976",prints,lithograph and pochoir in colors with graphite additions on wove paper,N/A,30.375,30.25,in,yes,yes,yes,1976,1976,The Estate of the Honorable Sandra Schultz Newman,"stamps, woman, abstract figure, headdress, colors, graphic elements, patterns",1,N/A,original,"Larry Rivers
+(American, 1923-2002)
+Patriotic Stamps, 1976
+lithograph and pochoir in colors with graphite additions on wove paper
+signed, dated, and numbered 3/30 in pencil
+
+Sheet: 30 1/4 x 30 3/8 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a0d1d776-8228-43ed-87cc-6e841dd46524,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/32,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,650.0,541.6666666666667
+10628261-da6d-40fb-a44d-46b8ee0cafdb,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 33,USD,600,800,1792,1400,600,800,1792,1400,Larry Rivers,1923,2002,Signing of the Declaration of Independence (from Kent Bicentennial Portfolio: Spirit of Independence),prints,lithograph with screenprint in colors,N/A,40.5,31.5,in,yes,yes,yes,1975,1975,The Estate of the Honorable Sandra Schultz Newman,"figures, signing, Declaration of Independence, colorful outlines, men, women, historical scene, American history, signatures, table",1,N/A,original,"Larry Rivers
+(American, 1923-2002)
+Signing of the Declaration of Independence (from Kent Bicentennial Portfolio: Spirit of Independence), 1975
+lithograph with screenprint in colors
+signed, dated, and numbered 'A.P. 4/15' in pencil
+
+31 1/2 x 40 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Lorillard, A Division of Loews Theatres, Inc., New York; printed by Styria Studio, New York;",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f36c5b24-f1b2-4a79-83c2-fb57b3c31dbd,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/33,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,725.0,604.1666666666667
+fd427eba-8fa7-47dc-a3a8-78d6a9c63911,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 34,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,Red Grooms,1937,N/A,Thomas Jefferson with a Quill Pen,mixed media,mixed media on paper,N/A,29.25,42.25,in,yes,yes,yes,1982,1982,The Estate of the Honorable Sandra Schultz Newman,"Thomas Jefferson, quill pen, portrait, historical figure, mixed media, architecture, landscape, building, people, paper",1,N/A,original,"Red Grooms
+(American, b. 1937)
+Thomas Jefferson with a Quill Pen, 1982
+mixed media on paper
+signed Red Grooms and dated (lower right)
+
+42 1/4 x 29 1/4 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/25ee67d9-fa80-4487-8bfb-32e0a6697832,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/34,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,13250.0,11041.666666666668
+2383cf11-b99a-45a6-bdfe-dfa71c3702d2,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 35,USD,50000,70000,N/A,N/A,50000,70000,N/A,N/A,Harry Bertoia,1915,1978,Untitled,sculpture,welded and patinated copper and bronze,10,22.75,7.375,in,no,yes,no,1960,1969,"Mangel Gallery, Philadelphia, Acquired directly from the above c. 1970s","sculpture, copper, bronze, abstract form, texture, tabletop, design, nature, movement, patina",1,N/A,original,"Harry Bertoia
+(American, 1915-1978)
+Untitled, c. 1960s
+welded and patinated copper and bronze
+
+7 3/8 x 22 3/4 x 10 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, Philadelphia, Acquired directly from the above c. 1970sNote:This work is listed in the Harry Bertoia Catalogue Raisonné under the following number: S.WF.299. We are grateful to the Harry Bertoia Foundation for their assistance in cataloguing this work.Lot Note: “My Mother started collecting Alex Katz and Harry Bertoia in the 1970s. Art was always a lifelong passion for her and was enjoyed by the entire family in her home.” — Jonathan NewmanFour sculptures by Harry Bertoia (1915–1978) from Justice Newman's collection are offered in this sale, reflecting the extraordinary range of the artist's sculptural practice. Working across a variety of metals and alloys, Bertoia challenged the boundaries between design and art, developing a rich vocabulary of forms, motifs, and techniques.The group spans nearly two decades of the artist's career and includes two distinct bush forms: an intimate tabletop example from the 1960s (Lot 35) and a larger welded and patinated bronze sculpture from the mid-1970s (Lot 37). Together, they demonstrate Bertoia's enduring fascination with texture, density, and the interplay of light across clustered forms.Also included is a striking vertical spray sculpture in stainless steel wire (Lot 38), its radiating branches rising from a stone base with a remarkable sense of movement. Completing the group is an important large-scale bronze and copper sculpture from the 1970s (Lot 36), whose richly patinated surface and commanding presence exemplify Bertoia's ability to imbue metal with an almost geological character.Bertoia's connection to Pennsylvania lends particular resonance to these works. After relocating to Bally in the 1950s, he spent the remainder of his career there, producing many of his most celebrated sculptures and establishing himself as one of the region's most influential artistic figures. Assembled over decades, Justice Newman’s collection reflects a deep appreciation for the breadth of Harry Bertoia’s practice and his unique ability to bridge art, design, and nature.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5bdde3fd-5a27-4790-8907-75b67d6d2b39,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/35,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,62000.0,51666.66666666667
+ed8ea741-a186-4abf-a825-fa0b20e2b98d,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 36,USD,30000,50000,41600,32500,30000,50000,41600,32500,Harry Bertoia,1915,1978,Untitled,sculpture,welded and patinated bronze and copper,N/A,N/A,53.75,in,no,yes,no,1970,1979,"Mangel Gallery, Philadelphia; Acquired directly from the above c. 1975","sculpture, bronze, copper, abstract form, patina, pedestal, texture, shape, vertical form, design",1,N/A,original,"Harry Bertoia
+(American, 1915-1978)
+Untitled, c. 1970s
+welded and patinated bronze and copper
+
+Height: 53 3/4 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, PhiladelphiaAcquired directly from the above c. 1975Note:This work is listed in the Harry Bertoia Catalogue Raisonné under the following number: S.WF.301. We are grateful to the Harry Bertoia Foundation for their assistance in cataloguing this work.Lot Note: “My Mother started collecting Alex Katz and Harry Bertoia in the 1970s. Art was always a lifelong passion for her and was enjoyed by the entire family in her home.” — Jonathan NewmanFour sculptures by Harry Bertoia (1915–1978) from Justice Newman's collection are offered in this sale, reflecting the extraordinary range of the artist's sculptural practice. Working across a variety of metals and alloys, Bertoia challenged the boundaries between design and art, developing a rich vocabulary of forms, motifs, and techniques.The group spans nearly two decades of the artist's career and includes two distinct bush forms: an intimate tabletop example from the 1960s (Lot 35) and a larger welded and patinated bronze sculpture from the mid-1970s (Lot 37). Together, they demonstrate Bertoia's enduring fascination with texture, density, and the interplay of light across clustered forms.Also included is a striking vertical spray sculpture in stainless steel wire (Lot 38), its radiating branches rising from a stone base with a remarkable sense of movement. Completing the group is an important large-scale bronze and copper sculpture from the 1970s (Lot 36), whose richly patinated surface and commanding presence exemplify Bertoia's ability to imbue metal with an almost geological character.Bertoia's connection to Pennsylvania lends particular resonance to these works. After relocating to Bally in the 1950s, he spent the remainder of his career there, producing many of his most celebrated sculptures and establishing himself as one of the region's most influential artistic figures. Assembled over decades, Justice Newman’s collection reflects a deep appreciation for the breadth of Harry Bertoia’s practice and his unique ability to bridge art, design, and nature.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c45a6680-08bc-4cae-baff-d3c09bb5186a,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/36,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,42500.0,35416.66666666667
+74a2b991-4add-461b-80d8-69bddaf53e62,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 37,USD,70000,90000,128000,100000,70000,90000,128000,100000,Harry Bertoia,1915,1978,Untitled,sculpture,welded and patinated bronze,N/A,N/A,28.5,in,no,yes,no,1970,1979,"Mangel Gallery, Philadelphia, Acquired directly from the above in 1975","sculpture, bronze, abstract form, texture, density, clustered forms, vertical spray, movement, patination, design",1,N/A,original,"Harry Bertoia
+(American, 1915-1978)
+Untitled, c. mid-1970s 
+welded and patinated bronze
+
+Height: 28 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, Philadelphia, Acquired directly from the above in 1975Note:This work is listed in the Harry Bertoia Catalogue Raisonné under the following number: S.WF.298. We are grateful to the Harry Bertoia Foundation for their assistance in cataloguing this work.Lot Note: “My Mother started collecting Alex Katz and Harry Bertoia in the 1970s. Art was always a lifelong passion for her and was enjoyed by the entire family in her home.” — Jonathan NewmanFour sculptures by Harry Bertoia (1915–1978) from Justice Newman's collection are offered in this sale, reflecting the extraordinary range of the artist's sculptural practice. Working across a variety of metals and alloys, Bertoia challenged the boundaries between design and art, developing a rich vocabulary of forms, motifs, and techniques.The group spans nearly two decades of the artist's career and includes two distinct bush forms: an intimate tabletop example from the 1960s (Lot 35) and a larger welded and patinated bronze sculpture from the mid-1970s (Lot 37). Together, they demonstrate Bertoia's enduring fascination with texture, density, and the interplay of light across clustered forms.Also included is a striking vertical spray sculpture in stainless steel wire (Lot 38), its radiating branches rising from a stone base with a remarkable sense of movement. Completing the group is an important large-scale bronze and copper sculpture from the 1970s (Lot 36), whose richly patinated surface and commanding presence exemplify Bertoia's ability to imbue metal with an almost geological character.Bertoia's connection to Pennsylvania lends particular resonance to these works. After relocating to Bally in the 1950s, he spent the remainder of his career there, producing many of his most celebrated sculptures and establishing himself as one of the region's most influential artistic figures. Assembled over decades, Justice Newman’s collection reflects a deep appreciation for the breadth of Harry Bertoia’s practice and his unique ability to bridge art, design, and nature.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/00530595-a54c-4193-bbef-bb4bfc405ddb,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/37,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,85000.0,70833.33333333334
+61520ae7-9d53-46ed-be94-4dd89b493fae,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 38,USD,25000,35000,N/A,N/A,25000,35000,N/A,N/A,Harry Bertoia,1915,1978,Untitled,sculpture,stainless steel wire on stone base,N/A,N/A,64,in,no,yes,no,1970,1979,"Mangel Gallery, Philadelphia, Acquired directly from the above c. 1970s","stainless steel wire, stone base, vertical sculpture, spray form, movement, texture, clusters, light interplay, modern sculpture",1,N/A,original,"Harry Bertoia
+(American, 1915-1978)
+Untitled, c. 1970s
+stainless steel wire on stone base
+
+Height: 64 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, Philadelphia, Acquired directly from the above c. 1970sNote:This work is listed in the Harry Bertoia Catalogue Raisonné under the following number: S.BW.95.We are grateful to the Harry Bertoia Foundation for their assistance in cataloguing this work.Lot Note: “My Mother started collecting Alex Katz and Harry Bertoia in the 1970s. Art was always a lifelong passion for her and was enjoyed by the entire family in her home.” — Jonathan NewmanFour sculptures by Harry Bertoia (1915–1978) from Justice Newman's collection are offered in this sale, reflecting the extraordinary range of the artist's sculptural practice. Working across a variety of metals and alloys, Bertoia challenged the boundaries between design and art, developing a rich vocabulary of forms, motifs, and techniques.The group spans nearly two decades of the artist's career and includes two distinct bush forms: an intimate tabletop example from the 1960s (Lot 35) and a larger welded and patinated bronze sculpture from the mid-1970s (Lot 37). Together, they demonstrate Bertoia's enduring fascination with texture, density, and the interplay of light across clustered forms.Also included is a striking vertical spray sculpture in stainless steel wire (Lot 38), its radiating branches rising from a stone base with a remarkable sense of movement. Completing the group is an important large-scale bronze and copper sculpture from the 1970s (Lot 36), whose richly patinated surface and commanding presence exemplify Bertoia's ability to imbue metal with an almost geological character.Bertoia's connection to Pennsylvania lends particular resonance to these works. After relocating to Bally in the 1950s, he spent the remainder of his career there, producing many of his most celebrated sculptures and establishing himself as one of the region's most influential artistic figures. Assembled over decades, Justice Newman’s collection reflects a deep appreciation for the breadth of Harry Bertoia’s practice and his unique ability to bridge art, design, and nature.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d71a2dd9-a8d7-4e98-b8df-687a1e032521,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/38,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,32000.0,26666.666666666668
+2bb32785-d896-4f40-9be7-9faedcd7aeee,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 39,USD,800,1200,768,600,800,1200,768,600,Suzanne Horvitz,1940,N/A,Echo of the Deep,mixed media,"mixed media on glass panel, verre églomisé (glass gilding and reverse painting on glass), photography, digital transfers, silkscreen",N/A,26.5,66,in,no,no,yes,1940,2016,The Estate of the Honorable Sandra Schultz Newman,"Sirens, glass panel, mixed media, green hues, floral elements, aquatic themes, layered imagery, dreamlike composition, text and image interaction, gilded surface",1,N/A,original,"Suzanne Horvitz
+(American, b. 1940)
+Echo of the Deep
+mixed media on glass panel
+
+Each: 66 x 26 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Lot Note:This work by Suzanne Horvitz is a mixed-media composition on glass panel, executed in verre églomisé (glass gilding and reverse painting on glass) and incorporating photography, digital transfers, and silkscreen. Designed and made for Sandra Newman, the work has not previously been exhibited.The composition references the Sirens from Homer’s Odyssey, a recurring motif in Horvitz’s practice through which she explores themes of allure, transformation, and danger. Through layered imagery and wordplay, Horvitz combines text and image to create a reflective, dreamlike field that evokes shifting perception and the space between material and illusion. Other panels from this series have been exhibited at the Noyes Museum in 2025, in Cairo in 2019, and in Yangon in 2016.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7e347dfa-1491-4967-8b3b-cf7861a86495,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/39,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+2a16dc80-a8b6-49c5-b779-c47cf7e7044e,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 40,USD,7000,9000,4800,3750,7000,9000,4800,3750,Jane Piper,1916,1991,Still Life with Fruit & Flowers,painting,oil on gessoed Strathmore Museum Board,N/A,40,32,in,yes,yes,yes,1987,1987,"Mangel Gallery, Philadelphia. Acquired directly from the above.","fruit, flowers, vase, still life, white background, colorful patterns, green leaves, yellow grid, red accents, botanical elements",1,N/A,original,"Jane Piper
+(American, 1916-1991)
+Still Life with Fruit & Flowers, 1987
+oil on gessoed Strathmore Museum Board
+signed Jane Piper and dated (lower right)
+
+32 x 40 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, Philadelphia Acquired directly from the above",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4d213205-24ca-4827-9f8d-bde46ed78280,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/40,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,8200.0,6833.333333333334
+3e578ccf-e313-4d99-8c7b-07f3eac8f92e,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 41,USD,500,700,896,700,500,700,896,700,Erwin Binder,1934,1993,The Reunion,sculpture,"carved onyx, black marble, lucite",N/A,N/A,24,in,yes,yes,yes,1983,1983,The Estate of the Honorable Sandra Schultz Newman,"two figures, embrace, carved onyx, black marble, lucite base",1,N/A,original,"Erwin Binder
+(American, 1934-1993)
+The Reunion, 1983
+carved onyx on a black marble and lucite base
+incised with signature and date (to bottom)
+
+Height: 24 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/1ccd4400-22ec-404f-937f-821c2fde980a,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/41,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,650.0,541.6666666666667
+2e51299a-a654-492b-bfaa-c9d13f3cabb6,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 42,USD,15000,25000,14080,11000,15000,25000,14080,11000,Dorothea Tanning,1910,2012,Double Curve with Scholar,mixed media,"graphite, watercolor and collage with fabric on paper",N/A,60,40,in,yes,yes,yes,1986,1986,"Mangel Gallery, Philadelphia; Acquired from the above in 1988","figures, abstract forms, watercolor, collage, pencil, fabric, red, yellow, blue, lines, curves",1,N/A,original,"Dorothea Tanning
+(American, 1910-2012)
+Double Curve with Scholar, 1986
+graphite, watercolor and collage with fabric on paper
+signed Dorothea Tanning (lower right); titled (lower left)
+
+40 x 60 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, PhiladelphiaAcquired from the above in 1988Exhibited:New York, New York, Kent Fine Art, Dorothea Tanning: On Paper 1948-1986, January 7 - February 7, 1987, cat. no. 31Houston, Texas, Hooks-Epstein Galleries, Inc., Dorothea Tanning: On Paper, June 6 - July 8, 1987, cat. no. 29Philadelphia, Pennsylvania, Mangel Gallery, Dorothea Tanning: Works on Paper, December 4 - 31, 1987, cat. no. 5Malmö, Sweden, Malmö Konsthall, Dorothea Tanning: Om Konst Kunde Tala (If Art Could Talk), April 3 - May 16, 1993, cat. no. 68London, England, Camden Arts Centre, Dorothea Tanning: Works 1942-1992, September 17 - November 21, 1993Literature:Dorothea Tanning, exhibition catalogue, Malmö Konsthall, Malmö, Sweden, 1993, p. 137Jean Christophe Bailly, Dorothea Tanning, George Braziller, New York, 1995, plate 154, ill. p. 178 (color)We are grateful to the Dorothea Tanning Foundation for their assistance in cataloguing this work.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2ee5e85e-0fdc-4da3-ad6e-6331eb224512,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/42,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,22000.0,18333.333333333336
+57d065de-50ee-4243-ac4b-aa2fe5655544,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 43,USD,4000,6000,8320,6500,4000,6000,8320,6500,Alex Katz,1927,N/A,Good Afternoon 2 (Gray Rowboat),prints,lithograph in colors,N/A,36.125,27.5,in,yes,yes,yes,1975,1975,The Estate of the Honorable Sandra Schultz Newman,"woman, gray rowboat, water, hat, landscape, lake, reflection, sunlight, distant hills, relaxation",1,N/A,original,"Alex Katz
+(American, b. 1927)
+Good Afternoon 2 (Gray Rowboat), 1975 
+lithograph in colors
+signed and numbered 66/100 in pencil
+
+27 1/2 x 36 1/8 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Co-published by Marlborough Graphics, Inc., New York and The Trenton Museum, Trenton, New Jersey; printed by Styria Studio, New YorkLiterature: Schröder 80; Maravell 78",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3a68fde6-dc24-41ed-85fc-4edc85364d20,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/43,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+6fb0ff72-54af-41a7-8e92-396f55a8a1e5,Artwork,Freemans,6496,2026-06-23,New York,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 44,USD,600000,800000,N/A,N/A,600000,800000,N/A,N/A,Alex Katz,1927,N/A,Trishie and Laddy (Lady),painting,oil on canvas,N/A,60,48,in,no,yes,yes,1975,1975,"The Artist
+Marlborough Gallery, New York
+Acquired directly from the above in 1978","woman, dog, park, trees, sunlight, portrait, nature, green, brown, beige",1,N/A,original,"Alex Katz
+(American, b. 1927)
+Trishie and Laddy (Lady), 1975
+oil on canvas
+
+48 x 60 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:The ArtistMarlborough Gallery, New YorkAcquired directly from the above in 1978Note: Archival records from the gallery include a handwritten notation indicating that the title was altered from “Lady” to “Laddy,” with the former crossed out and replaced. While the correct spelling remains unconfirmed, this revision offers a compelling glimpse into the work’s early history.Lot Note:This 1975 painting, Trishie and Laddy (Lady), of a close-cropped view of a woman and her dog amid a sunlit park, highlights Katz’s ability to distill personality and explore larger thematic types through portraiture.The subject of international acclaim, including more than 200 solo exhibitions, Alex Katz (American, b. 1927) came of age in New York during the 1950s alongside the rise of Abstract Expressionism, which he deliberately eschewed, preferring instead to champion representational painting. To this end he applied a now characteristic and vibrant visual language balancing realism and abstraction, ambivalence and intimacy. Katz has sought to share his world through his painting, whether through hundreds of portraits of his wife of almost 65 years, Ada, his home in coastal Maine, or, as in Trishie and Laddy (Lady), scenes and characters from downtown New York City among the cultural avantgarde and his love of dogs.Katz has created a number of paintings and prints featuring dogs throughout his career, with his dog Sunny as a frequent model. A double portrait, Vincent and Sunny (1967), of Katz’s son and the Skye Terrier even hangs in the foyer of the Katz apartment.[i] With his typical flat handling of color and form bordering on the edge of abstraction, Katz strips away extraneous detail in order to center the personality and spirt of these animals, lavishing the same care as for any other portrait. This is especially apparent in these double portraits of dogs and people such as Trishie and Laddy (Lady), where Katz relies on a shared visual language between Trishie and Laddy to contrast their personalities and emotional states within the snapshot moment of his encounter with them.Within the painting, elements of Trishie and Laddy mirror each other. The V-neck of the woman’s shirt echoes the triangular open mouth of the pup, possibly a Borzoi or other aristocratic hound. The soft fringes of Trishie’s bangs are reminiscent of the waves of Laddy’s ears while the short dark strokes of the dog’s whiskers are seen again in the lashes covering the woman’s downcast eyes. Balanced by the complementary greens in the surrounding park, each is defined by a shared palette of pinks, warm oranges, and browns, with some white highlights and only a hint of cooler grays in the dog’s nose and woman’s irises.In highlighting the connection between Laddy and Trishie, their different personalities are laid bare: Trishie’s shadowed eyes, bleary from sleep or otherwise unfocused in comparison to Laddy’s exuberance, and Laddy’s panting in excitement in opposition to Trishie’s closed mouth and narrowed eyes. The woman’s careful grooming, set off by her vertical beehive hairstyle, reiterates stillness and a sense of buttoned-up composure offset by the horizontal darting into the frame by Laddy’s long snout.Katz, when describing how he chooses his subjects, explained his goals of illustrating real people while also examining social types and themes through carefully presented pictorial information. He shares:When you made it figure and environment in a real clear way, it had a way of abstracting into a more generalized statement. The particular person became A Woman.... I figured if I could paint a particular subject, it could be both specific and universal. It could be a certain person and a generalized woman.[ii]This dual appeal of balancing the familiar with the universal is captured in Trishie and Laddy (Lady). Apparently awoken and thus faced with quotidian task of taking her ecstatic dog for a walk, the woman pauses, arranging and shellacking a complicated hairstyle into place before heading to a New York park with her well-heeled dog. Trishie and Laddy reflect a generalize pair contrasting energy and composure, coolness and fervor, that might be encountered on New York City streets as well as a very specific woman and dog the viewer would like to know more.Bibliography:Fortini, Amanda. “Alex Katz Is Still Perfecting His Craft.” T Magazine, The New York Times, August 18, 2022. https://www.nytimes.com/2022/08/18/t-magazine/alex-katz.html.Katz, Vincent. “The Look of a Certain Person.” In Alex Katz Portraits. Silvana Editoriale, Milan, 2003.http://vincentkatz.net/abc2/books_abc2_AK2.htm[i] As of 2022. Amanda Fortini, “Alex Katz Is Still Perfecting His Craft,” T Magazine, The New York Times, August 18, 2022, https://www.nytimes.com/2022/08/18/t-magazine/alex-katz.html.[ii] Vincent Katz, “The Look of a Certain Person,” In Alex Katz Portraits. Silvana Editoriale, Milan, 2003.http://vincentkatz.net/abc2/books_abc2_AK2.htm.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ef11d8b3-0030-4475-bbfa-14a287478eca,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/44,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,720000.0,600000.0
+25e1d3a5-fa5f-402d-b87b-f5e04ec3e0e2,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 45,USD,500,700,896,700,500,700,896,700,Martha Walter,1875,1976,Petunias,painting,watercolor on paper,N/A,10.5,15.5,in,yes,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"flowers, vase, watercolor, petunias, leaves, curtains, table, colors, green, blue",1,N/A,original,"Martha Walter
+(American, 1875-1976)
+Petunias
+watercolor on paper 
+signed Martha Walter (lower right)
+
+15 1/2 x 10 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/260beab0-de81-44a9-9ba3-507326474219,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/45,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,650.0,541.6666666666667
+f00b508c-003f-4f84-9343-f5204b854b90,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 46,USD,800,1200,8320,6500,800,1200,8320,6500,Style of Josef Frank,N/A,N/A,Flora Cabinet,furniture,"mahogany, birch, printed paper",20.125,37,47.875,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"cabinet, mahogany, birch, printed paper, floral design, interior furniture, two doors, botanical patterns, colored flowers, 20th century",1,N/A,style of/follower of,"Style of Josef Frank
+(20th Century)
+Flora Cabinet 
+mahogany, birch, printed paper
+in the style of the Frank model 852 
+
+47 7/8 h x 37 w x 20 1/8 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0b24cf17-b014-4587-b61b-04e2314dcdef,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/46,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1050.0,875.0
+9534c469-45e0-4ad0-a620-bdd4f5961637,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 47,USD,300,500,1792,1400,300,500,1792,1400,MacKenzie Childs,N/A,N/A,Two chairs,furniture,"wood, metal",24,27.5,39.75,in,no,yes,yes,1983,1983,The Estate of the Honorable Sandra Schultz Newman,"chairs, wood, painted, abstract designs, patterned seats, decorative elements, craftsmanship, furniture, vintage style, colorful accents",2,N/A,original,"MacKenzie Childs
+(American, founded 1983) 
+Two chairs, 1983 
+
+with metal tag to inside back of seat frame. 
+
+39 3/4 h x 27 1/2 w x 24 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a107f264-6e0a-4d47-a9e2-50929e7ea661,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/47,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,425.0,354.1666666666667
+4954db45-73f6-4704-8325-5a200dbb02fd,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 48,USD,400,600,2880,2250,400,600,2880,2250,MacKenzie Childs,N/A,N/A,Floor lamp,decorative arts,"ceramic, hardware",N/A,16,74,in,no,no,yes,1983,1983,The Estate of the Honorable Sandra Schultz Newman,"floor lamp, ceramic, hardware, pink, white, pattern, light, shade, base, decorative",1,N/A,original,"MacKenzie Childs
+(American, founded 1983)
+Floor lamp
+ceramic, hardware
+
+74 h x 16 dia inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7c8dbe89-a0fb-4626-93c1-455ec8924ea8,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/48,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+9bc453a9-ff11-408d-971e-192893a78962,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 49,USD,400,600,1088,850,400,600,1088,850,MacKenzie Childs,N/A,N/A,Pair of stools,furniture,"polychrome ceramic, foam, upholstery",34,30.5,21,in,no,yes,yes,1983,1983,The Estate of the Honorable Sandra Schultz Newman,"pair of stools, polychrome ceramic, upholstery, foam, decorative elements",1,N/A,original,"MacKenzie Childs 
+(American, founded 1983) 
+Pair of stools, 1983 
+polychrome ceramic, foam, upholstery 
+with metal tag to underside 
+
+21 h x 30 1/2 w x 34 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/fd945c5f-162c-415a-b2d4-2d4428acdb4b,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/49,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+e4e724e7-2ed3-45f3-a8da-d374da9f68ea,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 50,USD,1000,2000,1152,900,1000,2000,1152,900,Style of MacKenzie Childs,N/A,N/A,"A set of seven armchairs, c. 1983",furniture,"carved polychrome wood, upholstery",19,27,39.75,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"set, armchairs, carved polychrome wood, upholstery, flowers, decorative design, vintage furniture, 20th century",1,N/A,style of/follower of,"Style of MacKenzie Childs
+20th Century
+A set of seven armchairs, c. 1983 
+carved polychrome wood, upholstery 
+no visible marks or signatures 
+
+39 3/4 h x 27 w x 19 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/385b61d7-4fce-4b62-bc97-94277dfadac5,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/50,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+e237a328-7897-4fee-898f-1be87047f32f,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 51,USD,1000,2000,2176,1700,1000,2000,2176,1700,De Sede,N/A,N/A,DS 69 sleeper sofa,furniture,leather,40,82,29,in,yes,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"sleeper sofa, leather, interior design, furniture, modern design, home decor, luxury, upholstery, color beige, minimalism",1,N/A,original,"De Sede
+20th Century
+DS 69 sleeper sofa 
+leather
+marked 'DeSede' to the decking fabric 
+
+29 h x 82 w x 40 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ad09a6f2-92fe-4d64-9c70-f97a8c431b7f,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/51,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1500.0,1250.0
+ccee9c4c-ffb4-4490-baf1-385ab4a7ebf3,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 52,USD,3000,5000,5440,4250,3000,5000,5440,4250,Gustavo Novoa,1941,N/A,Jungle Creatures,painting,oil on board,N/A,46.5,65,in,yes,yes,yes,1972,1972,Wally Findlay Galleries,"elephants,lion,monkey,leaves,flowers,jungle,grass,plants,trees,blue sky",1,N/A,original,"Gustavo Novoa
+(Chilean, b. 1941)
+Jungle Creatures, 1972
+oil on board
+signed G Novoa and dated (lower right) 
+
+65 x 46 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Wally Findlay Galleries",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5d7e25af-7106-482f-ac2d-f060362dd8a1,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/52,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+e7936725-48bb-4403-9878-41173d3dd32a,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 53,USD,800,1200,640,500,800,1200,640,500,N/A,N/A,N/A,A Large Nepalese Style Patinated Bronze Figure of Tara,sculpture,Patinated Bronze,N/A,N/A,33,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"bronze sculpture, Tara, figure, Nepalese style, seated pose, ornate crown, lotus pedestal, hands in gesture, decorative elements",1,N/A,original,"A Large Nepalese Style Patinated Bronze Figure of Tara, 20th Century
+
+Height 33 in.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/71f0a253-e043-440d-a7d5-fe76891ddb28,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/53,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+07d68d1b-0c10-4e36-8a5c-f572f0f8e68b,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 54,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,Yankel Ginzberg,1945,N/A,Night Watch,painting,acrylic on canvas,N/A,60,36,in,yes,yes,yes,1982,1982,The Estate of the Honorable Sandra Schultz Newman,"tiger, ram, leaves, sun, abstract shapes, blue background, ladder, orange, yellow, green",1,N/A,original,"Yankel Ginzberg 
+(Russian, b. 1945)
+Night Watch, 1982
+acrylic on canvas
+signed Yankel Ginzberg (upper left); signed, titled and dated (verso)
+
+36 x 60 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0d5c5588-8dbf-42d6-846d-21786a991249,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/54,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+0b835cd5-29c2-449c-8c11-43bb286fec1d,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 55,USD,600,900,3840,3000,600,900,3840,3000,N/A,N/A,N/A,Designs for Leisure,furniture,"brass, foam, upholstery",22,18,39.5,in,no,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,"set of bar stools, brass, foam, upholstery, pink fabric",1,N/A,original,"Designs for Leisure
+20th Century
+Set of 3 bar stools 
+brass, foam, upholstery 
+
+39 1/2 h x 18 w x 22 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f3359f6d-621b-453e-828c-c9af1b7e3234,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/55,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+01ce4198-827b-49a7-8b47-d3aa590cb057,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 56,USD,400,600,640,500,400,600,640,500,Karl Springer,1931,1991,Occasional table,furniture,embossed leather,15,18,18,in,no,yes,yes,1990,1990,The Estate of the Honorable Sandra Schultz Newman,"occasional table, embossed leather, black, geometric shape",1,N/A,original,"Karl Springer
+(American, 1931–1991)
+Occasional table, 1990 
+embossed leather
+with leather 'Karl Springer' tag 
+
+18 h x 18 w x 15 d inches. 
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4685a265-d7d8-45b6-b1b7-5640763890be,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/56,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+9eb6bc62-7590-454d-a407-043ef179e9ee,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 57,USD,400,600,896,700,400,600,896,700,Yoko Haru,N/A,N/A,"Penta, 1977",painting,acrylic on canvas,3,27.25,12.25,in,yes,yes,yes,1901,2000,The Estate of the Honorable Sandra Schultz Newman,N/A,N/A,N/A,original,"Yoko Haru
+(20th Century)
+Penta, 1977
+acrylic on canvas
+signed Yoko Haru and dated (along lower edge); signed and dated (to base); titled (to internal stretcher)
+
+12 1/4 x 27 1/4 x 3 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a30442b0-64ba-457d-ac3d-400ced06e499,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/57,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+4818cb5c-9a35-425b-a4c7-6b07f388ccc8,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 58,USD,600,800,1024,800,600,800,1024,800,Yoko Haru,N/A,N/A,Hexa #2,painting,acrylic on canvas,5.5,73,37,in,yes,yes,yes,1980,1980,"Mangel Gallery, Philadelphia; Acquired from the above circa 1980","geometric shapes, color gradients, yellow, gray, abstract pattern",1,N/A,original,"Yoko Haru
+(20th Century)
+Hexa #2, 1980
+acrylic on canvas
+signed Yoko Haru and dated (bottom edge); signed three times, titled and dated (verso)
+
+37 x 73 x 5 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Provenance:Mangel Gallery, PhiladelphiaAcquired from the above circa 1980",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/16ba8dd4-7f34-4a15-a422-e423fc019c14,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/58,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,725.0,604.1666666666667
+2d63b27c-e741-42ef-989f-efaf6b6d597c,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 59,USD,800,1200,1920,1500,800,1200,1920,1500,Alexander Calder,1898,1976,"Composition aux formes Geometriques, 1965",prints,lithograph in colors,N/A,29.5,21,in,yes,yes,yes,1965,1965,The Estate of the Honorable Sandra Schultz Newman,"triangles, circles, geometric shapes, blue color, yellow color, abstract forms, black outlines, patterns, lithograph, 1965",1,N/A,original,"Alexander Calder
+(American, 1898-1976)
+Composition aux formes Geometriques, 1965
+lithograph in colors
+signed and numbered 59/90 in pencil
+
+21 x 29 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2b782c2a-b738-448a-945b-1fe2f926e786,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/59,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+69e39028-a995-4c8c-a847-d17e0b135fa6,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 60,USD,2000,3000,5760,4500,2000,3000,5760,4500,Alexander Calder,1898,1978,Seal (from Our Unfinished Revolution),prints,lithograph in colors on Arches,N/A,29.75,22,in,yes,yes,yes,1976,1976,The Estate of the Honorable Sandra Schultz Newman,"seal, fish, snail, ocean, abstract shapes, color patterns, lines, animals, aquatic life, red",1,N/A,original,"Alexander Calder
+(American, 1898-1978)
+Seal (from Our Unfinished Revolution), 1976
+lithograph in colors on Arches
+signed and numbered 76/175 in pencil
+
+22 x 29 3/4 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Alba Editions, Inc., New York, to aid the National Emergency Civil Liberties Committee; printed by Mourlot, Paris",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c6b225cc-3f1b-4874-a6ac-851e3234863e,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/60,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2800.0,2333.3333333333335
+45c2195a-01a7-41e1-9d99-1474ee72132b,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 61,USD,1000,1500,1408,1100,1000,1500,1408,1100,Henry Moore,1898,1986,"Three Seated Figures in Setting, 1975",prints,lithograph in colors on Arches,N/A,13.75,8.5,in,yes,yes,yes,1975,1975,The Estate of the Honorable Sandra Schultz Newman,"three seated figures, lithograph, black background, abstract shapes, human forms",1,N/A,original,"Henry Moore
+(British, 1898-1986)
+Three Seated Figures in Setting, 1975
+lithograph in colors on Arches
+signed and numbered 35/75 in pencil
+
+8 1/2 x 13 3/4 in.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Published by Ediciones Polígrafa SA, Barcelona, 1977; printed by Curwen Prints Ltd, LondonLiterature: Cramer 421",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7feebe30-b874-497f-9c26-275aac7e3d84,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/61,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1350.0,1125.0
+e038a48a-b8c9-4cdc-b84e-dbfb4ae5f201,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 62,USD,3000,5000,2560,2000,3000,5000,2560,2000,Peter Max,1937,N/A,Palm Springs Lady,prints,acrylic and lithograph on paper,N/A,27,35,in,yes,yes,yes,1982,1982,The Estate of the Honorable Sandra Schultz Newman,"woman, profile, colorful hair, abstract, blue background",1,N/A,original,"Peter Max
+(American, b. 1937)
+Palm Springs Lady, 1982
+acrylic and lithograph on paper
+signed Max and dated (upper left)
+
+35 x 27 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/8648e6dc-9eec-4c35-8a6c-bfe8031f90c6,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/62,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+6523903e-9688-4e20-a7bf-976223225c04,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 63,USD,8000,12000,10240,8000,8000,12000,10240,8000,Pablo Picasso,1881,1973,Femme Échevelée (A.R. 509),ceramics,white earthenware ceramic plate with colored engobe and glaze,N/A,N/A,N/A,in,no,yes,yes,1963,1963,The Estate of the Honorable Sandra Schultz Newman,"ceramic plate, woman, abstract figure, leaves, blue, green, white, decorative",1,N/A,original,"Pablo Picasso
+(Spanish, 1881–1973)
+Femme Échevelée (A.R. 509), 1963
+white earthenware ceramic plate with colored engobe and glaze
+numbered 74/100 and with 'Madoura Plein Feu' and 'Empreinte Originale de Picasso' stamps
+
+Diameter: 11 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Literature:Ramie 509",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ce94abb6-016d-42e1-bb51-d1cd51146344,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/63,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,11000.0,9166.666666666668
+3a4d7877-f98d-4a1c-841f-e091a5c6e16f,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 64,USD,700,900,960,750,700,900,960,750,Red Grooms,1937,N/A,Picasso Goes to Heaven II,prints,etching with stenciled watercolor,N/A,30.625,28.875,in,yes,yes,yes,1976,1976,The Estate of the Honorable Sandra Schultz Newman,"figures, man, woman, animals, musician, sombrero, chair, mask, colorful patterns, crowd",1,N/A,original,"Red Grooms
+(American, b. 1937)
+Picasso Goes to Heaven II, 1976
+etching with stenciled watercolor
+signed, titled, dated, and numbered 9/53 in pencil
+
+28 7/8 x 30 5/8 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Co-published by Brooke Alexander, Inc., New York and Marlborough Graphics, New York; printed by Chip ElwellLiterature:Knestrick 66",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/40d87523-dc4e-4995-bc6d-96870f3336c1,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/64,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,850.0,708.3333333333334
+fc8ab477-b052-413e-980f-4550f45d536e,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 65,USD,500,700,768,600,500,700,768,600,Yaacov Agam,1928,N/A,18 Peace Stars,prints,screenprint in colors on Arches,N/A,18.75,26.5,in,yes,no,yes,1928,1928,The Estate of the Honorable Sandra Schultz Newman,"stars, blue, turquoise, orange, patterns, abstract, geometric, marks, screenprint, colors",1,N/A,original,"Yaacov Agam
+(Israeli, b. 1928)
+18 Peace Stars
+screenprint in colors on Arches
+signed and annotated 'HC 1/18' in pencil
+
+26 1/2 x 18 3/4 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f379d2ba-482b-4b49-ad94-002b759532df,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/65,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,650.0,541.6666666666667
+ce80b19f-c77c-4445-ba81-d5f772022f0c,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 66,USD,600,800,384,300,600,800,384,300,Anne Youkeles,1920,N/A,"Gemini, c. 1968",prints,3-D serigraph collage,N/A,27.25,27.25,in,yes,yes,yes,1960,1969,The Estate of the Honorable Sandra Schultz Newman,"circles, stripes, colors, collage, abstract, geometric, gradients, patterns, layered, concentric",1,N/A,original,"Anne Youkeles
+(American, b. 1920)
+Gemini, c. 1968
+3-D serigraph collage
+signed, titled, and numbered 28/100 in pencil
+
+27 1/4 × 27 1/4 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f174c725-10ce-4d6b-a4d3-2fe64d2a85f4,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/66,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,725.0,604.1666666666667
+b07f1052-f27b-4fc5-8f39-d38d19442df7,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 67,USD,800,1000,704,550,800,1000,704,550,Karel Appel,1921,2006,Untitled,prints,lithograph in colors,N/A,19.625,25.5,in,yes,no,no,1921,2006,The Estate of the Honorable Sandra Schultz Newman,"abstract, colors, shapes, face, expression, background",1,N/A,original,"Karel Appel
+(Dutch, 1921-2006)
+Untitled
+lithograph in colors
+signed and numbered 36/99 in pencil
+
+25 1/2 x 19 5/8 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5062d6a1-e886-414a-a3db-62fa19305a94,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/67,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,950.0,791.6666666666667
+3e6bd40d-90bb-4c77-bb50-c3c1dce5a801,Artwork,Freemans,6496,2026-06-23,Philadelphia Warehouse,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 68,USD,800,1200,1024,800,800,1200,1024,800,Joe Brown,1909,1985,Monument to Freedom of Expression,sculpture,bronze with brown patina on stone base,7.5,7.5,22.75,in,no,yes,yes,1975,1975,The Estate of the Honorable Sandra Schultz Newman,"sculpture, human figure, hand, face, freedom, expression, bronze, patina, stone base, civic life",1,N/A,original,"Joe Brown
+(American, 1909-1985)
+Monument to Freedom of Expression, 1975
+bronze with brown patina on stone base
+
+22 3/4 x 7 1/2 x 7 1/2 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.
+Lot Note:Joe Brown (1909-1985) was a Philadelphia-born sculptor known for his dynamic bronze figures celebrating movement, athleticism, and civic life. He developed a practice rooted in public art and large-scale commissions, with works installed in prominent civic and institutional settings across the country.In Philadelphia, his presence is especially visible through major public sculptures, including Benjamin Franklin – Craftsman at City Hall and his well-known athletic figures such as The Batter and Play at Second Base, now installed near Citizens Bank Park. These works reflect his distinctive ability to translate physical energy into monumental form, securing his place as a key figure in the city’s public art landscape.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/569e093f-1756-418b-be6b-60b1ee247259,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/68,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+850d8161-213a-4ca9-84f2-e0bcdd883651,Artwork,Freemans,6496,2026-06-23,Off Premises,Gavel & Grace: The Estate of the Honorable Sandra Schultz Newman,https://freemansauction.com/auctions/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman,Lot 69,USD,500,700,704,550,500,700,704,550,Rodney Alan Greenblat,1960,N/A,Before/After,drawing,ink on paper,N/A,24,18,in,yes,no,yes,1960,1960,The Estate of the Honorable Sandra Schultz Newman,"person, before, after, facial expressions, outlines, abstract shapes, black and white, simple figures, border decorations",1,N/A,original,"Rodney Alan Greenblat
+(American, b. 1960)
+Before/After
+ink on paper
+signed RG (lower right)
+
+18 x 24 inches.
+
+The Estate of the Honorable Sandra Schultz Newman
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7a0626c6-4980-46db-a63c-8669f70ab676,https://freemansauction.com/auction/6496-gavel-and-grace-the-estate-of-the-honorable-sandra-schultz-newman/lot/69,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,600.0,500.0

@@ -1,0 +1,911 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+9b0cfd7b-4141-41aa-a052-ca8fe892fc68,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 1,GBP,2500,3500,3072.0,2400,3164.19,4429.86,3888.15,3037.62,N/A,N/A,N/A,A lady's platinum and diamond set manual wind bracelet watch,decorative arts,"platinum, diamond",N/A,N/A,N/A,N/A,yes,yes,yes,1960,1960,N/A,"bracelet watch, platinum, diamond, manual wind, 1960s, round bezel, silvered dial",1,N/A,original,"A lady's platinum and diamond set manual wind bracelet watch
+Date: Circa 1960
+Movement: 17-jewel Cal.330 manual wind, signed by Record W. Co Geneve
+Dial: Silvered
+Case: Round, brilliant-cut diamond set bezel
+Strap/Bracelet: Baguette- and brilliant cut diamond set bracelet, diamond approx. 5.20cts in total
+Buckle/Clasp: Concealed clasp
+Signed: Movement 
+Size: 17mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25859682-1-1.jpg,https://www.bonhams.com/auction/31991/lot/1/a-ladys-platinum-and-diamond-set-manual-wind-bracelet-watch-circa-1960/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2026-09,3837.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3790.0,3158.3333333333335
+e2fea606-fc03-4590-a000-66549fa2e12b,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 2,GBP,700,900,N/A,N/A,885.97,1139.11,N/A,N/A,Bomberg,N/A,N/A,"Bomberg. A Limited Edition stainless steel automatic calendar convertible wristwatch/ pocket watch Bolt-68 Cobra, No.241/250",decorative arts,"stainless steel, python leather",N/A,N/A,N/A,mm,yes,yes,yes,2018,2018,N/A,"wristwatch, pocket watch, stainless steel, snake, engraving, leather strap, automatic movement, brown, circular, gold",1,N/A,original,"Bomberg. A Limited Edition stainless steel automatic calendar convertible wristwatch/ pocket watch
+Model: Bolt-68 Cobra, No.241/250
+Reference: BS45ASS
+Date: Circa 2018
+Movement: Jewelled automatic
+Dial: Engraved silver with cobra motif to centre
+Case: Brushed and polished round
+Strap/Bracelet: Brown Bomberg python leather
+Buckle/Clasp: Signed stainless steel buckle
+Signed: Case, dial & movement
+Size: 45mm
+ Accompaniments: Bomberg box, outer card, additional case back for conversion to pocket watch, stainless steel serpent form chain",https://images1.bonhams.com/image?src=Images/live/2026-04/20/25850667-5-1.jpg,https://www.bonhams.com/auction/31991/lot/2/bomberg-a-limited-edition-stainless-steel-automatic-calendar-convertible-wristwatch-pocket-watch-bolt-68-cobra-no241250-ref-bs45ass-circa-2018/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1015.0,845.8333333333334
+a0686135-c29f-4e89-9ccc-62aadd79cb00,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 3,GBP,500,700,N/A,N/A,632.84,885.97,N/A,N/A,Boucheron,N/A,N/A,Boucheron. A stainless steel and diamond set quartz bracelet watch Reflect,decorative arts,"stainless steel, diamond, quartz",N/A,N/A,N/A,mm,yes,yes,yes,2005,2005,Purchased 29th April 2005,"watch, stainless steel, diamond, quartz, bracelet, rectangular, polished, silver, Boucheron",1,N/A,original,"Boucheron. A stainless steel and diamond set quartz bracelet watch
+Model: Reflect
+Date: Purchased 29th April 2005
+Movement: 7-jewel Cal.032 quartz
+Dial: Silvered, diamond set quarters
+Case: Polished rectangular, No.0500212
+Strap/Bracelet: Fitted polished link
+Buckle/Clasp: Signed double folding clasp
+Signed: Case, dial & movement
+Size: 24mm
+ Accompaniments: Boucheron box, outer card, International Guarantee, Instructions for Use, two spare links",https://images1.bonhams.com/image?src=Images/live/2026-05/14/73001496-1-1.jpg,https://www.bonhams.com/auction/31991/lot/3/boucheron-a-stainless-steel-and-diamond-set-quartz-bracelet-watch-reflect-purchased-29th-april-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,759.0,632.5
+64da4f5f-5a77-4cad-a466-53571f47ec32,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 4,GBP,1500,2000,3840.0,3000,1898.51,2531.35,4860.19,3797.02,N/A,N/A,N/A,Breitling,decorative arts,"gold plated stainless steel, alligator leather, 18K rose gold",N/A,N/A,N/A,mm,yes,yes,yes,1961,1961,N/A,"wristwatch, chronograph, gold plated, stainless steel, black dial, Arabic numerals, slide rule scale, brown leather strap, 1961, vintage",1,N/A,original,"Breitling. A gold plated stainless steel manual wind chronograph wristwatch
+Model: Navitimer
+Reference: 806
+Date: Circa 1961
+Movement: 17-jewel Venus Cal.178 manual wind, column wheel chronograph
+Dial: Black, Arabic numeral hour markers, gilt 1/5th second divisions, outer tachymetre scale, outer silvered bi-directional slide rule scale, subsidiary dials at 3, 6 and 9 for seconds, 30 minute and 12 hour recording, gilt pointed baton hands with luminous inserts, centre chronograph hand
+Case: Brushed and polished round, snap on back, crown flanked by twin chronograph pushers, No.930865
+Strap/Bracelet: Brown Breitling alligator leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case, dial & movement
+Size: 40mm
+ Accompaniments: Later Breitling box (AF), outer card, brochures",https://images1.bonhams.com/image?src=Images/live/2026-04/23/73001230-2-1.jpg,https://www.bonhams.com/auction/31991/lot/4/breitling-a-gold-plated-stainless-steel-manual-wind-chronograph-wristwatch-navitimer-ref-806-circa-1961/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2410.8,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+d4faabab-6f79-4ec6-9cee-d9c6783c58ea,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 5,GBP,700,900,N/A,N/A,885.97,1139.11,N/A,N/A,N/A,N/A,N/A,Breitling,decorative arts,"stainless steel, diamond, quartz",N/A,N/A,N/A,mm,yes,yes,yes,2010,2010,N/A,"watch, stainless steel, diamond, bracelet, quartz, calendar, Breitling, Colt Oceane, silvered dial, engraved",1,N/A,original,"Breitling. A lady's stainless steel diamond-set quartz calendar bracelet watch
+Model: Colt Oceane
+Reference: A77350
+Date: Circa 2010
+Movement: Jewelled quartz
+Dial: Silvered guillochÃ© engraved, date aperture at 3
+Case: Brushed and polished round, screw down back, diamond-set calibrated uni-directional bezel, No.564536
+Strap/Bracelet: Brushed and polished steel link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 33.5mm",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25865036-2-1.jpg,https://www.bonhams.com/auction/31991/lot/5/breitling-a-ladys-stainless-steel-diamond-set-quartz-calendar-bracelet-watch-colt-oceane-ref-a77350-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1025.0,854.1666666666667
+c700e365-bcd8-4f79-9741-a31676776607,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 6,GBP,2000,3000,2816.0,2200,2531.35,3797.02,3564.14,2784.48,N/A,N/A,N/A,Breitling. A Limited Edition stainless steel automatic calendar bracelet watch made for The Government Communications Headquarters,decorative arts,stainless steel,N/A,N/A,N/A,mm,yes,yes,yes,2014,2014,Purchased 14th April 2014,"watch, stainless steel, automatic, calendar, bracelet, black dial, GCHQ logo, travel pouch, COSC certificate",1,N/A,original,"Breitling. A Limited Edition stainless steel automatic calendar bracelet watch made for The Government Communications Headquarters
+Model: Avenger Seawolf, GCHQ Special Edition, No.307/400
+Reference: A17330
+Date: Purchased 14th April 2014
+Movement: Jewelled automatic
+Dial: Black, GCHQ logo at 9
+Case: Brushed and polished tonneau form, screw down back with presentation engraving, No.1591665
+Strap/Bracelet: Fitted brushed link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 45mm
+ Accompaniments: Breitling travel pouch, outer card, undated International Warranty, COSC certificate, brochures, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-06/04/60160084-1-2.jpg,https://www.bonhams.com/auction/31991/lot/6/breitling-a-limited-edition-stainless-steel-automatic-calendar-bracelet-watch-made-for-the-government-communications-headquarters-avenger-seawolf-gchq-special-edition-no307400-ref-a17330-purchased-14th-april-2014/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3208.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+4bc697b3-be76-4bd0-afe9-9ed07ce86c9e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 7,GBP,1500,2000,1920.0,1500,1898.51,2531.35,2430.09,1898.51,N/A,N/A,N/A,Breitling,decorative arts,"Stainless steel, diamond",N/A,N/A,N/A,mm,yes,yes,yes,2007,2007,Purchased 1st April 2007,"watch, chronograph, diamonds, stainless steel, white dial, automatic, bracelet, numerals, date display, travel case",1,N/A,original,"Breitling. A stainless steel diamond set automatic calendar chronograph bracelet watch
+Model: Super Avenger
+Reference: A13370
+Date: Purchased 1st April 2007
+Movement: Jewelled automatic
+Dial: White, applied polished Arabic numeral hour markers, black outer 1/5th second divisions with luminous dot 5 minute markers, raised outer scale, subsidiary dials at 12, 6 and 9 for seconds, 30 minute and 12 hour recording, date aperture at 3, polished pointed baton hands, centre chronograph hand
+Case: Brushed and polished, screw down back, diamond set uni-directional rotating bezel, crown flanked by twin chronograph pushers, No.2182412
+Strap/Bracelet: Polished link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 48mm
+ Accompaniments: Breitling travel case, original purchase receipt",https://images1.bonhams.com/image?src=Images/live/2026-04/10/25831442-15-2.jpg,https://www.bonhams.com/auction/31991/lot/7/breitling-a-stainless-steel-diamond-set-automatic-calendar-chronograph-bracelet-watch-super-avenger-ref-a13370-purchased-1st-april-2007/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+d3d1203b-a4b7-407e-a2bc-3516f7670b7e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 8,GBP,1500,2000,2048.0,1600,1898.51,2531.35,2592.1,2025.08,N/A,N/A,N/A,Breitling,decorative arts,"Stainless steel, diamond, mother of pearl",N/A,N/A,N/A,mm,yes,no,yes,2008,2008,Purchased 14th October 2008,"watch, stainless steel, diamond, mother of pearl, chronograph, bracelet, automatic, dial, travel case, original receipt",1,N/A,original,"Breitling. A stainless steel diamond set automatic calendar chronograph bracelet watch with mother of pearl dial
+Model: Chronomat Evolution
+Reference: C13356
+Date: Purchased 14th October 2008
+Movement: Jewelled automatic
+Dial: Mother of pearl, polished baton hour markers with luminous accents, black outer 1/5th second divisions, raised outer tachymeter scale, subsidiary dials at 6, 9 and 12 for seconds, 30 minute and 12 hour recording, date aperture at 3, polished pointed baton hands with luminous inserts, centre chronograph hand
+Case: Polished tonneau form, screw down back, diamond set uni-directional rotating bezel, crown flanked by twin chronograph pushers, No.2046780
+Strap/Bracelet: Polished link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 44mm
+ Accompaniments: Breitling travel case, copy of original purchase receipt",https://images1.bonhams.com/image?src=Images/live/2026-04/10/25831442-17-2.jpg,https://www.bonhams.com/auction/31991/lot/8/breitling-a-stainless-steel-diamond-set-automatic-calendar-chronograph-bracelet-watch-with-mother-of-pearl-dial-chronomat-evolution-ref-c13356-purchased-14th-october-2008/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2417.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+5bb3d013-d030-400b-9593-390cf1ac18ab,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 9,GBP,500,700,2048.0,1600,632.84,885.97,2592.1,2025.08,N/A,N/A,N/A,Bucherer,decorative arts,"18K gold, crocodile leather",N/A,N/A,N/A,N/A,yes,yes,yes,1960,1960,N/A,"wristwatch, gold, automatic, bracelet, leather, dial, crocodile, chronometer, jewelry, luxury",1,N/A,original,"Bucherer. An 18K gold automatic wristwatch with associated 18K gold expandable braceletÂ 
+Date: Circa 1960
+Movement: Jewelled automatic
+Dial: Silvered
+Case: Polished round, No.80069
+Strap/Bracelet: Associated black crocodile leather
+Buckle/Clasp: Associated gilt buckle
+Signed: Case, dial & movement
+Size: 33mm
+ Accompaniments: Bucherer leather pouch, associated 18K gold expandable bracelet",https://images1.bonhams.com/image?src=Images/live/2026-06/05/73001896-10-1.jpg,https://www.bonhams.com/auction/31991/lot/9/bucherer-an-18k-gold-automatic-wristwatch-with-associated-18k-gold-expandable-bracelet-circa-1960/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+e0a8f85d-d998-4fdf-8939-1b7707e11746,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 10,GBP,1500,2000,1920.0,1500,1898.51,2531.35,2430.09,1898.51,Bueche Girod,N/A,N/A,Bueche Girod. A 9K gold manual wind bracelet watch,decorative arts,9K gold,N/A,31,36,mm,yes,yes,yes,1976,1976,N/A,"watch, gold, bracelet, Roman numerals, blued steel hands, champagne dial, woven link, polished case, manual wind, Bueche Girod",1,N/A,original,"Bueche Girod. A 9K gold manual wind bracelet watch
+Date: London Hallmark for 1976
+Movement: 17-jewel manual wind
+Dial: Champagne, black Roman numeral hour markers, blued steel Breguet style hands
+Case: Polished oval form, snap on back
+Strap/Bracelet: Integrated woven link 
+Buckle/Clasp: Signed 9K gold folding clasp
+Signed: Case, dial & movement
+Size: 36mm x 31mm",https://images1.bonhams.com/image?src=Images/live/2026-04/10/25821536-2-2.jpg,https://www.bonhams.com/auction/31991/lot/10/bueche-girod-a-9k-gold-manual-wind-bracelet-watch-london-hallmark-for-1976/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2410.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2150.0,1791.6666666666667
+4e74e244-6bfb-47c7-9e34-f2190786f33b,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 11,GBP,800,1200,1408.0,1100,1012.54,1518.81,1782.07,1392.24,Bueche-Girod,N/A,N/A,Bueche-Girod. A 9K gold quartz bracelet watch,decorative arts,"9K gold, quartz, diamond",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"gold watch, quartz movement, round dial, champagne color, diamond index, 9K gold bracelet, folding clasp, brushed case, polished case",1,N/A,original,"Bueche-Girod. A 9K gold quartz bracelet watch
+Date: Circa 1990
+Movement: 13-jewel ETA Cal.282.001 quartz
+Dial: Champagne, diamond index at 12
+Case: Brushed and polished round
+Strap/Bracelet: Integral 9K gold brick link
+Buckle/Clasp: 9K gold folding clasp
+Signed: Case & dial
+Size: 32mm",https://images1.bonhams.com/image?src=Images/live/2026-06/17/73003096-12-3.jpg,https://www.bonhams.com/auction/31991/lot/11/bueche-girod-a-9k-gold-quartz-bracelet-watch-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1287.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1300.0,1083.3333333333335
+d0506be8-4790-42ea-ae3d-49d4e5729dc5,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 12,GBP,800,1200,1920.0,1500,1012.54,1518.81,2430.09,1898.51,N/A,N/A,N/A,"Bulgari. A stainless steel automatic chronograph calendar wristwatch Bulgari Bulgari Chronograph, Ref: BB 38 SL CH",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, stainless steel, chronograph, black dial, leather strap, Bulgari, automatic, calendar, folding clasp, round case",1,N/A,original,"Bulgari. A stainless steel automatic chronograph calendar wristwatch
+Model: Bulgari Bulgari Chronograph
+Reference: BB 38 SL CH
+Date: Circa 2000
+Movement: 37-jewel automatic, No.164252
+Dial: Black
+Case: Brushed and polished round, No.L7475
+Strap/Bracelet: Associated black leather
+Buckle/Clasp: Associated stainless steel folding clasp
+Signed: Case, dial & movement
+Size: 37mm",https://images1.bonhams.com/image?src=Images/live/2026-06/18/73003096-1-3.jpg,https://www.bonhams.com/auction/31991/lot/12/bulgari-a-stainless-steel-automatic-chronograph-calendar-wristwatch-bulgari-bulgari-chronograph-ref-bb-38-sl-ch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1288.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1300.0,1083.3333333333335
+13f48891-a444-4cd1-a2d2-35c8bcdebfa2,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 13,GBP,150,200,192.0,150,189.85,253.13,243.01,189.85,Camille Fournet,N/A,N/A,Camille Fournet. A lot of two alligator leather straps (2),decorative arts,alligator leather,N/A,N/A,N/A,mm,no,yes,yes,N/A,N/A,N/A,"alligator leather straps, dark strap, blue strap",2,N/A,original,"Camille Fournet. A lot of two alligator leather straps (2)
+Date: Recent
+Size: 19mm lug width each",https://images1.bonhams.com/image?src=Images/live/2026-04/20/73001544-1-1.jpg,https://www.bonhams.com/auction/31991/lot/13/camille-fournet-a-lot-of-two-alligator-leather-straps-2-recent/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,193.23,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,221.0,184.16666666666669
+5b3d0888-d6cb-4ad8-9999-54f51cab4917,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 14,GBP,300,500,332.8,260,379.7,632.84,421.22,329.08,Cartier,N/A,N/A,Cartier. A gilt brass quartz clock with alarm,decorative arts,"gilt brass, quartz",N/A,N/A,7.8,cm,yes,yes,yes,1990,1990,N/A,"clock, brass, quartz, alarm, round, white dial, Roman numerals, gold, brushed, polished",1,N/A,original,"Cartier. A gilt brass quartz clock with alarm
+Model: ColisÃ©e
+Date: Circa 1990
+Movement: Jewelled quartz
+Dial: White
+Case: Brushed and polished round, No.0541849
+Signed: Case, dial & movement
+Size: 7.8cm",https://images1.bonhams.com/image?src=Images/live/2026-06/05/25874526-4-1.jpg,https://www.bonhams.com/auction/31991/lot/14/cartier-a-gilt-brass-quartz-clock-with-alarm-colisee-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,480.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+706ca707-1916-410e-af96-3c0b0536cd66,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 15,GBP,500,700,307.2,240,632.84,885.97,388.82,303.76,Cartier,N/A,N/A,Cartier. A gilt quartz travel clock with alarm converted to a wristwatch,decorative arts,"Gilt, quartz, leather",N/A,50,50,mm,yes,yes,yes,1980,1980,N/A,"gilt quartz travel clock, wristwatch, alarm, square case, black leather strap, Roman numerals, cream dial, gold, blue accents, Cartier",1,N/A,original,"Cartier. A gilt quartz travel clock with alarm converted to a wristwatch
+Model: Quadrant
+Date: Circa 1980
+Movement: Jewelled quartz
+Dial: Cream
+Case: Brushed and polished square form, later converted lugs, No.355108826
+Strap/Bracelet: Associated black leather
+Buckle/Clasp: Associated gilt buckle
+Signed: Case, dial & movement
+Size: 50mm x 50mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/25874526-3-1.jpg,https://www.bonhams.com/auction/31991/lot/15/cartier-a-gilt-quartz-travel-clock-with-alarm-converted-to-a-wristwatch-quadrant-circa-1980/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1068.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+0e88593d-595f-424d-af52-83ec25b9312e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 16,GBP,500,700,768.0,600,632.84,885.97,972.04,759.4,N/A,N/A,N/A,"Cartier. A lady's stainless steel and gold quartz bracelet watch Must 21, Circa 1985",decorative arts,"stainless steel, gold, quartz",N/A,N/A,N/A,mm,yes,yes,yes,1985,1985,N/A,"wrist watch, stainless steel, gold accents, quartz, bracelet, round case, Roman numerals, silver dial, fitted strap, double folding clasp",1,N/A,original,"Cartier. A lady's stainless steel and gold quartz bracelet watch
+Model: Must 21
+Date: Circa 1985
+Movement: 7-jewel Cal.90 quartz
+Dial: Silvered
+Case: Brushed and polished round, No.901013341
+Strap/Bracelet: Fitted steel link with gilt accents 
+Buckle/Clasp: Signed double folding clasp
+Signed: Case, dial & movement
+Size: 28mm
+ Accompaniments: Must de Cartier box",https://images1.bonhams.com/image?src=Images/live/2026-06/11/60140673-1-1.jpg,https://www.bonhams.com/auction/31991/lot/16/cartier-a-ladys-stainless-steel-and-gold-quartz-bracelet-watch-must-21-circa-1985/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+6d160691-5e07-4745-b8cd-b6bc1e9e3290,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 17,GBP,1200,1800,3328.0,2600,1518.81,2278.21,4212.16,3290.75,N/A,N/A,N/A,Cartier,decorative arts,"stainless steel, quartz, gold",N/A,N/A,N/A,mm,yes,yes,yes,1998,1998,Purchased 17th February 1998,"watch, stainless steel, gold, quartz, bracelet, rectangular case, dial, Roman numerals, clasp, Cartier",1,N/A,original,"Cartier. A lady's stainless steel and quartz bracelet watch
+Model: PanthÃ¨re 
+Reference: 1120
+Date: Purchased 17th February 1998
+Movement: 4-jewel Cal.157.06 quartz
+Dial: Silvered
+Case: Brushed and polished rectangular, No.CC37730
+Strap/Bracelet: Fitted brushed and polished steel and gold brick link
+Buckle/Clasp: Signed double folding clasp
+Signed: Case, dial & movement
+Size: 22mm
+ Accompaniments: Cartier box, International Guarantee Certificate, brochure",https://images1.bonhams.com/image?src=Images/live/2026-06/11/73001897-3-1.jpg,https://www.bonhams.com/auction/31991/lot/17/cartier-a-ladys-stainless-steel-and-quartz-bracelet-watch-panthere-ref-1120-purchased-17th-february-1998/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1933.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1900.0,1583.3333333333335
+8f76a13b-fa95-45f8-9d88-fc1da6912369,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 18,GBP,500,700,704.0,550,632.84,885.97,891.03,696.12,N/A,N/A,N/A,"Cartier. A silver quartz wristwatch Ronde, Must de, Ref: 1815 1",decorative arts,"silver, quartz, leather",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"silver wristwatch, quartz, brown lizard effect leather strap, two-toned silvered dial, polished round case, Roman numerals, steel buckle",1,N/A,original,"Cartier. A silver quartz wristwatch
+Model: Ronde, Must de
+Reference: 1815 1 
+Date: Circa 1990
+Movement: 8-jewel Cal.01401/1 quartz
+Dial: Two-toned silvered
+Case: Polished round, No.013271
+Strap/Bracelet: Associated brown lizard effect leather
+Buckle/Clasp: Associated steel buckle
+Signed: Case, dial & movement
+Size: 32mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/25874526-1-1.jpg,https://www.bonhams.com/auction/31991/lot/18/cartier-a-silver-quartz-wristwatch-ronde-must-de-ref-1815-1-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+d65bbad9-283e-40a5-8dd9-17bc8cf9b046,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 19,GBP,500,700,640.0,500,632.84,885.97,810.03,632.84,Cartier,N/A,N/A,Cartier. A stainless steel and gold quartz wristwatch Must de Cartier 21,decorative arts,"stainless steel, gold, quartz, leather",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"wristwatch, stainless steel, gold, quartz, brown leather, round, silvered dial, roman numerals, blue hands",1,N/A,original,"Cartier. A stainless steel and gold quartz wristwatch
+Model: Must de Cartier 21
+Date: Circa 1990
+Movement: 9-jewel Cal.81 quartz
+Dial: Silvered
+Case: Brushed and polished round, No.901155444
+Strap/Bracelet: Associated brown leather
+Buckle/Clasp: Signed stainless steel deployant clasp
+Signed: Case, dial & movement
+Size: 31mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/25874526-2-1.jpg,https://www.bonhams.com/auction/31991/lot/19/cartier-a-stainless-steel-and-gold-quartz-wristwatch-must-de-cartier-21-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+b45a6255-9bdf-4910-9c9a-53fe6b56aeba,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 20,GBP,400,600,N/A,N/A,506.27,759.4,N/A,N/A,Chaumet,N/A,N/A,Chaumet. A stainless steel and gold quartz calendar bracelet watch Élysées,decorative arts,"stainless steel, gold, quartz",N/A,N/A,31,mm,yes,yes,yes,1989,1989,N/A,"watch, stainless steel, gold, quartz, calendar, bracelet, textured dial, brushed case, double folding clasp, model Élysées",1,N/A,original,"Chaumet. A stainless steel and gold quartz calendar bracelet watch
+Model: ÃlysÃ©es 
+Date: Circa 1989
+Movement: 7-jewel ETA Cal.955.414 quartz
+Dial: Textured champagne
+Case: Brushed and polished round, No.225847
+Strap/Bracelet: Fitted brushed link
+Buckle/Clasp: Signed double folding clasp
+Signed: Case & dial
+Size: 31mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/73003096-7-1.jpg,https://www.bonhams.com/auction/31991/lot/20/chaumet-a-stainless-steel-and-gold-quartz-calendar-bracelet-watch-elysees-circa-1989/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,625.0,520.8333333333334
+0679a502-36bf-4ab8-8ac6-4e25a9a019c3,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 21,GBP,2000,3000,2560.0,2000,2531.35,3797.02,3240.13,2531.35,Chopard for Kutchinsky,N/A,N/A,Chopard for Kutchinsky. A lady's 18K gold and diamond set manual wind bracelet watch,decorative arts,"18K gold, diamond",N/A,N/A,N/A,N/A,yes,yes,yes,1989,1989,N/A,"bracelet watch, gold, diamonds, champagne dial, manual wind, woven link, 18K gold, signed clasp, round case, bezel",1,N/A,original,"Chopard for Kutchinsky. A lady's 18K gold and diamond set manual wind bracelet watch
+Date: London Import mark for 1989
+Movement: 17-jewel manual wind
+Dial: Champagne
+Case: Polished round, diamond set bezel, No.84335
+Strap/Bracelet: Integral 18K gold smooth woven link
+Buckle/Clasp: Signed 18K gold folding clasp
+Signed: Case & movement signed Chopard, dial signed Kutchinsky
+Size: 19mm",https://images1.bonhams.com/image?src=Images/live/2026-06/11/60161341-2-1.jpg,https://www.bonhams.com/auction/31991/lot/21/chopard-for-kutchinsky-a-ladys-18k-gold-and-diamond-set-manual-wind-bracelet-watch-london-import-mark-for-1989/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,320.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+b3a8ed47-a955-48b8-8ed7-bbff5f6e278b,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 22,GBP,1000,1500,1152.0,900,1265.67,1898.51,1458.06,1139.11,N/A,N/A,N/A,Cyma. A stainless steel manual wind Military issue wristwatch 'Dirty Dozen',decorative arts,"stainless steel, fabric",N/A,N/A,N/A,N/A,yes,yes,yes,1945,1945,N/A,"wristwatch, stainless steel, military, manual wind, black dial, blue fabric strap, vintage, 1945, round case, Cal.234 movement",1,N/A,original,"Cyma. A stainless steel manual wind Military issue wristwatch
+Model: 'Dirty Dozen'
+Date: Circa 1945
+Movement: 15-jewel Cal.234 manual wind, No.382648
+Dial: Black, Broad Arrow
+Case: Brushed and polished round, screw down back engraved 'â W.W.W. P17577 22577'
+Strap/Bracelet: Associated blue fabric
+Buckle/Clasp: Associated steel buckle
+Signed: Dial & movement
+Size: 38mm",https://images1.bonhams.com/image?src=Images/live/2026-06/02/73001938-3-2.jpg,https://www.bonhams.com/auction/31991/lot/22/cyma-a-stainless-steel-manual-wind-military-issue-wristwatch-dirty-dozen-circa-1945/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1438.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+8c6b3851-7cd3-47be-b623-bf3cbd68c695,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 23,GBP,800,1200,1024.0,800,1012.54,1518.81,1296.05,1012.54,N/A,N/A,N/A,Cyma. A stainless steel manual wind Military issue wristwatch 'Dirty Dozen',decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,1945,1945,N/A,"wristwatch, stainless steel, manual wind, military issue, black dial, leather strap, round case, engraved back, folding clasp",1,N/A,original,"Cyma. A stainless steel manual wind Military issue wristwatch
+Model: 'Dirty Dozen'
+Date: Circa 1945
+Movement: 15-jewel Cal.234 manual wind, No.385542
+Dial: Black, broad arrow
+Case: Brushed and polished round, screw down back engraved 'â W.W.W. P12742 17742'
+Strap/Bracelet: Associated black leather
+Buckle/Clasp: Associated black steel double folding clasp
+Signed: Dial & movement
+Size: 38mm",https://images1.bonhams.com/image?src=Images/live/2026-06/17/73003096-4-1.jpg,https://www.bonhams.com/auction/31991/lot/23/cyma-a-stainless-steel-manual-wind-military-issue-wristwatch-dirty-dozen-circa-1945/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1325.0,1104.1666666666667
+50d3e0df-4f69-4879-813a-99f3ac3f26ff,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 24,GBP,500,800,N/A,N/A,632.84,1012.54,N/A,N/A,N/A,N/A,N/A,Ebel. A lady's stainless steel and diamond set quartz bracelet watch,decorative arts,"stainless steel, diamond",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"watch, stainless steel, diamond, quartz, white dial, hexagonal case, bracelet, clasp, gold accents, roman numerals",1,N/A,original,"Ebel. A lady's stainless steel and diamond set quartz bracelet watch
+Date: Circa 1990
+Movement: Jewelled quartz
+Dial: White
+Case: Brushed hexagonal form, diamond set bezel, No.181908
+Strap/Bracelet: Fitted brushed link
+Buckle/Clasp: Brushed sliding clasp
+Signed: Case & dial
+Size: 26mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/60171219-3-1.jpg,https://www.bonhams.com/auction/31991/lot/24/ebel-a-ladys-stainless-steel-and-diamond-set-quartz-bracelet-watch-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,850.0,708.3333333333334
+7e22dd12-042c-4152-88ec-0da815b7e9f4,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 25,GBP,400,600,N/A,N/A,506.27,759.4,N/A,N/A,N/A,N/A,N/A,Girard-Perregaux,decorative arts,"stainless steel, gold, leather",N/A,N/A,N/A,mm,yes,yes,yes,2002,2002,N/A,"wristwatch,gold,stainless steel,automatic calendar,leather strap,silver dial,polished case,roman numerals",1,N/A,original,"Girard-Perregaux. A stainless steel and gold automatic calendar wristwatch
+Model: GP 90
+Reference: 1100
+Date: Circa 2002
+Movement: Jewelled automatic
+Dial: Textured silvered
+Case: Polished round, No.BJ-211
+Strap/Bracelet: Associated black leather
+Buckle/Clasp: Signed steel buckle
+Signed: Case, dial & movement
+Size: 34mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/73003096-8-1.jpg,https://www.bonhams.com/auction/31991/lot/25/girard-perregaux-a-stainless-steel-and-gold-automatic-calendar-wristwatch-gp-90-ref-1100-circa-2002/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,644.74,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+2de3c896-9e78-4a70-a9fe-3deead206182,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 26,GBP,1500,2000,3584.0,2800,1898.51,2531.35,4536.18,3543.89,N/A,N/A,N/A,Grand Seiko. A Limited Edition stainless steel manual wind wristwatch,decorative arts,"stainless steel, alligator leather",N/A,N/A,N/A,mm,yes,yes,yes,2018,2018,Purchased 18th April 2018,"wristwatch, stainless steel, manual wind, black leather strap, white dial, polished round case, signed buckle, limited edition",1,N/A,original,"Grand Seiko. A Limited Edition stainless steel manual wind wristwatch
+Reference: SBGW253
+Date: Purchased 18th April 2018
+Movement: 24-jewel Cal.9S64 manual wind
+Dial: White
+Case: Polished round, No.1529/1960
+Strap/Bracelet: Black Grand Seiko alligator leather
+Buckle/Clasp: Signed stainless steel buckle
+Signed: Case, dial & movement
+Size: 38mm
+ Accompaniments: Grand Seiko box, outer card, Certificate of Guarantee, brochures, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25875336-4-1.jpg,https://www.bonhams.com/auction/31991/lot/26/grand-seiko-a-limited-edition-stainless-steel-manual-wind-wristwatch-ref-sbgw253-purchased-18th-april-2018/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2248.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+1681da0f-db57-4e2b-ac10-fe8b8b024a85,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 27,GBP,2000,3000,3328.0,2600,2531.35,3797.02,4212.16,3290.75,N/A,N/A,N/A,"Grand Seiko. A Limited Edition titanium automatic calendar bracelet watch Hi-Beat 36000 Evolution 9, No.336/500",decorative arts,"titanium, jewelled movement",N/A,N/A,N/A,mm,yes,yes,yes,2017,2017,N/A,"watch, Grand Seiko, automatic, titanium, blue dial, bracelet, Hi-Beat 36000, professional diver, wristwatch, timepiece",1,N/A,original,"Grand Seiko. A Limited Edition titanium automatic calendar bracelet watch
+Model: Hi-Beat 36000 Evolution 9, No.336/500
+Date: Circa 2017
+Movement: Jewelled Cal.9S85 automatic, No.279558
+Dial: Textured blue
+Case: Brushed and polished tonneau form
+Strap/Bracelet: Fitted titanium brushed and polished link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 46mm
+ Accompaniments: Grand Seiko box, outer card, Inspection Certificate, Operating Instruction, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25875336-1-1.jpg,https://www.bonhams.com/auction/31991/lot/27/grand-seiko-a-limited-edition-titanium-automatic-calendar-bracelet-watch-hi-beat-36000-evolution-9-no336500-circa-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3238.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+e7c616b1-2427-4ee9-8114-454adcbc2dfe,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 28,GBP,500,700,704.0,550,632.84,885.97,891.03,696.12,Gucci,N/A,N/A,Gucci. A lady's gold tone quartz bracelet watch with interchangeable bezels,decorative arts,"Gold tone, quartz, polished steel",N/A,N/A,N/A,N/A,yes,yes,yes,1991,1991,Purchased 29th May 1991,"watch, gold tone, bracelet, interchangeable bezels, polished steel, Gucci box, international warranty, brochures",1,N/A,original,"Gucci. A lady's gold tone quartz bracelet watch with interchangeable bezels
+Reference: 11/12
+Date: Purchased 29th May 1991
+Movement: 6-jewel ETA quartz
+Dial: White
+Case: Polished round, interchangeable bezels, No.076144
+Strap/Bracelet: Polished steel bangle
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 26mm
+ Accompaniments: Gucci box, international warranty, brochures, 11 interchangeable bezels",https://images1.bonhams.com/image?src=Images/live/2026-06/26/25869564-2-4.jpg,https://www.bonhams.com/auction/31991/lot/28/gucci-a-ladys-gold-tone-quartz-bracelet-watch-with-interchangeable-bezels-ref-1112-purchased-29th-may-1991/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,648.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+32aeb895-9021-42d4-9002-48a258ae320f,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 29,GBP,2000,3000,2816.0,2200,2531.35,3797.02,3564.14,2784.48,N/A,N/A,N/A,Hermès. A lady's 18K rose gold diamond set quartz wristwatch with mother of pearl dial,decorative arts,"18K rose gold, diamond, quartz, mother of pearl, alligator leather",N/A,N/A,N/A,mm,yes,yes,yes,2013,2013,Purchased 9th August 2013,"watch, diamond, mother of pearl, rose gold, alligator leather, rectangular case, Arabic numerals, quartz movement, strap, luxury",1,N/A,original,"HermÃ¨s. A lady's 18K rose gold diamond set quartz wristwatch with mother of pearl dial
+Model: Cape Cod
+Reference: CC1.272
+Date: Purchased 9th August 2013
+Movement: 6-jewel ETA Cal.976.001 quartz
+Dial: Mother of pearl, gilt Arabic numeral hour markers, rose gilt baton hands
+Case: Brushed and polished rectangular, back secured by 4 screws, diamond set bezel, curved openwork diamond set lugs, No.2974163
+Strap/Bracelet: Black HermÃ¨s alligator leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case & dial
+Size: 23mm
+ Accompaniments: HermÃ¨s box, outer card, International guarantee, instructions for use",https://images1.bonhams.com/image?src=Images/live/2026-04/23/25839341-1-1.jpg,https://www.bonhams.com/auction/31991/lot/29/hermes-a-ladys-18k-rose-gold-diamond-set-quartz-wristwatch-with-mother-of-pearl-dial-cape-cod-ref-cc1272-purchased-9th-august-2013/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3208.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335
+2499f75f-1095-46d0-bb8e-fba810eaac51,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 30,GBP,800,1200,1024.0,800,1012.54,1518.81,1296.05,1012.54,N/A,N/A,N/A,Heuer. A chrome plated manual wind dashboard clock Autavia,decorative arts,"chrome plated, wood",N/A,6,10,cm,yes,yes,yes,1933,1933,N/A,"dashboard clock, chrome, black dial, manual wind, polished case, wood base, Heuer, Autavia, vintage, jewelry movement",1,N/A,original,"Heuer. A chrome plated manual wind dashboard clock
+Model: Autavia 
+Date: Circa 1933
+Movement: Jewelled manual wind
+Dial: Black
+Case: Polished round, mounted on wood
+Signed: Case & dial
+Size: 10cm x 6cm",https://images1.bonhams.com/image?src=Images/live/2026-06/17/25876363-1-1.jpg,https://www.bonhams.com/auction/31991/lot/30/heuer-a-chrome-plated-manual-wind-dashboard-clock-autavia-circa-1933/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1325.0,1104.1666666666667
+1b6de2fa-6467-4842-82ed-117f6f951060,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 31,GBP,700,900,1088.0,850,885.97,1139.11,1377.05,1075.82,N/A,N/A,N/A,International Watch Co. A 9K gold manual wind wristwatch,decorative arts,"9K gold, lizard leather",N/A,N/A,N/A,mm,yes,yes,yes,1956,1956,N/A,"watch, gold, black, manual wind, leather, wristwatch, engraving, Birmingham, vintage, 1956",1,N/A,original,"International Watch Co. A 9K gold manual wind wristwatch
+Date: Birmingham Hallmark for 1956
+Movement: Jewelled manual wind, No.1302054
+Dial: Black
+Case: Polished round, personal engraving to back, No.751346
+Strap/Bracelet: Associated black lizard leather
+Buckle/Clasp: Associated gilt folding clasp
+Signed: Dial & movement, case stamped A.L.D
+Size: 33mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/73003096-11-1.jpg,https://www.bonhams.com/auction/31991/lot/31/international-watch-co-a-9k-gold-manual-wind-wristwatch-birmingham-hallmark-for-1956/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1025.0,854.1666666666667
+e9252c65-1c18-427a-80b7-68e515ba830f,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 32,GBP,800,1200,409.6,320,1012.54,1518.81,518.42,405.02,N/A,N/A,N/A,Jaeger-LeCoultre. A gilt brass Atmos clock,decorative arts,gilt brass,16,21,23.5,cm,yes,yes,yes,1970,1970,N/A,"clock, gilt brass, glass, dial, Atmos, movement, numbers, presentation plaque, mechanisms, design",1,N/A,original,"Jaeger-LeCoultre. A gilt brass Atmos clock
+Date: Circa 1970
+Movement: 15-jewel Cal.528/1, No.527694
+Dial: White
+Case: Gilt brass, presentation plaque to front
+Signed: Dial & movement
+Size: 21cm wide x 16cm deep x 23.5cm high",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25874526-5-1.jpg,https://www.bonhams.com/auction/31991/lot/32/jaeger-lecoultre-a-gilt-brass-atmos-clock-circa-1970/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1287.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1300.0,1083.3333333333335
+3e924e69-8dcf-47d4-a259-2dbc523b76f9,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 33,GBP,600,800,960.0,750,759.4,1012.54,1215.05,949.26,N/A,N/A,N/A,Jaeger-LeCoultre. A stainless steel automatic calendar wristwatch with alarm,decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,1960,1969,N/A,"wristwatch, stainless steel, automatic, calendar, alarm, model Memovox, blue leather strap, two-tone dial, vintage",1,N/A,original,"Jaeger-LeCoultre. A stainless steel automatic calendar wristwatch with alarm
+Model: Memovox
+Date: Circa 1969
+Movement: Jewelled Cal.K825 bumper automatic, No.1629916
+Dial: Two tone silvered
+Case: Polished round, No.912792
+Strap/Bracelet: Associated blue leather 
+Buckle/Clasp: Associated steel buckle
+Signed: Case, dial & movement 
+Size: 37mm",https://images1.bonhams.com/image?src=Images/live/2026-04/12/73002762-3-1.jpg,https://www.bonhams.com/auction/31991/lot/33/jaeger-lecoultre-a-stainless-steel-automatic-calendar-wristwatch-with-alarm-memovox-circa-1969/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1054.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,900.0,750.0
+3c29e45e-82a6-4ea6-bf3f-10d46f1a7949,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 34,GBP,500,700,563.2,440,632.84,885.97,712.83,556.9,N/A,N/A,N/A,Jaeger-LeCoulture. A lady's stainless steel manual wind wristwatch Etrier,decorative arts,"stainless steel, crocodile leather",N/A,35,19.5,mm,yes,yes,yes,1970,1970,N/A,"lady's wristwatch, stainless steel, manual wind, black leather strap, silver dial, brushed case, polished case",1,N/A,original,"Jaeger-LeCoulture. A lady's stainless steel manual wind wristwatch
+Model: Etrier
+Reference: 1670
+Date: Circa 1970
+Movement: 17-jewel Cal.840 manual wind, No.977
+Dial: Sunburst silvered
+Case: Brushed and polished stirrup form, No.1257047
+Strap/Bracelet: Associated black crocodile leather
+Buckle/Clasp: Associated steel buckle
+Signed: Case, dial & movement
+Size: 19.5mm x 35mm",https://images1.bonhams.com/image?src=Images/live/2026-06/05/73001896-9-1.jpg,https://www.bonhams.com/auction/31991/lot/34/jaeger-lecoulture-a-ladys-stainless-steel-manual-wind-wristwatch-etrier-ref-1670-circa-1970/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,760.0,633.3333333333334
+c86a7d2d-1af8-4e17-a818-0653dedcbdbd,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 35,GBP,500,700,640.0,500,632.84,885.97,810.03,632.84,Kutchinsky,N/A,N/A,Kutchinsky. A stainless steel quartz calendar chronograph bracelet watch,decorative arts,"stainless steel, quartz",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"watch, stainless steel, quartz, chronograph, bracelet, dial, chronograph, grid pattern, folding clasp, calendar",1,N/A,original,"Kutchinsky. A stainless steel quartz calendar chronograph bracelet watch
+Date: Circa 2000
+Movement: 4-jewel ETA quartz
+Dial: Silvered grid
+Case: Brushed and polished tonneau form, No.467.496
+Strap/Bracelet: Fitted stainless steel brick link
+Buckle/Clasp: Folding clasp
+Signed: Case & dial
+Size: 42mm
+ Accompaniments: Kutchinsky box, outer card, four spare links",https://images1.bonhams.com/image?src=Images/live/2026-06/18/73003096-14-3.jpg,https://www.bonhams.com/auction/31991/lot/35/kutchinsky-a-stainless-steel-quartz-calendar-chronograph-bracelet-watch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.24,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,759.0,632.5
+0e7f3621-c8ea-4485-8440-571370b0331f,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 36,GBP,700,900,N/A,N/A,885.97,1139.11,N/A,N/A,N/A,N/A,N/A,Le-Coultre,decorative arts,"10K gold filled, leather",N/A,N/A,N/A,mm,yes,yes,yes,1960,1960,N/A,"wristwatch, gold, lizard-effect leather strap, alarm, manual wind, two-tone dial, round case, polished finish, gilt clasp, vintage",1,N/A,original,"Le-Coultre. A 10K gold filled manual wind wristwatch with alarm
+Model: Memovox 
+Date: Circa 1960
+Movement: 17-jewel Cal.814 manual wind, No.1099014
+Dial: Two-tone silvered
+Case: Polished round, crowns at 2 and for hand setting and alarm, No.3037674
+Strap/Bracelet: Associated brown lizard-effect leather
+Buckle/Clasp: Associated gilt double folding clasp
+Signed: Case, dial & movement
+Size: 35mm",https://images1.bonhams.com/image?src=Images/live/2026-06/18/73003096-3-3.jpg,https://www.bonhams.com/auction/31991/lot/36/le-coultre-a-10k-gold-filled-manual-wind-wristwatch-with-alarm-memovox-circa-1960/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1025.0,854.1666666666667
+d30fe4e1-a08b-4065-afba-b903914d6762,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 37,GBP,1000,1500,1408.0,1100,1265.67,1898.51,1782.07,1392.24,Lip,N/A,N/A,Lip. A lady's continental gold and diamond set manual wind bracelet watch with concealed dial,decorative arts,"Gold, diamond, silver",N/A,N/A,15,mm,yes,yes,yes,1960,1960,N/A,"bracelet watch, gold, diamond, manual wind, concealed dial, textured strap, round case, jeweled movement, vintage, luxury",1,N/A,original,"Lip. A lady's continental gold and diamond set manual wind bracelet watch with concealed dial
+Date: Circa 1960
+Movement: Jewelled manual wind
+Dial: Silvered
+Case: Polished round, textured cover, diamond set lugs, No.1389
+Strap/Bracelet: Textured continental gold link
+Buckle/Clasp: Continental gold folding clasp
+Signed: Case, dial & movement
+Size: 15mm
+ Accompaniments: Lip box",https://images1.bonhams.com/image?src=Images/live/2026-04/20/25839484-1-1.jpg,https://www.bonhams.com/auction/31991/lot/37/lip-a-ladys-continental-gold-and-diamond-set-manual-wind-bracelet-watch-with-concealed-dial-circa-1960/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1448.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1575.0,1312.5
+5eb5c430-a479-4c66-858c-8174588da4c0,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 38,GBP,400,600,768.0,600,506.27,759.4,972.04,759.4,N/A,N/A,N/A,Longines,decorative arts,"stainless steel, camo fabric",N/A,N/A,N/A,N/A,yes,no,yes,2019,2019,Purchased 20th March 2019,"wristwatch, stainless steel, cream dial, camouflage strap, blue hands",1,N/A,original,"Longines. A stainless steel automatic wristwatch
+Model: Heritage Military 
+Reference: L2.819.4
+Date: Purchased 20th March 2019
+Movement: Jewell Cal.L888.5 automatic
+Dial: Speckled cream
+Case: Brushed and polished round, No.49824549
+Strap/Bracelet: Associated camo fabric
+Buckle/Clasp: Associated steel buckle
+Signed: Case, dial & movement
+Size: 38mm
+ Accompaniments: Longines box, outer card, strap removal tool, Instructions for use, International Warranty card",https://images1.bonhams.com/image?src=Images/live/2026-05/12/25848606-4-5.jpg,https://www.bonhams.com/auction/31991/lot/38/longines-a-stainless-steel-automatic-wristwatch-heritage-military-ref-l28194-purchased-20th-march-2019/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+1d227f07-944a-4faa-ae52-59bb3070a02f,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 39,GBP,1000,1500,1536.0,1200,1265.67,1898.51,1944.08,1518.81,Michel Perchin,N/A,N/A,Michel Perchin for Fabergé. A Limited Edition silver and blue enamel fountain pen No.1 of 1000,decorative arts,"silver, blue enamel, 18K gold",N/A,N/A,N/A,N/A,no,yes,yes,1997,1997,N/A,"fountain pen, silver, blue enamel, box, certificate of authenticity, polishing cloth, ink cartridges",1,N/A,original,"Michel Perchin for FabergÃ©. A Limited Edition silver and blue enamel fountain pen
+18K gold nib
+ Model: No.1 of 1000
+Date: Circa 1997
+Accompaniments: Michel Perchin box, outer card, undated Certificate of Authenticity, polishing cloth, spare ink cartridges",https://images1.bonhams.com/image?src=Images/live/2026-06/24/60161360-1-2.jpg,https://www.bonhams.com/auction/31991/lot/39/michel-perchin-for-faberge-a-limited-edition-silver-and-blue-enamel-fountain-pen-no1-of-1000-circa-1997/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1496.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+8ab0d1a6-9fe9-4bb7-8fa9-fe07659c092c,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 40,GBP,1500,2000,1664.0,1300,1898.51,2531.35,2106.08,1645.38,N/A,N/A,N/A,Montre Royale,decorative arts,"18K gold, diamond, Tiger's Eye, alligator leather",N/A,34,31,mm,yes,yes,yes,1976,1976,N/A,"watch, gold, diamond, Tiger's Eye, bracelet, 18K, alligator leather, oval form, manual wind, luxury",1,N/A,original,"Montre Royale. An 18K gold diamond set manual wind bracelet watch with Tiger's Eye dial
+Reference: 3246
+Date: London Hallmark for 1976
+Movement: 17-jewel manual wind, No.21661
+Dial: Tiger's Eye, gilt lance hands
+Case: Brushed and polished oval form, snap on back, diamond set decoration to bezel, No.57601
+Strap/Bracelet: Brown Montre Royale alligator leather
+Buckle/Clasp: Signed 18K gold buckle
+Signed: Dial & movement
+Size: 31mm x 34mm",https://images1.bonhams.com/image?src=Images/live/2026-04/23/73002125-3-1.jpg,https://www.bonhams.com/auction/31991/lot/40/montre-royale-an-18k-gold-diamond-set-manual-wind-bracelet-watch-with-tigers-eye-dial-ref-3246-london-hallmark-for-1976/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2410.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+83ee3f88-caf8-4abb-bd0e-c9ae2e855c8e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 41,GBP,700,900,1408.0,1100,885.97,1139.11,1782.07,1392.24,N/A,N/A,N/A,Movado,decorative arts,stainless steel,N/A,N/A,N/A,N/A,yes,yes,yes,1940,1940,N/A,"watch, stainless steel, manual wind, triple calendar, moon phase, dial, two tone, polished round, bracelet, clasp",1,N/A,original,"Movado. A stainless steel manual wind triple calendar bracelet watch with moon phase
+Date: Circa 1940
+Movement: Jewelled manual wind
+Dial: Two tone silvered
+Case: Polished round, No.9113
+Strap/Bracelet: Associated stainless steel link
+Buckle/Clasp: Associated stainless steel double folding clasp
+Signed: Case, dial & movement
+Size: 34mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/73003096-6-1.jpg,https://www.bonhams.com/auction/31991/lot/41/movado-a-stainless-steel-manual-wind-triple-calendar-bracelet-watch-with-moon-phase-circa-1940/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1025.0,854.1666666666667
+b6533b5e-920f-484d-aa31-c11f45990960,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 42,GBP,1500,2000,2304.0,1800,1898.51,2531.35,2916.11,2278.21,N/A,N/A,N/A,Omega. A lady's 18K white gold diamond set automatic bracelet watch,decorative arts,"18K white gold, diamond",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"watch, jewelry, diamonds, white gold, automatic, bracelet, round, silver, luxury",1,N/A,original,"Omega. A lady's 18K white gold diamond set automatic bracelet watch
+Model: De Ville
+Date: Circa 1990
+Movement: 24-jewel Cal.661 automatic, No.31027234
+Dial: Silvered
+Case: Brushed and polished round, diamond set bezel
+Strap/Bracelet: Integral 18K white gold link
+Buckle/Clasp: 18K white gold folding clasp
+Signed: Dial & movement
+Size: 18mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/73002837-2-1.jpg,https://www.bonhams.com/auction/31991/lot/42/omega-a-ladys-18k-white-gold-diamond-set-automatic-bracelet-watch-de-ville-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2410.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+fc41efef-7c37-4143-8537-01f59bcef300,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 43,GBP,500,700,435.2,340,632.84,885.97,550.82,430.33,N/A,N/A,N/A,Omega,decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,1954,1954,N/A,"wristwatch, stainless steel, manual wind, light pink dial, round case, black leather strap, steel buckle, Omega Seamaster, mid-size",1,N/A,original,"Omega. A mid-size stainless steel manual wind wristwatch
+Reference: 2814-5SC
+Date: Circa 1954
+Movement: 17-jewels Cal.420 manual wind, No.16207895
+Dial: Light pink
+Case: Brushed and polished round
+Strap/Bracelet: Associated non-Omega black leather
+Buckle/Clasp: Associated non-Omega steel buckle
+Signed: Case, dial & movement
+Size: 32mm",https://images1.bonhams.com/image?src=Images/live/2026-06/02/60150272-1-1.jpg,https://www.bonhams.com/auction/31991/lot/43/omega-a-mid-size-stainless-steel-manual-wind-wristwatch-ref-2814-5sc-circa-1954/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+a51929f0-28a6-40e9-95e4-9b344c0fd7a3,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 44,GBP,500,700,N/A,N/A,632.84,885.97,N/A,N/A,N/A,N/A,N/A,Omega,decorative arts,"stainless steel, gold",N/A,N/A,N/A,mm,yes,yes,yes,1970,1970,N/A,"watch, stainless steel, gold, automatic, bracelet, Constellation, dial, case, strap, clasp",1,N/A,original,"Omega. A stainless steel and gold automatic bracelet watch
+Model: Constellation
+Reference: 155.0022 355.0815
+Date: Circa 1970
+Movement: 24-jewel Cal.711 automatic, No.36992418
+Dial: Bronzed
+Case: Brushed and polished tonneau form
+Strap/Bracelet: Fitted brushed link with gilt accents
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 31mm",https://images1.bonhams.com/image?src=Images/live/2026-06/05/73001896-8-1.jpg,https://www.bonhams.com/auction/31991/lot/44/omega-a-stainless-steel-and-gold-automatic-bracelet-watch-constellation-ref-1550022-3550815-circa-1970/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+538b8b1a-f311-46e3-a4ea-3f97a59d6399,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 45,GBP,300,500,N/A,N/A,379.7,632.84,N/A,N/A,N/A,N/A,N/A,Omega,decorative arts,stainless steel,N/A,N/A,N/A,mm,yes,yes,yes,1955,1955,N/A,"watch, stainless steel, calendar, automatic, Seamaster, model 2849-3 SC, movement, dial, bracelet",1,N/A,original,"Omega. A stainless steel automatic calendar bracelet watch
+Model: Seamaster Calendar
+Reference: 2849-3 SC
+Date: Circa 1955
+Movement: 20-jewel Cal.503 automatic, No.15227990
+Dial: Sunburst silvered
+Case: Polished round
+Strap/Bracelet: Associated non-Omega, stainless steel beads of rice link
+Buckle/Clasp: Associated non-Omega, stainless steel folding clasp
+Signed: Case, dial & movement
+Size: 34mm",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25866465-14-1.jpg,https://www.bonhams.com/auction/31991/lot/45/omega-a-stainless-steel-automatic-calendar-bracelet-watch-seamaster-calendar-ref-2849-3-sc-circa-1955/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,483.21,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,450.0,375.0
+a7af41f3-3d34-4b56-bd8c-bec035c61d76,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 46,GBP,300,500,N/A,N/A,379.7,632.84,N/A,N/A,N/A,N/A,N/A,Patek Philippe. A lot of two brown leather vide poche (2),decorative arts,brown leather,N/A,18,18,cm,no,yes,yes,2010,2010,N/A,"brown leather, vide poche, square shape, decorative trays",2,N/A,original,"Patek Philippe. A lot of two brown leather vide poche (2)
+Date: Circa 2010
+Size: 18cm x 18cm each",https://images1.bonhams.com/image?src=Images/live/2026-04/20/73001544-2-1.jpg,https://www.bonhams.com/auction/31991/lot/46/patek-philippe-a-lot-of-two-brown-leather-vide-poche-2-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,447.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,506.0,421.6666666666667
+fddd0a36-5445-4bf8-a5d1-1ac9d4d44882,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 47,GBP,100,200,307.2,240,126.57,253.13,388.82,303.76,N/A,N/A,N/A,Patek Philippe. A lot of accessories (6),decorative arts,"brown leather, brown suede leather, red suede leather, white velvet, polishing cloth",N/A,N/A,N/A,N/A,no,yes,yes,N/A,N/A,N/A,"leather case, leather service case, suede pouch, red suede pouch, velvet pouch, polishing cloth",1,N/A,original,"Patek Philippe. A lot of accessories (6)
+Comprising of:
+
+A brown leather case
+
+A brown leather service case
+
+A brown suede leather pouch 
+
+A red suede leather pouch
+
+A white velvet pouch
+
+Polishing cloth
+
+ Date: Various dates",https://images1.bonhams.com/image?src=Images/live/2026-04/23/73001544-4-2.jpg,https://www.bonhams.com/auction/31991/lot/47/patek-philippe-a-lot-of-accessories-6-various-dates/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,147.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,190.0,158.33333333333334
+ce89ecb1-5e74-47a2-8e52-fa3234caabe4,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 48,GBP,100,200,204.8,160,126.57,253.13,259.21,202.51,N/A,N/A,N/A,Patek Philippe. A lot of desk accessories (8),decorative arts,"brown suede leather, polishing cloth, leather",N/A,N/A,N/A,N/A,no,yes,yes,2004,2009,N/A,"brochures, pouches, polishing cloths, gloves, service case",8,N/A,original,"Patek Philippe. A lot of desk accessories (8)
+Comprising of:
+
+Collection 2004 E brochure
+
+Collection 2008-2009 brochure
+
+Two brown suede leather pouches
+
+Two polishing cloths 
+
+A pair of gloves
+
+A brown leather service case
+
+ Date: Various dates",https://images1.bonhams.com/image?src=Images/live/2026-04/20/73001544-5-1.jpg,https://www.bonhams.com/auction/31991/lot/48/patek-philippe-a-lot-of-desk-accessories-8-various-dates/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,147.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,190.0,158.33333333333334
+2ff4cc84-7ad1-4e2a-b306-3a4b58cc4286,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 49,GBP,6000,8000,8320.0,6500,7594.05,10125.4,10530.41,8226.88,N/A,N/A,N/A,Patek Philippe,decorative arts,"18K gold, alligator leather",N/A,N/A,N/A,mm,yes,yes,yes,1999,1999,N/A,"wristwatch, gold, Patek Philippe, Calatrava, calendar, black leather strap, white dial, Roman numerals, automatic movement, hobnail bezel",1,N/A,original,"Patek Philippe. An 18K gold automatic calendar wristwatch
+Model: Calatrava
+Reference: 3802/200
+Date: Circa 1999
+Movement: 30-jewel Cal.315/190 automatic, No.3019833
+Dial: White
+Case: Brushed and polished round, hobnail engraved bezel, No.4148790
+Strap/Bracelet: Black Patek Philippe alligator leather
+Buckle/Clasp: Signed 18K gold buckle
+Signed: Case, dial & movement
+Size: 33mm",https://images1.bonhams.com/image?src=Images/live/2026-06/05/25871176-1-1.jpg,https://www.bonhams.com/auction/31991/lot/49/patek-philippe-an-18k-gold-automatic-calendar-wristwatch-calatrava-ref-3802200-circa-1999/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9638.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9120.0,7600.0
+fc206581-1fb0-4ef6-9724-19e4564aa4d5,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 50,GBP,1000,1500,3328.0,2600,1265.67,1898.51,4212.16,3290.75,N/A,N/A,N/A,Quinting. An unusual stainless steel quartz calendar chronograph wristwatch,decorative arts,"stainless steel, quartz, leather",N/A,N/A,N/A,mm,yes,yes,yes,2010,2010,N/A,"watch, chronograph, stainless steel, quartz, black leather strap, exhibition back, calendar markers, subsidiary dials, polished sword hands, luminous inserts",1,N/A,original,"Quinting. An unusual stainless steel quartz calendar chronograph wristwatch
+Model: Mysterious Chronograph
+Date: Circa 2010
+Movement: Jewelled quartz
+Dial: Transparent, silvered outer minute divisions, raised outer calendar markers, subsidiary dials at 3, 6 and 9 for seconds, 30 minute and 12 hour recording, polished sword hands with luminous inserts, arrow tipped calendar hand
+Case: Polished round, exhibition back secured by 4 screws, crown flanked by twin screw down chronograph pushers, quick set button at 8, No.0068-04
+Strap/Bracelet: Black leather
+Buckle/Clasp: Signed double folding clasp
+Signed: Case & dial
+Size: 43mm",https://images1.bonhams.com/image?src=Images/live/2026-03/04/25832816-14-1.jpg,https://www.bonhams.com/auction/31991/lot/50/quinting-an-unusual-stainless-steel-quartz-calendar-chronograph-wristwatch-mysterious-chronograph-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1496.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1580.0,1316.6666666666667
+dfc710d0-2ff2-401e-ac94-57a479fd63d2,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 51,GBP,1500,2000,7040.0,5500,1898.51,2531.35,8910.35,6961.21,N/A,N/A,N/A,Rolex,decorative arts,chrome plated,N/A,40,25,mm,yes,yes,yes,1930,1930,N/A,"watch, chrome plated, manual wind, purse watch, C. Bucherer, Sporting Princess, silvered dial, rectangular case, vintage",1,N/A,original,"Rolex. A chrome plated manual wind purse watch retailed by C. Bucherer
+Model: Sporting Princess
+Date: Circa 1930
+Movement: 15-jewel manual wind, No.73898
+Dial: Silvered, signed C.Bucherer's
+Case: Brushed rectangular
+Signed: Case, dial & movement
+Size: 25mm x 40mm",https://images1.bonhams.com/image?src=Images/live/2026-06/17/73002427-1-1.jpg,https://www.bonhams.com/auction/31991/lot/51/rolex-a-chrome-plated-manual-wind-purse-watch-retailed-by-c-bucherer-sporting-princess-circa-1930/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,241.69,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+db05d8d5-d60b-4774-88da-b87bfd172db4,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 52,GBP,1000,1500,2560.0,2000,1265.67,1898.51,3240.13,2531.35,N/A,N/A,N/A,Rolex,decorative arts,"stainless steel, gold",N/A,N/A,N/A,mm,yes,yes,yes,1978,1978,"Rolex service pouch, International Service Guarantee dated 7th June 2017","ladies watch, stainless steel, gold, automatic, bracelet, Rolex, champagne dial, calendar, Jubilee link, vintage",1,N/A,original,"Rolex. A lady's stainless steel and gold automatic calendar bracelet watch
+Model: Oyster Perpetual Date
+Reference: 6917/3
+Date: Circa 1978
+Movement: 28-jewel Cal.2030 automatic, No.19936
+Dial: Sunburst champagne
+Case: Brushed and polished tonneau form, No.5220070
+Strap/Bracelet: Stainless steel and gold Jubilee link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 26mm
+ Accompaniments: Rolex service pouch, International Service Guarantee dated 7th June 2017",https://images1.bonhams.com/image?src=Images/live/2026-06/11/73001896-7-2.jpg,https://www.bonhams.com/auction/31991/lot/52/rolex-a-ladys-stainless-steel-and-gold-automatic-calendar-bracelet-watch-oyster-perpetual-date-ref-69173-circa-1978/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+8a0cd149-4c5d-47a0-af15-3be5be674c94,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 53,GBP,500,700,768.0,600,632.84,885.97,972.04,759.4,N/A,N/A,N/A,Rolex,decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,1942,1942,N/A,"wristwatch, stainless steel, manual wind, Rolex, dial, polished case, black leather strap, engraving, movement, silver",1,N/A,original,"Rolex. A stainless steel manual wind wristwatch
+Model: Oyster
+Reference: 2280
+Date: Circa 1942
+Movement: 17-jewel manual wind
+Dial: Silvered
+Case: Polished tonneau form, personal engraving to back, No.153471
+Strap/Bracelet: Associated black croc-effect leather
+Buckle/Clasp: Associated steel buckle
+Signed: Case, dial & movement
+Size: 30mm",https://images1.bonhams.com/image?src=Images/live/2026-06/17/25873867-1-1.jpg,https://www.bonhams.com/auction/31991/lot/53/rolex-a-stainless-steel-manual-wind-wristwatch-oyster-ref-2280-circa-1942/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+56b4b310-734a-4737-8fd5-8f5a9fa239f3,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 54,GBP,1000,1500,1536.0,1200,1265.67,1898.51,1944.08,1518.81,N/A,N/A,N/A,Rolex,decorative arts,stainless steel,N/A,N/A,N/A,mm,yes,yes,yes,1971,1971,N/A,"watch, stainless steel, manual wind, calendar, bracelet, Oysterdate, Precision, reference 6694, silvered dial, 1971",1,N/A,original,"Rolex. A stainless steel manual wind calendar bracelet watch
+Model: Oysterdate Precision
+Reference: 6694
+Date: Circa 1971
+Movement: 17-jewel Cal.1225 manual wind
+Dial: Silvered
+Case: Brushed and polished tonneau form, inside back date coded IV.70, No.2660571
+Strap/Bracelet: Brushed 7835 19 Oyster link
+Buckle/Clasp: Signed folding clasp, stamped 2 71
+Signed: Case, dial & movement
+Size: 35mm",https://images1.bonhams.com/image?src=Images/live/2026-02/13/73002570-1-3.jpg,https://www.bonhams.com/auction/31991/lot/54/rolex-a-stainless-steel-manual-wind-calendar-bracelet-watch-oysterdate-precision-ref-6694-circa-1971/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1496.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+7e2f52f7-defc-466e-b1f4-be119ca25fd4,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 55,GBP,5000,7000,6400.0,5000,6328.37,8859.72,8100.32,6328.37,N/A,N/A,N/A,Rolex,decorative arts,"18K rose gold, alligator leather",N/A,N/A,N/A,mm,yes,no,yes,1803,1556,N/A,"wristwatch, rose gold, automatic, calendar, Day-Date, sigma dial, leather strap, brushed, polished, case",1,N/A,original,"Rolex. An 18K rose gold automatic calendar wristwatch with sigma dialÂ 
+Model: Day-Date
+Reference: 1803
+Movement: 26-jewel Cal.1556 automatic, No.DD989715
+Dial: Sunburst silvered
+Case: Brushed and polished tonneau form, personal engraving to back, No.1693642
+Strap/Bracelet: Associated brown alligator leather
+Buckle/Clasp: Signed gold plated buckle
+Signed: Case, dial & movement
+Size: 36mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25863006-2-1.jpg,https://www.bonhams.com/auction/31991/lot/55/rolex-an-18k-rose-gold-automatic-calendar-wristwatch-with-sigma-dial-day-date-ref-1803/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7388.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+45ec7cb5-aae9-40fd-8396-76217de5b171,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 56,GBP,1500,2000,5120.0,4000,1898.51,2531.35,6480.25,5062.7,N/A,N/A,N/A,Rolex,decorative arts,"18K white gold, alligator leather",N/A,32,25,mm,yes,yes,yes,1975,1975,N/A,"wristwatch, Rolex, white gold, manual wind, rectangular case, black leather strap, white dial, Roman numerals, luxury item, vintage",1,N/A,original,"Rolex. An 18K white gold manual wind wristwatch
+Model: Cellini
+Reference: 4016/9
+Date: Circa 1975
+Movement: Jewelled manual wind
+Dial: White
+Case: Brushed and polished rectangular, No.3799768
+Strap/Bracelet: Black Rolex alligator leather
+Buckle/Clasp: Signed steel buckle
+Signed: Case, dial & movement
+Size: 25mm x 32mm
+ Accompaniments: Rolex box, leather pouch (AF), Rolex service pouch, Rolex handkerchief, Rolex service receipt dated 5th September 2013, International Service Guarantee card dated 5th September 2013, spare black Rolex crocodile leather strap",https://images1.bonhams.com/image?src=Images/live/2026-06/17/73003096-9-3.jpg,https://www.bonhams.com/auction/31991/lot/56/rolex-an-18k-white-gold-manual-wind-wristwatch-cellini-ref-40169-circa-1975/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2417.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+dd3d0f67-8e15-4a85-b889-eb393fb3cff4,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 57,GBP,2500,3500,N/A,N/A,3164.19,4429.86,N/A,N/A,Romain Jerome,N/A,N/A,"Romain Jerome. A Limited Edition stainless steel automatic chronograph wristwatch Steampunk Metal Chrono, Titanic DNA Collection, No.0439/2012",decorative arts,"stainless steel, leather",N/A,N/A,50,mm,yes,no,yes,439,2019,Purchased 24th April 2019,"wristwatch, stainless steel, chronograph, automatic, skeletonised dial, leather strap, Romain Jerome, Steampunk, Titanic DNA, limited edition",1,N/A,original,"Romain Jerome. A Limited Edition stainless steel automatic chronograph wristwatch
+Model: Steampunk Metal Chrono, Titanic DNA Collection,Â No.0439/2012
+Reference: RJ.T.CH.SP.001.01
+Date: Purchased 24th April 2019
+Movement: Jewelled automatic
+Dial: Skeletonised
+Case: Brushed and polished round, No.602581
+Strap/Bracelet: Black Romain Jerome leather
+Buckle/Clasp: Signed stainless steel folding clasp
+Signed: Case, dial & movement
+Size: 50mm
+ Accompaniments: Romain Jerome box, outer card, International Warranty card, spare camo print leather strap",https://images1.bonhams.com/image?src=Images/live/2026-06/18/25876026-1-3.jpg,https://www.bonhams.com/auction/31991/lot/57/romain-jerome-a-limited-edition-stainless-steel-automatic-chronograph-wristwatch-steampunk-metal-chrono-titanic-dna-collection-no04392012-ref-rjtchsp00101-purchased-24th-april-2019/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3838.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3700.0,3083.3333333333335
+7626af42-086d-44ef-87fc-202302e7fa2e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 58,GBP,500,700,960.0,750,632.84,885.97,1215.05,949.26,Romain Jerome,N/A,N/A,"Romain Jerome. A plastic and stainless steel quartz wall clock Space Invaders, Ref: X.POS.029",decorative arts,"plastic, stainless steel",N/A,N/A,43,cm,yes,yes,yes,2010,2010,N/A,"wall clock, quartz, black plastic, stainless steel, Space Invaders, pixelated, luminous figures, spacecraft, multi-level dial",1,N/A,original,"Romain Jerome. A plastic and stainless steel quartz wall clock
+Model: Space Invaders
+Reference: X.POS.029
+Date: Circa 2010
+Movement: Quartz, battery-operated
+Dial: Multi-level black dial decorated with pixelated Space Invaders motif, luminous Super-LumiNova invader figures and spacecraft
+Case: Circular black plastic and stainless steel
+Signed: Dial
+Size: Approx. 43cm
+ Accompaniments: Romain Jerome box",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25876026-2-1.jpg,https://www.bonhams.com/auction/31991/lot/58/romain-jerome-a-plastic-and-stainless-steel-quartz-wall-clock-space-invaders-ref-xpos029-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+bb54e83b-084f-45b9-bd5c-46183dae3079,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 59,GBP,500,700,1024.0,800,632.84,885.97,1296.05,1012.54,N/A,N/A,N/A,"Seiko. A Limited Edition automatic calendar bracelet watch Marinemaster, No.159/200",decorative arts,"Brushed and polished stainless steel, Jewelled automatic movement",N/A,N/A,N/A,mm,yes,yes,yes,2017,2017,Purchased 7th March 2017,"watch, Seiko, blue dial, bracelet, automatic movement, professional, stainless steel, luminous markers, tonneau form, signed clasp",1,N/A,original,"Seiko. A Limited Edition automatic calendar bracelet watch
+Model: Marinemaster, No.159/200
+Date: Purchased 7th March 2017
+Movement: Jewelled automatic
+Dial: Sunburst blue
+Case: Brushed and polished tonneau form
+Strap/Bracelet: Fitted brushed link 
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 44mm
+ Accompaniments: Seiko box, outer card, brochures, Certificate of Guarantee, two spare links",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25875336-6-1.jpg,https://www.bonhams.com/auction/31991/lot/59/seiko-a-limited-edition-automatic-calendar-bracelet-watch-marinemaster-no159200-purchased-7th-march-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+1a018fdd-0355-4765-bdb9-73376c2438f9,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 60,GBP,500,700,896.0,700,632.84,885.97,1134.04,885.97,N/A,N/A,N/A,Seiko. A Limited Edition titanium quartz calendar wristwatch,decorative arts,"titanium, quartz, leather, steel",N/A,N/A,N/A,mm,yes,yes,yes,2017,2017,Purchased 31st July 2017,"wristwatch, quartz, titanium, calendar, black leather, black dial, steel clasp",1,N/A,original,"Seiko. A Limited Edition titanium quartz calendar wristwatch
+Model: Quartz Astron, No.120/200
+Date: Purchased 31st July 2017
+Movement: 9-jewel Cal.9F62A quartz
+Dial: Black
+Case: Brushed and polished tonneau form
+Strap/Bracelet: Associated black leather
+Buckle/Clasp: Associated steel folding clasp
+Signed: Case, dial & movement
+Size: 41mm
+ Accompaniments: Seiko box (AF), Certificate of Guarantee, Instructions booklet, spare black rubber strap, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25875336-3-1.jpg,https://www.bonhams.com/auction/31991/lot/60/seiko-a-limited-edition-titanium-quartz-calendar-wristwatch-quartz-astron-no120200-purchased-31st-july-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+7d9ba7cc-89e4-40d6-93f1-0b9d84d5466e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 61,GBP,500,700,1280.0,1000,632.84,885.97,1620.06,1265.67,N/A,N/A,N/A,Seiko,decorative arts,"rose gilt titanium, ceramic, rubber",N/A,N/A,N/A,N/A,yes,yes,yes,2015,2015,N/A,"watch, wristwatch, titanium, ceramic, black, rose gold, automatic, calendar, rubber strap, Seiko",1,N/A,original,"Seiko. A rose gilt titanium and ceramic automatic calendar wristwatch
+Model: Marinemaster
+Date: Circa 2015
+Movement: Jewelled automatic
+Dial: Black
+Case: Brushed and polished round, No.630002
+Strap/Bracelet: Black Seiko rubber
+Buckle/Clasp: Signed rose gilt titanium buckle
+Signed: Case, dial & movement
+Size: 52mm
+ Accompaniments: Seiko box, outer card, brochures",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25875336-5-1.jpg,https://www.bonhams.com/auction/31991/lot/61/seiko-a-rose-gilt-titanium-and-ceramic-automatic-calendar-wristwatch-marinemaster-circa-2015/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+8f105a8e-50f5-48e4-849c-7ded84b2678a,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 62,GBP,1500,2000,N/A,N/A,1898.51,2531.35,N/A,N/A,N/A,N/A,N/A,Seiko,decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,no,yes,2017,2017,Purchased 27th Sep 2017,"wristwatch, stainless steel, chronograph, automatic, black leather strap, silver dial, exhibition back, tachymeter, red hands, signed clasp",1,N/A,original,"Seiko. A stainless steel automatic chronograph wristwatch
+Model: Ananta Spring Drive 
+Date: Purchased 27th Sep 2017
+Movement: 50-jewel Cal.5R86A 2 automatic
+Dial: Silvered
+Case: Brushed and polished tonneau form, exhibition back, No.970012
+Strap/Bracelet: Black leather
+Buckle/Clasp: Signed stainless steel folding clasp
+Signed: Case, dial & movement
+Size: 46mm
+ Accompaniments: Seiko box, outer card, brochures, Certificate of Guarantee, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25875336-2-1.jpg,https://www.bonhams.com/auction/31991/lot/62/seiko-a-stainless-steel-automatic-chronograph-wristwatch-ananta-spring-drive-purchased-27th-sep-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2248.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+b4bfd757-7a36-4e3f-84d9-7e1c93832893,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 63,GBP,2500,3500,3072.0,2400,3164.19,4429.86,3888.15,3037.62,Signoretti,N/A,N/A,Signoretti. A lady's 18K gold diamond-set quartz bracelet watch,decorative arts,"18K gold, diamond, quartz",N/A,N/A,N/A,N/A,yes,yes,yes,1999,1999,N/A,"gold watch, diamond-set, quartz movement, round dial, beaded link, signed clasp, London hallmark, 1999",1,N/A,original,"Signoretti. A lady's 18K gold diamond-set quartz bracelet watch
+Date: London hallmark for 1999
+Movement: 6-jewel ETA quartz
+Dial: Pave-set brilliant-cut diamond
+Case: Brushed and polished round, diamond set bezel, No.386/99
+Strap/Bracelet: Integral 18K gold beaded link
+Buckle/Clasp: Signed 18K gold clasp
+Signed: Case
+Size: 19mm",https://images1.bonhams.com/image?src=Images/live/2026-06/02/60156886-1-1.jpg,https://www.bonhams.com/auction/31991/lot/63/signoretti-a-ladys-18k-gold-diamond-set-quartz-bracelet-watch-london-hallmark-for-1999/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3838.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3700.0,3083.3333333333335
+ae85bda8-b663-4434-b321-49ac068fdaab,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 64,GBP,1500,2000,1920.0,1500,1898.51,2531.35,2430.09,1898.51,N/A,N/A,N/A,Tag Heuer,decorative arts,"stainless steel, alligator leather",N/A,N/A,N/A,mm,yes,yes,yes,2010,2010,N/A,"wristwatch, stainless steel, automatic chronograph, black dial, black alligator leather strap, tonneau case, folding clasp, date function, Carrera model",1,N/A,original,"Tag Heuer. A stainless steel automatic chronograph calendar wristwatch
+Model: Carrera 
+Reference: CV2113-0
+Date: Circa 2010
+Movement: Jewelled automatic
+Dial: Black
+Case: Brushed and polished tonneau form, No.DS0213
+Strap/Bracelet: Black alligator leather
+Buckle/Clasp: Signed stainless steel folding clasp
+Signed: Case, dial & movement
+Size: 39mm",https://images1.bonhams.com/image?src=Images/live/2026-06/22/25878443-1-3.jpg,https://www.bonhams.com/auction/31991/lot/64/tag-heuer-a-stainless-steel-automatic-chronograph-calendar-wristwatch-carrera-ref-cv2113-0-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2410.8,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+5430ecfc-e3a9-4c6f-96c7-e18fdaa80b2d,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 65,GBP,500,700,N/A,N/A,632.84,885.97,N/A,N/A,N/A,N/A,N/A,TechnoMarine,decorative arts,"stainless steel, diamond, quartz, suede leather",N/A,N/A,N/A,mm,yes,no,yes,2003,2003,Purchased 25th July 2003,"wristwatch, stainless steel, diamond, quartz, chronograph, black dial, black suede leather strap, double folding clasp, TechnoMarine",1,N/A,original,"TechnoMarine. A stainless steel diamond set quartz chronograph calendar wristwatch
+Date: Purchased 25th July 2003
+Movement: 23-jewel ETA Cal.251.471 quartz
+Dial: Black
+Case: Brushed and polished tonneau form, No.TS 19592
+Strap/Bracelet: Associated black suede leather
+Buckle/Clasp: Associated steel double folding clasp
+Signed: Case & dial
+Size: 31mm
+ Accompaniments: TechnoMarine box, Warranty card, strap removal tool, spare pink plastic strap",https://images1.bonhams.com/image?src=Images/live/2026-06/22/73003096-15-3.jpg,https://www.bonhams.com/auction/31991/lot/65/technomarine-a-stainless-steel-diamond-set-quartz-chronograph-calendar-wristwatch-purchased-25th-july-2003/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+a939e526-ca78-40d8-9bf1-d6164664955f,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 66,GBP,400,600,563.2,440,506.27,759.4,712.83,556.9,Tiffany & Co.,N/A,N/A,"Tiffany & Co. A lady's quartz silver wristwatch Atlas, Ref: S0640",decorative arts,"Quartz, silver, lizard leather",N/A,N/A,19,mm,yes,yes,yes,1990,1990,N/A,"wristwatch, quartz, silver, leather, Tiffany & Co., black, round, signed, movement, dial",1,N/A,original,"Tiffany & Co. A lady's quartz silver wristwatch
+Model: Atlas
+Reference: S0640
+Date: Purchased 14th December 1990
+Movement: 6-jewel ETA Cal.976.001 quartz
+Dial: Silvered
+Case: Brushed and polished round, No.D286753
+Strap/Bracelet: Black Tiffany lizard leather
+Buckle/Clasp: Signed steel buckle
+Signed: Case & dial
+Size: 19mm
+ Accompaniments: Tiffany & Co. box, outer card, warranty",https://images1.bonhams.com/image?src=Images/live/2026-04/20/25847634-5-1.jpg,https://www.bonhams.com/auction/31991/lot/66/tiffany-and-co-a-ladys-quartz-silver-wristwatch-atlas-ref-s0640-purchased-14th-december-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,648.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+98e0577e-a4c6-4529-a8c7-eac065ee6b39,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 67,GBP,500,700,N/A,N/A,632.84,885.97,N/A,N/A,N/A,N/A,N/A,Tiffany & Co. A stainless steel automatic calendar wristwatch Grand Resonator,decorative arts,"stainless steel, alligator leather",N/A,N/A,N/A,N/A,yes,yes,yes,2000,2000,N/A,"watch, stainless steel, calendar, automatic, black dial, rectangular case, alligator leather strap, double folding clasp, 20-jewel movement, Tiffany & Co.",1,N/A,original,"Tiffany & Co. A stainless steel automatic calendar wristwatch
+Model: Grand Resonator 
+Date: Circa 2000
+Movement: 20-jewel ETA Cal.2000-1 automatic
+Dial: Black
+Case: Brushed and polished rectangular, No.T10005863
+Strap/Bracelet: Black Tiffany & Co. alligator leather
+Buckle/Clasp: Associated stainless steel double folding clasp
+Signed: Case, dial & movement
+Size: 29mm",https://images1.bonhams.com/image?src=Images/live/2026-06/22/73003096-2-3.jpg,https://www.bonhams.com/auction/31991/lot/67/tiffany-and-co-a-stainless-steel-automatic-calendar-wristwatch-grand-resonator-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,761.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+2ee7feab-e762-47c3-8832-723ac308dfc8,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 68,GBP,1000,1500,N/A,N/A,1265.67,1898.51,N/A,N/A,N/A,N/A,N/A,Tissot. A 14K gold manual wind bracelet watch,decorative arts,"14K gold, polished links",N/A,N/A,N/A,mm,yes,yes,yes,1940,1940,N/A,"watch, 14K gold, bracelet, champagne dial, subsidiary seconds, manual wind, polished case, folding clasp, associated links",1,N/A,original,"Tissot. A 14K gold manual wind bracelet watch
+Date: Circa 1940
+Movement: Jewelled manual wind, No. 1680296
+Dial: Champagne, subsidiary seconds at 6 
+Case: Polished round, No.1538636, personal engraving to case back
+Strap/Bracelet: Associated continental gold polished links 
+Buckle/Clasp: Associated continental gold folding clasp
+Signed: Case, dial & movement
+Size: 33mm",https://images1.bonhams.com/image?src=Images/live/2026-05/14/73002641-5-1.jpg,https://www.bonhams.com/auction/31991/lot/68/tissot-a-14k-gold-manual-wind-bracelet-watch-circa-1940/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1448.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1530.0,1275.0
+8966e252-715c-4bbb-8d29-ea067addab58,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 69,GBP,500,700,768.0,600,632.84,885.97,972.04,759.4,Tissot,N/A,N/A,Tissot. A lady's 9K gold manual wind bracelet watch,decorative arts,"9K gold, silvered dial",N/A,N/A,N/A,N/A,yes,yes,yes,1972,1972,N/A,"watch, gold, bracelet, Tissot, manual wind, silver dial, textured link, 1972, jewelry, timepiece",1,N/A,original,"Tissot. A lady's 9K gold manual wind bracelet watch
+Date: London Import mark for 1972
+Movement: 17-jewel Cal.2401 manual wind, No.14793391
+Dial: Silvered
+Case: Polished round
+Strap/Bracelet: Integral textured 9K gold curb link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement",https://images1.bonhams.com/image?src=Images/live/2026-06/18/73002852-2-3.jpg,https://www.bonhams.com/auction/31991/lot/69/tissot-a-ladys-9k-gold-manual-wind-bracelet-watch-london-import-mark-for-1972/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.24,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,760.0,633.3333333333334
+552352e1-ccec-4588-b630-d26acc8bf7f1,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 70,GBP,800,1200,2048.0,1600,1012.54,1518.81,2592.1,2025.08,N/A,N/A,N/A,"Tissot. A Limited Edition 18K rose gold manual wind wristwatch Heritage Porto, Ref: H699.333, No.376/666",decorative arts,"18K rose gold, leather",N/A,N/A,N/A,mm,yes,yes,yes,2004,2004,N/A,"watch, wristwatch, rose gold, black leather strap, manual wind movement, silvered dial, tonneau form case, Tissot brand, gilt folding clasp, chronometer",1,N/A,original,"Tissot. A Limited Edition 18K rose gold manual wind wristwatch
+Model: Heritage Porto
+Reference: H699.333, No.376/666
+Date: Circa 2004
+Movement: 17-jewel Cal.0048 manual wind
+Dial: Silvered
+Case: Brushed and polished tonneau form
+Strap/Bracelet: Associated black leather
+Buckle/Clasp: Signed gilt folding clasp
+Signed: Case, dial & movement
+Size: 31mm",https://images1.bonhams.com/image?src=Images/live/2026-06/22/73003096-10-2.jpg,https://www.bonhams.com/auction/31991/lot/70/tissot-a-limited-edition-18k-rose-gold-manual-wind-wristwatch-heritage-porto-ref-h699333-no376666-circa-2004/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1283.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1325.0,1104.1666666666667
+08d6bcaa-0f31-4ad8-b447-e25a507b4c0e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 71,GBP,500,700,N/A,N/A,632.84,885.97,N/A,N/A,N/A,N/A,N/A,Tudor. A lady's 9K gold manual wind bracelet watch Royal,decorative arts,9K gold,N/A,N/A,N/A,N/A,yes,yes,yes,1954,1954,N/A,"watch, gold, bracelet, manual wind, Tudor, 1954, silvered dial, clasp, polished tonneau case, 17-jewel movement",1,N/A,original,"Tudor. A lady's 9K gold manual wind bracelet watch
+Model: Royal
+Date: Chester Hallmark for 1954
+Movement: 17-jewel manual wind
+Dial: Silvered
+Case: Polished tonneau form, No.187696
+Strap/Bracelet: Polished teardrop link
+Buckle/Clasp: Signed folding clasp
+Signed: Dial & movement, case stamped R.W.Co Ltd
+Size: 16mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/73002825-1-6.jpg,https://www.bonhams.com/auction/31991/lot/71/tudor-a-ladys-9k-gold-manual-wind-bracelet-watch-royal-chester-hallmark-for-1954/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+e9194112-b4b7-4560-9e95-31a03289cdf0,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 72,GBP,500,700,704.0,550,632.84,885.97,891.03,696.12,Ulysse Nardin,N/A,N/A,Ulysse Nardin. A stainless steel automatic calendar wristwatch,decorative arts,"Stainless steel, leather",N/A,N/A,31,mm,yes,yes,yes,1975,1975,N/A,"wristwatch, stainless steel, automatic, calendar, blue leather strap, silvered dial, rectangular case, double folding clasp, vintage design, jewelled movement",1,N/A,original,"Ulysse Nardin. A stainless steel automatic calendar wristwatch
+Reference: A 7680
+Date: Circa 1975
+Movement: Jewelled automatic
+Dial: Silvered
+Case: Brushed and polished rectangular 
+Strap/Bracelet: Associated blue leather
+Buckle/Clasp: Associated stainless steel double folding clasp
+Signed: Dial & movement
+Size: 31mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/73003096-5-1.jpg,https://www.bonhams.com/auction/31991/lot/72/ulysse-nardin-a-stainless-steel-automatic-calendar-wristwatch-ref-a-7680-circa-1975/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.24,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+bb24bfcd-a871-498a-94cb-72e4b776204f,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 73,GBP,4500,5500,N/A,N/A,5695.53,6961.21,N/A,N/A,N/A,N/A,N/A,Vacheron Constantin. A lady's 18K white gold manual wind bracelet watch,decorative arts,18K white gold,N/A,N/A,N/A,mm,yes,yes,yes,1970,1970,N/A,"watch, 18K white gold, manual wind, bracelet, dial, case, clasp",1,N/A,original,"Vacheron Constantin. A lady's 18K white gold manual wind bracelet watch
+Reference: 6898
+Date: Circa 1970
+Movement: 17-jewel Cal.1003 manual wind, adjusted to heat, cold, isochronism and 5 positions, stamped with the Seal of Geneva, No.705579
+Dial: Brushed silvered, polished sword hands
+Case: Brushed and polished round, snap on back, textured bezel, No.506929
+Strap/Bracelet: Integrated textured link
+Buckle/Clasp: Signed 18K white gold folding clasp
+Signed: Case, dial & movement
+Size: 24mm
+ Accompaniments: Vacheron Constantin pouch, service receipt dated 2000",https://images1.bonhams.com/image?src=Images/live/2026-04/10/25837396-1-2.jpg,https://www.bonhams.com/auction/31991/lot/73/vacheron-constantin-a-ladys-18k-white-gold-manual-wind-bracelet-watch-ref-6898-circa-1970/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6418.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6420.0,5350.0
+d1c57e5e-6437-4a8f-8319-233be34360da,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 74,GBP,1000,1500,2432.0,1900,1265.67,1898.51,3078.12,2404.78,N/A,N/A,N/A,Vacheron Constantin. An 18K gold and stainless steel quartz rectangular bracelet watch,decorative arts,"18K gold, stainless steel",N/A,N/A,N/A,mm,yes,yes,yes,1980,1980,N/A,"watch, gold, stainless steel, bracelet, rectangular, quartz, movement, clasp, dial, travel pouch",1,N/A,original,"Vacheron Constantin. An 18K gold and stainless steel quartz rectangular bracelet watch
+Model: Harmony
+Reference: 71202
+Date: Circa 1980
+Movement: 7-jewel Cal.1010 quartz, No.73992
+Dial: Brushed gilt
+Case: Brushed and polished rectangular form, No.567886
+Strap/Bracelet: Integral steel and gold link
+Buckle/Clasp: Signed concealed folding clasp
+Signed: Case, dial & movement
+Size: 23mm
+ Accompaniments: Vacheron leather travel pouch",https://images1.bonhams.com/image?src=Images/live/2026-06/05/73001896-2-1.jpg,https://www.bonhams.com/auction/31991/lot/74/vacheron-constantin-an-18k-gold-and-stainless-steel-quartz-rectangular-bracelet-watch-harmony-ref-71202-circa-1980/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1496.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1580.0,1316.6666666666667
+b75f5ef5-3f31-4fab-bbf7-a795408daad5,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 75,GBP,2500,3500,4864.0,3800,3164.19,4429.86,6156.24,4809.56,Van Cleef & Arpels,N/A,N/A,Van Cleef & Arpels. A lady's 18K gold and diamond set quartz bracelet watch La Collection,decorative arts,"18K gold, diamond, quartz",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"watch, gold, diamonds, bracelet, round, quartz, white, vintage, luxury, jewelry",1,N/A,original,"Van Cleef & Arpels. A lady's 18K gold and diamond set quartz bracelet watch
+Model: La Collection
+Date: Circa 2000
+Movement: 7-jewel quartz 
+Dial: White, diamond set hour markers 
+Case: Polished round, diamond set bezel, No.941 16602 B1
+Strap/Bracelet: Fitted 18K gold link
+Buckle/Clasp: Signed folding clasp
+Signed: Case & dial
+Size: 24mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/60171219-2-1.jpg,https://www.bonhams.com/auction/31991/lot/75/van-cleef-and-arpels-a-ladys-18k-gold-and-diamond-set-quartz-bracelet-watch-la-collection-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3700.0,3083.3333333333335
+8b11f6fa-c65e-4dd6-976b-b803a10509b8,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 76,GBP,300,400,384.0,300,379.7,506.27,486.02,379.7,N/A,N/A,N/A,A 14K gold keyless wind open face converted pocket watch wristwatch,decorative arts,"14K gold, enamel, black leather",N/A,N/A,N/A,mm,no,yes,yes,1920,1920,N/A,"pocket watch, wristwatch, 14K gold, black leather strap, white dial, gilt buckle, engraved case, vintage timepiece, cylinder movement, circular shape",1,N/A,original,"A 14K gold keyless wind open face converted pocket watch wristwatch
+Date: Circa 1920
+Movement: Cylinder
+Dial: White
+Case: Converted pocket watch, enamel to back, No.115305
+Strap/Bracelet: Black leather
+Buckle/Clasp: Gilt buckle
+Size: 30mm",https://images1.bonhams.com/image?src=Images/live/2026-05/15/73003058-3-1.jpg,https://www.bonhams.com/auction/31991/lot/76/a-14k-gold-keyless-wind-open-face-converted-pocket-watch-wristwatch-circa-1920/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,447.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,450.0,375.0
+cb591545-1339-469e-8c3d-e9cb46a9ce20,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 77,GBP,1500,2000,1920.0,1500,1898.51,2531.35,2430.09,1898.51,N/A,N/A,N/A,A 9K gold keyless wind half hunter pocket watch with 9K gold chain and brooch,decorative arts,9K gold,N/A,N/A,N/A,mm,yes,yes,yes,1925,1925,N/A,"pocket watch, gold, chain, brooch, white dial, polished case, Swiss lever movement, Birmingham hallmark, 1925",1,N/A,original,"A 9K gold keyless wind half hunter pocket watch with 9K gold chain and brooch
+Date: Birmingham Hallmark for 1925
+Movement: Swiss lever
+Dial: White
+Case: Polished hinged, No.316575
+Signed: Cuvette stamped ALD
+Size: 49mm
+ Accompaniments: A 9K gold chain and 9K gold pin brooch",https://images1.bonhams.com/image?src=Images/live/2026-06/17/73003096-13-1.jpg,https://www.bonhams.com/auction/31991/lot/77/a-9k-gold-keyless-wind-half-hunter-pocket-watch-with-9k-gold-chain-and-brooch-birmingham-hallmark-for-1925/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2410.59,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+83736d96-dedc-444b-8158-543c62c90c26,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 78,GBP,500,700,1152.0,900,632.84,885.97,1458.06,1139.11,N/A,N/A,N/A,A 9K gold keyless wind open face pocket watch,decorative arts,9K gold,N/A,N/A,N/A,mm,no,yes,yes,1926,1926,N/A,"pocket watch, gold, white dial, blue hands, polished case, 1926, Swiss movement",1,N/A,original,"A 9K gold keyless wind open face pocket watch
+Date: Birmingham Hallmark for 1926
+Movement: Swiss lever
+Dial: White
+Case: Polished round, No.339807
+Size: 49mm",https://images1.bonhams.com/image?src=Images/live/2026-06/17/25881035-1-1.jpg,https://www.bonhams.com/auction/31991/lot/78/a-9k-gold-keyless-wind-open-face-pocket-watch-birmingham-hallmark-for-1926/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+44accbf8-a42e-4c9f-acd4-3658d89ac73e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 79,GBP,1200,1800,N/A,N/A,1518.81,2278.21,N/A,N/A,N/A,N/A,N/A,A gold plated keyless wind open face pocket watch with 1913 George V Sovereign and chain,decorative arts,"Gold plated, brass, Swiss lever movement",N/A,N/A,N/A,mm,no,yes,yes,1900,1900,N/A,"pocket watch, gold chain, 1913 sovereign coin, white dial, Swiss movement, engine turned case, antique jewelry",1,N/A,original,"A gold plated keyless wind open face pocket watch with 1913 George V Sovereign and chain
+Date: Circa 1900
+Movement: Swiss lever, No.20000
+Dial: White
+Case: Engine turned round, No.2414190
+Size: 47mm
+ Accompaniments: A 22K gold 1913 George V Sovereign and brass chain",https://images1.bonhams.com/image?src=Images/live/2026-05/20/25868681-1-1.jpg,https://www.bonhams.com/auction/31991/lot/79/a-gold-plated-keyless-wind-open-face-pocket-watch-with-1913-george-v-sovereign-and-chain-circa-1900/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,163.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1890.0,1575.0
+3a9c6f31-f4ff-4ec8-8a90-ac1ec4c06e22,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 81,GBP,800,1200,832.0,650,1012.54,1518.81,1053.04,822.69,N/A,N/A,N/A,An 18K gold and enamel keyless wind half hunter pocket watch,decorative arts,18K gold and enamel,N/A,N/A,N/A,mm,no,yes,yes,1900,1900,N/A,"pocket watch, 18K gold, white dial, Roman numerals, engraving, keyless wind",1,N/A,original,"An 18K gold and enamel keyless wind half hunter pocket watch
+Date: Circa 1900
+Movement: Cylinder
+Dial: White
+Case: Foliate engraved consular, No.105784
+Size: 36mm",https://images1.bonhams.com/image?src=Images/live/2026-06/13/60149479-8-1.jpg,https://www.bonhams.com/auction/31991/lot/81/an-18k-gold-and-enamel-keyless-wind-half-hunter-pocket-watch-circa-1900/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1287.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1230.0,1025.0
+b08fb55b-21ff-4a47-9964-2877afdac728,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 82,GBP,1500,2000,N/A,N/A,1898.51,2531.35,N/A,N/A,N/A,N/A,N/A,An 18K gold keyless wind full hunter pocket watch with continental gold chain,decorative arts,18K gold,N/A,N/A,N/A,mm,no,yes,yes,1900,1900,N/A,"watch, pocket watch, gold, chain, timepiece, dial, hour hand, minute hand, engraving, jewelry",1,N/A,original,"An 18K gold keyless wind full hunter pocket watch with continental gold chain
+Date: Circa 1900
+Movement: Cylinder
+Dial: White
+Case: Foliate engraved round, No.186515
+Size: 31mm
+ Accompaniments: Continental gold chain",https://images1.bonhams.com/image?src=Images/live/2026-04/20/25843996-1-3.jpg,https://www.bonhams.com/auction/31991/lot/82/an-18k-gold-keyless-wind-full-hunter-pocket-watch-with-continental-gold-chain-circa-1900/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2410.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+e337a5b1-fe28-4f0c-bb11-32a187ad573b,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 83,GBP,300,500,N/A,N/A,379.7,632.84,N/A,N/A,B.Blew,N/A,N/A,"B.Blew, London. A silver key wind open face pair case pocket watch",decorative arts,"Silver, Gilt",N/A,N/A,N/A,mm,yes,yes,yes,1835,1835,N/A,"pocket watch, silver, keys, chain, ploughing scene, dial, horses, landscape",1,N/A,original,"B.Blew, London. A silver key wind open face pair case pocket watch
+Date: Birmingham Hallmark for 1835
+Movement: Gilt full plate, fusee verge, No.9767
+Dial: White with ploughing scene to centre
+Case: Polished inner and outer
+Signed: Movement
+Size: 59mm
+ Accompaniments: A steel chain and watch keys",https://images1.bonhams.com/image?src=Images/live/2026-05/20/25868681-2-1.jpg,https://www.bonhams.com/auction/31991/lot/83/bblew-london-a-silver-key-wind-open-face-pair-case-pocket-watch-birmingham-hallmark-for-1835/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,448.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,525.0,437.5
+a3634a23-89f7-418e-9081-da915444717b,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 84,GBP,500,700,1024.0,800,632.84,885.97,1296.05,1012.54,N/A,N/A,N/A,Cyma,decorative arts,"Gold plating, 9K gold, Silver",N/A,N/A,N/A,N/A,yes,yes,yes,1920,1920,N/A,"pocket watch, gold chain, citrine fobs, silvered dial, Swiss movement",1,N/A,original,"Cyma. A gold plated keyless wind open face pocket watch with a 9K gold chain
+Date: Circa 1920
+Movement: Swiss lever, No.205172
+Dial: Silvered
+Case: Polished round, No.250846
+Signed: Movement
+Size: 46mm
+ Accompaniments: 9K gold curb link double Albert chain with two citrine fobs",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25859183-2-1.jpg,https://www.bonhams.com/auction/31991/lot/84/cyma-a-gold-plated-keyless-wind-open-face-pocket-watch-with-a-9k-gold-chain-circa-1920/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+ef175bb0-6aef-48c8-89a3-907999be4b61,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 85,GBP,400,600,704.0,550,506.27,759.4,891.03,696.12,G & W Birley,N/A,N/A,"G & W Birley, Birmingham. An 18K gold key wind open face pocket watch",decorative arts,18K gold,N/A,N/A,N/A,mm,yes,yes,yes,1862,1862,N/A,"pocket watch, 18K gold, key, floral engraving, dial, Roman numerals, antique, open face, timepiece",1,N/A,original,"G & W Birley, Birmingham. An 18K gold key wind open face pocket watch
+Date: Circa 1862
+Movement: Cylinder
+Dial: Champagne, foliate engraved centre
+Case: Engine turned round
+Signed: Cuvette
+Size: 40mm
+ Accompaniments: Key",https://images1.bonhams.com/image?src=Images/live/2026-05/20/25860952-3-1.jpg,https://www.bonhams.com/auction/31991/lot/85/g-and-w-birley-birmingham-an-18k-gold-key-wind-open-face-pocket-watch-circa-1862/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,675.0,562.5
+74b9750e-de66-4117-9def-5a46c129de96,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 86,GBP,1500,2000,N/A,N/A,1898.51,2531.35,N/A,N/A,N/A,N/A,N/A,Henry Watch. A 14K gold keyless wind full hunter pocket watch,decorative arts,14K gold,N/A,N/A,N/A,mm,yes,yes,yes,1900,1900,N/A,"pocket watch, gold, Swiss, dial, case, hour hand, minute hand, second hand, vintage, mechanism",1,N/A,original,"Henry Watch. A 14K gold keyless wind full hunter pocket watch
+Date: Circa 1900
+Movement: Swiss lever
+Dial: Champagne
+Case: Engine turned round, No.90292
+Signed: Dial
+Size: 47mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/60171232-4-1.jpg,https://www.bonhams.com/auction/31991/lot/86/henry-watch-a-14k-gold-keyless-wind-full-hunter-pocket-watch-circa-1900/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1937.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2150.0,1791.6666666666667
+4fcea9d9-3e03-4600-b22c-d3ea6d23e4ba,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 87,GBP,2000,3000,3072.0,2400,2531.35,3797.02,3888.15,3037.62,N/A,N/A,N/A,Longines. A 14K gold keyless wind full hunter pocket watch,decorative arts,14K gold,N/A,N/A,N/A,mm,yes,yes,yes,1900,1900,N/A,"pocket watch, gold, white dial, black numbers, vintage, keyless wind, polished case, Swiss movement",1,N/A,original,"Longines. A 14K gold keyless wind full hunter pocket watch
+Date: Circa 1900
+Movement: Swiss lever, No.1140923
+Dial: White
+Case: Polished round, No.1140923
+Signed: Case, dial & movement
+Size: 55mm",https://images1.bonhams.com/image?src=Images/live/2026-06/24/25872261-1-1.jpg,https://www.bonhams.com/auction/31991/lot/87/longines-a-14k-gold-keyless-wind-full-hunter-pocket-watch-circa-1900/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2799.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335
+209b9b62-45f8-4b5e-a48b-382b0f2e8a22,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 88,GBP,400,600,1024.0,800,506.27,759.4,1296.05,1012.54,N/A,N/A,N/A,"Muret, Geneve. An 18K gold key wind open face pocket watch",decorative arts,18K gold,N/A,N/A,N/A,mm,yes,yes,yes,1890,1890,N/A,"pocket watch, key, gold, floral engraving, Roman numerals, antique, mechanical movement",1,N/A,original,"Muret, Geneve. An 18K gold key wind open face pocket watch
+Date: Circa 1890
+Movement: Gilt 3/4 plate, Cylinder 
+Dial: Foliate engraved centre
+Case: Foliate engraved round, No.46960
+Signed: Dial & movement
+Size: 39mm
+ Accompaniments: Key",https://images1.bonhams.com/image?src=Images/live/2026-05/20/25860952-4-1.jpg,https://www.bonhams.com/auction/31991/lot/88/muret-geneve-an-18k-gold-key-wind-open-face-pocket-watch-circa-1890/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,644.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+8e83ff07-12c0-4ddb-a3f6-512d17a7ff93,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 89,GBP,2000,3000,2560.0,2000,2531.35,3797.02,3240.13,2531.35,Patek Philippe,N/A,N/A,Patek Philippe. An 18K gold keyless wind open face pocket watch,decorative arts,"18K gold, white dial, black Arabic numeral hour markers, gilt spade hands",N/A,N/A,N/A,mm,yes,yes,yes,1889,1889,N/A,"pocket watch, 18K gold, white dial, black Arabic numerals, spade hands, polished case, vintage timepiece",1,N/A,original,"Patek Philippe. An 18K gold keyless wind open face pocket watch
+Date: Circa 1889
+Movement: Cylinder, No.85440
+Dial: White, black Arabic numeral hour markers, black outer minute track, gilt spade hands
+Case: Polished round, cuvette No.85440, case No.202916
+Signed: Case, dial & movement
+Size: 33mm
+ Accompaniments: Fitted case by Patek Philippe & Cie",https://images1.bonhams.com/image?src=Images/live/2026-06/04/25869564-1-3.jpg,https://www.bonhams.com/auction/31991/lot/89/patek-philippe-an-18k-gold-keyless-wind-open-face-pocket-watch-circa-1889/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3208.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+516f9368-263b-455e-86b4-66ed4876f0eb,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 90,GBP,2000,3000,N/A,N/A,2531.35,3797.02,N/A,N/A,S.Smith & Son,N/A,N/A,"S.Smith & Son, 9 Strand, London. An 18K gold keyless wind open face pocket watch",decorative arts,18K gold,N/A,N/A,N/A,mm,yes,yes,yes,1872,1872,N/A,"gold pocket watch, foliate engraved dial, blue hands, Roman numerals, round case, 18K gold, vintage watch, English craftsmanship, antique, Swiss mechanism",1,N/A,original,"S.Smith & Son, 9 Strand, London. An 18K gold keyless wind open face pocket watch
+Date: London Hallmark for 1872
+Movement: English lever
+Dial: Champagne with foliate engraved centre 
+Case: Foliate engraved round, No.4304
+Signed: Movement
+Size: 38mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/25826932-1-7.jpg,https://www.bonhams.com/auction/31991/lot/90/ssmith-and-son-9-strand-london-an-18k-gold-keyless-wind-open-face-pocket-watchlondon-hallmark-for-1872/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,310.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335
+7309d70d-4594-4f2b-bfe3-a4768f7f42a4,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 91,GBP,2000,3000,3328.0,2600,2531.35,3797.02,4212.16,3290.75,Sir John Bennett Ltd,N/A,N/A,"Sir John Bennett Ltd, 65 Cheapside & 105 Regent Street, London. An 18K gold keyless wind half hunter pocket watch",decorative arts,18K gold,N/A,N/A,N/A,mm,yes,yes,yes,1919,1919,N/A,"18K gold, keyless wind, half hunter, pocket watch, London hallmark, Swiss lever, white dial, polished case, Roman numerals, antique timepiece",1,N/A,original,"Sir John Bennett Ltd, 65 Cheapside & 105 Regent Street, London. An 18K gold keyless wind half hunter pocket watch
+Date: London Hallmark for 1919
+Movement: Swiss lever, No.52466
+Dial: White
+Case: Polished hinged, No.52466
+Signed: Movement
+Size: 47mm",https://images1.bonhams.com/image?src=Images/live/2026-06/23/60152404-6-1.jpg,https://www.bonhams.com/auction/31991/lot/91/sir-john-bennett-ltd-65-cheapside-and-105-regent-street-london-an-18k-gold-keyless-wind-half-hunter-pocket-watch-london-hallmark-for-1919/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,320.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3160.0,2633.3333333333335
+29e9e413-f7c0-4667-9e30-7340e1febd1e,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 92,GBP,1200,1800,N/A,N/A,1518.81,2278.21,N/A,N/A,Tavannes Watch Co.,N/A,N/A,Tavannes Watch Co. A 9K gold keyless wind full hunter pocket watch,decorative arts,9K gold,N/A,N/A,48,mm,yes,yes,yes,1919,1919,N/A,"pocket watch, gold, white dial, Arabic numerals, blue hands, small seconds, polished case, inscription, Swiss movement, London import mark",1,N/A,original,"Tavannes Watch Co. A 9K gold keyless wind full hunter pocket watch
+Date: London Import mark for 1919
+Movement: Swiss lever
+Dial: White
+Case: Polished round, personal inscription to cuvette, No.9109606 480
+Signed: Movement
+Size: 48mm",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25816856-1-1.jpg,https://www.bonhams.com/auction/31991/lot/92/tavannes-watch-co-a-9k-gold-keyless-wind-full-hunter-pocket-watch-london-import-mark-for-1919/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1800.0,1500.0
+6743cf2a-e47e-4872-af54-ce555cf20a97,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 93,GBP,2000,3000,3072.0,2400,2531.35,3797.02,3888.15,3037.62,N/A,N/A,N/A,Waltham. A 9K gold keyless wind full hunter pocket watch with 9K gold chain,decorative arts,9K gold,N/A,N/A,N/A,mm,yes,yes,yes,1920,1920,N/A,"pocket watch, gold, chain, Roman numerals, seconds dial, spade hands, polished, vintage, Swiss movement",1,N/A,original,"Waltham. A 9K gold keyless wind full hunter pocket watch with 9K gold chain
+Date: Chester Hallmark for 1920
+Movement: Swiss lever, cut and compensated bi-metallic balance, No.22832605
+Dial: White, black Roman numeral hour markers, black outer minute track, subsidiary seconds at 6, blued steel spade hands
+Case: Polished hinged, No.8990
+Signed: Dial & movement, case stamped B.B
+Size: 56mm",https://images1.bonhams.com/image?src=Images/live/2026-04/27/73002449-2-1.jpg,https://www.bonhams.com/auction/31991/lot/93/waltham-a-9k-gold-keyless-wind-full-hunter-pocket-watch-with-9k-gold-chain-chester-hallmark-for-1920/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2799.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+11eac79d-9066-44d7-9dd0-ae65c728715a,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 94,GBP,500,700,640.0,500,632.84,885.97,810.03,632.84,William Hope,N/A,N/A,"William Hope, London. A gilt metal key wind pair case pocket watch",decorative arts,Gilt metal,N/A,N/A,37,mm,yes,yes,yes,1850,1850,N/A,"pocket watch, gilt metal, white dial, Roman numerals, key, foliate engraving, antique, timepiece, mechanical movement",1,N/A,original,"William Hope, London. A gilt metal key wind pair case pocket watch
+Date: Circa 1850
+Movement: Gilt full plate, fusee verge, No.3575
+Dial: White
+Case: Polished inner, foliate engraved outer
+Signed: Movement
+Size: 37mm
+ Accompaniments: Key",https://images1.bonhams.com/image?src=Images/live/2026-06/04/25829145-2-4.jpg,https://www.bonhams.com/auction/31991/lot/94/william-hope-london-a-gilt-metal-key-wind-pair-case-pocket-watch-circa-1850/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,641.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,759.0,632.5
+7d1337f7-12fd-405e-8960-dd96ac8b6a72,Artwork,Bonhams,31991,2026-07-08,"Online, London, Knightsbridge",Weekly: Watches,https://www.bonhams.com/auction/31991/weekly-watches/,Lot 95,GBP,2000,3000,3072.0,2400,2531.35,3797.02,3888.15,3037.62,N/A,N/A,N/A,"Wordley, 84 Cannon Street, London. An 18K gold keyless wind open face pocket watch",decorative arts,"18K gold, Swiss lever movement",N/A,N/A,N/A,mm,yes,yes,yes,1882,1882,N/A,"pocket watch, gold, white dial, Roman numerals, monogram, Swiss movement, 1882, keyless wind, round case, antique",1,N/A,original,"Wordley, 84 Cannon Street, London. An 18K gold keyless wind open face pocket watch
+Date: London Hallmark for 1882
+Movement: Swiss lever, No.1155
+Dial: White, No.1155
+Case: Polished round, monogram to back
+Signed: Dial & movement
+Size: 48mm",https://images1.bonhams.com/image?src=Images/live/2026-06/04/25871176-2-1.jpg,https://www.bonhams.com/auction/31991/lot/95/wordley-84-cannon-street-london-an-18k-gold-keyless-wind-open-face-pocket-watch-london-hallmark-for-1882/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2799.49,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667

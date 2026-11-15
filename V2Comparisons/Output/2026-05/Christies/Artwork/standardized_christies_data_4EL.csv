@@ -1,0 +1,864 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+bdc2bbe9-15c1-4c82-b280-ec9b0d8d48cb,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 1,USD,40000,60000,N/A,N/A,40000,60000,N/A,N/A,GERHARD RICHTER,1932,N/A,5. Jan. 98,mixed media,oil on gelatin silver print,N/A,5.875,4,in,yes,yes,yes,1998,Gift of the artist to the late owner,"people, square, architecture, birds, abstract shapes, color patterns, urban landscape",1,N/A,original,"5. Jan. 98
+signed and dated 'Richter 5. Jan. 98' (on the reverse)
+oil on gelatin silver print
+4 x 5
+7
+⁄
+8
+ in. (10.2 x 14.9 cm.)
+Executed in 1998.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0001_000(gerhard_richter_5_jan_98091932).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/gerhard-richter-b-1932-1/308392?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,2026-05,100777.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+f93c82b7-65fa-4ca7-a514-bc85b1a276d1,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 2,USD,25000,35000,N/A,N/A,25000,35000,N/A,N/A,GERHARD RICHTER,1932,N/A,Orchidee II,prints,"offset print in colors, white lightweight cardboard, Plexiglas",1,14.625,11.5,in,yes,yes,yes,1998,"Marian Goodman Gallery, New York
+Acquired from the above by the late owner, 1999","orchid, flower, green stem, white petals, pink center, black branch, pot, background, still life, nature",1,018/25,original,"Orchidee II
+signed and dated 'Richter '98' and numbered '18/25' in black felt-tip pen (on the reverse)
+offset print in colors, on white lightweight cardboard mounted between Plexiglas plates
+overall: 11
+1
+⁄
+2
+ x 14
+5
+⁄
+8
+ x 1 in. (29.2 x 37.1 x 2.5 cm.)
+Executed in 1998. This work is number 18 from an edition of 25 plus five artist's proofs. Published by the artist, Cologne, Germany.
+
+Edition: 018/25",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0002_000(gerhard_richter_orchidee_ii091957).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/gerhard-richter-b-1932-2/308390?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,32790.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+4f5b577f-1a1b-44ab-95b4-aa0d258bce26,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 3,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,JOHN BALDESSARI,1931,2020,"Heart (With Pearls), from Independent Curators Incorporated (ICI) 15th Anniversary Print Portfolio",prints,"photogravure in colors with aquatint, on Somerset Satin paper",N/A,39.625,36.5,in,yes,yes,yes,1991,"Independent Curators Incorporated
+Acquired from the above by the late owner","heart, pearls, colorful shapes, gray background, jewelry, abstract, pattern, decorations, floral elements",1,053/75,original,"Heart (With Pearls), from 
+Independent Curators Incorporated (ICI) 15th Anniversary Print Portfolio
+signed 'BALDESSARI' (lower right) and numbered 53/75 (lower left) in pencil
+photogravure in colors with aquatint, on Somerset Satin paper
+image: 36
+1
+⁄
+2
+ x 39
+5
+⁄
+8
+ in. (92.7 x 100.6 cm.)
+sheet: 38
+1
+⁄
+2
+ x 41
+5
+⁄
+8
+ in. (97.8 x 105.7 cm.)
+Executed in 1991. This work is number 53 from the edition of 75 plus 25 artist's proofs. Co-published by Brooke Alexander Editions, Castelli Graphics, and Independent Curators Incorporated, New York.
+
+Edition: 053/75",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0003_000(john_baldessari_heart_from_independent_curators_incorporated_15th_anni092016).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/john-baldessari-1931-2020-3/308393?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,2538.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+4cddd5d3-d88f-40ab-a367-7787a065063e,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 4,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,JOHN BALDESSARI,1931,2020,Untitled,prints,archival inkjet print on paper laid down on board,N/A,19.875,23.625,in,no,yes,no,2017,Acquired directly from the artist by the late owner,"man, mustache, green shape, yellow shape, red circle, black and white, suit, door, interior, silhouette",1,N/A,original,"Untitled
+archival inkjet print on paper laid down on board
+image: 23
+5
+⁄
+8
+ x 19
+7
+⁄
+8
+ in. (60 x 50.5 cm.)
+sheet: 27
+1
+⁄
+4
+ x 24
+3
+⁄
+4
+ in. (69.2 x 62.9 cm.)
+Executed in 2017.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0004_000(john_baldessari_untitled092025).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/john-baldessari-1931-2020-4/308391?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+7d7891e2-b02f-4b5f-b99f-fc26e796bc62,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 5,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,CLAES OLDENBURG,1929,2022,Soft Alphabet,mixed media,sewn cotton cloth pieces filled with sand and brushed with talc,2.875,22.25,29.25,in,yes,yes,yes,1978,"The artist
+Acquired from the above by the late owner","letters, cotton cloth, sand, wood box, alphabet, art piece, talc, sewn pieces",1,N/A,original,"Soft Alphabet
+signed 'Oldenburg.' in felt-tip pen on the reverse of the box
+41 sewn cotton cloth pieces filled with sand and brushed with talc
+overall: 29
+1
+⁄
+4
+ x 22
+1
+⁄
+4
+ x 2
+7
+⁄
+8
+ in. (74.3 x 56.5 x 7.3 cm.)
+Executed in 1978. This work is number 10 from an edition of sixteen plus two proofs. Published by Multiples, Inc., New York, with the publisher's and artist's copyright ink stamps on the reverse of the box. Contained within the original screenprinted wood box.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0005_000(claes_oldenburg_soft_alphabet092051).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/claes-oldenburg-1929-2022-5/308394?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,12490.64,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+b10dbb3f-7243-42c1-aaa6-add3b24da8c2,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 6,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,SOL LEWITT,1928,2007,Project Box,decorative arts,"acrylic, drawing ink, cherry wood, silk",8,8,8,in,yes,yes,yes,1990,"Marian Goodman Gallery, New York
+Acquired from the above by the late owner, 2018","wood box, acrylic, drawing ink, striped pattern, colored stripes, rectangular shape, silk lining, Hydrocote finish, artist signature, edition",1,N/A,original,"Project Box
+signed 'Sol LeWitt' in pencil (on the underside)
+acrylic and drawing ink on cherry wood box with silk lining and Hydrocote finish
+overall: 8 x 8 x 8 in. (20.3 x 20.3 x 20.3 cm.)
+Executed in 1990. This work is presumably from the edition of ten plus five artist's proofs. Published by Multiples, Inc., New York.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0006_000(sol_lewitt_project_box_d6585136094132).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/sol-lewitt-1928-2007-6/308396?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+4d50610c-66f6-4d6b-8d4f-9bc3845d7fc3,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 7,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,BARNETT NEWMAN,1905,1970,"The Moment, from Four on Plexiglas",prints,screenprint on Plexiglas,1.25,5,48.875,in,yes,yes,yes,1966,"Published by Multiples, Inc.
+Acquired from the above by the late owner","blue, Plexiglas, screenprint, incised signature, artist's proof, mounted, stretcher, geometric, abstract",1,N/A,original,"The Moment, from 
+Four on Plexiglas
+with the artist's incised signature and date 'Barnett Newman 1966'
+screenprint in light blue and dark blue, on Plexiglas mounted to a stretcher (as issued)
+overall: 48
+7
+⁄
+8
+ x 5 x 1
+1
+⁄
+4
+ in. (124.1 x 12.7 x 3.2 cm.)
+Executed in 1966. This work is number K (one of sixteen artist's proofs lettered A-P aside from the edition of 125). Published by Multiples, Inc., New York.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0007_000(barnett_newman_the_moment_from_four_on_plexiglas_d6585137094155).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/barnett-newman-1905-1970-7/308395?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10077.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+7133f776-403c-4f05-af0c-89438c9c7e11,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 8,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,ALLAN MCCOLLUM,1944,N/A,Plaster Surrogate 10; Plaster Surrogate 15 [Two Works],sculpture,enamel on Hydrostone plaster,1.5,10,11.375,in,yes,yes,yes,1983,Acquired directly from the artist by the late owner,"plaster, black square, beige frame, orange frame",2,N/A,original,"Plaster Surrogate 10
+; 
+Plaster Surrogate 15 
+[Two Works]
+(i) 
+Plaster Surrogate 10
+signed and dated '#23-10-1983 Allan McCollum' and incised with the number '10' (on the reverse)
+enamel on Hydrostone plaster
+11
+3
+⁄
+8
+ x 10 x 1
+1
+⁄
+2
+ in. (28.9 x 25.4 x 3.8 cm.)
+Executed in 1983.
+(ii) 
+Plaster Surrogate 15
+signed, numbered and dated '15 #1-15-1983 Allan McCollum' (on the reverse)
+enamel on Hydrostone plaster
+8
+1
+⁄
+2
+ x 6
+1
+⁄
+4
+ x 1
+1
+⁄
+8
+ in. (21.6 x 15.9 x 2.9 cm.)
+Executed in 1983.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0008_000(allan_mccollum_plaster_surrogate_10_plaster_surrogate_15_two_works092121).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/allan-mccollum-b-1944-8/308397?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+39a24f15-0098-4c14-b5f4-85c67e94dfb1,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 9,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,MAN RAY,1890,1976,Letter Box,mixed media,"ceramic, spray paint",2.75,7.25,10,in,yes,yes,yes,1966,"Published by Multiples, Inc.
+Acquired from the above by the late owner","mailbox, ceramic letters, white color, 1966, signed, sculptural object",1,N/A,original,"Letter Box
+signed 'Man Ray' in brown ink (on the right side)
+white spray-painted mailbox multiple with seven ceramic letters
+overall: 10 x 7
+1
+⁄
+4
+ x 2
+3
+⁄
+4
+ in. (25.4 x 18.4 x 7 cm.)
+Executed in 1966. Published by Multiples, Inc., New York.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0009_000(man_ray_letter_box092153).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/man-ray-1890-1976-9/308398?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+10bba1bf-95ef-4c67-aab7-d1e0a70db6e5,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 10,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,BRICE MARDEN,1938,2023,Painting Study 1; Painting Study 2,prints,"screenprints with wax additions, graphite additions, Ivory Dutch Etching paper",N/A,6.75,9.5,in,yes,yes,yes,1974,"Published by Multiples, Inc.
+Acquired from the above by the late owner","screenprints, patterns, grids, black, white, wax additions, graphite additions, paper, abstract shapes",2,012/12,original,"Painting Study 1; Painting Study 2
+each signed and dated 'B. Marden 74' and numbered 'AP 12/12' in pencil (lower center)
+two screenprints with wax additions (one with graphite additions), on Ivory Dutch Etching paper
+each image: 9
+1
+⁄
+2
+ x 6
+3
+⁄
+4
+ in. (24.1 x 17.1 cm.)
+each sheet: 29
+7
+⁄
+8
+ x 21
+3
+⁄
+4
+ in. (75.9 x 55.2 cm.)
+Executed in 1974. These prints are one of twelve artist's proofs aside from the edition of 50 for each. Co-published by Styria Studio and Multiples, Inc., New York, each with the Styria blindstamp and the artists' and Multiples, Inc. ink stamps on the reverse.
+
+Edition: 012/12",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0010_000(brice_marden_painting_study_1_painting_study_2094427).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/brice-marden-1938-2023-10/308400?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+7d040665-29d0-4772-8e7e-c901c28ad698,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 11,USD,40000,60000,N/A,N/A,40000,60000,N/A,N/A,ANSELM KIEFER,1945,N/A,Piet Mondrian—Unternehmen “Seelőwe”,mixed media,"photographs mounted on cardboard, linen-bound",N/A,36,25.375,in,no,yes,yes,1975,Acquired directly from the artist by the late owner,"photographs, ice, ship, water, landscapes, reflections",1,N/A,original,"Piet Mondrian—Unternehmen “Seelőwe”
+titled 'Piet Mondrian
+—
+Unternehmen “Seelőwe”' (upper edge)
+artist's book—photographs mounted on cardboard, linen-bound in thirty-six pages including front and back cover
+open: 25
+3
+⁄
+8
+ x 36 in. (64.5 x 91.4 cm.)
+closed: 25
+3
+⁄
+8
+ x 18 x 4
+5
+⁄
+8
+ in. (64.5 x 45.7 x 11.8 cm.)
+Executed in 1975.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0011_000(anselm_kiefer_piet_mondrian8212unternehmen_8220seel337we8221092239).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/anselm-kiefer-b-1945-11/308399?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,100776.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+c84ae56b-5a5d-4239-a441-847c8cdb411d,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 12,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,THIERRY DE CORDIER,1954,N/A,Une Maison d'hiver (étude pour une couverture),mixed media,"ink, graphite, paper collage and correction fluid on paper",N/A,8.375,6.875,in,yes,yes,yes,2004,"Marian Goodman Gallery, New York
+Acquired from the above by the late owner, 2005","house, winter, architecture, essay, landscape, sea, smoke, artistic representation, text, collage",1,N/A,original,"Une Maison d'hiver (étude pour une couverture)
+signed with the artist's initials and inscribed 'TH. DE C. UNE MAISON D'HIVER' (center); initialed again and dated 'Th. de C. 04' (lower right)
+ink, graphite, paper collage and correction fluid on paper
+6
+7
+⁄
+8
+ x 8
+3
+⁄
+8
+ in. (17.5 x 21 cm.)
+Executed in 2004.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0012_000(thierry_de_cordier_une_maison_dhiver_d6585142094157).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/thierry-de-cordier-b-1954-12/308401?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,25388.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,26500.0,22083.333333333336
+aa3cff14-cac7-4f6b-be3d-db775fccc5bb,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 13,USD,25000,35000,N/A,N/A,25000,35000,N/A,N/A,SIGMAR POLKE,1941,2010,Untitled,mixed media,pigment resin on found framed oil painting,2.75,23.75,18.625,in,yes,yes,no,N/A,Acquired directly from the artist by the late owner,"mountains, lake, trees, cabin, rocks, water, landscape, sky, outdoor, nature",1,N/A,original,"Untitled
+signed 'S. POLKE' (on the reverse of the backing board)
+pigment resin on found framed oil painting
+18
+5
+⁄
+8
+ x 23
+3
+⁄
+4
+ x 2
+3
+⁄
+4
+ in. (47.3 x 60.3 x 7 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0013_000(sigmar_polke_untitled_d6585143094204).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/sigmar-polke-1941-2010-13/308402?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,32777.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+6ad82cf2-88be-465f-951b-40fe2e21f0f5,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 14,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,SIGMAR POLKE,1941,2010,Untitled (zu Weihnachten),mixed media,"silkscreen, ink, photo collage, tape, metal wire, pastel, debossing on paper",1.5,25.375,19.5,in,yes,yes,no,1983,"Gift of the artist to the late owner, 1983","man, photo collage, flower, wall, hands, wire, circle, street, fire, figure",1,N/A,original,"Untitled (zu Weihnachten)
+signed, dedicated, titled and dated 'to Marian Goodman from Sigmar Polke zu Weihnachten 83'
+silkscreen, ink, photo collage, tape, metal wire, pastel, and debossing on paper
+19
+1
+⁄
+2
+ x 25
+3
+⁄
+8
+ x 1
+1
+⁄
+2
+ in. (49.5 x 64.5 x 3.8 cm.)
+Executed in 1983.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0014_000(sigmar_polke_untitled092412).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/sigmar-polke-1941-2010-14/308403?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,25380.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,27500.0,22916.666666666668
+9b9a5471-8c7d-4896-ad13-7577bfa4bee3,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 15,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,PHILIP GUSTON,1913,1980,"August, from Four on Plexiglas",prints,"screenprint and varnish, on Plexiglas mounted to paperboard",N/A,40,30,in,no,yes,yes,1965,"Published by Multiples, Inc.
+Acquired from the above by the late owner","abstract forms, black shapes, cream background",1,N/A,original,"August, from 
+Four on Plexiglas
+screenprint and varnish, on Plexiglas mounted to paperboard (as issued)
+sheet: 30 x 40 in. (76.2 x 101.6 cm.)
+Executed in 1965. An unsigned artist's proof aside from the edition of 125 plus sixteen artist's proofs. Published by Multiples, Inc., New York, 1966.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0015_000(philip_guston_august_from_four_on_plexiglas092425).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/philip-guston-1913-1980-15/308404?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1300.0,1083.3333333333335
+19f3fd6a-173b-44f6-9230-6b958432f66a,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 16,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,LARRY BELL,1939,N/A,SMS #194,mixed media,"paper collage, laminate film, metallic evaporated aluminum and silicon monoxide on canvas",N/A,30.125,30.125,in,yes,yes,yes,1991,"Gift of the artist to the late owner, 1992","paper collage, laminate film, metallic aluminum, silicon monoxide, canvas, abstract, multicolor, grid pattern",1,N/A,original,"SMS #194
+signed, titled and dated twice 'L. BELL 91 SMS #194 12/3/91' (on the reverse)
+paper collage, laminate film, metallic evaporated aluminum and silicon monoxide on canvas
+30
+1
+⁄
+8
+ x 30
+1
+⁄
+8
+ in. (76.5 x 76.5 cm.)
+Executed in 1991.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0016_000(larry_bell_sms_194092432).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/larry-bell-b-1939-16/308406?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+8c53bb41-dbc0-4117-9d21-d482481d2bab,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 17,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,JOHN BALDESSARI,1931,2020,Hegel's Cellar,prints,"photogravures with aquatint (seven in colors, two with sanding and one with embossment), Rives BFK paper, anodized aluminum, African Padauk wood, gray felt",1.875,24.875,32.25,in,yes,yes,yes,1986,"Published by Multiples, Inc.
+Acquired from the above by the late owner","photographs, figures, hands, water, crowds, animals, horse, objects, patterns, landscapes",10,015/35,original,"Hegel's Cellar
+each signed 'BALDESSARI' and numbered 15/35 in pencil (on the reverse)
+ten photogravures with aquatint (seven in colors, two with sanding and one with embossment), on Rives BFK paper
+overall: 32
+1
+⁄
+4
+ x 24
+7
+⁄
+8
+ x 1
+7
+⁄
+8
+ in. (81.9 x 63.2 x 4.8 cm.)
+Executed in 1986. This complete set is number 15 from the edition of 35 plus ten artist's proofs sets. Published by Multiples, Inc., New York. Together with the original anodized aluminum and African Padauk wood box lined with gray felt, lacking the title and colophon pages.
+
+Edition: 015/35",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0017_000(john_baldessari_hegels_cellar092448).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/john-baldessari-1931-2020-17/308405?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+8a49b02e-315b-405b-bad5-6e95f83c4b36,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 18,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,ROY LICHTENSTEIN,1923,1997,"Still Life with Coffee Pot and Flower Pot, from Six Still Lifes",prints,"lithograph and screenprint in colors, on Rives BFK paper",N/A,45.375,30.375,in,no,yes,yes,1974,"Corlett 130; Roy Lichtenstein Catalogue Raisonné 2307; Multiples, Inc. 1974.23","coffee pot, flower pot, green background, red flowers, black lines, geometric patterns, still life",1,N/A,original,"Still Life with Coffee Pot and Flower Pot, from 
+Six Still Lifes
+lithograph and screenprint in colors, on Rives BFK paper
+image: 30
+3
+⁄
+8
+ x 45
+3
+⁄
+8
+ in. (77.2 x 115.3 cm.)
+sheet: 36
+7
+⁄
+8
+ x 51
+7
+⁄
+8
+ in. (93.7 x 131.8 cm.)
+Executed in 1974. This work is an exhibition proof aside from an edition of 100 plus fourteen artist's proofs. Co-published by Multiples, Inc. and Castelli Graphics, New York, with the artist's and publishers' copyright ink stamps on the reverse.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0018_000(roy_lichtenstein_still_life_with_coffee_pot_and_flower_pot_from_six_st092639).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/roy-lichtenstein-1923-1997-18/308407?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10053.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+a87d3ab5-ea66-4f29-b91c-7c691d89371c,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 19,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,ROY LICHTENSTEIN,1923,1997,Modern Head Pendant,decorative arts,enamel and metal,N/A,2.375,3.125,in,yes,yes,yes,1968,"Published by Multiples, Inc.
+Acquired from the above by the late owner","pendant, enamel, metal, abstract shapes, colors, lightning, stylized figure, patterns, incised signature, copyright stamp",1,N/A,original,"Modern Head Pendant
+with the artist's incised signature and copyright stamp on the reverse
+enamel and metal pendant with pin multiple
+overall: 3
+1
+⁄
+8
+ x 2
+3
+⁄
+8
+ in. (7.9 x 6 cm.)
+Executed in 1968. This work is from the edition of unknown size. Published by Multiples, Inc., New York, with their incised stamp on the reverse.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0019_000(roy_lichtenstein_modern_head_pendant092645).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/roy-lichtenstein-1923-1997-19/308408?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,2538.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+a3844b4f-4b12-49f2-bdf3-30fb51c06340,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 20,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,ROY LICHTENSTEIN,1923,1997,Still Life with Crystal Bowl,prints,"screenprint and lithograph in colors, on Rives BFK paper",N/A,43.375,31.875,in,yes,yes,yes,1975,"Published by Multiples, Inc.
+Acquired from the above by the late owner","still life, crystal bowl, bottle, abstract shapes, striped patterns, color blocks, geometric forms, green, yellow, blue",1,N/A,original,"Still Life with Crystal Bowl
+signed and dated 'rf Lichtenstein '75' in pencil (lower right)
+screenprint and lithograph in colors, on Rives BFK paper
+image: 31
+7
+⁄
+8
+ x 43
+3
+⁄
+8
+ in. (81 x 110.2 cm.)
+sheet: 37
+3
+⁄
+4
+ x 49
+1
+⁄
+4
+ in. (95.9 x 125.1 cm.)
+Executed in 1975. This work is a proof aside from the edition of 45 plus ten artist's proofs. Co-published by Multiples, Inc. and Castelli Graphics, New York.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0020_000(roy_lichtenstein_still_life_with_crystal_bowl092659).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/roy-lichtenstein-1923-1997-20/308410?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,15087.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+80bbc025-e0e5-498c-a586-06d2211de814,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 21,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,JAMES ROSENQUIST,1933,2017,Horse Blinders,prints,"lithographs and screenprints in colors with silver foil collage, on Arches paper",N/A,68,36.5,in,yes,yes,yes,1972,"Glenn 60; Multiples, Inc. 1972.04","color, abstraction, geometric shapes, patterns, light, texture, collage, stripes, fluid forms, surfaces",4,076/85,original,"Horse Blinders
+each signed, titled and dated ""James Rosenquist 1972' and numbered '76/85' (lower sheet edge) in pencil.
+four lithographs and screenprints in colors with silver foil collage, on Arches paper
+largest sheet: 36
+1
+⁄
+2
+ x 68 in. (92.7 x 172.7 cm.)
+Executed in 1972. This complete set is number 76 from the edition of 85 plus nineteen artist's proofs. Co-published by Multiples, Inc. and Castelli Graphics, New York, each with their blindstamps and the artist's and the Multiples, Inc. copyright ink stamps on the reverse.
+
+Edition: 076/85",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0021_000(james_rosenquist_horse_blinders092712).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/james-rosenquist-1933-2017-21/308409?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,15087.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+db440850-d6ee-4ac1-a3c1-d3dae9c547a2,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 22,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,JASPER JOHNS,1930,N/A,Screen Piece,prints,"screenprint in colors, on Rives BFK paper",N/A,20,31.25,in,yes,yes,yes,1972,Universal Limited Art Editions 101,"fork, spoon, colors, text, abstract shapes, spoon, gray background, yellow, pink, green",1,066/67,original,"Screen Piece
+signed and 'Jasper Johns 72' in pencil (lower right), numbered 66/67 (lower left)
+screenprint in colors, on Rives BFK paper
+image: 31
+1
+⁄
+4
+ x 20 in. (79.4 x 50.8 cm.)
+sheet: 41
+1
+⁄
+4
+ x 29
+1
+⁄
+4
+ in. (104.8 x 74.4 cm.)
+Executed in 1972. This work is number 66 from an edition of 67 plus fifteen artist's proofs. Co-published by the artist and Simca Print Artists, Inc., New York, with the Simca blindstamp.
+
+Edition: 066/67",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0022_000(jasper_johns_screen_piece092732).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/jasper-johns-b-1930-22/308411?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,4038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+0d0bc96f-a0af-49a5-aea3-2a13f3ac4508,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 23,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,JOE GOODE,1937,2025,Untitled,prints,"lithograph and screenprint in colors, on three sheets of Rives BFK paper",N/A,42,23.75,in,yes,yes,no,1972,"Cirrus p. 240; Multiples, Inc. 1972.01","blue, orange, gradient, three sheets",1,N/A,original,"Untitled
+signed in pencil (on the lower right of the center sheet and lower left of the right sheet), annotated 'Artist proof' (on the lower right of the left sheet and the lower left of the center sheet)
+lithograph and screenprint in colors, on three sheets of Rives BFK paper
+each sheet: 23
+3
+⁄
+4
+ x 42 in. (60.3 x 106.7 cm.)
+Executed in 1972. This work is an artist's proof aside from the edition of 75. Co-published by Multiples., Inc. and Cirrus Editions, New York and Los Angeles, with the Cirrus blindstamp on the left sheet.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0023_000(joe_goode_untitled092750).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/joe-goode-1937-2025-23/308412?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1300.0,1083.3333333333335
+3ea685a9-d470-4c03-8e1e-fbc0237c3364,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 24,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,ED RUSCHA,1937,N/A,A group of eleven artist's books,mixed media,"offset printing, various wove papers",0.25,8,10,in,yes,yes,yes,1966,"Engberg B2-B8, B10, B12-13, B16","artist's books, signage, text, photographic pages, typography, abstract covers, color variations, various themes, binding styles, wove paper",11,N/A,original,"A group of eleven artist's books
+seven signed or annotated in various inks
+eleven artist's books with offset printing, on various wove papers
+largest overall: 10 x 8 x 
+1
+⁄
+4
+ in. (25.4 x 20.3 x .6 cm.)
+Executed between 1966-1974. Each from various editions. Published by the artist or Heavy Industry Publications, Hollywood, California.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0024_000(ed_ruscha_a_group_of_eleven_artists_books092826).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/ed-ruscha-b-1937-24/308414?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+f6697a7c-114a-46a4-97c7-e4f3f7a663d8,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 25,USD,7000,9000,N/A,N/A,7000,9000,N/A,N/A,ROBERT FRANK,1924,2019,"Peru (El Ford), 1948",photographs,gelatin silver print,N/A,13.5,9.375,in,yes,yes,yes,1948,N/A,"billboard, car, mountains, sky, buildings, road, signage",1,N/A,original,"Peru (El Ford), 1948
+gelatin silver print, likely printed 1970s
+signed, titled and dated in ink (margin); signed and dated in ink, numbered 'RF2-14' and '924' within stamped photographer's copyright and 'Robert Frank Archive' credits (verso)
+image: 9
+3
+⁄
+8
+ x 13
+1
+⁄
+2
+ in. (23.8 x 34.3 cm.)
+sheet: 11 x 14 in. (27.9 x 35.6 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0025_000(robert_frank_peru_1948092833).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/robert-frank-1924-2019-25/308413?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10038.74,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,8500.0,7083.333333333334
+f51e60be-c500-4709-b076-9572147bc288,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 26,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,ED RUSCHA,1937,N/A,Insects,prints,"screenprints, paper-backed wood veneer, Fabriano Classico glazed-finish watercolor paper",1,27.375,20.5,in,yes,yes,yes,1972,"The artist
+Acquired from the above by the late owner","insects, wood veneer, watercolor paper, screenprints, portfolio box, soil",6,N/A,original,"Insects
+each signed and dated 'E. Ruscha 1972' and numbered 'A.P. XII' in pencil (at the lower sheet edges)
+six screenprints in colors, three on paper-backed wood veneer and three on Fabriano Classico glazed-finish watercolor paper
+overall: 20
+1
+⁄
+2
+ x 27
+3
+⁄
+8
+ x 1 in. (52.1 x 69.5 x 2.5 cm.)
+Executed in 1972. This complete set is one of fifteen artist's proof sets aside from the edition of 100. Published by Multiples, Inc., New York, with the artist's and publisher's copyright ink stamp on the reverse. With the combined title and colophon page, each the full sheet, together with the original raw linen-covered portfolio box, with plastic cover encapsulating brownish-red soil.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0026_000(ed_ruscha_insects094515).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/ed-ruscha-b-1937-26/308415?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+aa4b7342-5ee4-4966-88ea-889ddb7338f0,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 27,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,CLAES OLDENBURG,1929,2022,Miniature Soft Drum Set,mixed media,"three-dimensional screenprint on canvas, wash-line, wood, spray enamel",13.75,19,9.75,in,no,yes,yes,1969,"Published by Multiples, Inc.
+Acquired from the above by the late owner","miniature drum set, canvas, wood, spray enamel, metal snaps, colophon page",1,N/A,original,"Miniature Soft Drum Set
+three-dimensional screenprint on canvas, with wash-line, wood and spray enamel
+overall: 9
+3
+⁄
+4
+ x 19 x 13
+3
+⁄
+4
+ in. (24.8 x 48.3 x 34.9 cm.)
+Executed in 1969-1970. This work is presumably a proof aside from an edition of 200 plus eighteen artist's proofs. Published by Multiples, Inc., New York. Together with the original soft translucent vinyl sewn bag with seven metal snaps and screenprinted wood box, the wood and screenprinted paper covered base and colophon page.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0027_000(claes_oldenburg_miniature_soft_drum_set093015).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/claes-oldenburg-1929-2022-27/308416?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1350.0,1125.0
+4971cfbe-6010-48f5-ad06-67ccb9078a1d,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 28,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,JOSEPH BEUYS,1921,1986,Untitled,drawing,graphite and ink on brown envelope,N/A,13.75,9.75,in,no,yes,no,1970,Acquired directly from the artist by the late owner,"envelope, bottle, line drawing, label, abstract shape, text, ink, graphite, brown paper, minimalism",1,N/A,original,"Untitled
+graphite and ink on brown envelope
+9
+3
+⁄
+4
+ x 13
+3
+⁄
+4
+ in. (24.8 x 34.9 cm.)
+Executed 
+circa 
+1970.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0028_000(robert_rauschenberg_opal_gospel101906).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/joseph-beuys-1921-1986-28/308418?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,3777.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+f23f7b09-6816-491f-96c2-72787d880213,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 29,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,RICHARD ARTSCHWAGER,1923,2013,Untitled,furniture,"Formica on wood, brass hardware, glass, mirror, rubberized horse hair",12.875,14.625,11.5,in,yes,yes,no,1971,"Published by Multiples, Inc.
+Acquired from the above by the late owner","wooden box, drawers, Formica, brass hardware, glass, mirror, rubberized horse hair",1,N/A,original,"Untitled
+signed 'Artschwager' in brown ink on a label affixed to the underside
+wooden box multiple with five drawers, with Formica on wood, brass hardware, glass, mirror and rubberized horse hair
+overall: 11
+1
+⁄
+2
+ x 14
+5
+⁄
+8
+ x 12
+7
+⁄
+8
+ in. (29.2 x 37.1 x 32.7 cm.)
+Executed in 1971. This work is from the edition of 50. Published by Multiples, Inc., New York.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0029_000(joseph_beuys_untitled101935).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/richard-artschwager-1923-2013-29/309118?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1266.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1350.0,1125.0
+c961f8fb-287c-4751-931e-6f7a1e8bf391,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 30,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,RICHARD ARTSCHWAGER,1923,2013,Untitled,drawing,charcoal on paper,N/A,25.125,18.875,in,yes,yes,no,1983,Acquired directly from the artist by the late owner,"door, perspective, lines, light, shadows, interior, textured surface",1,N/A,original,"Untitled
+signed and dated 'Artschwager 83' (lower right)
+charcoal on paper
+18
+7
+⁄
+8
+ x 25
+1
+⁄
+8
+ in. (48 x 63.8 cm.)
+Executed in 1983.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0030_000(richard_artschwager_untitled101956).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/richard-artschwager-1923-2013-30/309119?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,2536.07,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+697c11ce-9a6a-409d-bc9a-ba2597a179dc,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 31,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,RICHARD TUTTLE,1941,N/A,Valentine's Day I,painting,watercolor on ruled paper,1.5,14.125,9.5,in,yes,yes,yes,1983,Acquired directly from the artist by the late owner,"watercolor, ruled paper, abstract shapes, blue color, yellow color, red color, art frame",1,N/A,original,"Valentine's Day I
+signed, titled, and dated twice 'VALENTINE'S DAY I (1983) Richard Tuttle 6 Jan 83' (on the reverse of the backing board)
+watercolor on ruled paper, in artist's wooden frame
+9
+1
+⁄
+2
+ x 14
+1
+⁄
+8
+ x 1
+1
+⁄
+2
+ in. (24.1 x 35.9 x 3.8 cm.)
+Executed in 1983.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0031_000(richard_artschwager_untitled102014).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/richard-tuttle-b-1941-31/309120?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+1ff223a1-dacd-4207-8477-6370d63f2f6c,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 32,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,MARTIN DISLER,1949,1996,Untitled (Sameday),painting,oil on canvas,N/A,38.125,51.125,in,yes,yes,no,1986,Gift of the artist to the late owner,"abstract, portrait, expressionism, oil paint, colors, texture, human figure, dynamic composition, dark background, vibrant hues",1,N/A,original,"Untitled (Sameday)
+signed, inscribed, titled and dated 'Disler Sameday 1986 New York M. goodman gallery' (on the reverse)
+oil on canvas
+51
+1
+⁄
+8
+ x 38
+1
+⁄
+8
+ in. (129.9 x 96.9 cm.)
+Painted in 1986.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0032_000(richard_tuttle_valentines_day_i102032).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/martin-disler-1949-1996-32/309121?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10077.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+533a4a7a-fdb1-4bb1-bc8a-8eb27fb2d77c,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 33,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,REBECCA HORN,1944,2024,El Calvario,mixed media,"ink, graphite, colored pencil, wine and laurel leaf on paper",N/A,8.125,11.5,in,yes,yes,yes,1998,Acquired directly from the artist by the late owner,"ink, graphite, colored pencil, wine, laurel leaf, paper, abstract composition, fluid lines, organic shapes, color stains",1,N/A,original,"El Calvario 
+signed, titled and dated 'R Horn 1998 El Calvario' (lower edge); signed again and dated again 'Rebecca Horn 1998' (on the reverse of the backing board)
+ink, graphite, colored pencil, wine and laurel leaf on paper
+11
+1
+⁄
+2
+ x 8
+1
+⁄
+8
+ in. (29.2 x 20.7 cm.)
+Executed in 1998.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0033_000(martin_disler_untitled102103).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/rebecca-horn-1944-2024-33/309122?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+0aee8938-b336-41cf-bf80-0b2030edd787,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 34,USD,1500,2000,N/A,N/A,1500,2000,N/A,N/A,MARTIN DISLER,1949,1996,Untitled,painting,oil on paper,N/A,23.75,17.875,in,yes,yes,no,1982,Acquired directly from the artist by the late owner,"face, eyes, abstract forms, colors, paint strokes, green, orange, brown, graphic elements, layered imagery",1,N/A,original,"Untitled
+signed and dated 'disler 82' (lower right)
+oil on paper
+17
+7
+⁄
+8
+ x 23
+3
+⁄
+4
+ in. (45.4 x 60.3 cm.)
+Painted in 1982.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0034_000(rebecca_horn_el_calvario102130).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/martin-disler-1949-1996-34/309124?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1928.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1800.0,1500.0
+e401adcd-6dc3-4816-a15f-adb61d15f6fc,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 35,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,TONY MATELLI,1971,N/A,2016 Leo Award,sculpture,"concrete, metal and painted bronze",6,5.75,18,in,no,yes,yes,2016,"Gift of Independent Curators International to the late owner, 2016, courtesy of the artist","sculpture, head, concrete, strawberries, metal, bronze",1,N/A,original,"2016 Leo Award
+concrete, metal and painted bronze
+18 x 5
+3
+⁄
+4
+ x 6 in. (45.7 x 14.6 x 15.2 cm.)
+Executed in 2016.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0035_000(martin_disler_untitled102159).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/tony-matelli-b-1971-35/309123?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10100.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+26abf32f-5afb-4162-84a9-e8b65629fb7d,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 36,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,VENINI,N/A,N/A,Floor Lamp,decorative arts,"hand-blown glass, brass",N/A,12.375,70,in,no,yes,yes,1940,"A. Venini Diaz de Santillana, 
+Venini. Catalogue Raisonné 1921-1986
+, Milan, 2000, pp. 116, 208, cat. no. 100 (a related example)","floor lamp, glass, brass, lighting, 1940s design, Murano, Italy, hand-blown, home decor",1,N/A,original,"Floor Lamp, circa 1940
+manufactured by Venini & C., Murano, Italy
+hand-blown glass, brass
+70 in. (177.8 cm) high, 12
+3
+⁄
+8
+ in. (31.4 cm) diameter of base",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0036_000(venini_floor_lamp_circa_1940030356).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/venini-36/309125?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,25177.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,28000.0,23333.333333333336
+4a274bab-13d4-4fc6-a9bf-7ea7ea4dede5,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 37,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,ANGELO LELII,1911,1979,"Pair of 'Triennale' Floor Lamps, Model No. 12128, designed 1947",furniture,"chrome-plated steel, painted aluminum",28,38,79.5,in,no,yes,yes,1947,"A. Pansera, A. Padoan and A. Palmaghini, 
+Arredoluce, catalogo ragionato 1943-1987
+, Milan, 2018, pp. 114, 277, no. 7","floor lamps, chrome-plated steel, painted aluminum, light shades, tripod base, adjustable arms, modern design",1,N/A,original,"Pair of 'Triennale' Floor Lamps, Model No. 12128, designed 1947
+produced by Arredoluce, Monza, Italy
+chrome-plated steel, painted aluminum
+79
+1
+⁄
+2
+ x 38 x 28 in. (202 x 96
+1
+⁄
+2
+ x 71.1 cm) (each, as seen)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0037_000(venini_floor_lamp_circa_1940102241).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/angelo-lelii-1911-1979-37/309126?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,15087.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+401a2914-522d-4ec3-bb5e-b78af04fa1fb,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 38,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,CHARMION VON WIEGAND,1899,1983,Gouache #151: The Chakras,mixed media,"ink, gouache and silver leaf on paper mounted on paper, laid down on board",N/A,3.625,9.75,in,yes,yes,yes,1961,Acquired directly from the artist by the late owner,"chakras, colors, circles, vertical lines, geometric shapes, abstract forms, red, blue, green, yellow, orange",1,N/A,original,"Gouache #151: The Chakras
+signed with the artist's initials 'CW' (lower left); dated '1961' (lower right)
+ink, gouache and silver leaf on paper mounted on paper, laid down on board
+image: 9
+3
+⁄
+4
+ x 3
+5
+⁄
+8
+ in. (24.8 x 9.2 cm.)
+sheet: 11
+1
+⁄
+4
+ x 4
+5
+⁄
+8
+ in. (28.6 x 11.8 cm.)
+Executed in 1961.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0038_000(angelo_lelii_pair_of_triennale_floor_lamps_model_no_12128_designed_194102249).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/charmion-von-wiegand-1899-1983-38/309127?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1350.0,1125.0
+fe0f947c-09fb-4351-aa4b-917006906929,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 39,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,GIORGIO MORANDI,1890,1964,Natura morta con sette oggetti in un tondo,prints,"etching, Japon paper",N/A,11.625,10.5,in,yes,yes,yes,1945,Vitali 111,"still life, bottles, containers, shapes, textures, etching, monochrome, circle, objects, composition",1,N/A,original,"Natura morta con sette oggetti in un tondo
+signed 'Morandi' and inscribed 'prova di stampa' in pencil
+etching, on thick 
+Japon 
+paper
+image: 10
+1
+⁄
+2
+ x 11
+5
+⁄
+8
+ in. (26.7 x 29.5 cm.)
+sheet: 14
+3
+⁄
+4
+ x 15
+7
+⁄
+8
+ in. (37.5 x 40.3 cm.)
+Executed in 1945. This work is a printer's proof aside from the edition of 50.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0039_000(charmion_von_wiegand_gouache_151_the_chakras102340).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/giorgio-morandi-1890-1964-39/309140?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,12488.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+6a5f7ebe-1a2b-4edc-b3bb-e009e43ddd91,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 40,USD,1000,2000,N/A,N/A,1000,2000,N/A,N/A,EADWEARD MUYBRIDGE,1830,1904,"Animal Locomotion, Plate 765, 1887",prints,collotype print,N/A,10.875,10.875,in,no,yes,yes,1887,N/A,"birds, flight, locomotion, sequential images, natural history, animal behavior",1,N/A,original,"Animal Locomotion, Plate 765, 1887
+collotype print
+printed title, plate number, date and copyright credit (margin)
+image: 10
+7
+⁄
+8
+ x 10
+7
+⁄
+8
+ in. (27.6 x 27.6 cm.)
+sheet: 18
+3
+⁄
+4
+ x 23
+7
+⁄
+8
+ in. (47.6 x 60.6 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0040_000(giorgio_morandi_natura_morta_con_sette_oggetti_in_un_tondo102423).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/eadweard-muybridge-1830-1904-40/309128?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1500.0,1250.0
+a46d9f2c-d01d-44d5-b6f2-0801646f83ad,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 41,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,WILLIAM WEGMAN,1942,N/A,"Improved Photographs, 1979",prints,"gelatin silver prints with screen-print, flush-mounted on board",N/A,14,10.75,in,yes,yes,yes,1979,Acquired directly from the artist by the late owner.,"dog, cat, girl, stones, duck, fence, abstract shapes, graffiti, black and white photography, artist",10,N/A,original,"Improved Photographs, 1979
+ten gelatin silver prints with screen-print, flush-mounted on board
+each signed, dated and annotated 'A/P' in pencil (mount, verso); credited, titled, dated and numbered on affixed gallery label (frame backing board)
+each image approximately: 10
+3
+⁄
+4
+ x 14 in. (27.3 x 35.6 cm.)
+each sheet/flush mount: 16 x 19
+7
+⁄
+8
+ in. (40.6 x 50.5 cm)
+This work is an artist's proof from an edition of fifteen plus six artist's proofs. Published by Multiples, Inc., New York.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0041_000(eadweard_muybridge_animal_locomotion_plate_765_1887102448).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/william-wegman-b-1942-41/309129?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4600.0,3833.3333333333335
+ff3b3eda-8ec9-4dcc-96e7-aa33eb1e2f7b,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 42,USD,1000,2000,N/A,N/A,1000,2000,N/A,N/A,ANIA BIEN,1946,N/A,"Arp Tree, 1975",photographs,gelatin silver prints,N/A,3.75,2.5,in,yes,yes,yes,1975,Acquired directly from the artist by the late owner.,"tree, bark, road, landscape, texture, black and white, foliage, nature, outdoor, light",1,010/25,original,"Arp Tree, 1975
+four gelatin silver prints
+signed, titled, dated and numbered '10 / 25' in pencil (mat, verso)
+each image: 2
+1
+⁄
+2
+ x 3
+3
+⁄
+4
+ in. (6.4 x 9.5 cm.)
+each sheet: 7 x 9
+1
+⁄
+2
+ in. (17.8 x 24.1 cm.)
+This work is number ten from an edition of twenty-five.
+
+Edition: 010/25",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0042_000(william_wegman_improved_photographs_1979103846).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/ania-bien-b-1946-42/309130?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1600.0,1333.3333333333335
+6a8e5b09-4e1b-4931-a25a-1547858eba9b,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 43,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,RICHARD HAMILTON,1922,2011,Portlligat Portfolio One,prints,"offset prints in colors, on postcards",N/A,4.25,6,in,yes,yes,yes,1974,Lullin p. 264,"postcards, offset prints, colors, figures, textures, landscapes, signatures, manuscripts, edition, portfolio",11,021/22,original,"Portlligat Portfolio One
+each signed and numbered 'Richard Hamilton 21/22' (lower edge)
+eleven offset prints in colors, on postcards
+each sheet: 6 x 4
+1
+⁄
+4
+ in. (15.2 x 10.8 cm.)
+Executed in 1974. This complete set is number twenty one from an edition of twenty two plus two artist's proofs. Publisher by Galeria Cadaqués, Cadaqués.
+
+Edition: 021/22",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0043_000(ania_bien_arp_tree_1975103852).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/richard-hamilton-1922-2011-43/309131?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10100.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+cf350ff4-a191-48ba-b03f-79864cd92b30,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 44,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,REBECCA HORN,1944,2024,Untitled (Happy New Year) [Two Works],mixed media,"acrylic, ink, color photograph",N/A,4.125,5.75,in,yes,yes,no,1997,Gift of the artist to the late owner,"postcard, color photograph, figure, woman, New Year, ink, acrylic, dedication, urban landscape, celebration",2,N/A,original,"Untitled (
+Happy New Year) 
+[Two Works]
+(i) 
+Untitled (
+Happy New Year)
+signed, inscribed and dedicated 'Happy New Year Marian LOVE Rebecca' (lower edge); dated '09 12 1997' (lower center)
+acrylic and ink on postcard
+5
+3
+⁄
+4
+ x 4
+1
+⁄
+8
+ in. (14.6 x 10.5 cm.)
+Executed in 1997.
+(ii) 
+Untitled (
+Happy New Year)
+signed, inscribed, dedicated and dated 'Marian Happy New Year 1999 love Rebecca' 
+ink on color photograph
+9
+1
+⁄
+2
+ x 12 in. (24.1 x 30.5 cm.)
+Executed in 1999.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0044_000(richard_hamilton_portlligat_portfolio_one104024).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/rebecca-horn-1944-2024-44/309132?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1903.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+9e1d2bda-b828-49ce-9a58-984b5946ebb7,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 45,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,DAVID HOCKNEY,1937,N/A,Composition Red & Blue,prints,lithograph in colors on smooth wove paper,N/A,11,4.125,in,no,yes,yes,2005,"Momart, London
+Gift from the above to the late owner, 2005","abstract patterns, shapes, colors, lines, textures, blue, red, yellow, geometric forms",1,N/A,original,"Composition Red & Blue
+lithograph in colors on smooth wove paper in folded portfolio
+sheet: 4
+1
+⁄
+8
+ x 11 in. (10.6 x 28 cm.)
+portfolio: 8
+1
+⁄
+4
+ x 11
+3
+⁄
+4
+ in. (21 x 29.7 cm.)
+Executed in 2005. This work is from an edition of unknown size. Published by Momart Ltd., London.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0045_000(david_hockney_composition_red_amp_blue104111).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/david-hockney-b-1937-45/309133?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1010.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1300.0,1083.3333333333335
+8a774944-a83d-451b-88ac-3a69dd83acaa,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 46,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,ED RUSCHA,1937,N/A,"We The People, from Artists for Obama",prints,"lithograph in black and brown, on wove paper",N/A,14,14,in,yes,yes,yes,2012,"Marian Goodman Gallery, New York
+Acquired from the above by the late owner, 2018","text, typography, letter, calligraphy, black, brown, abstract, graphic design, composition, number, year",1,134/150,original,"We The People, from 
+Artists for Obama
+signed and dated 'Ed Ruscha 2012' in pencil, numbered '134/150' (lower sheet edge)
+lithograph in black and brown, on wove paper
+sheet: 14 x 14 in. (35.6 x 35.6 cm.)
+Executed in 2012. This work is number 134 from an edition of 150 plus 28 artist's proofs. Published by Gemini, G.E.L., Los Angeles, with their blindstamps and presumably with their ink stamp on the reverse.
+
+Edition: 134/150",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0046_000(ed_ruscha_we_the_people_from_artists_for_obama104129).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/ed-ruscha-b-1937-46/309141?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,2538.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+3cbdb316-114b-472f-8259-d8216a01dec7,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 47,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,JOSEPH BEUYS,1921,1986,American Hare Sugar (Amerikanischer Hasenzucker),mixed media,"sugar cube, cardboard box, cotton wool, screenprint on smooth wove paper",2.75,3.375,4.5,in,yes,yes,yes,1974,Schellmann 96b,"sugar cube, cardboard box, cotton wool, print, artist's proof, cultural commentary, packaging, minimalism, conceptual art, signed works",1,N/A,original,"American Hare Sugar (Amerikanischer Hasenzucker)
+signed and numbered 'Joseph Beuys IV/XV' in pencil (on the underside of the box), signed in blue ink (on the sugar cube), signed, titled and numbered 'Hasenzucker Joseph Beuys IV/XV' in pencil on the print (center left image)
+wrapped and stamped sugar cube multiple, in cardboard box with cotton wool, together with screenprint on smooth wove paper
+overall: 4
+5
+⁄
+8
+ x 3
+3
+⁄
+8
+ x 2
+3
+⁄
+4
+ in. (11.7 x 8.6 x 7 cm.)
+sheet: 20
+1
+⁄
+8
+ x 35 in. (51 x 88.9 cm.)
+Executed in 1974. This work is artist's proof IV/XV aside from the edition of 40. Published by Edition Staeck, Heidelberg, with their ink stamp on the box and the reverse of the print.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0047_000(joseph_beuys_american_hare_sugar104155).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/joseph-beuys-1921-1986-47/309135?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1350.0,1125.0
+4979c1c0-7c21-4b47-bb23-c4038813e7b7,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 48,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,ANDY WARHOL,1928,1987,Flowers (Black and White): one print,prints,"screenprint, J. Green paper",N/A,27.25,40.75,in,yes,yes,yes,1974,"The artist
+Acquired from the above by the late artist","flower, sunflower, vase, stem, leaf",1,041/100,original,"Flowers (Black and White)
+: one print
+initialed in pencil (lower right), signed, dated and numbered 'Andy Warhol 74 41/100' in pencil (on the reverse)
+screenprint, on J. Green paper
+sheet: 40
+3
+⁄
+4
+ x 27
+1
+⁄
+4
+ in. (103.5 x 69.2 cm.)
+Executed in 1974. This print is number 41 from an edition of 100. Co-published by Multiples, Inc., Peter M. Brant, and Castelli Graphics, New York, with the artist's and publishers' copyright ink stamps on the reverse.
+
+Edition: 041/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0048_000(andy_warhol_flowers_one_print104225).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/andy-warhol-1928-1987-48/309134?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,5038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5500.0,4583.333333333334
+5b4745c5-275a-4293-b1e0-3fda91bdc531,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 49,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,ANDY WARHOL,1928,1987,Flowers (Black and White),prints,"screenprint, J. Green paper",N/A,27.5,40.625,in,yes,yes,yes,1974,"The artist
+Acquired from the above by the late artist","flowers, vase, black and white, artistic lines, nature",1,054/100,original,"Flowers (Black and White)
+: one print
+initialed in pencil (lower right), signed, dated and numbered 'Andy Warhol 74 54/100' in pencil (on the reverse)
+screenprint, on J. Green paper
+sheet: 40
+5
+⁄
+8
+ x 27
+1
+⁄
+2
+ in. (103.2 x 69.9 cm.)
+Executed in 1974. This work is number 54 from an edition of 100. Co-published by Peter M. Brant, Castelli Graphics and Multiples Inc., New York, with the artist's and publishers' copyright ink stamps on the reverse.
+
+Edition: 054/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0049_000(andy_warhol_flowers_one_print104233).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/andy-warhol-1928-1987-49/309136?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10017.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+fa80e770-bc09-4522-8ca7-cb67f628d990,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 50,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,ANDY WARHOL,1928,1987,Flowers (Black and White),prints,"screenprint, J. Green paper",N/A,27.625,40.875,in,yes,yes,yes,1974,"The artist
+Acquired from the above by the late artist","flowers,vase,leaves",1,054/100,original,"Flowers (Black and White)
+: one print
+initialed in pencil (lower right), signed, dated and numbered 'Andy Warhol 74 54/100' in pencil (on the reverse)
+screenprint, on J. Green paper
+sheet: 40
+7
+⁄
+8
+ x 27
+5
+⁄
+8
+ in. (103.8 x 70.2 cm.)
+Executed in 1974. This work is number 54 from an edition of 100. Co-published by Peter M. Brant, Castelli Graphics, and Multiples Inc., New York, with the artist's and publishers' copyright ink stamps on the reverse.
+
+Edition: 054/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0050_000(andy_warhol_flowers_one_print104242).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/andy-warhol-1928-1987-50/309142?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,10017.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+e84858f5-b7e3-4044-85c0-eccd1853225a,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 51,USD,1500,2500,N/A,N/A,1500,2500,N/A,N/A,WILLIAM KENTRIDGE,1955,N/A,"Untitled (Artist Standing), from HMV",prints,"etching and drypoint, on Richard de Bas handmade paper",N/A,8,6.5,in,yes,yes,no,1998,"The artist
+Gift from the above to the late owner","artist, figure, drawing, etching, drypoint, handmade paper, standing, chair, proof, annotation",1,N/A,original,"Untitled (Artist Standing), from 
+HMV
+signed 'William Kentridge' and annotated 'Proof' in pencil
+etching and drypoint, on Richard de Bas handmade paper
+image: 6
+1
+⁄
+2
+ x 8 in. (16.5 x 20.3 cm.)
+sheet: 15
+1
+⁄
+2
+ x 18
+1
+⁄
+8
+ in. (39.4 x 46 cm.)
+Executed in 1998. This work is a proof aside from the edition of 50. Published by David Krut Fine Art, London.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0051_000(william_kentridge_untitled_from_hmv104251).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/william-kentridge-b-1955-51/308446?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1928.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2100.0,1750.0
+2c0e7633-a0f6-4298-bc3b-0652233cdc2f,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 52,USD,800,1200,N/A,N/A,800,1200,N/A,N/A,DAN FLAVIN,1933,1996,a carefully rendered cross-like design —for circular fluorescent light,prints,"etching and drypoint, on Rives BFK paper",N/A,5,3,in,yes,yes,yes,1973,"The artist
+Acquired from the above by the late owner","cross, design, circles, light, etching, drypoint, paper, numbered, titled, dated",1,N/A,original,"a carefully rendered cross-like design ""—for circular fluorescent light""
+initialed, titled, numbered and dated '—for circular fluorescent light — of 18 DF 1973' in pencil (in the lower margin)
+etching and drypoint, on Rives BFK paper
+image: 3 x 5 in. (7.6 x 12.7 cm.)
+sheet: 8
+1
+⁄
+2
+ x 11 in. (21.6 x 27.9 cm.)
+Executed in 1973. This work is from an edition of eighteen. Co-published by Multiples, Inc. and Castelli Graphics, New York. Together with the justification pages and the original three-ring binder and cloth slipcase.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0052_000(dan_flavin_a_carefully_rendered_cross-like_design_8212for_circular_flu104313).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/dan-flavin-1933-1996-52/309137?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1016.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1100.0,916.6666666666667
+fd5fbcdd-3fc5-4022-897a-e8d8d742b7e6,Artwork,Christies,24968,2024-05-08,New York,Breaking Ground: The Private Collection of Marian Goodman Part I,https://www.christies.com/en/auction/breaking-ground-the-private-collection-of-marian-goodman-part-i-24968-nyr/,Lot 53,USD,800,1200,N/A,N/A,800,1200,N/A,N/A,RICHARD ARTSCHWAGER,1923,2013,Untitled,prints,"etching with roulette and aquatint, on Arches paper",N/A,10.5,8.875,in,yes,yes,no,1979,N/A,"landscape, field, grasses, texture, black and white, etching, pattern, aquatint, artist's proof, 1970s",1,N/A,original,"Untitled
+signed and dated 'Artschwager '79', annotated 'A.P. 1/1' and dedicated 'For Marianne Goodman' in pencil
+etching with roulette and aquatint, on Arches paper
+image: 8
+7
+⁄
+8
+ x 10
+1
+⁄
+2
+ in. (22.5 x 26.7 cm.)
+sheet: 30 x 22
+1
+⁄
+4
+ in. (76.2 x 56.5 cm.)
+Executed in 1979. This work is an artist's proof aside from the edition of 21. Published by Trisolini Art Gallery, University of Ohio, Athens.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24968_0053_000(richard_artschwager_untitled104347).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/breaking-ground-private-collection-marian-goodman-part-i/richard-artschwager-1923-2013-53/309143?ldp_breadcrumb=back,7403.05,26090.73,49686.12,17.82,106.11,4.27,N/A,N/A,1016.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1100.0,916.6666666666667

@@ -1,0 +1,1172 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+efa56057-c1fa-4f53-af27-939a51049bce,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 1,USD,800,1200,None,None,800,1200,None,None,Peter Moran,1841,1914,Lake Tahoe,drawing,watercolor and pencil on brown paper,<NA>,19.625,12.75,in,no,yes,yes,1879,<NA>,"cows, mountains, logs, landscape, grazing, pasture, sky, tent, livestock, vegetation",None,None,"Peter Moran 
+ (American, 1841-1914) 
+ Lake Tahoe , 1879 
+ watercolor and pencil on brown paper 
+ titled and dated  aug '79  in pencil (upper right) 
+ 12 3/4 x 19 5/8 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172270/medium_376976-42_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/1,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,2025-11,gpt-4.1-mini,1100.0,916.6666666666667
+d15517b0-713f-4020-a678-75bb597f8508,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 2,USD,1000,2000,None,None,1000,2000,None,None,William Posey-Silva,1859,1948,Redwoods Near Benbow,painting,oil on canvas laid to panel,<NA>,14.125,17.875,in,no,yes,yes,<NA>,<NA>,"forest, trees, sunlight, path, shadows, foliage, underbrush, cabin, atmosphere, nature",None,None,"William Posey-Silva 
+ (American, 1859-1948) 
+ Redwoods Near Benbow 
+ oil on canvas laid to panel 
+ inscribed  William P Silva  and titled (on the reverse) 
+ 17 7/8 x 14 1/8 inches. 
+ Property of a California Collector 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3163637/medium_376288-571_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/2,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+436de156-ef76-443c-83d6-2b8afda83911,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 3,USD,1500,2500,None,None,1500,2500,None,None,Ransome Gillet Holdredge,1836,1899,Indians Canoeing on a Mountain Lake,painting,oil on canvas laid to Masonite,<NA>,50,30,in,yes,yes,yes,<NA>,"Provenance:
+Texas Commerce Bank, Houston, Texas.","mountains, river, boat, figures, trees, cliffs, water, landscape, sky, rocks",None,None,"Ransome Gillet Holdredge 
+ (American, 1836-1899) 
+ Indians Canoeing on a Mountain Lake 
+ oil on canvas laid to Masonite 
+ signed  R. G. Holdredge  (lower right) 
+ 30 x 50 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3094651/medium_376929-26_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/3,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+81bf9857-08e0-46a1-826a-8a5f667be433,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 4,USD,1500,2500,None,None,1500,2500,None,None,None,<NA>,<NA>,Indians Watching a Wagon Train,painting,oil on canvas,<NA>,30,18,in,yes,yes,yes,19th Century,<NA>,"mountains, Native Americans, river, landscape, snow, sky, figures, rocks, grass, hunt",None,None,"(American, 19th Century) 
+ Indians Watching a Wagon Train 
+ oil on canvas 
+ signed illegibly (lower right) 
+ 18 x 30 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172234/medium_377008-64_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/4,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+c710e390-3b76-4b00-8b91-9bbbcb3078ee,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 5,USD,800,1200,None,None,800,1200,None,None,Harvey Young,1840,1901,Estes Park,painting,oil on board,<NA>,26,19,in,yes,yes,yes,1898,"Provenance:
+The Artist.
+Verner Z. Reed, acquired directly from the above.
+Collection of Louis Wecker.
+Collection of Charles C. Smith.
+Private Collection, Colorado.","landscape, mountains, valley, grass, rocks, water, trees, sky, haze, hills",None,None,"Harvey Young 
+ (American, 1840-1901) 
+ Estes Park , 1898 
+ oil on board 
+ signed  Harvey Young  and dated (lower right) 
+ 19 x 26 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3074223/medium_377366-2_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/5,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+96e79497-b7e4-45d2-a196-9e915396e3e3,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 6,USD,2500,3500,None,None,2500,3500,None,None,Richard Lorenz,1858,1915,Milking Time,painting,oil on canvas,<NA>,51,39,in,yes,yes,yes,<NA>,<NA>,"man, cow, calf, hut, trees, grass, landscape, rural, sunlight, garden",None,None,"Richard Lorenz 
+ (American/German, 1858-1915) 
+ Milking Time 
+ oil on canvas 
+ signed  Lorenz  (lower right) 
+ 39 x 51 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2833244/medium_324755-1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/6,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+0b09bf29-a43a-40b4-91b0-5c5bb8ee1671,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 7,USD,1000,2000,None,None,1000,2000,None,None,Benton Clark,1895,1964,Shooting the Rapids,painting,oil on canvas,<NA>,22,30,in,yes,yes,yes,1925,<NA>,"canoe, men, river, rapids, rocks, water, paddle, adventure, splash, trees",None,None,"Benton Clark 
+ (American, 1895-1964) 
+ Shooting the Rapids,  1925 
+ oil on canvas 
+ signed  Benton Clark  and dated (lower left) 
+ 30 x 22 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108516/medium_376803-96_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/7,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1850.0,1541.6666666666667
+9837365d-a7b5-4dab-a1d7-dee237fcac05,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 8,USD,1000,2000,None,None,1000,2000,None,None,Lawrence Earle,1845,1921,Tying Flies,painting,oil on canvas,<NA>,22,16,in,yes,yes,yes,1921,<NA>,"man, elderly, fishing lures, table, hat, tools, bottle, chair, colorful feathers, workshop",None,None,"Lawrence Earle 
+ (American, 1845-1921) 
+ Tying Flies 
+ oil on canvas 
+ signed  L. Earle  (lower left) 
+ 16 x 22 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108533/medium_376803-99_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/8,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+86313a50-97df-427c-b01d-822540e0744c,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 9,USD,3000,5000,None,None,3000,5000,None,None,Olaf Wieghorst,1899,1988,Apache on Horseback,drawing,"watercolor, pen and ink on board",<NA>,8,10,in,yes,yes,yes,1968,<NA>,"horse, rider, Native American, weapon, feathers, landscape, motion, animal, saddle, clothes",None,None,"Olaf Wieghorst 
+ (Danish/American, 1899-1988) 
+ Apache on Horseback , c. 1968-69 
+ watercolor, pen and ink on board 
+ signed  O-Wieghorst  (lower left, with artist's cipher) 
+ 10 x 8 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172273/medium_376975-20_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/9,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,4200.0,3500.0
+597bfcfc-5d73-44e7-b8e1-a87e10097ae2,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 10,USD,1500,2500,None,None,1500,2500,None,None,Olaf Wieghorst,1899,1988,Untitled (Portrait with Buffalo Headdress),painting,gouache on paper,<NA>,11,14,in,yes,yes,no,<NA>,<NA>,"man, indigenous headdress, horns, facial features, necklace, braids, war paint, expression, colors, background",None,None,"Olaf Wieghorst 
+ (Danish/American, 1899-1988) 
+ Untitled (Portrait with Buffalo Headdress) 
+ gouache on paper 
+ signed  O-Wieghorst  (middle center) 
+ 14 x 11 inches. 
+ Property from the Eiteljorg Family Collection, Englewood, Colorado 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177906/medium_376556-8_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/10,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+0d2accd6-2689-4fad-9645-1c477de7f225,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 11,USD,2000,4000,None,None,2000,4000,None,None,Olaf C. Seltzer,1877,1957,Panning Gold,painting,watercolor on board,<NA>,7.5,10,in,yes,yes,yes,<NA>,<NA>,"man, pan, water, river, hat, beard, boots, shirt, trousers, orange scarf",None,None,"Olaf C. Seltzer 
+ (American, 1877-1957) 
+ Panning Gold 
+ watercolor on board 
+ signed  O. C. SELTZER  (lower left) 
+ 10 x 7 1/2 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172272/medium_376975-38_2.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/11,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+b40a8d02-c224-4b2b-88dd-1b30bc1e0771,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 12,USD,2000,4000,None,None,2000,4000,None,None,Olaf C. Seltzer,1877,1957,The Gambler,drawing,watercolor and pencil on board,<NA>,7.5,10,in,yes,yes,yes,<NA>,<NA>,"man, yellow coat, hat, smoking, red scarf, plaid pants, playing cards, standing pose, shoes, expression",None,None,"Olaf C. Seltzer 
+ (American, 1877-1957) 
+ The Gambler 
+ watercolor and pencil on board 
+ signed  O. C. SELTZER  (lower left) 
+ 10 x 7 1/2 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172274/medium_376975-8_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/12,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+4c1ab69f-1ea0-4d27-8bf5-b0663717cc02,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 13,USD,800,1200,None,None,800,1200,None,None,Edward Borein,1872,1945,Mounted Vaquero,drawing,India ink on paper,<NA>,9,11,in,no,yes,yes,<NA>,<NA>,"man, horse, sombrero, rider, cowboy, saddle, bridle, grass, western",None,None,"Edward Borein 
+ (American, 1872-1945) 
+ Mounted Vaquero 
+ India ink on paper 
+ 
+ 11 x 9 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177931/medium_378004-1_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/13,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+19370b4f-cbd8-4e21-ac77-dbd0d5ce2739,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 14,USD,800,1200,None,None,800,1200,None,None,Edward Borein,1872,1945,"Laguna, New Mexico",prints,etching on paper,<NA>,14.5,11,in,yes,yes,yes,<NA>,<NA>,"buildings, stairs, donkey, horse, village, adobe, landscape, vegetation, shadows, structure",None,None,"Edward Borein 
+ (American, 1872-1945) 
+ Laguna, New Mexico 
+ etching on paper 
+ signed  Edward Borein  in pencil (lower right) 
+ 11 x 14 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177933/medium_378004-2_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/14,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,950.0,791.6666666666667
+4fa70325-b461-4c24-a293-8be3360ef094,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 15,USD,800,1200,None,None,800,1200,None,None,Ned Jacob,1938,<NA>,Standing Indian and Standing Cowboy (A Pair),drawing,charcoal on paper,<NA>,15,24,in,yes,yes,yes,<NA>,<NA>,"man, hat, vest, gun, woman, drum, traditional attire",None,None,"Ned Jacob 
+ (American, b. 1938) 
+ Standing Indian  and  Standing Cowboy (A Pair) 
+ charcoal on paper 
+ each signed  NJ  (lower left) 
+ 24 x 15 inches (largest). 
+ Property from the Eiteljorg Family Collection, Englewood, Colorado 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177907/medium_376556-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/15,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+7fe1b76b-929e-4b4e-bc13-d4b6c7f4af89,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 16,USD,100,200,None,None,100,200,None,None,Gwen Harris,<NA>,<NA>,Old Timer,drawing,pastel on paper,<NA>,16,18,in,yes,yes,yes,1968,<NA>,"man, beard, hat, portrait, brown background",None,None,"Gwen Harris 
+ (American, 20th Century) 
+ Old Timer,  1968 
+ pastel on paper 
+ signed  Gwen  and dated (lower right) 
+ 18 x 16 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177917/medium_377643-6_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/16,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,175.0,145.83333333333334
+aacad7b7-4a70-4592-a5cb-0cce1ecfcd19,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 17,USD,3000,5000,None,None,3000,5000,None,None,Frank B. Hoffman,1888,1958,Night Rider,painting,oil on Masonite,<NA>,20,16,in,no,yes,yes,<NA>,<NA>,"cowboy, horse, night sky, mountains, grass, stars, saddle, reins, figure, landscape",None,None,"Frank B. Hoffman 
+ (American, 1888-1958) 
+ Night Rider 
+ oil on Masonite 
+ 
+ 16 x 20 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177938/medium_378004-4_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/17,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,4200.0,3500.0
+1d70083b-9616-4b89-8f5f-18b8d1b27660,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 18,USD,400,600,None,None,400,600,None,None,Marco Antonio Gomez,1910,1972,Along the Rio Grande,painting,oil on canvas,<NA>,24,20,in,yes,yes,yes,<NA>,<NA>,"two cowboys, horses, mountains, river, rocks, blue sky, clouds, green vegetation, orange hills, saddle",None,None,"Marco Antonio Gomez 
+ (American, 1910-1972) 
+ Along the Rio Grande 
+ oil on canvas 
+ signed  M. A. Gomez  (lower right); signed and titled (on the reverse) 
+ 20 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177924/medium_377643-26_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/18,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,550.0,458.33333333333337
+1aea5b36-0653-4c60-959f-98fb1f8c5c58,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 19,USD,600,800,None,None,600,800,None,None,Marco Antonio Gomez,1910,1972,Two Riders,painting,oil on canvas,<NA>,16,12,in,yes,yes,yes,<NA>,<NA>,"cowboys, horses, landscape, mountains, clouds, ranch, trail, western, riding, nature",None,None,"Marco Antonio Gomez 
+ (American, 1910-1972) 
+ Two Riders 
+ oil on canvas 
+ signed  M. A. Gomez  (lower right); signed and titled (on the reverse) 
+ 12 x 16 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168410/medium_377643-15_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/19,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+db9f6815-6fab-460a-9b4b-16a9107999bd,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 20,USD,2000,3000,None,None,2000,3000,None,None,Ray C. Strang,1893,1957,Chuck Wagon,painting,oil on Masonite,<NA>,30,24,in,yes,yes,yes,<NA>,<NA>,"horses, wagon, cowboys, mountains, landscape, sky, clouds, ranching, sunset, terrain",None,None,"Ray C. Strang 
+ (American, 1893-1957) 
+ Chuck Wagon 
+ oil on Masonite 
+ signed  STRANG  (lower left) 
+ 24 x 30 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3123538/medium_376929-17_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/20,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+7989f246-e8fd-4212-a621-8a8e52f537cb,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 21,USD,1500,2500,None,None,1500,2500,None,None,Manning De Villeneuve Lee,1894,1980,Up went the rifle to the Pomo's shoulder (Illustration for The Overland Trail),painting,oil on canvas,<NA>,30,36,in,yes,yes,yes,1927,<NA>,"horses, riders, guns, motion, desert landscape, dust, plants, clothing, green vegetation, building",None,None,"Manning De Villeneuve Lee 
+ (American, 1894-1980) 
+ Up went the rifle to the Pomo's shoulder (Illustration for The Overland Trail) , c. 1927 
+ oil on canvas 
+ signed  M. deV. Lee  (lower right) 
+ 36 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108665/medium_376803-105_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/21,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+67896f89-d344-44eb-9bc5-20fa0b51cb46,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 22,USD,800,1200,None,None,800,1200,None,None,Ferdinand Burgdorff,1881,1975,Pals,painting,oil on Masonite,<NA>,36,30,in,yes,yes,yes,1958,"Provenance:
+Valley National Bank Collection, Phoenix, Arizona.","man, horse, mountains, grassland, saddle, cowboy hat, landscape, sky, shrub, wilderness",None,None,"Ferdinand Burgdorff 
+ (American, 1881-1975) 
+ Pals , 1958 
+ oil on Masonite 
+ signed  Ferdinand Burgdorff  and dated (lower right); titled (on artist's label affixed to the reverse) 
+ 30 x 36 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171376/medium_376929-51_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/22,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+a8da0e3b-96d0-4fa0-9b2b-1e795f6cf5f6,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 23,USD,800,1200,None,None,800,1200,None,None,Bill Freeman,1927,2012,The Hunter,painting,oil on canvas,<NA>,40,30,in,yes,yes,yes,<NA>,<NA>,"man, horse, mountains, landscape, rider, pack animals, brown horse, white horse, saddle, trees",None,None,"Bill Freeman 
+ (American, 1927-2012) 
+ The Hunter 
+ oil on canvas 
+ signed  Bill Freeman  (lower right) 
+ 30 x 40 inches 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2876288/medium_325225-148_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/23,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+e386e1a0-0841-4649-9fda-b47813b711e0,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 24,USD,800,1200,None,None,800,1200,None,None,Charles Damrow,1916,1989,Heading for Town,painting,oil on canvas,<NA>,37,25,in,yes,yes,yes,<NA>,<NA>,"two cowboys, horses, mountains, stream, sunset, rocks, clouds, landscape, water, western",None,None,"Charles Damrow 
+ (American, 1916-1989) 
+ Heading for Town 
+ oil on canvas 
+ signed  CHARLES DAMROW  (lower left); signed and titled (on the reverse) 
+ 25 x 37 inches.  
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3123619/medium_376929-54_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/24,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+cb9bf28c-8b35-40ab-b53e-9b6422103c42,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 25,USD,300,500,None,None,300,500,None,None,G. (Gerald Harvey Jones) Harvey,1933,2017,When Leases Change,prints,lithograph on paper,<NA>,32,19,in,yes,yes,yes,1991,<NA>,"horses, cowboys, oil rigs, snow, winter, village, lights, trees, buildings, night",None,None,"G. (Gerald Harvey Jones) Harvey 
+ (American, 1933-2017) 
+ When Leases Change , 1991 
+ lithograph on paper 
+ signed  G. Harvey  and numbered  218/150 AP  (lower edge) 
+ 19 x 32 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177929/medium_377795-1_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/25,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,420.0,350.0
+36bfa749-6ad3-477f-a2b2-7baeacecf28c,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 26,USD,1500,2500,None,None,1500,2500,None,None,Ernest Chiriacka,1913,2010,Mountain Men and Wagon Train,painting,oil on Masonite,<NA>,30,24,in,yes,yes,yes,1978,<NA>,"horses, riders, landscape, desert, gun, historical figures, orange, brown, distant figures, blue sky",None,None,"Ernest Chiriacka 
+ (American, 1913-2010) 
+ Mountain Men and Wagon Train , 1978 
+ oil on Masonite 
+ signed  E. Chiriacka  and dated (lower left) 
+ 24 x 30 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172275/medium_377009-51_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/26,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+99ad191a-07f9-4296-8040-04f8ca4cac55,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 27,USD,1000,2000,None,None,1000,2000,None,None,Ross Stefan,1934,1999,Just Enough Shade,painting,oil on canvas,<NA>,25,16,in,yes,yes,yes,<NA>,<NA>,"horses, saddles, tree, building, dirt, sunlight, shadows, landscape, outdoor",None,None,"Ross Stefan 
+ (American, 1934-1999) 
+ Just Enough Shade 
+ oil on canvas 
+ signed  Ross Stefan  (lower left) 
+ 16 x 25 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3137690/medium_376929-34_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/27,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1600.0,1333.3333333333335
+8aeb460c-be1a-4fb9-bbe3-c7e99cefab28,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 28,USD,600,800,None,None,600,800,None,None,Roy Kerswill,1925,2002,Fording the South Platte River,painting,oil on canvas,<NA>,48,36,in,yes,yes,yes,<NA>,<NA>,"cattle, carts, water, figures, landscape, farming, men, women, animals, sky",None,None,"Roy Kerswill 
+ (American, 1925-2002) 
+ Fording the South Platte River 
+ oil on canvas 
+ signed  Kerswill  (lower left) 
+ 36 x 48 inches. 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2862129/medium_325225-244_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/28,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,750.0,625.0
+64582f75-e13f-429d-868b-df3b175c8702,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 29,USD,800,1200,None,None,800,1200,None,None,Ferdinand Burgdorff,1881,1975,Cottonwood Trees,painting,oil on Masonite,<NA>,40,30,in,yes,yes,yes,1960,<NA>,"trees, horse, wagon, figure, woman, autumn, mountain, field, sky, clouds",None,None,"Ferdinand Burgdorff 
+ (American, 1881-1975) 
+ Cottonwood Trees , 1960 
+ oil on Masonite 
+ signed  Ferdinand Burgdorff  and dated (lower right); titled (on artist's label affixed to the reverse) 
+ 30 x 40 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171363/medium_376929-49_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/29,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+b008c50b-8f34-494d-8cc9-fc9217b21d7a,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 30,USD,800,1200,None,None,800,1200,None,None,Ferdinand Burgdorff,1881,1975,"Window Rock, Navajo Tribal Headquarters Near St. Michael's, Arizona",painting,oil on Masonite,<NA>,40,30,in,yes,yes,yes,1960,<NA>,"mountains, wagon, horses, cow, people, desert, trees, rock formations, sky, round opening",None,None,"Ferdinand Burgdorff 
+ (American, 1881-1975) 
+ Window Rock, Navajo Tribal Headquarters Near St. Michael's, Arizona , 1960 
+ oil on Masonite 
+ signed  Ferdinand Burgdorff  and dated (lower right); titled (on artist's label affixed to the reverse) 
+ 30 x 40 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171496/medium_376929-50_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/30,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+962262a4-29c8-493d-b88b-2c4eeb5313a2,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 31,USD,1000,2000,None,None,1000,2000,None,None,Ferdinand Burgdorff,1881,1975,"Indian Camp on the Slopes of San Francisco Peaks, on the Road to the Snow Bowl",painting,oil on Masonite,<NA>,46,34,in,yes,yes,yes,1952,"Provenance:
+Valley National Bank Collection, Phoenix, Arizona.","mountain, horse, rider, wagon, trees, field, grass, blue sky, autumn, nature",None,None,"Ferdinand Burgdorff 
+ (American, 1881-1975) 
+ Indian Camp on the Slopes of San Francisco Peaks, on the Road to the Snow Bowl,  1952 
+ oil on Masonite 
+ signed  Ferdinand Burgdorff , dated, and inscribed  Flagstaff  (lower right); titled (on artist's label affixed to the reverse) 
+ 34 x 46 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171498/medium_376929-42_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/31,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+49c294a7-db5d-4d0f-8a74-91161e4cb6b4,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 32,USD,600,800,None,None,600,800,None,None,Ferdinand Burgdorff,1881,1975,"Navajo Shepherdess, Kayenta, Arizona",painting,oil on Masonite,<NA>,30,24,in,yes,yes,yes,1955,<NA>,"woman, sheep, yellow dress, tree, hillside, clouds, landscape, grass, blue sky, livestock",None,None,"Ferdinand Burgdorff 
+ (American, 1881-1975) 
+ Navajo Shepherdess, Kayenta, Arizona , 1955 
+ oil on Masonite 
+ signed  Ferdinand Burgdorff  and dated (lower left); titled (on artist's label affixed to the reverse) 
+ 24 x 30 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171439/medium_376929-60_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/32,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,750.0,625.0
+d917463d-a329-4491-bfc4-3021ab5f4c67,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 33,USD,1000,2000,None,None,1000,2000,None,None,Ferdinand Burgdorff,1881,1975,"Canyon de Chelly, Cliff Dwellings",painting,oil on Masonite,<NA>,48,32,in,yes,yes,yes,1963,<NA>,"people, horses, canyon, landscape, mountains, sky, children, traditional clothing, rocks, vegetation",None,None,"Ferdinand Burgdorff 
+ (American, 1881-1975) 
+ Canyon de Chelly, Cliff Dwellings , 1963 
+ oil on Masonite 
+ signed  Ferdinand Burgdorff  and dated (lower center); titled (on artist's label affixed to the reverse) 
+ 32 x 48 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171416/medium_376929-41_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/33,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1850.0,1541.6666666666667
+ca1f2c81-c993-4511-b1e4-1ee5a8800dc1,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 34,USD,800,1200,None,None,800,1200,None,None,Vladan Stiha,1908,1992,Hyde Park,painting,oil on canvas,<NA>,18,24,in,yes,yes,yes,1973,"Provenance:
+Valley National Bank Collection, Phoenix, Arizona.","figures, trees, trail, bright colors, shadow, sunlight, nature, women, clothing, autumn",None,None,"Vladan Stiha 
+ (Yugoslavian/American, 1908-1992) 
+ Hyde Park , 1973 
+ oil on canvas 
+ signed  V. Stiha  and dated (lower right) 
+ 24 x 18 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3123521/medium_376929-48_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/34,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+56c294fd-6756-437a-9147-d0d2815c24a5,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 35,USD,800,1200,None,None,800,1200,None,None,Hubert Wackermann,1945,<NA>,Black Horse's Camp - Navajo,painting,oil on canvas,<NA>,36,24,in,yes,yes,yes,2019,<NA>,"horses, water, Native American figures, mountain, sky, camp, landscape, river, woman, child",None,None,"Hubert Wackermann 
+ (American, b. 1945) 
+ Black Horse's Camp - Navajo , 2019 
+ oil on canvas 
+ signed  HF Wackermann  (lower right, with artist's cipher); signed and dated (stretcher) 
+ 24 x 36 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172261/medium_377928-35_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/35,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+41686399-7bc4-4bad-a5d4-c55950206fef,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 36,USD,400,600,None,None,400,600,None,None,Sherry Harrington,<NA>,<NA>,Ready for the Pow Wow,painting,oil on Masonite,<NA>,16,12,in,yes,yes,yes,2005,"Provenance:
+Big Horn Galleries, Cody, Wyoming.
+Acquired directly from the above.
+Private Collection, Michigan.","girl, yellow shirt, beaded headband, braided hair, profile, Native American",None,None,"Sherry Harrington 
+ (American, 20th/21st Century) 
+ Ready for the Pow Wow , 2005 
+ oil on Masonite 
+ signed  Sherry Harrington  and dated (lower right) 
+ 16 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2272050/medium_322621-52_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/36,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+e653a6c3-1263-41cd-b296-19b458d62e4d,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 37,USD,800,1200,None,None,800,1200,None,None,Vladan Stiha,1908,1992,Fall Drive,painting,oil on board,<NA>,24,18,in,yes,yes,yes,1971,<NA>,"horses, cowboys, clouds, landscape, desert, blue sky, herd, grass, rocks, sunlight",None,None,"Vladan Stiha 
+ (American, 1908-1992) 
+ Fall Drive , 1971 
+ oil on board 
+ signed  V. Stiha  and dated (lower right) 
+ 18 x 24 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171518/medium_376929-52_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/37,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+e9036503-7350-4205-9a13-f1812f447bf7,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 38,USD,1500,2500,None,None,1500,2500,None,None,David Halbach,1931,<NA>,Ojibway,drawing,watercolor and pencil on paper,<NA>,20.125,11.5,in,yes,yes,yes,1994,"Provenance:
+Private Collection, Arizona.
+Jackson Hole Art Auction, Jackson, Sale of September 14, 2018, Lot 26.
+
+Exhibited;
+Prescott, Phippen Museum, ""Friends of the Phippen Showcase the Cowboy Artists of America,"" October 14, 2006 – February 11, 2007.","man, canoe, river, trees, mountains, water, fishing, landscape, rocks, vegetation",None,None,"David Halbach 
+ (American, b. 1931) 
+ Ojibway , 1994 
+ watercolor and pencil on paper 
+ signed  David Halbach CA  and dated (lower left) 
+ 11 1/2 x 20 1/8 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172216/medium_377928-24_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/38,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+6577e904-b6f8-4325-ba10-4b1a3657ce31,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 39,USD,1000,2000,None,None,1000,2000,None,None,Ernest Chiriacka,1913,2010,On the Run,painting,oil on Masonite,<NA>,24,20,in,yes,yes,yes,<NA>,<NA>,"horses, cowboys, landscape, hills, mountains, valley, grass, warriors, bows, arrows",None,None,"Ernest Chiriacka 
+ (American, 1913-2010) 
+ On the Run 
+ oil on Masonite 
+ signed  E. Chiriacka  (lower left) 
+ 20 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108512/medium_376803-95_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/39,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1650.0,1375.0
+face7284-398c-4c45-8edc-11bd9ffb0f7e,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 40,USD,300,500,None,None,300,500,None,None,Marco Antonio Gomez,1910,1972,The Sand Painting,painting,oil on canvas,<NA>,24,20,in,yes,yes,yes,<NA>,<NA>,"man, traditional clothing, blue necklace, drawing, fire, pottery, brown wall, sitting, craft, heritage",None,None,"Marco Antonio Gomez 
+ (American, 1910-1972) 
+ The Sand Painting 
+ oil on canvas 
+ signed  M. A. Gomez  (lower right); signed and titled (on the reverse) 
+ 20 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168461/medium_377643-24_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/40,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,425.0,354.1666666666667
+55527cbb-78bb-4833-8845-8a3f8a37f4d2,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 41,USD,400,600,None,None,400,600,None,None,Marco Antonio Gomez,1910,1972,Kiowa War Party,painting,oil on canvas,<NA>,24,18,in,yes,yes,yes,<NA>,<NA>,"Indigenous people, horses, landscape, mountains, western wear, nature, clouds, rocky terrain, greenery, smoke",None,None,"Marco Antonio Gomez 
+ (American, 1910-1972) 
+ Kiowa War Party 
+ oil on canvas 
+ signed  M. A. Gomez  (lower right); signed and titled (on the reverse) 
+ 18 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177925/medium_377643-25_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/41,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+ed86b08d-5ade-4ad1-b377-b02e3818e360,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 42,USD,400,600,None,None,400,600,None,None,Marco Antonio Gomez,1910,1972,Still Wild,painting,oil on canvas,<NA>,24,20,in,yes,yes,yes,<NA>,<NA>,"Native American, horse, landscape, desert, clouds, grass, rider, feathers, animal, vegetation",None,None,"Marco Antonio Gomez 
+ (American, 1910-1972) 
+ Still Wild 
+ oil on canvas 
+ signed  M. A. Gomez  (lower right); signed and titled (on the reverse) 
+ 20 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177928/medium_377643-27_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/42,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+bc7032c2-c7c5-47b9-ae46-4687ab12893e,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 43,USD,300,500,None,None,300,500,None,None,Leal Mack,1892,1962,New Trails,painting,oil on canvasboard,<NA>,16,12,in,yes,yes,yes,<NA>,<NA>,"man, horse, landscape, mountains, rider, Native American, brown, grass, sunlight, shadows",None,None,"Leal Mack 
+ (American, 1892-1962) 
+ New Trails  
+ oil on canvasboard 
+ signed  Leal Mack  (lower left) 
+ 16 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177916/medium_377643-13_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/43,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,450.0,375.0
+5338793d-61a9-40a4-ade7-22a7c00a61b0,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 44,USD,600,800,None,None,600,800,None,None,Marco Antonio Gomez,1910,1972,The Posse,painting,oil on canvas,<NA>,30,24,in,yes,yes,yes,<NA>,<NA>,"cowboys, horses, landscape, mountains, clouds, dirt road, grass, rocks, western scene, motion",None,None,"Marco Antonio Gomez 
+ (American, 1910-1972) 
+ The Posse 
+ oil on canvas 
+ signed  M. A. Gomez  (lower right); signed and titled (on the reverse) 
+ 24 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177921/medium_377643-17_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/44,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+05ad0184-b24f-49fc-98ce-12bb5035a59f,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 45,USD,1000,2000,None,None,1000,2000,None,None,W. Steve Seltzer,1955,<NA>,Scout on Horse,painting,gouache on board,<NA>,17.625,16,in,yes,yes,yes,<NA>,<NA>,"Native American, horse, sunset, plains, spear, feathers, landscape, vegetation, road, mountains",None,None,"W. Steve Seltzer 
+ (American, b. 1955) 
+ Scout on Horse 
+ gouache on board 
+ signed  W. S. SELTZER  (lower right) 
+ 16 x 17 5/8 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172202/medium_377928-17_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/45,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1650.0,1375.0
+cd307bc1-5070-4d47-a702-5c5f054b8754,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 46,USD,400,600,None,None,400,600,None,None,Kim Mackey,1953,<NA>,Apacheria,painting,oil on canvas laid to panel,<NA>,12,9,in,yes,yes,yes,<NA>,<NA>,"three riders, horses, sunset, pink sky, landscape, mountains, desert, plants, Native American figures, natural scenery",None,None,"Kim Mackey 
+ (American, b. 1953) 
+ Apacheria 
+ oil on canvas laid to panel 
+ signed  Mackey O.P.A  (lower right); titled and signed (on the reverse) 
+ 9 x 12 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172218/medium_377928-25_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/46,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+97b4db62-60ab-40ae-8c96-75075ac5748b,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 47,USD,1500,2500,None,None,1500,2500,None,None,Michael Coleman,1946,<NA>,Crow Indian Camp at Sunset,painting,oil on Masonite,<NA>,20,14,in,yes,yes,yes,<NA>,<NA>,"teepee, mountains, sky, landscape, trees, water, horizon, sunset, grass, birds",None,None,"Michael Coleman 
+ (American, b. 1946) 
+ Crow Indian Camp at Sunset 
+ oil on Masonite 
+ signed  Michael Coleman  (lower left) 
+ 14 x 20 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172260/medium_377928-20_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/47,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+347fb696-b132-49d5-8888-52e08583178e,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 48,USD,2500,3500,None,None,2500,3500,None,None,Gary R. Lucy,1948,<NA>,The Western Engineer Ascending the Missouri River,painting,oil on canvas,<NA>,45.5,32,in,yes,yes,yes,1992,<NA>,"boat, river, trees, water, figures, flag, shore, log, landscape, indigenous people",None,None,"Gary R. Lucy 
+ (American, b. 1948) 
+ The Western Engineer Ascending the Missouri River , 1992 (together with a pencil sketch for the painting) 
+ oil on canvas 
+ oil signed  Gary R. Lucy  and dated (lower right); sketch signed  Gary R. Lucy  and dated (lower center) 
+ 32 x 45 1/2 inches (largest). 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3164660/medium_377137-2_5_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/48,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+8991e237-d69f-423e-bdaf-b5871d2d3923,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 49,USD,600,800,None,None,600,800,None,None,Heinie Hartwig,1937,<NA>,Winter Evening,painting,oil on Masonite,<NA>,24,18,in,yes,yes,yes,<NA>,<NA>,"teepees, trees, river, clouds, snow, sunset, wilderness, nature, reflection, fog",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Winter Evening 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower right) 
+ 18 x 24 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172237/medium_377928-34_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/49,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+c1d07556-55d1-4d08-88e6-4391b7d0ea42,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 50,USD,800,1200,None,None,800,1200,None,None,Heinie Hartwig,1937,<NA>,Encampment,painting,oil on board,<NA>,24,18,in,yes,yes,yes,<NA>,<NA>,"tipis, grassland, clouds, shrubs, people, pathway, horizon, landscape, sky",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Encampment 
+ oil on board 
+ signed  Heinie Hartwig  (lower right) 
+ 18 x 24 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172209/medium_377928-14_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/50,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+b1a8eb9a-d574-40a6-bc5b-a75f6e88a209,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 51,USD,800,1200,None,None,800,1200,None,None,Heinie Hartwig,1937,<NA>,Coming of a Storm,painting,oil on Masonite,<NA>,36,24,in,yes,yes,yes,<NA>,<NA>,"mountain, wilderness, teepees, trees, sky, clouds, grass, figure, rock, landscape",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Coming of a Storm 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower left) 
+ 24 x 36 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172265/medium_377928-15_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/51,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1050.0,875.0
+706cf5f6-0c7a-43dd-9748-a2fda41d3942,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 52,USD,1000,2000,None,None,1000,2000,None,None,Heinie Hartwig,1937,<NA>,"Wind River Range, Wyoming",painting,oil on Masonite,<NA>,36,36,in,yes,yes,yes,<NA>,<NA>,"mountains, river, teepees, trees, grass, sky, clouds, water, landscape, wildlife",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Wind River Range, Wyoming 
+ oil on Masonite 
+ signed  Heine Hartwig  (lower left); titled (on the reverse) 
+ 36 x 36 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172267/medium_377928-21_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/52,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1650.0,1375.0
+140011e9-6ac9-4695-a933-c16009098b80,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 53,USD,600,800,None,None,600,800,None,None,Heinie Hartwig,1937,<NA>,Winter in the Tetons Mountains,painting,oil on Masonite,<NA>,18,12,in,yes,yes,yes,<NA>,<NA>,"mountains,snow,teepees,winter,forest,river,landscape,tribal figures,rocks,sky",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Winter in the Tetons Mountains 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower left) 
+ 12 x 18 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172224/medium_377928-22_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/53,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+88f6b5f8-3a35-4772-a0b2-870896b604af,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 54,USD,600,800,None,None,600,800,None,None,Heinie Hartwig,1937,<NA>,Mountain Camp,painting,oil on Masonite,<NA>,12,9,in,yes,yes,yes,<NA>,<NA>,"teepee, mountains, trees, meadow, sky, clouds, tents, flowers, wilderness, landscape",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Mountain Camp 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower left) 
+ 9 x 12 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172217/medium_377928-26_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/54,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+51c953a3-8965-4e72-8e4c-afc448d6137c,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 55,USD,800,1200,None,None,800,1200,None,None,Heinie Hartwig,1937,<NA>,Mountain Light,painting,oil on Masonite,<NA>,24,30,in,yes,yes,yes,<NA>,<NA>,"mountains, lake, tents, trees, figures, sky, clouds, autumn, water, landscape",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Mountain Light 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower right); titled (on the reverse) 
+ 30 x 24 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172262/medium_377928-28_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/55,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1050.0,875.0
+e2b258e2-282a-4334-b32f-bdd1419aeb60,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 56,USD,1500,2500,None,None,1500,2500,None,None,Michael Coleman,1946,<NA>,Spring Trapper,painting,oil on board,<NA>,15,21.5,in,yes,yes,yes,<NA>,<NA>,"man, horse, wolf, red coat, landscape, grass, mountains, clouds, river, wilderness",None,None,"Michael Coleman 
+ (American, b. 1946) 
+ Spring Trapper 
+ oil on board 
+ signed  Michael Coleman  and dated (lower left) 
+ 21 1/2 x 15 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172198/medium_377928-19_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/56,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+8d4d1ac7-581b-4cf3-be74-59ca4039a891,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 57,USD,800,1200,None,None,800,1200,None,None,Frank Magsino,1937,2020,Frozen Firewood,painting,acrylic on board,<NA>,7,5,in,yes,yes,yes,1987,<NA>,"snow, teepee, person, firewood, trees, winter, footprints, landscape, branches, nature",None,None,"Frank Magsino 
+ (American, 1937-2020) 
+ Frozen Firewood , 1987 
+ acrylic on board 
+ signed  Frank Magsino  and dated (lower right) 
+ 5 x 7 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172271/medium_376975-26_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/57,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+0169cca9-a64c-45a4-8922-663ab6dcfd70,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 58,USD,500,700,None,None,500,700,None,None,Jay Moore,1964,<NA>,Early Morning Ice,painting,oil on canvas,<NA>,14,11,in,yes,yes,yes,2002,<NA>,"river, snow, trees, rocks, water, ice, landscape, winter, forest, reflection",None,None,"Jay Moore 
+ (American b. 1964) 
+ Early Morning Ice,  2002 
+ oil on canvas 
+ signed  Jay Moore  (lower left) ;  signed, titled, dated, and inscribed (on the reverse) 
+ 11 x 14 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3071630/medium_377132-11_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/58,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,650.0,541.6666666666667
+5f117f13-565a-4813-8d79-233122bdf4cc,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 59,USD,800,1200,None,None,800,1200,None,None,Bill Freeman,1927,2012,Sycamore Creek Near Sunflower,painting,oil on canvas,<NA>,48,36,in,yes,yes,yes,<NA>,<NA>,"river, mountains, clouds, trees, landscape, stones, orange leaves, water, brown grass, blue sky",None,None,"Bill Freeman 
+ (American, 1927-2012) 
+ Sycamore Creek Near Sunflower 
+ oil on canvas 
+ signed  Bill Freeman  (lower right) 
+ 36 x 48 inches. 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2862084/medium_325225-142_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/59,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+885c95a3-56a5-4827-a66a-835e33679aad,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 60,USD,800,1200,None,None,800,1200,None,None,Harold Deist,<NA>,<NA>,Hanging Lake,painting,oil on Masonite,<NA>,30,40,in,yes,yes,yes,<NA>,<NA>,"waterfall, rocks, water, trees, river, log, nature, landscape, sunlight, reflection",None,None,"Harold Deist 
+ (American, 20th Century) 
+ Hanging Lake 
+ oil on Masonite 
+ signed  DEIST  (lower left) 
+ 40 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168433/medium_377785-2_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/60,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+751d6cd6-b125-4c1f-a77c-312851bf0a48,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 61,USD,600,800,None,None,600,800,None,None,Susanne Nyberg,1953,<NA>,Cathedral Group,painting,oil on canvas,<NA>,20,16,in,yes,yes,yes,<NA>,<NA>,"mountains, river, trees, landscape, water, sky, rocks, greenery, reflection, wilderness",None,None,"Susanne Nyberg 
+ (American, b. 1953) 
+ Cathedral Group 
+ oil on canvas 
+ signed  S. Nyberg  (lower right) 
+ 16 x 20 inches. 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168373/medium_325225-483_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/61,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+3fbd94ab-984b-4c78-bd3c-487e5f49fe87,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 62,USD,100,200,None,None,100,200,None,None,Genevieve Ingram Frickel,1900,1985,"Lost Lake, Colorado Rockies",painting,watercolor on paper,<NA>,11.625,10.5,in,yes,yes,yes,1950,<NA>,"tree, mountains, lake, rocks, sky, clouds, landscape, path, greenery, water",None,None,"Genevieve Ingram Frickel  
+ (American, 1900-1985) 
+ Lost Lake, Colorado Rockies , 1950 
+ watercolor on paper 
+ signed  G. I. Frickel  and dated (lower left) 
+ 10 1/2 x 11 5/8 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177911/medium_377643-5_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/62,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,175.0,145.83333333333334
+fb9aae91-7328-4cf2-a72f-e2638b7f009c,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 63,USD,500,800,None,None,500,800,None,None,Mitch Billis,1937,<NA>,Big Hole Hay Stacks,painting,oil on canvas,<NA>,16,10,in,yes,yes,yes,<NA>,<NA>,"mountains, hay bales, trees, clouds, grass, landscape, fence, sky, rural scene, yellow",None,None,"Mitch Billis 
+ (American, b. 1937) 
+ Big Hole Hay Stacks 
+ oil on canvas 
+ signed  Mitch Billis  (lower right) 
+ 10 x 16 inches. 
+ The Estate of Henry V. Nickel, Potomac, Maryland 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3141749/medium_377970_8-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/63,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,650.0,541.6666666666667
+e399ea08-af9e-4bdc-8b08-99784b234bbe,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 64,USD,150,250,None,None,150,250,None,None,Norma Landis,<NA>,<NA>,Pine and Aspen Forest,painting,oil on board,<NA>,16,20,in,yes,yes,yes,<NA>,<NA>,"trees, mountains, river, road, autumn, foliage, landscape, path, brush, nature",None,None,"Norma Landis 
+ (American, 20th Century) 
+ Pine and Aspen Forest 
+ oil on board 
+ signed  Norma Landis  (lower right) 
+ 20 x 16 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168371/medium_377643-4_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/64,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,210.0,175.0
+288e551e-26fd-4120-94ce-b24acfe17285,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 65,USD,200,300,None,None,200,300,None,None,Attributed to Mary Lenora Dalton,1871,1943,Autumn Stream,painting,oil on canvas,<NA>,18,24,in,no,yes,yes,<NA>,<NA>,"stream, trees, autumn, foliage, rocks, water, sky, sunlight, landscape, nature",None,None,"Attributed to Mary Lenora Dalton 
+ (American, 1871-1943) 
+ Autumn Stream 
+ oil on canvas 
+ 
+ 24 x 18 inches.  
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168386/medium_377643-22_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/65,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,275.0,229.16666666666669
+e659fec1-3f4f-4b19-98ff-2db2a92fa185,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 66,USD,300,500,None,None,300,500,None,None,Kent Lemon,<NA>,<NA>,Willow,painting,oil on panel,<NA>,12,9,in,yes,yes,yes,1995,<NA>,"yellow bush, water, grass, snow, winter landscape, trees, reflections, natural scenery, brushstrokes",None,None,"Kent Lemon 
+ (American, 20th Century) 
+ Willow,  1995 
+ oil on panel 
+ signed  Lemon  (lower right); signed, titled, and dated (on the reverse) 
+ 9 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168385/medium_377785-7_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/66,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,420.0,350.0
+0add9cf8-c067-49b3-8db9-718a7a6d2d0e,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 67,USD,400,600,None,None,400,600,None,None,Kent Lemon,<NA>,<NA>,Ranchos Light,painting,oil on panel,<NA>,16,12,in,yes,yes,yes,1996,<NA>,"mountains, valley, village, sunset, landscape, snow, orange, hills, sky, clouds",None,None,"Kent Lemon 
+ (American, 20th Century) 
+ Ranchos Light,  1996 
+ oil on panel 
+ signed  Lemon  (lower left); signed, titled, and dated (on the reverse) 
+ 12 x 16 inches.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168458/medium_377785-8_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/67,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+ebe70880-6255-4cb1-8703-2c614ce4f236,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 68,USD,400,600,None,None,400,600,None,None,Bernard Vetter,1940,<NA>,"Ranchos Adobes, Taos",painting,watercolor on paper,<NA>,19,13,in,yes,yes,yes,<NA>,<NA>,"abandoned building, landscape, wildflowers, trees, mountains, sky, clouds, dirt, vegetation, rural",None,None,"Bernard Vetter 
+ (American, b. 1940) 
+ Ranchos Adobes, Taos 
+ watercolor on paper 
+ signed  B. Vetter  (lower left) 
+ 13 x 19 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3009423/medium_376717-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/68,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+db9d14fa-7aeb-4043-a800-bc6d95435285,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 69,USD,600,800,None,None,600,800,None,None,Charles Henry Reynolds,1902,1963,"Rural New Mexico, Spring Morning",painting,oil on canvas,<NA>,24,18,in,yes,yes,yes,<NA>,<NA>,"landscape, mountains, houses, trees, clouds, path, vegetation, sky, shrubs, hills",None,None,"Charles Henry Reynolds 
+ (American, 1902-1963) 
+ Rural New Mexico, Spring Morning 
+ oil on canvas 
+ signed  Chas H Reynolds  (lower left) 
+ 18 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177930/medium_377643-29_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/69,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+f67356cb-98e4-4cf9-a552-fb147ed065c9,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 70,USD,600,800,None,None,600,800,None,None,William Hook,1948,<NA>,Steaming Pond,painting,acrylic on canvas board,<NA>,12,12,in,yes,yes,yes,1994,<NA>,"grass, trees, water, lake, sky, sunset, reeds, landscape, foliage, reflection",None,None,"William Hook 
+ (American, b. 1948) 
+ Steaming Pond,  1994 
+ acrylic on canvas board 
+ signed  W. C. Hook  (lower left); titled (on artist's label affixed to the reverse) 
+ 12 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168354/medium_377983-11_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/70,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+16b07240-72cc-4727-b0b7-e8982805a138,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 71,USD,600,800,None,None,600,800,None,None,William Hook,1948,<NA>,Winter Piñon,painting,acrylic on canvas board,<NA>,12,12,in,yes,yes,yes,1995,<NA>,"tree, snow, sky, fence, grass, landscape, cloud",None,None,"William Hook 
+ (American, b. 1948) 
+ Winter Piñon , 1995 
+ acrylic on canvas board 
+ signed  W. C. Hook  (lower left); titled (on artist's label affixed to the reverse) 
+ 12 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168376/medium_377983-10_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/71,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,750.0,625.0
+499b0c05-7abd-4fe5-af33-1ee7f280a80a,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 72,USD,600,800,None,None,600,800,None,None,William Hook,1948,<NA>,New Mexico Chamisa,painting,acrylic on canvas board,<NA>,12,12,in,yes,yes,yes,1995,<NA>,"yellow flowers, bush, mountain, blue sky, clouds, green landscape, house, foreground, natural scenery, sunlight",None,None,"William Hook 
+ (American, b. 1948) 
+ New Mexico Chamisa,  1995 
+ acrylic on canvas board 
+ signed W. C. Hook (lower left); titled (on artist's label affixed to the reverse) 
+ 12 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168355/medium_377983-9_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/72,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,750.0,625.0
+2671a830-6eb0-4a37-9b77-226c27c5ea91,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 73,USD,300,500,None,None,300,500,None,None,Pansy Stockton,1895,1972,"Sun Painting, Alcalde",mixed media,botanical assemblage on board,<NA>,15,12.75,in,yes,yes,yes,<NA>,<NA>,"mountains, clouds, river, trees, houses, landscape, foliage, brown tones, rocks, wilderness",None,None,"Pansy Stockton 
+ (American, 1895-1972) 
+ Sun Painting, Alcalde  
+ botanical assemblage on board 
+ signed  Pansy Stockton  (lower right); inscribed (on the reverse) 
+ 12 3/4 x 15 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177922/medium_377643-18_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/73,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,425.0,354.1666666666667
+bb2f1e23-0554-44ea-8e63-d54bd9ad109b,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 74,USD,800,1200,None,None,800,1200,None,None,Thomas S. Macaione,1907,1992,Artist's Patio,painting,oil on Masonite,<NA>,31.625,24,in,yes,yes,yes,1968,<NA>,"houses, hill, trees, sky, desert, landscape, vegetation, architecture, mountains, ruins",None,None,"Thomas S. Macaione 
+ (American, 1907-1992) 
+ Artist's Patio , 1968-69 
+ oil on Masonite 
+ signed  Tom S. Macaione  and dated (lower right) 
+ 24 x 31 5/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3123541/medium_376929-53_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/74,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1050.0,875.0
+03567bc1-b3b4-4824-b419-61e185b6e196,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 75,USD,1500,2500,None,None,1500,2500,None,None,Lloyd Moylan,1893,1963,Pueblo Church,painting,watercolor on paper,<NA>,18,14,in,yes,yes,yes,<NA>,<NA>,"three women, church, tree, water, landscape, mountains, sky, stone wall, river, shadows",None,None,"Lloyd Moylan 
+ American, 1893-1963 
+ Pueblo Church 
+ watercolor on paper 
+ signed  Lloyd Moylan  (lower right)  
+ 14 x 18 inches  
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172197/medium_378610-1_2.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/75,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+3fdac458-94fe-4b63-9778-0ac41bac55e6,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 76,USD,2000,3000,None,None,2000,3000,None,None,Harry Hutchinson Shaw,1897,1989,Southwestern Landscape,painting,oil on canvas,<NA>,30,24,in,yes,yes,yes,<NA>,<NA>,"mountains, village, horse, sky, clouds, pathway, figures, rooftops, landscape, sunlight",None,None,"Harry Hutchinson Shaw 
+ (American, 1897-1989) 
+ Southwestern Landscape 
+ oil on canvas 
+ signed  Shaw  (lower right) 
+ 24 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177936/medium_378004-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/76,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+0d34f667-5cc5-47e8-9294-3fd9d1f44d8c,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 77,USD,400,600,None,None,400,600,None,None,Bonnie Casey,1935,<NA>,Royal Rhythm,painting,oil on canvas,<NA>,30,36,in,yes,yes,yes,<NA>,<NA>,"cacti, prickly pear, colorful, desert, plants, green, pink, purple, foliage, sand",None,None,"Bonnie Casey 
+ (American, b. 1935) 
+ Royal Rhythm 
+ oil on canvas 
+ signed  CASEY  (lower left); signed, titled, and numbered  36309436  (on the reverse) 
+ 36 x 30 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172266/medium_377928-36_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/77,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+357fd6a2-6cb7-451d-96be-cb744ad43f13,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 78,USD,2000,3000,None,None,2000,3000,None,None,Harry B. Wagoner,1889,1950,Bulldog Mountains,painting,oil on canvas,<NA>,36,24,in,yes,yes,yes,<NA>,<NA>,"mountains, cacti, desert, sky, clouds, rocks, vegetation, landscape, hills, nature",None,None,"Harry B. Wagoner 
+ (American, 1889-1950) 
+ Bulldog Mountains 
+ oil on canvas 
+ signed  H B WAGONER  (lower left); signed and titled (stretcher) 
+ 24 x 36 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3123566/medium_376929-16_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/78,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2700.0,2250.0
+1d8861f2-1173-4ddf-aab9-9bdc16844fdd,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 79,USD,800,1200,None,None,800,1200,None,None,John William Hilton,1904,1983,Desert Landscape,painting,oil on canvas,<NA>,30,24,in,yes,yes,yes,1945,<NA>,"mountains, clouds, desert, sky, landscape, brush, shadows, horizon, terrain, sunlight",None,None,"John William Hilton 
+ (American, 1904-1983) 
+ Desert Landscape , 1945 
+ oil on canvas 
+ signed  John W Hilton  and dated (lower right) 
+ 24 x 30 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3129839/medium_306260-59_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/79,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+9d521c73-35df-45b0-a130-5992f701cca2,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 80,USD,200,400,None,None,200,400,None,None,Arthur Merrill,1885,1973,Saguaro Sentinels,painting,oil on board,<NA>,24.75,21.75,in,yes,yes,yes,<NA>,<NA>,"landscape, mountains, desert, cacti, bushes, dirt road, sky, clouds, plant life, rocky cliffs",None,None,"Arthur Merrill 
+ (American, 1885-1973) 
+ Saguaro Sentinels 
+ oil on board 
+ signed  A. J. Merrill  (lower right) 
+ 21 3/4 x 24 3/4 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177927/medium_377643-28_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/80,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,350.0,291.6666666666667
+9ef5eeac-0d4a-429f-902b-8caac5c8b0ad,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 81,USD,1000,2000,None,None,1000,2000,None,None,Loren Entz,1949,<NA>,Milkweed,painting,oil on canvas,<NA>,30,18,in,yes,yes,yes,<NA>,<NA>,"boy, cows, dog, flowers, grass, landscape, farm, mountains, blue sky, straw hat",None,None,"Loren Entz 
+ (American, b. 1949) 
+ Milkweed 
+ oil on canvas 
+ signed  Loren Entz  (lower right); signed (on the reverse) 
+ 18 x 30 inches. 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2874732/medium_325225-69_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/81,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+de4075aa-29c2-421a-b19e-60a027e5d82a,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 82,USD,1000,2000,None,None,1000,2000,None,None,Dan D'Amico,1956,<NA>,A Touch of Autumn (Canada Geese),painting,oil on Masonite,<NA>,40,19.75,in,yes,yes,yes,1996,<NA>,"river, trees, mountains, birds, autumn, water, landscape, rocks, reflection, sky",None,None,"Dan D'Amico 
+ (American, b. 1956) 
+ A Touch of Autumn (Canada Geese),  1996 
+ oil on Masonite 
+ signed  Dan D'Amico  (lower right); signed, titled, and dated (on the reverse) 
+ 19 3/4 x 40 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168462/medium_377785-16_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/82,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1650.0,1375.0
+9e743f57-c029-4a18-9e87-ab3e08dd0d2f,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 83,USD,1000,2000,None,None,1000,2000,None,None,Dan D'Amico,1956,<NA>,Cloud Shadows (Bison),painting,oil on Masonite,<NA>,40,24,in,yes,yes,yes,1996,<NA>,"bison, grassland, yellow flowers, mountains, trees, blue sky, herd, animals, nature, landscape",None,None,"Dan D'Amico 
+ (American, b. 1956) 
+ Cloud Shadows (Bison),  1996 
+ oil on Masonite 
+ signed  Dan D'Amico  (lower right); signed, titled, and dated (on the reverse) 
+ 24 x 40 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168443/medium_377785-17_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/83,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1600.0,1333.3333333333335
+fa481008-2bde-407f-869c-4fc5c3450d6f,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 84,USD,800,1200,None,None,800,1200,None,None,Heinie Hartwig,1937,<NA>,Lone Bull,painting,oil on Masonite,<NA>,18,14,in,yes,yes,yes,<NA>,<NA>,"buffalo, grassland, sky, sunset, bird, wildflowers, landscape, brown, orange, yellow",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Lone Bull 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower right) 
+ 14 x 18 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172205/medium_377928-16_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/84,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+93ee9a11-6e0d-4f3f-bd71-05f2031c7fe5,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 85,USD,800,1200,None,None,800,1200,None,None,Dan D'Amico,1956,<NA>,Free at Last (Wolves Return to Yellowstone),painting,oil on Masonite,<NA>,29.875,19.75,in,yes,yes,yes,1996,<NA>,"wolves, running, landscape, grass, shrubs, mountain, sunlight, wildlife, pack, nature",None,None,"Dan D'Amico 
+ (American, b. 1956) 
+ Free at Last (Wolves Return to Yellowstone) , 1996 
+ oil on Masonite 
+ signed  Dan D'Amico  (lower right); signed, titled, and dated (on the reverse) 
+ 19 3/4 x 29 7/8 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168426/medium_377785-15_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/85,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1050.0,875.0
+dd8a6203-7f4a-4b71-9128-3027874ddcfc,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 86,USD,800,1200,None,None,800,1200,None,None,Bill Freeman,1927,2012,Elk and a Touch of Sun,painting,oil on canvas,<NA>,40,30,in,yes,yes,yes,<NA>,<NA>,"elk, mountains, forest, wildlife, landscape, valley, grass, rocks, sky, greenery",None,None,"Bill Freeman 
+ (American, 1927-2012) 
+ Elk and a Touch of Sun 
+ oil on canvas 
+ signed  Bill Freeman  (lower left); titled (on label affixed to the reverse) 
+ 30 x 40 inches. 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2874747/medium_325225-100_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/86,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+e738cb1e-b919-4927-9c65-8e2e7d2c2c50,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 87,USD,600,800,None,None,600,800,None,None,Bill Freeman,1927,2012,Cornell's Camp,painting,oil on canvas,<NA>,40,30,in,yes,yes,yes,<NA>,<NA>,"mountains, horses, people, cabin, forest, river, autumn, landscape, hills, trees",None,None,"Bill Freeman 
+ (American, 1927-2012) 
+ Cornell's Camp 
+ oil on canvas 
+ signed  Bill Freeman  (lower right); titled (stretcher) 
+ 30 x 40 inches. 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2876270/medium_325225-92_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/87,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+4c3e1aa9-7c4b-4a2b-9823-6c772811b40d,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 88,USD,800,1200,None,None,800,1200,None,None,Bill Freeman,1927,2012,Desert Bighorn Sheep,painting,oil on canvas,<NA>,48,30,in,yes,yes,yes,<NA>,<NA>,"three rams, rocky landscape, vegetation, clouds, mountains",None,None,"Bill Freeman 
+ (American, 1927-2012) 
+ Desert Bighorn Sheep 
+ oil on canvas 
+ signed  Bill Freeman  (lower right); titled (on label affixed to the reverse and stretcher) 
+ 30 x 48 inches. 
+ Property from the Collection of a Missouri Company 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2916174/medium_325225-95_2.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/88,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+e06757b4-047c-4685-856b-a63042f7639d,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 89,USD,400,600,None,None,400,600,None,None,Joe de Yong,1894,1975,C. M. Russell's Pet Porcupine,painting,oil on canvas,<NA>,8.75,5.5,in,yes,yes,yes,<NA>,<NA>,"porcupines, wildlife, animals, nature, fur, close-up, blue eyes, earthy tones, texture, interaction",None,None,"Joe de Yong 
+ (American, 1894-1975) 
+ C. M. Russell's Pet Porcupine 
+ oil on canvas 
+ signed  Joe De Young  (lower right, with artist's cipher) 
+ 5 1/2 x 8 3/4 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172269/medium_377008-3_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/89,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+3907427e-b4e3-4d15-b0ec-9f5d89929718,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 90,USD,1500,2500,None,None,1500,2500,None,None,A. D. Greer,1904,1998,Marshland Morning,painting,oil on canvas,<NA>,30,25,in,yes,yes,yes,<NA>,<NA>,"trees, river, landscape, sky, clouds, yellow leaves, green foliage, reflection, water, wilderness",None,None,"A. D. Greer  
+ (American, 1904-1998) 
+ Marshland Morning 
+ oil on canvas 
+ signed  A. D. Greer  (lower right) 
+ 25 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177935/medium_377865-1_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/90,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+cdd14a59-1eb3-40e4-9443-62b123489ad6,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 91,USD,2000,4000,None,None,2000,4000,None,None,Colin M. Burns,1944,<NA>,Fisherman on a River - The River Tavy Below Horndon,painting,oil on canvas,<NA>,25,19.5,in,yes,yes,yes,<NA>,<NA>,"fisherman, river, rocks, greenery, trees, hills, water, fishing rod, landscape, sunlight",None,None,"Colin M. Burns 
+ (British, b. 1944) 
+ Fisherman on a River - The River Tavy Below Horndon 
+ oil on canvas 
+ signed  Colin Burns  (lower left); signed and titled (stretcher) 
+ 19 1/2 x 25 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108508/medium_376803-94_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/91,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+6a8109e3-09df-472e-b084-a5d3d26e4b36,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 92,USD,400,600,None,None,400,600,None,None,Ann Dettmer,<NA>,<NA>,Little Jewel I,painting,oil on panel,<NA>,6,8,in,yes,yes,yes,<NA>,<NA>,"trees, landscape, sky, building, greenery, sunlight, nature, foliage, brushstrokes, pathway",None,None,"Ann Dettmer 
+ (American, 20th/21st Century) 
+ Little Jewel I  and  Little Jewel II, Tuscany (A Pair) 
+ oil on panel 
+ signed  Dettmer  (lower right); signed and titled (on the reverse) 
+ 8 x 6 inches (each). 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168378/medium_377813-2_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/92,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+5735d669-ac77-4702-8b65-e7fd0da677d8,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 93,USD,3000,5000,None,None,3000,5000,None,None,Gary Ernest Smith,1942,<NA>,Wild Horse Skull with Dead Snag,painting,oil on linen,<NA>,36,48,in,yes,yes,yes,1989,<NA>,"skull, tree, blue sky, dry landscape, natural elements, pink background",None,None,"Gary Ernest Smith 
+ (American, b. 1942) 
+ Wild Horse Skull with Dead Snag , 1989 
+ oil on linen 
+ signed  GARY ERNEST SMITH  and dated (lower right) 
+ 48 x 36 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2992770/medium_375861-41_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/93,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,4200.0,3500.0
+a0d0da07-4f7d-4d69-8f56-707ef37ce7ed,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 94,USD,2000,3000,None,None,2000,3000,None,None,Gary Ernest Smith,1942,<NA>,Blue Cowboy,painting,oil on linen,<NA>,30,40,in,yes,yes,yes,<NA>,<NA>,"man, blue outfit, hat, squatting, brown shoes, portrait, arms, shadow, light, expression",None,None,"Gary Ernest Smith 
+ (American, b. 1942) 
+ Blue Cowboy 
+ oil on linen 
+ signed  GARY ERNEST SMITH  (lower right); signed and titled (stretcher) 
+ 40 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2992767/medium_375861-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/94,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+3c006307-e4df-4207-8f32-44279f50f394,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 95,USD,2000,4000,None,None,2000,4000,None,None,Gary Ernest Smith,1942,<NA>,Billy the Kid,painting,oil on canvas,<NA>,36,48,in,yes,yes,yes,1991,<NA>,"woman, hat, overalls, landscape, sunset, field, clothing, portrait, figure, red hair",None,None,"Gary Ernest Smith 
+ (American, b. 1942) 
+ Billy the Kid,  1991 
+ oil on canvas 
+ signed  GARY ERNEST SMITH  (lower right) 
+ 48 x 36 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2995997/medium_375861-2_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/95,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+2e39ea15-8ff1-4997-beb6-9982013e2870,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 96,USD,2000,4000,None,None,2000,4000,None,None,Gary Ernest Smith,1942,<NA>,Storm Clouds Over Mesas,painting,oil on linen,<NA>,30,20,in,yes,yes,yes,<NA>,<NA>,"landscape, mountains, clouds, sky, sunlight, terrain, colors, shrubs, plains",None,None,"Gary Ernest Smith 
+ (American, b. 1942) 
+ Storm Clouds Over Mesas 
+ oil on linen 
+ signed  GARY ERNEST SMITH  (lower right); titled (on stretcher) 
+ 20 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2992335/medium_375861-35_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/96,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+157d3ce3-f405-4882-ae12-ab51618432fd,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 97,USD,1000,2000,None,None,1000,2000,None,None,Ray McCarty,1934,<NA>,Kiss This,mixed media,mixed media on board,<NA>,20,24,in,yes,yes,yes,2012,<NA>,"woman, gun, veil, jewelry, red, green, necklace, feathers, pearls, portrait",None,None,"Ray McCarty 
+ (American, b. 1934) 
+ Kiss This,  2012 
+ mixed media on board 
+ signed  Ray McCarty  and dated (lower right) 
+ 24 x 20 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108549/medium_376803-110_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/97,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1850.0,1541.6666666666667
+4f70b927-c62d-4492-86dd-d71f12151621,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 98,USD,1000,2000,None,None,1000,2000,None,None,Ray McCarty,1934,<NA>,"Maybe,",mixed media,mixed media on board,<NA>,24,30,in,yes,yes,yes,2011,<NA>,"man, woman, hat, drink, necklace, red dress, jewelry, suit, smoke, intimate pose",None,None,"Ray McCarty 
+ (American, b. 1934) 
+ Maybe,  2011 
+ mixed media on board 
+ signed  R. McCarty  and dated (lower left) 
+ 30 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108547/medium_376803-109_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/98,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+67fb3900-5c44-4ada-9453-10ecdf8b8112,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 99,USD,1000,2000,None,None,1000,2000,None,None,Larry Fanning,1938,2014,Another Saturday Night,painting,oil on canvas,<NA>,30,36,in,yes,yes,yes,<NA>,<NA>,"man, bathtub, hat, cowboy boots, whiskey bottle, blue cup, orange shirt, brown vest, wall, pipe",None,None,"Larry Fanning 
+ (American, 1938-2014) 
+ Another Saturday Night 
+ oil on canvas 
+ signed  LARRY FANNING  (lower right) 
+ 36 x 30 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108667/medium_376803-100_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/99,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+ac779623-4393-4587-bf06-c4121f33b33f,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 100,USD,1000,2000,None,None,1000,2000,None,None,Terri Kelly Moyers,1953,<NA>,Ojos de Español,painting,oil on canvas,<NA>,24,24,in,yes,yes,yes,2010,<NA>,"woman, red fan, earring, floral patterns, hand, lace, black background, intricate design, portrait, traditional clothing",None,None,"Terri Kelly Moyers 
+ (American, b. 1953) 
+ Ojos de Español,  2010 
+ oil on canvas 
+ signed  Terri Kelly Moyers  and dated (upper right) 
+ 24 x 24 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108559/medium_376803-113_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/100,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1800.0,1500.0
+e380d0e1-8ef2-47e9-9f54-5106a9193905,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 101,USD,600,800,None,None,600,800,None,None,James Brade Sword,1839,1915,The Matador,painting,oil on canvas,<NA>,18.5,21.5,in,yes,yes,yes,<NA>,<NA>,"matador, red sash, bullfighting, traditional attire, crowd, wooden arena, red blanket, blue pants, black hat, posture",None,None,"James Brade Sword 
+ (American, 1839-1915) 
+ The Matador 
+ oil on canvas 
+ signed  J. B. Sword  (lower left) 
+ 21 1/2 x 18 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108563/medium_376803-120_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/101,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+3358d0ef-be9e-4abc-a007-cd0bf150843f,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 102,USD,1000,2000,None,None,1000,2000,None,None,Lawrence Nelson Wilbur,1897,1988,"Tepoztlán, Mexico",painting,oil on canvas,<NA>,39.5,31.5,in,yes,yes,yes,1945,<NA>,"horses, oxen, cowboys, dogs, hats, ranch, cattle, cattle driving, equestrian, livestock",None,None,"Lawrence Nelson Wilbur 
+ (American, 1897-1988) 
+ Tepoztlán, Mexico ,   1945 
+ oil on canvas 
+ signed  Lawrence Nelson Wilbur,  titled, and dated (lower left) 
+ 31 1/2 x 39 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108585/medium_376803-122_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/102,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1850.0,1541.6666666666667
+d7630a4d-40ce-4994-8387-5707c9d64408,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 103,USD,800,1200,None,None,800,1200,None,None,Sherrie McGraw,1954,<NA>,Bird's Nest,painting,oil on canvas,<NA>,12,9,in,yes,yes,yes,<NA>,<NA>,"jug, flowers, nest, eggs, floral arrangement",None,None,"Sherrie McGraw 
+ (American, b. 1954) 
+ Bird's Nest 
+ oil on canvas 
+ signed  McGraw  (upper right) 
+ 9 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108685/medium_377366-1_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/103,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+0186b5cc-f418-4640-897f-7f261575107c,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 104,USD,300,500,None,None,300,500,None,None,Clyde Aspevig,1951,<NA>,White Flowers,prints,giclee on canvas,<NA>,30.5,27.5,in,yes,yes,yes,<NA>,<NA>,"flowers, vase, white roses, table, leaves, petals, arrangement, foliage, background, still life",None,None,"Clyde Aspevig 
+ (American, b. 1951) 
+ White Flowers 
+ giclee on canvas 
+ signed  C. Aspevig  (lower left); numbered  449/1000  (on the reverse) 
+ 27 1/2 x 30 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168381/medium_377983-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/104,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,425.0,354.1666666666667
+dc8266f1-ef48-4bee-8200-3ee9b81807f0,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 105,USD,800,1200,None,None,800,1200,None,None,Clyde Aspevig,1951,<NA>,"Street in Soglio, Switzerland",painting,oil on canvas laid to foamcore,<NA>,16,12,in,yes,yes,yes,1994,<NA>,"street, door, window, pavement, building, wall, alley, green shutters, cobblestones, architecture",None,None,"Clyde Aspevig 
+ (American, b. 1951) 
+ Street in Soglio, Switzerland,  1994 
+ oil on canvas laid to foamcore 
+ signed  C. Aspevig  (lower left); signed, titled, and dated (on the reverse) 
+ 12 x 16 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168412/medium_377983-7_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/105,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+2f9c723b-d5a4-457d-83dc-fb7a3701913d,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 106,USD,1500,2500,None,None,1500,2500,None,None,Jay Moore,1964,<NA>,"Morning on Larimer Square,",painting,oil on canvas,<NA>,29,26,in,yes,yes,yes,1993,<NA>,"street, festival banners, buildings, cars, pedestrians, trees, traffic lights, outdoor seating, blue sky, urban scene",None,None,"Jay Moore 
+ (American, b. 1964) 
+ Morning on Larimer Square,  1993 
+ oil on canvas 
+ signed  Moore  (lower right); signed, titled, and dated (on the reverse) 
+ 26 x 29 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177934/medium_377983-6_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/106,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+0b6afe89-bbdf-450c-8425-64b6b01f3c86,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 107,USD,600,800,None,None,600,800,None,None,Jay Moore,1964,<NA>,April Snow,painting,oil on canvas,<NA>,18,14,in,yes,yes,yes,1993,<NA>,"houses, trees, snow, sidewalk, winter, landscape, pathway, frost, architecture, green",None,None,"Jay Moore 
+ (American, b. 1964) 
+ April Snow,  1993 
+ oil on canvas 
+ signed  Moore  (lower right); signed, titled, and dated (on the reverse) 
+ 14 x 18 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168454/medium_377983-5_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/107,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+06895707-2509-4ce9-81fc-21292e2059d4,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 108,USD,800,1200,None,None,800,1200,None,None,Quang Ho,1963,<NA>,Garden with Orange Tree,painting,oil on canvas,<NA>,12,16,in,yes,yes,yes,<NA>,<NA>,"tree, orange fruit, garden, chair, house, leaves, sunlight, green, shadow, outdoor",None,None,"Quang Ho 
+ (Vietnamese/American, b. 1963) 
+ Garden with Orange Tree 
+ oil on canvas 
+ signed  Quang Ho  (lower right) 
+ 16 x 12 inches.  
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168358/medium_377813-1_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/108,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+c2e8d7f5-ea0a-4063-9df3-6c1d92076a48,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 109,USD,1500,2500,None,None,1500,2500,None,None,Rock Newcomb,1945,<NA>,Secrets of the Salado,painting,acrylic on board,<NA>,36,24,in,yes,yes,yes,<NA>,<NA>,"three pots, black designs, red background, geometric patterns",None,None,"Rock Newcomb 
+ (American, b. 1945) 
+ Secrets of the Salado 
+ acrylic on board 
+ signed  Rock Newcomb  (lower left); signed, titled, and inscribed (on the reverse) 
+ 24 x 36 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3180704/medium_376620-7_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/109,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+24c278a9-a704-45a0-a1d9-bacf1f960990,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 110,USD,200,400,None,None,200,400,None,None,Earl G. Hammock,1896,1971,"Southwestern Still Life (Blackware, Corn, Blanket)",painting,oil on board,<NA>,19.5,19.5,in,yes,yes,yes,<NA>,<NA>,"black vase, multicolored corn, textile blanket, geometric patterns, red, blue, yellow, still life",None,None,"Earl G. Hammock 
+ (American, 1896-1971) 
+ Southwestern Still Life (Blackware, Corn, Blanket) 
+ oil on board 
+ signed  Earl Hammock  (lower left) 
+ 19 1/2 x 19 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177926/medium_377643-20_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/110,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,350.0,291.6666666666667
+55d188d1-ce9b-469f-a309-3a20862799dc,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 111,USD,400,600,None,None,400,600,None,None,Ed Mell,1942,2024,La Flor Amarilla,prints,lithograph on paper,<NA>,20.25,28,in,yes,yes,yes,<NA>,<NA>,"flower, cactus, petals, spines, orange, yellow, green, gray, abstract, botanical",None,None,"Ed Mell 
+ (American, 1942-2024) 
+ La Flor Amarilla 
+ lithograph on paper 
+ signed  Ed Mell  and numbered  36/250  (lower right) 
+ 28 x 20 1/4 inches (sight). 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177914/medium_376620-4_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/111,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+bb3e9b56-ce92-4f45-8b5a-1e8c7fd379f9,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 112,USD,2000,4000,None,None,2000,4000,None,None,Charles Pabst,1950,<NA>,Grand View,painting,oil on canvas,<NA>,29.75,40,in,yes,yes,yes,1950,<NA>,"canyon, rock formations, water, sunlight, reflection, landscape, yellow, orange, blue, serene",None,None,"Charles Pabst 
+ (American, b. 1950) 
+ Grand View 
+ oil on canvas  
+ signed  Charles H. Pabst  (lower right) 
+ 40 x 29 3/4 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172268/medium_377928-27_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/112,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+ed0e0836-ed3d-4158-8b21-47258aee426e,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 113,USD,2500,3500,None,None,2500,3500,None,None,Tom Uttech,1942,<NA>,Patchapawapoka River,painting,oil on canvas laid to panel,<NA>,14.5,11.25,in,yes,yes,yes,<NA>,<NA>,"waterfall, rocks, water, sky, clouds, trees, sunset, waves, landscape, nature",None,None,"Tom Uttech 
+ (American, b. 1942) 
+ Patchapawapoka River 
+ oil on canvas laid to panel 
+ signed  TU  and dated (lower left); signed, titled, and dated (on the reverse) 
+ 11 1/4 x 14 1/2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2779614/medium_307920-3_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/113,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+30503411-0b56-4794-920b-bc53d9c5c9c9,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 114,USD,300,500,None,None,300,500,None,None,Sari Staggs,1941,<NA>,Hopi Kachina,painting,watercolor on paper,<NA>,7,9,in,yes,yes,yes,1978,<NA>,"figure, elderly man, staff, traditional clothing, yellow background, ornaments, hands, white hair, red accents, cultural attire",None,None,"Sari Staggs 
+ (American, b. 1941) 
+ Hopi Kachina , 1978 
+ watercolor on paper 
+ signed  Sari Staggs , titled, and dated (upper edge) 
+ 9 x 7 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3131617/medium_306342-4_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/114,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,425.0,354.1666666666667
+6af904af-31f3-465a-8df3-cfe5fba0a088,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 115,USD,800,1200,None,None,800,1200,None,None,David Johns,1948,<NA>,Abstract,painting,acrylic on canvas,<NA>,54,36,in,yes,yes,yes,1985,<NA>,"abstract, shapes, colors, patterns, forms",None,None,"David Johns 
+ (Diné, b. 1948) 
+ Abstract , 1985 
+ acrylic on canvas 
+ signed  David Johns  and dated (lower left) 
+ 36 x 54 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177913/medium_376620-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/115,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+d0ce2694-3279-46ce-a04e-31bbff755c21,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 116,USD,500,700,None,None,500,700,None,None,John Nieto,1936,2018,Night Ride,prints,serigraph on paper,<NA>,38,30,in,yes,yes,yes,1988,<NA>,"horse, rider, spear, blue background, motion, warrior, Native American, colorful figures, landscape, action",None,None,"John Nieto 
+ (American, 1936-2018) 
+ Night Ride , 1988 
+ serigraph on paper 
+ signed  Nieto  (lower right) and numbered  AP 36/50  (lower left) 
+ 30 x 38 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3131619/medium_306342-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/116,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,650.0,541.6666666666667
+b101c680-db91-42ed-8a52-94aa31adcec5,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 117,USD,500,700,None,None,500,700,None,None,Jim Prindiville,1941,<NA>,Proud Warrior,painting,oil on canvas,<NA>,19,25,in,yes,yes,yes,<NA>,<NA>,"man, feathers, blue paint, necklace, long hair, abstract colors, native culture, profile, earth tones, sky",None,None,"Jim Prindiville 
+ (American, b. 1941) 
+ Proud Warrior 
+ oil on canvas 
+ signed  Prindiville  (lower right) 
+ 25 x 19 inches. 
+ Property from the Collection of Lori Crane 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3155054/medium_377875-12_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/117,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,650.0,541.6666666666667
+a0f37809-deb6-4d60-b043-005a9a2de6e5,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 118,USD,800,1200,None,None,800,1200,None,None,Fritz Scholder,1937,2005,Action Shaman,prints,lithograph on paper,<NA>,30,40,in,yes,yes,yes,1985,<NA>,"figure, athletic, orange background, red clothing, green accents, movement, energy, expression, portrait, abstract",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Action Shaman , 1985  
+ lithograph on paper 
+ signed  Scholder  and inscribed  CTP  in pencil (lower edge) 
+ 40 x 30 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108345/medium_377384-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/118,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+6f706eaa-c26a-4ec1-a90f-70d69d7f6c0f,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 119,USD,700,900,None,None,700,900,None,None,Fritz Scholder,1937,2005,First Dream,prints,lithograph on paper,<NA>,22.5,30,in,yes,yes,yes,1981,<NA>,"woman, dress, abstract shapes, colors, figure, silhouette, background, arch, motion, profile",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ First Dream , 1981 
+ lithograph on paper 
+ signed  Scholder  and numbered  63/90  (in margin) 
+ 30 x 22 1/2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108354/medium_377384-4_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/119,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,850.0,708.3333333333334
+9b714aa1-ab2e-48fa-9918-fcc4733bc342,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 120,USD,600,800,None,None,600,800,None,None,Fritz Scholder,1937,2005,Portrait of Bull,prints,lithograph on paper,<NA>,22,30,in,yes,yes,yes,1981,<NA>,"bull, abstract, silhouette, red line, black shape, animal, negative space",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Portrait of Bull , 1981 
+ lithograph on paper 
+ signed  Scholder  and numbered  AP 1/10  (lower edge) 
+ 30 x 22 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108359/medium_377384-5_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/120,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,950.0,791.6666666666667
+b72ae24f-3f49-498d-8a1e-13292e897801,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 121,USD,1000,2000,None,None,1000,2000,None,None,Fritz Scholder,1937,2005,"Sioux Chief, 1978",prints,lithograph on paper,<NA>,22,30,in,yes,yes,yes,1978,<NA>,"Sioux chief, feathers, traditional clothing, standing figure, brown background, Native American, cultural attire, male figure, expression, pose",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Sioux Chief,  1978 
+ lithograph on paper 
+ signed  Scholder  and numbered  105/150  (lower edge) 
+ 30 x 22 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108338/medium_377384-2_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/121,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1800.0,1500.0
+47f43617-e17e-45c4-bd81-c8fbb2716eb0,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 122,USD,600,800,None,None,600,800,None,None,Fritz Scholder,1937,2005,Taos Dog Under the Bench,prints,lithograph on paper,<NA>,26,20,in,yes,yes,yes,1980,<NA>,"dog, silhouette, sky, abstract, purple, red, shadow",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Taos Dog Under the Bench,  1980 
+ lithograph on paper 
+ signed  Scholder  and numbered  16/30  (lower left) 
+ 20 x 26 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108375/medium_377384-6_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/122,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,750.0,625.0
+e66f21c3-4f1d-4dfd-bf7c-705e93585085,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 123,USD,300,500,None,None,300,500,None,None,Gisella Loeffler,1902,1977,"Taos, New Mexico",painting,gouache on board,<NA>,12,12,in,yes,yes,yes,<NA>,<NA>,"woman, pot, man, house, reeds, ladder, angel, crown, heart, globe",None,None,"Gisella Loeffler 
+ (American, 1902-1977) 
+ Taos, New Mexico 
+ gouache on board 
+ signed  GISELLA LOEFFLER  (lower right) 
+ 12 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3178697/medium_377643-23_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/123,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,425.0,354.1666666666667
+a2c73616-270d-4351-8a8e-08be2b42d929,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 124,USD,300,500,None,None,300,500,None,None,Paul Pletka,1946,<NA>,Untitled (Portrait),prints,lithograph on paper,<NA>,29.5,22,in,yes,yes,no,<NA>,<NA>,"man, feathers, stars, orange, hands, headdress, clothing, nature, expression, traditional",None,None,"Paul Pletka 
+ (American b. 1946) 
+ Untitled (Portrait) 
+ lithograph on paper 
+ signed  Pletka  (upper right) and numbered  29/100  (upper left) 
+ 22 x 29 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3178701/medium_377643-7_1-edit_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/124,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,425.0,354.1666666666667
+f73378fc-1fd2-46c6-9721-c2300582ab1d,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 125,USD,400,600,None,None,400,600,None,None,Ramon Kelly,1938,<NA>,Portrait of a Bearded Man,painting,oil on Masonite,<NA>,9,12,in,yes,yes,yes,<NA>,<NA>,"man, beard, hat, portrait, facial features",None,None,"Ramon Kelly 
+ (American, b. 1938) 
+ Portrait of a Bearded Man 
+ oil on Masonite 
+ signed  Ramon Kelly  (lower left) 
+ 12 x 9 inches.  
+ Property from the Eiteljorg Family Collection, Englewood, Colorado 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168379/medium_376556-6_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/125,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,525.0,437.5
+c794da33-69eb-440d-88ee-58a2bad8d67a,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 126,USD,600,800,None,None,600,800,None,None,Bettina Steinke,1913,1999,Eskimo Girl from Tuktoyaktuk N.W.T,painting,oil on canvas,<NA>,12,14,in,yes,yes,yes,1954,<NA>,"child, fur coat, smiling, portrait, background, Inuit, face, hair, expression, warmth",None,None,"Bettina Steinke 
+ (American, 1913-1999) 
+ Eskimo Girl from Tuktoyaktuk N.W.T , 1954 
+ oil on canvas 
+ signed  Bettina Steinke  (lower right); titled (stretcher) 
+ 14 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177918/medium_377643-9_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/126,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+73072c50-1fe5-450d-a20e-4e9ede7307a4,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 127,USD,800,1200,None,None,800,1200,None,None,Bettina Steinke,1913,1999,"Eskimo Girl, Povungnetuk",painting,oil on canvas,<NA>,13.75,18,in,yes,yes,yes,1953,<NA>,"woman, red scarf, smiling, portrait, indigenous clothing, cheeks, headscarf, background, happiness, culture",None,None,"Bettina Steinke 
+ (American, 1913-1999) 
+ Eskimo Girl, Povungnetuk ,   1953 
+ oil on canvas 
+ signed  Bettina Steinke  (lower right); titled and dated (on tape affixed to stretcher) 
+ 18 x 13 3/4 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177915/medium_377643-8_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/127,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+a47a37f2-d9a2-481a-9a66-e0d544d52218,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 128,USD,200,400,None,None,200,400,None,None,Marco Antonio Gomez,1910,1972,Hopi Man,painting,oil on canvas,<NA>,12,16,in,yes,yes,yes,<NA>,<NA>,"portrait, man, headband, necklace, smoking, indigenous, oil painting, expression, facial features, wrinkles",None,None,"Marco Antonio Gomez 
+ (American, 1910-1972) 
+ Hopi Man 
+ oil on canvas 
+ signed  M. A. Gomez  (lower right); signed and titled (on the reverse)  
+ 16 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177923/medium_377643-21_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/128,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,350.0,291.6666666666667
+bf63d958-e58e-459a-a8ed-f3de5f33ac69,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 129,USD,200,400,None,None,200,400,None,None,Charles M. Russell,1864,1926,Indian Head,sculpture,bronze,<NA>,<NA>,4,in,no,yes,yes,<NA>,<NA>,"head, sculpture, pedestal, abstract, portrait, figure",None,None,"Charles M. Russell 
+ (American, 1864-1926) 
+ Indian Head 
+ bronze 
+ inscribed  CMR / INDIAN HEAD / by / Charles M. Russell / (1864-1926)  and   numbered  73/250 
+ height (with base): 4 inches. 
+ The Emily T. and Adolphus Andrews Collection of Native American Art",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171183/medium_377008-77_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/129,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,350.0,291.6666666666667
+5c35e60e-a65a-4008-9809-2f3902dd7ee9,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 130,USD,300,500,None,None,300,500,None,None,Harrison Begay,1917,2012,Boy with Sheep and Girl with Sheep (A Pair),prints,lithograph on paper,<NA>,6,5.25,in,yes,yes,yes,<NA>,<NA>,"boy, goats, campfire, trees, moon, woman, blanket",None,None,"Harrison Begay 
+ (Navajo/Diné, 1917-2012) 
+ Boy with Sheep  and  Girl with Sheep (A Pair) 
+ lithograph on paper 
+ each signed ©  H. Begay  (in stone) 
+ 5 1/4 x 6 inches (each). 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3177937/medium_377643-19_4_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/130,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,425.0,354.1666666666667
+e8b57e5e-9344-46a2-93d3-e2938bbd6262,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 131,USD,800,1200,None,None,800,1200,None,None,Clifford Beck,1946,1995,The Secrets,painting,oil and pastel on canvas,<NA>,32,40,in,yes,yes,yes,1994,<NA>,"women, elders, jewelry, turquoise, traditional clothing, portrait, expressions, community, culture, child",None,None,"Clifford Beck 
+ (Diné, 1946-1995) 
+ The Secrets , 1994 
+ oil and pastel on canvas 
+ signed  C. Beck  and dated (lower right) 
+ 40 x 32 inches. 
+ The Collection of Robert and Judith Rothschild, Northbrook, Illinois 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171401/medium_377709-33_-1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/131,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+85e84cff-3a85-43f8-a068-c2f912dda965,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 132,USD,1000,1500,None,None,1000,1500,None,None,Austin Barton,1927,2017,"The Winds of Autumn, 1989",sculpture,bronze with brown patina on wood base,<NA>,<NA>,36,in,no,yes,yes,1989,<NA>,"man, sculpture, warrior, staff, animal, cape, muscular, bronze, standing, symbolic",None,None,"Austin Barton 
+ (American, 1927-2017) 
+ The Winds of Autumn,  1989 
+ bronze with brown patina on wood base 
+ inscribed  Austin Barton,  titled, dated, and numbered  10/30  (on ground, behind and in front of figure's right foot) 
+ height: 36 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168396/medium_378052-6_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/132,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1350.0,1125.0
+bbf15966-f6b3-4dce-a9ff-4a76c68f83d3,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 133,USD,600,800,None,None,600,800,None,None,Josef Imhof,1871,1955,Arapahoe,prints,lithograph on paper,<NA>,12,14,in,yes,yes,yes,<NA>,<NA>,"portrait, Native American, man, braid, feather, expression, ink",None,None,"Josef Imhof 
+ (American, 1871-1955) 
+ Arapahoe 
+ lithograph on paper 
+ signed  J. A. Imhof  and dedicated in pencil (lower right) 
+ 14 x 12 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3175048/medium_377643-14_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/133,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+01cdcaf1-0388-43c5-b2ad-640e81ad795c,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 134,USD,600,800,None,None,600,800,None,None,Heinie Hartwig,1937,<NA>,Yosemite Camp,painting,oil on Masonite,<NA>,14,16.75,in,yes,yes,yes,<NA>,<NA>,"mountains, waterfall, river, teepee, forest, eagles, figures, landscape, sky, rocks",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Yosemite Camp 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower right); titled (on the reverse) 
+ 16 3/4 x 14 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172200/medium_377928-29_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/134,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,750.0,625.0
+d42142b4-1281-4dae-a65e-8fa4c13553cf,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 135,USD,600,800,None,None,600,800,None,None,Heinie Hartwig,1937,<NA>,Winter Encampment,painting,oil on Masonite,<NA>,20.5,16.5,in,yes,yes,yes,<NA>,<NA>,"mountains,snow,tepees,trees,water,sky,clouds,landscape,eagle",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Winter Encampment 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower right); titled (on the reverse) 
+ 16 1/2 x 20 1/2 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172258/medium_377928-30_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/135,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+ec30730c-5e40-4554-bc71-bb9ae119ea86,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 136,USD,800,1200,None,None,800,1200,None,None,Oreland C. Joe,1958,<NA>,Searching for Buffalo,sculpture,alabaster on wood base,<NA>,<NA>,19.875,in,yes,yes,yes,1998,<NA>,"horse, rider, Native American, moon, sculpture, stone, landscape, nature, wildlife, figures",None,None,"Oreland C. Joe 
+ (Diné, b. 1958) 
+ Searching for Buffalo , 1998 
+ alabaster on wood base 
+ signed  O C Joe CA  and dated (on the reverse) 
+ height: 19 7/8 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171220/medium_377928-32_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/136,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+75f4ac83-3dcf-4d52-a090-40efe516d274,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 137,USD,800,1200,None,None,800,1200,None,None,Heinie Hartwig,1937,<NA>,Mountain Top,painting,oil on Masonite,<NA>,30,20,in,yes,yes,yes,<NA>,<NA>,"mountains, lake, trees, hikers, rocks, sky, birds, landscape, snow, water",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Mountain Top  
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower right) 
+ 20 x 30 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172263/medium_377928-31_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/137,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,950.0,791.6666666666667
+52d53771-1ea3-4166-adcb-80bc2e451a07,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 138,USD,600,800,None,None,600,800,None,None,Heinie Hartwig,1937,<NA>,Colors of Yellowstone,painting,oil on Masonite,<NA>,16,12,in,yes,yes,yes,<NA>,<NA>,"trees, landscape, water, sky, clouds, grass, flowers, mountains, red foliage, blue",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ Colors of Yellowstone 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower left); titled (on the reverse) 
+ 12 x 16 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172212/medium_377928-18_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/138,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,750.0,625.0
+e2637a9d-afd9-42a0-a361-971908ea2afe,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 139,USD,800,1200,None,None,800,1200,None,None,Heinie Hartwig,1937,<NA>,By the River,painting,oil on Masonite,<NA>,18,12,in,yes,yes,yes,<NA>,<NA>,"river, trees, mountains, figures, children, landscape, clouds, flowers, water, shoreline",None,None,"Heinie Hartwig 
+ (American, b. 1937) 
+ By the River 
+ oil on Masonite 
+ signed  Heinie Hartwig  (lower left) 
+ 12 x 18 inches. 
+ 
+ This lot is located in Cincinnati.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3172208/medium_377928-23_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/139,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,950.0,791.6666666666667
+ac9d5431-13d7-4e68-89ac-83ef41dac58b,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 140,USD,200,300,None,None,200,300,None,None,A. Kelly Pruitt,1924,2009,An Unwelcome Visitor,painting,acrylic on canvas,<NA>,36,23.75,in,yes,yes,yes,<NA>,<NA>,"two figures, night scene, campfire, meat hanging, outdoor setting, blankets, trees, shadows, vegetation, animal",None,None,"A. Kelly Pruitt 
+ (American, 1924-2009) 
+ An Unwelcome Visitor 
+ acrylic on canvas 
+ signed  A. Kelly Pruitt  (lower right) 
+ 23 3/4 x 36 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3008335/medium_376717-5_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/140,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,275.0,229.16666666666669
+85be7ee2-af8b-4760-a867-b498151f58a6,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 141,USD,1000,2000,None,None,1000,2000,None,None,Jacques and Mary Regat,<NA>,<NA>,Mother Bear with Cubs,sculpture,bronze with green patina,<NA>,<NA>,22.5,in,no,yes,yes,1985,<NA>,"bears, polar bear, cubs, family, sculpture",None,None,"Jacques and Mary Regat 
+ (American/French, 20th Century) 
+ Mother Bear with Cubs , 1985 
+ bronze with green patina 
+ inscribed  JR Regat  ©, dated  1985 , and numbered  23/25  (under bear's left rear paw) 
+ height: 22 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3169110/medium_378309-1_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/141,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1650.0,1375.0
+79c0de34-ddac-4d8f-9467-102d5fc265dc,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 142,USD,1500,2500,None,None,1500,2500,None,None,Gib Singleton,1935,2014,Fallen Angel,sculpture,bronze with verdigris patina,<NA>,<NA>,15.5,in,no,yes,yes,1980,<NA>,"fallen angel, wings, figure, sculpture, bronze, sitting, sadness, contemplation, abstract, dark",None,None,"Gib Singleton  
+ (American, 1935-2014) 
+ Fallen Angel , 1980 
+ bronze with verdigris patina 
+ inscribed  Singleton,  dated, and numbered  7/25  (on left wing) 
+ height: 15 1/2 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168397/medium_377403-4_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/142,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+c138733f-1ba6-40f9-849c-5a51af5793e7,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 143,USD,1500,2500,None,None,1500,2500,None,None,Gib Singleton,1935,2014,Wrath of God (Last Judgment),sculpture,polychrome bronze,<NA>,<NA>,13.75,in,no,yes,yes,<NA>,<NA>,"man, horse, cowboy, sculpture, bronze, base, reins, saddle, stance, movement",None,None,"Gib Singleton  
+ (American, 1935-2014) 
+ Wrath of God (Last Judgment) 
+ polychrome bronze 
+ inscribed  Singleton  (between horse's hind feet) 
+ height: 13 3/4 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168457/medium_377403-3_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/143,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+a7306b67-4cb6-4076-9d5a-ccd90e094810,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 144,USD,1500,2500,None,None,1500,2500,None,None,Gib Singleton,1935,2014,Moses on the Mount,sculpture,bronze with brown patina on wood base,<NA>,<NA>,20.375,in,no,yes,yes,<NA>,<NA>,"figure, Moses, mountain, spear, stone tablet, sculpture, rock, biblical, standing pose, bronze",None,None,"Gib Singleton  
+ (American, 1935-2014) 
+ Moses on the Mount 
+ bronze with brown patina on wood base 
+ inscribed  Singleton  (on base) 
+ height: 20 3/8 inches. 
+ 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168415/medium_377403-1_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/144,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,2100.0,1750.0
+ced5c779-3d40-423a-b39b-ba5a021f98d5,Art,Hindman,6382,2025-11-07,Denver,Sale 6382 - Western and Contemporary Native American Art Online,https://hindmanauctions.com/auctions/6382,Lot 145,USD,1000,2000,None,None,1000,2000,None,None,Gregory Lomayesva,1971,<NA>,"USS Kiqötsmovi, NCC 1680 Constitution Class (Starship Enterprise)",sculpture,"cottonwood, parrot feathers, and pigment",13.5,30,16.5,in,yes,yes,yes,2024,<NA>,"sculpture, spacecraft, flowers, colorful feathers, abstract shapes",None,None,"Gregory Lomayesva 
+ (Hopi, b. 1971) 
+ USS Kiqötsmovi, NCC 1680 Constitution Class (Starship Enterprise) , 2024 
+ cottonwood, parrot feathers, and pigment 
+ signed  Lomayesva  and dated (underside of base) 
+ 16 1/2 x 30 x 13 1/2 inches. 
+ Property Being Sold to Support the Mission and Vision of The Couse-Sharp Historic Site, Taos, New Mexico 
+ This lot is located in Denver.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2849692/medium_324675-2_1_1.jpg,https://freemansauction.com/auctions/6382-western-and-contemporary-native-american-art-online/lot/145,6720.32,23053.99,46912.3,19.5,65.79,3.76,None,nan,gpt-4.1-mini,1650.0,1375.0

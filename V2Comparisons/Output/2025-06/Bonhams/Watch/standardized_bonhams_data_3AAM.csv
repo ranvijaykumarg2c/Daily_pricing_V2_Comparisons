@@ -1,0 +1,76 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Rolex,Cosmograph Daytona 'Zenith',Bonhams,17719.44,22782.14,None,20500.0,17083.333333333336
+Lot 2,Patek Philippe,Aquanaut,Bonhams,27844.84,35438.88,None,31200.0,26000.0
+Lot 3,Rolex,Sea Dweller Deepsea,Bonhams,8859.72,11391.07,None,10250.0,8541.666666666668
+Lot 4,Audemars Piguet,Royal Oak Offshore 'Alinghi Team',Bonhams,25313.49,37970.23,None,31900.0,26583.333333333336
+Lot 5,Rolex,Sea-Dweller,Bonhams,6328.37,8859.72,None,7540.0,6283.333333333334
+Lot 6,Breitling,SuperOcean 'King Charles III Coronation RaSP',Bonhams,8859.72,11391.07,None,10250.0,8541.666666666668
+Lot 7,HD3,"Idalgo XT-1, Limited Edition No.2/33",Bonhams,5062.7,7594.05,None,6750.0,5625.0
+Lot 8,Rolex,Day Date II,Bonhams,31641.86,44298.6,None,38500.0,32083.333333333336
+Lot 9,Harry Winston,Avenue C,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 10,Cartier,Captive de Cartier XL,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 11,Cartier,Tank Louis Cartier Skeleton,Bonhams,31641.86,44298.6,None,38500.0,32083.333333333336
+Lot 12,Patek Philippe,Aquanaut,Bonhams,10125.4,15188.09,None,12500.0,10416.666666666668
+Lot 13,Patek Philippe,<NA>,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 14,Rolex,Cosmograph Daytona,Bonhams,63283.72,88597.21,None,75400.0,62833.333333333336
+Lot 15,Rolex,Datejust,Bonhams,37970.23,50626.98,None,43200.0,36000.0
+Lot 16,Rolex,Cosmograph Daytona,Bonhams,25313.49,37970.23,None,31250.0,26041.666666666668
+Lot 17,Universal Geneve,Compax 'Nina Rindt',Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 18,Rolex,Single Red Submariner,Bonhams,15188.09,22782.14,None,18900.0,15750.0
+Lot 19,Rolex,Cosmograph Daytona 'Big Red',Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 20,Rolex,Submariner,Bonhams,10125.4,15188.09,None,12650.0,10541.666666666668
+Lot 21,Rolex,COMEX Submariner,Bonhams,63283.72,88597.21,None,75400.0,62833.333333333336
+Lot 22,Rolex,Oyster Chronograph,Bonhams,18985.12,25313.49,None,21500.0,17916.666666666668
+Lot 23,Rolex,Datejust 'Ovettone',Bonhams,22782.14,27844.84,None,25000.0,20833.333333333336
+Lot 24,Rolex,Datejust,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 25,Rolex,Day-Date,Bonhams,18985.12,25313.49,None,22500.0,18750.0
+Lot 26,Cartier,<NA>,Bonhams,10125.4,15188.09,None,12600.0,10500.0
+Lot 27,Cartier,Tank Allongee,Bonhams,10125.4,15188.09,None,12650.0,10541.666666666668
+Lot 28,Cartier,<NA>,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 29,Cartier,<NA>,Bonhams,10125.4,15188.09,None,12650.0,10541.666666666668
+Lot 30,Cartier,Santos Dumont,Bonhams,6328.37,8859.72,None,7540.0,6283.333333333334
+Lot 31,Patek Philippe,<NA>,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 32,Patek Philippe,Calatrava,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 33,Vacheron Constantin,<NA>,Bonhams,15188.09,22782.14,None,19800.0,16500.0
+Lot 34,Rolex,Oyster Perpetual,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 35,Piaget,<NA>,Bonhams,7594.05,10125.4,None,8950.0,7458.333333333334
+Lot 36,Patek Philippe,Calatrava,Bonhams,10125.4,12656.74,None,11500.0,9583.333333333334
+Lot 37,Patek Philippe,<NA>,Bonhams,31641.86,44298.6,None,38500.0,32083.333333333336
+Lot 38,Franck Muller,Double Mystery,Bonhams,18985.12,25313.49,None,21500.0,17916.666666666668
+Lot 39,Patek Philippe,<NA>,Bonhams,25313.49,37970.23,None,31900.0,26583.333333333336
+Lot 40,Chopard,Imperiale,Bonhams,10125.4,12656.74,None,11500.0,9583.333333333334
+Lot 41,Rolex,Datejust Pearlmaster,Bonhams,8859.72,11391.07,None,10250.0,8541.666666666668
+Lot 42,Rolex,Day-Date,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 43,Patek Philippe,Travel Time,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 44,Rolex,Floating Cosmograph Zenith Daytona,Bonhams,31641.86,44298.6,None,38500.0,32083.333333333336
+Lot 45,Rolex,Cosmograph Daytona,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 46,Franck Muller,Sunrise,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 47,Audemars Piguet,Royal Oak Offshore,Bonhams,37970.23,63283.72,None,48750.0,40625.0
+Lot 48,Hublot,Big Bang,Bonhams,7594.05,10125.4,None,8950.0,7458.333333333334
+Lot 49,Rolex,Cosmograph Daytona 'Leopard',Bonhams,44298.6,69612.09,None,55000.0,45833.333333333336
+Lot 50,Patek Philippe,Twenty 4,Bonhams,37970.23,63283.72,None,48750.0,40625.0
+Lot 51,Patek Philippe,Gondolo Serata,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 52,Jaeger-LeCoultre,Master Control,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 53,Graff,Classic Butterfly,Bonhams,25313.49,37970.23,None,31900.0,26583.333333333336
+Lot 54,Patek Philippe,Twenty 4,Bonhams,15188.09,22782.14,None,19800.0,16500.0
+Lot 55,Breguet,<NA>,Bonhams,10125.4,15188.09,None,12650.0,10541.666666666668
+Lot 56,Hublot,Big Bang Ceramic Marcus Edition,Bonhams,6328.37,8859.72,None,7540.0,6283.333333333334
+Lot 57,Hautlence,<NA>,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 58,HD3,Three Minds Marcus Limited Edition 2/3,Bonhams,10125.4,15188.09,None,12500.0,10416.666666666668
+Lot 59,Franck Muller,Curvex,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 60,Breguet,La Musicale - La Gazza Ladra,Bonhams,25313.49,37970.23,None,31900.0,26583.333333333336
+Lot 61,Patek Philippe,Nautilus,Bonhams,25313.49,37970.23,None,31900.0,26583.333333333336
+Lot 62,Patek Philippe,<NA>,Bonhams,22782.14,27844.84,None,25000.0,20833.333333333336
+Lot 63,Patek Philippe,<NA>,Bonhams,31641.86,50626.98,None,42500.0,35416.66666666667
+Lot 64,Patek Philippe,<NA>,Bonhams,88597.21,113910.7,None,102500.0,85416.66666666667
+Lot 65,Rolex,Oyster Speedking 'Kew A Certificate',Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 66,Patek Philippe,<NA>,Bonhams,18985.12,25313.49,None,21500.0,17916.666666666668
+Lot 67,Rolex,GMT-Master,Bonhams,15188.09,22782.14,None,18950.0,15791.666666666668
+Lot 68,Rolex,Day Date,Bonhams,25313.49,37970.23,None,32500.0,27083.333333333336
+Lot 69,Rolex,COMEX Submariner,Bonhams,25313.49,37970.23,None,31250.0,26041.666666666668
+Lot 70,Rolex,Submariner,Bonhams,7594.05,10125.4,None,8950.0,7458.333333333334
+Lot 71,Breguet,Type XX,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 72,Jaeger-LeCoultre,DeepSea Alarm,Bonhams,10125.4,15188.09,None,12650.0,10541.666666666668
+Lot 73,Omega,Seamaster 300,Bonhams,10125.4,15188.09,None,12650.0,10541.666666666668
+Lot 74,Rolex,Oyster Cosmograph Daytona,Bonhams,37970.23,50626.98,None,45000.0,37500.0
+Lot 75,Rolex,Military Submariner,Bonhams,101253.95,151880.93,None,125000.0,104166.66666666667

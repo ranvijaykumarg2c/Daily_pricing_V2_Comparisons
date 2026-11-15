@@ -1,0 +1,930 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+fbfde541-921b-4684-a5c8-5faa23479318,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 201,EUR,10000,15000,None,None,10689.0,16033.5,None,None,Paul Signac,1863,1935,"Marseille, Le Fort Saint-Jean",drawing,watercolour and black chalk on paper,None,24.3,19,cm,no,yes,yes,1920,"Atelier de l’artiste. 
+Collection particulière, France (par descendance). 
+Collection particulière, France.","Marseille, Fort Saint-Jean, sailboats, water, clouds, pink buildings, blue sky, sea, black chalk, watercolor",None,None,"Marseille, Le Fort Saint-Jean
+avec le cachet 'P. Signac' (en bas à gauche; Lugt 2285b)
+aquarelle et pierre noire sur papier
+19 x 24.3 cm. 
+Exécuté vers 1920
+stamped ' P. Signac' (lower left; Lugt 2285b)
+watercolour and black chalk on paper 
+7
+1
+⁄
+2
+ x 9
+5
+⁄
+8
+ in.
+Executed 
+circa 
+1920",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0201_000(paul_signac_marseille_le_fort_saint-jean035636).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/paul-signac-1863-1935-201/283307?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,2025-12,gpt-4.1-mini,13500.0,11250.0
+ee371dc5-9197-4b7a-9e16-80e65d8d7105,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 202,EUR,30000,50000,None,None,32067.0,53445.0,None,None,Armand Guillaumin,1841,1927,"Le Brusc, Chemin de Lougaou, matin",painting,oil on canvas,None,91.8,60.1,cm,yes,yes,yes,1911,"Collection particulière, France.
+Puis par descendance au propriétaire actuel.","trees, water, shoreline, sky, clouds, landscape, seascape, plants, rocks, reflection",None,None,"Le Brusc, Chemin de Lougaou, matin
+signé ‘Guillaumin’ (en bas à gauche); daté et inscrit ‘le Brusc chemin de Lougaou matin mars 1911’ (au revers)
+huile sur toile
+60.1 x 91.8 cm. 
+Peint en mars 1911
+signed 'Guillaumin' (lower left); dated and inscribed 'le Brusc chemin de Lougaou matin mars 1911' (on the reverse)
+oil on canvas
+23
+5
+⁄
+8
+ x 36
+1
+⁄
+8
+ in.
+Painted in mars 1911",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0202_000(armand_guillaumin_le_brusc_chemin_de_lougaou_matin050524).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/armand-guillaumin-1841-1927-202/283309?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,46200.0,38500.0
+c2ac8d0f-dfe3-4edb-9b74-eeeb2078c84c,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 203,EUR,10000,15000,None,None,10689.0,16033.5,None,None,Paul Signac,1863,1935,"Paris, Le Pont-Royal",drawing,watercolour and black chalk on paper,None,26.1,18.7,cm,no,yes,yes,1910,"Atelier de l'artiste. 
+Collection particulière, France (par descendance). 
+Collection particulière, France.","bridge, steamship, smoke, water, clouds, cityscape, trees, buildings, river, sky",None,None,"Paris, Le Pont-Royal
+avec le cachet 'P. Signac' (en bas à gauche; Lugt 2285b)
+aquarelle et pierre noire sur papier 
+18.7 x 26.1 cm. 
+Exécuté vers 1910
+stamped 'P. Signac' (lower left; Lugt 2285b)
+watercolour and black chalk on paper
+7
+3
+⁄
+8
+ x 10
+1
+⁄
+4
+ in.
+Executed 
+circa 
+1910",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0203_000(paul_signac_paris_le_pont-royal_d6566856112620).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/paul-signac-1863-1935-203/283308?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+86cab001-2d53-456c-89d8-343becac340e,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 204,EUR,30000,50000,None,None,32067.0,53445.0,None,None,Blanche Hoschedé Monet,1865,1947,La Barque sur l'Epte,painting,oil on canvas,None,46,55.5,cm,yes,yes,yes,1929,"Atelier de l’artiste.
+Jean-Pierre Hoschedé, Giverny (par succession et jusqu’à au moins 1954).
+Collection particulière, Vernon (avant 1991).
+Puis par descendance au propriétaire actuel.","boat, river, trees, foliage, water, reflections, greenery, landscape, nature, light",None,None,"Blanche Hoschedé Monet (1865-1947)
+La Barque sur l'Epte
+signé 'B Hoschedé' (en bas à gauche) 
+huile sur toile 
+55.5 x 46 cm. 
+Peint vers 1929
+signed 'B Hoschedé' (lower left)
+oil on canvas
+21./7/8 x 18
+1
+⁄
+8
+ in.
+Painted 
+circa 
+1929",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0204_000(blanche_hoschede_monet_barque_sur_lepte055432).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/blanche-hoschede-monet-1865-1947-204/283310?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,42000.0,35000.0
+001f9471-fd72-4f6f-b2c7-5f47ba1a733b,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 205,EUR,60000,80000,None,None,64134.0,85512.0,None,None,Henri Martin,1860,1943,"Sals (Commune de Labastide du Vert, Lot, France)",painting,oil on canvas,None,85,51.8,cm,yes,yes,yes,1920,"Isabelle Claux-Metivier, Paris.
+Collection particulière, Europe.
+Vente, Sotheby's, Paris, 1
+er 
+juin 2016, lot 44. 
+Acquis au cours de cette vente par le propriétaire actuel.","landscape, hills, trees, fields, sky, clouds, autumn colors, rural scene, foliage",None,None,"Sals (Commune de Labastide du Vert, Lot, France)
+signé indistinctement 'Henri Martin' (en bas à droite)
+huile sur toile
+51.8 x 85 cm.
+Peint vers 1920
+indistinctly signed 'Henri Martin' (lower right)
+oil on canvas
+20
+1
+⁄
+2
+ x 33
+1
+⁄
+2
+ in. 
+Painted 
+circa 
+1920",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0205_000(henri_martin_sals100143).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/henri-martin-1860-1943-205/283311?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,73500.0,61250.0
+be7e6084-696e-45b2-a4e1-c8c37dfe0f1e,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 206,EUR,7000,10000,None,None,7482.3,10689.0,None,None,Henri Edmond Cross,1856,1910,"La Salute vue de la Giudecca, 10h du matin",drawing,watercolour and black chalk on paper,None,24.6,17,cm,yes,yes,yes,1903,"Vente, Millon, Neuilly-sur-Marne, 8 avril 2025, lot 125 (décrit comme 'École Française du XX
+ème 
+siècle').
+Acquis au cours de cette vente par le propriétaire actuel.","La Salute, Giudecca, boats, water, architecture, sky, reflections, coastline, clouds, morning",None,None,"La Salute vue de la Giudecca, 10h du matin
+signé des initiales 'H E.C.' (en bas à gauche)
+; 
+inscrit '22 J. La Salute vue de la Giudecca 10h. matin. (croquis album voile jaune)' (au revers)
+aquarelle et pierre noire sur papier
+17 x 24.6 cm.
+Exécuté en 1903
+signed with the initials 'H E.C.' (lower left)
+; 
+inscribed '22 J. La Salute vue de la Giudecca 10h. matin. (croquis album voile jaune)
+' 
+(on the reverse)
+watercolour and black chalk on paper
+6
+3
+⁄
+4
+ x 9
+5
+⁄
+8
+ in.
+Executed in 1903",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0206_001(henri_edmond_cross_la_salute_vue_de_la_giudecca_10h_du_matin050705).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/henri-edmond-cross-1856-1910-206/283313?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,9200.0,7666.666666666667
+c857ca04-a485-4ad7-b220-df407e859bc2,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 207,EUR,50000,70000,None,None,53445.0,74823.0,None,None,Eugène Boudin,1824,1898,Un Coin de bassin à Deauville,painting,oil on panel,None,23.5,32.5,cm,yes,yes,yes,1895,"Collection Allard, Paris. 
+Collection particulière (avant 1973). 
+Collection particulière, France; vente, Christie's, Paris, 26 mai 2004, lot 17. 
+Collection particulière, Suisse (acquis au cours de cette vente). 
+Puis par descendance au propriétaire actuel.","boat, harbor, clouds, water, ship, reflections, masts, sky, port, scenery",None,None,"Eugène Boudin (1824-1898)
+Un Coin de bassin à Deauville
+signé et daté ‘E Boudin 95.’ (en bas à droite); inscrit 'Un coin de bassin à Deauville -' (au revers)
+huile sur panneau
+32.5 x 23.5 cm.
+Peint en 1895
+signed and dated ‘E Boudin 95.’ (lower right); inscribed 'Un coin de bassin à Deauville -' (on the reverse)
+oil on panel 
+12
+3
+⁄
+4
+ x 9
+1
+⁄
+4
+ in.
+Painted in 1895",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0207_000(eugene_boudin_un_coin_de_bassin_a_deauville100207).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/eugene-boudin-1824-1898-207/283312?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+71985813-9602-4619-861b-f210610a98d4,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 208,EUR,30000,50000,None,None,32067.0,53445.0,None,None,Gustave Loiseau,1865,1935,Verger au Printemps,painting,oil on canvas,None,61.2,50,cm,yes,yes,yes,1920,"Vente, Galerie Motte, Genève, 9 décembre 1970, lot 307. 
+Collection particulière, Europe (acquis au cours de cette vente).
+Collection particulière, Europe (par descendance); vente, Sotheby's, Londres, 4 février 2016, lot 104. 
+Acquis au cours de cette vente par le propriétaire actuel.","spring, trees, landscape, village, fields, sky, greenery, houses, blossoms, hills",None,None,"Verger au Printemps
+signé 'G Loiseau' (en bas à gauche)
+huile sur toile
+50 x 61.2 cm.
+Peint vers 1920
+signed 'G Loiseau' (lower left)
+oil on canvas
+19
+3
+⁄
+4
+ x 24
+1
+⁄
+8
+ in. 
+Painted 
+circa 
+1920",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0208_000(gustave_loiseau_verger_au_printemps_d6566861103044).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/gustave-loiseau-1865-1935-208/283316?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,42000.0,35000.0
+b305009b-bec1-48dd-8a52-8b34a6322fe2,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 209,EUR,12000,18000,None,None,12826.8,19240.2,None,None,André Lhote,1885,1962,Les Arbres,painting,oil on canvas,None,33.1,24.1,cm,yes,yes,yes,1930,"Carlos Rafael Travieso Pérez, Paris et Venezuela (acquis à Paris dans les années 1930).
+Collection particulière, Venezuela (par descendance). 
+Puis par descendance au propriétaire actuel.","trees, landscape, blue sky, green foliage, orange branches, yellow patches, brown trunks, grass",None,None,"André Lhote (1885-1962)
+Les Arbres
+signé 'A.LHOTE' (en bas à droite)
+huile sur toile 
+24.1 x 33.1 cm.
+Peint vers 1930
+signed 'A.LHOTE' (lower right)
+oil on canvas
+9
+1
+⁄
+2
+ x 13 in.
+Painted 
+circa 
+1930",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0209_000(andre_lhote_sans_titre_d6566862103059).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/andre-lhote-1885-1962-209/283314?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+886300c7-7758-43bf-a05d-df495b5241a6,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 210,EUR,20000,30000,None,None,21378.0,32067.0,None,None,André Lhote,1885,1962,Paysage aux tours,painting,oil on canvas,None,41,33,cm,yes,yes,yes,1930,"Carlos Rafael Travieso Pérez, Paris et Venezuela (acquis à Paris dans les années 1930).
+Collection particulière, Venezuela (par descendance).
+Puis par descendance au propriétaire actuel.","landscape, towers, trees, clouds, houses, field, grassy area, flag, blue tones, pink house",None,None,"André Lhote (1885-1962)
+Paysage aux tours
+signé 'A. LHOTE.' (en haut à gauche)
+huile sur toile
+33 x 41 cm.
+Peint vers 1930
+signed 'A. LHOTE.' (upper left)
+oil on canvas
+13 x 16
+1
+⁄
+8
+ in.
+Painted 
+circa 
+1930",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0210_000(andre_lhote_sans_titre100410).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/andre-lhote-1885-1962-210/283318?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+3d0f014e-0a42-4a50-a060-be5100954380,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 211,EUR,10000,15000,None,None,10689.0,16033.5,None,None,Albert Gleizes,1881,1953,Sans titre,painting,gouache on paper,None,39.2,53.4,cm,yes,yes,yes,1921,"Vente, Me. Lhomme, Liège, 16 septembre 2006, lot 298.
+Acquis lors de cette vente par le propriétaire actuel.","abstract forms, geometric shapes, blue, green, purple, brown, composition, color fields",None,None,"Sans titre
+signé et daté 'Alb Gleizes. 21.' (en bas à droite)
+gouache sur papier
+53.4 x 39.2 cm. 
+Exécuté en 1921
+signed and dated 'Alb Gleizes. 21.' (lower right)
+gouache on paper
+21
+1
+⁄
+8
+ x 15
+5
+⁄
+8
+ in. 
+Executed in 1921",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0211_000(albert_gleizes_sans_titre100518).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/albert-gleizes-1881-1953-211/283315?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+a1ac546a-e923-4ea1-9229-eb72ae75c864,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 212,EUR,18000,25000,None,None,19240.2,26722.5,None,None,Le Corbusier,1887,1965,"Nature morte verticale, violon, boîte à violon, bouteilles, verres",drawing,"wax crayon, pastel, pencil on paper",None,26.1,37.2,cm,yes,yes,yes,1922,"Galerie Zlotowski, Paris. 
+Acquis auprès de celle-ci par le propriétaire actuel en mai 2023.","violon, boîte à violon, bouteilles, verres, nature morte, crayon, pastel, graphite, composition abstraite, couleurs",None,None,"Le Corbusier (1887-1965; Charles-Édouard Jeanneret, dit)
+Nature morte verticale, violon, boîte à violon, bouteilles, verres
+signé et daté 'jeanneret 1922' (en bas à droite)
+crayon gras, pastel et graphite sur papier
+37.2 x 26.1 cm. 
+Exécuté en 1922
+signed and dated 'jeanneret 1922' (lower right)
+wax crayon, pastel and pencil on paper
+14
+1
+⁄
+2
+ x 10
+1
+⁄
+4
+ in.
+Executed in 1922",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0212_000(le_corbusier_nature_morte_verticale_violon_boite_a_violon_bouteilles_v113959).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/le-corbusier-1887-1965-charles-edouard-jeanneret-dit-212/283319?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,23450.0,19541.666666666668
+3d74c728-dfa0-49f3-85fa-0e2efea78192,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 213,EUR,250000,350000,None,None,267225.0,374115.0,None,None,Alberto Magnelli,1888,1971,L'Uomo Ubriaco,painting,oil on canvas,None,74.5,99.5,cm,yes,yes,yes,1914,"Atelier de l'artiste. 
+Susi Magnelli, Meudon (par succession en 1971 et jusqu'à au moins 1975). 
+Galerie Karl Flinker, Paris. 
+Galerie Hasenclever, Munich. 
+Vente, Christie, Manson & Woods Ltd., Londres, 29 mars 1988, lot 176. 
+Collection particulière, Italie (acquis au cours de cette vente); vente, Christie's, Londres, 15 octobre 2007, lot 209. 
+Acquis au cours de cette vente par le propriétaire actuel.","man, hat, suit, blue bow tie, jug, table, glass, abstract background, colors",None,None,"L'Uomo Ubriaco
+signé, daté et inscrit 'ALB. MAGNELLI 1914 ''L'UOMO UBRIACO'' FIRENZE 1914 NE PAS VERNIR' (au revers)
+huile sur toile 
+99.5 x 74. 5 cm. 
+Peint à Florence en 1914
+signed, dated and inscribed 'ALB. MAGNELLI 1914 ''L'UOMO UBRIACO'' FIRENZE 1914 NE PAS VERNIR' (on the reverse)
+oil on canvas
+39
+1
+⁄
+8
+ x 29
+3
+⁄
+8
+ in. 
+Painted in Florence in 1914",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0213_000(alberto_magnelli_luomo_ubriaco100615).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/alberto-magnelli-1888-1971-213/283317?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,320000.0,266666.6666666667
+42f3f3ad-8280-4962-9f49-5d6b8f2ed2dc,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 214,EUR,700,1000,None,None,748.23,1068.9,None,None,Alberto Magnelli,1888,1971,Dessin pour 'L'Uomo ubriaco',drawing,graphite on tinted paper,None,30.4,45.4,cm,yes,yes,yes,1914,"Atelier de l'artiste. 
+Susi Magnelli, Meudon (par succession et jusqu'à au moins 1988).
+Don de celle-ci au propriétaire actuel dans les années 1988-1990.","man, suit, hat, bottle, glass, pencil drawing, 1914, paper, shaded, abstract",None,None,"Dessin pour 'L'Uomo ubriaco'
+porte la signature et la date 'Magnelli 1914' (en bas à gauche)
+graphite sur papier teinté
+45.4 x 30.4 cm.
+Exécuté à Florence en 1914
+bears the signature and the date 'Magnelli 1914' (lower left)
+pencil on tinted paper
+17
+7
+⁄
+8
+ x 12 in. 
+Executed in Florence in 1914",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0214_000(alberto_magnelli_dessin_pour_luomo_ubriaco100704).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/alberto-magnelli-1888-1971-214/283320?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,950.0,791.6666666666667
+57eae719-0b2b-4ef5-b934-88525d130e8d,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 215,EUR,18000,25000,None,None,19240.2,26722.5,None,None,D'après Fernand Léger,1881,1955,La Fleur qui marche,ceramics,painted glazed ceramic,None,<NA>,60.5,cm,yes,yes,yes,1952,"Collection particulière, France (commandité auprès de la succession de l'artiste).
+Puis par descendance au propriétaire actuel.","flower, ceramic, sculpture, colors, abstract, painted, glazed, standing figure, contemporary art, modern art",None,None,"D'après Fernand Léger (1881-1955)
+La Fleur qui marche
+signé et numéroté 'F. LEGER H.C 1/3' (sur le pied droit, à gauche)
+céramique peinte et émaillée 
+Hauteur: 60.5 cm. 
+Conçu vers 1952; cette épreuve exécutée ultérieurement dans une édition numérotée de 8 exemplaires plus 3 épreuves hors-commerce
+signed and numbered 'F. LEGER H.C 1/3' (on the right foot, on the left)
+painted glazed ceramic
+Height: 24
+7
+⁄
+8
+ in. 
+Conceived 
+circa 
+1952: this work executed at a later date in a numbered edition of 8 plus 3 
+hors-commerce 
+proofs",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0215_000(dapres_fernand_leger_la_fleur_qui_marche045941).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/dapres-fernand-leger-1881-1955-215/283321?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,23400.0,19500.0
+f323f595-52ba-4eef-ae84-b8884370ed3e,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 216,EUR,12000,18000,None,None,12826.8,19240.2,None,None,Léopold Survage,1878,1968,Sans Titre,painting,oil on canvas,None,38.2,55.3,cm,yes,yes,yes,1941,"Collection particulière (probablement acquis auprès de l'artiste).
+Collection particulière, Londres (par descendance); vente, Art Torg, Prague, 28 juin 2024, lot 15. 
+Acquis au cours de cette vente par le propriétaire actuel.","figure, man, cane, buildings, landscape, sky, birds, colors, mountains, sun",None,None,"Léopold Survage (1878-1968)
+Sans Titre
+signé et daté 'survage 18.8.41.' (en bas à droite)
+huile sur toile
+55.3 x 38.2 cm.
+Peint le 18 août 1941
+signed and dated 'survage 18.8.41' (lower right)
+oil on canvas
+21
+3
+⁄
+4
+ x 15 in. 
+Painted 18 August 1941",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0216_000(leopold_survage_sans_titre100715).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/leopold-survage-1878-1968-216/283322?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,16800.0,14000.0
+b85b6853-a17b-42a6-b90b-b576d1c87356,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 217,EUR,10000,15000,None,None,10689.0,16033.5,None,None,After Fernand Léger,1881,1955,Le Grand Coq,ceramics,painted glazed ceramic,None,<NA>,18.875,in,yes,yes,yes,1952,"Collection particulière, France (commandité auprès de la succession de l'artiste).
+Puis par descendance au propriétaire actuel.","rooster, ceramic, red, white, blue, abstract, sculpture, hollow forms, kitchenware, decorative",None,None,"D'après Fernand Léger (1881-1955)
+Le Grand Coq
+signé 'F.LEGER' (à l'arrière de la base); numéroté 'No. 7/8' (en dessous)
+céramique peinte et émaillée
+Hauteur: 47.8 cm.
+Conçu en 1952; cette céramique exécutée avant 1989 par Claude Brice d'après une œuvre originale de Fernand Léger, avec l'autorisation et sous le contrôle de Georges Bauquier, dans une édition numérotée de 8 exemplaires plus 3 épreuves hors-commerce
+signed 'F.LEGER' (on the back of the base); numbered 'No. 7/8' (underneath)
+painted glazed ceramic
+Height: 18
+7
+⁄
+8
+ in.
+Conceived in 1952; this ceramic executed by 1989 by Claude Brice, from an original work by Fernand Léger, with Georges Bauquier's approval and under his control, in a numbered edition of 8 plus 3 
+hors-commerce 
+proofs",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0217_000(dapres_fernand_leger_le_grand_coq111515).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/dapres-fernand-leger-1881-1955-217/283324?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+d21d9ef3-7285-4a40-bc3c-c0e21cd8c78b,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 218,EUR,8000,12000,None,None,8551.2,12826.8,None,None,Pablo Picasso,1881,1973,Nature morte (A.R. 219),ceramics,"painted, incised and partially glazed ceramic",None,37.6,31.2,cm,yes,yes,yes,1953,"Collection particulière, France. 
+Puis par descendance au propriétaire actuel.","ceramic plate, fruit, glass, geometric patterns, colors, incised design",None,None,"Nature morte (A.R. 219)
+avec les cachets 'MADOURA PLEIN FEU / EDITION PICASSO' (en-dessous)
+plat en céramique peinte, incisée et partiellement émaillée
+31.2 x 37.6 cm. 
+Conçu et exécuté en 1953 dans une édition de 400 exemplaires
+stamped 'MADOURA PLEIN FEU / EDITION PICASSO' (underneath)
+painted, incised and partially glazed ceramic plate
+12
+1
+⁄
+4
+ x 14
+7
+⁄
+8
+ in. 
+Conceived and executed in 1953 in an edition of 400",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0218_000(pablo_picasso_nature_morte_d6566871111631).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/pablo-picasso-1881-1973-218/283325?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,11400.0,9500.0
+3fb97751-53cf-431f-8172-27741e0ab1a0,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 219,EUR,15000,20000,None,None,16033.5,21378.0,None,None,Léopold Survage,1878,1968,Coïncidences,painting,casein on canvas,None,54,65,cm,yes,yes,yes,1950,"Galerie Berri Lardy & Cie., Paris.
+Acquis auprès de celle-ci par le propriétaire actuel en novembre 1968.","eye, hand, sun, leaf, building, sailboat, sky, mountain, color blocks, pattern",None,None,"Léopold Survage (1878-1968)
+Coïncidences
+signé et daté 'Survage.50.' (en bas à droite)
+caséine sur toile 
+65 x 54 cm. 
+Peint en 1950
+signed and dated 'Survage.50.' (lower right)
+casein on canvas
+25
+1
+⁄
+2
+ x 21
+1
+⁄
+4
+ in. 
+Painted in 1950",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0219_000(leopold_survage_coincidences_d6566872103428).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/leopold-survage-1878-1968-219/283323?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+02e8e87c-499a-408e-a759-a0c7ed3ccd6a,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 220,EUR,50000,70000,None,None,53445.0,74823.0,None,None,After Fernand Léger,1881,1955,Les Constructeurs,decorative arts,hand-woven wool tapestry,None,214,298,cm,yes,yes,yes,1950,"Collection particulière, France (commandité auprès de la succession de l'artiste).
+Puis par descendance au propriétaire actuel.","construction workers, industrial scaffolding, clouds, colorful patterns, figures, blue sky, abstract shapes, labor, manual work, geometric design",None,None,"D'après Fernand Léger (1881-1955)
+Les Constructeurs
+signé 'F. LEGER' (en bas à droite) et avec le monogramme de l'atelier Yvette Cauquil-Prince (en bas à gauche); numéroté 'H.C' (au revers) et avec le monogramme de l'atelier Yvette Cauquil-Prince, numéroté et inscrit 'H.C / F. Léger. - Les Constructeurs / H 2,95 x 2,10. / Maître d'œuvre Y. Cauquil-Prince / 75 Fbg. St. Antoine Paris 75011 Tél. 46.28.67.84' (sur un bolduc au revers)
+tapisserie en laine tissé main
+298 x 214 cm. 
+Conçu en 1950; cette œuvre exécutée avant 1993 par Yvette Cauquil-Prince, d'après une œuvre originale de Fernand Léger, avec l'autorisation et sous le contrôle de Georges Bauquier
+signed 'F. LEGER' (lower right) and with the Yvette Cauquil-Prince's atelier monogram (lower left); numbered 'H.C' (on the reverse) and with the Yvette Cauquil-Prince's atelier monogram, numbered and inscribed 'H.C / F. Léger. - Les Constructeurs / H 2,95 x 2,10. / Maître d'oeuvre Y. Cauquil-Prince / 75 Fbg. St. Antoine Paris 75011 Tél. 46.28.67.84' (on a label on the reverse)
+hand-woven wool tapestry
+117
+1
+⁄
+2
+ x 84
+1
+⁄
+4
+ in.
+Conceived in 1950; this work was executed by 1993 by Yvette Cauquil-Prince, from an original work by Fernand Léger, with Georges Bauquier's approval and under his control",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0220_000(dapres_fernand_leger_les_constructeurs050042).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/dapres-fernand-leger-1881-1955-220/283326?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,68250.0,56875.0
+def26666-d4ec-479e-9bcc-f44b4569613e,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 221,EUR,18000,25000,None,None,19240.2,26722.5,None,None,After Fernand Léger,1881,1955,La Branche,ceramics,painted glazed ceramic,None,<NA>,69,cm,yes,yes,yes,1952,"Collection particulière, France (commandité auprès de la succession de l'artiste).
+Puis par descendance au propriétaire actuel.","ceramic, sculpture, abstract forms, blue color, yellow color, geometric shapes",None,None,"D'après Fernand Léger (1881-1955)
+La Branche
+signé et numéroté 'F. LEGER 5/8' (sur le pied gauche, à gauche)
+céramique peinte et émaillée 
+Hauteur: 69 cm. 
+Conçu vers 1952 et exécutée avant 1989 par Claude Brice, d'après une œuvre originale de Fernand Léger, avec l'autorisation et sous le contrôle de Georges Bauquier, dans une édition numérotée de 8 exemplaires plus 3 épreuves hors-commerce
+signed and numbered 'F. LEGER 5/8' (on the left foot, at left)
+painted glazed ceramic 
+Height: 27
+1
+⁄
+8
+ in. 
+Conceived 
+circa 
+1952 and executed by 1989 by Claude Brice, from an original work by Fernand Léger, with Georges Bauquier's approval and under his control, in a numbered edition of 8 plus 3 
+hors-commerce 
+proofs",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0221_000(dapres_fernand_leger_la_branche111703).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/dapres-fernand-leger-1881-1955-221/283327?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,23400.0,19500.0
+118fe6d8-a20b-429d-9ab2-c66c11e5ab69,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 222,EUR,100000,150000,None,None,106890.0,160335.0,None,None,D'après Fernand Léger,1881,1955,Marie l'acrobate,mixed media,mosaic on concrete,None,194.5,144.5,cm,yes,yes,yes,1933,"Collection particulière, France (commandité auprès de la succession de l'artiste).
+Puis par descendance au propriétaire actuel.","woman, mosaic, orange background, geometric shapes, abstract forms, figure with arm raised, necklace, colorful patterns, vertical elements, contrasting colors",None,None,"D'après Fernand Léger (1881-1955)
+Marie l'acrobate
+signé et numéroté 'I/I F. LEGER' (en bas à droite)
+mosaïque sur béton
+144.5 x 194.5 cm.
+Conçu en 1933; cette mosaïque unique exécutée entre 1984 et 1993 par Heidi Melano, d'après une œuvre originale de Fernand Léger, avec l'autorisation et sous le contrôle de Georges Bauquier
+signed and numbered 'I/I F. LEGER' (lower right)
+mosaic on concrete
+57
+7
+⁄
+8
+ x 76
+1
+⁄
+2
+ in. 
+Conceived in 1933; this unique mosaic executed between 1984 and 1993 by Heidi Melano, from an original work by Fernand Léger, with Georges Bauquier's approval and under is control",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0222_000(dapres_fernand_leger_marie_lacrobate103553).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/dapres-fernand-leger-1881-1955-222/283328?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,132000.0,110000.0
+05da20d0-c0d5-4644-a7a9-b5e11016aad2,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 223,EUR,5000,7000,None,None,5344.5,7482.3,None,None,Pablo Picasso,1881,1973,Joueur de flûte (A.R. 126),ceramics,painted and partially glazed ceramic,None,<NA>,<NA>,cm,no,yes,yes,1951,"Collection particulière, France. 
+Puis par descendance au propriétaire actuel en 2017.","flute player, ceramic plate, painted decoration, musical instrument, sun, grass, leaves, figure, background landscape",None,None,"Joueur de flûte (A.R. 126)
+avec les cachets 'MADOURA PLEIN FEU / EMPREINTE ORIGINALE DE PICASSO' (au revers) 
+assiette en céramique peinte et partiellement émaillée
+Diamètre: 24.6 cm. 
+Conçu et exécuté en 1951 dans une édition de 40 exemplaires
+stamped 'MADOURA PLEIN FEU / EMPREINTE ORIGINALE DE PICASSO' (underneath) 
+painted and partially glazed ceramic plate 
+Diameter: 9
+3
+⁄
+4
+ in. 
+Conceived and executed in 1951 in an edition of 40",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0223_000(pablo_picasso_joueur_de_flute111822).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/pablo-picasso-1881-1973-223/283332?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+a67c1b11-2507-4847-998b-98465839c4e0,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 224,EUR,60000,80000,None,None,64134.0,85512.0,None,None,After Fernand Léger,1881,1955,Les Loisirs sur fond rouge,decorative arts,hand-woven wool tapestry,None,428,344,cm,yes,yes,yes,1944,"Collection particulière, France (commandité auprès de la succession de l'artiste).
+Puis par descendance au propriétaire actuel.","people, bicycles, flowers, red background, leisure activities, clothing, figures, arms, legs, expressions",None,None,"D'après Fernand Léger (1881-1955)
+Les Loisirs sur fond rouge
+signé 'F. LEGER' (en bas à droite) et avec le monogramme de l'atelier Yvette Cauquil-Prince (en bas à gauche); avec le monogramme de l'atelier Yvette Cauquil-Prince, numéroté et inscrit 'H/C / Fernand Léger / 3,41 x 4,27 / titre : les loisirs sur fond rouge / Maître d'œuvre : Y Cauquil-Prince / 75 Fbg St. Antoine Paris 75011 FRANCE' (sur un bolduc au revers)
+tapisserie en laine tissé main
+344 x 428 cm.
+Conçu vers 1944-49; cette œuvre exécutée avant 1993 par Yvette Cauquil-Prince, d'après une œuvre originale de Fernand Léger, avec l'autorisation et sous le contrôle de Georges Bauquier
+signed 'F.LEGER' (lower right) and with the Yvette Cauquil-Prince's atelier monogram (lower left); with the Yvette Cauquil-Prince's atelier monogram, numbered and inscribed 'H/C / Fernand Léger / 3,41 x 4,27 / titre : les loisirs sur fond rouge / Maître d'oeuvre : Y Cauquil-Prince / 75 Fbg St. Antoine Paris 75011 FRANCE' (on a label on the reverse)
+hand-woven wool tapestry
+135
+1
+⁄
+2
+ x 168
+1
+⁄
+2
+ in. 
+Conceived 
+circa 
+1944-49; this work was executed by 1993 by Yvette Cauquil-Prince, from an original work by Fernand Léger, with Georges Bauquier's approval and under his control",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0224_000(dapres_fernand_leger_les_loisirs_sur_fond_rouge_d6566877103658).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/dapres-fernand-leger-1881-1955-224/283330?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,75700.0,63083.333333333336
+b6c357f4-54ee-489d-93f2-4b3126744009,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 225,EUR,8000,12000,None,None,8551.2,12826.8,None,None,Amédée Ozenfant,1886,1966,La Belle Vie,painting,oil on canvas,None,55,46.2,cm,yes,yes,yes,1929,"Collection particulière, France. 
+Puis par descendance au propriétaire actuel.","figures, swimming, water, orange, abstract, human form, nude, shapes, movement, light",None,None,"Amédée Ozenfant (1886-1966)
+La Belle Vie
+signé 'ozenfant' (en bas à droite); inscrit ‘ Belle Vie 10F No. 665’ (au revers)
+huile sur toile 
+46.2 x 55 cm.
+Peint vers 1929
+signed 'ozenfant' (lower right); inscribed ‘Belle Vie 10F No. 665’ (on the reverse)
+oil on canvas
+18
+1
+⁄
+8
+ x 21
+5
+⁄
+8
+ in.
+Painted 
+circa 
+1929",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0225_000(amedee_ozenfant_belle_vie_d6566878103749).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/amedee-ozenfant-1886-1966-225/283331?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,11400.0,9500.0
+1d89812b-fdf6-41fa-8693-3eb172a6a165,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 226,EUR,5000,7000,None,None,5344.5,7482.3,None,None,Pablo Picasso,1881,1973,Chope visage (A.R. 434),ceramics,"painted, partially glazed and engraved ceramic",None,<NA>,21.3,cm,no,yes,yes,1959,"Vente, Sotheby's, Londres, 18 mars 2015, lot 29.
+Collection particulière, Paris (probablement acquis au cours de cette vente). 
+Puis par descendance au propriétaire actuel.","ceramic, pitcher, face, abstract, blue, brown, engraved, painted, everyday object, artistic design",None,None,"Chope visage (A.R. 434)
+numéroté, inscrit et avec les cachets 'EDITION PICASSO 209/300 MADOURA / EDITION PICASSO / MADOURA PLEIN FEU' (en dessous)
+pichet en céramique peinte, partiellement émaillée et incisée
+Hauteur: 21.3 cm. 
+Conçu et exécuté en 1959 dans une édition numérotée de 300 exemplaires
+numbered, inscribed and stamped 'EDITION PICASSO 209/300 MADOURA / EDITION PICASSO / MADOURA PLEIN FEU' (underneath)
+painted, partially glazed and engraved ceramic pitcher
+Height: 8
+3
+⁄
+8
+ in. 
+Conceived and executed in 1959 in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0226_000(pablo_picasso_chope_visage_d6566879111854).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/pablo-picasso-1881-1973-226/283329?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,6700.0,5583.333333333334
+c555a5bf-c991-45ca-8176-11d7fe59e169,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 227,EUR,6000,8000,None,None,6413.4,8551.2,None,None,Victor Brauner,1903,1966,Sans titre,drawing,graphite on paper,None,25,32.4,cm,yes,yes,yes,1953,"(probablement) Levy Galerie, Hambourg.
+Galerie 1900-2000, Paris. 
+Acquis auprès de celle-ci par le propriétaire actuel en mai 2001.","bird, profile, face, foliage, lines, shapes, figure, body, sketch, graphite",None,None,"Sans titre
+signé des initiales 'V.B.' (en bas à gauche) et daté '18.X.1953' (en bas à droite)
+graphite sur papier
+32.4 x 25 cm.
+Exécuté le 18 octobre 1953
+signed with the initials 'V.B.' (lower left) and dated '18.X.1953' (lower right)
+pencil on paper 
+12
+3
+⁄
+4
+ x 97/8 in.
+Executed on 18 October 1953",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0227_000(victor_brauner_sans_titre_d6566880103816).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/victor-brauner-1903-1966-227/283333?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+15922dbd-aba5-4a44-9a55-dd952f5f45e2,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 228,EUR,8000,12000,None,None,8551.2,12826.8,None,None,D'après Fernand Léger,1881,1955,Le Petit Coq,ceramics,painted and glazed ceramic,None,<NA>,37.6,cm,yes,yes,yes,1952,"Collection particulière, France (probablement commandité auprès de la succession de l'artiste).
+Puis par descendance au propriétaire actuel.","rooster, ceramic, painted, red, black, base, sculpture, abstract, animal",None,None,"D'après Fernand Léger (1881-1955)
+Le Petit Coq
+signé 'F.LEGER' (sur le côté gauche de la base); numéroté 'No. 8/8' (en dessous)
+céramique peinte et émaillée
+Hauteur: 37.6 cm.
+Conçu en 1952; cette céramique exécutée avant 1989 par Claude Brice d'après une œuvre originale de Fernand Léger, avec l'autorisation et sous le contrôle de Georges Bauquier, dans une édition de 8 exemplaires numérotés plus 3 épreuves hors-commerce
+signed 'F.LEGER' (on the left side of the base); numbered 'No. 8/8' (underneath)
+painted and glazed ceramic
+Height: 14
+3
+⁄
+4
+ in.
+Conceived in 1952; this ceramic executed by 1989 by Claude Brice, from an original work by Fernand Léger, with Georges Bauquier's approval and under his control, in a numbered edition of 8 plus 3 
+hors-commerce 
+proofs",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0228_000(dapres_fernand_leger_le_petit_coq101112).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/dapres-fernand-leger-1881-1955-228/283334?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,11400.0,9500.0
+703d2244-d55c-4e82-aa11-c7d2cea9f746,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 229,EUR,10000,15000,None,None,10689.0,16033.5,None,None,Marc Chagall,1887,1985,L'Ecuyère,prints,lithograph in colours on BFK wove paper,None,52,62.5,cm,yes,yes,yes,1964,"Collection particulière (acquis dans les années 1970-80).
+Puis par descendance au propriétaire actuel.","woman, horse, sun, flowers, fish, bird, colorful, abstract patterns, standing figure, playful",None,None,"L'Ecuyère
+signée au crayon 'Marc Chagall' (en bas à droite) et annotée 'Epreuve d'artiste' (en bas à gauche)
+lithographie en couleurs sur papier vélin BFK
+Image: 62.5 x 52 cm.
+Feuille: 75.5 x 56 cm.
+Exécutée en 1964, cette épreuve est annotée Epreuve d'artiste (il existe également 50 exemplaires numérotés)
+signed in pencil 'Marc Chagall' (lower right) and annotated 'Epreuve d'artiste' (lower left)
+lithograph in colours on BFK wove paper
+Image: 24
+5
+⁄
+8
+ x 20
+1
+⁄
+2
+ in.
+Sheet: 29
+3
+⁄
+4
+ x 22 in.
+Executed in 1964, this print is annotated Epreuve d'artiste (there were also 50 copies numbered)",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0229_000(marc_chagall_lecuyere115127).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/marc-chagall-1887-1985-229/283336?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,14500.0,12083.333333333334
+f2c5d0e3-e255-4620-8a14-08f83978136a,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 230,EUR,5000,7000,None,None,5344.5,7482.3,None,None,Pablo Picasso,1881,1973,Visage no. 202 (A.R. 495),ceramics,painted and partially glazed ceramic,None,10,<NA>,in,no,yes,yes,1963,"Jean et Huguette Ramié, Vallauris.
+Puis par descendance au propriétaire actuel dans les années 1970-80.","ceramic plate, face, colorful, abstract, painted, glazed, round, portraits, art, Picasso",None,None,"Visage no. 202 (A.R. 495)
+numéroté et inscrit 'N.202 EDITION PICASSO 118/500 MADOURA' (en dessous)
+assiette en céramique peinte et partiellement émaillée
+Diamètre: 25.2 cm.
+Conçu et exécuté en 1963 dans une édition numérotée de 500 exemplaires
+numbered and inscribed 'N.202 EDITION PICASSO 18/500 MADOURA' (underneath)
+painted and partially glazed ceramic plate
+Diameter: 10 in.
+Conceived and executed in 1963 in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0230_000(pablo_picasso_visage_no_202112028).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/pablo-picasso-1881-1973-230/283335?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,6700.0,5583.333333333334
+1d2bf139-29a0-473b-b2ae-f7ce077bd36d,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 231,EUR,40000,60000,None,None,42756.0,64134.0,None,None,Jean Dufy,1888,1964,"Paris, La Passerelle des Arts",painting,Ripolin on canvas,None,38,55,cm,yes,yes,yes,1940,"Vente, Daguerre, Paris, 18 juin 2024, lot 42. 
+Acquis au cours de cette vente par le propriétaire actuel.","Paris, bridge, river, buildings, boats, clouds, trees, sky, architecture, cityscape",None,None,"Paris, La Passerelle des Arts
+signé 'Jean Dufy' (en bas à droite)
+Ripolin sur toile
+55 x 38 cm.
+Peint vers 1940-45
+signed 'Jean Dufy' (lower right)
+Ripolin on canvas 
+21
+5
+⁄
+8
+ x 15 in.
+Painted 
+circa 
+1940-45",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0231_000(jean_dufy_paris_la_passerelle_des_arts104010).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/jean-dufy-1888-1964-231/283339?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,53500.0,44583.333333333336
+be7307f5-227b-4085-b389-2d33c31f6226,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 232,EUR,20000,30000,None,None,21378.0,32067.0,None,None,Maurice Utrillo,1883,1955,Église de Champagne-au-Mont-d'Or (Rhône),painting,gouache on card,None,57,72.8,cm,yes,yes,yes,1927,"Collection particulière, Lyon (vers 1920). 
+Vente, Bérard-Péron, Corbas, 7 novembre 2023, lot 169.
+Acquis au cours de cette vente par le propriétaire actuel.","church, building, trees, snow, people, winter, sky, stone, entrance, village",None,None,"Église de Champagne-au-Mont-d'Or (Rhône)
+signé et daté 'Maurice, Utrillo, V, 1927,' (en bas à droite); inscrit 'Eglise de Champagne-au-Mont-d'Or, (Rhône),' (en bas à gauche)
+gouache sur papier fort
+72.8 x 57 cm. 
+Exécuté à Champagne-au-Mont-d'Or en 1927
+signed and dated 'Maurice, Utrillo, V, 1927,' (lower right); inscribed 'Eglise de Champagne-au-Mont-d'Or, (Rhône),' (lower left)
+gouache on card
+28
+5
+⁄
+8
+ x 22
+1
+⁄
+2
+ in.
+Executed in Champagne-au-Mont-d'Or in 1927",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0232_000(maurice_utrillo_eglise_de_champagne-au-mont-dor104114).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/maurice-utrillo-1883-1955-232/283337?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+91275128-042f-4801-a09e-d7a3ab7af72e,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 233,EUR,12000,18000,None,None,12826.8,19240.2,None,None,Giacomo Manzù,1908,1991,Cardinale seduto,sculpture,bronze with brown patina,None,<NA>,23,cm,no,yes,yes,1943,"Collection particulière, Italie. 
+Puis par descendance au propriétaire actuel.","cardinal, seated figure, bronze, brown patina, religious attire, unique sculpture, Italian art, Giacomo Manzù, 1943",None,None,"Giacomo Manzù (1908-1991)
+Cardinale seduto
+avec le cachet 'MANZÙ FONDERIA MAF MILANO' (au dos)
+bronze à patine brune
+Hauteur: 23 cm.
+Conçu et exécuté en 1943; cette variante est unique
+stamped 'MANZÙ FONDERIA MAF MILANO' (on the back)
+bronze with brown patina
+Height: 9
+1
+⁄
+8
+ in. 
+Conceived and executed in 1943; this 
+variante 
+is unique",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0233_000(giacomo_manz_cardinale_seduto104221).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/giacomo-manzu-1908-1991-233/283341?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,16800.0,14000.0
+40729963-1e08-4295-8c22-3a9f626e0f0c,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 234,EUR,18000,25000,None,None,19240.2,26722.5,None,None,Takanori Oguiss,1901,1986,"Notre-Dame, travaux Quai de la Tournelle",painting,oil on canvas,None,72.7,60,cm,yes,yes,yes,1950,"Ilmar Penna Marinho, Brésil et France.
+Collection particulière, Brésil (par descendance); vente, Century's Auction, Rio de Janeiro, 17 février 2025. 
+Acquis au cours de cette vente par le propriétaire actuel.","Notre-Dame, construction, quai, boat, river, people, crane, buildings, trees, sky",None,None,"Notre-Dame, travaux Quai de la Tournelle
+signé 'Oguiss' (en bas à gauche)
+huile sur toile 
+60 x 72.7 cm.
+Peint vers 1950
+signed 'Oguiss' (lower left)
+oil on canvas
+23
+5
+⁄
+8
+ x 28
+5
+⁄
+8
+ in.
+Painted 
+circa 
+1950",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0234_000(takanori_oguiss_notre-dame_travaux_quai_de_la_tournelle_d6566887104333).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/takanori-oguiss-1901-1986-234/283338?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,23400.0,19500.0
+0d3af5c7-d7b1-420b-8851-87c0ef8b4013,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 235,EUR,20000,30000,None,None,21378.0,32067.0,None,None,Jean Dufy,1888,1964,L'Île de la Cité,painting,gouache on card,None,50.2,64.8,cm,yes,yes,yes,1950,"Galerie Jacques Bailly, Paris.
+Collection particulière, Suisse (acquis auprès de celle-ci en avril 2004).
+Puis par descendance au propriétaire actuel.","island, cityscape, river, bridges, Notre-Dame, boat, trees, sky, architecture, water",None,None,"L'Île de la Cité
+signé 'Jean Dufy' (en bas à gauche)
+gouache sur papier fort
+64.8 x 50.2 cm.
+Exécuté vers 1950-52
+signed 'Jean Dufy' (lower left)
+gouache on card
+25
+3
+⁄
+8
+ x 19
+7
+⁄
+8
+ in.
+Executed 
+circa 
+1950-52",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0235_001(jean_dufy_lile_de_la_cite_d6566888101151).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/jean-dufy-1888-1964-235/283340?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+a53b4d17-517c-4a37-ac51-8cbfbedce559,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 236,EUR,15000,20000,None,None,16033.5,21378.0,None,None,Louis Valtat,1869,1952,Vase de fleurs et fruits,painting,oil on canvas,None,39.2,47,cm,yes,yes,yes,1912,"Galerie de la Présidence, Paris. 
+Collection particulière, Bourgogne; vente, Conan Belleville, Lyon, 18 octobre 2022, lot 668. 
+Acquis au cours de cette vente par le propriétaire actuel.","flowers, fruits, vase, still life, grapes, pears, table, foliage, color palette, oil painting",None,None,"Vase de fleurs et fruits
+signé 'L. Valtat' (en bas à droite) 
+huile sur toile
+47 x 39.2 cm. 
+Peint en 1912
+signed 'L. Valtat' (lower right)
+oil on canvas
+18
+1
+⁄
+2
+ x 15
+1
+⁄
+2
+ in. 
+Painted in 1912",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0236_000(louis_valtat_vase_de_fleurs_et_fruits_d6566889104442).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/louis-valtat-1869-1952-236/283342?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+aa6c3a6a-4c75-40fb-adcc-9e2ebd478f3c,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 237,EUR,30000,50000,None,None,32067.0,53445.0,None,None,Maurice de Vlaminck,1876,1958,Fleurs,painting,oil on canvas,None,38.2,55,cm,yes,yes,yes,1936,"Vente, Christie's, Londres, 26 juin 2002, lot 161. 
+Collection particulière, Suisse (acquis au cours de cette vente). 
+Puis par descendance au propriétaire actuel.","flowers, yellow, white, blue, green, red, orange, petals, leaves, bouquet",None,None,"Fleurs
+signé ‘Vlaminck’ (en bas à gauche)
+huile sur toile
+55 x 38.2 cm.
+Peint vers 1936-38
+signed ‘Vlaminck’ (lower left) 
+oil on canvas
+21
+5
+⁄
+8
+ x 15 in. 
+Painted 
+circa 
+1936-38",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0237_000(maurice_de_vlaminck_fleurs_d6566890120941).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/maurice-de-vlaminck-1876-1958-237/283343?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,42000.0,35000.0
+97763591-e027-4bcd-9171-3f299293db8f,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 239,EUR,15000,20000,None,None,16033.5,21378.0,None,None,Maurice de Vlaminck,1876,1958,Vase de fleurs blanches et roses,painting,oil on canvas,None,33,41.3,cm,yes,yes,yes,1936,"Armand Drouant, Paris. 
+Hirschl & Adler Galleries, Inc., New York (avant 1959 et jusqu'à au moins 1960). 
+Charles H. Yalem, St. Louis. 
+Washington University Collection, St. Louis (don de celui-ci en 1963); vente, Sotheby's, New York, 3 octobre 1990, lot 153. 
+David Findlay Gallery, New York.
+Montgomery Gallery, San Francisco.
+Acquis auprès de celle-ci par le propriétaire actuel en juin 2003.","vase, flowers, white flowers, pink flowers, table, dark background, still life, petals, green leaves, floral arrangement",None,None,"Vase de fleurs blanches et roses
+signé 'Vlaminck' (en bas à gauche)
+huile sur toile 
+41.3 x 33 cm.
+Peint vers 1936-38
+signed 'Vlaminck' (lower left)
+oil on canvas 
+16
+1
+⁄
+4
+ x 13 in.
+Painted 
+circa 
+1936-38",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0239_000(maurice_de_vlaminck_nature_morte101438).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/maurice-de-vlaminck-1876-1958-239/283348?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+60471d68-8e25-46d7-8811-7ba84b6bf3b9,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 240,EUR,6000,8000,None,None,6413.4,8551.2,None,None,Armand Guillaumin,1841,1927,Un Bouquet de Fleurs,drawing,pastel on card,None,33.1,39,cm,yes,yes,yes,1890,"Collection particulière, Italie. 
+Puis par descendance au propriétaire actuel.","flowers, bouquet, vase, daisies, yellow flowers, white flowers, blue flowers, green foliage, pastel, still life",None,None,"Un Bouquet de Fleurs
+signé 'Guillaumin' (en bas à droite)
+pastel sur papier fort
+39 x 33.1 cm.
+Exécuté vers 1890
+signed 'Guillaumin' (lower right)
+pastel on card
+15
+1
+⁄
+4
+ x 13 in. 
+Executed 
+circa 
+1890",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0240_000(armand_guillaumin_un_bouquet_de_fleurs104645).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/armand-guillaumin-1841-1927-240/283345?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+9caaae8e-73c2-4b6b-b5de-c6de4e85911c,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 241,EUR,5000,7000,None,None,5344.5,7482.3,None,None,Jean Louis Forain,1852,1931,Derrière les coulisses,painting,oil on cradled panel,None,32.8,41.1,cm,yes,yes,yes,<NA>,"M. Dubourg, Paris. 
+Durand-Ruel, Paris et New York (acquis auprès de celui-ci en mars 1936 et jusqu’à au moins 1950).
+Vente, Mes. Rheims et Rheims, 29 novembre 1962, lot 51 (titré 'Dans les coulisses').
+Vente, Mes. Ader, Ader et Picard, Paris, 10 mars 1970, lot 147 (titré 'Dans les coulisses').
+Peter Matthews Gallery, Londres (avant 1972).
+Vente, Sotheby's Olympia, Londres, 24 mars 2004, lot 54.
+Duncan R. Miller Fine Arts, Londres.
+Acquis auprès de celle-ci par le propriétaire actuel en mai 2004.","man, woman, ballet dancer, costume, theater, couple, background figures, dance, intimacy, performance",None,None,"Derrière les coulisses
+signé 'Forain' (en bas à gauche)
+huile sur panneau parqueté 
+41.1 x 32.8 cm.
+signed 'Forain' (lower left)
+oil on cradled panel 
+16
+5
+⁄
+8
+ x 12
+7
+⁄
+8
+ in.",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0241_000(jean_louis_forain_derriere_les_coulisses050318).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/jean-louis-forain-1852-1931-241/283346?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,6820.0,5683.333333333334
+cd35164c-cbbe-4c04-853e-e3f37e951eb2,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 242,EUR,3000,5000,None,None,3206.7,5344.5,None,None,Émile-Antoine Bourdelle,1861,1929,Petite Nymphe,sculpture,bronze with golden brown patina,None,<NA>,10.3,cm,yes,yes,yes,1886,"Sam Josefowitz, Pully (avant 1984).
+Puis par descendance aux propriétaires actuels.","nymph, woman, sculpture, bronze, patina, figure, water, nature, posture, form",None,None,"Émile-Antoine Bourdelle (1861-1929)
+Petite Nymphe
+signé, numéroté et avec le cachet du fondeur 'Bourdelle C. VALSUANI CIRE PERDUE N°II' (à l'arrière de la base); inscrit '© BY BOURDELLE' (à l'intérieur)
+bronze à patine brun doré
+Hauteur: 10.3 cm.
+Conçu vers 1886; cette épreuve fondue vers 1960 dans une édition de 9 exemplaires
+signed, numbered and stamped with the foundry mark 'Bourdelle C. VALSUANI CIRE PERDUE N°II' (on the back of the base); inscribed '© BY BOURDELLE' (on the inside)
+bronze with golden brown patina 
+Height: 4
+1
+⁄
+8
+ in.
+Conceived 
+circa 
+1886; this bronze cast 
+circa 
+1960 in an edition of 9",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0242_000(emile-antoine_bourdelle_petite_nymphe_d6566895104834).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/emile-antoine-bourdelle-1861-1929-242/283347?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,4500.0,3750.0
+4040d0a9-a515-4c37-b93d-9a10ceb60d67,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 243,EUR,18000,25000,None,None,19240.2,26722.5,None,None,André Lhote (1885-1962),1885,1962,"Femme tahitienne, d'après un tableau de Paul Gauguin conservé au musée Ordrupgaard de Copenhague",painting,oil on canvas,None,93.3,73.6,cm,no,yes,yes,1908,"Gabriel Frizeau, Bordeaux.
+Collection particulière, Bordeaux; vente, Briscadieu, Bordeaux, 14 octobre 2023, lot 107.
+Acquis au cours de cette vente par le propriétaire actuel.","woman, nude, Tahiti, painting, tree, landscape, red, vibrant colors, back view, figure",None,None,"André Lhote (1885-1962)
+Femme tahitienne, d'après un tableau de Paul Gauguin conservé au musée Ordrupgaard de Copenhague
+huile sur toile
+73.6 x 93.3 cm.
+Peint vers 1908-09
+oil on canvas 
+29 x 36
+3
+⁄
+4
+ in.
+Painted 
+circa 
+1908-09",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0243_000(andre_lhote_femme_tahitienne_dapres_un_tableau_de_paul_gauguin_conserv105046).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/andre-lhote-1885-1962-243/283349?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,23400.0,19500.0
+3dbfff37-0603-455d-93aa-e793d5e34fbf,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 244,EUR,40000,60000,None,None,42756.0,64134.0,None,None,Ossip Zadkine,1888,1967,Hermaphrodite,sculpture,bronze with golden brown patina,None,<NA>,139.5,cm,yes,yes,yes,1914,"Vente, Mes. Champin et Lombrail, Enghien-les-Bains, 14 juin 1981, lot 82. 
+Acquis au cours de cette vente par la famille du propriétaire actuel.","hermaphrodite, bronze sculpture, figure, abstract shape, golden brown patina, human form, standing pose, stylized features, vertical composition",None,None,"Hermaphrodite
+signé et numéroté 'ZADKINE 4/5' (sur le côté droit de la base); avec la marque du fondeur 'Susse Fondeur Paris' (à l'arrière de la base)
+bronze à patine brun doré
+Hauteur: 139.5 cm.
+Conçu en 1914; cette épreuve fondue en 1980 dans une édition numérotée de 6 exemplaires
+signed and numbered 'ZADKINE 4/5' (on the right side of the base); with the foundry mark 'Susse Fondeur Paris' (on the back of the base)
+bronze with golden brown patina
+Height: 55 in. 
+Conceived in 1914; this bronze cast in 1980 in a numbered edition of 6",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0244_000(ossip_zadkine_hermaphrodite112113).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/ossip-zadkine-1888-1967-244/283350?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+2e4a92f9-b8d1-4160-aafc-99d56532bcfa,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 245,EUR,18000,25000,None,None,19240.2,26722.5,None,None,Jules Pascin,1885,1930,Jeune Femme en robe noire,painting,oil on paper laid down on canvas,None,60.1,73.2,cm,yes,yes,yes,1921,"Collection Nicolas, Paris (avant 1931).
+Sam Josefowitz, Pully (avant 1962).
+Puis par descendance au propriétaire actuel.","woman, black dress, seated figure, chair, indoor setting, brown hair, relaxed posture, vintage style, oil painting, early 20th century",None,None,"Jeune Femme en robe noire
+signé et daté 'pascin 1921' (en bas à gauche)
+huile sur papier marouflé sur toile
+73.2 x 60.1 cm. 
+Peint à Paris en 1921
+signed and dated 'pascin 1921' (lower left)
+oil on paper laid down on canvas 
+28
+7
+⁄
+8
+ x 23
+5
+⁄
+8
+ in.
+Painted in Paris in 1921",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0245_000(jules_pascin_jeune_femme_en_robe_noire050441).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/jules-pascin-1885-1930-245/283351?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,23400.0,19500.0
+aa94d708-c2e3-45da-b7c4-3df52d556f39,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 246,EUR,15000,20000,None,None,16033.5,21378.0,None,None,André Brasilier,1929,<NA>,L'Heure du Thé,painting,oil and pencil on canvas,None,92,65,cm,yes,yes,yes,1986,"Collection particulière, Japon.
+Acquis par le propriétaire actuel dans les années 2020.","woman, table, teapot, green background, chair, garden, flowers, serene atmosphere, portrait, afternoon tea",None,None,"André Brasilier (b. 1929)
+L'Heure du Thé
+signé 'André Brasilier.' (en bas à droite)
+huile et graphite sur toile
+65 x 92 cm.
+Peint en 1986
+signed 'André Brasilier.' (lower right)
+oil and pencil on canvas
+25
+5
+⁄
+8
+ x 36
+1
+⁄
+4
+ in.
+Painted in 1986",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0246_000(andre_brasilier_lheure_du_the_d6566899105207).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/andre-brasilier-b-1929-246/283352?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,18200.0,15166.666666666668
+2bed8e3d-46f5-4784-8faf-631f1dca15a7,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 247,EUR,18000,25000,None,None,19240.2,26722.5,None,None,Jules Pascin,1885,1930,Trois Jeunes Filles,painting,oil and pencil on board,None,73.2,60.1,cm,yes,yes,yes,1930,"Rolf de Maré, Paris (avant 1931 et jusqu'à au moins 1944).
+Sam Josefowitz, Pully (avant 1966).
+Puis par descendance au propriétaire actuel.","three girls, sitting, nude, female figures, pencil, oil, relaxed pose, background, soft colors, emotional expression",None,None,"Trois Jeunes Filles
+signé 'pascin' (en bas à droite)
+huile et graphite sur carton monté sur panneau parqueté 
+60.1 x 73.2 cm. 
+Exécuté en 1930
+signed 'pascin' (lower right)
+oil and pencil on board mounted on cradled panel 
+23
+3
+⁄
+4
+ x 28
+7
+⁄
+8
+ in. 
+Executed in 1930",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0247_000(jules_pascin_trois_jeunes_filles_d6566900105245).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/jules-pascin-1885-1930-247/283353?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,23400.0,19500.0
+cc61b484-397f-4a5b-96c5-a08cb3b6833e,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 248,EUR,2000,3000,None,None,2137.8,3206.7,None,None,Pablo Picasso,1881,1973,Pichet têtes (A.R. 221),ceramics,painted and partially glazed ceramic,None,<NA>,12.8,cm,no,yes,yes,1953,"Collection particulière, Japon. 
+Acquis auprès de celle-ci par le propriétaire actuel vers 2023.","ceramic pitcher, painted decoration, black lines, abstract face, curved shape, handle, glazed surface, monochromatic color, artistic edition, modern art",None,None,"Pichet têtes (A.R. 221)
+inscrit et avec les cachets 'EDITION PICASSO / MADOURA PLEIN FEU / EDITION PICASSO' (en-dessous)
+pichet en céramique peinte et partiellement émaillée
+Hauteur: 12.8 cm.
+Conçu et exécuté en 1953 dans une édition de 500 exemplaires
+inscribed and stamped 'EDITION PICASSO / MADOURA PLEIN FEU / EDITION PICASSO' (underneath)
+painted and partially glazed ceramic pitcher
+Height: 5 in.
+Conceived and executed in 1953 in an edition of 500",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0248_000(pablo_picasso_pichet_tetes101620).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/pablo-picasso-1881-1973-248/283354?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,2800.0,2333.3333333333335
+d5da1741-4a99-47b7-a010-a5e63fbb6f99,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 249,EUR,8000,12000,None,None,8551.2,12826.8,None,None,Jules Pascin,1885,1930,Réunion infernale,painting,oil and pen and ink on canvas,None,65.1,54.2,cm,yes,yes,yes,1919,"Guy Krohg, Oslo (avant 1984).
+Collection particulière, Monaco (avant 2001).
+Vente, Yves Manson, La Flèche, 3 juillet 2005, lot 165. 
+Acquis au cours de cette vente par le propriétaire actuel.","nudes, figures, landscape, mountains, red color, human forms, seated figures, reclining figures, background patterns, expressive poses",None,None,"Réunion infernale
+signé 'pascin' (en bas à droite)
+huile et plume et encre sur toile
+54.2 x 65.1 cm. 
+Peint à New York en 1919
+signed 'pascin' (lower right)
+oil and pen and ink on canvas
+21
+3
+⁄
+8
+ x 25
+5
+⁄
+8
+ in.
+Painted in New York in 1919",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0249_000(jules_pascin_reunion_infernale050609).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/jules-pascin-1885-1930-249/283355?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,11400.0,9500.0
+0c1ab7d0-8f1c-43a4-a6c1-e2c77757161b,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 250,EUR,9000,12000,None,None,9620.1,12826.8,None,None,Maurice de Vlaminck,1876,1958,Rue de Village,mixed media,"gouache, watercolour, brush and India ink and pencil on paper",None,57.8,49,cm,yes,yes,yes,1920,"Galerie Bernheim-Jeune, Paris. 
+Millicent Sutherland-Leveson-Gower, Duchesse de Sutherland, Grande-Bretagne (avant 1955).
+Puis par descendance au propriétaire actuel.","village, houses, figures, trees, street, cloudy sky, umbrellas, road, buildings, landscape",None,None,"Rue de Village
+signé 'Vlaminck' (en bas à droite)
+gouache, aquarelle, encre de Chine et graphite sur papier 
+49 x 57.8 cm.
+Exécuté vers 1920
+signed 'Vlaminck' (lower right)
+gouache, watercolour, brush and India ink and pencil on paper 
+19
+1
+⁄
+4
+ x 22
+3
+⁄
+4
+ in.
+Executed 
+circa 
+1920",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0250_000(maurice_de_vlaminck_rue_de_village105418).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/maurice-de-vlaminck-1876-1958-250/283356?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,11400.0,9500.0
+c0e8f1b6-9b8b-471b-a47f-685810b1eef8,Art,Christies,24386,2024-11-24,Paris,Art Impressionniste & Moderne - Vente en ligne,https://www.christies.com/en/auction/20-21-century-art-art-impressionniste-et-moderne-24386-par/,Lot 251,EUR,3000,5000,None,None,3206.7,5344.5,None,None,Charles Malle,1935,2023,Le Manège sur la montagne St Geneviève,painting,oil on canvas,None,73,60.1,cm,yes,yes,yes,1995,"Collection particulière, France.
+Acquis auprès de celle-ci par le propriétaire actuel.","carnival, street, people, buildings, carousel, vehicles, snow, winter, mountain, clock tower",None,None,"Le Manège sur la montagne St Geneviève
+signé 'C. MALLE.' (en bas à droite)
+huile sur toile
+60.1 x 73 cm.
+Peint vers 1995
+signed 'C. MALLE.' (lower right)
+oil on canvas
+23
+5
+⁄
+8
+ x 28
+3
+⁄
+4
+ in.
+Painted 
+circa 
+1995",https://www.christies.com/img/LotImages/2025/PAR/2025_PAR_24386_0251_000(charles_malle_le_manege_sur_la_montagne_st_genevieve105521).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/art-impressionniste-moderne-vente-en-ligne/charles-malle-1935-2023-251/283357?ldp_breadcrumb=back,6857.12,None,47850.94,15.78,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0

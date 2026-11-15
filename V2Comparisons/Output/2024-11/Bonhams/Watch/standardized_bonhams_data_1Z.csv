@@ -1,0 +1,147 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,<NA>,<NA>,Bonhams,<NA>,<NA>,896,0.0,0.0
+Lot 2,Namiki,Yukari collection - Bamboo,Bonhams,<NA>,<NA>,832,4500.0,3750.0
+Lot 3,Longines,Chronometer,Bonhams,3000,5000,<NA>,4200.0,3500.0
+Lot 4,Ulysse Nardin,Deck Clock,Bonhams,3000,5000,<NA>,4500.0,3750.0
+Lot 5,Patek Philippe,Keyless Wind Pocket Watch,Bonhams,<NA>,<NA>,5120,15000.0,12500.0
+Lot 6,Patek Philippe,<NA>,Bonhams,<NA>,<NA>,4608,8500.0,7083.333333333334
+Lot 7,Abercrombie & Fitch,<NA>,Bonhams,<NA>,<NA>,537,450.0,375.0
+Lot 8,Ulysse Nardin,Chronometer,Bonhams,<NA>,<NA>,537,1500.0,1250.0
+Lot 9,Omega,<NA>,Bonhams,<NA>,<NA>,2176,1800.0,1500.0
+Lot 10,Benrus,<NA>,Bonhams,<NA>,<NA>,281,1200.0,1000.0
+Lot 11,Chronographe Suisse,<NA>,Bonhams,<NA>,<NA>,768,3500.0,2916.666666666667
+Lot 12,Jaeger LeCoultre,<NA>,Bonhams,<NA>,<NA>,1024,2500.0,2083.3333333333335
+Lot 13,Mathey-Tissot,<NA>,Bonhams,500,1000,<NA>,850.0,708.3333333333334
+Lot 14,Benrus,<NA>,Bonhams,700,1000,<NA>,850.0,708.3333333333334
+Lot 15,Mathey-Tissot,<NA>,Bonhams,<NA>,<NA>,2048,4500.0,3750.0
+Lot 16,Bueche Girod,<NA>,Bonhams,<NA>,<NA>,1920,2500.0,2083.3333333333335
+Lot 17,Hamilton,Pan Europ Diver,Bonhams,2000,3000,<NA>,2500.0,2083.3333333333335
+Lot 18,Longines,<NA>,Bonhams,600,800,<NA>,750.0,625.0
+Lot 19,Universal Genève,<NA>,Bonhams,1500,2500,<NA>,2200.0,1833.3333333333335
+Lot 20,Vantage,<NA>,Bonhams,2000,3000,<NA>,2500.0,2083.3333333333335
+Lot 21,Baume & Mercier,<NA>,Bonhams,<NA>,<NA>,1152,3500.0,2916.666666666667
+Lot 22,Bulova,Chronograph 'Stars and Stripes',Bonhams,4000,6000,<NA>,5200.0,4333.333333333334
+Lot 23,Gallet,<NA>,Bonhams,<NA>,<NA>,512,1200.0,1000.0
+Lot 24,Girard Perregaux,<NA>,Bonhams,<NA>,<NA>,704,1800.0,1500.0
+Lot 25,Nisus,<NA>,Bonhams,<NA>,<NA>,512,2500.0,2083.3333333333335
+Lot 26,Bulova,<NA>,Bonhams,<NA>,<NA>,537,1500.0,1250.0
+Lot 27,TAG Heuer,Carrera,Bonhams,<NA>,<NA>,1920,1200.0,1000.0
+Lot 28,TAG Heuer,Camaro,Bonhams,<NA>,<NA>,2304,1200.0,1000.0
+Lot 29,Omega,Memomatic,Bonhams,<NA>,<NA>,896,1200.0,1000.0
+Lot 30,Universal Genève,<NA>,Bonhams,<NA>,<NA>,1792,3500.0,2916.666666666667
+Lot 31,Wakmann,<NA>,Bonhams,<NA>,<NA>,537,1200.0,1000.0
+Lot 32,Bucherer,<NA>,Bonhams,<NA>,<NA>,1408,1200.0,1000.0
+Lot 33,Breitling,<NA>,Bonhams,<NA>,<NA>,1920,1200.0,1000.0
+Lot 34,Rado,DiaStar 1,Bonhams,<NA>,<NA>,128,450.0,375.0
+Lot 35,Enicar,Ultrasonic - Seapearl 6000,Bonhams,<NA>,<NA>,230,1200.0,1000.0
+Lot 36,Hamilton,USN BuShips 'Canteen',Bonhams,<NA>,<NA>,704,1200.0,1000.0
+Lot 37,Elgin,USN BuShips 'Canteen',Bonhams,<NA>,<NA>,896,1200.0,1000.0
+Lot 38,Hanhart,<NA>,Bonhams,1500,2000,<NA>,1750.0,1458.3333333333335
+Lot 39,Junghans,<NA>,Bonhams,2000,3000,<NA>,2500.0,2083.3333333333335
+Lot 40,Junghans,<NA>,Bonhams,2000,3000,<NA>,2500.0,2083.3333333333335
+Lot 41,Junghans,<NA>,Bonhams,2000,3000,<NA>,2500.0,2083.3333333333335
+Lot 42,Laco,Durowe,Bonhams,<NA>,<NA>,3840,1200.0,1000.0
+Lot 43,Rolex,Oyster Perpetual,Bonhams,<NA>,<NA>,3072,4500.0,3750.0
+Lot 44,Cartier,Trinity,Bonhams,<NA>,<NA>,281,450.0,375.0
+Lot 45,Cartier,Must de Cartier,Bonhams,<NA>,<NA>,307,450.0,375.0
+Lot 46,Cartier,Tank,Bonhams,<NA>,<NA>,3072,1200.0,1000.0
+Lot 47,Chopard,Monte Carlo,Bonhams,<NA>,<NA>,537,1800.0,1500.0
+Lot 48,Corum,Admiral's Cup,Bonhams,<NA>,<NA>,768,1800.0,1500.0
+Lot 49,Cartier,Must de Cartier,Bonhams,<NA>,<NA>,640,1200.0,1000.0
+Lot 50,Cartier,Must de Cartier,Bonhams,<NA>,<NA>,281,1500.0,1250.0
+Lot 51,Cartier,Must de Cartier,Bonhams,<NA>,<NA>,243,1500.0,1250.0
+Lot 52,Philip Stein X Wenger,<NA>,Bonhams,<NA>,<NA>,153,250.0,208.33333333333334
+Lot 53,Rolex,Oyster Perpetual,Bonhams,<NA>,<NA>,1792,5500.0,4583.333333333334
+Lot 54,Rolex,Datejust,Bonhams,<NA>,<NA>,2048,4500.0,3750.0
+Lot 55,Rolex,Datejust,Bonhams,<NA>,<NA>,2432,4500.0,3750.0
+Lot 56,Rolex,Datejust,Bonhams,<NA>,<NA>,4096,8500.0,7083.333333333334
+Lot 57,Rolex,Datejust,Bonhams,<NA>,<NA>,2304,4500.0,3750.0
+Lot 58,Rolex,Oyster Perpetual Date,Bonhams,<NA>,<NA>,5376,8500.0,7083.333333333334
+Lot 59,Rolex,Datejust,Bonhams,<NA>,<NA>,4352,12000.0,10000.0
+Lot 60,Rolex,Oysterquartz Datejust,Bonhams,<NA>,<NA>,5120,4500.0,3750.0
+Lot 61,Universal Genève,<NA>,Bonhams,<NA>,<NA>,1280,3500.0,2916.666666666667
+Lot 62,Universal Genève,<NA>,Bonhams,<NA>,<NA>,1216,1800.0,1500.0
+Lot 63,Universal Genève,<NA>,Bonhams,<NA>,<NA>,896,2500.0,2083.3333333333335
+Lot 64,Universal Genève,<NA>,Bonhams,<NA>,<NA>,1280,1800.0,1500.0
+Lot 65,Universal Genève,<NA>,Bonhams,<NA>,<NA>,896,2500.0,2083.3333333333335
+Lot 66,Universal Genève,<NA>,Bonhams,<NA>,<NA>,1664,4500.0,3750.0
+Lot 67,Universal Genève,<NA>,Bonhams,<NA>,<NA>,1216,1200.0,1000.0
+Lot 68,Universal Genève,<NA>,Bonhams,<NA>,<NA>,4352,3500.0,2916.666666666667
+Lot 69,Universal Genève,<NA>,Bonhams,<NA>,<NA>,2048,2500.0,2083.3333333333335
+Lot 70,Van Cleef and Arpels,<NA>,Bonhams,<NA>,<NA>,1152,1800.0,1500.0
+Lot 71,Concord,<NA>,Bonhams,<NA>,<NA>,1664,1200.0,1000.0
+Lot 72,Cartier,Tank,Bonhams,<NA>,<NA>,3328,3500.0,2916.666666666667
+Lot 73,Cartier,Panthère,Bonhams,<NA>,<NA>,8320,4500.0,3750.0
+Lot 74,Cartier,Pasha de Cartier,Bonhams,<NA>,<NA>,3328,4500.0,3750.0
+Lot 75,Cartier,Pasha de Cartier,Bonhams,1500,2000,<NA>,1750.0,1458.3333333333335
+Lot 76,Cartier,Santos Dumont,Bonhams,<NA>,<NA>,3840,4500.0,3750.0
+Lot 77,Concord,<NA>,Bonhams,<NA>,<NA>,3072,1800.0,1500.0
+Lot 78,Corum,Twenty-Dollar Coin,Bonhams,<NA>,<NA>,2176,3500.0,2916.666666666667
+Lot 79,Blancpain,Villeret,Bonhams,<NA>,<NA>,1280,3500.0,2916.666666666667
+Lot 80,Concord,Saratoga,Bonhams,<NA>,<NA>,166,1800.0,1500.0
+Lot 81,Rolex,Day-Date,Bonhams,<NA>,<NA>,5120,12000.0,10000.0
+Lot 82,Rolex,Datejust,Bonhams,<NA>,<NA>,2816,4500.0,3750.0
+Lot 83,Rolex,Oyster Perpetual,Bonhams,<NA>,<NA>,1920,4500.0,3750.0
+Lot 84,Rolex,Datejust,Bonhams,<NA>,<NA>,2560,5500.0,4583.333333333334
+Lot 85,Rolex,Datejust,Bonhams,<NA>,<NA>,3072,5500.0,4583.333333333334
+Lot 86,Rolex,Datejust,Bonhams,<NA>,<NA>,5120,8500.0,7083.333333333334
+Lot 87,Rolex,Datejust,Bonhams,<NA>,<NA>,3072,4500.0,3750.0
+Lot 88,Kelbert X J.E. Caldwell & Co.,Kelbert and J.E. Caldwell & Co. A Pair of Gold Bracelet Watches,Bonhams,<NA>,<NA>,2048,3500.0,2916.666666666667
+Lot 89,Baume & Mercier,Hampton,Bonhams,<NA>,<NA>,358,1200.0,1000.0
+Lot 90,Omega,Constellation Day-Date,Bonhams,<NA>,<NA>,1088,1200.0,1000.0
+Lot 91,Omega,Seamaster De Ville,Bonhams,<NA>,<NA>,832,2500.0,2083.3333333333335
+Lot 92,Omega,Seamaster De Ville,Bonhams,<NA>,<NA>,1408,1800.0,1500.0
+Lot 93,Omega,Constellation,Bonhams,<NA>,<NA>,1152,1200.0,1000.0
+Lot 94,Omega,De Ville,Bonhams,<NA>,<NA>,704,1800.0,1500.0
+Lot 95,Omega,Constellation - Double Eagle,Bonhams,<NA>,<NA>,960,1200.0,1000.0
+Lot 96,Baume & Mercier,Riviera,Bonhams,500,1000,<NA>,850.0,708.3333333333334
+Lot 97,Omega,Seamaster De Ville,Bonhams,<NA>,<NA>,460,1200.0,1000.0
+Lot 98,Omega,Constellation,Bonhams,1000,2000,<NA>,1450.0,1208.3333333333335
+Lot 99,Omega,Seamaster,Bonhams,1000,2000,<NA>,1450.0,1208.3333333333335
+Lot 100,Rolex,Datejust,Bonhams,<NA>,<NA>,3584,7500.0,6250.0
+Lot 101,Rolex,Air King,Bonhams,<NA>,<NA>,3328,3500.0,2916.666666666667
+Lot 102,Rolex,Day-Date,Bonhams,<NA>,<NA>,12800,15000.0,12500.0
+Lot 103,Rolex,<NA>,Bonhams,<NA>,<NA>,768,1500.0,1250.0
+Lot 104,Tudor,Prince Oysterdate,Bonhams,1000,2000,<NA>,1500.0,1250.0
+Lot 105,Tudor,Princess Oysterdate,Bonhams,1000,2000,<NA>,1450.0,1208.3333333333335
+Lot 106,Tudor,Prince Oysterdate,Bonhams,<NA>,<NA>,640,1800.0,1500.0
+Lot 107,Juvenia,<NA>,Bonhams,<NA>,<NA>,140,450.0,375.0
+Lot 108,Technomarine,Quartz Chronograph,Bonhams,<NA>,<NA>,192,350.0,291.6666666666667
+Lot 109,Technomarine,Red Square Sport,Bonhams,<NA>,<NA>,102,350.0,291.6666666666667
+Lot 110,U-Boat,ClassicoDate,Bonhams,<NA>,<NA>,409,1200.0,1000.0
+Lot 111,Alpina,Extreme Driver,Bonhams,800,1200,<NA>,950.0,791.6666666666667
+Lot 112,Cuervo y Sobrinos,Prominente,Bonhams,800,1200,<NA>,950.0,791.6666666666667
+Lot 113,De Grisogono,Instrumento Uno,Bonhams,<NA>,<NA>,3840,8500.0,7083.333333333334
+Lot 114,Hublot,Super B,Bonhams,<NA>,<NA>,3584,8500.0,7083.333333333334
+Lot 115,Hublot,Tutti Frutti,Bonhams,<NA>,<NA>,11520,18000.0,15000.0
+Lot 116,Chopard,Imperiale,Bonhams,1500,2500,<NA>,2200.0,1833.3333333333335
+Lot 117,Chaumet,Dandy Réserve de Marche,Bonhams,4000,6000,<NA>,5200.0,4333.333333333334
+Lot 118,Bulgari,St. Moritz,Bonhams,1000,2000,<NA>,1500.0,1250.0
+Lot 119,Jean Richard,Chronoscope,Bonhams,<NA>,<NA>,768,2500.0,2083.3333333333335
+Lot 120,Jacob and Co.,Five Time Zone,Bonhams,<NA>,<NA>,2816,12000.0,10000.0
+Lot 121,Frederique Constant,Runabout,Bonhams,<NA>,<NA>,768,2500.0,2083.3333333333335
+Lot 122,Chopard,Mille Miglia,Bonhams,<NA>,<NA>,5632,4500.0,3750.0
+Lot 123,Chopard,Mille Miglia,Bonhams,<NA>,<NA>,2816,3500.0,2916.666666666667
+Lot 124,Bulgari,Diagono Professional,Bonhams,<NA>,<NA>,1280,1500.0,1250.0
+Lot 125,Bulgari,Diagono Scuba GMT,Bonhams,<NA>,<NA>,832,2500.0,2083.3333333333335
+Lot 126,Bulgari,Assioma,Bonhams,<NA>,<NA>,1280,4500.0,3750.0
+Lot 127,Bedat,<NA>,Bonhams,<NA>,<NA>,307,1200.0,1000.0
+Lot 128,Breitling,Premier Chronograph,Bonhams,<NA>,<NA>,1216,1500.0,1250.0
+Lot 129,Girard Perregaux,Ferrari,Bonhams,<NA>,<NA>,1408,4500.0,3750.0
+Lot 130,Tudor,Prince Date Chrono Time,Bonhams,<NA>,<NA>,2176,3500.0,2916.666666666667
+Lot 131,Girard-Perregaux,Ferrari F1-2000,Bonhams,3000,5000,<NA>,4500.0,3750.0
+Lot 132,Breitling,Superocean,Bonhams,2000,4000,<NA>,3200.0,2666.666666666667
+Lot 133,Breitling,Super Avenger,Bonhams,<NA>,<NA>,2560,4500.0,3750.0
+Lot 134,Breitling,Endurance Pro,Bonhams,<NA>,<NA>,1664,1500.0,1250.0
+Lot 135,Breitling,Exospace B55 Night Mission,Bonhams,3000,5000,<NA>,4200.0,3500.0
+Lot 136,Chopard,Mille Miglia GMT Cronografo,Bonhams,<NA>,<NA>,6144,15000.0,12500.0
+Lot 137,Chopard,Mille Miglia,Bonhams,<NA>,<NA>,2048,4500.0,3750.0
+Lot 138,Chanel,J12,Bonhams,<NA>,<NA>,1280,3200.0,2666.666666666667
+Lot 139,Chanel,J12,Bonhams,2000,3000,<NA>,2500.0,2083.3333333333335
+Lot 140,Breitling,Super Avenger II,Bonhams,<NA>,<NA>,2048,4500.0,3750.0
+Lot 141,Omega,Seamaster Planet Ocean 600M,Bonhams,2000,4000,<NA>,3200.0,2666.666666666667
+Lot 142,Omega,Seamaster Planet Ocean 600M,Bonhams,<NA>,<NA>,3328,4500.0,3750.0
+Lot 143,Omega,Seamaster Aqua Terra XL,Bonhams,<NA>,<NA>,2048,4500.0,3750.0
+Lot 144,Omega,Seamaster 300,Bonhams,2500,3500,<NA>,3200.0,2666.666666666667
+Lot 145,TAG Heuer,Monaco Gulf,Bonhams,<NA>,<NA>,3072,3500.0,2916.666666666667
+Lot 146,Ulysse Nardin,Maxi Marine Diver,Bonhams,<NA>,<NA>,3072,3500.0,2916.666666666667

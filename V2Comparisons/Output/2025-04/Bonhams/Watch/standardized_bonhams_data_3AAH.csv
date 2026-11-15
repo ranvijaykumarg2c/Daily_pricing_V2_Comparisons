@@ -1,0 +1,100 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Otsuka,Lotec,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 2,Omega,Speedmaster,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 3,Omega,Speedmaster Day-date,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 4,Chopard,Mille Miglia GT XL,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 5,Girard Perregaux,Ferrari,Bonhams,800,1200,None,950.0,791.6666666666667
+Lot 6,Bell & Ross,Fusion,Bonhams,500,800,None,650.0,541.6666666666667
+Lot 7,Hublot,Big Bang,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 8,Franck Muller,Conquistador - Sport GPG,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 9,Franck Muller,Conquistador - Sport GPG,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 10,Franck Muller,Conquistador - Grand Prix Pheonix,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 11,IWC,Pilot's Chronograph,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 12,IWC,Portuguese Chrono - Boris Becker Edition,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 13,IWC,"Big Pilot, Top Gun Boutique Edition",Bonhams,6000,9000,None,7500.0,6250.0
+Lot 14,IWC,GST Aquatimer,Bonhams,2000,4000,None,3200.0,2666.666666666667
+Lot 15,Ulysse Nardin,Maxi Marine Chronometer,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 16,Blancpain,Léman,Bonhams,4000,8000,None,6500.0,5416.666666666667
+Lot 17,Breguet,"Type XX, Transatlantique",Bonhams,3000,5000,None,4200.0,3500.0
+Lot 18,Girard Perregaux,Classique Chronograph Date,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 19,Baume & Mercier,Baumatic,Bonhams,500,1000,None,750.0,625.0
+Lot 20,Chronoswiss,Chronograph Rattrapante,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 21,Girard Perregaux,Sport Classic,Bonhams,800,1200,None,950.0,791.6666666666667
+Lot 22,Parmigiani Fleurier,Toric Chronograph,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 23,Ulysse Nardin,Monopussoir,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 24,Ulysse Nardin,San Marco,Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 25,Ulysse Nardin,San Marco GMT,Bonhams,800,1200,None,950.0,791.6666666666667
+Lot 26,Waldan International,Chronometre Chronographe,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 27,Baume & Mercier,Hampton,Bonhams,500,1000,None,750.0,625.0
+Lot 28,Zenith,Port-Royal El Primero 'Open Concept',Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 29,Omega,Railmaster 1957 Trilogy 60th Anniversary,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 30,Tudor,Prince Date,Bonhams,2000,4000,None,3200.0,2666.666666666667
+Lot 31,Rolex,Cosmograph Daytona 'Zenith',Bonhams,8000,12000,None,10500.0,8750.0
+Lot 32,Rolex,Submariner Pumpkin,Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 33,Rolex,Datejust,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 34,Rolex,Oyster Perpetual Datejust,Bonhams,1000,2000,None,1800.0,1500.0
+Lot 35,Rolex,Datejust,Bonhams,2000,4000,None,3200.0,2666.666666666667
+Lot 36,Chaumet,Griffith,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 37,Rolex,Cellini,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 38,Blancpain,Villeret,Bonhams,2000,3000,None,3500.0,2916.666666666667
+Lot 39,Tiffany & Co.,<NA>,Bonhams,500,1000,None,850.0,708.3333333333334
+Lot 40,Buccellati,Audachron,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 41,Omega,<NA>,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 42,Franck Muller,Long Island,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 43,Franck Muller,Master Square - Playa,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 44,Franck Muller,Long Island,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 45,Jaeger-Jaeger-LeCoultre,Reverso Duetto,Bonhams,1000,2000,None,1800.0,1500.0
+Lot 46,Jaeger-LeCoultre,Reverso,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 47,Cartier,Tonneau,Bonhams,5000,8000,None,6500.0,5416.666666666667
+Lot 48,Cartier,Tank Louis,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 49,Cartier,Santos Dumont,Bonhams,5500,7500,None,6800.0,5666.666666666667
+Lot 50,Patek Philippe,Ellipse,Bonhams,8000,12000,None,10500.0,8750.0
+Lot 51,Jaeger-Jaeger-LeCoultre,Reverso Day-Night Duoface,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 52,Glashütte Original,Senator Karrée,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 53,Franck Muller,Long Island,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 54,Franck Muller,Long Island,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 55,Hublot,MDM Genève,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 56,Hublot,MDM Genève,Bonhams,800,1200,None,950.0,791.6666666666667
+Lot 57,Gevril,The Gents,Bonhams,200,400,None,300.0,250.0
+Lot 58,Seiko,World Time,Bonhams,800,1200,None,950.0,791.6666666666667
+Lot 59,Girard Perregaux,WW.TC World Time Traveller,Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 60,Muonionalusta,<NA>,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 61,Muonionalusta Meteorite,<NA>,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 62,Ventura,V-Matic EGO,Bonhams,500,1000,None,750.0,625.0
+Lot 63,Chopard,Classique,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 64,IWC,Portofino,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 65,IWC,Portofino,Bonhams,800,1200,None,1100.0,916.6666666666667
+Lot 66,Blancpain,Villeret,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 67,Girard Perregaux,Richeville,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 68,Girard Perregaux,Richeville,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 69,Franck Muller,Color Dreams,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 70,Franck Muller,Casablanca - Sahara,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 71,Franck Muller,Cintrée Curvex,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 72,Franck Muller,Master Banker,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 73,Franck Muller,Cintrée Curvex,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 74,Franck Muller,Master Banker,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 75,Franck Muller,Master Banker,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 76,Corum,Golden Bridge,Bonhams,8000,12000,None,10500.0,8750.0
+Lot 77,Corum,Temps Mécanique,Bonhams,800,1200,None,1100.0,916.6666666666667
+Lot 78,Milos,<NA>,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 80,Vacheron Constantin,Les Historiques,Bonhams,2500,5500,None,4500.0,3750.0
+Lot 81,Jaeger-Jaeger-LeCoultre,Master Mariner,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 82,Rolex,Padellone,Bonhams,45000,65000,None,55000.0,45833.333333333336
+Lot 83,Rolex,<NA>,Bonhams,30000,50000,None,42000.0,35000.0
+Lot 84,Audemars Piguet,"Edward Piguet, Quantième Perpetuel",Bonhams,6000,9000,None,7500.0,6250.0
+Lot 85,Jaeger-Jaeger-LeCoultre,"Master Compressor Memovox, Aston Martin Special Edition",Bonhams,4000,8000,None,6500.0,5416.666666666667
+Lot 86,Pierre Kunz,Spirit of Challenge,Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 87,Chronoswiss,Delphis,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 88,Audemars Piguet,Millenary,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 89,Audemars Piguet,Jules Audemars,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 90,Breguet,Hora Mundi,Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 91,Glashütte Original,PanoMaticReserve,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 92,Patek Philippe,Gondolo Calendario,Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 93,Patek Philippe,Calatrava,Bonhams,10000,15000,None,13500.0,11250.0
+Lot 94,Patek Philippe,Calatrava,Bonhams,12000,18000,None,15500.0,12916.666666666668
+Lot 95,Patek Philippe,World Time “Mecca”,Bonhams,150000,250000,None,215000.0,179166.6666666667
+Lot 96,Patek Philippe,Grand Complications,Bonhams,30000,50000,None,42000.0,35000.0
+Lot 97,Jaeger-Jaeger-LeCoultre,Atmos Designer 561 By Marc Newson,Bonhams,15000,25000,None,21500.0,17916.666666666668
+Lot 98,Patek Philippe,<NA>,Bonhams,8000,10000,None,9500.0,7916.666666666667
+Lot 99,Patek Philippe,<NA>,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 100,Patek Philippe,<NA>,Bonhams,4000,6000,None,5500.0,4583.333333333334

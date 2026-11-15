@@ -1,0 +1,195 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+ad47b796-875d-4fe0-9a08-a5d44c7abf0d,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 1,HKD,22000,28000,48640,38000,2817.65,3586.1,6229.56,4866.84,Bernard Buffet,1928,1999,Man's Face,drawing,pencil on paper,N/A,17.1,27,cm,yes,yes,yes,1992,1992,"Sale: Est-Ouest Auctions, Hong Kong, Hong Kong - Tokyo Joint Auction, 14 December 2020, lot 199. Acquired at the above sale by the present owner.","man's face, eyes, hair, pencil, drawing, features, expression, portrait, lines, brown paper",1,N/A,original,"BERNARD BUFFET (1928-1999)
+Man's Face
+ 1992
+
+signed on the lower right
+pencil on paper
+
+drawing: 27 Ã 17.1 cm (10 5/8 x 6 3/4 in).
+Sheet: 38 x 28 cm (14 15/16 x 11 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/22/25842617-2-4.jpg,https://www.bonhams.com/auction/32070/lot/1/bernard-buffet-1928-1999-mans-face/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2026-09,3516.33,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+770f4d49-8d87-4491-b761-c5a92bde3e4e,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 2,HKD,50000,80000,N/A,N/A,6403.74,10245.99,N/A,N/A,George Condo,1957,N/A,Untitled,drawing,ballpoint pen on paper,N/A,20,28.6,cm,yes,yes,no,1985,1985,"Estate of Keith Haring, New York (gift of the artist in 1985); The Keith Haring Foundation (by bequest from the above in 1990); Sale: New York, Sotheby's, Dear Keith: Works from the Personal Collection of Keith Haring, 24 September - 1 October 2020, Lot 1122; Acquired from the above by the present owner","figure, face, eyes, expression, lines, scribbles, ballpoint pen, surrealism, paper, inscription",1,N/A,original,"GEORGE CONDO (B.1957)
+Untitled
+ 1985 
+
+signed, dated 85.6, 1985.3, and inscribed For Keith, Paris on the upper left and lower part
+ballpoint pen on paper 
+
+28.6 x 20 cm (11 1/4 x 7 7/8 in.)",https://images3.bonhams.com/image?src=Images/live/2026-04/21/25842617-4-3.jpg,https://www.bonhams.com/auction/32070/lot/2/george-condo-b1957-untitled/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10128.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+c760b477-282a-4427-b7c4-9da017bde5b7,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 3,HKD,150000,250000,N/A,N/A,19211.23,32018.72,N/A,N/A,Henri Matisse,1869,1954,Nu,drawing,pencil on paper,N/A,26.5,39,cm,yes,yes,yes,1900,1900,"Sale: Hôtel des ventes, Limoges, Anonymous sale, 6 June 1999, lot 26
+Sale: Christie's, London, Joie de Vivre: Modern Art and the Riviera, 30 June - 17 July 2020, lot 37
+Acquired at the above sale by the present owner","nude, figure, standing, male, pencil drawing, lines, back, form, shadow, posture",1,N/A,original,"HENRI MATISSE (1869-1954)
+Nu
+ circa 1900
+
+signed on lower right
+pencil on paper
+
+39 x 26.5 cm (15 3/8 x 10 3/8 in).
+
+The authenticity of this work has been confirmed by Wanda de GuÃ©briant in 1999.",https://images3.bonhams.com/image?src=Images/live/2026-04/21/25842617-1-3.jpg,https://www.bonhams.com/auction/32070/lot/3/henri-matisse-1869-1954-nu/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24388.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,28500.0,23750.0
+0eda5d75-ffc4-4c3f-be67-4c53b8243bc5,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 4,HKD,80000,130000,102400,80000,10245.99,16649.73,13114.87,10245.99,YAYOI KUSAMA,1929,N/A,Three Flowers (II),prints,screenprint,N/A,23,28.4,cm,yes,yes,yes,1992,1992,"Private Collection, Japan",flowers,1,N/A,original,"YAYOI KUSAMA (B.1929)
+Three Flowers (II)
+ 1992
+
+signed, titled, dated 1992 and numbered 11/50 on the bottom edge
+screenprint
+
+28.4 Ã 23 cm (11 1/5 Ã 9 1/10 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/19/25866113-1-6.png,https://www.bonhams.com/auction/32070/lot/4/yayoi-kusama-b1929-three-flowers-ii/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12888.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,14000.0,11666.666666666668
+11e4a675-b9c0-4483-82b5-9a19c71a5d86,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 6,HKD,2000000,3000000,4703000,3700000,256149.73,384224.59,602336.08,473876.99,Hsiao Chin,1935,2023,In the Depth of Darkness (Nel profondo delle Tenebre),painting,acrylic on canvas,N/A,161,130,cm,yes,yes,yes,1965,1965,"Studio Marconi Gallery, Milan
+Private Collection, Europe
+Sale: Phillips, Hong Kong, 20th Century & Contemporary Art & Design Evening Sale, 27 November 2016, lot 40
+Acquired from the above by the present owner","abstract shapes, circles, colors, red, green, purple, black, zigzag pattern",1,N/A,original,"HSIAO CHIN (1935-2023)
+In the Depth of Darkness (Nel profondo delle Tenebre)
+ 1965
+
+signed and dated 1965 on the bottom; signed, titled and dated 1965 on the reverse
+acrylic on canvas
+
+130 x 161 cm (51 3/16 x 63 3/8 in).
+
+The authenticity and information of this work have kindly been confirmed by Hsiao Chin and Hsiao Chin Art Foundation. The artwork authenticity certificate will be issued by Hsiao Chin Art Foundation and 3812 Gallery.",https://images3.bonhams.com/image?src=Images/live/2026-05/19/25868642-1-6.jpg,https://www.bonhams.com/auction/32070/lot/6/hsiao-chin-1935-2023-in-the-depth-of-darkness-nel-profondo-delle-tenebre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,324889.32,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,320000.0,266666.6666666667
+4468ebec-7fe9-4cdc-8725-8a580d5674f7,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 7,HKD,600000,800000,1401000,1100000,76844.92,102459.89,179432.88,140882.35,HSIAO CHIN,1935,2023,Heart Seal - 1,drawing,ink on paper,N/A,35,33,cm,yes,yes,yes,1957,1957,"Private Collection, Asia","seal, ink, abstract shapes, black, paper, artistic symbols",1,N/A,original,"HSIAO CHIN (1935-2023)
+Heart Seal - 1
+ 1957
+
+signed and dated 57 with one seal of the artist on the upper right
+ink on paper
+
+33 x 35 cm (13 x 13 3/4 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/19/25868642-2-1.jpg,https://www.bonhams.com/auction/32070/lot/7/hsiao-chin-1935-2023-heart-seal-1/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,96388.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,90000.0,75000.0
+95a81933-0764-4e9f-82ca-e188f64707de,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 8,HKD,450000,650000,486400,380000,57633.69,83248.66,62295.61,48668.45,YUN HYONG-KEUN,1928,2007,Umber,painting,oil on linen,N/A,74,52,cm,yes,yes,yes,1992,1992,"Jean Gallery, Seoul; Private Collection, Korea; Sale: Piguet Hôtel des Ventes, Geneva, Tableaux - Vente Online, 15 June 2022, Lot 04484; Acquired from the above by the present owner","black, umber, canvas, linen, rectangle",1,N/A,original,"YUN HYONG-KEUN (1928-2007)
+Umber
+ 1992
+
+signed and dated 1992.6 on the reverse
+oil on linen
+
+52 x 74 cm (20 1/2 x 29 1/8 in.)",https://images3.bonhams.com/image?src=Images/live/2026-05/21/25791655-1-4.jpg,https://www.bonhams.com/auction/32070/lot/8/yun-hyong-keun-1928-2007-umber/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,68888.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,70400.0,58666.66666666667
+f98607a4-fe65-4799-a2f3-809e29080bae,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 11,HKD,600000,800000,1045400,820000,76844.92,102459.89,133889.46,105021.39,André Brasilier,1929,N/A,La Forêt d'or,painting,oil on canvas,N/A,130,89,cm,yes,yes,yes,2018,2018,"Opera Gallery, Hong Kong; Acquired from the above by the present owner","forest, horses, riders, golden colors, trees, motion, nature, figures, equestrian, silhouette",1,N/A,original,"ANDRÃ BRASILIER (B.1929)
+La ForÃªt d'or
+ 2018
+
+signed on the lower right; signed, titled and dated 2018 on the reverse
+oil on canvas
+
+89 x 130 cm (35 1/16 x 51 3/16 in).
+
+The authenticity of this work has been confirmed by Alexis Brasilier. This work is accompanied by a certificate of authenticity issued by Commission Brasilier.",https://images3.bonhams.com/image?src=Images/live/2026-05/21/25825573-1-5.jpg,https://www.bonhams.com/auction/32070/lot/11/andre-brasilier-b1929-la-foret-dor/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,101381.29,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,90000.0,75000.0
+6a8ca4cc-b5df-4cb7-9f10-c154fd21026e,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 12,HKD,500000,700000,893000,700000,64037.43,89652.4,114370.85,89652.4,André Brasilier,1929,N/A,Le Parc de Loupeigne,painting,oil on canvas,N/A,97,130,cm,yes,yes,yes,2015,2015,"Private Collection, Asia","trees, yellow leaves, woman, statue, park, green grass, flowers, house",1,N/A,original,"ANDRÃ BRASILIER (B.1929)
+Le Parc de Loupeigne
+ 2015
+
+signed on the lower right; signed, titled and dated 2015 on the reverse
+oil on canvas 
+
+130 x 97 cm (51 1/8 x 38 1/4 in.)
+
+The authenticity of this work has been confirmed by Alexis Brasilier. This work is accompanied by a certificate of authenticity issued by Commission Brasilier.",https://images3.bonhams.com/image?src=Images/live/2026-05/06/25806363-1-1.jpg,https://www.bonhams.com/auction/32070/lot/12/andre-brasilier-b1929-le-parc-de-loupeigne/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,73888.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,76800.0,64000.0
+20cfe205-be5d-4e26-83f5-c1651ef9c524,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 13,HKD,400000,700000,384000,300000,51229.95,89652.4,49180.75,38422.46,Walasse Ting,1929,2010,Wind and Rain,painting,acrylic on canvas,N/A,228,178,cm,yes,yes,yes,1973,1973,"Gallery Camino Real, Boca Raton; Acquired from the above by the present owner","wind, rain, abstract, colors, atmosphere, nature, paint splashes, canvas, acrylic, movement",1,N/A,original,"WALASSE TING (1929-2010)
+Wind and Rain
+ 1973
+
+signed and date 73 on the reverse
+acrylic on canvas
+
+178 x 228 cm (70 x 90 in).",https://images3.bonhams.com/image?src=Images/live/2026-04/29/25821304-1-1.jpg,https://www.bonhams.com/auction/32070/lot/13/walasse-ting-1929-2010-wind-and-rain/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,63988.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+7472297f-51ce-43ef-aaba-9086b0bcfe16,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 14,HKD,900000,1200000,N/A,N/A,115267.38,153689.84,N/A,N/A,JU MING,1938,2023,Taichi Series,sculpture,wood,28.1,49.4,49.3,cm,yes,yes,yes,1991,1991,"Caves Art Center, Taipei; Acquired from the above by the present owner","sculpture, wood, taichi, abstract form, movement, texture, minimalist",1,N/A,original,"JU MING (1938-2023)
+Taichi Series
+ 1991
+
+incised with the artist's signature and dated 91 on the bottom
+wood
+
+49.3 x 49.4 x 28.1 cm (19 7/16 x 19 7/16 x 11 1/16 in).
+
+This work is accompanied with a certificate of authenticity issued by NPO Juming Culture & Education Foundation.",https://images3.bonhams.com/image?src=Images/live/2026-05/06/25832043-1-2.jpg,https://www.bonhams.com/auction/32070/lot/14/ju-ming-1938-2023-taichi-series/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,133889.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,134000.0,111666.66666666667
+2dd76e32-560a-4b8a-a9c6-3e610f6a3672,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 15,HKD,600000,900000,829500,650000,76844.92,115267.38,106238.1,83248.66,JU MING,1938,2023,Taichi Series - Single Whip,sculpture,bronze,22.4,45.8,28.9,cm,yes,yes,yes,1986,1986,"Acquired directly from the artist
+Private Collection, Asia","figure, tai chi, bronze, sculpture, movement",1,N/A,original,"JU MING (1938-2023)
+Taichi Series - Single Whip
+ 1986
+
+incised with the artist's signature and dated 86 on the lower back
+bronze
+
+28.9 x 45.8 x 22.4 cm (11 3/8 x 18 x 8 13/16 in).
+
+This work is accompanied with a certificate of authenticity issued by NPO Juming Culture & Education Foundation.",https://images3.bonhams.com/image?src=Images/live/2026-04/30/25732073-1-2.jpg,https://www.bonhams.com/auction/32070/lot/15/ju-ming-1938-2023-taichi-series-single-whip/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,96388.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,103000.0,85833.33333333334
+61722f74-90f3-498e-a941-c8700c5861c9,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 16,HKD,150000,250000,217600,170000,19211.23,32018.72,27869.09,21772.73,Joan Cornellà,1981,N/A,Nothing is Possible,painting,acrylic on canvas,N/A,145,200,cm,yes,yes,yes,2021,2021,"AllRightsReserved, Hong Kong; Acquired from the above by the present owner","woman, trees, flowers, grass, clouds, mountains, smiling, pink, blue, green",1,N/A,original,"JOAN CORNELLÃ (B.1981)
+Nothing is Possible
+ 2021
+
+signed and dated 2021 on the overlap
+acrylic on canvas
+
+200 x 145 cm (78 3/4 x 57 1/16 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/19/25870513-3-1.jpg,https://www.bonhams.com/auction/32070/lot/16/joan-cornella-b1981-nothing-is-possible/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24388.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,25800.0,21500.0
+2ecf2568-78f5-4875-a6b5-51fd5547dcf0,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 17,HKD,150000,250000,166400,130000,19211.23,32018.72,21311.66,16649.73,Joan Cornellà,1981,N/A,Missing,painting,acrylic on canvas,N/A,200,145,cm,yes,yes,yes,2021,2021,"AllRightsReserved, Hong Kong
+Acquired from the above by the present owner","man, suit, mountains, cityscape, poster, smile, blue sky, grass, pink wall, yellow shirt",1,N/A,original,"JOAN CORNELLÃ (B.1981)
+Missing
+ 2021
+
+signed and dated 2021 on the overlap
+acrylic on canvas
+
+145 x 200 cm (57 1/16 x 78 3/4 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/19/25870513-1-1.jpg,https://www.bonhams.com/auction/32070/lot/17/joan-cornella-b1981-missing/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24388.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,25600.0,21333.333333333336
+b708e8f5-7187-45b3-b490-74bf6f166196,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 18,HKD,120000,180000,128000,100000,15368.98,23053.48,16393.58,12807.49,KAWS,1974,N/A,Untitled (For Free Arts NYC),drawing,acrylic on paper,N/A,41.5,41.5,cm,yes,yes,yes,2013,2013,"Private Collection, Los Angeles; Sale: Phillips, London, 13 April 2015, lot 29; Private Collection, Norway; Private Collection, UK; Sale: Phillips, Hong Kong, INTERSECT: Online Auction, 23 September 2021, lot 44; Acquired from the above by the present owner","smiley face, yellow, grey, hand, mouth, round, tears, eyes, cartoon, abstract",1,N/A,original,"KAWS (B.1974)
+Untitled (For Free Arts NYC)
+ 2013 
+
+signed and dated KAWS..13 on the reverse
+acrylic on paper 
+
+sheet diameter 41.5 cm (16 in.)",https://images3.bonhams.com/image?src=Images/live/2026-04/21/25842617-5-4.jpg,https://www.bonhams.com/auction/32070/lot/18/kaws-b1974-untitled-for-free-arts-nyc/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19388.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,19000.0,15833.333333333334
+8fedafc6-bdf8-4e41-bc00-ecc8b1bc1c11,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 20,HKD,70000,100000,49920,39000,8965.24,12807.49,6393.5,4994.92,QIU XIAOFEI,1977,N/A,Untitled No.11,painting,watercolor on paper,N/A,80.7,116,cm,no,yes,yes,2010,2010,"Lin & Keng Gallery, Taipei
+Private Collection, Europe","figures, red shape, hanging, watercolor, abstract, illusions, disconnect, emotions",1,N/A,original,"QIU XIAOFEI (B.1977)
+Untitled No.11
+ 2010
+
+watercolor on paper
+
+116 x 80.7 cm (45 11/16 x 31 3/4 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/21/25864806-2-4.jpg,https://www.bonhams.com/auction/32070/lot/20/qiu-xiaofei-b1977-untitled-no11/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10938.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+05646192-24b3-4c0a-8c53-1e5e85cf7a82,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 21,HKD,120000,200000,N/A,N/A,15368.98,25614.97,N/A,N/A,LI QIANG,1962,N/A,LI QIANG (B.1962) 2013 No.3,painting,oil on canvas,N/A,80,100,cm,yes,yes,yes,2013,2013,"Selling Exhibition: Tokyo, The Ueno Royal Museum, Scenery as Metaphor—Li Qiang's Solo Exhibition, 31 January - 5 February 2015. Acquired from the above by the present owner.","flowers, landscape, abstract, petals, stems, leaves, blue sky, soft colors, blurred forms, natural elements",1,N/A,original,"LI QIANG (B.1962)
+2013 No.3
+ 2013
+
+signed and dated 2013 on the lower right
+oil on canvas
+
+100 x 80 cm (39 3/8 x 31 1/2 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/21/25859844-2-4.jpg,https://www.bonhams.com/auction/32070/lot/21/li-qiang-b1962-2013-no3/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,20498.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,20400.0,17000.0
+ed618b92-a3d1-46eb-8531-271acf8f9136,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 22,HKD,100000,200000,N/A,N/A,12807.49,25614.97,N/A,N/A,ZHAO ZHAO,1982,N/A,Coming Out,painting,oil on canvas,N/A,204,264,cm,no,yes,yes,2014,2014,"Alexander Ochs Private, Berlin
+Acquired from the above by the present owner","old man, bicycle, mountains, clouds, foliage, robe, path, beard, serene expression, landscape",1,N/A,original,"ZHAO ZHAO (B.1982)
+Coming Out
+ 2014
+
+oil on canvas
+
+264 x 204 cm (103 15/16 x 80 5/16 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/19/25864806-1-2.jpg,https://www.bonhams.com/auction/32070/lot/22/zhao-zhao-b1982-coming-out/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16387.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,19211.23,16009.358333333334
+724b2f45-6f4e-4406-bf82-00e61da11e84,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 23,HKD,180000,280000,N/A,N/A,23053.48,35860.96,N/A,N/A,Kang Haoxian,1989,N/A,MIMILAND,painting,acrylic on plywood,N/A,126.2,174.6,cm,yes,yes,yes,2022,2022,"Tube Culture Hall, Milan
+Sale: Sotheby's, Hong Kong, Contemporary Day Auction, 6 October 2022, lot 611.
+Acquired from the above by the present owner","man, woman, balcony, sunset, trees, shoes, dotted dress, plaid jacket, seated couple, pink floor",1,N/A,original,"KANG HAOXIAN (B.1989)
+MIMILAND
+ 2022
+
+signed, titled and dated 2022 on the reverse
+acrylic on plywood
+
+174.6 x 126.2 cm (68 3/4 x 49 3/4 in).",https://images2.bonhams.com/image?src=Images/live/2026-03/24/25716824-1-1.jpg,https://www.bonhams.com/auction/32070/lot/23/kang-haoxian-b1989-mimiland/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27808.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,29500.0,24583.333333333336
+ad8245ca-9bc3-4d6b-8a20-038cdc873495,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 24,HKD,50000,70000,61440,48000,6403.74,8965.24,7868.92,6147.59,Nicolas Party,1980,N/A,Blakam's Stone (Orange),sculpture,acrylic on stone,10.5,22.7,16.2,cm,yes,yes,yes,2012,2012,"The Modern Institute, Glasgow
+Sale: London, Christie's, Post-War & Contemporary Art Day Sale, 23 October 2020, Lot 212
+Acquired from the above by the present owner","stone, orange, acrylic, slice, fruit",1,N/A,original,"NICOLAS PARTY (B. 1980)
+Blakam's Stone (Orange)
+ 2012
+
+signed, inscribed and dated 2012 on the underside
+acrylic on stone
+
+16.2 x 22.7 x 10.5 cm (6 3/8 x 8 7/8 x 4 1/8 in.)",https://images3.bonhams.com/image?src=Images/live/2026-04/21/25842617-3-2.jpg,https://www.bonhams.com/auction/32070/lot/24/nicolas-party-b-1980-blakams-stone-orange/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7388.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+1043c95c-5904-418a-942e-1843f5f52245,Artwork,Bonhams,32070,2026-05-31,"Hong Kong, Six Pacific Place",Modern & Contemporary Art,https://www.bonhams.com/auction/32070/modern-and-contemporary-art/,Lot 25,HKD,15000,25000,32000,25000,1921.12,3201.87,4098.4,3201.87,MASAAKI YAMADA,1929,2010,C.p 90,mixed media,oil and wax on paper,N/A,36.5,49.6,cm,yes,yes,yes,1961,1961,"Private Collection, Japan
+Sale: Bonhams, London, 20th & 21st Century Art Day Sale, 17 October 2025, Lot 211
+Acquired from the above by the present owner","stripes, yellow, red, green, abstract",1,N/A,original,"MASAAKI YAMADA (1929-2010)
+C.p 90
+ 1961
+
+signed and dated 1961 on the reverse
+oil and wax on paper
+
+49.6 x 36.5 cm (19 1/2 x 14 3/8 in).",https://images3.bonhams.com/image?src=Images/live/2026-05/19/25860631-1-1.jpg,https://www.bonhams.com/auction/32070/lot/25/masaaki-yamada-1929-2010-cp-90/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2438.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335

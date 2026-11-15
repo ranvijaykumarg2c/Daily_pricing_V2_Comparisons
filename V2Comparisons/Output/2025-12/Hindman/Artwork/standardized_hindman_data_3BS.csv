@@ -1,0 +1,889 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+dce94a1b-4c4b-4a44-9f5e-0cbee6a2f61f,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 1,USD,8000,12000,None,None,8000,12000,None,None,Tom Wesselmann,1931,2004,Still Life with Lilies and Mixed Fruit,prints,color screenprint,<NA>,29.625,23.5,in,yes,yes,yes,1998,"Published by Cooper Square Prints, New York
+
+Provenance:
+Maxwell Davidson Gallery, New York
+Acquired directly from the above on May 23, 2007","lilies, mixed fruit, vase, table, bowl, flowers, still life, portrait, colors, patterns",None,None,"Tom Wesselmann 
+ (American, 1931–2004) 
+ Still Life with Lilies and Mixed Fruit , 1998 
+ color screenprint 
+ signed and numbered 56/100 in pencil 
+ 23 1/2 x 29 5/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200981/medium_378601-20_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/1,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,2025-12,gpt-4.1-mini,10500.0,8750.0
+835483ec-3aef-4fa4-bc70-42e941ebfb78,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 2,USD,8000,12000,None,None,8000,12000,None,None,Tom Wesselmann,1931,2004,Still Life with Matisse and Johns,prints,screenprint,<NA>,58.75,45.125,in,yes,yes,yes,1993,"Published by International Images, Putney, Vermont, with their blindstamp
+
+Provenance:
+Maxwell Davidson Gallery, New York
+Acquired directly from the above on November 25, 2008","still life, abstract shapes, flowers, colorful patterns, greenery, blue, red, yellow, orange, gray",None,None,"Tom Wesselmann 
+ (American, 1931–2004) 
+ Still Life with Matisse and Johns , 1993 
+ screenprint 
+ signed and numbered 61/90 in pencil 
+ 45 1/8 x 58 3/4 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3191702/medium_378601-19_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/2,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,10500.0,8750.0
+7c9cbe8f-0976-4923-afc8-d38eb2dcc4d1,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 3,USD,2000,3000,None,None,2000,3000,None,None,Sam Gilliam,1933,2022,"Shoebox,",prints,relief etching with collage on handmade paper,<NA>,23.5,20,in,yes,yes,yes,1997,<NA>,"abstract patterns, colored shapes, collaged elements, handmade paper, relief etching, textile fragments, lines, circles, layering, mixed media",None,None,"Sam Gilliam  
+ (American, 1933–2022) 
+ Shoebox,  1997 
+ relief etching with collage on handmade paper 
+ signed, titled, dated, and numbered 16/21 in silver ink 
+ 20 x 23 1/2 inches. 
+ Property from the Estate of William Weege",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200825/medium_378347-5_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/3,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+ff5319bf-16d8-4ada-95e2-bd0e9d0f351f,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 4,USD,2000,3000,None,None,2000,3000,None,None,Sam Gilliam,1933,2022,"Plain,",prints,relief etching on handmade paper with collage,<NA>,29.25,21.75,in,yes,yes,yes,1999,<NA>,"abstract forms, colorful patterns, collage elements, relief etching, handmade paper, geometric shapes, textured surface, overlapping layers, vibrant colors, non-representational design",None,None,"Sam Gilliam  
+ (American, 1933–2022) 
+ Plain,  1999 
+ relief etching on handmade paper with collage 
+ signed, titled, dated, and numbered 12/18 in silver ink 
+ 21 3/4 x 29 1/4 inches. 
+ Property from the Estate of William Weege",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200888/medium_378347-4_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/4,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2800.0,2333.3333333333335
+cf14f668-fd11-45d5-9c99-58ba47d3908e,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 5,USD,1500,2500,None,None,1500,2500,None,None,Sam Gilliam,1933,2022,"Covington,",prints,relief etching on handmade paper with collage,<NA>,23.25,21,in,yes,yes,yes,1976,<NA>,"relief etching, handmade paper, collage, abstract shapes, layered colors, geometric patterns",None,None,"Sam Gilliam 
+ (American, 1933–2022) 
+ Covington,  1976 
+ relief etching on handmade paper with collage 
+ signed, titled, dated, and numbered 8/32 in pencil 
+ 21 x 23 1/4 inches",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200915/medium_378347-6_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/5,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+84f2de50-e339-4cf8-8b9f-59bc21878f2b,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 6,USD,4000,6000,None,None,4000,6000,None,None,Sam Gilliam,1933,2022,"GDS/50,",mixed media,"collage of collagraphs with acrylic, metal snaps, and machine-sewn thread on die-cut paper",<NA>,24.75,24.25,in,yes,yes,yes,1996,<NA>,"collage, abstract shapes, colors, patterns, textures, circles, lines, graphic elements, visual layers, mixed media",None,None,"Sam Gilliam  
+ (American, 1933–2022) 
+ GDS/50,  1996 
+ collage of collagraphs with acrylic, metal snaps, and machine-sewn thread on die-cut paper 
+ signed, titled, dated, and numbered PP 6/8 in brown ink 
+ 24 1/4 x 24 3/4 inches. 
+ Property from the Estate of William Weege",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200868/medium_378347-3_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/6,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+d99c0775-43de-41c2-b6cd-0e95a130702d,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 7,USD,2000,3000,None,None,2000,3000,None,None,Sam Francis,1923,1994,For Thirteen,prints,color screenprint,<NA>,37.75,28,in,yes,yes,yes,1989,"Published and printed by La Paloma, Tujunga, California
+
+Literature:
+Lembark S-20; SFS-335","color screenprint, abstract shapes, vibrant colors, splatters, circular forms, organic forms",None,None,"Sam Francis 
+ (American, 1923-1994) 
+ For Thirteen , 1989 
+ color screenprint 
+ signed and numbered 114/115 in pencil 
+ Sheet: 28 x 37 3/4 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154894/medium_377167-3_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/7,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2700.0,2250.0
+f8301b93-786b-4e4e-a414-b97ba7072031,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 8,USD,8000,12000,None,None,8000,12000,None,None,John Chamberlain,1927,2011,"Chews Me,",prints,monotype on two sheets,<NA>,29,82,in,yes,yes,yes,1990,"Provenance:
+Nixon Art Associates, Chicago
+Acquired directly from the above on January 25, 2010","abstract, colorful patterns, mixed media, layered shapes, vertical composition",None,None,"John Chamberlain 
+ (American, 1927–2011) 
+ Chews Me,  1990 
+ monotype on two sheets 
+ signed in ink 
+ 82 x 29 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3178069/medium_378601-21_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/8,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,10500.0,8750.0
+2e01418f-0424-4acb-ae91-24838fc14a56,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 9,USD,20000,30000,None,None,20000,30000,None,None,Andy Warhol,1928,1987,"Flowers,",prints,color offset lithograph,<NA>,22,22,in,yes,yes,yes,1964,"Published by Leo Castelli Gallery, New York to coincide with a Warhol exhibition at Leo Castelli Gallery, New York, November 21 - December 17, 1964; printed by Total Color, New York
+
+Provenance:
+Private Collection, Philadelphia, Pennsylvania
+
+Literature:
+Feldman & Schellmann II.6","flowers, green background, yellow flower, pink flower, orange flower",None,None,"Andy Warhol 
+ (American, 1928-1987) 
+ Flowers,  1964 
+ color offset lithograph 
+ signed and dated in ink 
+ 22 x 22 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215536/medium_378908-1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/9,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+e73f5181-d7f0-4a49-b1ae-445fe50b0b7a,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 10,USD,20000,30000,None,None,20000,30000,None,None,Roy Lichtenstein,1923,1997,Blue Face (from Brushstroke Figures),prints,"lithograph, waxtype, woodcut, and screenprint",<NA>,33.375,53.75,in,yes,yes,yes,1989,"Co-published by Waddington Graphics, London and Graphicstudio, University of South Florida, Tampa; printed by Graphicstudio, University of South Florida, Tampa
+
+Literature:
+Corlett 226","face, abstract shapes, blue, green, red, yellow, polka dots, brushstrokes, lines, colors",None,None,"Roy Lichtenstein 
+ (American, 1923–1997) 
+ Blue Face  (from  Brushstroke Figures ), 1989 
+ lithograph, waxtype, woodcut, and screenprint 
+ signed, dated, and numbered 21/60 in pencil 
+ Sheet: 53 3/4 x 33 3/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3182433/medium_378601-12_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/10,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+c3f28b77-6c1c-4aea-857f-cc55a9414181,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 11,USD,30000,50000,None,None,30000,50000,None,None,Roy Lichtenstein,1923,1997,Composition II,prints,screenprint,<NA>,37.75,28,in,yes,yes,yes,1996,"Published and printed by Gemini G.E.L., Los Angeles, with their blindstamp
+
+Literature:
+Corlett 298; Gemini G.E.L. 1669","musical notes, abstract shapes, lines, colors, patterns, curves, background, circles, stripes, geometry",None,None,"Roy Lichtenstein 
+ (American, 1923-1997) 
+ Composition II , 1996 
+ screenprint 
+ signed, dated, and numbered 49/50 in pencil 
+ 28 x 37 3/4 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3214552/medium_376795-2_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/11,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,42000.0,35000.0
+3d7e904c-de1a-49df-9db2-81ccf15845c9,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 12,USD,8000,12000,None,None,8000,12000,None,None,Frank Stella,1936,2024,La penna di hu (black and white),prints,"relief, etching, and aquatint",<NA>,58.25,76.75,in,yes,yes,yes,1988,"Published and printed by Tyler Graphics, Mt. Kisco, New York
+
+Literature:
+Axsom 183","abstract shapes, geometric patterns, black and white, relief, etching, aquatint, mixed media, lines, forms, composition, depth",None,None,"Frank Stella 
+ (American, 1936–2024) 
+ La penna di hu (black and white) , 1988 
+ relief, etching, and aquatint 
+ signed, dated, and numbered AP XIII in pencil 
+ 76 3/4 x 58 1/4 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154201/medium_378151-1_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/12,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,10500.0,8750.0
+dee8162e-5134-47a0-ab8f-95a5e53d7825,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 13,USD,2000,3000,None,None,2000,3000,None,None,Charles Arnoldi,1946,<NA>,"6T, NY, 7/14/89,",prints,monotype,<NA>,37,43.5,in,yes,yes,yes,1989,<NA>,"abstract, colors, shapes, textures, patterns",None,None,"Charles Arnoldi 
+ (American, b. 1946) 
+ 6T, NY, 7/14/89,  1989 
+ monotype 
+ signed, titled, and dated in pencil 
+ 43 1/2 x 37 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3190570/medium_378601-26_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/13,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+a9fdabcb-d140-4ebc-89db-d8d91ee19f2c,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 14,USD,2000,3000,None,None,2000,3000,None,None,Rufino Tamayo,1899,1991,Mujer (from Rufino Tamayo 15 litografías),prints,lithograph,<NA>,22,29.75,in,yes,yes,yes,1973,"Published by Ediciones Polígrafa, Barcelona","woman, figure, stripes, gold background, blue base",None,None,"Rufino Tamayo 
+ (Mexican, 1899–1991) 
+ Mujer  (from  Rufino Tamayo 15 litografías ), 1973 
+ lithograph 
+ signed and numbered 73/75 in white pencil 
+ 29 3/4 x 22 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2953373/medium_376028-1_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/14,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2800.0,2333.3333333333335
+ed4aaa29-574a-4b78-bfe0-b800b683f010,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 15,USD,2000,3000,None,None,2000,3000,None,None,Christopher Brown,1951,<NA>,Station,prints,color soft ground etching with spit bite and aquatint,<NA>,19.875,19.625,in,yes,yes,yes,1993,"Published by Crown Point Press, San Francisco, with their blindstamp
+
+Provenance:
+Private Collection, New York","figures, crowds, shadows, colors, city scene, people, yellow, blue, red, orange",None,None,"Christopher Brown 
+ (American, b. 1951) 
+ Station , 1993 
+ color soft ground etching with spit bite and aquatint 
+ signed, dated, and numbered 16/65 in pencil 
+ 19 5/8 x 19 7/8 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212207/medium_378837-1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/15,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+b89e7e5a-c07e-430e-be57-10bfab614773,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 16,USD,4000,6000,None,None,4000,6000,None,None,Damien Hirst,1965,<NA>,Psychedelic (from Kaleidoscopes),prints,giclée diasec-mounted on aluminium composite panel,<NA>,55.25,33.375,in,yes,yes,yes,2024,"Published by Heni Editions, London","butterflies, kaleidoscope, geometric patterns, circular design, colors, symmetry, nature, abstract, black background",None,None,"Damien Hirst 
+ (British, b. 1965) 
+ Psychedelic  (from  Kaleidoscopes ), 2024 
+ giclée diasec-mounted on aluminium composite panel 
+ signed and numbered 168/180 in ink on label, verso 
+ 33 3/8 x 55 1/4 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3138866/medium_6378-35_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/16,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+a8e756af-e4f4-45cb-82f2-7476f44e674c,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 17,USD,7000,9000,None,None,7000,9000,None,None,Roy Lichtenstein,1923,1997,Entablature I,prints,color screenprint with collage and embossing,<NA>,38,21.25,in,yes,yes,yes,1976,"Published and printed by Tyler Graphics Ltd., Bedford Village, New York
+
+Literature:
+Corlett 138","geometric pattern, black lines, white space, yellow stripe, red stripe, embossed detail, screenprint, collage",None,None,"Roy Lichtenstein 
+ (American, 1923–1997) 
+ Entablature I , 1976 
+ color screenprint with collage and embossing 
+ signed, dated, and numbered 16/16 in pencil 
+ 21 1/4 x 38 inches. 
+ Property from the Estate of Richard Radke 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3201041/medium_378521-1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/17,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,8200.0,6833.333333333334
+d808e19f-c153-4607-af3c-235b79bdbfb3,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 18,USD,7000,9000,None,None,7000,9000,None,None,Roy Lichtenstein,1923,1997,Haystack,prints,color screenprint on C.M. Fabriano,<NA>,17.1875,14.375,in,yes,yes,yes,1969,"Published by Gabriele Mazzotta Editore, Milan, with their blindstamp
+
+Literature:
+Corlett 84","haystack, yellow, landscape, cow, black, dotted background, rural scene",None,None,"Roy Lichtenstein 
+ (American, 1923-1997) 
+ Haystack , 1969 
+ color screenprint on C.M. Fabriano 
+ signed, dated, and numbered 88/250 in pencil 
+ 14 3/8 x 17 3/16 inches.  
+ Property of a Main Line Gentleman, Pennsylvania 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212206/medium_378333-12_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/18,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,8200.0,6833.333333333334
+e28c9886-800a-464e-8a20-e84700a034b8,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 19,USD,600,800,None,None,600,800,None,None,Edna Andrade,1917,2008,"Red Flash, 1970",prints,color screenprint,<NA>,29,29,in,yes,yes,yes,1970,"Provenance:
+Institute of Contemporary Art, Philadelphia, Pennsylvania
+Acquired directly from the above in 1971","red, blue, green, shapes, patterns, screenprint, geometrical, abstract",None,None,"Edna Andrade 
+ (American, 1917-2008) 
+ Red Flash,  1970 
+ color screenprint 
+ signed, titled, and numbered 17/35 in pencil 
+ 29 x 29 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212201/medium_377066-3_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/19,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+827e5ca0-47f6-4826-bcb0-ae1eba2daab0,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 20,USD,800,1200,None,None,800,1200,None,None,Michael Craig-Martin,1941,<NA>,"Deconstructing Seurat (blue) 2,",prints,screenprint,<NA>,36,23.5,in,yes,yes,yes,2004,<NA>,"factory, river, trees, smoke, landscape, blue, green, pink, purple, red",None,None,"Michael Craig-Martin 
+ (Irish, b. 1941) 
+ Deconstructing Seurat (blue) 2,  2004 
+ screenprint 
+ signed, dated, and numbered 36/40 in pencil, verso 
+ 23 1/2 x 36 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200913/medium_376807-4_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/20,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+10fb12d6-0b48-40fe-b65c-4916034c4141,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 21,USD,800,1200,None,None,800,1200,None,None,Michael Craig-Martin,1941,<NA>,"Deconstructing Seurat (turquoise green) 1,",prints,screenprint,<NA>,36,23.5,in,yes,yes,yes,2004,<NA>,"factory, landscape, colorful, mountains, water, sky, abstract, shapes, industrial, orange",None,None,"Michael Craig-Martin 
+ (Irish, b. 1941) 
+ Deconstructing Seurat (turquoise green) 1,  2004 
+ screenprint 
+ signed, dated, and numbered 26/40 in pencil, verso 
+ 23 1/2 x 36 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200811/medium_376807-5_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/21,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+9df96020-0fee-45a5-a465-d17e9afc5720,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 22,USD,800,1200,None,None,800,1200,None,None,Michael Craig-Martin,1941,<NA>,"Deconstructing Seurat (blue) 1,",prints,screenprint,<NA>,36,24,in,yes,yes,yes,2004,<NA>,"figures, dog, hats, beach, water, people, colorful, sitting, lying down, binoculars",None,None,"Michael Craig-Martin 
+ (Irish, b. 1941) 
+ Deconstructing Seurat (blue) 1,  2004 
+ screenprint 
+ signed, dated, and numbered 27/40 in pencil, verso 
+ 24 x 36 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200847/medium_376807-3_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/22,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+aace4750-d9ed-4c26-9940-0bb5680444c2,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 23,USD,3000,5000,None,None,3000,5000,None,None,Jim Dine,1935,<NA>,Nine Views of Winter 2,prints,color woodcut,<NA>,37,52.25,in,yes,yes,yes,1985,"Co-published by Pace Editions, Inc., New York and Waddington Graphics, London","female figure, red, green, abstract, line, silhouette, body, texture, shape, color",None,None,"Jim Dine 
+ (American, b. 1935) 
+ Nine Views of Winter 2 , 1985 
+ color woodcut 
+ signed, dated, and numbered 18/24 in pencil 
+ 52 1/4 x 37 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212380/medium_378151-2_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/23,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,4200.0,3500.0
+1afa81af-bdd9-40ad-a7d4-1d7b5c21f1e9,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 24,USD,3000,5000,None,None,3000,5000,None,None,Henri de Toulouse-Lautrec,1864,1901,Frontispice pour 'Elles',prints,color lithograph,<NA>,19.125,24.5,in,no,yes,yes,1896,"Published by Gustave Pellet, Paris
+
+Provenance:
+Irving Galleries, Milwaukee
+
+Literature:
+Wittrock 155; Adhèmar 200; Delteil 179; Adriani 171","woman, blue dress, top hat, text, color lithograph",None,None,"Henri de Toulouse-Lautrec 
+ (French, 1864–1901) 
+ Frontispice pour 'Elles',  1896 
+ color lithograph 
+ 
+ Sheet: 24 1/2 x 19 1/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154978/medium_378434-5_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/24,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,4200.0,3500.0
+74971315-9e5b-4ac3-a363-af159f4cf41d,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 25,USD,1000,2000,None,None,1000,2000,None,None,Mel Ramos,1935,2018,Peek-a-Boo Yellow,prints,color lithograph,<NA>,16,24,in,yes,yes,yes,<NA>,<NA>,"woman, Marilyn Monroe, nude, keyhole, yellow background, laughter, figure, portrait",None,None,"Mel Ramos 
+ (American, 1935–2018) 
+ Peek-a-Boo Yellow 
+ color lithograph 
+ signed and numbered A.P. 17/50 in pencil 
+ 24 x 16 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154891/medium_377891-9_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/25,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+a755b00e-9040-4844-8c30-429fda20a299,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 26,USD,1000,2000,None,None,1000,2000,None,None,Mel Ramos,1935,2018,Peek-a-Boo Purple,prints,lithograph,<NA>,15.875,24,in,yes,yes,yes,<NA>,<NA>,"woman, nude, keyhole, pink background, blonde hair, red lips, hand on hip, curves, art, lithograph",None,None,"Mel Ramos 
+ (American, 1935-2018) 
+ Peek-a-Boo Purple 
+ lithograph 
+ signed and numbered A.P. 40/50 
+ 24 x 15 7/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154929/medium_377891-10_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/26,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1650.0,1375.0
+0ff99052-2f8e-4360-a613-6e12e8d4d5ea,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 27,USD,1500,2500,None,None,1500,2500,None,None,Larry Rivers,1932,2002,Fred and Ginger (Red Dip),mixed media,lithograph with 3D construction and hand-coloring mounted on sculptured foamcore,3,29.5,34.25,in,yes,yes,yes,1999,"Printed by Sienna Studios, New Jersey
+
+Provenance:
+John Szoke Editions, New York
+Acquired directly from the above on May 15, 2003","dancers, couple, red dress, man, woman, dance, indoor scene, soft colors, foamcore, lithograph",None,None,"Larry Rivers 
+ (American, 1932-2002) 
+ Fred and Ginger (Red Dip),  1999 
+ lithograph with 3D construction and hand-coloring mounted on sculptured foamcore 
+ signed, dated, and numbered 39/53 in ink 
+ 34 1/4 x 29 1/2 x 3 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3201059/medium_378601-29_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/27,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+70e0034c-0610-4701-85e8-32ad144e72c9,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 28,USD,3000,5000,None,None,3000,5000,None,None,Marc Chagall,1887,1985,Le Chevalet,prints,color lithograph on Arches,<NA>,18.875,21,in,yes,yes,yes,1969,"Literature:
+Mourlot 561","woman, easel, painting, flowers, colors, abstract shapes, portrait, artist, figure, trees",None,None,"Marc Chagall 
+ (Belarusian/French, 1887–1985) 
+ Le Chevalet,  1969 
+ color lithograph on Arches 
+ signed and numbered 'épreuve d'artiste XV/XXV' in pencil 
+ 21 x 18 7/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154951/medium_378434-6_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/28,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,4200.0,3500.0
+451ef30c-b266-417f-8f1f-0ff11a5cc4eb,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 29,USD,7000,9000,None,None,7000,9000,None,None,Marc Chagall,1887,1985,"Le Coq sur Paris,",prints,color lithograph on Arches,<NA>,17.75,23.5,in,yes,yes,yes,1958,"Published by Maeght Éditeur, Paris
+
+Literature:
+Mourlot 223","rooster, woman, flowers, sun, blue sky, buildings, couple, bridge, colors, round shapes",None,None,"Marc Chagall 
+ (Belarusian/French, 1887-1985) 
+ Le Coq sur Paris,  1958 
+ color lithograph on Arches 
+ signed and numbered 14/125 in pencil 
+ 23 1/2 x 17 3/4 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215162/medium_377536-5_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/29,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+85a10264-69f3-4f38-b04d-ee0e8866ee0f,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 30,USD,5000,7000,None,None,5000,7000,None,None,Marc Chagall,1887,1985,Le Pierrot,prints,etching with aquatint,<NA>,17.375,24.125,in,yes,yes,yes,1968,"Provenance:
+Irving Galleries, Milwaukee
+
+Literature:
+Cramer 34","clowns, woman, man, horse, flowers, angels, circus, acrobat, audience, costume",None,None,"Marc Chagall 
+ (Belarusian/French, 1887–1985) 
+ Le Pierrot , 1968 
+ etching with aquatint 
+ signed and numbered 33/50 in pencil 
+ 24 1/8 x 17 3/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154966/medium_378434-4_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/30,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+8eba5cfd-6306-409b-92c2-e6be4621b282,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 31,USD,7000,9000,None,None,7000,9000,None,None,Pablo Picasso,1881,1973,"Les Trois Baigneuses, I,",prints,etching,<NA>,5.125,7,in,yes,yes,yes,1923,"Co-published by Lucien Vollard and Marcel Lecomte, Paris, 1947
+
+Provenance:
+Irving Galleries, Milwaukee
+
+Literature:
+Bloch 60; Baer 106","three women, bathers, nudes, standing figures, etching, Picasso, 1923, red crayon, vintage",None,None,"Pablo Picasso 
+ (Spanish, 1881-1973) 
+ Les Trois Baigneuses, I,  1923 
+ etching 
+ signed (faded) in red crayon; from the total edition of 102 
+ 7 x 5 1/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154969/medium_378434-2_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/31,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,8200.0,6833.333333333334
+073c3286-7ca6-4bf4-af27-6c5f70c86d21,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 32,USD,5000,7000,None,None,5000,7000,None,None,Joan Miró,1893,1983,"Le Dandy,",prints,"etching, aquatint, and carborundum",<NA>,17,16.5,in,yes,yes,yes,1969,"Published and printed by Maeght Éditeur, Paris
+
+Literature:
+Dupin 492","abstract shapes, black form, red, yellow, orange, green, pink, blue, textured background",None,None,"Joan Miró 
+ (Spanish, 1893-1983) 
+ Le Dandy,  1969 
+ etching, aquatint, and carborundum 
+ signed and numbered 44/75 in pencil 
+ 16 1/2 x 17 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154992/medium_378434-3_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/32,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+13f94f55-78fb-4cfd-85a3-def822193a20,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 33,USD,8000,12000,None,None,8000,12000,None,None,Joan Miró,1893,1983,La Harpie,prints,etching and aquatint with carborundum in colors,<NA>,27.5,37.375,in,yes,yes,yes,1969,<NA>,"harpy, black figure, green background, abstract shapes, colorful patterns, lines, eggs, stars, swirls, circles",None,None,"Joan Miró 
+ (Spanish, 1893–1983) 
+ La Harpie , 1969 
+ etching and aquatint with carborundum in colors 
+ signed and numbered 45/75 in pencil 
+ Sheet: 37 3/8 x 27 1/2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3214527/medium_377533-10_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/33,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,10500.0,8750.0
+c503d0a5-6bae-4caf-a6a9-e619b1643cec,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 34,USD,10000,15000,None,None,10000,15000,None,None,Pablo Picasso,1881,1973,Chouette (A.R. 607),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,11.5,in,yes,yes,yes,1969,"Provenance:
+Private Collection, Pennsylvania
+
+Literature:
+Alain Ramié 607","vase, owl, earthenware, ceramic, engraving, glaze, decorative art, animal shape, sculpture",None,None,"Pablo Picasso 
+ (Spanish, 1881-1973) 
+ Chouette  (A.R. 607), 1969 
+ white earthenware ceramic vase, partially engraved, with colored engobe and glaze 
+ numbered 87/500, incised 'Madoura,' 'Edition Picasso', and 'R.149' and with 'Edition Picasso' and 'Madoura Plein Feu' stamps 
+ Height: 11 1/2 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3211812/medium_378875-1_02.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/34,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+1d09fb29-c42e-4c5b-8d78-d2ba4107faa6,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 35,USD,4000,6000,None,None,4000,6000,None,None,Wassily Kandinsky,1866,1944,Kleine Welten XI (from Kleine Welten),prints,drypoint,<NA>,7.75,9.25,in,yes,yes,yes,1922,"Published by Propyläen Verlag, Berlin; printed by Staatliches Bauhaus, Weimar","abstract shapes, lines, dots, geometric forms, curves, textures, patterns, contrast, movement, minimalism",None,None,"Wassily Kandinsky 
+ (Russian, 1866–1944) 
+ Kleine Welten XI  (from  Kleine Welten ),   1922 
+ drypoint 
+ signed in pencil 
+ 9 1/4 x 7 3/4 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154849/medium_377155-1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/35,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+173ea85e-ea5c-456f-9602-50fb332d13a9,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 36,USD,4000,6000,None,None,4000,6000,None,None,Howard Cook,1901,1980,The New Yorker,prints,wood engraving on Japan paper,<NA>,8.625,17.625,in,yes,yes,yes,1930,"Provenance:
+Mary Ryan Gallery, New York
+Acquired directly from the above on June 5, 1999
+
+Literature:
+Duffy 135","skyscraper, building, clouds, cityscape, signs, architecture, perspective, artwork, urban",None,None,"Howard Cook 
+ (American, 1901–1980) 
+ The New Yorker , 1930 
+ wood engraving on Japan paper 
+ signed, dated, titled 'Hotel New Yorker,' and inscribed 'imp.' and '43-2-140' in pencil 
+ 17 5/8 x 8 5/8 inches. 
+ Property from a Private Collection, Chicago, Illinois 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3122404/medium_377382-4_-1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/36,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+06e8860e-4939-493c-9003-bb7ef2340a7c,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 37,USD,7000,9000,None,None,7000,9000,None,None,Martin Lewis,1881,1962,"Fifth Avenue Bridge,",prints,drypoint on laid paper,<NA>,12,10,in,yes,yes,yes,1928,"Literature:
+McCarron 72","Fifth Avenue Bridge, urban scene, pedestrians, shadows, architecture, buildings, women, hats, streets, construction",None,None,"Martin Lewis 
+ (American, 1881–1962) 
+ Fifth Avenue Bridge,  1928 
+ drypoint on laid paper 
+ signed and inscribed 'imp.' in pencil; edition of approximately 108 
+ 10 x 12 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3201239/medium_375302-80_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/37,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,8200.0,6833.333333333334
+e3bb71e3-0e89-46fd-ba7c-105fac277894,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 38,USD,3000,5000,None,None,3000,5000,None,None,Martin Lewis,1881,1962,Night in New York,prints,etching on laid paper,<NA>,8.875,8.5,in,yes,yes,yes,1932,<NA>,"woman, dance, night, street, city, storefront, pedestrians, fire hydrant, clothing, light",None,None,"Martin Lewis 
+ (American, 1881–1962) 
+ Night in New York , 1932 
+ etching on laid paper 
+ signed in pencil, from the edition of 125 
+ 8 1/2 x 8 7/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3201069/medium_378652-17_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/38,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,4200.0,3500.0
+0d08c3ba-6dff-4cd3-a08a-e8349d21377b,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 39,USD,5000,7000,None,None,5000,7000,None,None,Martin Lewis,1881,1962,Chance Meeting,prints,drypoint on laid paper,<NA>,7.5,10.5,in,yes,yes,yes,1940,"Published by the Society of American Etchers, New York
+
+Literature:
+McCarron 131","man, woman, storefront, window, signs, urban, night, clothing, figures, awnings",None,None,"Martin Lewis 
+ (American, 1881–1962) 
+ Chance Meeting,  1940-41 
+ drypoint on laid paper 
+ signed in pencil; edition of approximately 105 
+ 10 1/2 x 7 1/2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200890/medium_378652-18_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/39,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+0a8b4419-a31c-45a5-b1c4-d839b9ce6cea,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 40,USD,6000,8000,None,None,6000,8000,None,None,Thomas Hart Benton,1889,1975,Jesse James,prints,lithograph on Rives,<NA>,22,16.25,in,yes,yes,yes,1936,"Published by Associated American Artists, New York
+
+Literature:
+Fath 13","train, bank, men, gun, horse, moon, town, barrel, robbery, smoke",None,None,"Thomas Hart Benton 
+ (American, 1889–1975) 
+ Jesse James,  1936 
+ lithograph on Rives 
+ signed and dedicated 'To Rex in memory of a lost portrait Thomas H. Benton' in pencil 
+ 16 1/4 x 22 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200827/medium_378652-19_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/40,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,7200.0,6000.0
+b4e03ea7-c4aa-4c22-aca9-59c6aa13d37e,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 41,USD,2000,3000,None,None,2000,3000,None,None,Thomas Hart Benton,1889,1975,Self-Portrait,prints,lithograph,<NA>,13.75,19.5,in,yes,yes,yes,1972,"Published by Associated American Artists, New York
+
+Literature:
+Fath 84","self-portrait, man, artist, studio, paintbrush, palette, easel, wood panel, shirt, pants",None,None,"Thomas Hart Benton 
+ (American, 1889–1975) 
+ Self-Portrait , 1972 
+ lithograph 
+ signed and inscribed 'ed/300' in pencil 
+ 19 1/2 x 13 3/4 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3176977/medium_378652-16_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/41,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+c4c5d718-9c3b-422b-9782-cf43c2ec8435,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 42,USD,1500,2000,None,None,1500,2000,None,None,Greg Lotus,<NA>,<NA>,Egg,photographs,photograph,2,60,90.5,in,no,yes,yes,2011,<NA>,"woman, headdress, egg, yellow dress, table, utensils, decorative background, jewelry, makeup, surrealism",None,None,"Greg Lotus 
+ (20th century) 
+ Egg , 2011 
+ photograph 
+ 
+ Overall: 90 1/2 x 60 x 2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3194196/medium_377356-16_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/42,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+edcbaa4c-86c9-4310-be6f-7edc937bb6c8,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 43,USD,2000,3000,None,None,2000,3000,None,None,Rineke Dijkstra,1959,<NA>,"Vendas Novas, Portugal, 21-05-2000 (from BAM Photography Portfolio III)",photographs,c-print,<NA>,20.125,25,in,yes,yes,yes,2000,"Published by Serge Sorokko Editions, 2008","portrait, young man, red suit, landscape, nature, grass, trees, cloudy sky, formal wear, expression",None,None,"Rineke Dijkstra 
+ (Dutch, b. 1959) 
+ Vendas Novas, Portugal, 21-05-2000  (from  BAM Photography Portfolio III ); printed 2008 
+ c-print 
+ signed, titled, dated, and numbered 19/40 in pencil, verso 
+ 25 x 20 1/8 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200895/medium_376807-6_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/43,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2800.0,2333.3333333333335
+3e6aabce-5606-4188-a69d-75655301de3a,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 44,USD,800,1200,None,None,800,1200,None,None,Sophie Calle,1953,<NA>,Untitled (from BAM Photography Portfolio III),prints,archival giclée print,<NA>,13,8.625,in,yes,yes,no,1983,"Published by Serge Sorokko Editions, 2008","sculpture, cloaked figures, close-up, expression, texture, shadows, monochrome, depth, emotion, form",None,None,"Sophie Calle 
+ (French, b. 1953) 
+ Untitled , 1983    (from  BAM Photography Portfolio III ); printed 2008 
+ archival giclée print 
+ signed and numbered 10/40 in pencil, verso 
+ 8 5/8 x 13 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3201016/medium_376807-8_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/44,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+4be31003-4dba-48f0-964e-4a027985dee1,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 45,USD,1000,2000,None,None,1000,2000,None,None,James Casebere,1953,<NA>,"Luxor #3, 2007 (from BAM Photography Portfolio III)",photographs,archival giclée print,<NA>,20,25.5,in,yes,yes,yes,2007,"Published by Serge Sorokko Editions, 2008","interior, architecture, walls, arched ceiling, light, shadow, empty space, orange, windows, floor",None,None,"James Casebere 
+ (American, b. 1953) 
+ Luxor #3,  2007 (from  BAM Photography Portfolio III ); printed 2008 
+ archival giclée print 
+ signed, titled, dated, and numbered 20/40 in ink 
+ 25 1/2 x 20 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3201082/medium_376807-9_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/45,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1650.0,1375.0
+5ae807bb-f155-4156-bac0-c7a8f3baf7e0,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 46,USD,1000,2000,None,None,1000,2000,None,None,Massimo Vitali,1944,<NA>,Ipercoop Sesto Fiorentino 2 #1897,photographs,c-print,<NA>,28.5,22.375,in,yes,yes,yes,2004,"Published by Serge Sorokko Editions, 2008","supermarket, cash registers, people, shoppers, groceries, colorful banners, urban space, shopping carts, electronic displays",None,None,"Massimo Vitali 
+ (Italian, b. 1944) 
+ Ipercoop Sesto Fiorentino 2 #1897 , 2004   (from  BAM Photography Portfolio III ); printed 2008 
+ c-print 
+ signed and numbered 16/40 in ink, label verso 
+ 22 3/8 x 28 1/2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3200832/medium_376807-7_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/46,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1500.0,1250.0
+bd93ca0b-54f0-42fe-aa53-ded8a85e6577,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 47,USD,600,800,None,None,600,800,None,None,Koo Sung Soo,<NA>,<NA>,Specimen Room,photographs,c-print,<NA>,48.5,38.5,in,yes,yes,yes,2005,"Provenance:
+Sherry Leedy Contemporary Art, Kansas City, Missouri","specimen room, glass display, sculptures, coral, colorful structures, scientific display, round formations, lights, blue background, exhibition space",None,None,"Koo Sung Soo 
+ (Korean, 20th century) 
+ Specimen Room , 2005 
+ c-print 
+ signed in ink 
+ 38 1/2 x 48 1/2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3130686/medium_377164-9_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/47,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+885bef92-f001-49df-9efe-9add5bbb5ef6,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 48,USD,500,700,None,None,500,700,None,None,Oliver Herring,1964,<NA>,"Group 1, 1993 and Vertigo, 2002 (two works)",prints,c-prints,<NA>,23,15.375,in,no,yes,yes,1993,"Provenance:
+Max Protetch, New York","silhouettes, figures, green background, movement, shadows, bodies, water, abstract, group, dynamic",None,None,"Oliver Herring 
+ (German, b. 1964) 
+ Group 1,  1993 and  Vertigo , 2002 (two works) 
+ c-prints 
+ each from an edition of 7 plus 2 APs 
+ Each: 15 3/8 x 23 inches. 
+ The Estate of Ruth Miles Pite 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/2984188/medium_375440-56_02.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/48,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,650.0,541.6666666666667
+aac538fd-371b-429e-833c-01b0a87bbafe,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 49,USD,600,800,None,None,600,800,None,None,Kim Keever,1955,<NA>,Forest 80d,photographs,c-print,<NA>,62,72,in,yes,yes,yes,2007,"Provenance:
+Kinz, Tillou + Feigen, New York","tree, forest, sky, landscape, greenery, foliage, nature, large trunk, clouds, light",None,None,"Kim Keever 
+ (American, b. 1955) 
+ Forest 80d , 2007 
+ c-print 
+ signed in ink, label frame verso; edition 1/3 
+ 72 x 62 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3138101/medium_377164-7_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/49,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+9615f488-0975-4575-8a10-75223e8f985b,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 50,USD,600,800,None,None,600,800,None,None,Kim Keever,1955,<NA>,West 83,photographs,c-print,<NA>,104,42,in,yes,yes,yes,2007,"Provenance:
+Kinz, Tillou + Feigen, New York","landscape, mountains, clouds, sky, rock formations, valley, light, color gradient, natural scenery, atmospheric",None,None,"Kim Keever 
+ (American, b. 1955) 
+ West 83 , 2007 
+ c-print 
+ signed in ink to gallery label, frame verso; edition 1/ 3 
+ 42 x 104 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3138103/medium_377164-8_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/50,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+d5739f31-b539-45cd-afdf-6b53fa0b20f2,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 52,USD,1000,2000,None,None,1000,2000,None,None,John Massey,1950,<NA>,Studio Projections,prints,archival digital prints,<NA>,6.5,4.5,in,no,yes,yes,1979,"Provenance:
+Georgia Scherman Projects, Toronto","interior, stools, windows, projector, car, desk, wall, floor",None,None,"John Massey 
+ (Canadian, b. 1950) 
+ Four works from  Studio Projections,  1979  (Number 17, Car Crash; Number 22, Beauty Treatment;  Number A1, Village ;  and  Number A3, Dust Storm);  printed 2013 
+ archival digital prints 
+ each from the edition of four 
+ Each: 4 1/2 x 6 1/2 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154842/medium_377164-10_1_comb_.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/52,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1500.0,1250.0
+1d760148-3196-4f2f-acd6-9290c8498819,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 53,USD,3000,5000,None,None,3000,5000,None,None,Josef Albers,1888,1976,WLS V (from White Line Squares (Series I)),prints,color lithograph,<NA>,15.75,15.75,in,yes,yes,yes,1966,<NA>,"squares, color, lithograph, geometric, grey, composition, layers, lines, contrast, abstraction",None,None,"Josef Albers 
+ (American/German, 1888-1976) 
+ WLS V  (from  White Line Squares (Series I)),  1966 
+ color lithograph 
+ initialed, titled, dated, and numbered 8/125 in pencil 
+ 15 3/4 x 15 3/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212166/medium_376953-21_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/53,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,4200.0,3500.0
+24f7fce2-8e44-402f-8a50-8204acc60132,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 54,USD,1500,2500,None,None,1500,2500,None,None,Anni Albers,1899,1994,Study for an Unexecuted Wall Hanging (from Connections),prints,color screenprint on Umbria Italia C.M.F paper,<NA>,14.125,21.125,in,yes,yes,yes,1926,"Published by Fausta Squatriti Editore, Milan, Italy","lines, colors, patterns, geometry, abstraction, rectilinear shapes, red, yellow, black, grey, white",None,None,"Anni Albers 
+ (American/German, 1899-1994) 
+ Study for an Unexecuted Wall Hanging  (from  Connections ), 1926/1983 
+ color screenprint on Umbria Italia C.M.F paper 
+ signed, dated, and numbered 50/125 in pencil 
+ 21 1/8 x 14 1/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3205421/medium_376953-29_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/54,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+a1610295-9ae8-4793-b7e0-e9139c3639b4,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 55,USD,4000,6000,None,None,4000,6000,None,None,Donald Judd,1928,1994,"Untitled, 1980",prints,aquatint,<NA>,29.5,24.5,in,yes,yes,no,1980,"Printed by Styria Studio, New York
+
+Literature:
+Schellmann 122","black stripes, white background, geometric shapes",None,None,"Donald Judd 
+ (American, 1928-1994) 
+ Untitled,  1980 
+ aquatint 
+ signed and numbered 149/150 in pencil 
+ 24 1/2 x 29 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215168/medium_376953-16_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/55,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+abd75bf9-4428-4c53-8055-4c176940d22c,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 56,USD,800,1200,None,None,800,1200,None,None,Robert Indiana,1928,2018,High Ball Redball Manifest (from The American Dream Portfolio),prints,color screenprint,<NA>,14,16.625,in,yes,yes,yes,1997,"Published by Marco Fine Arts Contemporary Atelier, El Segundo, California","screenprint, text, number 25, circular design, black, yellow, red, gray, graphic design",None,None,"Robert Indiana 
+ (American, 1928-2018) 
+ High Ball Redball Manifest  (from  The American Dream Portfolio ), 1997  
+ color screenprint 
+ signed and numbered 119/395 in pencil 
+ 16 5/8 x 14 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215109/medium_376953-50_2.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/56,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1050.0,875.0
+aa663f46-4315-4ae4-b8d9-106bb85b82be,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 57,USD,800,1200,None,None,800,1200,None,None,Robert Indiana,1928,2018,The Metamorphosis of Norma Jean (Marilyn Monroe) (from The American Dream Portfolio),prints,color screenprint,<NA>,14,14,in,yes,yes,yes,1998,"Provenance:
+Denis Bloch Fine Art, Beverly Hills, California
+Acquired directly from the above, January 2015","Marilyn Monroe, woman, torso, star, letters, 26, colors, circular design, background, number",None,None,"Robert Indiana 
+ (American, 1928-2018) 
+ The Metamorphosis of Norma Jean (Marilyn Monroe) (from  The American Dream Portfolio ), 1998 
+ color screenprint 
+ signed and numbered 394/395 in pencil 
+ 14 x 14 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212182/medium_376953-51_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/57,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+af4fed08-0369-4c85-bc5d-a06e41e8f2b0,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 58,USD,600,800,None,None,600,800,None,None,Robert Cottingham,1935,<NA>,L (from An American Alphabet),prints,lithograph on Rives BFK paper,<NA>,15.75,24,in,yes,yes,yes,2005,"Published by Tandem Press, Madison, Wisconsin, with their blindstamp; printed by Andy Rubin
+
+Provenance:
+Tandem Press, University of Wisconsin, Madison, Wisconsin Acquired directly from the above","letter, neon sign, blue, pink, light, typography, shape, shadow",None,None,"Robert Cottingham 
+ (American, b. 1935) 
+ L  (from  An American Alphabet ), 2005 
+ lithograph on Rives BFK paper 
+ signed and numbered 5/40 in pencil 
+ 24 x 15 3/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215158/medium_376953-65_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/58,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,700.0,583.3333333333334
+886faeda-e07d-4d3d-b268-7a00e81c8b57,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 59,USD,700,900,None,None,700,900,None,None,Robert Cottingham,1935,<NA>,Art,prints,offset lithograph,<NA>,21,21,in,yes,yes,yes,1992,<NA>,"sign, letters, neon, red, building, architecture, color, stripes, lights",None,None,"Robert Cottingham 
+ (American, b. 1935) 
+ Art , 1992 
+ offset lithograph 
+ signed in pencil; from the unnumbered edition of 1000 
+ 21 x 21 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215139/medium_376953-59_1_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/59,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,850.0,708.3333333333334
+b8dad3b1-60d1-457e-bffc-cb92634f45c3,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 60,USD,800,1200,None,None,800,1200,None,None,Robert Cottingham,1935,<NA>,Nite (from American Signs),prints,color screenprint,<NA>,31.875,32,in,yes,yes,yes,2009,"Co-published by Exhibit A Fine Art and Editions and American Images Atelier, New York","neon sign, theater, architecture, lights, lettering, colors, urban scene, night, decorative elements, shadows",None,None,"Robert Cottingham 
+ (American, b. 1935) 
+ Nite  (from  American Signs ), 2009 
+ color screenprint 
+ signed, titled, dated, and numbered 57/100 in pencil 
+ 32 x 31 7/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212184/medium_376953-48_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/60,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+a7520747-698e-41f9-ab38-222db07a3449,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 61,USD,800,1200,None,None,800,1200,None,None,Christo,1935,2020,"The Gates XX, Project for Central Park, New York",prints,offset color lithograph and collage on paper,<NA>,12.5,16.5,in,yes,yes,yes,2003,<NA>,"gates, fabric, Central Park, project proposal, New York, orange, urban landscape, mixed media, drawing, collage",None,None,"Christo 
+ (Bulgarian, 1935-2020) 
+ The Gates XX, Project for Central Park, New York,  2003 
+ offset color lithograph and collage on paper 
+ signed in pencil 
+ 16 1/2 x 12 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215410/medium_376953-44_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/61,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+a0c132e2-aa86-4c81-9bd7-5bbc14d2484c,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 62,USD,1000,2000,None,None,1000,2000,None,None,Christo,1935,2020,"Wrapped Oil Barrels, Texas,",prints,color lithograph on cardboard,<NA>,22,30,in,yes,yes,yes,1976,"Provenance:
+Sold: Heritage Auctions, April 19, 2023, lot 41071
+Acquired directly from the above sale","oil barrels, landscape, road, orange, blue, texture, abstraction, Christo",None,None,"Christo 
+ (Bulgarian, 1935-2020) 
+ Wrapped Oil Barrels, Texas,  1976 
+ color lithograph on cardboard 
+ signed and numbered 26/200 in pencil 
+ 30 x 22 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215399/medium_376953-36_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/62,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1800.0,1500.0
+edd57b9f-28f5-49d5-8aaf-2405db984df6,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 63,USD,1500,2500,None,None,1500,2500,None,None,Wolf Kahn,1927,2020,"Academy Print,",prints,color collograph and drypoint,<NA>,11.875,8.5,in,yes,yes,yes,1999,"Provenance: 
+Addison/Ripley Fine Art, Washington, D.C.
+Acquired directly from the above November 2002","trees, forest, sky, colors, landscape, texture, foliage, abstract shapes, lines, patterns",None,None,"Wolf Kahn 
+ (American/German, 1927-2020) 
+ Academy Print,  1999 
+ color collograph and drypoint 
+ signed and inscribed A/P in pencil 
+ 8 1/2 x 11 7/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212177/medium_376953-32_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/63,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+71fc1aa0-081e-4b2d-8e3a-6eaed0d2a504,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 64,USD,4000,6000,None,None,4000,6000,None,None,Helen Frankenthaler,1928,2011,"The Red Sea, 1978-82",prints,color lithograph on pink HMP handmade paper with deckled edges,<NA>,20.75,15.75,in,yes,yes,yes,1978,"Published by Tyler Graphics, Ltd., Mount Kisco, New York, with their blindstamp
+
+Provenance:
+Hamilton-Selway Fine Art, West Hollywood, California
+Acquired directly from the above 2022
+
+Literature:
+Harrison 89","color lithograph, pink background, abstract shapes, red tones, deckled edges, signed, dated",None,None,"Helen Frankenthaler 
+ (American, 1928-2011) 
+ The Red Sea,  1978-82 
+ color lithograph on pink HMP handmade paper with deckled edges 
+ signed, dated, and numbered 27/58 in pencil 
+ 15 3/4 x 20 3/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212163/medium_376953-15_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/64,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+a7fc8482-2e04-4bcc-bb37-0e5d4ccba175,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 65,USD,2000,3000,None,None,2000,3000,None,None,Donald Sultan,1951,<NA>,Four Reds Sept 30,prints,color screenprint with flocking on Somerset paper,<NA>,24.5,18,in,yes,yes,yes,2002,"Published by Hidemi Nomura Watanabe Studio Ltd., Brooklyn, New York","red flowers, black centers, abstract composition",None,None,"Donald Sultan 
+ (American, b. 1951) 
+ Four Reds Sept 30 , 2002 
+ color screenprint with flocking on Somerset paper 
+ initialed, titled, dated, and numbered 136/150 in pencil 
+ 18 x 24 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215377/medium_376953-28_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/65,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2800.0,2333.3333333333335
+03a44b45-ba42-41d7-8af4-d1a536007f21,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 66,USD,2000,3000,None,None,2000,3000,None,None,Adolf Gottlieb,1903,1974,Untitled (from Flight),prints,color lithograph on Arches,<NA>,19,24.75,in,yes,yes,no,1969,"Published by International Rescue Committee, New York; printed by Atelier Mourlot, Paris
+
+Provenance:
+Robert Fontaine Gallery, Miami, Florida
+Acquired directly from the above 2019","circle, red, black, splash, abstract, lithograph, print, shape, color, texture",None,None,"Adolf Gottlieb 
+ (American, 1903-1974) 
+ Untitled  (from  Flight ), 1969 
+ color lithograph on Arches 
+ signed, dated, and numbered 64/250 in pencil 
+ 24 3/4 x 19 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3205413/medium_376953-27_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/66,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+90b4c516-b6a0-4df9-ab91-33837aef61df,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 67,USD,2000,3000,None,None,2000,3000,None,None,Adolf Gottlieb,1903,1974,Jetsam,prints,color screenprint,<NA>,17.5,23.5,in,yes,yes,yes,1967,"Published by Marlborough Graphics, New York
+
+Provenance:
+Marlborough Graphics, New York, New York
+Acquired directly from the above 2019","black circle, red circle, white splash, grey background",None,None,"Adolf Gottlieb 
+ (American, 1903-1974) 
+ Jetsam , 1967 
+ color screenprint 
+ signed, dated, and numbered 61/75 in pencil 
+ 23 1/2 x 17 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215368/medium_376953-26_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/67,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+5898e92c-6de3-47b6-aa30-9c8b223ab721,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 68,USD,1000,1500,None,None,1000,1500,None,None,Claes Oldenburg,1929,2022,Proposal for a Colossal Structure in the Form of a Clothespin-Compared to Brancusi's Kiss,prints,color screenprint on Arches,<NA>,13.75,21.5,in,yes,yes,yes,1972,<NA>,"clothespin, sculpture, print, abstract, kiss, Brancusi, yellow, blue, figure, collage",None,None,"Claes Oldenburg 
+ (American, 1929-2022) 
+ Proposal for a Colossal Structure in the Form of a Clothespin-Compared to Brancusi's Kiss,  1972 
+ color screenprint on Arches 
+ signed and numbered 140/200 in pencil 
+ 21 1/2 x 13 3/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3205423/medium_376953-38_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/68,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1350.0,1125.0
+f4861b67-9fe8-434e-957f-845a1004024e,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 69,USD,100,200,None,None,100,200,None,None,Bernard Zalon,1951,<NA>,"Big Ball, 2006",prints,etching and aquatint with embossing,<NA>,17.875,17.875,in,yes,yes,yes,2006,"Provenance:
+The Artist's Studio, with his inkstamp, frame verso",baseball,None,None,"Bernard Zalon 
+ (American, b. 1951) 
+ Big Ball,  2006 
+ etching and aquatint with embossing 
+ signed, titled, and numbered 6/150 in pencil 
+ 17 7/8 x 17 7/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3205458/medium_376953-134_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/69,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,175.0,145.83333333333334
+b262b959-4dc7-4859-b289-99fd9e101631,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 70,USD,100,200,None,None,100,200,None,None,Romero Britto,1963,<NA>,"Grace, 2005",prints,color silkscreen with glitter,<NA>,<NA>,<NA>,in,yes,yes,yes,2005,With the blindstamp of the artist,"woman, colorful hair, abstract shapes, polka dots, stripes, round composition, glitter, vibrant colors, face, geometric patterns",None,None,"Romero Britto 
+ (Brazilian, b. 1963) 
+ Grace,  2005 
+ color silkscreen with glitter 
+ signed and numbered 130/180 in pencil 
+ Diameter: 14 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212204/medium_376953-133_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/70,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,180.0,150.0
+bc17c0b4-a354-4203-87b3-497d58cf1a1e,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 71,USD,1500,2500,None,None,1500,2500,None,None,Mel Bochner,1940,2025,Kick Against The Pricks,prints,color screenprint on Boutique Silk Fair Blue paper,<NA>,28,10.5,in,yes,yes,yes,2018,"Published by Two Palms Press, New York
+
+Literature:
+Barbara Krakow Gallery 2018.01","text, blue background, screenprint, white lettering, abstract pattern",None,None,"Mel Bochner 
+ (American, 1940-2025) 
+ Kick Against The Pricks,  2018 
+ color screenprint on Boutique Silk Fair Blue paper 
+ signed and numbered PP 3/4 in pencil 
+ 10 1/2 x 28 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212169/medium_376953-30_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/71,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+8f1bfdcf-fccf-4ea5-9e5e-d6ce6e2854a9,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 72,USD,2000,3000,None,None,2000,3000,None,None,Shepard Fairey,1970,<NA>,"Progress, 2008",prints,color screenprint,<NA>,22.25,34.125,in,yes,yes,yes,2008,<NA>,"man, portrait, red color, blue color, tie, button, political theme, expression, profile, screenprint",None,None,"Shepard Fairey 
+ (American, b. 1970) 
+ Progress,  2008 
+ color screenprint 
+ signed, dated, and numbered 218/350 
+ 34 1/8 x 22 1/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215335/medium_376953-25_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/72,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+6c15cbd7-0af7-41dc-b3ba-c358acb3a359,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 73,USD,800,1200,None,None,800,1200,None,None,Andy Warhol,1928,1987,American Indian (Black),prints,color offset lithographic poster,<NA>,33.875,49,in,yes,yes,yes,1976,"Provenance:
+Art Brokerage
+Acquired directly from the above January 2010","portrait, American Indian, blue background, pink text, 1976, man, clothing, gallery, black marker, lithograph",None,None,"Andy Warhol 
+ (American, 1928-1987) 
+ American Indian (Black),  1976 
+ color offset lithographic poster 
+ signed and dated in black marker  
+ 49 x 33 7/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215140/medium_376953-56_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/73,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+b21adcab-d905-480b-a7e8-9a142ae32bda,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 74,USD,600,800,None,None,600,800,None,None,Paul Binnie,1967,<NA>,"Shibaraku, Adesugata, Kunisada no Danjūrō, and Ushiwakamaru to Benkei (4 works)",prints,stencil and woodblock prints,<NA>,11.875,17.5,in,yes,yes,yes,1994,<NA>,"portrait, kabuki actor, traditional clothing, dramatic makeup, stencil print, woodblock print, red and white patterns, expressive face, cultural art, Japanese theater",None,None,"Paul Binnie 
+ (Scottish, b. 1967) 
+ Shibaraku, Adesugata, Kunisada no Danjūrō,  and  Ushiwakamaru to Benkei  (4 works), 1994-2015 
+ stencil and woodblock prints 
+ each signed and numbered in pencil or crayon 
+ Largest: 17 1/2 x 11 7/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215144/medium_376953-61_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/74,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,725.0,604.1666666666667
+87f1a55b-dd3e-4775-a12a-840333f9e84e,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 75,USD,600,800,None,None,600,800,None,None,Curtis Knapp,1951,<NA>,"Andy Warhol Red Series I,",photographs,color photograph,<NA>,16.5,16.5,in,yes,yes,yes,1983,<NA>,"man, artist, red paint, paintbrush, canvas, denim jacket, studio, floor, paper roll, background",None,None,"Curtis Knapp 
+ (American, b. 1951) 
+ Andy Warhol Red Series I,  1983; printed in 2004 
+ color photograph 
+ signed, titled, and numbered 20/35 in ink 
+ 16 1/2 x 16 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212195/medium_376953-72_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/75,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,700.0,583.3333333333334
+b32f84ad-f99c-4ff3-bace-00960375d47b,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 76,USD,600,800,None,None,600,800,None,None,Shepard Fairey,1970,<NA>,"Obey Warhol,",prints,color screenprint,<NA>,17,23,in,yes,yes,yes,2005,<NA>,"portrait, man, glasses, hair, face, red, brown, graphic design, Andy Warhol, contemporary art",None,None,"Shepard Fairey 
+ (American, b. 1970) 
+ Obey Warhol,  2005 
+ color screenprint 
+ signed, dated, and numbered 70/300 in pencil 
+ 23 x 17 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3205464/medium_376953-67_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/76,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+a84738dc-46fc-4219-be45-b0e5cb818692,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 77,USD,600,800,None,None,600,800,None,None,Shepard Fairey,1970,<NA>,"Lenin Stamp,",prints,color screenprint,<NA>,17,23,in,yes,yes,yes,2000,<NA>,"Lenin, portrait, red, orange, propaganda, face, soldier, hat, text, symbol",None,None,"Shepard Fairey 
+ (American, b. 1970) 
+ Lenin Stamp,  2000 
+ color screenprint 
+ signed, dated, and numbered 17/200 
+ 23 x 17 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215512/medium_376953-69_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/77,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+100d2a19-5f40-485a-a398-b0f1ae789867,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 78,USD,1500,2500,None,None,1500,2500,None,None,Osvaldo Salas,1914,1992,Con Hemingway (Fidel Castro with Ernest Hemingway),photographs,gelatin silver print,<NA>,16.5,12.25,in,yes,yes,yes,1960,"Provenance:
+Rebecca Jacob Gallery
+Acquired directly from the above February 2016","Fidel Castro, Ernest Hemingway, interaction, historical moment, black and white, portrait, close-up, clothing, facial expression, crowd",None,None,"Osvaldo Salas 
+ (Cuban, 1914-1992) 
+ Con Hemingway (Fidel Castro with Ernest Hemingway),  1960 
+ gelatin silver print 
+ signed, titled, and dated in ink; with signature and inscription by Roberto Salas and registration number, verso 
+ 12 1/4 x 16 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212174/medium_376953-34_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/78,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+1b36a4c4-b3e0-4c57-8ae0-89b6709817aa,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 79,USD,800,1200,None,None,800,1200,None,None,Lucien Clergue,1934,2014,"Matador Antonio Ordonez, San Sebastian, Spain,",photographs,gelatin silver print,<NA>,14.25,9.5,in,yes,yes,yes,1966,<NA>,"matador, bull, bullfighting, action, San Sebastian, Spain, black and white, arena, motion, 1966",None,None,"Lucien Clergue 
+ (French, 1934-2014) 
+ Matador Antonio Ordonez, San Sebastian, Spain,  1966; printed 1983 
+ gelatin silver print 
+ signed in ink 
+ 9 1/2 x 14 1/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215418/medium_376953-45_2.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/79,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+8f74318d-7625-40b4-8771-1eabeecbeac6,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 80,USD,800,1200,None,None,800,1200,None,None,Lucien Clergue,1934,2014,"Christian Nimeno II, Place Les Banderilles",photographs,gelatin silver print,<NA>,11.5,7.75,in,yes,yes,yes,1980,"Provenance:
+Odon Wagner Gallery, Toronto, Ontario, Canada
+Acquired directly from the above 2019
+
+Literature:
+Clergue, p. 44-45","bullfighter, bull, crowd, arena, banners, traditional costume, black and white photography, action, performance, excitement",None,None,"Lucien Clergue 
+ (French, 1934-2014) 
+ Christian Nimeno II, Place Les Banderilles,  1980 
+ gelatin silver print 
+ signed in ink 
+ 7 3/4 x 11 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215464/medium_376953-46_2.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/80,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+01aa5a65-78a3-4ab0-b592-5d9e05491763,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 81,USD,800,1200,None,None,800,1200,None,None,Milton H. Green,1922,1985,Nellie Nyad in Black Hat,photographs,gelatin silver print,<NA>,19,15,in,yes,yes,yes,1952,<NA>,"woman, black hat, portrait, gelatin silver print, shadow, face, lips, fashion, photography, 1950s",None,None,"Milton H. Green 
+ (American, 1922-1985) 
+ Nellie Nyad in Black Hat,  1952 
+ gelatin silver print 
+ signed and inscribed A/P in ink on mat window; bearing reproduction rights and copyright stamp with number 2267 5/12, verso 
+ Sight: 15 x 19 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212179/medium_376953-49_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/81,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+f43da8a3-0860-40e5-9a32-7541cf39af98,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 82,USD,400,600,None,None,400,600,None,None,Erté,1892,1990,Letter L (from The Alphabet),prints,color screenprints,<NA>,24.25,32.5,in,yes,yes,yes,1976,<NA>,"woman, leopard, jewelry, chain, black background, figure, animal, red, color screenprint, fashion",None,None,"Erté 
+ (French, 1892-1990) 
+ Letter L  (from  The Alphabet ) , 1976 and  Slave of Salome,  1983 (two works) 
+ color screenprints 
+ each signed and numbered in pencil 
+ Largest: 32 1/2 x 24 1/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212193/medium_376953-91_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/82,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,520.0,433.33333333333337
+3d2fa629-c627-41a9-b3d9-03e8f968e765,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 83,USD,600,800,None,None,600,800,None,None,Shepard Fairey and Ernesto Yerena,1970,<NA>,Día de los Muertos,prints,color screenprint,<NA>,17,23,in,yes,yes,yes,2008,<NA>,"skull, floral patterns, geometric shapes, dots, decorative elements, black background, yellow color, Día de los Muertos, folk art, printmaking",None,None,"Shepard Fairey and Ernesto Yerena 
+ (American, b. 1970 | b. 1987) 
+ Día de los Muertos ,  2008 
+ color screenprint 
+ signed by Fairey and Yerena, dated, and numbered 160/300 in pencil 
+ 23 x 17 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3197576/medium_376953-68_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/83,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+7bd701bb-82dc-4084-847e-17732dc9ee1e,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 84,USD,800,1200,None,None,800,1200,None,None,Robert Indiana,1928,2018,The Golden Five (from American Dream No. 5),prints,color screenprint on Fabriano paper,<NA>,24,24,in,yes,yes,yes,1980,"Published by Prestige Art Ltd., Mamaronek, New York; printed by Domberger KG, Filderstadt, West Germany, with their blindstamp
+
+Literature:
+Sheehan 113","star, number 5, text, circle, graphic design, colors, geometric, red, yellow, black",None,None,"Robert Indiana 
+ (American, 1928-2018) 
+ The Golden Five  (from  American Dream No. 5 ), 1980 
+ color screenprint on Fabriano paper 
+ signed, titled, dated, and numbered P.P. 9/17 in pencil 
+ 24 x 24 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215083/medium_376953-52_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/84,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+789dc68c-9ee0-483d-a555-31c205f4b720,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 85,USD,1000,1500,None,None,1000,1500,None,None,Robert Indiana,1928,2018,Mecca II,prints,color screenprint on Arches,<NA>,12.5,23.375,in,yes,yes,yes,1977,"Published by Posner Gallery, Milwaukee, Wisconsin; printed by Simca Print Artists, Inc.
+
+Provenance:
+Judith L. Posner and Associates, Inc., Milwaukee, Wisconsin
+Acquired directly from the above
+
+Literature:
+Sheehan 94","color screenprint, geometric shapes, text, red, green, blue, orange, yellow, modern art, abstraction",None,None,"Robert Indiana 
+ (American, 1928-2018) 
+ Mecca II , 1977 
+ color screenprint on Arches 
+ signed, titled, dated, and numbered 6/50 in pencil 
+ 23 3/8 x 12 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3205420/medium_376953-37_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/85,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1350.0,1125.0
+82ae72fa-4f86-400e-afd1-5fdc3cca0a3e,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 86,USD,800,1200,None,None,800,1200,None,None,Francisco Sobrino,1932,2014,"Untitled 4,",prints,color screenprint,<NA>,42.25,6,in,yes,yes,no,1970,<NA>,"color, geometric patterns, rectangles, lines, shapes, vibrant colors, abstract",None,None,"Francisco Sobrino 
+ (Spanish, 1932-2014) 
+ Untitled 4,  ca. 1970 
+ color screenprint 
+ signed and numbered 60/100 in pencil 
+ 6 x 42 1/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212187/medium_376953-55_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/86,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+4f4e228e-dd38-4e4d-b248-d00f513188ca,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 87,USD,800,1200,None,None,800,1200,None,None,Gene Davis,1920,1985,Untitled (Smithsonian I),prints,color screenprint,<NA>,32.5,35.75,in,yes,yes,no,1980,"Published for the Smithsonian Resident Associates Program, Washington, D.C., with the copyright and date stamp","color screenprint, stripes, purple background, vertical lines, geometric pattern, abstraction, signed, limited edition, contemporary art",None,None,"Gene Davis 
+ (American, 1920-1985) 
+ Untitled (Smithsonian I),  1980 
+ color screenprint 
+ signed and numbered 69/200 in pencil 
+ 35 3/4 x 32 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215508/medium_376953-47_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/87,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+056c8ab2-fa92-48ca-add4-181ab3f296bf,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 88,USD,1500,2500,None,None,1500,2500,None,None,Wolf Kahn,1927,2020,"Aura, 2004",prints,color screenprint,<NA>,28.875,23.75,in,yes,yes,yes,2004,"Published by the Smithsonian Resident Associates Art Collectors Program; printed by Brand X Editions, New York","trees, pink sky, green grass, purple foliage, landscape",None,None,"Wolf Kahn 
+ (American/German, 1927-2020) 
+ Aura,  2004 
+ color screenprint 
+ signed, dated, and numbered 10/150 in pencil 
+ 23 3/4 x 28 7/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215378/medium_376953-33_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/88,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,2100.0,1750.0
+af10a14f-84a9-4de5-8762-ab0a8bcf9f50,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 89,USD,800,1200,None,None,800,1200,None,None,Kiki Kogelnik,1935,1997,"Beach Ball,",prints,color screenprint,<NA>,23.875,32.125,in,yes,yes,yes,1978,<NA>,"woman, bikini, beach ball, text, pink background, green hair, yellow skin, high heels, geometric patterns, water",None,None,"Kiki Kogelnik 
+ (Austrian, 1935-1997) 
+ Beach Ball,  1978 
+ color screenprint 
+ signed, dated, and numbered AP 11/35 in pencil 
+ 32 1/8 x 23 7/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215627/medium_376953-53_2.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/89,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+17cf87df-9e6b-4a56-adbe-827c62b9dda6,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 90,USD,300,500,None,None,300,500,None,None,Raphael Soyer,1899,1987,Woman with Black Hair,prints,color lithograph,<NA>,15,20,in,yes,yes,yes,1979,<NA>,"woman, black hair, street scene, figure, portrait, clothing, urban background, walking, multiperson, lithograph",None,None,"Raphael Soyer 
+ (American, 1899-1987) 
+ Woman with Black Hair,  1979 and  Passing By (Street Scene #3) , ca. 1975 (2 works) 
+ color lithograph 
+ each signed and numbered in pencil 
+ Largest: 20 x 15 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215539/medium_376953-119_01.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/90,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,450.0,375.0
+5e01010f-8206-4a4d-bae2-9a8509c66127,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 91,USD,600,800,None,None,600,800,None,None,Giancarlo Impiglia,1940,<NA>,Talking Heads,prints,color screenprint,<NA>,40,17.75,in,yes,yes,yes,1989,<NA>,"people, couples, heads, abstract, expressions, attire, colors, faces, interaction, society",None,None,"Giancarlo Impiglia 
+ (Italian, b. 1940) 
+ Talking Heads , 1989 
+ color screenprint 
+ signed, titled, dated, and numbered 201/225 in pencil  
+ 17 3/4 x 40 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215513/medium_376953-71_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/91,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,750.0,625.0
+08a24181-d646-4a93-a822-1cddf7135efc,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 92,USD,800,1200,None,None,800,1200,None,None,Mel Ramos,1935,2018,Martini Miss #2 (Courtney Cox),prints,color screenprint,<NA>,17.5,26.5,in,yes,yes,yes,2004,"Provenance:
+The Estate of Mel Ramos, Oakland, California
+Acquired directly from the above 2023","woman, martini glass, nude, olive, legs, cocktail, smile, playful, feminine, pink",None,None,"Mel Ramos 
+ (American, 1935-2018) 
+ Martini Miss #2 (Courtney Cox) , 2004 
+ color screenprint 
+ signed and numbered A.P. 9/50 in pencil 
+ 26 1/2 x 17 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212191/medium_376953-54_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/92,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+eee30245-6005-4cf9-b598-431fcae8944b,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 93,USD,5000,7000,None,None,5000,7000,None,None,Claes Oldenburg,1929,2022,"Tilting Neon Cocktail,",sculpture,"stainless steel, cast aluminum, acrylic and Plexiglas",<NA>,<NA>,19,in,yes,yes,yes,1983,"Published by Brooke Alexander for The New Museum of Contemporary Art, New York
+
+Provenance:
+Cavalier Galleries Inc., Greenwich, Connecticut
+Acquired directly from the above in March 2019
+
+Literature:
+Plaztker, 21","cocktail, stainless steel, olive, aluminum, acrylic, Plexiglas",None,None,"Claes Oldenburg  
+ (American, 1929-2022) 
+ Tilting Neon Cocktail,  1983 
+ stainless steel, cast aluminum, acrylic and Plexiglas 
+ incised with the artist's initials, titled, dated, and numbered 15/50 
+ Height: 19 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3215166/medium_376953-14_01.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/93,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+40ac9ec8-7fb1-4761-abc0-173a6a014948,Art,Hindman,6435,2025-12-12,Philadelphia,"Sale 6435 - Prints & Multiples, including property from the Dr. Gary London Revocable Trust",https://freemansauction.com/auctions/6435,Lot 94,USD,4000,6000,None,None,4000,6000,None,None,Dorothea Margaret Tanning,1910,2012,Birthday (Self-Portrait at age 30),prints,color offset lithograph on Arches paper,<NA>,14.375,22.625,in,yes,yes,yes,1970,Original painting created in 1942 currently in the collection of the Philadelphia Art Museum,"woman, self-portrait, doorway, owl, vines, floor, dress, long hair, surrealism, room",None,None,"Dorothea Margaret Tanning 
+ (American, 1910-2012) 
+ Birthday (Self-Portrait at age 30),  ca. 1970 
+ color offset lithograph on Arches paper 
+ signed and numbered 144/150 in pencil 
+ 22 5/8 x 14 3/8 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3212162/medium_376953-19_1.jpg,https://freemansauction.com/auctions/6435-prints-multiples-including-property-from-the-dr-gary-london-revocable-trust/lot/94,6840.51,23576.49,47560.29,16.93,63.3,3.78,None,nan,gpt-4.1-mini,5200.0,4333.333333333334

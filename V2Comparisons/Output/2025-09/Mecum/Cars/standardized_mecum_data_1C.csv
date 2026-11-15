@@ -1,0 +1,475 @@
+manufacturer,model,title,year_of_manufacture,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Dodge,Hemi Daytona NASCAR,None,1969,None,None,8250000.0,7366071.428571428
+Ferrari,365 GTS/4 Daytona Spider,None,1971,None,None,4950000.0,4419642.857142856
+Ferrari,212 Export Touring Barchetta,None,1951,None,None,19850000.0,17723214.285714284
+Ford,Bronco,None,1966,None,None,112500.0,100446.42857142857
+Porsche,911 Coupe,None,1990,None,None,425000.0,379464.2857142857
+Volkswagen,Type II 23-Window Deluxe Bus,None,1954,None,None,215000.0,191964.2857142857
+Mercury,Cougar,None,1970,None,None,82500.0,73660.71428571428
+Chevrolet,Chevelle Custom,None,1970,None,None,132500.0,118303.57142857142
+Mercedes-Benz,190SL Convertible,None,1963,None,None,105000.0,93749.99999999999
+Jaguar,E-Type Series I Fixed Head Coupe,None,1965,None,None,275000.0,245535.71428571426
+Mercedes-Benz,220A Cabriolet,None,1953,None,None,132500.0,118303.57142857142
+Chevrolet,Corvette Convertible,None,1965,None,None,198500.0,177232.14285714284
+Ford,Mustang K-Code Coupe,None,1965,None,None,385000.0,343749.99999999994
+Ferrari,550 Maranello,None,1999,None,None,165000.0,147321.42857142855
+Jaguar,XK120 Roadster,None,1951,None,None,132500.0,118303.57142857142
+Ferrari,612 Scaglietti,None,2005,None,None,132500.0,118303.57142857142
+Jeep,Gladiator AMW 1000 Pickup,None,2023,None,None,385000.0,343749.99999999994
+Lamborghini,Diablo VT,None,1994,None,None,385000.0,343749.99999999994
+Chevrolet,Corvette CRC Conversion Convertible,None,2000,None,None,38500.0,34375.0
+Porsche,911 GT3 RS,None,2004,None,None,215000.0,191964.2857142857
+Ferrari,512 BBi,None,1984,None,None,495000.0,441964.2857142857
+Mercedes-Benz,Maybach G650 Landaulet,None,2018,None,None,2350000.0,2098214.2857142854
+Chevrolet,Corvette Convertible,None,1960,None,None,385000.0,343749.99999999994
+Ford,Mustang Shelby Super Snake Speedster Convertible,None,2021,None,None,385000.0,343749.99999999994
+Jaguar,XK150 Drophead Coupe,None,1959,None,None,165000.0,147321.42857142855
+Cadillac,Kad-A-Mino,None,1959,None,None,1125000.0,1004464.2857142856
+Pontiac,GTO Convertible,None,1967,None,None,132500.0,118303.57142857142
+Chevrolet,Bel Air Custom,None,1956,None,None,115000.0,102678.57142857142
+Mercedes-Benz,190SL Convertible,None,1957,None,None,198500.0,177232.14285714284
+Ford,Thunderbird M-Code Sports Roadster,None,1962,None,None,132500.0,118303.57142857142
+Ford,Bronco,None,1967,None,None,82500.0,73660.71428571428
+Chevrolet,El Camino Custom,None,1959,None,None,82500.0,73660.71428571428
+Ferrari,296 GTB,None,2025,None,None,335000.0,299107.14285714284
+Chevrolet,Corvette Kindig-It Design Roadster,None,1958,None,None,198500.0,177232.14285714284
+Porsche,918 Spyder,None,2015,None,None,1155000.0,1031249.9999999999
+Porsche,911 GT3 RS,None,2007,None,None,165000.0,147321.42857142855
+Jaguar,E-Type Series I Roadster,None,1967,None,None,132500.0,118303.57142857142
+Porsche,356 Pre-A Speedster,None,1955,None,None,1125000.0,1004464.2857142856
+Ferrari,F430 Coupe,None,2007,None,None,132500.0,118303.57142857142
+Chevrolet,Corvette Convertible,None,1959,None,None,132500.0,118303.57142857142
+Ferrari,365 GTB/4 Daytona Spider Conversion,None,1972,None,None,2150000.0,1919642.857142857
+Packard,905 Twin Six Coupe Roadster,None,1932,None,None,1325000.0,1183035.714285714
+Mercedes-Benz,280SL Roadster,None,1969,None,None,105000.0,93749.99999999999
+BMW,507 Roadster,None,1959,None,None,4950000.0,4419642.857142856
+Porsche,356A Coupe,None,1957,None,None,1125000.0,1004464.2857142856
+Porsche,718 RSK Center Seat,None,1959,None,None,13250000.0,11830357.142857142
+Jaguar,XJ220,None,1993,None,None,1325000.0,1183035.714285714
+Chrysler,California Ghia Hardtop,None,1958,None,None,1125000.0,1004464.2857142856
+Ferrari,400 Superamerica Coupe Aerodinamico,None,1963,None,None,10250000.0,9151785.714285713
+Porsche,911 GT2 RS,None,2011,None,None,325000.0,290178.5714285714
+Porsche,356 SC Cabriolet,None,1965,None,None,325000.0,290178.5714285714
+Porsche,356C Cabriolet,None,1964,None,None,385000.0,343749.99999999994
+Porsche,356C Coupe,None,1964,None,None,325000.0,290178.5714285714
+Mercedes-Benz,SLR McLaren 722 S McLaren Edition Roadster,None,2009,None,None,3250000.0,2901785.714285714
+Ferrari,275 GTB/4,None,1967,None,None,132500000.0,118303571.42857142
+Ferrari,Dino 246 GTS,None,1973,None,None,1325000.0,1183035.714285714
+Edsel,Citation Convertible,None,1958,None,None,1125000.0,1004464.2857142856
+Mercedes-Benz,300SL Gullwing,None,1957,None,None,132500000.0,118303571.42857142
+Ford,VPJ Ford Indy Car,None,1969,None,None,1850000.0,1651785.714285714
+Lamborghini,Miura P400 S,None,1969,None,None,3250000.0,2901785.714285714
+Porsche,911 GT3 RS,None,2008,None,None,185000.0,165178.57142857142
+Porsche,911 Carrera RS 2.7 Lightweight,None,1973,None,None,3250000.0,2901785.714285714
+Ford,GT Heritage Edition,None,2006,None,None,495000.0,441964.2857142857
+Porsche,911 S/T,None,2024,None,None,385000.0,343749.99999999994
+Imperial,Crown Convertible,None,1960,None,None,132500.0,118303.57142857142
+Ferrari,330 GTC,None,1968,None,None,1985000.0,1772321.4285714284
+Pontiac,GTO Custom Hardtop,None,1967,None,None,1125000.0,1004464.2857142856
+Ford,Fairlane 500 Skyliner,None,1957,None,None,132500.0,118303.57142857142
+Pontiac,Bonneville Convertible,None,1958,None,None,132500.0,118303.57142857142
+DeTomaso,Pantera GT5-S,None,1987,None,None,385000.0,343749.99999999994
+Ford,Bronco Custom,None,1973,None,None,82500.0,73660.71428571428
+Chevrolet,Corvette Fuelie Convertible,None,1962,None,None,132500.0,118303.57142857142
+Ford,Fairlane 500 Hardtop,None,1964,None,None,132500.0,118303.57142857142
+Rolls-Royce,Silver Cloud III Saloon,None,1964,None,None,215000.0,191964.2857142857
+MG,TD Roadster,None,1953,None,None,29500.0,26339.28571428571
+Ferrari,SF90 Spider,None,2025,None,None,625000.0,558035.7142857142
+Chevrolet,Corvette L88 Convertible,None,1969,None,None,3250000.0,2901785.714285714
+Ford,Mustang Custom Fastback,None,1965,None,None,102500.0,91517.85714285713
+Mercedes-Benz,220B Cabriolet,None,1952,None,None,198500.0,177232.14285714284
+Sunbeam,Alpine MkI Roadster,None,1954,None,None,198500.0,177232.14285714284
+Shelby,GT500KR Convertible,None,1968,None,None,1325000.0,1183035.714285714
+Chevrolet,Impala SS Convertible,None,1963,None,None,132500.0,118303.57142857142
+Mercedes-Benz,280SL Pagoda Convertible,None,1970,None,None,132500.0,118303.57142857142
+Mercedes-Benz,300SL Roadster,None,1959,None,None,1985000.0,1772321.4285714284
+McLaren,GT,None,2021,None,None,235000.0,209821.42857142855
+Dodge,Charger R/T Hardtop,None,1970,None,None,198500.0,177232.14285714284
+Porsche,911 GT3 RS,None,2011,None,None,285000.0,254464.28571428568
+Dodge,Challenger SRT Demon Pair Offering,None,2018,None,None,495000.0,441964.2857142857
+Chevrolet,Corvette Fuelie Convertible,None,1960,None,None,198500.0,177232.14285714284
+Ford,Hi-Boy Custom Roadster,None,1932,None,None,115000.0,102678.57142857142
+Mercedes-Benz,AMG GT Black Series P One Edition,None,2021,None,None,725000.0,647321.4285714285
+Dodge,Challenger SRT Demon,None,2018,None,None,132500.0,118303.57142857142
+Plymouth,Satellite Hardtop,None,1969,None,None,38500.0,34375.0
+Mercedes-Benz,SLS AMG GT Final Edition Roadster,None,2015,None,None,495000.0,441964.2857142857
+Lamborghini,Huracán EVO Spyder,None,2020,None,None,215000.0,191964.2857142857
+Chevrolet,Camaro RS Z28,None,1972,None,None,82500.0,73660.71428571428
+Porsche,356B Super,None,1963,None,None,132500.0,118303.57142857142
+Ford,Mustang Fastback,None,1967,None,None,185000.0,165178.57142857142
+Volkswagen,Type II Kombi Bus,None,1965,None,None,67500.0,60267.85714285714
+Shelby,GT500 Fastback,None,1967,None,None,1325000.0,1183035.714285714
+Packard,633 Standard Eight Phaeton,None,1929,None,None,132500.0,118303.57142857142
+Porsche,Boxster RS 60 Spyder,None,2008,None,None,67500.0,60267.85714285714
+Plymouth,Road Runner,None,1970,None,None,132500.0,118303.57142857142
+Mercedes-Benz,560SL Convertible,None,1989,None,None,29500.0,26339.28571428571
+Porsche,911 Turbo Coupe,None,1996,None,None,165000.0,147321.42857142855
+Porsche,911 Turbo Cabriolet,None,2024,None,None,245000.0,218749.99999999997
+Chevrolet,Corvette Custom Coupe,None,1967,None,None,132500.0,118303.57142857142
+BMW,M5,None,1988,None,None,115000.0,102678.57142857142
+Jensen,Interceptor III Convertible,None,1976,None,None,132500.0,118303.57142857142
+Cadillac,Series 452 V-16 Sport Phaeton,None,1930,None,None,3850000.0,3437499.9999999995
+Cadillac,Series 452 V-16 Convertible Coupe,None,1930,None,None,1325000.0,1183035.714285714
+Duesenberg,Model J Sweep Panel Dual Cowl Phaeton,None,1932,None,None,13250000.0,11830357.142857142
+Ford,Mustang Custom Fastback,None,1968,None,None,112500.0,100446.42857142857
+Chevrolet,Corvette Convertible,None,1967,None,None,1325000.0,1183035.714285714
+Chevrolet,Corvette Split Window Coupe,None,1963,None,None,165000.0,147321.42857142855
+Ford,F100 Custom Pickup,None,1956,None,None,132500.0,118303.57142857142
+Chevrolet,Corvette Convertible,None,2024,None,None,72000.0,64285.71428571428
+Chevrolet,Corvette Convertible,None,1957,None,None,198500.0,177232.14285714284
+Mercedes-Benz,S65 Sedan,None,2010,None,None,42500.0,37946.428571428565
+Ford,Shelby GT500 Super Snake Coupe,None,2012,None,None,132500.0,118303.57142857142
+Chevrolet,Corvette Convertible,None,1965,None,None,198500.0,177232.14285714284
+Mercedes-Benz,GT Black Series,None,2021,None,None,385000.0,343749.99999999994
+Porsche,911 GT2 RS Coupe,None,2019,None,None,385000.0,343749.99999999994
+Porsche,911 Speedster,None,2019,None,None,285000.0,254464.28571428568
+Acura,NSX,None,1995,None,None,67500.0,60267.85714285714
+Chevrolet,Camaro,None,1969,None,None,52500.0,46874.99999999999
+Ford,Mustang Custom Convertible,None,1968,None,None,132500.0,118303.57142857142
+Ford,Custom Woody,None,1950,None,None,325000.0,290178.5714285714
+Jaguar,E-Type Series I Roadster,None,1965,None,None,165000.0,147321.42857142855
+Chevrolet,Cameo Pickup,None,1955,None,None,132500.0,118303.57142857142
+Harley-Davidson,11F,None,1915,None,None,185000.0,165178.57142857142
+Harley-Davidson,6-A Single,None,1910,None,None,185000.0,165178.57142857142
+Vincent,Black Shadow,None,1950,None,None,385000.0,343749.99999999994
+BMW,R63,None,1929,None,None,72000.0,64285.71428571428
+BMW,R32,None,1924,None,None,185000.0,165178.57142857142
+Chevrolet,Camaro,None,1969,None,None,85000.0,75892.85714285713
+Shelby,GT350 Fastback,None,1969,None,None,198500.0,177232.14285714284
+Chevrolet,Corvette Roadster,None,1954,None,None,132500.0,118303.57142857142
+Ford,Thunderbird E-Code Convertible,None,1957,None,None,132500.0,118303.57142857142
+Chevrolet,C10 Pickup,None,1971,None,None,72500.0,64732.14285714285
+Porsche,914-6 Targa,None,1970,None,None,165000.0,147321.42857142855
+BMW,CS Coupe,None,1972,None,None,132500.0,118303.57142857142
+DeTomaso,Pantera,None,1971,None,None,165000.0,147321.42857142855
+Chevrolet,Corvette LS6 Convertible,None,1971,None,None,385000.0,343749.99999999994
+Vincent,Black Shadow,None,1954,None,None,185000.0,165178.57142857142
+Indian,Twin With Sidecar,None,1917,None,None,85000.0,75892.85714285713
+Harley-Davidson,Twin,None,1914,None,None,165000.0,147321.42857142855
+Flanders,Flanders 4,None,1911,None,None,28500.0,25446.42857142857
+Indian,Tri-Car,None,1907,None,None,185000.0,165178.57142857142
+Jaguar,E-Type Series I Roadster,None,1967,None,None,132500.0,118303.57142857142
+BMW,Isetta 600 Limousine,None,1958,None,None,52000.0,46428.57142857143
+Oldsmobile,442,None,1966,None,None,38500.0,34375.0
+Harley-Davidson,FHAD 3 Bar Hillclimber,None,1928,None,None,132500.0,118303.57142857142
+Harley-Davidson,Board Track Racer,None,1924,None,None,385000.0,343749.99999999994
+Porsche,911 Carrera 4S Coupe,None,1996,None,None,105500.0,94196.42857142857
+Chevrolet,Caprice Hardtop,None,1969,None,None,38500.0,34375.0
+Chevrolet,C10 Custom Pickup,None,1968,None,None,112500.0,100446.42857142857
+Ford,Mustang GTA Convertible,None,1967,None,None,48500.0,43303.57142857143
+Jaguar,E-Type Series I Fixed Head Coupe,None,1966,None,None,132500.0,118303.57142857142
+Porsche,911 Carrera 2,None,1997,None,None,72000.0,64285.71428571428
+Dodge,Challenger SRT Demon,None,2018,None,None,115000.0,102678.57142857142
+Volkswagen,Type II Bus,None,1973,None,None,82500.0,73660.71428571428
+Chevrolet,Corvette Convertible,None,1956,None,None,1325000.0,1183035.714285714
+Ford,EarthRoamer Xpedition XV-LTS Motorhome,None,2018,None,None,385000.0,343749.99999999994
+Volkswagen,Type II 23-Window Deluxe Bus,None,1957,None,None,165000.0,147321.42857142855
+Porsche,911 Carrera,None,1974,None,None,215000.0,191964.2857142857
+BMW,750iL Sedan,None,2001,None,None,8500.0,7589.285714285714
+Ford,Bronco Kindred,None,1967,None,None,185000.0,165178.57142857142
+Edsel,Corsair Convertible,None,1959,None,None,38500.0,34375.0
+Porsche,Turbo S Cabriolet,None,2019,None,None,185500.0,165624.99999999997
+Ford,Shelby GT500 Heritage Edition Coupe,None,2022,None,None,132500.0,118303.57142857142
+Plymouth,Belvedere Hardtop,None,1957,None,None,132500.0,118303.57142857142
+Porsche,911 Coupe,None,1974,None,None,165000.0,147321.42857142855
+Chevrolet,Corvette Coupe,None,1970,None,None,82500.0,73660.71428571428
+Chevrolet,Corvette Convertible,None,1963,None,None,165000.0,147321.42857142855
+Chevrolet,Corvette LS6 Coupe,None,1971,None,None,198500.0,177232.14285714284
+Ford,Custom Pickup,None,1940,None,None,72500.0,64732.14285714285
+Ford,Dearborn Deuce 75th Anniversary Hi-Boy Roadster,None,1932,None,None,112500.0,100446.42857142857
+Porsche,930 Turbo,None,1979,None,None,375000.0,334821.4285714285
+Chevrolet,Bel Air Convertible,None,1957,None,None,385000.0,343749.99999999994
+Jaguar,E-Type Series I Roadster,None,1967,None,None,132500.0,118303.57142857142
+Chevrolet,Corvette Convertible,None,1966,None,None,275000.0,245535.71428571426
+Land Rover,109 Series IIA,None,1967,None,None,185000.0,165178.57142857142
+Porsche,LMK 917K Replica,None,1970,None,None,425000.0,379464.2857142857
+Superformance,GT40 MkI Replica,None,1966,None,None,198500.0,177232.14285714284
+Dodge,Dart,None,1970,None,None,82500.0,73660.71428571428
+Cadillac,Series 62,None,1959,None,None,72500.0,64732.14285714285
+DeTomaso,Pantera,None,1972,None,None,165000.0,147321.42857142855
+Ferrari,212 Inter 2+2 Berlina,None,1951,None,None,3850000.0,3437499.9999999995
+Chevrolet,Camaro Convertible,None,1968,None,None,82500.0,73660.71428571428
+Dodge,Challenger Black Ghost,None,2023,None,None,112500.0,100446.42857142857
+Mercedes-Benz,280SE 3.5 Coupe,None,1971,None,None,82500.0,73660.71428571428
+Mercedes-Benz,280SE 3.5 Coupe,None,1971,None,None,82500.0,73660.71428571428
+Auburn,851SC,None,1935,None,None,4850000.0,4330357.142857143
+Duesenberg,Model J LaGrande Blind Quarter Brougham,None,1929,None,None,13250000.0,11830357.142857142
+BMW,M3 Coupe,None,1995,None,None,38500.0,34375.0
+Chevrolet,Impala SS Convertible,None,1962,None,None,165000.0,147321.42857142855
+Ferrari,458 Spider,None,2015,None,None,198500.0,177232.14285714284
+N/A,Von Arx Special Custom Roadster,None,1940,None,None,1325000.0,1183035.714285714
+Chevrolet,Impala Custom Bubble Top,None,1961,None,None,325000.0,290178.5714285714
+Porsche,356A Coupe,None,1958,None,None,165000.0,147321.42857142855
+Lincoln,Cosmopolitan Club Coupe,None,1951,None,None,132500.0,118303.57142857142
+Packard,Custom Coupe,None,1949,None,None,165000.0,147321.42857142855
+Dodge,D2 Business Coupe,None,1936,None,None,38500.0,34375.0
+Ferrari,360 Spider,None,2003,None,None,102500.0,91517.85714285713
+Jaguar,E-Type Series II Roadster,None,1970,None,None,132500.0,118303.57142857142
+Packard,745 Deluxe Eight Dietrich Convertible Sedan,None,1930,None,None,1325000.0,1183035.714285714
+Ferrari,Dino 246 GT,None,1972,None,None,1125000.0,1004464.2857142856
+Porsche,930 Turbo Coupe,None,1978,None,None,215000.0,191964.2857142857
+Ford,Shelby GT-H,None,2022,None,None,85000.0,75892.85714285713
+Ford,Shelby GT-H 50th Anniversary,None,2016,None,None,48500.0,43303.57142857143
+Ford,Shelby GT-H Convertible,None,2007,None,None,38500.0,34375.0
+Ford,Shelby GT-H,None,2006,None,None,38500.0,34375.0
+Ford,Mustang SVT Cobra 10th Anniversary Convertible,None,2003,None,None,38500.0,34375.0
+Shelby,GT350H Fastback,None,1966,None,None,165000.0,147321.42857142855
+Lamborghini,Gallardo,None,2006,None,None,85000.0,75892.85714285713
+Porsche,911 Strosek Mega Widebody Speedster,None,1994,None,None,385000.0,343749.99999999994
+DeTomaso,Pantera Custom,None,1974,None,None,325000.0,290178.5714285714
+Chevrolet,Impala Convertible,None,1959,None,None,132500.0,118303.57142857142
+Jaguar,E-Type Series I Fixed Head Coupe,None,1965,None,None,132500.0,118303.57142857142
+Mercedes-Benz,190SL Convertible,None,1962,None,None,165000.0,147321.42857142855
+Austin-Healey,3000 MkI BT7 Roadster,None,1960,None,None,132500.0,118303.57142857142
+Austin-Healey,3000 MkIII BJ8 Convertible,None,1967,None,None,132500.0,118303.57142857142
+Mercedes-Benz,AMG GT S Coupe,None,2016,None,None,92000.0,82142.85714285713
+Bentley,Mulsanne Sedan,None,2012,None,None,115000.0,102678.57142857142
+Dodge,Viper GTS Coupe,None,2002,None,None,165000.0,147321.42857142855
+Dodge,Charger Custom,None,1970,None,None,325000.0,290178.5714285714
+Dodge,Challenger SRT Demon 170,None,2023,None,None,132500.0,118303.57142857142
+Chevrolet,Corvette L88 Coupe,None,1967,None,None,3850000.0,3437499.9999999995
+Dodge,Power Wagon Pickup,None,1952,None,None,48500.0,43303.57142857143
+Pontiac,GTO,None,1965,None,None,72500.0,64732.14285714285
+Porsche,Macan S,None,2018,None,None,34500.0,30803.571428571424
+Lamborghini,Espada,None,1974,None,None,165000.0,147321.42857142855
+Ford,Hi-Boy Roadster,None,1932,None,None,45000.0,40178.57142857143
+Ford,Roadster,None,N/A,None,None,82500.0,73660.71428571428
+Austin-Healey,100 BN2 Roadster,None,1956,None,None,132500.0,118303.57142857142
+Chevrolet,Business Coupe,None,1938,None,None,165000.0,147321.42857142855
+Porsche,911S Coupe,None,1973,None,None,385000.0,343749.99999999994
+Volkswagen,Type II Custom,None,1966,None,None,72500.0,64732.14285714285
+Dodge,Challenger SRT Demon,None,2018,None,None,115000.0,102678.57142857142
+Ferrari,550 Maranello,None,2000,None,None,215000.0,191964.2857142857
+GMC,100 Pickup,None,1949,None,None,38500.0,34375.0
+Chevrolet,Corvette Fuelie Convertible,None,1962,None,None,198500.0,177232.14285714284
+Chevrolet,Chevelle SS Convertible,None,1971,None,None,132500.0,118303.57142857142
+Ducati,750SS Green Frame,None,1974,None,None,132500.0,118303.57142857142
+Triumph,X75 Hurricane,None,1973,None,None,132500.0,118303.57142857142
+Ferrari,Dino 246 GT,None,1972,None,None,725000.0,647321.4285714285
+Rolls-Royce,Phantom,None,2004,None,None,115000.0,102678.57142857142
+Sunbeam,Tiger Convertible,None,1965,None,None,72500.0,64732.14285714285
+Dodge,Challenger SRT Demon 170,None,2023,None,None,132500.0,118303.57142857142
+Chevrolet,COPO Camaro,None,2015,None,None,132500.0,118303.57142857142
+Cadillac,Series 62,None,1956,None,None,82500.0,73660.71428571428
+Dodge,Challenger SRT Demon 170,None,2023,None,None,165000.0,147321.42857142855
+Jaguar,E-Type Series I Fixed Head Coupe,None,1966,None,None,275000.0,245535.71428571426
+Maserati,GranTurismo Convertible,None,2015,None,None,48500.0,43303.57142857143
+Lincoln,Continental Mark II Sport Coupe,None,1956,None,None,385000.0,343749.99999999994
+Ford,Model T,None,1927,None,None,38500.0,34375.0
+Dodge,Charger King Daytona,None,2023,None,None,102500.0,91517.85714285713
+Mazda,RX-7 Convertible,None,1988,None,None,28500.0,25446.42857142857
+Chevrolet,Corvette Convertible,None,1963,None,None,132500.0,118303.57142857142
+Oldsmobile,Super 88 Convertible,None,1957,None,None,72500.0,64732.14285714285
+Pontiac,Trans Am,None,1975,None,None,38500.0,34375.0
+Aston Martin,Vantage,None,2012,None,None,48500.0,43303.57142857143
+Ford,Thunderbird Convertible,None,1957,None,None,82500.0,73660.71428571428
+Chevrolet,Camaro Convertible,None,1969,None,None,38500.0,34375.0
+Factory Five,Shelby Daytona Replica Coupe,None,1965,None,None,82500.0,73660.71428571428
+Chevrolet,Corvette Coupe,None,1973,None,None,72500.0,64732.14285714285
+N/A,Custom Speedster Replica,None,1955,None,None,28500.0,25446.42857142857
+Fiat,Jolly Conversion Roadster,None,1978,None,None,38500.0,34375.0
+Dodge,Charger King Daytona,None,2023,None,None,102500.0,91517.85714285713
+Ford,Model T Custom Truck,None,1923,None,None,1125000.0,1004464.2857142856
+Chevrolet,C10 Pickup,None,1973,None,None,48500.0,43303.57142857143
+Mercedes-Benz,500E Sedan,None,1993,None,None,38500.0,34375.0
+Triumph,TR3 Roadster,None,1960,None,None,38500.0,34375.0
+Plymouth,PD Deluxe Convertible Coupe,None,1933,None,None,38500.0,34375.0
+Chevrolet,Corvette Race Car,None,1962,None,None,1125000.0,1004464.2857142856
+Chevrolet,Impala Bubble Top,None,1961,None,None,72500.0,64732.14285714285
+Excelsior,Twin Board Track Racer,None,1912,None,None,1325000.0,1183035.714285714
+Harley-Davidson,EL Panhead,None,1948,None,None,82500.0,73660.71428571428
+Harley-Davidson,WLD Sport Solo,None,1942,None,None,132500.0,118303.57142857142
+Porsche,911 Carrera S Coupe,None,1998,None,None,132500.0,118303.57142857142
+Lincoln,Continental Mark II Sport Coupe,None,1957,None,None,275000.0,245535.71428571426
+Porsche,356A Coupe,None,1957,None,None,115000.0,102678.57142857142
+Porsche,911 Targa 4S,None,2008,None,None,82500.0,73660.71428571428
+Ford,Thunderbird Convertible,None,1956,None,None,115000.0,102678.57142857142
+Dodge,Coronet R/T,None,1968,None,None,82500.0,73660.71428571428
+Rolls-Royce,Corniche Convertible,None,1982,None,None,132500.0,118303.57142857142
+Honda,CT70,None,1970,None,None,8500.0,7589.285714285714
+Honda,CT70,None,1994,None,None,3200.0,2857.142857142857
+Honda,Z50,None,1967,None,None,14500.0,12946.42857142857
+Honda,Z50R,None,1982,None,None,3200.0,2857.142857142857
+Harley-Davidson,BA,None,1928,None,None,28500.0,25446.42857142857
+Ossa,Phantom 250,None,1974,None,None,38500.0,34375.0
+Triumph,Bonneville TT Special,None,1964,None,None,18500.0,16517.85714285714
+Triumph,Bonneville TT Special,None,1966,None,None,11500.0,10267.857142857141
+Bultaco,Model 136 Mk8,None,1974,None,None,38500.0,34375.0
+Bultaco,Model 86 Mk5,None,1971,None,None,28500.0,25446.42857142857
+Ford,Hi-Boy Roadster,None,1932,None,None,82500.0,73660.71428571428
+Jeep,Wrangler Unlimited Rubicon 392,None,2022,None,None,67500.0,60267.85714285714
+Chevrolet,210 Sedan,None,1956,None,None,72500.0,64732.14285714285
+Ford,Hi-Boy Street Rod,None,1932,None,None,72500.0,64732.14285714285
+BMW,M Coupe,None,2000,None,None,38500.0,34375.0
+Volkswagen,Beetle,None,1967,None,None,38500.0,34375.0
+Volkswagen,Type II Camper Bus,None,1969,None,None,38500.0,34375.0
+Buick,Invicta,None,1959,None,None,38500.0,34375.0
+Dodge,Viper GTS Coupe,None,1997,None,None,102500.0,91517.85714285713
+Chevrolet,Impala SS Hardtop,None,1963,None,None,82500.0,73660.71428571428
+Chevrolet,Camaro Z28,None,1978,None,None,38500.0,34375.0
+Chevrolet,210 Hardtop,None,1956,None,None,132500.0,118303.57142857142
+Dodge,Charger,None,1968,None,None,48500.0,43303.57142857143
+Chevrolet,Camaro,None,1969,None,None,38500.0,34375.0
+Volkswagen,Type II Bus,None,1969,None,None,38500.0,34375.0
+Chevrolet,Chevelle,None,1968,None,None,38500.0,34375.0
+Chevrolet,Camaro,None,1969,None,None,38500.0,34375.0
+Chevrolet,Chevelle SS,None,1968,None,None,112500.0,100446.42857142857
+Chevrolet,Chevelle SS,None,1966,None,None,165000.0,147321.42857142855
+Dodge,Challenger Shakedown,None,2023,None,None,48500.0,43303.57142857143
+Ford,3-Window Coupe,None,1932,None,None,82500.0,73660.71428571428
+Porsche,911 Turbo,None,2004,None,None,132500.0,118303.57142857142
+Datsun,280Z Black Pearl Edition,None,1978,None,None,38500.0,34375.0
+Chevrolet,Camaro,None,1969,None,None,48500.0,43303.57142857143
+Chevrolet,Camaro Convertible,None,1967,None,None,38500.0,34375.0
+Chevrolet,C10 Pickup,None,1968,None,None,67500.0,60267.85714285714
+Honda,S2000 Convertible,None,2005,None,None,29500.0,26339.28571428571
+Chevrolet,Corvette Custom Coupe,None,2007,None,None,42500.0,37946.428571428565
+Pontiac,Trans Am,None,1982,None,None,125000.0,111607.14285714284
+Pontiac,Bonneville Convertible,None,1961,None,None,82500.0,73660.71428571428
+Ford,Mustang Fastback,None,1968,None,None,38500.0,34375.0
+Mercedes-Benz,SL63 AMG Convertible,None,2011,None,None,38500.0,34375.0
+Ford,C700 Custom Ramp Truck,None,1972,None,None,42500.0,37946.428571428565
+Lincoln,Continental Town Coupe,None,1977,None,None,18500.0,16517.85714285714
+Ford,Shelby GT500KR,None,2009,None,None,72500.0,64732.14285714285
+Chevrolet,Corvette Convertible,None,1962,None,None,105000.0,93749.99999999999
+Mercury,Eight Custom Convertible,None,1940,None,None,132500.0,118303.57142857142
+Ford,Super Deluxe Convertible,None,1947,None,None,38500.0,34375.0
+Ford,Torino,None,1970,None,None,38500.0,34375.0
+Pontiac,GTO,None,1970,None,None,82500.0,73660.71428571428
+Harley-Davidson,FL Duo-Glide,None,1959,None,None,38500.0,34375.0
+Pontiac,GTO Convertible,None,1969,None,None,82500.0,73660.71428571428
+Cadillac,Series 62 Convertible,None,1949,None,None,132500.0,118303.57142857142
+Studebaker,Avanti R2 Coupe,None,1963,None,None,82500.0,73660.71428571428
+Jaguar,XK120 SE Roadster,None,1953,None,None,132500.0,118303.57142857142
+Ford,Mustang Coupe,None,1965,None,None,38500.0,34375.0
+Ford,Mustang Fastback,None,1970,None,None,38500.0,34375.0
+Dodge,Super Bee,None,1969,None,None,67500.0,60267.85714285714
+Ford,Mustang Coupe,None,1966,None,None,38500.0,34375.0
+Ford,Thunderbird Hardtop,None,1959,None,None,52500.0,46874.99999999999
+Volkswagen,Beetle Ragtop Sedan,None,1960,None,None,28500.0,25446.42857142857
+Datsun,620 Pickup,None,1975,None,None,18500.0,16517.85714285714
+Rolls-Royce,Silver Cloud III Saloon,None,1965,None,None,165000.0,147321.42857142855
+Dodge,W200 Power Wagon Pickup,None,1963,None,None,38500.0,34375.0
+Ford,Torino Cobra Fastback,None,1969,None,None,82500.0,73660.71428571428
+Chevrolet,Camaro RS/SS Convertible,None,1967,None,None,67500.0,60267.85714285714
+Ford,Custom Coupe,None,1937,None,None,82500.0,73660.71428571428
+Lancia,Flavia,None,1967,None,None,38500.0,34375.0
+Chevrolet,C10 Pickup,None,1968,None,None,38500.0,34375.0
+Chevrolet,Camaro,None,1967,None,None,38500.0,34375.0
+Aston Martin,DB9 Volante,None,2005,None,None,48500.0,43303.57142857143
+Jeep,Wrangler Unlimited Rubicon 392,None,2022,None,None,67500.0,60267.85714285714
+Fiat,500 Giardiniera Station Wagon,None,1963,None,None,18500.0,16517.85714285714
+Ferrari,Mondial T Cabriolet,None,1990,None,None,72000.0,64285.71428571428
+Jeep,CJ-7,None,1977,None,None,28500.0,25446.42857142857
+Kawasaki,Rickman Kawasaki Z1,None,1975,None,None,38500.0,34375.0
+Kawasaki,Z1A 900,None,1974,None,None,165000.0,147321.42857142855
+Harley-Davidson,VR1000 Race Bike,None,1994,None,None,185000.0,165178.57142857142
+Harley-Davidson,FL,None,1959,None,None,38500.0,34375.0
+Ford,Shelby GT350,None,2016,None,None,48500.0,43303.57142857143
+Nash,Metropolitan Convertible,None,1957,None,None,18500.0,16517.85714285714
+Ford,Thunderbird Convertible,None,1963,None,None,72500.0,64732.14285714285
+Chevrolet,Corvette Grand Sport Coupe,None,2012,None,None,67500.0,60267.85714285714
+Porsche,911 Carrera,None,2009,None,None,38500.0,34375.0
+N/A,Custom Replica Speedster,None,1955,None,None,18500.0,16517.85714285714
+Ford,Phaeton,None,1935,None,None,82500.0,73660.71428571428
+Fiat,124 Special Sedan,None,1973,None,None,13500.0,12053.571428571428
+Chevrolet,Camaro RS,None,1968,None,None,38500.0,34375.0
+Aston Martin,Vantage S Roadster,None,2012,None,None,72500.0,64732.14285714285
+Ford,Mustang GT Convertible,None,1969,None,None,67500.0,60267.85714285714
+Chevrolet,Corvette Coupe,None,2012,None,None,38500.0,34375.0
+Porsche,911 Carrera Cabriolet,None,2001,None,None,67500.0,60267.85714285714
+Chevrolet,Silverado C20 Pickup,None,1975,None,None,28500.0,25446.42857142857
+Ford,Roadster Pickup,None,1934,None,None,42500.0,37946.428571428565
+Chevrolet,Chevelle,None,1970,None,None,82500.0,73660.71428571428
+Pontiac,GTO,None,1967,None,None,82500.0,73660.71428571428
+Chevrolet,Camaro,None,1968,None,None,38500.0,34375.0
+Chevrolet,Chevelle,None,1972,None,None,28500.0,25446.42857142857
+N/A,Continental Mark II Hardtop,None,1956,None,None,385000.0,343749.99999999994
+Chevrolet,Chevelle Coupe,None,1967,None,None,48500.0,43303.57142857143
+Chevrolet,Camaro,None,1968,None,None,38500.0,34375.0
+Chevrolet,Bel Air,None,1956,None,None,38500.0,34375.0
+Land Rover,Defender 110,None,1988,None,None,38500.0,34375.0
+Chevrolet,Camaro RS,None,1968,None,None,38500.0,34375.0
+Hummer,H1,None,1997,None,None,38500.0,34375.0
+Chevrolet,Corvette ZR1 Coupe,None,1992,None,None,72500.0,64732.14285714285
+AMC,Rambler American 440 Convertible,None,1965,None,None,38500.0,34375.0
+Chevrolet,Corvette Convertible,None,1968,None,None,72500.0,64732.14285714285
+Dodge,Polara,None,1964,None,None,82500.0,73660.71428571428
+DeTomaso,Pantera,None,1973,None,None,132500.0,118303.57142857142
+Toyota,FJ-40 Land Cruiser SUV,None,1970,None,None,67500.0,60267.85714285714
+Citroen,SM Fastback Coupe,None,1973,None,None,42000.0,37500.0
+Chevrolet,C10 Custom Pickup,None,1968,None,None,115000.0,102678.57142857142
+Maserati,Quattroporte Sedan,None,1985,None,None,42500.0,37946.428571428565
+Chevrolet,Camaro Pace Car Edition Convertible,None,2011,None,None,38500.0,34375.0
+Chevrolet,Blazer Custom Deluxe,None,1988,None,None,48500.0,43303.57142857143
+Volkswagen,Beetle,None,1970,None,None,14500.0,12946.42857142857
+Chevrolet,Corvette Coupe,None,1969,None,None,112500.0,100446.42857142857
+Ford,Deluxe Coupe,None,1940,None,None,82500.0,73660.71428571428
+BMW,M5 Sedan,None,2000,None,None,38500.0,34375.0
+Dodge,Depot Hack,None,1920,None,None,72500.0,64732.14285714285
+MG,A 1500 Roadster,None,1957,None,None,28500.0,25446.42857142857
+Jeep,Commander,None,1972,None,None,28500.0,25446.42857142857
+Chevrolet,Impala Hardtop,None,1964,None,None,28500.0,25446.42857142857
+Mercedes-Benz,380SL Convertible,None,1984,None,None,18500.0,16517.85714285714
+BMW,i8,None,2014,None,None,38500.0,34375.0
+Chevrolet,Camaro Z28 1LE,None,1991,None,None,38500.0,34375.0
+Ford,Tudor Sedan,None,1934,None,None,38500.0,34375.0
+Mercedes-Benz,CLS63 AMG Sedan,None,2013,None,None,28500.0,25446.42857142857
+Chevrolet,Nomad Wagon,None,1957,None,None,72500.0,64732.14285714285
+Chevrolet,1500 Pickup,None,1993,None,None,28500.0,25446.42857142857
+Chrysler,Newport Convertible,None,1962,None,None,28500.0,25446.42857142857
+Mercedes-Benz,300TD Wagon,None,1984,None,None,38500.0,34375.0
+Chevrolet,K10 Custom Deluxe Pickup,None,1975,None,None,38500.0,34375.0
+Ford,Mustang SVT Cobra Convertible,None,1995,None,None,38500.0,34375.0
+Pontiac,Solstice Convertible,None,2009,None,None,8500.0,7589.285714285714
+Ford,Mustang GT Convertible,None,2007,None,None,18500.0,16517.85714285714
+Chevrolet,Corvette Custom Drag Racer,None,N/A,None,None,112500.0,100446.42857142857
+AM General,Hummer H1,None,1999,None,None,38500.0,34375.0
+Ford,Model T Speedster,None,1923,None,None,18500.0,16517.85714285714
+Bentley,Brooklands,None,1996,None,None,42500.0,37946.428571428565
+Excalibur,Series IV Phaeton,None,1984,None,None,72000.0,64285.71428571428
+Ford,GPW Jeep,None,1942,None,None,42000.0,37500.0
+Ford,Mustang Custom Convertible,None,1965,None,None,72500.0,64732.14285714285
+Jeep,J10 Pioneer Pickup,None,1974,None,None,38500.0,34375.0
+Ford,Thunderbird Convertible,None,1964,None,None,29500.0,26339.28571428571
+Chevrolet,Fleetline Custom Sedan,None,1950,None,None,38500.0,34375.0
+Mercedes-Benz,SL500 Convertible,None,2006,None,None,18500.0,16517.85714285714
+Indian,Roadmaster,None,2016,None,None,18500.0,16517.85714285714
+Chevrolet,Camaro Z28 Convertible,None,1987,None,None,38500.0,34375.0
+Ford,F150 XLT Lariat Pickup,None,1991,None,None,13500.0,12053.571428571428
+Harley-Davidson,WL With Sidecar,None,1951,None,None,28500.0,25446.42857142857
+Aston Martin,DB9 Volante Carbon Edition,None,2015,None,None,115000.0,102678.57142857142
+BSA,A7 Shooting Star Daytona Race Bike,None,1954,None,None,1125000.0,1004464.2857142856
+Bentley,Continental Flying Spur Speed,None,2010,None,None,72500.0,64732.14285714285
+Triumph,Triton,None,1960,None,None,18500.0,16517.85714285714
+Suzuki,GSX1000S Katana,None,1982,None,None,18500.0,16517.85714285714
+Ducati,996 Biposto,None,1999,None,None,13500.0,12053.571428571428
+Citroen,DS19A Pallas,None,1967,None,None,28500.0,25446.42857142857
+Ford,Mustang Boss 302 Fastback,None,1970,None,None,132500.0,118303.57142857142
+Plymouth,Satellite Hardtop,None,1966,None,None,28500.0,25446.42857142857
+Ford,Super Deluxe Coupe,None,1947,None,None,38500.0,34375.0
+Triumph,T120R Bonneville,None,1970,None,None,11500.0,10267.857142857141
+Triumph,T120R Bonneville,None,1964,None,None,18500.0,16517.85714285714
+Triumph,TR6R Trophy,None,1970,None,None,18500.0,16517.85714285714
+Triumph,TR25W Flat Track Racer,None,1966,None,None,28500.0,25446.42857142857
+Cadillac,XLR Convertible,None,2006,None,None,18500.0,16517.85714285714
+Pontiac,Catalina Hardtop,None,1964,None,None,28500.0,25446.42857142857
+Chevrolet,Bel Air Hardtop,None,1957,None,None,38500.0,34375.0
+Honda,CB1,None,1989,None,None,4200.0,3749.9999999999995
+Harley-Davidson,FLH Electra Glide,None,1968,None,None,28500.0,25446.42857142857
+Harley-Davidson,WL,None,1941,None,None,28500.0,25446.42857142857
+Harley-Davidson,Sportster XL883R,None,2002,None,None,7200.0,6428.5714285714275
+Harley-Davidson,Dyna Glide Sturgis,None,1991,None,None,14500.0,12946.42857142857
+BMW,750Li Sedan,None,2011,None,None,18500.0,16517.85714285714
+Jeep,Wrangler Unlimited Sport S,None,2016,None,None,38500.0,34375.0
+Plymouth,Belvedere Hardtop,None,1967,None,None,38500.0,34375.0
+Chevrolet,Avalanche LTZ,None,2007,None,None,13850.0,12366.071428571428
+Mazda,RX-8 Grand Touring Coupe,None,2011,None,None,18500.0,16517.85714285714
+Honda,Z50 Custom,None,1968,None,None,8500.0,7589.285714285714
+Harley-Davidson,Electra Glide,None,2006,None,None,8500.0,7589.285714285714
+Bultaco,Astro 350,None,1973,None,None,28500.0,25446.42857142857
+Yamaha,GT80,None,1979,None,None,3200.0,2857.142857142857
+Schwinn,"Sting-Ray ""Pea Picker"" Bicycles, Lot Of 2",None,N/A,None,None,450.0,401.7857142857142
+Schwinn,"Sting-Ray ""Grey Ghost"" Bicycle",None,1971,None,None,1250.0,1116.0714285714284
+N/A,"Schwinn Sting-Ray ""Cotton Picker"" Bicycle",None,1971,None,None,350.0,312.49999999999994
+Schwinn,"Sting-Ray ""Cotton Picker"" Bicycle",None,1970,None,None,450.0,401.7857142857142

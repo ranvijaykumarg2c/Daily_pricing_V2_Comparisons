@@ -1,0 +1,517 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+90f6a359-9a2c-4ffa-8b6c-2d562173f888,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 1,USD,6000,10000,6400,5333.33,6000,10000,6400,5333.33,Louise Fishman,1939,2021,"Untitled,",painting,oil on linen,<NA>,10,8,in,yes,yes,no,1994,"Provenance:
+Robert Miller Gallery, New York
+Cheim & Read, New York
+Acquired from the above by the present owner","abstract, gray, texture",None,None,"Louise Fishman 
+ (American, 1939-2021) 
+ Untitled,  1994 
+ oil on linen 
+ signed  Louise Fishman  and dated (verso) 
+ 8 x 10 inches. 
+ Property from a Distinguished Private Collection, Florida 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174859/medium_378549-8_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/1,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,2025-11,gpt-4.1-mini,8500.0,7083.333333333334
+5c4fa6ff-3df2-4764-b5d3-22f188bd5640,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 2,USD,80000,120000,83050,69208.33,80000,120000,83050,69208.33,Ken Price,1935,2012,Boo,ceramics,fired and painted clay,<NA>,13,12.5,in,no,yes,yes,2007,"Provenance:
+Marc Selwyn Fine Art, Beverly Hills, California
+Acquired from the above by the present owner","sculpture, clay, abstract form, colorful pattern, mountain shape",None,None,"Ken Price 
+ (American, 1935-2012) 
+ Boo,  2007 
+ fired and painted clay 
+ 
+ 12 1/2 x 13 inches. 
+ Property from a Distinguished Private Collection, Florida 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174875/medium_378549-3_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/2,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,105000.0,87500.0
+af5040a8-2ebf-437e-bc20-ecd30b77c8c8,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 3,USD,15000,25000,20480,17066.67,15000,25000,20480,17066.67,Wolfgang Tillmans,1968,<NA>,Paper Drop-Haze,photographs,c-print,<NA>,16,12,in,yes,yes,yes,2011,<NA>,"abstract, shape, light, shadow, smooth surface, metallic, gradient, minimalist, photography",None,None,"Wolfgang Tillmans 
+ (German, b. 1968) 
+ Paper Drop-Haze ,  2011 
+ c-print 
+ signed  Wolfgang Tillmans , titled and numbered 2/10 (verso) 
+ 12 x 16 inches. 
+ Property from a Distinguished Private Collection, Florida 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3175003/medium_378549-9_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/3,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,21000.0,17500.0
+6df7a57a-e692-48b7-a79d-3224408b9574,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 4,USD,30000,50000,25600,21333.33,30000,50000,25600,21333.33,Kehinde Wiley,1977,<NA>,Likunt Daniel Ailin (The World Stage: Israel),drawing,oil wash on paper,<NA>,29,40,in,yes,yes,yes,2011,<NA>,"man, green striped shirt, hills, landscape, foliage, brown leaves, cityscape, portrait",None,None,"Kehinde Wiley 
+ (American, b. 1977) 
+ Likunt Daniel Ailin (The World Stage: Israel),  2011 
+ oil wash on paper 
+ signed  Kehinde Wiley  and dated (lower right) 
+ 40 x 29 inches. 
+ Property from a Distinguished Private Collection, Florida 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3175177/medium_378549-5_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/4,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,42000.0,35000.0
+6145bb40-302f-4d49-9b7c-363e4f616686,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 5,USD,150000,250000,127500,106250.0,150000,250000,127500,106250.0,Charline von Heyl,1960,<NA>,Untitled,painting,acrylic and oil on linen,<NA>,50,60,in,yes,yes,no,2007,"Provenance:
+Friedrich Petzel Gallery, New York
+Acquired from the above by the present owner in 2007
+
+Lot essay:
+
+“I will run with the painting, like it’s a dog on a leash, chasing and almost falling behind it. That is also the space where I forget myself, where painting becomes something that I don’t control, neither emotionally nor intellectually” - Charline von Heyl (J. Farago, “An Interview with Charline von Heyl”, Even Magazine, no. 7, 2017, online).
+
+Charline von Heyl’s painting practice occupies a crucial place in contemporary art for its rigorous investigation of what painting can be and do in the twenty-first century. Eschewing both pure abstraction and traditional figuration, von Heyl creates works that resist easy categorization. Her paintings unfold as nuanced visual events—layered, contradictory, and dynamic—challenging viewers to experience rather than interpret them. This resistance to fixity is central to her practice: von Heyl redefines painting as a process of continuous becoming rather than a static image.
+
+A distinctive feature of von Heyl’s oeuvre is her steadfast engagement with the history of painting while refusing nostalgia. She draws upon the legacies of Cubism, Pop, Abstract Expressionism, and Op Art, yet transforms these influences into something distinctly her own. Her surfaces often contain traces of erasure, overpainting, and disruption, revealing the tension between intention and accident. In doing so, von Heyl exposes the act of painting as a form of thinking—an active dialogue between intuition, intellect, and the materiality of the work itself.
+
+Von Heyl’s practice also expands the possibilities of abstraction. Rather than treating abstraction as a language of purity or transcendence, she treats it as a site of play, contradiction, and psychological charge. Her images—at once seductive and disorienting—invite viewers to navigate multiple registers of visual and emotional experience. This sense of instability and openness mirrors contemporary life, making her work both timely and timeless.
+
+Ultimately, Charline von Heyl’s practice lies in her refusal to allow painting to settle into complacency. She reaffirms painting’s capacity to surprise, to question perception, and to sustain complexity in an age dominated by instant images and digital proliferation. Her work demonstrates that painting, far from obsolete, remains one of the most vital forms of critical and imaginative inquiry.","abstract, black shapes, beige background, dynamic lines, layered forms, calligraphic elements, conceptual composition, visual tension, non-figurative, bold contrasts",None,None,"Charline von Heyl 
+ (German, b. 1960) 
+ Untitled , 2007 
+ acrylic and oil on linen 
+ signed  Charline von Heyl , titled and dated (verso) 
+ 60 x 50 inches. 
+ Property from a Distinguished Private Collection, Florida 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174908/medium_378549-6_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/5,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,210000.0,175000.0
+7f7f5446-5048-48bb-851a-f4a0f1383545,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 6,USD,150000,250000,<NA>,<NA>,150000,250000,<NA>,<NA>,Amy Sillman,1955,<NA>,"Untitled,",painting,oil on canvas,<NA>,49,51,in,yes,yes,no,2014,<NA>,"abstract, geometric shapes, colors, orange, teal, blue, gray, black, white",None,None,"Amy Sillman 
+ (American, b. 1955) 
+ Untitled,  2014 
+ oil on canvas 
+ signed  Amy Sillman , titled and dated (verso) 
+ 51 x 49 inches. 
+ Property from a Distinguished Private Collection, Florida 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174879/medium_378549-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/6,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,195000.0,162500.0
+b66b71db-7c97-4b01-8691-ab5f944c9418,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 7,USD,10000,15000,25600,21333.33,10000,15000,25600,21333.33,Louise Bourgeois,1911,2010,Untitled,drawing,pencil on paper,<NA>,11,9,in,yes,yes,no,1998,<NA>,"spiral, lines, oval, drawing, pencil, abstract, pattern, monochrome, geometry",None,None,"Louise Bourgeois 
+ (German/American, 1911-2010) 
+ Untitled,  1998 
+ pencil on paper 
+ initialed  LB  (lower right) 
+ 9 x 11 inches. 
+ Property from a Distinguished Private Collection, Florida 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174893/medium_378549-7_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/7,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+78256501-9b2d-4a2d-a474-ec91f564740f,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 8,USD,10000,15000,6000,5000.0,10000,15000,6000,5000.0,Jennifer Bartlett,1941,2022,Black 6'' Squares Series #6,mixed media,enamel over screenprinted grid on baked enamel steel plates,<NA>,25,12,in,no,yes,yes,1972,"Provenance:
+The Artist
+Locks Gallery, Philadelphia
+Private Collection, New York
+
+Exhibited:
+Phillips New York, Innovation in American Art, June 29-August 9, 2023","grid, black squares, enamel, pattern, geometric shapes, baked enamel steel plates, dual panel",None,None,"Jennifer Bartlett 
+ (American, 1941–2022) 
+ Black 6'' Squares Series #6 , 1972  
+ enamel over screenprinted grid on baked enamel steel plates 
+ 
+ 12 x 25 inches 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3173358/medium_377545-5_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/8,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+61861e8c-6ad5-445e-8850-d13c92adb4dd,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 9,USD,20000,30000,12800,10666.67,20000,30000,12800,10666.67,Jennifer Bartlett,1941,2022,Black 6'' Squares Series #7,mixed media,enamel over screenprinted grid on baked enamel steel plates,<NA>,25,25,in,no,yes,yes,1972,<NA>,"black circles, grid pattern, geometric shapes, square, negative space, repetition, monochrome, abstract, layout, enamel",None,None,"Jennifer Bartlett 
+ (American, 1941–2022) 
+ Black 6'' Squares Series #7,  1972  
+ enamel over screenprinted grid on baked enamel steel plates 
+ 
+ 25 x 25 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3173364/medium_377545-3_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/9,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+4d0ba06c-8c7b-4dd8-b231-83f64ca3688f,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 10,USD,20000,30000,<NA>,<NA>,20000,30000,<NA>,<NA>,Jennifer Bartlett,1941,2022,Positive Negative Series #4,mixed media,enamel over screenprinted grid on baked enamel steel plates,<NA>,25,25,in,no,yes,yes,1971,<NA>,"grid, black dots, white space, pattern, symmetry",None,None,"Jennifer Bartlett 
+ (American, 1941–2022) 
+ Positive Negative Series #4 , 1971  
+ enamel over screenprinted grid on baked enamel steel plates 
+ 
+ 25 x 25 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3173376/medium_377545-4_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/10,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+8335aaae-2f64-46d3-a88c-f2759ac28032,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 11,USD,5000,7000,4480,3733.33,5000,7000,4480,3733.33,Enrico Castellani,1930,2017,Untitled,mixed media,embossed paper relief,<NA>,12.75,10.125,in,yes,yes,no,1980,<NA>,"embossed paper, relief, abstract, geometric, texture, pattern, white, raised shapes, minimalism, artist signature",None,None,"Enrico Castellani 
+ (Italian, 1930-2017) 
+ Untitled , 1980 
+ embossed paper relief 
+ signed  Castellani  and dated (lower right) 
+ 10 1/8 x 12 3/4 inches. 
+ Property from the Collection of Phyllis and Fred Pressman 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174458/medium_376730-16_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/11,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+ee8dcf9c-7761-43f5-be9a-78e1b256eb1e,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 12,USD,15000,25000,14080,11733.33,15000,25000,14080,11733.33,Leonard Nelson,1912,1993,Someday Never Comes,painting,oil and acrylic on canvas,<NA>,60,50,in,yes,yes,yes,1980,<NA>,"landscape, abstract, colors, hues, texture, blue, green, orange, red, gradient",None,None,"Leonard Nelson 
+ (American, 1912-1993) 
+ Someday Never Comes , 1980 
+ oil and acrylic on canvas 
+ signed  L. Nelson,  dated and stamped by the artist's estate (verso) 
+ 50 x 60 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3153271/medium_378271-2_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/12,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,19500.0,16250.0
+07776a6d-b7ec-485e-978e-13779931a6c5,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 13,USD,15000,25000,<NA>,<NA>,15000,25000,<NA>,<NA>,Leonard Nelson,1912,1993,It's Very Quiet,painting,oil and acrylic on canvas,<NA>,72.25,49.25,in,yes,yes,yes,1978,"Provenance:
+The Leonard Nelson Estate
+Findlay Galleries, Palm Beach
+Acquired from the above by the present owner in 2012","abstract, color gradient, orange, yellow, soft edges, landscape, light, texture, subtlety, minimalism",None,None,"Leonard Nelson 
+ (American, 1912-1993) 
+ It's Very Quiet , 1978-79 
+ oil and acrylic on canvas 
+ signed  L. Nelson,  dated, and stamped by the artist's estate (verso) 
+ 49 1/4 x 72 1/4 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3153264/medium_378271-1_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/13,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,21000.0,17500.0
+9daa05ca-a5f7-4307-8aab-7bbc6c7da5af,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 14,USD,15000,25000,48000,40000.0,15000,25000,48000,40000.0,March Avery,1932,<NA>,"Greek Cove,",painting,oil on canvas,<NA>,50,42,in,yes,yes,yes,1966,<NA>,"boat, water, rocks, sail, landscape, yellow, orange, gray, blue, shore",None,None,"March Avery 
+ (American, b. 1932) 
+ Greek Cove,  1966 
+ oil on canvas 
+ signed  March Avery  and dated (upper right); signed, titled and dated (to stretcher) 
+ 42 x 50 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174449/medium_377550-2_2.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/14,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+35fa1149-48dc-4be5-9098-530bcded3809,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 15,USD,8000,12000,8320,6933.33,8000,12000,8320,6933.33,Kei (Key) Sato,1906,1978,Lagune,mixed media,oil and mixed media,<NA>,35,45.5,in,yes,yes,yes,1964,<NA>,"abstract, landscape, textures, gold, brown, mixed media, water, reflective, atmospheric, surface",None,None,"Kei (Key) Sato 
+ (Japanese, 1906-1978) 
+ Lagune , 1964 
+ oil and mixed media on canvas 
+ signed  Key Sato  and dated (lower right); signed, titled and dated (verso) 
+ 45 1/2 x 35 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3169429/medium_378226-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/15,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,10500.0,8750.0
+1fd8ee99-2305-4f3e-b7c7-3ea51cc2f017,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 16,USD,10000,15000,12800,10666.67,10000,15000,12800,10666.67,Joseph Cornell,1903,1972,The Human Thermostat,mixed media,collage on board,<NA>,9,12,in,yes,yes,yes,1961,<NA>,"figure, water, boat, reeds, trees, clouds, landscape, reflection, outdoor, nature",None,None,"Joseph Cornell  
+ (American, 1903–1972) 
+ The Human Thermostat , c. 1961 
+ collage on board 
+ signed  Joseph Cornell  and titled (verso) 
+ 12 x 9 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174455/medium_377130-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/16,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+9498b3c1-1ac5-49cb-acd0-239eb2f5b0c2,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 17,USD,15000,25000,<NA>,<NA>,15000,25000,<NA>,<NA>,H.C. Westermann,1922,1981,Untitled,drawing,watercolor and ink on paper,<NA>,24,18,in,yes,yes,no,1976,<NA>,"landscape, mountains, rainbow, water, trees, American flag, figures, reflection, abstract shapes, silhouette",None,None,"H.C. Westermann 
+ (American, 1922-1981) 
+ Untitled , 1976 
+ watercolor and ink on paper 
+ signed  H.C. Westermann  and dated (lower right) 
+ 18 x 24 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171581/medium_378652-13_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/17,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+8d63289e-11d3-4a81-9164-3e24b435bd87,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 18,USD,20000,30000,21760,18133.33,20000,30000,21760,18133.33,Robert Colescott,1925,2009,Memories of a Land-Locked Sailor,painting,acrylic on paper,<NA>,30,42,in,yes,yes,yes,1990,<NA>,"man, two women, ship, ocean, land, portrait, tropical, clothing, expression, background",None,None,"Robert Colescott 
+ (American, 1925-2009) 
+ Memories of a Land-Locked Sailor , 1990 
+ acrylic on paper 
+ signed  R. Colescott , titled and dated (lower right) 
+ 42 x 30 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171578/medium_378652-4_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/18,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+d6b9c04c-019e-4515-a625-1238aa327167,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 19,USD,100000,150000,<NA>,<NA>,100000,150000,<NA>,<NA>,Jacob Lawrence,1917,2000,Time,painting,gouache on paper,<NA>,23.875,17.875,in,yes,yes,yes,1953,<NA>,"clock, flowers, mountains, leaves, table, geometric shapes, red, blue, yellow, black",None,None,"Jacob Lawrence 
+ (American, 1917-2000) 
+ Time , 1953 
+ gouache on paper 
+ signed  Jacob Lawrence  and dated (lower right); titled and dated (verso) 
+ 17 7/8 x 23 7/8 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171608/medium_378652-8_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/19,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,132500.0,110416.66666666667
+fb487060-991a-4d0d-b6da-ff77675b46e6,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 20,USD,250000,350000,254500,212083.33,250000,350000,254500,212083.33,Mickalene Thomas,1971,<NA>,The Inversion of Racquel #2,mixed media,rhinestones and acrylic on wood panel,<NA>,48,66.25,in,yes,yes,yes,2021,<NA>,"woman, rhinestones, acrylic, black and white, hair, clothing, jewelry, panel, texture, colors",None,None,"Mickalene Thomas 
+ (American, b. 1971) 
+ The Inversion of Racquel #2 , 2021 
+ rhinestones and acrylic on wood panel 
+ signed  M. Thomas , titled and dated (verso) 
+ 66 1/4 x 48 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174515/medium_377620-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/20,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,320000.0,266666.6666666667
+0e88edeb-fa30-44bf-84af-421da68a8f39,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 21,USD,150000,250000,<NA>,<NA>,150000,250000,<NA>,<NA>,Kehinde Wiley,1977,<NA>,Street Thug,painting,oil on canvas,<NA>,48,60,in,yes,yes,yes,2004,<NA>,"man, blue jacket, red background, gold cane, jersey, dark skin, floral patterns",None,None,"Kehinde Wiley  
+ (American, b. 1977) 
+ Street Thug,  2004 
+ oil on canvas in artist's frame 
+ signed  Kehinde Wiley  and dated (verso) 
+ 60 x 48 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3166276/medium_377501-2_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/21,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,210000.0,175000.0
+ccc3b6fb-b326-4fc5-8cef-563ca2dabcb4,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 22,USD,100000,200000,152900,127416.67,100000,200000,152900,127416.67,Fritz Scholder,1937,2005,Insane Indian no. 25,painting,acrylic on canvas,<NA>,54,68,in,yes,yes,yes,1972,<NA>,"man, face, red background, tribal elements, expression, costume, modern art, acrylic painting, cultural representation, portrait",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Insane Indian no. 25 , 1972 
+ acrylic on canvas 
+ signed  Scholder  (upper right); titled, dated and inscribed (verso) 
+ 68 x 54 inches 
+ Property from the Collection of Barbara Berger 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154284/medium_303789-1_2-edit-edit_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/22,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,185000.0,154166.6666666667
+775e7752-169b-4a1d-b747-46857eca1027,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 23,USD,50000,70000,54400,45333.33,50000,70000,54400,45333.33,Fritz Scholder,1937,2005,Indian on Blue,painting,acrylic on canvas,<NA>,30,40,in,yes,yes,yes,1979,<NA>,"man, portrait, blue background, ethnic clothing, facial features",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Indian on Blue,  c. 1979 
+ acrylic on canvas 
+ signed  Scholder  (lower right) 
+ 40 x 30 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174446/medium_378121-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/23,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+9c09de20-03b2-44f1-8e9b-2f55914d87df,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 24,USD,150000,250000,152900,127416.67,150000,250000,152900,127416.67,Alex Katz,1927,<NA>,Portrait of Al Held,painting,oil on linen,<NA>,48,35.125,in,yes,yes,yes,1963,"Provenance:
+Private Collection, New Jersey
+DC Moore Gallery, New York
+Acquired from the above by the present owner in 2002
+
+Exhibited:
+Salt Lake City, Utah, Utah Museum of Fine Arts, Alex Katz, January 7 - February 7, 1971 (reproduced in catalogue in B&W)
+San Diego, California, University of California, Alex Katz, February 22 - April 14, 1971
+Minneapolis, Minnesota, Minnesota Museum of Art, Alex Katz, July 16 - October 3, 1971
+Hartford, Connecticut, Wadsworth Atheneum, Alex Katz, November 10 - December 31, 1971
+New York, New York, Robert Miller Gallery, Alex Katz from the Early 60s, October 6 - October 31, 1987
+
+In Portrait of Al Held (1963), Alex Katz (American, b. 1927) balances familiarity and objectivity through his signature painting style and direct composition in order to create a striking portrait of his long-time friend and fellow artist Al Held (American, 1928-2005).
+
+The subject of more than 200 solo exhibitions and international acclaim, Alex Katz applies a deliberately vibrant visual language between realism and abstraction, ambivalence and intimacy. Coming of age alongside the titans of New York’s Abstract Expressionism of the 1950s, Katz favored flatness of color and form rather than gestural primacy and raw emotion. His work is deceptively simple; his technique of painting wet on wet evokes a lustrous finish to his canvases, defying two-dimensionality even in their flatness. 
+
+In terms of his thematic output, Katz is particular known for sharing his world, whether through hundreds of portraits of his wife of more than 60 years, Ada, his home in coastal Maine, or scenes and characters from downtown New York City among the cultural avant garde. This combination of immediacy and familiarity— flash-in-the-pan moments he captures in thick brushstrokes and meditatively stylized forms is clear in his depiction of Held.
+
+Katz and Held met during in New York during the mid-century, when they were each in their 20s. For a time, both artists had studios in the same building, and saw each other’s work often. Katz has said of Held’s paintings then that “I think Al did some of the best artwork
+on the planet at that time and I was very lucky to be near them.”[i] But, while Held focused primarily on abstraction, Katz continued to find the most meaning in figuration.
+
+As Katz has said:
+""Realist painting has to do with leaving out a lot of detail,” said Katz in an interview, “I think my painting can be a little shocking in all that it leaves out. But what happens is that the mind fills in what's missing. It's about being able to see something in a specific way. Painting is a way of making you see what I saw.""[ii]
+In this 1963 painting, Held, defined in surprisingly simplified forms in blues, browns, yellows, and whites. Without any tools of his trade, his blue-collared shirt, combed back hair, and direct eye contact, Katz illustrates Held not as a fellow artist but as an austere, stripped-back portrait of someone he knew well.
+
+[i] Juan Manuel Bonet, “Alex Katz: A Great Figurative Voice,” Electra, Issue 17, 2022. https://electramagazine.fundacaoedp.pt/en/editions/issue-17/alex-katz-great-figurative-voice.
+[ii] Aida Dunne, “I prefer Stan Getz to Sartre”, The Irish Times, March 3, 2007. https://www.irishtimes.com/news/i-prefer-stan-getz-to-sartre-1.1198117.","portrait, man, blue shirt, brown hair, direct gaze, neutral background, Al Held, 1963, oil painting",None,None,"Alex Katz 
+ (American, b. 1927) 
+ Portrait of Al Held , 1963 
+ oil on linen 
+ signed  Alex Katz  and dated (upper right) 
+ 35 1/8 x 48 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171564/medium_378652-6_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/24,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,215000.0,179166.6666666667
+2827a355-3786-45ba-afc9-998444a64d01,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 25,USD,60000,80000,51200,42666.67,60000,80000,51200,42666.67,Gertrude Abercrombie,1909,1977,Portrait of Eddie Millman,painting,oil on canvas,<NA>,30,40,in,yes,yes,yes,1936,<NA>,"portrait, man, red sweater, blue pants, sitting, hand, face, expressive features, background, 1930s",None,None,"Gertrude Abercrombie 
+ (American, 1909-1977) 
+ Portrait of Eddie Millman , 1936 
+ oil on canvas in original frame 
+ signed  Abercrombie  and dated (lower left); titled (verso) 
+ 40 x 30 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171614/medium_378652-1_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/25,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,72000.0,60000.0
+473f8b40-50b3-4bbd-bc2e-6a00dddb91e3,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 26,USD,50000,70000,44800,37333.33,50000,70000,44800,37333.33,David Bates,1952,<NA>,The Traders,painting,oil on canvas,<NA>,72,60,in,yes,yes,yes,1984,<NA>,"man, vase, horse, woman, antiques, pottery, wooden mask, table, cabinet, interior",None,None,"David Bates 
+ (American, b. 1952) 
+ The Traders , 1984 
+ oil on canvas 
+ signed  David Bates,  titled and dated (canvas overhang, verso) 
+ 60 x 72 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171547/medium_378652-10_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/26,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+d5370d33-b4da-471e-b94a-c2f197116d00,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 27,USD,6000,8000,7680,6400.0,6000,8000,7680,6400.0,Fritz Scholder,1937,2005,American Portrait with Blue,painting,acrylic on canvas,<NA>,30,40,in,yes,yes,yes,<NA>,<NA>,"portrait, blue face, teeth, eyes, abstract, black figure, canvas, acrylic, bold colors, expressive",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ American Portrait with Blue 
+ acrylic on canvas 
+ signed  Scholder  (lower right) 
+ 40 x 30 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3108334/medium_377384-1_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/27,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,7200.0,6000.0
+435989a1-9df9-422f-9703-496cc4f8d1fe,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 28,USD,30000,50000,23040,19200.0,30000,50000,23040,19200.0,Fritz Scholder,1937,2005,"Dad's Flowers #3,",painting,oil on canvas,<NA>,67,79.5,in,yes,yes,yes,1982,<NA>,"flower, pink petals, green leaves, oil painting, still life",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Dad's Flowers #3,  1982 
+ oil on canvas 
+ signed  Scholder  (upper right); titled and dated (to stretcher) 
+ 79 1/2 x 67 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3031175/medium_376946-2_02.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/28,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,42000.0,35000.0
+727560da-1c72-4f55-a80c-c72fec36e703,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 29,USD,100000,150000,108450,90375.0,100000,150000,108450,90375.0,"Dame Elisabeth Frink, R.A.",1930,1993,"Wild Boar, 1957",sculpture,bronze with gray green patina,<NA>,<NA>,36.75,in,yes,yes,yes,1957,<NA>,"wild boar, bronze, sculpture, patina",None,None,"Dame Elisabeth Frink, R.A. 
+ (British, 1930-1993) 
+ Wild Boar,  1957 
+ bronze with gray green patina 
+ incised  Frink  and numbered 1/4 
+ Height: 36 3/4 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3173162/medium_377536-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/29,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,132500.0,110416.66666666667
+b2b01838-c5d5-42fe-8f2f-3cb68596915c,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 30,USD,30000,50000,32000,26666.67,30000,50000,32000,26666.67,Fritz Scholder,1937,2005,Indian Woman Roasting Dog,painting,oil on canvas,<NA>,52,56,in,yes,yes,yes,<NA>,<NA>,"woman, dog, cooking, pink background, Native American attire, yellow circle, abstract, oil painting, figure with hat, traditional activity",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Indian Woman Roasting Dog 
+ oil on canvas 
+ signed  Scholder  (upper left); signed and titled (to overhang verso) 
+ 56 x 52 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3031173/medium_376946-1_02.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/30,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,43500.0,36250.0
+e3262ece-69e8-4b46-951a-10a7b20e87bf,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 31,USD,50000,70000,60800,50666.67,50000,70000,60800,50666.67,Fritz Scholder,1937,2005,Half Breed,painting,oil on canvas,<NA>,30,40,in,yes,yes,yes,1977,<NA>,"figure, striped blanket, gun, hat, colorful, silhouette, standing",None,None,"Fritz Scholder 
+ (Luiseño, 1937-2005) 
+ Half Breed,  1977 
+ oil on canvas 
+ signed  Scholder  (lower right); titled and dated (overhang verso) 
+ 40 x 30 inches. 
+ Property from the Collection of William and Marilyn Jolitz 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3154990/medium_377525-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/31,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+96668c10-b77f-46c6-9f39-4682d3d477ba,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 32,USD,15000,25000,16640,13866.67,15000,25000,16640,13866.67,Philip Hanson,1943,<NA>,Shell Robe,painting,oil on board,<NA>,18,23.875,in,no,yes,yes,1976,<NA>,"woman, shell robe, blue hair, waves, abstract patterns",None,None,"Philip Hanson 
+ (American, b. 1943) 
+ Shell Robe , c. 1976 
+ oil on board in artist's painted frame 
+ 
+ 23 7/8 x 18 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171587/medium_378652-5_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/32,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,21000.0,17500.0
+0e4e5ef2-1c68-4f83-8c1d-7f214cf92e0f,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 33,USD,30000,50000,<NA>,<NA>,30000,50000,<NA>,<NA>,Philip Pearlstein,1924,2022,Mercury and Accordion II,painting,watercolor on paper,<NA>,40,59.5,in,yes,yes,yes,1993,"Provenance:
+Hill Gallery, Birmingham, Michigan
+Betty Cuningham Gallery, New York
+Sold: 45th Collector's Show and Sale, Arkansas Art Center
+Russell Bowman Art Advisory, Chicago
+Acquired from the above by the present owner in 2014
+
+Exhibited:
+Arkansas Art Center, 45th Collector's Show and Sale, December 6, 2013 - January 5, 2014","nude women, sculpture, accordion, feet, indoor setting, patterned rug, sitting figures, art objects, relaxing poses, still life",None,None,"Philip Pearlstein 
+ (American, 1924-2022) 
+ Mercury and Accordion II , 1993 
+ watercolor on paper 
+ signed  Pearlstein  and dated (lower right) 
+ 59 1/2 x 40 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171586/medium_378652-12_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/33,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,42000.0,35000.0
+7e669d2e-a30e-4c05-8695-163d83501604,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 34,USD,120000,180000,<NA>,<NA>,120000,180000,<NA>,<NA>,Philip Pearlstein,1924,2022,"Two Models with Empire State Building, Night",painting,oil on canvas,<NA>,60,70,in,yes,yes,yes,1992,<NA>,"two models, Empire State Building, nighttime, NYC, oil on canvas, male figure, female figure, interior, reflections, clothing",None,None,"Philip Pearlstein 
+ (American, 1924-2022) 
+ Two Models with Empire State Building, Night , 1992 
+ oil on canvas  
+ signed  Pearlstein  and dated (lower center) 
+ 70 x 60 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171573/medium_378652-11_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/34,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,165000.0,137500.0
+cd40abd1-ad99-4bd6-a332-926cccf7ce6d,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 35,USD,18000,25000,20480,17066.67,18000,25000,20480,17066.67,Christo,1935,2020,Wrapped Reichstag,mixed media,mixed media on card laid to board,<NA>,11,14,in,yes,yes,yes,1992,<NA>,"Reichstag, mixed media, map, project proposal, architecture, black and white, grid, German flag, urban landscape, drawing",None,None,"Christo 
+ (Bulgarian, 1935-2020) 
+ Wrapped Reichstag,  1992 
+ mixed media on card laid to board 
+ signed  Christo  and dated (lower left); titled (center); signed (verso) 
+ 14 x 11 inches. 
+ 
+ This lot is located in Philadelphia.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3169430/medium_378530-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/35,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+acce776a-77cd-45ee-8e3e-784c4aba1e06,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 36,USD,8000,12000,<NA>,<NA>,8000,12000,<NA>,<NA>,Thomas Chimes,1921,2009,The Recalcitrant Din (Memorial Hall),painting,oil on linen,<NA>,24,20.375,in,yes,yes,yes,1984,<NA>,"abstract, landscape, soft color, haze, ethereal",None,None,"Thomas Chimes 
+ (American, 1921-2009) 
+ The Recalcitrant Din (Memorial Hall),  1984 
+ oil on linen 
+ signed  Chimes , titled, dated and dedicated (lower edge); titled and dated (to stretcher) 
+ 20 3/8 x 24 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168007/medium_378572-2_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/36,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,10500.0,8750.0
+35142ab5-2824-4ce0-ac75-59410de955cf,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 37,USD,15000,25000,<NA>,<NA>,15000,25000,<NA>,<NA>,Thomas Chimes,1921,2009,Waterfall,painting,oil on canvas,<NA>,72,66,in,yes,yes,yes,1980,<NA>,"waterfall, rainbow, clouds, river, mist, landscape",None,None,"Thomas Chimes 
+ (American, 1921-2009) 
+ Waterfall , 1980 
+ oil on canvas 
+ signed  Chimes , titled and dated (to stretcher) 
+ 66 x 72 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3168003/medium_378572-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/37,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,21000.0,17500.0
+25e01594-073d-4407-ad6c-6610bd4a83be,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 38,USD,30000,50000,21760,18133.33,30000,50000,21760,18133.33,Kazuo Shiraga,1924,2008,Taki,painting,oil on canvas,<NA>,8.5,10.75,in,yes,yes,yes,1970,<NA>,"abstract, blue, yellow, brushstrokes, oil painting, canvas, texture, color",None,None,"Kazuo Shiraga 
+ (Japanese, 1924–2008) 
+ Taki,  c. 1970s 
+ oil on canvas 
+ signed in Japanese (lower left) 
+ 10 3/4 x 8 1/2 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174451/medium_377501-3_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/38,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,42000.0,35000.0
+0e990f29-843d-4130-a74d-538bf15f691a,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 39,USD,10000,15000,12160,10133.33,10000,15000,12160,10133.33,Bryan Hunt,1947,<NA>,Bastion,sculpture,bronze on limestone base,16,32,47,in,yes,yes,yes,1981,<NA>,"bronze sculpture, limestone base, abstract form, vertical structure, textured surface",None,None,"Bryan Hunt 
+ (American, b. 1947) 
+ Bastion , 1981 
+ bronze on limestone base 
+ incised  B. Hunt , dated, numbered 3/4, and stamped with foundry mark 
+ 47 x 32 x 16 inches. 
+ Property from the Minneapolis College of Art and Design, Sold to Benefit Student Scholarships",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3174556/medium_378325-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/39,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,13500.0,11250.0
+c5c0279e-60aa-4038-b481-c6c2d2b53964,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 40,USD,60000,80000,127500,106250.0,60000,80000,127500,106250.0,Bernar Venet,1941,<NA>,Two Arcs of 236.5° Each,sculpture,rolled steel with black patina,<NA>,<NA>,54.5,in,no,yes,yes,1988,<NA>,"sculpture, rolled steel, arcs, black patina, angles, geometric shapes",None,None,"Bernar Venet 
+ (French, b. 1941) 
+ Two Arcs of 236.5° Each , 1988 
+ rolled steel with black patina 
+ title stamped to both arcs 
+ Height: 54 1/2 inches. 
+ Property from the Estate of Henry and Marlene Shatkin, Northfield, Illinois 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3137590/medium_375254-48_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/40,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,72000.0,60000.0
+6c96dcec-5931-406b-b745-e465e54b6ba1,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 41,USD,50000,70000,70350,58625.0,50000,70000,70350,58625.0,Alexander Calder,1898,1976,Untitled,drawing,paint and ink on paper,<NA>,30,22.25,in,yes,yes,no,1970,<NA>,"spiral, red shape, blue circle, yellow circle, black spiral, white circle, abstract shapes, ink, paint",None,None,"Alexander Calder 
+ (American, 1898-1976) 
+ Untitled , 1970 
+ paint and ink on paper 
+ initialed  CA  (lower right) 
+ 22 1/4 x 30 inches. 
+ 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3173386/medium_377098-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/41,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+043e3a78-dae6-48da-ab0e-d037e54926ab,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 42,USD,6000,8000,10880,9066.67,6000,8000,10880,9066.67,Hans Hofmann,1880,1966,Untitled,drawing,gouache on paper laid to board,<NA>,10.25,13.5,in,yes,yes,no,1954,<NA>,"abstract shapes, red lines, blue circles, yellow circles, green wave, pink form, brushstrokes",None,None,"Hans Hofmann 
+ (German, 1880-1966) 
+ Untitled , 1954 
+ gouache on paper laid to board 
+ signed  Hans Hofmann  and dated (lower right) 
+ 13 9/16 x 10 1/4 inches. 
+ Property from the Collection of Phyllis and Fred Pressman 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3152443/medium_376732-18_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/42,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,7200.0,6000.0
+59bb19ba-6d59-464d-834a-ea3998ea13f8,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 43,USD,10000,15000,14080,11733.33,10000,15000,14080,11733.33,George McNeil,1908,1995,Demonstrative Disco,painting,oil on canvas,<NA>,64,78,in,yes,yes,yes,1986,<NA>,"figures, abstract forms, colors, patterns, movement, dance, shapes, hands, faces, clothing",None,None,"George McNeil 
+ (American, 1908-1995) 
+ Demonstrative Disco , 1986 
+ oil on canvas 
+ signed  McNeil  and dated (lower right); signed, titled, dated and inscribed (verso) 
+ 78 x 64 inches. 
+ 
+ This lot is located in Chicago.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3171606/medium_378652-9_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/43,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+3711f5b1-5c25-4e8a-b51c-a1a9de4dfbc5,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 44,USD,60000,80000,50000,41666.67,60000,80000,50000,41666.67,Sam Gilliam,1933,2022,The Marks (diptych),mixed media,acrylic on canvas with collage,6,26,51.5,in,yes,yes,yes,1970,"Provenance:
+The Artist
+William Weege, Wisconsin
+Thence by descent within the family
+
+Exhibited:
+Chicago, Corbett vs. Dempsey, Sam Gilliam: Driftless, March 17 - April 29, 2023","diptych, acrylic, canvas, abstract, color, collage, texture, pattern, landscape",None,None,"Sam Gilliam 
+ (American, 1933-2022) 
+ The Marks  (diptych) ,  late 1970s 
+ acrylic on canvas with collage 
+ signed  Sam Gilliam  and titled (right panel, verso); signed and titled (left panel, verso stretcher) 
+ Each: 51 1/2 x 26 x 6 inches. 
+ Property from the Estate of William Weege 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3175438/medium_375654-171_1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/44,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,72000.0,60000.0
+e3ce4c51-2500-400a-a52d-d995b26c9d4a,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 45,USD,100000,150000,197350,164458.33,100000,150000,197350,164458.33,Sam Gilliam,1933,2022,Dorothy's Mondays,mixed media,collage and acrylic on canvas,<NA>,65,54,in,yes,yes,yes,1977,<NA>,"collage, acrylic, canvas, abstract, geometric shapes, black triangle, colorful textures, mixed media, layers, bold colors",None,None,"Sam Gilliam  
+ (American, 1933-2022) 
+ Dorothy's Mondays , 1977 
+ collage and acrylic on canvas 
+ signed  Sam Gilliam , titled and dated (verso) 
+ 54 x 65 inches. 
+ Property from an Important Private Collection, Silver Spring, Maryland",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3173385/medium_377569-1_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/45,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,135000.0,112500.0
+9c341150-c571-4fe4-9a5a-34c332e9223d,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 46,USD,300000,400000,<NA>,<NA>,300000,400000,<NA>,<NA>,Mark Bradford,1961,<NA>,Untitled (a set of 3 works),mixed media,mixed media on paper,<NA>,54,37,in,yes,yes,no,2007,<NA>,"text, abstraction, mixed media, patterns, color blocks, layering, letters, contemporary art, collage, surface texture",None,None,"Mark Bradford 
+ American, b. 1961 
+ Untitled  (a set of 3 works), 2007 
+ mixed media on paper 
+ each signed and dated (verso) 
+ Largest: 37 x 54 inches. 
+ Property from a Distinguished Private Collection, New York 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3184171/medium_377587-1_0.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/46,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,375000.0,312500.0
+cee9892a-39a8-414b-acfa-fd85c213c808,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 47,USD,10000,15000,12160,10133.33,10000,15000,12160,10133.33,Mel Bochner,1940,2025,Crazy,prints,"monoprint with collage, engraving, and embossment on hand-dyed Twinrocker handmade paper",<NA>,9,12,in,yes,yes,yes,2018,<NA>,"text, colors, abstract, collage, monoprint",None,None,"Mel Bochner 
+ (American, 1940-2025) 
+ Crazy , 2018 
+ monoprint with collage, engraving, and embossment on hand-dyed Twinrocker handmade paper 
+ signed and dated in pencil 
+ 12 x 9 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181672/medium_376953-5_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/47,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,13500.0,11250.0
+c2d4b348-0559-4cf7-b557-62fdafa13507,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 48,USD,40000,60000,48000,40000.0,40000,60000,48000,40000.0,Ed Ruscha,1937,<NA>,"Mysteries, 2021",prints,color lithograph on Entrada paper,<NA>,30,30.75,in,yes,yes,yes,2021,<NA>,"text, mysteries, color, red, abstract",None,None,"Ed Ruscha 
+ (American, b. 1937) 
+ Mysteries,  2021 
+ color lithograph on Entrada paper 
+ signed, dated, and numbered 24/75 in pencil 
+ 30 3/4 x 30 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181684/medium_376953-2_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/48,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+9885f905-00ca-44bf-9b38-82b3bd528a14,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 49,USD,6000,8000,7040,5866.67,6000,8000,7040,5866.67,Christo,1935,2020,"Wrapped Motorcycle/Side Car – Project for Harley Davidson 1933 VL Model,",mixed media,"lithograph with collage of broadcloth, polyethylene, twine and pencil additions",<NA>,22,19,in,yes,yes,yes,1997,<NA>,"motorcycle, sidecar, collage, twine, broadcloth, polyethylene, pencil, wrapped, drawing",None,None,"Christo 
+  (Bulgarian, 1935-2020) 
+ Wrapped Motorcycle/Side Car – Project for Harley Davidson 1933 VL Model,  1997 
+ lithograph with collage of broadcloth, polyethylene, twine and pencil additions 
+ signed and numbered 4/6 in pencil 
+ 19 x 22 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181654/medium_376953-12_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/49,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,7200.0,6000.0
+0b60e642-ea8d-448b-87d8-8df3b106302f,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 50,USD,30000,50000,54400,45333.33,30000,50000,54400,45333.33,Andy Warhol,1928,1987,Black Bean Soup (from Campbell's Soup I),prints,screenprint,<NA>,23,35,in,yes,yes,yes,1968,<NA>,"soup can, Campbell's, black bean soup, red, white, logo, label, gold seal, text, graphic design, food",None,None,"Andy Warhol 
+ (American, 1928-1987) 
+ Black Bean Soup  (from  Campbell's Soup I ), 1968 
+ screenprint 
+ signed in ballpoint pen and numbered 234/250 with a rubber stamp, verso 
+ Sheet: 35 x 23 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3179172/medium_376953-4_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/50,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,42000.0,35000.0
+a0e33fba-fcba-4595-ad87-2103b2e2e59a,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 51,USD,7000,9000,8320,6933.33,7000,9000,8320,6933.33,Ellsworth Kelly,1923,2015,Red Curve (Radius of 8’),prints,lithograph with embossing,<NA>,33.75,43,in,yes,yes,yes,1973,<NA>,"red curve, lithograph, embossing, geometric shape, color field, abstract composition",None,None,"Ellsworth Kelly 
+ (American, 1923-2015) 
+ Red Curve (Radius of 8’),  1973-75 
+ lithograph with embossing 
+ signed and numbered 14/50 in pencil 
+ Sheet: 43 x 33 3/4 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181659/medium_376953-11_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/51,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+66b5078c-2837-46c8-95d4-e4b81ebd4cb7,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 53,USD,8000,12000,14080,11733.33,8000,12000,14080,11733.33,Alex Katz,1927,<NA>,"Coca-Cola Girl 7,",prints,screenprint on Saunders Waterford 425gsm paper,<NA>,40,40,in,yes,yes,yes,2019,"Provenance:
+Kenneth A. Friedman & Co., Calabasas, California
+Acquired from the above by the present owner in 2022","woman, white swimsuit, blonde hair, red background, legs, arm, sitting pose",None,None,"Alex Katz 
+ (American, b. 1927) 
+ Coca-Cola Girl 7,  2019 
+ screenprint on Saunders Waterford 425gsm paper  
+ signed and numbered 54/60 in pencil 
+ 40 x 40 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181663/medium_376953-9_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/53,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,10500.0,8750.0
+7ec21089-ec73-413d-88cc-26ca9a134b7e,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 54,USD,8000,12000,10240,8533.33,8000,12000,10240,8533.33,Tom Wesselmann,1931,2004,New Bedroom Blonde Doodle,prints,screenprint in colors on Arches 88 paper,<NA>,27,24.5,in,yes,yes,yes,1991,<NA>,"woman, abstract shapes, colorful lines, blonde hair, body, lips, floral elements, geometric border",None,None,"Tom Wesselmann 
+ (American, 1931-2004) 
+ New Bedroom Blonde Doodle,  1991 
+ screenprint in colors on Arches 88 paper 
+ signed and numbered HC 11/12 in pencil 
+ 24 1/2  x 27 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181689/medium_376953-10_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/54,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,10500.0,8750.0
+011afa44-6b4b-4f67-956c-1070e8cde6aa,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 55,USD,40000,60000,48000,40000.0,40000,60000,48000,40000.0,Andy Warhol,1928,1987,Ingrid Bergman With Hat (from Ingrid Bergman),prints,color screenprint on Lenox Museum Board,<NA>,38,38,in,yes,yes,yes,1983,<NA>,"woman, hat, portrait, blonde hair, blue background, colorful, red lips",None,None,"Andy Warhol 
+ (American, 1928-1987) 
+ Ingrid Bergman  With Hat  (from  Ingrid Bergman ), 1983 
+ color screenprint on Lenox Museum Board 
+ signed and numbered 48/250 in pencil 
+ 38 x 38 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181680/medium_376953-3_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/55,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+a8110ab7-173f-4673-b78b-dfa7bc3a2ed8,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 56,USD,5000,7000,28800,24000.0,5000,7000,28800,24000.0,Leon Berkowitz,1911,1987,Window No. 6,painting,oil on canvas,<NA>,56.5,46.375,in,yes,yes,yes,1986,<NA>,"abstract, orange, purple, gradient, blue, color field, canvas, horizontal, soft edges, atmospheric",None,None,"Leon Berkowitz 
+ (American, 1911-1987) 
+ Window No. 6 , 1986 
+ oil on canvas 
+ signed  Leon Berkowitz , titled and dated (verso) 
+ 46 3/8 x 56 1/2 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181653/medium_376953-13_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/56,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+6312080e-3292-4bfb-87b0-8e7793eb69a8,Art,Hindman,6383,2025-11-14,New York,Sale 6383 - Post War and Contemporary Art,https://hindmanauctions.com/auctions/6383,Lot 57,USD,10000,15000,17920,14933.33,10000,15000,17920,14933.33,Helen Frankenthaler,1928,2011,"Southern Exposure, 2005",prints,screenprint in colors on Somerset paper,<NA>,37,30.5,in,yes,yes,yes,2005,<NA>,"orange, yellow, abstract, color fields",None,None,"Helen Frankenthaler 
+ (American, 1928-2011) 
+ Southern Exposure,  2005 
+ screenprint in colors on Somerset paper 
+ signed, dated, and numbered A.P. 19/20 in pencil 
+ 30 1/2 x 37 inches. 
+ Property from the Gary W. London, M.D. Trust 
+ This lot is located in New York.",https://d1oc7rwabkmy5g.cloudfront.net/uploads/published_image/the_image/3181668/medium_376953-6_1.jpg,https://freemansauction.com/auctions/6383-post-war-and-contemporary-art/lot/57,6602.99,22273.08,46245.41,23.43,63.16,3.62,None,nan,gpt-4.1-mini,13500.0,11250.0

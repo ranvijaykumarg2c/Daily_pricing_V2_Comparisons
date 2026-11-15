@@ -1,0 +1,1543 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+6ff636f0-70c6-47fe-8fc4-8ca309bbb74b,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 1,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled,prints,lithograph on paper,N/A,19.5,15.25,in,yes,yes,no,1950,"Husain, The Timeless Modernist
+, exhibition catalogue, New Delhi, 2024, p. 165 (another edition illustrated)","woman, horse, abstract shapes, figure, grayscale, color blocks, red, black, blue, patterns, lines",1,101/200,original,"Untitled
+signed and numbered 'Husain 101 /200' (lower right)
+lithograph on paper
+15
+1
+⁄
+4
+ x 19
+1
+⁄
+2
+ in. (38.7 x 49.5 cm.)
+Executed 
+circa 
+late 1950s; number one hundred and one from an edition of two hundred
+
+Edition: 101/200",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0001_000(maqbool_fida_husain_untitled030146).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-1/291101?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,2026-04,3288.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+bd5cb6c4-608f-4188-81c0-18e1e60d256e,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 2,USD,18000,25000,N/A,N/A,18000,25000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Seeru-Fil-Ard,drawing,watercolor and ink on paper,N/A,15,20.25,in,yes,yes,yes,1981,"Sotheby's New York, 16 September 2010, lot 49
+Acquired from the above by the present owner","horse, rider, figure, landscape, calligraphy, blue background, green accents, abstract shapes, sitting man, ink and watercolor",1,N/A,original,"Seeru-Fil-Ard
+signed and dated 'Husain '81' (lower right) and titled 'SEERU-FIL-ARD' (lower left)
+watercolor and ink on paper
+20
+1
+⁄
+4
+ x 15 in. (51.4 x 38.1 cm.)
+Executed in 1981",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0002_000(maqbool_fida_husain_seeru-fil-ard030153).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-2/291102?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,22750.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+d0c1be20-cdf9-4e02-a0b1-1f952cad3e74,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 3,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled (Moon Goddess),drawing,felt-tip pen on silver leaf laid on paper,N/A,13.5,9.5,in,yes,yes,no,N/A,"Private Collection, India
+Acquired from the above","moon goddess, figures, horses, boat, abstract, lines, curves, silver leaf, felt-tip pen, paper",1,N/A,original,"Untitled (Moon Goddess)
+signed in Hindi (lower right)
+felt-tip pen on silver leaf laid on paper
+9
+1
+⁄
+2
+ x 13
+1
+⁄
+2
+ in. (24.1 x 34.3 cm.) image; 11
+1
+⁄
+8
+ x 15 in. (28.3 x 38.1 cm.) sheet",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0003_000(maqbool_fida_husain_untitled030200).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-3/291103?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+94f7fabd-fa21-4ca8-8099-d82db7397552,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 4,USD,15000,20000,N/A,N/A,15000,20000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled (Chinese Scene),mixed media,mixed media on paper laid on board,N/A,19.625,21.625,in,yes,yes,no,1985,Acquired directly from the artist by the present owner,"lion, man, bridge, figure, water, yellow circle, book, hat, robe, pattern",1,N/A,original,"Untitled (Chinese Scene)
+signed and dated 'Husain '85' (lower left) and signed in Chinese (upper right)
+mixed media on paper laid on board
+21
+5
+⁄
+8
+ x 19
+5
+⁄
+8
+ in. (54.9 x 49.8 cm.)
+Executed in 1985",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0004_000(maqbool_fida_husain_untitled030207).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-4/291104?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,18906.05,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,18500.0,15416.666666666668
+baaab5ec-605d-4b4d-bf53-30ab95de0a0e,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 5,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled (Tehran Series),drawing,felt-tip pen on paper,N/A,13.75,19.75,in,yes,yes,no,1972,"Gift from the artist
+Private Collection, United Kingdom
+Rosebery's, 15 June 2021, lot 227
+Acquired from the above","figure, flower, pot, gesturing hand, robe, headwear, decorative text, black and white",1,N/A,original,"Untitled (Tehran Series)
+signed in Hindi, initialed in Urdu, inscribed and dated 'Tehran I '72' (lower right)
+felt-tip pen on paper
+19
+3
+⁄
+4
+ x 13
+3
+⁄
+4
+ in. (50.2 x 34.9 cm.)
+Executed in 1972",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0005_000(maqbool_fida_husain_untitled030216).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-5/291105?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,5077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+9de3662f-cd53-4a48-a6eb-ba7f4593805a,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 6,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,RAM KUMAR,1924,2018,Untitled (Heads),drawing,pencil on paper,N/A,11.75,6.625,in,yes,yes,no,1992,"Vadehra Art Gallery, New Delhi
+Christie's London, 10 June 2009, lot 54
+Acquired from the above by the present owner","heads, figures",1,N/A,original,"Untitled (Heads)
+signed in Hindi and dated '92' (lower right)
+pencil on paper
+6
+5
+⁄
+8
+ x 11
+3
+⁄
+4
+ in. (16.8 x 29.8 cm.)
+Executed in 1992",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0006_000(ram_kumar_untitled030222).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/ram-kumar-1924-2018-6/291106?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+c787b891-53eb-4357-a218-c71299a4fdeb,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 7,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,B. PRABHA,1933,2001,Untitled,painting,oil on canvas,N/A,41,16,in,yes,yes,no,1962,"Private collection, Pennsylvania, since 
+circa 
+1980s
+Acquired from the above","two women, oil painting, abstract background, portrait, figures, dark colors, white clothing, textured surface",1,N/A,original,"Untitled
+signed and dated 'b. prabha. 1962.' (upper left)
+oil on canvas
+16 x 41 in. (40.6 x 104.1 cm.)
+Painted in 1962",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0007_000(b_prabha_untitled032553).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/b-prabha-1933-2001-7/291107?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12688.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+b2f4f895-4864-4c9e-8ead-545e60d7d1ab,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 8,USD,7000,10000,N/A,N/A,7000,10000,N/A,N/A,B. PRABHA,1933,2001,Untitled,painting,oil on canvas,N/A,19.75,35,in,yes,yes,no,1977,"Dhoomimal Gallery, New Delhi
+Acquired from the above by the present owner, 
+circa 
+late 1970s","woman, nude, kneeling, hands, green plants, brown skin, background, profile, body, posture",1,N/A,original,"Untitled
+signed and dated in Hindi (lower right)
+oil on canvas
+35 x 19
+3
+⁄
+4
+ in. (88.9 x 50.2 cm.)
+Painted in 1977",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0008_000(b_prabha_untitled030227).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/b-prabha-1933-2001-8/291108?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,8500.0,7083.333333333334
+40c3418d-db38-4352-b659-4c60779c9231,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 9,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Nude with Dove),drawing,ink on paper,N/A,7.875,10,in,yes,yes,no,1956,"The Collection of Harold and Rose Kovner
+Gifted by the above to the present owner","nude, woman, dove, ink, paper, figure, lines",1,N/A,original,"Untitled (Nude with Dove)
+signed and dated 'Souza 56' (upper left)
+ink on paper
+10 x 7
+7
+⁄
+8
+ in. (25.4 x 20 cm.)
+Executed in 1956",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0009_000(francis_newton_souza_untitled030232).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-9/291181?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3187.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+ae7803db-5e45-4e92-a8d0-dac0b8382ac6,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 10,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Nude with Crossed Arms),drawing,ink on paper,N/A,8.25,10.625,in,yes,yes,no,1956,"The Collection of Harold and Rose Kovner
+Gifted by the above to the present owner","nude, woman, crossed arms, ink on paper, 1956",1,N/A,original,"Untitled (Nude with Crossed Arms)
+signed and dated 'Souza 1956' (upper right)
+ink on paper
+10
+5
+⁄
+8
+ x 8
+1
+⁄
+4
+ in. (27 x 21 cm.)
+Executed in 1956",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0010_000(francis_newton_souza_untitled030238).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-10/291109?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3187.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+86310f81-6a9c-4cba-b6c7-8da8c1cc2da6,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 11,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Standing Nude),drawing,ink on paper,N/A,7.875,10,in,yes,yes,no,1956,"The Collection of Harold and Rose Kovner
+Gifted by the above to the present owner","standing nude, woman, ink, paper, 1956",1,N/A,original,"Untitled (Standing Nude)
+signed and dated 'Souza 1956' (upper right)
+ink on paper
+10 x 7
+7
+⁄
+8
+ in. (25.4 x 20 cm.)
+Executed in 1956",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0011_000(francis_newton_souza_untitled030244).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-11/291110?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3187.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+7313da74-fbee-49af-a1f9-b76c847c0514,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 12,USD,60000,80000,N/A,N/A,60000,80000,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Young and Old Woman),painting,acrylic on canvas,N/A,38.875,28.875,in,yes,yes,no,1987,"Indus Gallery, Karachi 
+Acquired from the above by the present owner, 1989","woman, old woman, young woman, portrait, acrylic, nude, blue background, 1980s, arm, skin tone",1,N/A,original,"Untitled (Young and Old Woman)
+signed and dated 'Souza 87' (center left)
+acrylic on canvas
+28
+7
+⁄
+8
+ x 38
+7
+⁄
+8
+ in. (73.3 x 98.7 cm.)
+Painted in 1987",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0012_000(francis_newton_souza_untitled030251).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-12/291111?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,100777.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,72000.0,60000.0
+dec79389-9a83-44e8-8a99-cd893f03b3ac,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 13,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled,drawing,"felt-tip pen, ink and correction fluid on paper",N/A,8.5,11,in,yes,yes,no,1983,"Acquired directly from the artist
+Thence by descent","figure, woman, bird, abstract, surrealism, form, body, shape, leg, head",3,N/A,original,"Untitled
+signed and dated 'Souza 83' (upper left); signed and dated 'Souza 84' (upper right); signed and dated 'Souza 83' (upper right)
+felt-tip pen, ink and correction fluid on paper
+11 x 8
+1
+⁄
+2
+ in. (27.9 x 21.6 cm.) each
+Executed in 1983; three works on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0013_000(francis_newton_souza_untitled032558).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-13/291112?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,4038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+9ecf053d-9ac8-42b1-bdc9-218423d4e57e,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 14,USD,1800,2500,N/A,N/A,1800,2500,N/A,N/A,K.G. SUBRAMANYAN,1924,2016,Untitled (Lady),drawing,ink and wash on paper,N/A,12.75,19.375,in,yes,yes,no,2003,"Saffronart, Mumbai
+Acquired from the above by the present owner, September 2008","woman, torso, ink, wash, paper, sketch, portrait, body, figure, 2003",1,N/A,original,"Untitled (Lady)
+initialed in Tamil and dated '2003' (lower right)
+ink and wash on paper
+19
+3
+⁄
+8
+ x 12
+3
+⁄
+4
+ in. (49.2 x 32.4 cm.)
+Executed in 2003",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0014_000(kg_subramanyan_untitled030258).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/k-g-subramanyan-1924-2016-14/291114?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2031.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2200.0,1833.3333333333335
+55fb57f1-2a47-467d-88fd-857db3c5e569,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 15,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,A. RAMACHANDRAN,1935,N/A,Untitled (Two Women),drawing,ink on paper,N/A,11.125,15,in,yes,yes,no,1973,"Art Heritage, New Delhi
+Acquired from the above by the present owner, May 1999","two women, traditional clothing, standing, Indian attire, ink on paper, sandals, long hair, jewelry, profile view, back view",1,N/A,original,"Untitled (Two Women)
+signed in Malayalam and dated '73' with artist’s seal (lower right)
+ink on paper
+15 x 11
+1
+⁄
+8
+ in. (38.1 x 28.3 cm.)
+Executed in 1973",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0015_000(a_ramachandran_untitled030303).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/a-ramachandran-b-1935-15/291113?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1300.0,1083.3333333333335
+231d875c-2a41-4803-8c85-4185d6330891,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 16,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled (Women),mixed media,acrylic on wood,N/A,26.75,44.375,in,yes,yes,no,N/A,"The collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","women, sculptures, acrylic, wood, geometric shapes, red, brown, blue, figures, abstract design",2,N/A,original,"Untitled (Women)
+signed 'Husain' (on the reverse) each
+acrylic on wood
+44
+3
+⁄
+8
+ x 26
+3
+⁄
+4
+ in. (112.7 x 67.9 cm.); 47
+1
+⁄
+4
+ x 28
+1
+⁄
+8
+ in. (120 x 71.4 cm.)
+Two painted sculptures",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0016_000(maqbool_fida_husain_untitled030309).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-16/291115?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,25380.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,27500.0,22916.666666666668
+398acf79-57f4-4dc6-aca1-d2086ee30866,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 17,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,PRODOSH DASGUPTA,1912,1991,Cradle,sculpture,bronze,7.75,15.25,13.75,in,yes,yes,yes,1950,"Acquired in India, 
+circa 
+1960s
+Private collection, Montreal","bronze sculpture, two figures, mother and child, abstract form",1,004/7,original,"Cradle
+signed, indistinctly dated and inscribed 'P. DASGUPTA 4 /7' (lower edge)
+bronze
+13
+3
+⁄
+4
+ x 15
+1
+⁄
+4
+ x 7
+3
+⁄
+4
+ in. (34.9 x 38.7 x 19.7 cm.)
+Executed 
+circa 
+1950s; number four from an edition of seven
+
+Edition: 004/7",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0017_000(prodosh_dasgupta_cradle030325).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/prodosh-dasgupta-1912-1991-17/291116?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10050.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+75016f12-4c86-4467-ac23-86b5a653649e,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 18,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,ZAINUL ABEDIN,1917,1976,Untitled (Mother and Child),painting,watercolor on paper,N/A,8.25,13.5,in,yes,yes,no,N/A,"Spaces Gallery, Karachi
+Acquired from the above by the present owner, 2015","mother, child, figure, red dress, watercolor, paper, expression, simple lines, warm colors, seated pose",1,N/A,original,"Untitled (Mother and Child)
+signed 'Zainul' (upper left)
+watercolor on paper
+13
+1
+⁄
+2
+ x 8
+1
+⁄
+4
+ in. (34.3 x 20.9 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0018_000(zainul_abedin_untitled030353).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/zainul-abedin-1917-1976-18/291117?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10050.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+2ced79b1-27fd-48bd-81be-82a1ca956693,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 19,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,ZAINUL ABEDIN,1917,1976,"Untitled (Portrait of a Boy, Mexico)",drawing,ink on paper,N/A,11.5,14.75,in,yes,yes,no,1956,"Gifted by the artist to Professor Abdur Razzaq, Dhaka
+Acquired from the above by Abul Khair, 1991
+Thence by descent","boy, profile, ink, paper, curly hair, portrait, Mexico",1,N/A,original,"Untitled (Portrait of a Boy, Mexico)
+signed and dated 'Zainul 56' and bearing artist's stamp (lower right)
+ink on paper
+14
+3
+⁄
+4
+ x 11
+1
+⁄
+2
+ in. (37.5 x 29.2 cm.)
+Executed in 1956",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0019_000(zainul_abedin_untitled030358).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/zainul-abedin-1917-1976-19/291118?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3180.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+eda154c0-9b50-4381-88fd-96db0aea4689,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 20,USD,25000,35000,N/A,N/A,25000,35000,N/A,N/A,JAMINI ROY,1887,1972,Untitled (Three Women),painting,tempera on card,N/A,15.375,25.625,in,yes,yes,no,N/A,"Acquired in India 
+circa 
+1940s by Mr. Lyon who lived there till 1948 
+Thence by descent to a private collection, Scotland
+Christie's New York, 16 September 2008, lot 140
+Acquired from the above by the present owner","women, child, yellow face, brown sari, earrings, expressions, red background, Bengali symbol",1,N/A,original,"Untitled (Three Women)
+signed in Bengali (lower right)
+tempera on card
+25
+5
+⁄
+8
+ x 15
+3
+⁄
+8
+ in. (65.1 x 39 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0020_000(jamini_roy_untitled030405).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/jamini-roy-1887-1972-20/291119?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,32763.5,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+97af03e3-3446-45bd-b8ad-79a98c8c7094,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 21,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,JAMINI ROY,1887,1972,Untitled (Mother & Child),painting,tempera on card,N/A,12.875,17.5,in,yes,yes,no,1950,"Acquired in India, 1958
+Private collection, Urbana, Illinois
+Acquired from the above by the present owner, 1996","mother, child, breastfeeding, figures, lines, curves, simplicity, tenderness, emotion, black and white",1,N/A,original,"Untitled (Mother & Child)
+signed in Bengali (lower right); inscribed 'JAMINI ROY / (FROM SOOKAMAL GHOSE) / AMITRA BAZAR PATRIKA - CACUTTA. (1958) [sic]' (on the reverse)
+tempera on card
+17
+1
+⁄
+2
+ x 12
+7
+⁄
+8
+ in. (44.5 x 32.7 cm.)
+Executed 
+circa 
+1950s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0021_000(jamini_roy_untitled030410).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/jamini-roy-1887-1972-21/291120?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6219.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+75c422c0-558b-4004-93db-97d27cdfea91,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 22,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,ANGELA TRINDADE,1909,1980,Untitled,painting,oil on canvas,N/A,18,27,in,yes,yes,no,N/A,"Private collection, Florida
+Acquired from the above by the present owner","three women, traditional attire, oil lamp, geometric shapes, indoor setting, portrait, hairstyle, jewelry, red fabric, decorative elements",1,N/A,original,"Untitled
+signed 'A. Trindade' (lower right)
+oil on canvas
+27 x 18 in. (68.6 x 45.7 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0022_000(angela_trindade_untitled030416).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/angela-trindade-1909-1980-22/291121?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6210.61,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+d6a33fea-e544-4f47-9419-336a0dabc430,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 23,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,ASIT KUMAR HALDAR,1890,1964,Untitled (Seated Lady),painting,watercolor on paper,N/A,12.25,19,in,yes,yes,no,N/A,"Private Collection, Kolkata
+Indigo Art, 20 December 2024, lot 24
+Acquired from the above","woman, seated, tree, yellow scarf, blue skirt, jewelry, nature, flowers, rocks, landscape",1,N/A,original,"Untitled (Seated Lady)
+signed in Bengali (lower right)
+watercolor on paper
+19 x 12
+1
+⁄
+4
+ in. (48.3 x 31.1 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0023_000(asit_kumar_haldar_untitled030423).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/asit-kumar-haldar-1890-1964-23/291122?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6200.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+da8cf803-bbbb-45a1-8a6b-16ccfd0741e4,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 24,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,NANDLAL BOSE,1882,1966,Kaikeyi and Manthara,prints,woodblock print on handmade paper,N/A,7,13,in,no,yes,yes,1910,"Poetry and Patriotic Fervour, Indian Art Pre-Independence
+, exhibition catalogue, New Delhi, 2003, p. 39 (another edition illustrated)
+S.R. Quintanilla ed., 
+Rhythms of India, The Art of Nandalal Bose
+, San Diego, 2008, p. 77 (another edition illustrated)","woman, pink dress, black hair, jewelry, sitting figure, background, contemplative expression, traditional attire, female figure, companion figure",1,N/A,original,"Kaikeyi and Manthara
+bearing artist's stamp (upper left)
+woodblock print on handmade paper
+13 x 7 in. (33 x 17.8 cm.) image; 13
+3
+⁄
+8
+ x 7
+3
+⁄
+8
+ in. (34 x 18.7 cm.) sheet
+Executed 
+circa 
+1910s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0024_000(nandlal_bose_kaikeyi_and_manthara030429).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/nandlal-bose-1882-1966-24/291124?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2031.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+da86e2cf-4d42-4034-8cbd-744442ff7e9b,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 25,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,ABdur Rahman Chughtai,1894,1975,White Hand; Punjabi Maiden,prints,aquatints on paper,N/A,N/A,N/A,in,yes,yes,yes,N/A,"The Collection of the Artist
+Thence by descent","woman, hand, jewelry, portrait, traditional attire, Punjabi, face, ethnic dress, ornamentation, hairstyle",2,N/A,original,"White Hand; Punjabi Maiden
+signed and titled 'Rahman Chughtai ""White Hand""' (lower edge); signed and titled '""Punjabi Maiden"" Rahman Chughtai' (lower edge)
+aquatints on paper
+11 x 9
+3
+⁄
+4
+ in. (27.9 x 24.8 cm.) plate, 14
+7
+⁄
+8
+ x 12 in. (37.8 x 30.5 cm.) sheet; 11
+7
+⁄
+8
+ x 13 in. (30.2 x 33 cm.) plate, 13
+5
+⁄
+8
+ x 14
+1
+⁄
+2
+ in. (34.6 x 36.8 cm.) sheet
+Two prints on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0025_000(abdur_rahman_chughtai_white_hand_punjabi_maiden030434).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/abdur-rahman-chughtai-1894-1975-25/291123?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6210.61,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+a92334cd-7c31-4b01-9e28-ae74faf7ec71,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 26,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,ABdur Rahman Chughtai,1894,1975,To the Pilgrimage; Fishing Day,prints,aquatint on paper; etching on paper,N/A,8,9,in,yes,yes,yes,N/A,"The Collection of the Artist
+Thence by descent","man, woman, flute, fishing, landscape, hills, trees, water, fishing rod, attire",2,N/A,original,"To the Pilgrimage; Fishing Day
+signed and titled 'Rahman Chughtai ""To The Pilgrimage""' (lower edge); signed and titled 'Rahman Chughtai ""Fishingday""' (lower edge)
+aquatint on paper; etching on paper
+8 x 9 in. (20.3 x 22.9 cm.) plate, 9
+7
+⁄
+8
+ x 11
+1
+⁄
+4
+ in. (25.1 x 28.6 cm.) sheet; 11 x 9
+7
+⁄
+8
+ in. (27.9 x 25.1 cm.) plate, 14
+1
+⁄
+2
+ x 13
+3
+⁄
+8
+ in. (36.8 x 34 cm.) sheet
+Two prints on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0026_000(abdur_rahman_chughtai_to_the_pilgrimage_fishing_day030459).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/abdur-rahman-chughtai-1894-1975-26/291126?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+0c6686a0-7e95-46a3-81ba-634185947b89,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 27,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,CHITTAPROSAD BHATTACHARYA,1915,1978,The Palms; Untitled (Buddha); Terracotta from Bengal,prints,linocuts on paper,N/A,10.75,7.375,in,yes,yes,no,1953,"Private Collection, India
+Private Collection, United Kingdom
+Acquired from the above","trees, figures, bull, Buddha, landscape, hills, houses, animals, two people, patterns",3,N/A,original,"The Palms; Untitled (Buddha); Terracotta from Bengal
+signed and dated 'Chittaprosad -'53' and titled 'The PALMS' (lower edge); signed and dated 'Chittaprosad -'55' and titled 'TERRACOTTA from BENGAL' (lower edge)
+linocuts on paper
+7
+3
+⁄
+8
+ x 10
+3
+⁄
+4
+ in. (18.7 x 27.3 cm.) plate, 11 x 14 in. (27.9 x 35.6 cm.) sheet;
+8
+7
+⁄
+8
+ x 5
+3
+⁄
+4
+ in. (22.5 x 14.6 cm.) plate, 12
+5
+⁄
+8
+ x 9
+1
+⁄
+2
+ in. (32.1 x 24.1 cm.) sheet;
+6
+5
+⁄
+8
+ x 2
+3
+⁄
+4
+ in. (16.8 x 7 cm.) plate, 14 x 10
+5
+⁄
+8
+ in. (35.6 x 27 cm.) sheet
+Executed in 1953, 
+circa 
+1950s, and in 1955; three prints on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0027_000(chittaprosad_bhattacharya_the_palms_untitled_terracotta_from_bengal030522).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/chittaprosad-bhattacharya-1915-1978-27/291125?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3761.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+96ee5f86-0aed-4a29-8e55-31c8d5160da2,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 28,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Apocalyptic Landscape),drawing,ink on paper,N/A,8,13,in,yes,yes,no,1964,"Christie's London, 10 June 2009, lot 42
+Acquired from the above by the present owner","landscape, figures, buildings, weapons, music, alien, chaos, apocalyptic, desert, movement",1,N/A,original,"Untitled (Apocalyptic Landscape)
+signed and dated 'Souza 1964' (center left)
+ink on paper
+13 x 8 in. (33 x 20.3 cm.)
+Executed in 1964",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0028_000(francis_newton_souza_untitled030545).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-28/291128?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3777.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+7ca305eb-fcbc-440e-92a1-6a554de5f9f0,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 29,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Bombay),painting,watercolor and gouache on paper,N/A,14.875,22,in,yes,yes,no,1950,"Acquired directly from the artist
+Private Collection, Canada
+Cowley Abbott, November 7 2023, lot 331 
+Private Collection, United Kingdom
+Acquired from the above","buildings, people, cityscape, water, boats, sky, architecture",1,N/A,original,"Untitled (Bombay)
+signed and dated 'SOUZA 1950' (lower left); further signed and dated 'Souza 1950' (on the reverse)
+watercolor and gouache on paper
+22 x 14
+7
+⁄
+8
+ in. (55.9 x 37.8 cm.)
+Executed in 1950",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0029_000(francis_newton_souza_untitled030550).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-29/291127?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,25380.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,27500.0,22916.666666666668
+3d6385e5-6d4d-4196-ad20-ac20091780d6,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 30,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,ABDULRAHIM APABHAI ALMELKAR,1920,1982,Fish Sorting; Boat Jetty,mixed media,oil and ink on card,N/A,15.375,11.5,in,yes,yes,yes,1950,N/A,"fish, baskets, boat, fishermen, water, jetty, bamboo, sorting, teamwork, market",2,N/A,original,"Fish Sorting; Boat Jetty
+Titled and inscribed 'FISH SORTING / BY / A.A. ALMELKAR / RS. 200/-' (on the reverse); signed 'A.A. ALMELKAR' (lower center); further titled and inscribed 'BOAT JETTY / BY / A.A. ALMELKAR / RS. 200/-' (on the reverse)
+oil and ink on card
+11
+1
+⁄
+2
+ x 15
+3
+⁄
+8
+ in. (29.2 x 39.1 cm.); 9
+1
+⁄
+2
+ x 13
+1
+⁄
+4
+ in. (24.1 x 33.7 cm.)
+Executed circa 1950s; two works on card",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0030_000(abdulrahim_apabhai_almelkar_fish_sorting_boat_jetty030556).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/abdulrahim-apabhai-almelkar-1920-1982-30/291131?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7500.0,6250.0
+33ab7afe-deca-49d5-9125-7b61e1f78344,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 31,USD,7000,10000,N/A,N/A,7000,10000,N/A,N/A,SHANTI DAVE,1931,N/A,Pilgrimage,painting,oil on canvas,N/A,18,18.125,in,yes,yes,yes,1960,"The Collection of Ravi Kumar
+Private Collection, USA
+Acquired from the above by the present owner","figures, cow, bull, moon, cart, landscape, orange background, clothing, agriculture, rural life",1,N/A,original,"Pilgrimage
+signed and dated in Gujarati (upper right), further titled, signed and inscribed 'PILGRIMAGE / SHANTI DAVE / This is an original Painting / Coll RAVI Kumar R. Kumar' (on the reverse)
+oil on canvas
+18 x 18
+1
+⁄
+8
+ in. (45.7 x 46 cm.)
+Painted in 1960",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0031_000(shanti_dave_pilgrimage030609).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/shanti-dave-b-1931-31/291130?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10077.09,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,9500.0,7916.666666666667
+66d49369-2095-4fe5-a6cb-ce0ea1ea98bb,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 32,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,ARUP DAS,1924,2004,Untitled (Villagers at Rest),painting,oil on canvas,N/A,48.125,24.125,in,yes,yes,no,1964,"Acquired by Theo Muller, Bangalore, 
+circa 
+mid-1960s
+Thence by descent
+Private Collection, Switzerland
+Acquired from the above by the present owner","villagers, cow, woman, child, green figure, musical instrument, seated figure, standing figure, rest, rural setting",1,N/A,original,"Untitled (Villagers at Rest)
+signed and dated 'Arup Das.64' (upper right)
+oil on canvas
+24
+1
+⁄
+8
+ x 48
+1
+⁄
+8
+ in. (61.3 x 122.2 cm.)
+Painted in 1964",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0032_000(arup_das_untitled030617).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/arup-das-1924-2004-32/291129?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6395.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+7018fb16-554d-45ab-a4c0-850d696d2832,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 33,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,M. SIVANESAN,1940,2015,Untitled (Desert Caravan),painting,oil on canvas board,N/A,29.5,29.375,in,yes,yes,no,1970,"Private collection, Annapolis
+Acquired from the above by the present owner, 2011","camel, woman, desert, caravan, mountain, sun, figures, landscape, cart",1,N/A,original,"Untitled (Desert Caravan)
+signed and dated 'M.SIVANESAN 70' (center left)
+oil on canvas board
+29
+3
+⁄
+8
+ x 29
+1
+⁄
+2
+ in. (74.6 x 74.9 cm.)
+Painted in 1970",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0033_000(m_sivanesan_untitled030622).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/m-sivanesan-1940-2015-33/291132?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2038.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+acf130cc-2af0-46bc-a76b-37032d3b1b8e,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 34,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,K. G. SUBRAMANYAN & GYARSILAL VARMA,1924,2016,Untitled (Elephant),mixed media,"wood, beads, mirrors, paint and twine",6.25,15.5,10.5,in,no,yes,no,N/A,"The 'Elephant Collection' of Gordon Chandler, Ohio
+Bequeathed to the Center of Science and Industry (COSI), Columbus, 
+circa 
+1970s
+The Columbus Foundation
+Auction Ohio, 11 January 2024, lot 40
+Private Collection, Ohio
+Acquired from the above by the present owner, April 2024","elephant, wood, beads, mirrors, paint, twine",1,N/A,original,"K. G. SUBRAMANYAN (1924-2016) & GYARSILAL VARMA (1930-2000)
+Untitled (Elephant)
+wood, beads, mirrors, paint and twine
+10
+1
+⁄
+2
+ x 15
+1
+⁄
+2
+ x 6
+1
+⁄
+4
+ in. (26.7 x 39.4 x 15.9 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0034_000(k_g_subramanyan_amp_gyarsilal_varma_untitled030631).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/k-g-subramanyan-1924-2016-gyarsilal-varma-1930-2000-34/291133?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+92abf21e-48d5-471f-b0f4-4568c515604d,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 35,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,VELU VISWANADHAN,1940,N/A,Untitled,mixed media,mixed media and thread on canvas,N/A,38.875,39,in,yes,yes,no,1976,N/A,"abstract, geometric shapes, canvas, stitched edge, red, brown, mixed media",1,N/A,original,"Untitled
+signed and dated 'Viswanadhan 76' (lower right)
+mixed media and thread on canvas
+39 x 38
+7
+⁄
+8
+ in. (99.1 x 98.7 cm)
+Painted in 1976",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0035_000(velu_viswanadhan_untitled030637).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/velu-viswanadhan-b-1940-35/291134?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+fa98e3e7-6284-4e19-a64b-56ad4c0df63b,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 36,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,VELU VISWANADHAN,1940,N/A,Untitled,prints,lithographs on paper,N/A,13,20,in,yes,yes,no,1970,"Private Collection, Denmark
+Acquired from the above","geometric shapes, triangles, patterns, color blocks, abstract forms, lithographs, red, green, brown, blue",3,077/100,original,"Untitled
+signed 'Viswanadhan V.' and numbered '77 /100' (lower edge) three
+lithographs on paper
+20 x 13 in. (50.8 x 33 cm.) plate, 25
+7
+⁄
+8
+ x 17 in. (65.7 x 43.2 cm.) sheet;
+20 x 13
+1
+⁄
+4
+ in. (50.8 x 33.7 cm.) plate, 25
+7
+⁄
+8
+ x 17 in. (65.7 x 43.2 cm.) sheet;
+20 x 12
+3
+⁄
+4
+ in. (50.8 x 32.4 cm.) plate, 25
+7
+⁄
+8
+ x 17 in. (65.7 x 43.2 cm.) sheet
+Executed 
+circa 
+1970s; each numbered seventy-seven from an edition of one hundred; three prints on paper
+
+Edition: 077/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0036_000(velu_viswanadhan_untitled030645).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/velu-viswanadhan-b-1940-36/291136?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1350.0,1125.0
+1150e646-e6c9-41c7-8337-e5ad9c56dd06,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 37,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,GANESH HALOI,1936,N/A,Untitled,painting,gouache on paper,N/A,22.625,22.25,in,yes,yes,no,2022,"Acquired directly from the artist by a private collector
+Acquired from the above","abstract, geometric shapes, black and white, lines, patterns, textures",1,N/A,original,"Untitled
+signed and dated in Bengali (lower right and center left)
+gouache on paper
+22
+1
+⁄
+4
+ x 22
+5
+⁄
+8
+ in. (56.5 x 57.5 cm.)
+Executed in 2022",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0037_000(ganesh_haloi_untitled030710).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/ganesh-haloi-b-1936-37/291135?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,15080.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+ab6c6312-715e-4e52-bea7-a9cc8daa8328,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 38,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,GANESH HALOI,1936,N/A,Untitled,painting,gouache on paper laid on card,N/A,16.25,14.25,in,yes,yes,no,1989,"Acquired during a posting to India from 1987-93, possibly from an exhibition at the Alliance Française, New Delhi
+Private Collection, France
+Millon Paris, 18 December 2024, lot 89
+Acquired from the above","abstract, colors, shapes, forms, green, black, red, yellow, brown",1,N/A,original,"Untitled
+signed in Bengali (upper right); further inscribed and dated 'Ganesh Haloi / 1989 / AE-420, Sector - I / Salt Lake, Calcutta-700064' (on the reverse)
+gouache on paper laid on card
+14
+1
+⁄
+4
+ x 16
+1
+⁄
+4
+ in. (36.2 x 41.3 cm.)
+Executed in 1989",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0038_000(ganesh_haloi_untitled114505).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/ganesh-haloi-b-1936-38/291137?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12480.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+f70d65e9-c384-4f92-9865-39beff3f1c0b,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 39,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,SHANTI DAVE,1931,N/A,Untitled,mixed media,mixed media on canvas,N/A,40,19,in,yes,yes,no,N/A,"Private collection, Washington DC
+Acquired from the above by the present owner","mixed media, inscriptions, orange, yellow, gray, abstract forms, canvas",1,N/A,original,"Untitled
+signed 'Shanti Dave' (lower right)
+mixed media on canvas
+19 x 40 in. (48.3 x 101.6 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0039_000(shanti_dave_untitled030718).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/shanti-dave-b-1931-39/291138?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,22688.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,27500.0,22916.666666666668
+4889498a-bf0f-4aed-bd63-9947a02e6a29,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 40,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,AVINASH CHANDRA,1931,1991,Untitled,painting,watercolor on paper laid on canvas,N/A,84.25,27.75,in,no,yes,no,1969,"Rosenthal Collection, Hudson, New York
+Acquired from the above","abstract shapes, red, yellow, figures, lines, patterns, textures, watercolor, organic forms",1,N/A,original,"Untitled
+watercolor on paper laid on canvas
+27
+3
+⁄
+4
+ x 84
+1
+⁄
+4
+ in. (70.5 x 214 cm.)
+Executed 
+circa 
+1969",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0040_000(avinash_chandra_untitled030723).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/avinash-chandra-1931-1991-40/291060?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12680.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+341287ba-280e-4600-a893-6bc98b52023a,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 41,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,AVINASH CHANDRA,1931,1991,Untitled (Journeys),painting,oil on canvas,N/A,35.875,27.875,in,yes,yes,no,1950,"Bonhams Dubai, 24 November 2008, lot 143
+Acquired from the above by the present owner","abstract shapes, landscape, figures, yellow, brown, blue, texture, lines, swirls, patterns",1,N/A,original,"Untitled (Journeys)
+signed 'Avinash' (lower left)
+oil on canvas
+27
+7
+⁄
+8
+ x 35
+7
+⁄
+8
+ in. (70.8 x 91.1 cm.)
+Painted 
+circa 
+late 1950s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0041_000(avinash_chandra_untitled030728).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/avinash-chandra-1931-1991-41/291139?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,25380.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,27500.0,22916.666666666668
+5770588e-c6ba-41c0-b3b8-b99d721a7318,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 42,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,GOPAL GHOSE,1913,1980,Untitled (Pastoral Landscape),painting,watercolor and ink on paper,N/A,12,7.25,in,yes,yes,no,1932,"The Collection of L.T.P Manjusri
+Thence by descent
+Oliver Forge and Brendan Lynch, London
+Private Collection, United States
+Clars Auction Gallery, 15 December 2019, lot 7273
+Acquired from the above","landscape, trees, mountains, river, grass, sky, birds, rural, flora, nature",1,N/A,original,"Untitled (Pastoral Landscape)
+signed in Bengali and dated '32' (lower right)
+watercolor and ink on paper
+7
+1
+⁄
+4
+ x 12 in. (18.4 x 30.5 cm.)
+Executed in 1932",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0042_000(gopal_ghose_untitled030736).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/gopal-ghose-1913-1980-42/291140?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2268.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+4668735d-6ad2-4cbc-b407-21d6f53cf74f,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 43,USD,1800,2500,N/A,N/A,1800,2500,N/A,N/A,BENODEBEHARI MUKHERJEE,1904,1980,Untitled (Landscapes),painting,watercolor on paper,N/A,5.5,6.875,in,no,yes,no,N/A,"Delhi Art Gallery, New Delhi
+Acquired from the above by the present owner, August 1997","landscape, trees, rocks, hills, water, sky, natural scenery",2,N/A,original,"Untitled (Landscapes)
+watercolor on paper
+6
+7
+⁄
+8
+ x 5
+1
+⁄
+2
+ in. (17.5 x 14 cm.); 6
+7
+⁄
+8
+ x 5
+3
+⁄
+8
+ in. (17.5 x 13.6 cm.)
+Two works on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0043_000(benodebehari_mukherjee_untitled030741).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/benodebehari-mukherjee-1904-1980-43/291141?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2031.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2200.0,1833.3333333333335
+a089115f-0516-4717-a138-f1610c1f035b,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 44,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,K. Laxma Goud,1940,N/A,Untitled,painting,gouache on card,N/A,15.5,10,in,yes,yes,no,N/A,"Saffronart, Mumbai
+Acquired from the above by the present owner, March 2006","woman, procession, mountains, sky, jewelry, traditional dress, flowers, figures, landscape, dark colors",1,N/A,original,"Untitled
+signed 'K. Laxma Goud.' (lower right)
+gouache on card
+10 x 15
+1
+⁄
+2
+ in. (25.4 x 39.4 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0044_000(k_laxma_goud_untitled030755).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/k-laxma-goud-b-1940-44/291143?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3188.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+07938c5b-584e-4b02-a422-8c9671fcf0fc,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 45,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,IVAN PERIES,1921,1988,Untitled (Two Figures); Untitled (Standing Man),drawing,watercolor on paper,N/A,18.875,15.125,in,yes,yes,no,1981,"The Collection of the Artist
+Thence by descent to Veronica Peries, Southend on Sea, United Kingdom
+Acquired from the above by the present owner, 2000","figures, woman, man, standing, lines, abstract, watercolor, shapes, interaction, minimalism",2,N/A,original,"Untitled (Two Figures); Untitled (Standing Man)
+initialed and dated 'IP '81' (lower right); signed and dated 'Ivan Peries 1981' (lower right)
+watercolor on paper
+15
+1
+⁄
+8
+ x 18
+7
+⁄
+8
+ in. (38.4 x 47.9 cm.); 15 x 18
+7
+⁄
+8
+ in. (38.1 x 47.9 cm.)
+Executed in 1981; two works on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0045_000(ivan_peries_untitled_untitled030801).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/ivan-peries-1921-1988-45/291142?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+c69c9b60-9451-488f-b8e6-f3416bb686d1,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 46,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,IVAN PERIES,1921,1988,Untitled (Seated Man); Untitled (Two Men),drawing,watercolor on paper,N/A,6,8,in,yes,yes,no,1982,"The Collection of the Artist
+Thence by descent to Veronica Peries, Southend on Sea, United Kingdom
+Acquired from the above by the present owner, 2000","man, seated, two figures, watercolor, abstract, shapes, colors, silhouettes, lines, patterns",2,N/A,original,"Untitled (Seated Man); Untitled (Two Men)
+initialed and dated 'IP 82' (upper edge); initialed and dated 'IP 86' (upper edge)
+watercolor on paper
+8 x 6 in. (20.3 x 15.2 cm.) image; 9
+1
+⁄
+2
+ x 6
+1
+⁄
+4
+ in. (24.1 x 15.9 cm.) image
+Executed in 1982, 1986; two works on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0046_000(ivan_peries_untitled_untitled030817).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/ivan-peries-1921-1988-46/291063?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+90aa2db7-6f08-4e22-b26d-7f768aa1cbc1,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 47,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,GANESH PYNE,1937,2013,Untitled (Rabindranath Tagore),mixed media,mixed media on paper,N/A,5,7,in,yes,yes,no,1980,"Christie's London, 10 June 2009, lot 81
+Acquired from the above by the present owner","portrait, man, beard, long hair, expression, mixed media, paper, Indian, Bengali, Tagore",1,N/A,original,"Untitled (Rabindranath Tagore)
+signed and inscribed in Bengali (lower right)
+mixed media on paper
+7 x 5 in. (17.8 x 12.7 cm.)
+Executed 
+circa 
+1980s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0047_000(ganesh_pyne_untitled030824).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/ganesh-pyne-1937-2013-47/291062?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,4038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+54fbecd8-47fe-4f5d-9efe-48bd26b37134,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 48,USD,1000,1500,N/A,N/A,1000,1500,N/A,N/A,KANWAL KRISHNA,1910,1993,Portrait of a Gadi from the Kangra Valley,painting,watercolor on paper,N/A,15.25,18.125,in,yes,yes,yes,1954,N/A,"portrait, man, Gadi, Kangra Valley, Himalayas, water, traditional clothing, earrings, facial expression, mountainous terrain",1,N/A,original,"Portrait of a Gadi from the Kangra Valley
+signed and dated 'Kanwal 54' with artist's seal (lower right); further titled, inscribed and signed 'Portrait of a Gadi from the / Kangra Valley in The Himalayas / The Gadis travel all the year / round with their animals for / grazing, sometimes at heights / above 10000 ft above sea level / Kanwal / KANWAL / MODERN SCHOOL / NEW DELHI' (on the reverse)
+watercolor on paper
+18
+1
+⁄
+8
+ x 15
+1
+⁄
+4
+ in. (46 x 38.7 cm.)
+Executed in 1954",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0048_000(kanwal_krishna_portrait_of_a_gadi_from_the_kangra_valley032610).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/kanwal-krishna-1910-1993-48/291144?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1300.0,1083.3333333333335
+eaa45ef7-080d-47c5-99f6-899a171f3a13,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 49,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,SADANAND BAKRE,1920,2007,Untitled (Portrait),drawing,colored pencil and pastel on ruled paper,N/A,5,8.5,in,yes,yes,no,N/A,"The Estate of the Artist
+Private Collection, India
+Acquired from the above","portrait, abstract figure, colored pencil, pastel, profile view, face, lines, colors, shapes, ruled paper",1,N/A,original,"Untitled (Portrait)
+signed 'BAKRE' (lower right)
+colored pencil and pastel on ruled paper
+8
+1
+⁄
+2
+ x 5 in. (21.6 x 12.7 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0049_000(sadanand_bakre_untitled032618).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sadanand-bakre-1920-2007-49/291145?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2031.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+24b4225d-a3e8-4a4c-82d3-7feb4c35d5d0,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 50,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,AKBAR PADAMSEE,1928,2020,Untitled (Head),drawing,charcoal on paper,N/A,15,22.125,in,yes,yes,no,2005,"Sotheby's London, 23 May 2006, lot 166
+Acquired from the above by the present owner","head, charcoal, portrait, facial features, expression, abstract, darkness, shading, contours, line work",1,N/A,original,"Untitled (Head)
+signed and dated 'PADAMSEE 2005' (upper left)
+charcoal on paper
+22
+1
+⁄
+8
+ x 15 in. (56.2 x 38.1 cm.)
+Executed in 2005",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0050_000(akbar_padamsee_untitled030831).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/akbar-padamsee-1928-2020-50/291149?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+6e607c8c-6d06-4c07-94d6-9f0d7b4fdd2b,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 51,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,KRISHNA SHAMRAO KULKARNI,1916,1994,Untitled (Face),mixed media,mixed media on paper,N/A,30,27.25,in,no,yes,no,1960,"Kumar Gallery, New Delhi
+Acquired from the above by the present owner, 
+circa 
+late 1990s","face, abstract, mixed media, black, white, figure, expression, lines, shapes, profile",1,N/A,original,"Untitled (Face)
+mixed media on paper
+27
+1
+⁄
+4
+ x 30 in. (69.2 x 76.2 cm.)
+Executed 
+circa 
+mid-1960s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0051_000(krishna_shamrao_kulkarni_untitled030839).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/krishna-shamrao-kulkarni-1916-1994-51/291146?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,4038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+2f17281a-02ac-4025-b452-df049c5c21bc,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 52,USD,1200,1800,N/A,N/A,1200,1800,N/A,N/A,RABIN MONDAL,1932,2019,Face,painting,acrylic on canvas,N/A,19.375,19.375,in,yes,yes,yes,2004,"Delhi Art Gallery, New Delhi
+Private Collection, Indiana
+Acquired from the above","face, portrait, beard, darkness, green, expression, acrylic, canvas, abstract, human",1,N/A,original,"Face
+signed and dated 'Rabin 2004' (upper left); further signed, inscribed, titled and dated 'RABIN MONDAL / IB-6. Flat-3. Sector-III / Salt Lake / Kolkata-700106 / ""FACE"" 2004 / Acrylic' (on the reverse)
+acrylic on canvas
+19
+3
+⁄
+8
+ x 19
+3
+⁄
+8
+ in. (49.2 x 49.2 cm.)
+Painted in 2004",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0052_000(rabin_mondal_face030847).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/rabin-mondal-1932-2019-52/291147?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1263.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1500.0,1250.0
+9140ed1b-e2f5-4b08-8076-ba610dafe901,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 53,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,PARESH MAITY,1965,N/A,Untitled (Two Figures),drawing,pastel and ink on paper,N/A,10.875,9.625,in,yes,yes,no,1993,"Kapil Jariwala Gallery, London 
+Private Collection, United Kingdom 
+Acquired from the above","two figures, bottles, abstract shapes, red, black, pastel, ink, paper, human forms, shadows, drapery",1,N/A,original,"Untitled (Two Figures)
+signed and dated 'Paresh '93' (lower left)
+pastel and ink on paper
+9
+5
+⁄
+8
+ x 10
+7
+⁄
+8
+ in. (24.4 x 27.6 cm.)
+Executed in 1993",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0053_000(paresh_maity_untitled030857).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/paresh-maity-b-1965-53/291148?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2288.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+6bc8c45d-ca09-4152-a764-05ae14051d37,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 54,USD,40000,60000,N/A,N/A,40000,60000,N/A,N/A,PARESH MAITY,1965,N/A,Untitled,painting,oil on canvas,N/A,107,60,in,yes,yes,no,2002,"Gallery Arts India, New York
+Acquired from the above by the present owner, 
+circa 
+early 2000s","women, portraits, traditional clothing, lantern, drum, green fan, red background, black dress, jewelry, patterns",1,N/A,original,"Untitled
+signed and dated 'Paresh Maity 2002' (lower right)
+oil on canvas
+60 x 107 in. (152.4 x 271.8 cm.)
+Painted in 2002",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0054_000(paresh_maity_untitled030905).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/paresh-maity-b-1965-54/291150?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,47750.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+94d4fdc1-76e5-49b4-9e16-e5693aa38d30,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 55,USD,1500,2500,N/A,N/A,1500,2500,N/A,N/A,PARITOSH SEN,1918,2008,Untitled (Juggler),drawing,charcoal on card,N/A,20,29.75,in,yes,yes,no,1993,"Gallery Espace, New Delhi
+Acquired from the above by the present owner, May 1997","juggler, person, balls, seated figure, charcoal drawing, male, expression, traditional clothing, arms, face",1,N/A,original,"Untitled (Juggler)
+signed and dated 'Paritosh Sen 93' (lower right, recto); further signed 'Paritosh' and indistinctly dated (lower right, verso)
+charcoal on card
+29
+3
+⁄
+4
+ x 20 in. (75.6 x 50.8 cm.)
+Executed in 1993; one double-sided work on card",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0055_000(paritosh_sen_untitled030911).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/paritosh-sen-1918-2008-55/291151?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1903.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2200.0,1833.3333333333335
+5636a49e-61c2-402e-b26a-ac955a348082,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 56,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,ANJOLIE ELA MENON,1940,N/A,Untitled (Holy Man),decorative arts,"ceramic tile, metal, wood",3.5,4.25,4.25,in,no,yes,no,N/A,"The collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","holy man, ceramic tile, metal box, wood box, portrait, spiritual figure, closed eyes, Indian art",1,N/A,original,"Untitled (Holy Man)
+printed ceramic tile mounted on metal and wood box
+4
+1
+⁄
+4
+ x 4
+1
+⁄
+4
+ in. (10.8 x 10.8 cm.) image; 6 x 6 x 3
+1
+⁄
+2
+ in. (15.2 x 15.2 x 8.9 cm.) box",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0056_000(anjolie_ela_menon_untitled030922).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/anjolie-ela-menon-b-1940-56/291152?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2503.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+fea991d2-11d7-475c-aabd-3c00eacfbbce,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 57,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,B. Vithal,1935,1992,Untitled (Ganesha),sculpture,bronze,5.75,8.25,9.5,in,yes,yes,no,1935,"Acquired directly from the artist, Mumbai","Ganesha, bronze sculpture",1,N/A,original,"Untitled (Ganesha)
+signed 'B. Vithal' (lower center of base)
+bronze
+9
+1
+⁄
+2
+ x 8
+1
+⁄
+4
+ x 5
+3
+⁄
+4
+ in. (24.1 x 20.9 x 14.6 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0057_000(b_vithal_untitled030930).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/b-vithal-1935-1992-57/291157?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,4038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+31e4cf98-3193-43bf-811b-d9511f2917f6,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 58,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,KRISHEN KHANNA,1925,N/A,Untitled (Bandwalla),sculpture,bronze,10.25,9,12.25,in,yes,yes,no,2022,Acquired directly from the artist,"bronze sculpture, seated figure, musician, flute, hat, uniform, sitting, legs crossed, chair, detailed expression",1,005/100,original,"Untitled (Bandwalla)
+signed 'KKhanna' (center right) and numbered '005 100' (center left)
+bronze
+12
+1
+⁄
+4
+ x 9 x 10
+1
+⁄
+4
+ in. (31.1 x 22.9 x 26 cm.)
+Executed in 2022; number five from an edition of one hundred
+
+Edition: 005/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0058_000(krishen_khanna_untitled032624).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/krishen-khanna-b-1925-58/291153?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3777.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+1d2b422a-defb-4f3e-90d8-541f919e4ca1,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 59,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,SHIAVAX CHAVDA,1914,1990,Desire,painting,oil on canvas,N/A,30,40.125,in,yes,yes,yes,1964,"The Collection of Gary Dinowitz, Connecticut
+Acquired from the above, 2010","figure, dancer, yellow, red, blue, green, abstract, clothing, movement, expression",1,N/A,original,"Desire
+signed and dated 'S. Chavda 1964' and signed and dated in Gujarati (lower left); further titled, signed and inscribed ''DESIRE' / By / Shiavax Chavda / Master Zhambirs / 1 Cinema Road, / Dhobi Talav, BOMBAY, 20BR / INDIA' (on the reverse) and titled, signed and inscribed ''DESIRE' BY SHIAVAX CHAVDA FOR NAIROBI EXHIBITION' (on the stretcher bar)
+oil on canvas
+40
+1
+⁄
+8
+ x 30 in. (101.9 x 76.2 cm.)
+Painted in 1964",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0059_000(shiavax_chavda_desire032647).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/shiavax-chavda-1914-1990-59/291154?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7500.0,6250.0
+f81a8c52-72ca-433a-9258-7441d1446226,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 60,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,SAILOZ MOOKHERJEA,1907,2007,Untitled (Indian Woman),painting,oil and watercolor on paper laid on board,N/A,14.25,10.875,in,yes,yes,no,N/A,"Acquired in India, 
+circa 
+1960s
+Private collection, Montreal","woman, face, earrings, abstract background, red, yellow, black, gray, green, expression",1,N/A,original,"Untitled (Indian Woman)
+signed 'Sailoz' (upper left)
+oil and watercolor on paper laid on board
+10
+7
+⁄
+8
+ x 14
+1
+⁄
+4
+ in. (27.6 x 36.2 cm.)",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0060_000(sailoz_mookherjea_untitled032655).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sailoz-mookherjea-1907-2007-60/291155?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10004.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+609e3e3b-52a4-4468-b231-455859a1dba4,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 61,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,LAXMAN PAI,1926,2021,Blue Belle,painting,oil on canvas,N/A,25.375,32,in,yes,yes,yes,1965,"Bukowskis, 30 June 2025, lot 1387825
+Acquired from the above by the present owner","woman, jewelry, mountains, blue colors, orange colors, portrait, traditional attire, abstract background, earrings, hair",1,N/A,original,"Blue Belle
+signed in Marathi and signed and dated 'Laxman Pai 65' (lower right); further titled, inscribed and dated 'BLUE BELLE / 7 (81 x 66 cm) / by / LAXMAN PAI / 1965' (on the reverse)
+oil on canvas
+32 x 25
+3
+⁄
+8
+ in. (81.3 x 64.4 cm.)
+Painted in 1965",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0061_000(laxman_pai_blue_belle032702).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/laxman-pai-1926-2021-61/291160?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,5077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+b9f01c3a-b1cb-476d-bc63-18a4538d9899,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 62,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,PARESH MAITY,1965,N/A,Untitled (Faces),painting,watercolor on board,N/A,6,11.125,in,yes,yes,no,2014,"Acquired by the present owner in New Delhi, 
+circa 
+2014","faces, eyes, red, blue, yellow, abstract, expressions, geometric shapes, profiles, artwork",2,N/A,original,"Untitled (Faces)
+signed and dated 'Paresh Maity '14' (lower left); further signed, dated and inscribed 'Paresh Maity '14 / water colour on board / 11"" x 6""' (on the reverse); signed and dated 'Paresh Maity '14' (lower right); further signed, dated and inscribed 'Paresh Maity '14 / water colour on board / 11"" x 6""' (on the reverse)
+watercolor on card
+11
+1
+⁄
+8
+ x 6 in. (28.3 x 15.2 cm.); 11
+1
+⁄
+4
+ x 6
+3
+⁄
+8
+ in. (28.6 x 16.2 cm.)
+Executed in 2014; two works on card",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0062_000(paresh_maity_untitled032710).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/paresh-maity-b-1965-62/291158?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2536.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2700.0,2250.0
+dbf6667e-e80f-4e77-80a4-f03a8e59763d,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 63,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,PARESH MAITY (B. 1965),1965,N/A,After Matisse,painting,oil on canvas,N/A,60,48.125,in,yes,yes,yes,2004,Acquired directly from the artist,"woman, nude, green background, hair, abstract face, reclining pose",1,N/A,after,"After Matisse
+signed, dated, inscribed and titled 'Paresh Maity '04 / oil on canvas / 4' x 5' / After Matisse' (on the reverse)
+oil on canvas
+48
+1
+⁄
+8
+ x 60 in. (122.2 x 152.4 cm.)
+Painted in 2004",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0063_000(paresh_maity_after_matisse032718).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/paresh-maity-b-1965-63/291156?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12769.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+7095a177-4ab1-4609-9665-c9d011e6df69,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 64,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,JOGEN CHOWDHURY,1939,N/A,Woman Nude,drawing,ink and pastel on paper,N/A,27.5,19.5,in,yes,yes,yes,2007,"Acquired directly from the artist
+Artiana, Dubai
+Acquired from the above by the present owner","woman, nude, lying, pastel, ink, paper, soft colors, abstract, pose, background",1,177/2007,original,"Woman Nude
+initialed and dated in Bengali (lower left), signed and dated 'Jogen 2007' (lower center) and initialed and dated 'J 07' (lower right); further inscribed, dated, signed and titled '177 / 2007 / Jogen Chowdhury / ""Woman Nude"" / 50 x 70 cm / Ink with brush / & Dry Pastel / 2007 (Santiniketan)' (on the reverse)
+ink and pastel on paper
+19
+1
+⁄
+2
+ x 27
+1
+⁄
+2
+ in. (49.5 x 69.8 cm.)
+Executed in 2007
+
+Edition: 177/2007",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0064_000(jogen_chowdhury_woman_nude032725).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/jogen-chowdhury-b-1939-64/291159?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6319.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+dddde01f-b1ce-4bd0-acb2-85a65d22b4e3,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 65,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Reclining Nude),drawing,ink on paper,N/A,25.1,20.3,in,yes,yes,no,1956,"The Collection of Harold and Rose Kovner
+Gifted by the above to the present owner","nude, woman, reclining, ink, paper, line drawing, 1950s",1,N/A,original,"Untitled (Reclining Nude)
+signed and dated 'Souza 1956' (upper right)
+ink on paper
+8 x 9
+7
+⁄
+8
+ in. (20.3 x 25.1 cm.)
+Executed in 1956",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0065_000(francis_newton_souza_untitled032733).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-65/291182?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3187.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+770121f7-d9ad-453c-800e-ad909425fb1e,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 66,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Nude),drawing,ink on paper,N/A,7.875,10,in,yes,yes,no,1956,"The Collection of Harold and Rose Kovner
+Gifted by the above to the present owner","nude, figure, ink, paper, abstract, lines, shapes, sketch, form",1,N/A,original,"Untitled (Nude)
+signed and dated 'Souza 56' (upper left)
+ink on paper
+10 x 7
+7
+⁄
+8
+ in. (25.4 x 20 cm.)
+Executed in 1956",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0066_000(francis_newton_souza_untitled032739).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-66/291183?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3187.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+345c6979-b578-4f7a-8acb-0b34dda1efac,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 67,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Standing Nude with Jewels),drawing,ink on paper,N/A,8,10,in,yes,yes,no,1956,"The Collection of Harold and Rose Kovner
+Gifted by the above to the present owner","nude, woman, jewels, ink, paper, torso, hand, face, hair, lines",1,N/A,original,"Untitled (Standing Nude with Jewels)
+signed and dated 'Souza 1956' (upper left)
+ink on paper
+10 x 8 in. (25.4 x 20.3 cm.)
+Executed in 1956",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0067_000(francis_newton_souza_untitled032746).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-67/291184?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3187.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+927855bc-c9b7-4794-a44f-99a2f75063be,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 68,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Standing Nude),drawing,ink on paper,N/A,8,13,in,yes,yes,no,1957,"Acquired in London, 
+circa 
+late 1980s","nude, woman, standing, ink, drawing, figure",1,N/A,original,"Untitled (Standing Nude)
+signed and dated 'Souza 57' (upper left)
+ink on paper
+13 x 8 in. (33 x 20.3 cm.)
+Executed in 1957",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0068_000(francis_newton_souza_untitled030946).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-68/291161?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2268.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3500.0,2916.666666666667
+15ae9475-5f93-4d78-8fda-2f16c14ecff2,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 69,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,BAL CHHABDA,1923,2013,Paula,painting,oil on canvas,N/A,18,51,in,yes,yes,yes,1959,"The Collection of the Artist
+Thence by descent
+Acquired from the above by the present owner","woman, green shirt, striped pants, background, portrait, standing figure, expressive features, india, oil painting, 1959",1,N/A,original,"Paula
+signed, dated, titled and inscribed 'Bal 59 / TITLE PaulA / Bal / Bal Chhabda / Darshan Apts / Malabar Hill / Mumbai - 6 / India' (on the reverse)
+oil on canvas
+51 x 18 in. (129.5 x 45.7 cm.)
+Painted in 1959",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0069_000(bal_chhabda_paula030951).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/bal-chhabda-1923-2013-69/291164?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10078.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+2be0fb6e-da8b-4737-9940-1732a272a7ef,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 70,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,PARITOSH SEN,1918,2008,Untitled (Girl at Window),painting,oil on canvas,N/A,72,41.5,in,yes,yes,no,2000,"Gallery Seven, Mumbai
+Acquired from the above","girl, window, bra, skirt, hair, hand, wall, blue background, glasses, color",1,N/A,original,"Untitled (Girl at Window)
+signed and dated 'Paritosh Sen 2000' (center left)
+oil on canvas
+41
+1
+⁄
+2
+ x 72 in. (105.4 x 182.9 cm.)
+Painted in 2000",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0070_000(paritosh_sen_untitled032752).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/paritosh-sen-1918-2008-70/291163?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10078.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+2024e5ad-da91-4ad5-b81b-247555350e21,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 71,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,AVINASH CHANDRA,1931,1991,Nymphs,painting,acrylic on canvas,N/A,47.875,60,in,yes,yes,yes,1969,"Sotheby's New York, 19 March 2008, lot 52
+Acquired from the above by the present owner","nymphs, figures, moon, clouds, abstract forms, colors, outlines, waves, landscape, silhouette",1,N/A,original,"Nymphs
+signed and dated 'Avinash 69' (lower left); further inscribed, signed and titled 'AC/42/M / Avinash / Nymphs' (on the reverse)
+acrylic on canvas
+60 x 47
+7
+⁄
+8
+ in. (152.4 x 121.6 cm.)
+Painted in 1969",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0071_000(avinash_chandra_nymphs032758).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/avinash-chandra-1931-1991-71/291165?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12688.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+21235b0b-6ff1-4e18-88ce-beb175fe1c54,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 72,USD,800,1200,N/A,N/A,800,1200,N/A,N/A,AVINASH CHANDRA,1931,1991,Untitled (Landscape),mixed media,mixed media on printed card,N/A,7.125,5.5,in,yes,yes,no,1960,"Rose Fried Gallery, New York
+Acquired from the above","landscape, abstract forms, red color, circular patterns, mixed media, textured background, organic shapes",1,N/A,original,"Untitled (Landscape)
+signed and dated 'Avinash 60' (lower left)
+mixed media on printed card
+5
+1
+⁄
+2
+ x 7
+1
+⁄
+8
+ in. (14 x 18.1 cm.)
+Executed in 1960",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0072_000(avinash_chandra_untitled032806).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/avinash-chandra-1931-1991-72/291162?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1010.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1100.0,916.6666666666667
+d27d57fd-ef4e-4da7-babb-9e29d3524b36,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 73,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,KRISHNAJI HOWLAJI ARA,1914,1985,Untitled (Indoor Still Life; Outdoor Still Life),mixed media,"gouache, watercolor and pencil on paper; ink, gouache, pastel and pencil on paper",N/A,21.75,27.75,in,yes,yes,no,N/A,"Acquired by the present owner in Oxforshire, 2021","indoor still life, outdoor still life, vase, branches, fruits, flowers, table, landscape, pottery, glassware",2,N/A,original,"Untitled (Indoor Still Life; Outdoor Still Life)
+signed 'ARA' (lower left); signed 'ARA' (lower right)
+gouache, watercolor and pencil on paper; ink, gouache, pastel and pencil on paper
+27
+3
+⁄
+4
+ x 21
+3
+⁄
+4
+ in. (70.5 x 55.2 cm.); 27
+7
+⁄
+8
+ x 21
+3
+⁄
+4
+ in. (70.8 x 55.2 cm.)
+Two works on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0073_000(krishnaji_howlaji_ara_untitled_d6576030032814).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/krishnaji-howlaji-ara-1914-1985-73/291078?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12480.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+1722934d-e7d2-41e1-b5be-f8a9a114df9e,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 74,USD,1000,2000,N/A,N/A,1000,2000,N/A,N/A,K. LAXMA GOUD,1940,N/A,Untitled (Ceramic Series),drawing,ink and gouache on paper,N/A,9,7.5,in,yes,yes,no,2000,"Saffronart, Mumbai
+Acquired from the above by the present owner, October 2006","figurative forms, ceramic objects, ink, gouache, human-like figures, abstract shapes, brown background",1,N/A,original,"Untitled (Ceramic Series)
+signed and dated in Telugu (upper left)
+ink and gouache on paper
+7
+1
+⁄
+2
+ x 9 in. (19.1 x 22.9 cm.)
+Executed in 2000",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0074_000(k_laxma_goud_untitled032820).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/k-laxma-goud-b-1940-74/291088?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1276.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1600.0,1333.3333333333335
+f31bdfe8-ed71-46fa-ab30-1e6e026eb69b,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 75,USD,7000,10000,N/A,N/A,7000,10000,N/A,N/A,BADRI NARAYAN,1929,2013,Still Life,painting,watercolor and ink on paper,N/A,29.5,21.5,in,yes,yes,yes,2000,"Acquired from the family of the artist
+Thence by descent
+Private Collection, Singapore
+Christie's London, 11 June 2019, lot 47
+Acquired from the above by the present owner","flowers, green bottle, fruit, green leaves, glass, knife, bird, bowl, tableware, still life",1,N/A,original,"Still Life
+initialed in Hindi (lower right)
+watercolor and ink on paper
+21
+1
+⁄
+2
+ x 29
+1
+⁄
+2
+ in. (54.6 x 74.9 cm.)
+Executed 
+circa 
+2000s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0075_000(badri_narayan_still_life032828).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/badri-narayan-1929-2013-75/291092?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10077.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,9500.0,7916.666666666667
+a5f085c6-a66d-4525-8bfb-d992834718fb,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 76,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,MOHAN SHARMA,1942,1988,Still Life,painting,oil on canvas,N/A,25.875,20,in,yes,yes,yes,1975,"Private Collection, England
+Hotel des Ventes Mediterranee, 26 May 2023, lot 511
+Acquired from the above","still life, orange container, blue container, red spheres, green sphere, geometric shapes, shadows, light reflections, canvas composition, modern art",1,N/A,original,"Still Life
+signed and dated 'Mohan 75' (lower right); further titled, signed, dated and inscribed 'STILL LIFE MOHAN SHARMA 1975. 26"" x 20""' (on canvas flap on the reverse)
+oil on canvas
+20 x 25
+7
+⁄
+8
+ in. (50.8 x 65.7 cm.)
+Painted in 1975",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0076_000(mohan_sharma_still_life032836).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/mohan-sharma-1942-1988-76/291097?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3776.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+05cb4fd5-d21f-428f-944b-46ed508cdcd5,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 77,USD,1200,1800,N/A,N/A,1200,1800,N/A,N/A,SAYED HAIDER RAZA & BAL CHHABDA,1922,2016,Untitled (Champagne at Moulin Rouge),prints,ink on printed paper,N/A,7.875,5.75,in,yes,yes,no,1960,"The Collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","Moulin Rouge, champagne, dancer, ink, printed paper, Paris, figures, drawing, signatures, 1960",1,N/A,original,"SAYED HAIDER RAZA (1922-2016) & BAL CHHABDA (1923-2013)
+Untitled (Champagne at Moulin Rouge)
+signed 'Bal' (center right, recto); further signed 'RAZA' (lower left, verso) and inscribed and dated 'PARIS / le 19 Nov '60' (upper right, verso)
+ink on printed paper
+5
+3
+⁄
+4
+ x 7
+7
+⁄
+8
+ in. (14.6 x 20 cm.)
+Executed in 1960",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0077_000(sayed_haider_raza_amp_bal_chhabda_untitled032844).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sayed-haider-raza-1922-2016-bal-chhabda-1923-2013-77/291166?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1266.37,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1500.0,1250.0
+c8a145de-a1d7-4829-a2b1-ac5cd970a696,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 78,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled,mixed media,mixed media on paper,N/A,19,6.875,in,yes,yes,no,1973,"The collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","figures, people, hands, abstract shapes, lines, text, animals, landscapes, still life, poses",10,N/A,original,"Untitled
+signed, dated and inscribed as illustrated
+mixed media on paper
+6
+7
+⁄
+8
+ x 19 in. (17.5 x 48.3 cm.) largest; 6
+7
+⁄
+8
+ x 18
+1
+⁄
+4
+ in. (17.5 x 46.3 cm.) smallest
+Executed in 1973, 1980 and 1981; ten works on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0078_000(maqbool_fida_husain_untitled031009).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-78/291073?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12480.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+f7dde97d-e593-45f2-8b72-834c98a81f80,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 79,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled,drawing,ink on paper,N/A,8.625,11.25,in,yes,yes,no,1976,"Christie's London, 10 June 2010, lot 79
+Acquired from the above by the present owner","woman, figure, hands, body, attire, accessories, composition, line drawing, ink, paper",1,N/A,original,"Untitled
+signed and dated 'Souza 1976' (upper left)
+ink on paper
+11
+1
+⁄
+4
+ x 8
+5
+⁄
+8
+ in. (28.6 x 21.9 cm.)
+Executed in 1976",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0079_000(francis_newton_souza_untitled011054).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-79/291080?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+2210fc09-e02f-47b0-b40a-bed440aa8bb7,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 80,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (Figures with Whips),drawing,ink on paper,N/A,8,13,in,yes,yes,no,1962,Acquired directly from the artist,"figures, whips, ink drawing, human forms, abstract lines, tribal elements, torso, limbs, facial features, patterns",1,N/A,original,"Untitled (Figures with Whips)
+signed and dated 'Souza 62' (center right)
+ink on paper
+13 x 8 in. (33 x 20.3 cm.)
+Executed in 1962",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0080_000(francis_newton_souza_untitled031100).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-80/291091?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3188.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+f2ea35dd-d6a9-4188-a589-d999460946c9,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 81,USD,1200,1800,N/A,N/A,1200,1800,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled,drawing,ink on printed card,N/A,8.875,4,in,yes,yes,no,1969,"The collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","figures, exhibition invitation, blue lines, abstract forms, ink, printed card, 1969, artist's signature, attendees, event details",1,N/A,original,"Untitled
+signed in Hindi, initialed in Urdu and dated ''69' (lower left)
+ink on printed card
+4 x 8
+7
+⁄
+8
+ in. (10.2 x 22.5 cm.)
+Executed in 1969",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0081_000(maqbool_fida_husain_untitled031105).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-81/291167?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1263.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1500.0,1250.0
+1a1f5013-d768-4198-aa48-33409b72048a,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 82,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,"Untitled (Zurich, London-New York)",drawing,ink on paper,N/A,5.875,8.75,in,no,yes,no,1973,"The collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","bicycle, house, mountain, bear, woman, circles, lines, words, sun, figure",3,N/A,original,"Untitled (Zurich, London-New York)
+inscribed and dated 'Zurich 15 VI '73' (lower left) one; inscribed and dated 'London-New York 28.VI.'73' (lower right) one; inscribed and dated 'London-New York 28.VI.'73' (upper left) one
+ink on paper
+8
+3
+⁄
+4
+ x 5
+7
+⁄
+8
+ in. (22.2 x 14.9 cm.) each
+Executed in 1973; three works on paper",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0082_000(maqbool_fida_husain_untitled031110).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-82/291076?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3117.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+eaebbf50-31ed-4bb4-b5fc-5289018d2db9,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 83,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Untitled,drawing,felt-tip pen on paper,N/A,13.75,9.875,in,yes,yes,no,1981,"The collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","artist, figures, painting, nude, art history, reference, two-dimensional, collage, linework, composition",1,N/A,original,"Untitled
+signed, dated and inscribed 'Husain 30.IX.1981-ZURICH-BOMBAY' (center right)
+felt-tip pen on paper
+9
+7
+⁄
+8
+ x 13
+3
+⁄
+4
+ in. (25.1 x 34.9 cm.)
+Executed in 1981",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0083_000(maqbool_fida_husain_untitled031114).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-83/291075?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3768.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+106c3914-f8fb-4c1f-8952-2976fe3f5f0f,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 84,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Culture of the Streets,prints,Kodak C-prints on paper,N/A,13,10.875,in,no,yes,yes,1980,"The collection of Bal Chhabda
+Thence by descent
+Acquired from the above by the present owner","photographs, street culture, urban scenes, everyday life, Indian society, people, advertisements, bicycles, portraits, expressions",35,039/45,original,"Culture of the Streets
+numbered '39' (lower left of introduction sheet)
+Kodak C-prints on paper
+10
+7
+⁄
+8
+ x 13 in. (27.6 x 33 cm.) each
+Executed 
+circa 
+1980s; number thirty-nine from an edition of forty-five; thirty-five prints, including four bearing printed title, introduction and essay
+
+Edition: 039/45",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0084_000(maqbool_fida_husain_culture_of_the_streets031120).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-84/291168?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6319.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+68c106cf-48d3-40e4-9bb7-832d56cb4377,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 85,USD,1200,1800,N/A,N/A,1200,1800,N/A,N/A,MAQBOOL FIDA HUSAIN,1913,2011,Varanasi I,prints,serigraph on paper,N/A,19,26.625,in,yes,yes,yes,1973,"Private collection, North Carolina
+Village Auctions, 11 May 2025, lot 229
+Acquired from the above by the present owner","buildings, people, stairs, umbrellas, boat, table, pots, bottles, river, city",1,N/A,original,"Varanasi I
+signed in Hindi and inscribed 'AP"" (lower edge) and titled and dated 'Varanasi i 25 II '73' (upper right)
+serigraph on paper
+26
+5
+⁄
+8
+ x 19 in. (67.6 x 48.3 cm.) image; 30 x 22 in. (76.2 x 55.9 cm.) sheet
+Executed in 1973; artist's proof",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0085_000(maqbool_fida_husain_varanasi_i031211).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/maqbool-fida-husain-1913-2011-85/291169?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1516.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1600.0,1333.3333333333335
+82505607-e8b0-4d0b-ba33-c64c56c4c628,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 86,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,FRANCIS NEWTON SOUZA,1924,2002,Untitled (World's First Chemical Painting),mixed media,chemical alteration on printed paper laid on card,N/A,10.25,13,in,no,yes,no,1969,"The Estate of Francis Newton Souza
+Christie's London, 9 June 2010, lot 84
+Acquired from the above by the present owner","text, chemical painting, printed paper, card, abstract, 1969",1,N/A,original,"Untitled (World's First Chemical Painting)
+chemical alteration on printed paper laid on card
+13 x 10
+1
+⁄
+4
+ in. (33 x 26 cm.)
+Executed in 1969",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0086_000(francis_newton_souza_untitled031216).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/francis-newton-souza-1924-2002-86/291170?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7500.0,6250.0
+e37f964c-dc02-4f8f-a888-13824820ef78,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 87,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,HOMI PATEL,1928,2004,Untitled,painting,oil on canvas,N/A,60,40,in,yes,yes,no,1969,"Regent Art Gallery, Mumbai
+Acquired from the above by the present owner, 
+circa 
+early 2000s","abstract, textured surface, neutral colors, grid, minimalism",1,N/A,original,"Untitled
+inscribed, signed and dated '40"" x 60"" / 153 cms x 102 cms / Homi Patel / 1969' (on the reverse)
+oil on canvas
+59
+1
+⁄
+2
+ x 39
+3
+⁄
+4
+ in. (151.1 x 101 cm.)
+Painted in 1969",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0087_000(homi_patel_untitled040311).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/homi-patel-1928-2004-87/291070?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10050.03,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+d7b3198f-5160-470b-80d0-0e04d5375a4a,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 88,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,SOHAN QADRI,1932,2011,Untitled,mixed media,mixed media on canvas,N/A,10,8,in,yes,yes,no,1972,"The Estate of Alice Percell
+Clars Auction Gallery, 16 February 2014, lot 2292
+Acquired from the above","mixed media, canvas, textures, abstract forms, colors, organic shapes, earthy tones, relief, surface detail",1,N/A,original,"Untitled
+signed 'Qadri' (lower right); further signed, inscribed and dated 'SOHAN QADRI / (INDIA) / Hollywood / March 72' (on the reverse)
+mixed media on canvas
+8 x 10 in. (20.3 x 25.4 cm.)
+Painted in 1972",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0088_000(sohan_qadri_untitled032852).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sohan-qadri-1932-2011-88/291085?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6219.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+76a19d61-929c-4fc9-be39-146f29465634,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 89,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,SOHAN QADRI,1932,2011,Untitled,mixed media,mixed media on canvas,N/A,8,10,in,yes,yes,no,1972,"The Estate of Alice Percell
+Clars Auction Gallery, 16 February 2014, lot 2293
+Acquired from the above","abstract, texture, blue, brown, mixed media, canvas, square, painted surface, layered materials, organic shapes",1,N/A,original,"Untitled
+signed 'Qadri' (lower right); further signed, inscribed and dated 'SOHAN QADRI / (INDIA) / Hollywood / Feb. 72 / Alice Purcell' (on the reverse)
+mixed media on canvas
+10 x 8 in. (25.4 x 20.3 cm.)
+Painted in 1972",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0089_000(sohan_qadri_untitled032900).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sohan-qadri-1932-2011-89/291086?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6219.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+bef1e5fe-94be-4d67-a955-7a91bd941f81,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 90,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,SOHAN QADRI,1932,2011,Untitled,mixed media,"ink, dye and incisions on paper",N/A,11.5,11.25,in,yes,yes,no,1982,"The Collection of Chester and Davida Herwitz
+Acquired from the above","ink, dye, paper, black rectangles, incisions, dots, abstraction, texture, contrast, monochrome, shapes",1,N/A,original,"Untitled
+signed and dated 'Qadri 82' (lower center); further signed and inscribed 'Qadri Montréal-8234' (on the reverse)
+ink, dye and incisions on paper
+11
+1
+⁄
+4
+ x 11
+1
+⁄
+2
+ in. (28.6 x 29.2 cm.)
+Executed in 1982",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0090_000(sohan_qadri_untitled031225).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sohan-qadri-1932-2011-90/291172?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,4038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+325252fb-cbcb-4808-aafe-dbb662167033,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 91,USD,500,700,N/A,N/A,500,700,N/A,N/A,PRABHAKAR KOLTE,1946,N/A,Untitled,painting,acrylic on card,N/A,10.125,8.125,in,yes,yes,no,2001,"Acquired directly from the artist by the present owner, 2001","abstract, colors, brown, horizontal lines, rectangles",1,N/A,original,"Untitled
+signed in Marathi and dated '2001' (lower right)
+acrylic on card
+8
+1
+⁄
+8
+ x 10
+1
+⁄
+8
+ in. (20.6 x 25.7 cm.)
+Executed in 2001",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0091_000(prabhakar_kolte_untitled031232).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/prabhakar-kolte-b-1946-91/291171?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1010.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,650.0,541.6666666666667
+2dba716b-c127-4cf4-b766-b9a54f8738fe,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 92,USD,10000,15000,N/A,N/A,10000,15000,N/A,N/A,NATVAR BHAVSAR,1934,N/A,Dhyaana I,painting,dry pigments with oil and acrylic on canvas,N/A,21,23.125,in,yes,yes,yes,2005,"Sundaram Tagore Gallery, New York
+Acquired from the above by the present owner in consultation with the artist, March 2006","abstract, blue, texture, geometric, canvas, pigments, dark background, acrylic, oil",1,N/A,original,"Dhyaana I
+signed, titled, dated and inscribed 'NATVAR BHAVSAR / DHYAANA i 2005. / 23"" x 21""' (on the reverse) and signed, dated and titled 'NATVAR BHAVSAR 2005 / DHYAANA i' (on canvas flap on the reverse)
+dry pigments with oil and acrylic on canvas
+23
+1
+⁄
+8
+ x 21 in. (58.7 x 53.3 cm.)
+Painted in 2005",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0092_000(natvar_bhavsar_dhyaana_i031239).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/natvar-bhavsar-b-1934-92/291079?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,12769.09,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+750e9077-340a-4cc5-96ed-0839cb9bc8d5,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 93,USD,2500,3500,N/A,N/A,2500,3500,N/A,N/A,NAREEN NATH,1937,N/A,Untitled,painting,oil on canvas,N/A,31.875,39.625,in,yes,yes,no,1976,"Private Collection, United States
+Akiba Galleries Florida, 12 September 2023, lot 364
+Acquired from the above","abstract shapes, beige color, minimalism, geometric forms",1,N/A,original,"Untitled
+signed in Hindi and dated and signed '76 / NAREEN' (on the reverse)
+oil on canvas
+39
+5
+⁄
+8
+ x 31
+7
+⁄
+8
+ in. (100.6 x 81 cm.)
+Painted in 1976",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0093_000(nareen_nath_untitled031249).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/nareen-nath-b-1937-93/291095?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3163.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+0f81a61d-e0f7-4ab1-949a-486dd2ae48c5,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 94,USD,30000,50000,N/A,N/A,30000,50000,N/A,N/A,MOHAN SAMANT,1924,2004,Untitled (White Wall),mixed media,mixed media on canvas,N/A,50,50,in,no,yes,no,1960,"Acquired directly from the artist by Herbert Mayer, owner of World House Galleries, New York
+Thence by descent","abstract, white, texture, shapes, lines",1,N/A,original,"Untitled (White Wall)
+mixed media on canvas
+50 x 50 in. (127 x 127 cm.)
+Painted 
+circa 
+1960s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0094_000(mohan_samant_untitled031257).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/mohan-samant-1924-2004-94/291098?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,37600.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,42500.0,35416.66666666667
+f30992e4-3bd1-496d-b4c3-50d0e090dd2a,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 95,USD,1800,2500,N/A,N/A,1800,2500,N/A,N/A,KRISHNA REDDY,1925,2018,La Vague (The Wave),prints,mixed color intaglio on paper,N/A,18.625,14.5,in,yes,yes,yes,1960,"Karlstad Hammaro Auktionsverk, 7 December 2024, lot 3905093
+Acquired from the above","wave, water, blue, black, grey, texture, movement, ocean, foam, horizon",1,010/15,original,"La Vague (The Wave)
+signed 'A. Krishna Reddy' and inscribed 'EA X/XV' (lower edge)
+mixed color intaglio on paper
+14
+1
+⁄
+2
+ x 18
+5
+⁄
+8
+ in. (36.8 x 47.3 cm.) image; 19 x 22
+1
+⁄
+8
+ in. (48.3 x 56.2 cm.) sheet
+Executed 
+circa 
+early 1960s; artist's proof number ten from an edition of fifteen
+
+Edition: 010/15",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0095_000(krishna_reddy_la_vague031307).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/krishna-reddy-1925-2018-95/291173?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2031.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2200.0,1833.3333333333335
+79b2b377-f1a8-4267-9f83-b9333002198a,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 96,USD,1000,2000,N/A,N/A,1000,2000,N/A,N/A,ZARINA,1937,2020,Boundaries of Despair (from House of Many Rooms),prints,etching on paper,N/A,7.875,9,in,yes,yes,yes,1993,"Bodhi Art, New York
+Acquired from the above","abstract, black, etching, texture, lines",1,007/25,original,"Boundaries of Despair (from House of Many Rooms)
+titled 'Boundaries of despair' (center left); numbered, signed, dated and inscribed '7 /25 Zarina 93 / 4' (on the reverse)
+etching on paper
+9 x 7
+7
+⁄
+8
+ (22.9 x 20 cm.) plate; 16
+1
+⁄
+2
+ x 29
+1
+⁄
+4
+ in. (41.9 x 74.2 cm.) unfolded sheet
+Executed in 1993; number seven from an edition of twenty-five
+
+Edition: 007/25",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0096_000(zarina_boundaries_of_despair031314).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/zarina-1937-2020-96/291087?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1266.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1800.0,1500.0
+698ca372-4d21-46d7-a7d6-f941b18f1cca,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 97,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,NATARAJ SHARMA,1958,N/A,Untitled (Structure Series),mixed media,mixed media on paper,N/A,58.875,78.5,in,no,yes,no,N/A,"Bodhi Art, New York
+Acquired from the above","building, skyscraper, architecture, mixed media, paper, urban, cityscape, vertical, black, brown",1,N/A,original,"Untitled (Structure Series)
+mixed media on paper
+78
+1
+⁄
+2
+ x 58
+7
+⁄
+8
+ in. (199.4 x 149.5 cm.) sheet",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0097_000(nataraj_sharma_untitled031321).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/nataraj-sharma-b-1958-97/291174?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+7c682b4a-0820-4d08-99b0-0b6d404464a3,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 98,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,JITISH KALLAT,1974,N/A,Orphan Dance,mixed media,mixed media on canvas,N/A,73,14.75,in,yes,yes,yes,1999,"Bose Pacia, New York
+Acquired from the above by the present owner, 1999","hands, skeleton, urban scene, circles, textures, abstract patterns, figures, colors, layered imagery, mixed media",1,N/A,original,"Orphan Dance
+signed, dated, titled and inscribed as illustrated
+mixed media on canvas; pentaptych
+14
+3
+⁄
+4
+ x 73 in. (37.5 x 185.4 cm.)
+Painted in 1999",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0098_000(jitish_kallat_orphan_dance_d6576055032908).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/jitish-kallat-b-1974-98/291175?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,15087.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+8d7e72fd-f8d2-46da-91d5-f7060c9b3527,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 99,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,JITISH KALLAT,1974,N/A,Untitled (Commuter),mixed media,mixed media on canvas,N/A,43.875,14.75,in,yes,yes,no,2000,"Bose Pacia, New York
+Acquired from the above by the present owner, 2000","commuter, figure, abstract patterns, mixed media, triptych, urban environment, red color, yellow lines, black background, detailed figure",1,N/A,original,"Untitled (Commuter)
+signed, dated and titled '-© 2000 JITISH KALLAT - UNTITLED (COMMUTER)' (center left and upper center) and inscribed '(2)' (center) and '(3) L to R' (upper center)
+mixed media on canvas; triptych
+14
+3
+⁄
+4
+ x 43
+7
+⁄
+8
+ in (37.5 x 111.4 cm.)
+Painted in 2000",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0099_000(jitish_kallat_untitled_d6576056032912).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/jitish-kallat-b-1974-99/291176?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10050.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+175daf7e-ec9c-4533-8ba5-6d55e66ac7f1,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 100,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,REENA SAINI KALLAT,1973,N/A,Untitled,mixed media,mixed media on paper,N/A,44.75,23.75,in,no,yes,no,2000,"Sotheby's London, 23 May 2006, lot 220
+Acquired from the above by the present owner","knight, monument, church, flowers, figures, sword, color patterns, triptych, mixed media, abstract",1,N/A,original,"Untitled
+mixed media on paper; triptych
+23
+3
+⁄
+4
+ x 44
+3
+⁄
+4
+ in. (60.3 x 113.7 cm.)
+Executed 
+circa 
+early 2000s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0100_000(reena_saini_kallat_untitled032916).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/reena-saini-kallat-b-1973-100/291090?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,2031.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2750.0,2291.666666666667
+9fe72b93-9547-4a82-8115-fee487248f7f,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 101,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,SHEILA MAKHIJANI,1962,N/A,Untitled,painting,acrylic on canvas,N/A,19.625,15.625,in,yes,yes,no,1980,"Acquired directly from the artist by a Dutch diplomat introduced by Ambassador Eegje Schoo, New Delhi, 
+circa 
+early 1990s
+Private Collection, the Netherlands
+Acquired from the above by the present owner","skeleton, abstract forms, blue, green, red, canvas, human figure, layered shapes, expressive strokes, contrast",1,N/A,original,"Untitled
+signed 'Sheila Makhijani' (on the reverse)
+acrylic on canvas
+15
+5
+⁄
+8
+ x 19
+5
+⁄
+8
+ in. (39.7 x 49.8 cm.)
+Painted 
+circa 
+late 1980s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0101_000(sheila_makhijani_untitled032922).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sheila-makhijani-b-1962-101/291093?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+f7346628-14dd-4d99-8a52-5334bdee59a0,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 102,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,SHEILA MAKHIJANI,1962,N/A,Untitled,painting,acrylic on canvas,N/A,18.125,13.875,in,yes,yes,no,1980,"Acquired directly from the artist by a Dutch diplomat introduced by Ambassador Eegje Schoo, New Delhi, 
+circa 
+early 1990s
+Private Collection, the Netherlands
+Acquired from the above by the present owner","blue, green, abstract shapes, lines",1,N/A,original,"Untitled
+signed 'Sheila Makhijani' (on the reverse)
+acrylic on canvas
+13
+7
+⁄
+8
+ x 18
+1
+⁄
+8
+ in. (35.2 x 46 cm.)
+Painted 
+circa 
+late 1980s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0102_000(sheila_makhijani_untitled032931).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sheila-makhijani-b-1962-102/291094?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,4993.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+f533e2c4-d4e6-415a-bc98-8414ac8c4c23,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 103,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,RASHID RANA,1968,N/A,Scatter in Time III,prints,digital chromogenic print mounted on diasec,N/A,17.75,11.875,in,no,yes,yes,2016,"Acquired directly from the artist
+Private Collection, United Kingdom
+Acquired from the above","figures, architecture, landscape, trees, drapery, classical elements, human forms, colors",1,N/A,original,"Scatter in Time III
+digital chromogenic print mounted on diasec
+11
+7
+⁄
+8
+ x 17
+3
+⁄
+4
+ in. (30.2 x 45.1 cm.)
+Executed in 2016-17; from an edition of five",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0103_000(rashid_rana_scatter_in_time_iii032940).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/rashid-rana-b-1968-103/291099?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+76eb1aaf-cf20-4c03-890e-61dca685d597,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 104,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,ISMAIL GULGEE,1926,2007,Untitled,painting,oil on canvas,N/A,12,12,in,yes,yes,no,2002,"Acquired directly from the artist
+Private collection, Pakistan 
+Chawkandi Gallery, Karachi
+Acquired from the above","circle, orange, gray, abstract",1,N/A,original,"Untitled
+signed and dated 'Gulgee 02' (lower left); further signed and dated 'Gulgee / 2002' (on the reverse)
+oil on canvas
+12 x 12 in. (30.5 x 30.5 cm.)
+Painted in 2002",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0104_000(ismail_gulgee_untitled032947).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/ismail-gulgee-1926-2007-104/291177?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,3776.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+e498bdc4-e33c-460b-bba8-1fc118a00d62,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 105,USD,6000,8000,N/A,N/A,6000,8000,N/A,N/A,BASHIR MIRZA,1941,2000,Untitled (Australian Sun Series),painting,oil on canvas,N/A,35,35,in,yes,yes,no,1990,"Arts Council of Pakistan, Karachi
+Acquired from the above, 
+circa 
+1990s","sun, abstract, red circle, blue background, green shapes, yellow line, oil painting, contemporary, nature, landscape",1,N/A,original,"Untitled (Australian Sun Series)
+signed 'Bashir Mirza' and dated indistinctly (upper left)
+oil on canvas
+35 x 35 in. (88.9 x 88.9 cm.)
+Painted 
+circa 
+1990s",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0105_000(bashir_mirza_untitled032956).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/bashir-mirza-1941-2000-105/291178?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,10048.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+a1f1b0ec-2960-48d1-a09e-5b39a7ff30b0,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 106,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,SAYED HAIDER RAZA,1922,2016,Yoni,ceramics,polychrome enamel on ceramic,N/A,21.375,21.375,in,yes,yes,yes,2008,"Private collection, Paris
+Private collection, Singapore
+Artiana Dubai, 30 June 2022, lot 37
+Acquired from the above by the present owner","circle, triangle, black, gray, blue, brown, semicircle, stripes, geometric shapes, enamel",1,001/8,original,"Yoni
+signed 'RAZA' (lower right); further signed, dated and numbered 'RAZA / 2008 / 1/8' and signed 'RAZA' (on La Tuilerie plaque on the reverse)
+polychrome enamel on ceramic
+21
+3
+⁄
+8
+ x 21
+3
+⁄
+8
+ in. (54.3 x 54.3 cm.)
+Executed in 2008; number one from an edition of eight
+
+Edition: 001/8",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0106_000(sayed_haider_raza_yoni033005).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sayed-haider-raza-1922-2016-106/291089?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6319.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+5ed755d8-4a87-4129-ab2e-2e6ff24b0aa1,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 107,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,SAYED HAIDER RAZA,1922,2016,Bindu Visarg,sculpture,bronze with polychrome patina,N/A,19.375,19.375,in,yes,yes,yes,2007,"Millon Nice, 20 July 2023, lot 87
+Acquired from the above by the present owner","circle, bronze, patina, textured surface, symmetrical design, abstract art",1,006/6,original,"Bindu Visarg
+signed, titled, inscribed and dated 'RAZA / ""BINDU VISARG"" / 6 /6 / Edition du Gour / 2007' and etched with the same (on the reverse)
+bronze with polychrome patina
+19
+3
+⁄
+8
+ x 19
+3
+⁄
+8
+ in. (49.2 x 49.2 cm.)
+Executed in 2007; number six from an edition of six
+
+Edition: 006/6",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0107_000(sayed_haider_raza_bindu_visarg033014).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sayed-haider-raza-1922-2016-107/291179?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,6395.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+e4c84ef0-e30c-458b-9893-da7f97f48240,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 108,USD,1500,2500,N/A,N/A,1500,2500,N/A,N/A,SAYED HAIDER RAZA,1922,2016,Untitled (Composition),prints,lithograph on paper,N/A,17.5,18.75,in,yes,yes,no,2000,"Millon Nice, 14 December 2022, lot 55
+Acquired from the above by the present owner","abstract composition, geometric shapes, squares, color blocks, red, black, triangles, patterns, lithograph, modern art",1,006/80,original,"Untitled (Composition)
+signed 'RAZA' and numbered '6 /80' (lower edge)
+lithograph on paper
+18
+3
+⁄
+4
+ x 17
+1
+⁄
+2
+ in. (47.6 x 44.5 cm.) plate; 27
+3
+⁄
+4
+ x 21
+3
+⁄
+4
+ in. (70.5 x 55.2 cm.) sheet
+Executed 
+circa 
+early 2000s; number six from an edition of eighty
+
+Edition: 006/80",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0108_000(sayed_haider_raza_untitled031451).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sayed-haider-raza-1922-2016-108/291100?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,1927.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2100.0,1750.0
+1c523d6a-39e4-4cc2-820f-40de5706d996,Artwork,Christies,23954,2024-03-18,New York,South Asian Modern + Contemporary Art Online,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/lots/4004?loadall=true&page=10&sortby=LotNumber,Lot 109,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,SAYED HAIDER RAZA,1922,2016,Bindu Bija Mantra,prints,serigraph on archival paper,N/A,50,49.375,in,yes,yes,yes,2006,"Acquired directly from the artist by a private collector
+Acquired from the above by the present owner","sun, circle, square, triangle, spiral, color block, geometric pattern, abstract shapes, red, blue",1,N/A,original,"Bindu Bija Mantra
+signed, inscribed and titled 'A/P Bindu Bija Mantra RAZA' (lower edge)
+serigraph on archival paper
+49
+3
+⁄
+8
+ x 50 in. (125.4 x 127 cm.) plate; 60 x 60 in. (152.4 x 152.4 cm.) sheet
+Executed in 2006-07; artist's proof",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_23954_0109_000(sayed_haider_raza_bindu_bija_mantra031500).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/south-asian-modern-contemporary-art-online/sayed-haider-raza-1922-2016-109/291180?ldp_breadcrumb=back,7137.9,24657.57,49490.03,18.92,103.4,3.91,N/A,N/A,4038.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334

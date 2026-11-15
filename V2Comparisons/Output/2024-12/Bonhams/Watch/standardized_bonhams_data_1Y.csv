@@ -1,0 +1,58 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Rolex,Cosmograph Daytona,Bonhams,25313.49,37970.23,None,31900.0,26583.333333333336
+Lot 2,Patek Philippe,Aquanaut,Bonhams,31641.86,44298.6,None,38500.0,32083.333333333336
+Lot 3,Zenith,El Primero Chronomaster,Bonhams,5062.7,7594.05,None,6750.0,5625.0
+Lot 4,Harry Winston,Premier,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 5,FP Journe,Octa Divine,Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 6,Rolex,Texan Beta 21,Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 7,Omega,Speedmaster Professional 'Racing Dial',Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 8,Rolex,Datejust Ovettone,Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 9,Patek Philippe,<NA>,Bonhams,12656.74,18985.12,None,17500.0,14583.333333333334
+Lot 10,Cartier,<NA>,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 11,Patek Philippe,Calatrava,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 12,Cartier,Pasha,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 13,Audemars Piguet,Royal Oak Offshore,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 14,Jaeger-LeCoultre,Rendez-Vous Celestial,Bonhams,25313.49,37970.23,None,32500.0,27083.333333333336
+Lot 15,De Bethune,DBS-W,Bonhams,25313.49,37970.23,None,31900.0,26583.333333333336
+Lot 16,FP Journe,Chronomètre à Résonance,Bonhams,126567.44,189851.16,None,158000.0,131666.6666666667
+Lot 17,Patek Philippe,Calatrava,Bonhams,7594.05,10125.4,None,9500.0,7916.666666666667
+Lot 18,Patek Philippe,<NA>,Bonhams,8859.72,11391.07,None,10250.0,8541.666666666668
+Lot 19,Rolex,Oyster Observatory Chronometer,Bonhams,22782.14,27844.84,None,25000.0,20833.333333333336
+Lot 20,Rolex,Datejust 'Ovettone',Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 21,Cartier,Baignoire,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 22,Piaget,<NA>,Bonhams,5062.7,7594.05,None,6750.0,5625.0
+Lot 23,Patek Philippe,La Flamme,Bonhams,6328.37,8859.72,None,7850.0,6541.666666666667
+Lot 24,Patek Philippe,Officier 'Anniversary Edition',Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 25,Chopard,Luna D'Oro,Bonhams,5062.7,7594.05,None,6750.0,5625.0
+Lot 26,Cartier,Tank Anglaise,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 27,Blancpain,Répétition Minutes,Bonhams,22782.14,27844.84,None,25000.0,20833.333333333336
+Lot 28,Cartier,Crash,Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 29,Rolex,Day-Date,Bonhams,8859.72,11391.07,None,10250.0,8541.666666666668
+Lot 30,Patek Philippe,<NA>,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 31,Breitling,Chronomat,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 32,Patek Philippe,Limited Edition,Bonhams,12656.74,18985.12,None,17500.0,14583.333333333334
+Lot 33,Carl F Bucherer,Patravi Tribute to Fritz Brun,Bonhams,8859.72,11391.07,None,10250.0,8541.666666666668
+Lot 34,Ulysse Nardin,Hourstriker,Bonhams,18985.12,25313.49,None,21500.0,17916.666666666668
+Lot 35,Audemars Piguet,Royal Oak Offshore,Bonhams,37970.23,50626.98,None,45000.0,37500.0
+Lot 36,Grana,Dirty Dozen,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 37,TAG Heuer,Carrera,Bonhams,5062.7,7594.05,None,6750.0,5625.0
+Lot 38,Jaeger-LeCoultre,Grande Reverso,Bonhams,3797.02,5062.7,None,4325.0,3604.166666666667
+Lot 39,Tudor,Black Bay 'Platinum Jubilee RaSP',Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 40,Patek Philippe,Aquanaut,Bonhams,31641.86,44298.6,None,38500.0,32083.333333333336
+Lot 41,Patek Philippe,Limited Edition,Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 42,FP Journe,Lune Black Label,Bonhams,75940.46,101253.95,None,89500.0,74583.33333333334
+Lot 43,Rolex,Day-Date,Bonhams,10125.4,15188.09,None,13500.0,11250.0
+Lot 44,Cartier,Pasha,Bonhams,25313.49,37970.23,None,32500.0,27083.333333333336
+Lot 45,Patek Philippe,Perpetual Calendar,Bonhams,27844.84,30376.19,None,29500.0,24583.333333333336
+Lot 46,Rolex,Cosmograph Daytona,Bonhams,101253.95,151880.93,None,135000.0,112500.0
+Lot 47,Richard Mille,Perini Navi Cup,Bonhams,278448.37,405015.81,None,350000.0,291666.6666666667
+Lot 48,Breguet,Reine De Naples,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 49,Patek Philippe,Calatrava,Bonhams,12656.74,18985.12,None,15800.0,13166.666666666668
+Lot 50,Cartier,"Collection Privée, Tortue Monopoussoir",Bonhams,25313.49,37970.23,None,31200.0,26000.0
+Lot 51,Rolex,Day-Date II,Bonhams,25313.49,37970.23,None,32500.0,27083.333333333336
+Lot 52,FP Journe,"Octa Reserve de Marche, Limited Edition No.34/99-AN",Bonhams,101253.95,151880.93,None,126500.0,105416.66666666667
+Lot 53,Patek Philippe,Nautilus,Bonhams,56955.35,82268.84,None,73500.0,61250.0
+Lot 54,Urwerk,Grove Edition,Bonhams,31641.86,44298.6,None,38500.0,32083.333333333336
+Lot 55,Piaget,Altiplano,Bonhams,22782.14,27844.84,None,25000.0,20833.333333333336
+Lot 56,FP Journe,Tantalum Chronomètre Bleu,Bonhams,50626.98,75940.46,None,67500.0,56250.0
+Lot 57,Patek Philippe,Perpetual Calendar,Bonhams,44298.6,56955.35,None,51000.0,42500.0

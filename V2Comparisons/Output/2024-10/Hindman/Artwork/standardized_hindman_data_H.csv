@@ -1,0 +1,96 @@
+lot_number,artist_name,artwork_title,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Gustave Loiseau,Falaises de Normandie,80000,120000,105000.0,87500.0
+Lot 2,Albert Lebourg,"Le Bac de la Bouille, Le Matin,",7000,9000,8500.0,7083.333333333334
+Lot 3,Maxime Maufra,"Le Chemin du Moulin, Batz",10000,15000,12500.0,10416.666666666668
+Lot 4,Pablo Picasso,Portrait,30000,50000,45000.0,37500.0
+Lot 5,Jean Lambert-Rucki,Le Double Taureau,5000,7000,6500.0,5416.666666666667
+Lot 6,Fernand Léger,"Fleur,",30000,50000,45000.0,37500.0
+Lot 7,Salvador Dalí,Combat de Chevaliers,40000,60000,55000.0,45833.333333333336
+Lot 8,Dorothea Tanning,Le Chien,3000,5000,4500.0,3750.0
+Lot 9,Pablo Picasso,Scène de Tauromachie,25000,35000,30000.0,25000.0
+Lot 10,Odilon Redon,Femme Ailée,25000,35000,30000.0,25000.0
+Lot 11,Salvador Dalí,"Le Sommeil,",25000,40000,35000.0,29166.666666666668
+Lot 12,Gaston Lachaise,Dans La Nuit (Lovers),100000,150000,125000.0,104166.66666666667
+Lot 13,Maurice de Vlaminck,Village en Hiver,25000,35000,30000.0,25000.0
+Lot 14,Georges d'Espagnat,Nu Assis,6000,8000,7500.0,6250.0
+Lot 15,Robert Delaunay,"Fleurs,",15000,25000,18500.0,15416.666666666668
+Lot 16,Roger Mühl,Le Port,8000,12000,10500.0,8750.0
+Lot 17,Vũ Cao Đàm,L'Offrande,30000,50000,45000.0,37500.0
+Lot 18,Lê Phổ,Roses,25000,35000,30000.0,25000.0
+Lot 19,Raoul Dufy,Le Château de Langeais,25000,35000,30000.0,25000.0
+Lot 20,Maurice Utrillo,Place du Théâtre à Montmartre,6000,8000,7500.0,6250.0
+Lot 21,Maurice Utrillo,Moulin de la Galette,6000,8000,7500.0,6250.0
+Lot 22,Jean Dufy,San Giorgio Maggiore,80000,120000,95000.0,79166.66666666667
+Lot 23,Maurice de Vlaminck,La Ferme dans les Avoines,8000,12000,10500.0,8750.0
+Lot 24,Albert Gleizes,Sur une Écuyère de Cirque,10000,15000,12000.0,10000.0
+Lot 25,Bernard Buffet,Côte d'Azur,200000,250000,225000.0,187500.0
+Lot 26,Louis Valtat,Fleurs,10000,15000,12000.0,10000.0
+Lot 27,Albert André,Nature Morte aux Poissons,2500,4000,3500.0,2916.666666666667
+Lot 28,Eugène Galien-Laloue,Animation sur le Pont Neuf sous la Neige,6000,10000,8500.0,7083.333333333334
+Lot 29,Maurice Utrillo,Église de Pierrefitte,50000,80000,75000.0,62500.0
+Lot 30,Raoul Dufy,La Cage d'Oiseau,15000,25000,18000.0,15000.0
+Lot 31,Henry Moret,"Chemin Creux en Bretagne,",60000,100000,85000.0,70833.33333333334
+Lot 32,Alexander Young Jackson,"Sandy Cove, Lake Superior",6000,10000,8500.0,7083.333333333334
+Lot 33,Gustave Loiseau,"Belle-Île,",60000,100000,85000.0,70833.33333333334
+Lot 34,After René Magritte,Le Fils de l'Homme,6000,10000,7500.0,6250.0
+Lot 35,Camille Bombois,La Varenne à Chennevières,6000,10000,8500.0,7083.333333333334
+Lot 36,Henri Jean Guillaume Martin,Bassin et Fleurs,150000,250000,210000.0,175000.0
+Lot 37,Gustave Loiseau,Fleurs et Fruits,15000,25000,18500.0,15416.666666666668
+Lot 38,Pierre-Auguste Renoir,"Jeune Fille Tricotant (Drawing for the Letter 'L'),",15000,25000,18000.0,15000.0
+Lot 39,Pierre-Auguste Renoir,Buste de Madame Renoir,15000,25000,22000.0,18333.333333333336
+Lot 40,Berthe Morisot,Voiles au Portrieux,5000,8000,7500.0,6250.0
+Lot 41,Alfred Sisley,Études de Paysans,20000,30000,25000.0,20833.333333333336
+Lot 42,Berthe Morisot,Cygnes et Canards,4000,6000,5500.0,4583.333333333334
+Lot 43,Louise Germain,Les Coqs dans la Basse-Cour,3000,5000,4500.0,3750.0
+Lot 44,Louise Germain,Les Oies,2000,3000,2500.0,2083.3333333333335
+Lot 45,Louise Germain,Les Canards à l'Abreuvoir,2000,3000,3500.0,2916.666666666667
+Lot 46,Paul-Émile Pissarro,"Le Ruisseau, Clécy",2000,3000,2500.0,2083.3333333333335
+Lot 47,Henri Jean Guillaume Martin,Orphée à la Lyre,30000,50000,42000.0,35000.0
+Lot 48,Jacques Martin-Ferrières,Champ de Fleurs,4000,6000,5500.0,4583.333333333334
+Lot 49,Henri Lebasque,Bouquet de Fleurs,15000,25000,18500.0,15416.666666666668
+Lot 50,Constantin Aleksandrovich Westchiloff,Une Vieille Véranda à Capri (Italie),7000,10000,8500.0,7083.333333333334
+Lot 51,Fernando Cueto Amorsolo,Workers in Rice Field,30000,50000,45000.0,37500.0
+Lot 52,Lê Phó,L'Enfant aux Pavots,80000,120000,95000.0,79166.66666666667
+Lot 53,Lê Phó,Fleurs du Jardin sur une Table,60000,100000,85000.0,70833.33333333334
+Lot 54,Albert André,Parterre Fleuri dans un Jardin,3000,5000,4500.0,3750.0
+Lot 55,Hugues Claude Pissarro,Saint Rémy,5000,8000,7500.0,6250.0
+Lot 56,Hugues Claude Pissarro,Jeune Fille à la Barque,5000,7000,6500.0,5416.666666666667
+Lot 57,Gaston Lachaise,Standing Woman,6000,10000,8500.0,7083.333333333334
+Lot 58,Fernand Léger,"Nature Morte aux Pommes et Pichet devant la Fenêtre,",70000,90000,85000.0,70833.33333333334
+Lot 59,Gaston Lachaise,Torso (Second State),4000,6000,7500.0,6250.0
+Lot 60,Pablo Picasso,Père Nöel (Santa Claus),8000,12000,9500.0,7916.666666666667
+Lot 61,Rajmund Kanelba,﻿Portrait of a Young Woman,6000,8000,7500.0,6250.0
+Lot 62,Salvador Dalí,"Untitled,",5000,7000,7500.0,6250.0
+Lot 63,Hugues Claude Pissarro,L'Arr,8000,12000,10500.0,8750.0
+Lot 64,Jean Dufy,"Avenue de l'Opéra, Paris",15000,25000,18500.0,15416.666666666668
+Lot 65,Hugues Claude Pissarro,Deauville: Le Casino et la Plage,8000,12000,10500.0,8750.0
+Lot 66,Alfred Kubin,Phantasiestuck (Fantasy Piece),5000,8000,7500.0,6250.0
+Lot 67,Constantin Brancusi,Untitled (Danseuse),60000,80000,75000.0,62500.0
+Lot 68,Balthus ,Jeunes Garçons Jouant au Cerceau,4000,6000,5500.0,4583.333333333334
+Lot 69,Jacques Martin-Ferrières,La Seine,10000,15000,12000.0,10000.0
+Lot 70,Marc Chagall,Dans La Nature (Danseur Vert),150000,250000,210000.0,175000.0
+Lot 71,Fernand Léger,Tête de Comète,8000,12000,9500.0,7916.666666666667
+Lot 72,Salvador Dalí,"Neuf de Pentacles, Arcane Mineur (",15000,25000,18000.0,15000.0
+Lot 73,Pablo Picasso,Tauromachie,80000,120000,95000.0,79166.66666666667
+Lot 74,Salvador Dalí,"Six de Coupe, Arcane Mineur (",10000,15000,12000.0,10000.0
+Lot 75,André Derain,Nu Assis,1000,1500,1200.0,1000.0
+Lot 76,Jean Cocteau,Les Amants,4000,6000,5000.0,4166.666666666667
+Lot 77,Henri Laurens,Deux Femmes,1000,1500,1200.0,1000.0
+Lot 78,Otakar (Othon) Coubine,Still Life with Vegetables in a Bowl,6000,8000,7500.0,6250.0
+Lot 79,Blanche Hoschedé-Monet,"Jardin de Glaïeuls, Giverny,",60000,100000,85000.0,70833.33333333334
+Lot 80,Yvonne Canu,"Saint Florent, Corse",6000,10000,8500.0,7083.333333333334
+Lot 81,Louisa Matthíasdóttir,Landscape Near,4000,6000,5000.0,4166.666666666667
+Lot 82,Nicola Simbari,Afternoon in Trastevere,4000,6000,5500.0,4583.333333333334
+Lot 83,Nicola Simbari,The Red Sails,3000,5000,4500.0,3750.0
+Lot 84,Eugene Berman,Promenade en Val d'Enfer,5000,8000,7500.0,6250.0
+Lot 85,Ossip Zadkine,"La Toilette,",6000,10000,8500.0,7083.333333333334
+Lot 86,Eugene Berman,Il Grande Pilone,5000,8000,7500.0,6250.0
+Lot 87,Gaston Lachaise,"Veiled Nude,",1000,1500,1200.0,1000.0
+Lot 88,Gaston Lachaise,Male Nude,1000,1500,1200.0,1000.0
+Lot 89,Gaston Lachaise,Figure in Motion,1000,1500,1200.0,1000.0
+Lot 90,Fernand Léger,Composition Murale à la Feuille,20000,30000,25000.0,20833.333333333336
+Lot 91,Françoise Gilot,Oberon and Titania,15000,25000,18500.0,15416.666666666668
+Lot 92,Bernard Buffet,"Café,",60000,80000,75000.0,62500.0
+Lot 93,Fernand Léger,Étude pour le Portrait de Madame Dale;,8000,12000,9500.0,7916.666666666667
+Lot 94,Ossip Zadkine,"Trois Personnages,",5000,8000,7500.0,6250.0
+Lot 95,Guy Bardone,Alumunecar à la Mer Bleue,2000,3000,3500.0,2916.666666666667

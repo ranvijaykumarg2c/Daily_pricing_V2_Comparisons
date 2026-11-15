@@ -1,0 +1,108 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Rolex,Cosmograph Daytona,Bonhams,30000,50000,None,42000.0,35000.0
+Lot 2,<NA>,<NA>,Bonhams,55000,75000,None,68000.0,56666.66666666667
+Lot 3,Hermès,Crocodile Birkin 30cm,Bonhams,30000,40000,None,35000.0,29166.666666666668
+Lot 4,Omega,Speedmaster Professional,Bonhams,25000,35000,None,30000.0,25000.0
+Lot 5,Van Cleef & Arpels,Alhambra,Bonhams,10000,15000,None,12500.0,10416.666666666668
+Lot 6,Christian Dior,Mini Lizard Lady Dior,Bonhams,3500,4500,None,4000.0,3333.3333333333335
+Lot 7,Porsche Design,Dashboard Chronograph,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 8,Tiffany & Co.,<NA>,Bonhams,8000,12000,None,10500.0,8750.0
+Lot 9,Hermès,Epsom Kelly II Sellier,Bonhams,12000,18000,None,14500.0,12083.333333333334
+Lot 10,TAG Heuer,Niki Lauda Marlboro,Bonhams,800,1200,None,950.0,791.6666666666667
+Lot 11,Verdura,<NA>,Bonhams,4000,6000,None,5000.0,4166.666666666667
+Lot 12,Chanel,Medium Crochet 19 Flap Bag,Bonhams,4500,5000,None,4200.0,3500.0
+Lot 13,TAG Heuer,<NA>,Bonhams,600,800,None,750.0,625.0
+Lot 14,TAG TAG Heuer,Monte-Carlo,Bonhams,1000,1500,None,1200.0,1000.0
+Lot 15,Universal Geneve,Compax,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 16,Omega,Speedmaster Professional,Bonhams,3500,5500,None,4500.0,3750.0
+Lot 17,Omega,Speedmaster Professional,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 18,TAG TAG Heuer,Dato 12,Bonhams,6000,8000,None,7200.0,6000.0
+Lot 19,Universal Geneve,Tri-Compax,Bonhams,6000,8000,None,7200.0,6000.0
+Lot 20,Jaeger-LeCoultre,<NA>,Bonhams,3600,4600,None,4200.0,3500.0
+Lot 21,Universal Geneve,<NA>,Bonhams,2600,3600,None,3200.0,2666.666666666667
+Lot 22,Omega,Cosmic,Bonhams,2600,3600,None,3200.0,2666.666666666667
+Lot 23,Gübelin,Ipso-matic,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 24,Universal Geneve,"Tri-Compax ""Clapton""",Bonhams,10000,15000,None,12500.0,10416.666666666668
+Lot 25,Franck Muller,Master Square Color Dreams,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 26,Girard-Perregaux,Laureato - BMW Oracle Racing,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 27,Girard-Perregaux,Laureato Evo 3 - Ferrari 2004 Edition,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 28,Pierre Kunz,Spirit of Challenge,Bonhams,6000,9000,None,7500.0,6250.0
+Lot 29,Omega,Aqua Terra Railmaster XXL,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 30,Cuervo y Sobrinos,Robusto Buceador,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 31,Blancpain,Renaissance,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 32,Ulysse Nardin,Maxi Marine Diver Black Ocean,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 33,Porsche Design,Dashboard,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 34,IWC,Portofino,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 35,Franck Muller,Conquistador - Sport GPG America,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 36,Girard-Perregaux,Classique Elegance,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 37,Franck Muller,Cintrée Curvex - Black Croco,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 38,Girard-Perregaux,Vintage 1945,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 39,Franck Muller,Conquistador Sport GPG,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 40,IWC,Big Pilot 7-days,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 41,IWC,Top Gun,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 42,Franck Muller,Master Square Color Dreams,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 43,Chanel,<NA>,Bonhams,1200,1800,None,1500.0,1250.0
+Lot 44,Chanel,Naked Boy Bag,Bonhams,1500,2000,None,1750.0,1458.3333333333335
+Lot 45,Gabriela Hearst,Nina,Bonhams,1000,1500,None,1200.0,1000.0
+Lot 46,Chanel,Je ne suis pas en solde clutch,Bonhams,1500,2000,None,1750.0,1458.3333333333335
+Lot 47,Chanel,Small Metallic Gabrielle Hobo,Bonhams,2000,2500,None,2200.0,1833.3333333333335
+Lot 48,Chanel,Precious Symbols Needlepoint Tote,Bonhams,2200,2700,None,2450.0,2041.6666666666667
+Lot 49,Moschino,Powerpuff Girls Bubbles Crossbody Bag,Bonhams,300,500,None,400.0,333.33333333333337
+Lot 50,Chanel,Large Tweed Gabrielle Hobo,Bonhams,2000,2500,None,2200.0,1833.3333333333335
+Lot 51,Thom Browne,Watermelon Applique Sand Bucket,Bonhams,500,700,None,600.0,500.0
+Lot 52,Chanel,Valentine Medium Flap Bag,Bonhams,3500,4500,None,3800.0,3166.666666666667
+Lot 53,Chanel,Medium Chevron Boy Bag,Bonhams,2800,3200,None,3000.0,2500.0
+Lot 54,Louis Vuitton X Jeff Koons,Mona Lisa Speedy 30,Bonhams,2500,3000,None,2750.0,2291.666666666667
+Lot 55,Chanel,Mini Chevron Single Flap Classic,Bonhams,4000,5000,None,4500.0,3750.0
+Lot 56,Chanel,Small Gabrielle Hobo,Bonhams,2000,2500,None,2200.0,1833.3333333333335
+Lot 57,Chanel,<NA>,Bonhams,2800,3200,None,3000.0,2500.0
+Lot 58,Jimmy Choo,Magazine Clutch,Bonhams,200,400,None,250.0,208.33333333333334
+Lot 59,Gucci,Supreme Monogram Love Heart Valentines Day Mini Crossbody,Bonhams,700,900,None,850.0,708.3333333333334
+Lot 60,Hermès,Togo Kelly II Retourne 28,Bonhams,10000,15000,None,12500.0,10416.666666666668
+Lot 61,Chanel,Marine Cruise Charms Medium Flap Bag,Bonhams,4000,4500,None,4200.0,3500.0
+Lot 62,Chanel,Just a Drop of No. 5 Clutch,Bonhams,700,900,None,850.0,708.3333333333334
+Lot 63,Louis Vuitton,Monogram Vernis Stickers Alma BB,Bonhams,800,1200,None,950.0,791.6666666666667
+Lot 64,Chanel,Small Gabrielle Hobo,Bonhams,2000,2500,None,2200.0,1833.3333333333335
+Lot 65,Christian Dior,4 Saisons Été Soleil Large Book Tote,Bonhams,3000,5000,None,3500.0,2916.666666666667
+Lot 66,Louis Vuitton X Stephen Sprouse,Monogram Graffiti Speedy 30,Bonhams,2500,3500,None,3000.0,2500.0
+Lot 67,Hermès,Swift Mini Constance,Bonhams,8000,12000,None,9500.0,7916.666666666667
+Lot 68,Louis Vuitton,Monogram Miroir Sac Plat,Bonhams,1500,2000,None,1750.0,1458.3333333333335
+Lot 69,Moncler X Simone Rocha,Genius Medium Pochette,Bonhams,700,900,None,850.0,708.3333333333334
+Lot 70,Chanel,Patent Midnight Swim Wristlet,Bonhams,1200,1800,None,1450.0,1208.3333333333335
+Lot 71,Chanel,<NA>,Bonhams,1200,1800,None,1500.0,1250.0
+Lot 72,Chanel,Quilted Neoprene Medium Single Flap Classic,Bonhams,1500,1800,None,1650.0,1375.0
+Lot 73,Chanel,Quilted Lambskin Top Handle Vanity,Bonhams,2800,3200,None,3000.0,2500.0
+Lot 74,Hermès,Chaine d'Ancre Medium,Bonhams,1000,1200,None,1100.0,916.6666666666667
+Lot 75,Verdura,<NA>,Bonhams,6000,9000,None,7500.0,6250.0
+Lot 76,<NA>,<NA>,Bonhams,5500,7500,None,6500.0,5416.666666666667
+Lot 77,<NA>,<NA>,Bonhams,16000,24000,None,22000.0,18333.333333333336
+Lot 78,<NA>,<NA>,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 79,<NA>,<NA>,Bonhams,7000,9000,None,8500.0,7083.333333333334
+Lot 80,<NA>,<NA>,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 81,<NA>,<NA>,Bonhams,5500,8500,None,7500.0,6250.0
+Lot 82,<NA>,<NA>,Bonhams,5500,8500,None,7500.0,6250.0
+Lot 83,<NA>,<NA>,Bonhams,25000,35000,None,32000.0,26666.666666666668
+Lot 84,<NA>,<NA>,Bonhams,6500,9500,None,8500.0,7083.333333333334
+Lot 85,David Webb,<NA>,Bonhams,26000,36000,None,32000.0,26666.666666666668
+Lot 86,<NA>,<NA>,Bonhams,6500,9500,None,8500.0,7083.333333333334
+Lot 87,Kieselstein-Cord,<NA>,Bonhams,14000,18000,None,16500.0,13750.0
+Lot 88,<NA>,<NA>,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 89,Tiffany & Co.,<NA>,Bonhams,10000,15000,None,13500.0,11250.0
+Lot 90,<NA>,<NA>,Bonhams,10000,15000,None,13500.0,11250.0
+Lot 91,Graff,<NA>,Bonhams,75000,95000,None,85000.0,70833.33333333334
+Lot 92,<NA>,<NA>,Bonhams,16000,24000,None,22000.0,18333.333333333336
+Lot 93,<NA>,<NA>,Bonhams,3600,5600,None,4800.0,4000.0
+Lot 94,<NA>,<NA>,Bonhams,10000,15000,None,13500.0,11250.0
+Lot 95,<NA>,<NA>,Bonhams,15000,20000,None,18500.0,15416.666666666668
+Lot 96,<NA>,<NA>,Bonhams,8500,12500,None,11500.0,9583.333333333334
+Lot 97,<NA>,<NA>,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 98,<NA>,<NA>,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 99,<NA>,<NA>,Bonhams,4500,7500,None,6500.0,5416.666666666667
+Lot 100,Tiffany & Co.,<NA>,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 101,Tiffany & Co.,Wave,Bonhams,5000,8000,None,7500.0,6250.0
+Lot 102,Buccellati,<NA>,Bonhams,20000,30000,None,25000.0,20833.333333333336
+Lot 103,<NA>,<NA>,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 104,Gubelin,<NA>,Bonhams,18000,20000,None,19500.0,16250.0
+Lot 105,<NA>,<NA>,Bonhams,4500,7500,None,6000.0,5000.0
+Lot 106,Oscar Heyman,<NA>,Bonhams,36000,56000,None,48000.0,40000.0
+Lot 107,<NA>,<NA>,Bonhams,13000,18000,None,17500.0,14583.333333333334

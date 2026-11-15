@@ -1,0 +1,83 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 3001,<NA>,<NA>,Bonhams,1068.9,1603.35,None,1450.0,1208.3333333333335
+Lot 3002,W.F. Ladd,<NA>,Bonhams,1282.68,1924.02,None,2100.0,1750.0
+Lot 3003,A.W.W. Co Waltham,<NA>,Bonhams,1068.9,1603.35,None,1750.0,1458.3333333333335
+Lot 3004,<NA>,<NA>,Bonhams,1068.9,1603.35,None,1750.0,1458.3333333333335
+Lot 3005,Ganter,Madrid,Bonhams,1282.68,1924.02,None,2100.0,1750.0
+Lot 3006,Jules Emmery,<NA>,Bonhams,1282.68,1924.02,None,2100.0,1750.0
+Lot 3007,J.H. Spreat,<NA>,Bonhams,1282.68,1924.02,None,2100.0,1750.0
+Lot 3008,Edouard Leman,<NA>,Bonhams,1282.68,1924.02,None,2100.0,1750.0
+Lot 3009,A.H. Rodanet,<NA>,Bonhams,1282.68,1924.02,None,2100.0,1750.0
+Lot 3010,Chas Roullet,<NA>,Bonhams,1603.35,2137.8,None,2450.0,2041.6666666666667
+Lot 3011,Henri Jacot,<NA>,Bonhams,1603.35,2137.8,None,2750.0,2291.666666666667
+Lot 3012,<NA>,<NA>,Bonhams,1068.9,1603.35,None,2450.0,2041.6666666666667
+Lot 3013,B. Poitevin,<NA>,Bonhams,1603.35,2137.8,None,2450.0,2041.6666666666667
+Lot 3014,Leonville,<NA>,Bonhams,1282.68,1924.02,None,2350.0,1958.3333333333335
+Lot 3015,<NA>,<NA>,Bonhams,1282.68,1924.02,None,2350.0,1958.3333333333335
+Lot 3016,Léopold Huguenin,<NA>,Bonhams,1068.9,1603.35,None,1850.0,1541.6666666666667
+Lot 3017,Sewill,<NA>,Bonhams,641.34,855.12,None,1125.0,937.5
+Lot 3018,Chronoswiss,<NA>,Bonhams,2137.8,3206.7,None,2850.0,2375.0
+Lot 3019,<NA>,<NA>,Bonhams,2137.8,3206.7,None,2850.0,2375.0
+Lot 3020,<NA>,<NA>,Bonhams,2137.8,3206.7,None,2850.0,2375.0
+Lot 3021,<NA>,<NA>,Bonhams,1282.68,1924.02,None,1750.0,1458.3333333333335
+Lot 3022,<NA>,<NA>,Bonhams,1603.35,2137.8,None,1850.0,1541.6666666666667
+Lot 3023,B. Haas Jeune,<NA>,Bonhams,3206.7,4275.6,None,3850.0,3208.3333333333335
+Lot 3024,Delolme,<NA>,Bonhams,3206.7,4275.6,None,3850.0,3208.3333333333335
+Lot 3025,<NA>,<NA>,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3026,Record Watch Co.,<NA>,Bonhams,427.56,641.34,None,725.0,604.1666666666667
+Lot 3027,Tavannes,<NA>,Bonhams,427.56,641.34,None,725.0,604.1666666666667
+Lot 3028,<NA>,<NA>,Bonhams,534.45,748.23,None,620.0,516.6666666666667
+Lot 3029,<NA>,<NA>,Bonhams,320.67,427.56,None,850.0,708.3333333333334
+Lot 3030,Glycine,<NA>,Bonhams,855.12,1282.68,None,1100.0,916.6666666666667
+Lot 3031,Breitling,<NA>,Bonhams,641.34,855.12,None,1725.0,1437.5
+Lot 3032,Chronographe,<NA>,Bonhams,213.78,320.67,None,1450.0,1208.3333333333335
+Lot 3034,Jüles Jürgensen,<NA>,Bonhams,1603.35,2672.25,None,3200.0,2666.666666666667
+Lot 3035,Comor,<NA>,Bonhams,213.78,320.67,None,285.0,237.5
+Lot 3036,Technos,<NA>,Bonhams,213.78,320.67,None,285.0,237.5
+Lot 3037,Cimier,<NA>,Bonhams,106.89,160.34,None,145.0,120.83333333333334
+Lot 3038,Sutter,<NA>,Bonhams,320.67,427.56,None,850.0,708.3333333333334
+Lot 3039,Boucheron,<NA>,Bonhams,855.12,1282.68,None,1425.0,1187.5
+Lot 3040,Eska,<NA>,Bonhams,641.34,855.12,None,920.0,766.6666666666667
+Lot 3041,Patek Philippe,<NA>,Bonhams,1924.02,2351.58,None,4500.0,3750.0
+Lot 3042,TAG TAG Heuer,<NA>,Bonhams,641.34,855.12,None,1725.0,1437.5
+Lot 3043,Jüles Jürgensen,<NA>,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3044,Girard-Perregaux,<NA>,Bonhams,534.45,748.23,None,1850.0,1541.6666666666667
+Lot 3045,Chronographe Suisse,<NA>,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3047,Excelsior Park,<NA>,Bonhams,534.45,748.23,None,720.0,600.0
+Lot 3048,Eberhard & Co.,Extra-Fort,Bonhams,748.23,962.01,None,1125.0,937.5
+Lot 3049,Chronoswiss,Alfred Rochat & Fils,Bonhams,641.34,855.12,None,720.0,600.0
+Lot 3050,Edo,<NA>,Bonhams,855.12,1282.68,None,1100.0,916.6666666666667
+Lot 3051,Cromax,<NA>,Bonhams,534.45,748.23,None,620.0,516.6666666666667
+Lot 3052,Ruhla,<NA>,Bonhams,213.78,320.67,None,275.0,229.16666666666669
+Lot 3053,Seiko,The Pogue,Bonhams,427.56,641.34,None,850.0,708.3333333333334
+Lot 3054,Ollech & Wajs,<NA>,Bonhams,427.56,641.34,None,725.0,604.1666666666667
+Lot 3055,Certina,DS-2 Chronolympic,Bonhams,534.45,748.23,None,860.0,716.6666666666667
+Lot 3057,Citizen,Bullhead Chronograph,Bonhams,320.67,427.56,None,485.0,404.1666666666667
+Lot 3059,Tissot,Navigator,Bonhams,320.67,427.56,None,485.0,404.1666666666667
+Lot 3060,Meister-Anker,<NA>,Bonhams,320.67,427.56,None,385.0,320.83333333333337
+Lot 3061,Arsa,<NA>,Bonhams,427.56,641.34,None,580.0,483.33333333333337
+Lot 3062,Citizen,Bullhead Chronograph,Bonhams,320.67,427.56,None,410.0,341.6666666666667
+Lot 3063,Precimax,<NA>,Bonhams,427.56,641.34,None,580.0,483.33333333333337
+Lot 3064,Transglobe,<NA>,Bonhams,106.89,160.34,None,175.0,145.83333333333334
+Lot 3066,Tegrov,<NA>,Bonhams,106.89,160.34,None,175.0,145.83333333333334
+Lot 3067,Longines,Conquest,Bonhams,534.45,748.23,None,860.0,716.6666666666667
+Lot 3068,Longines,Conquest 'Olympic Games Munich 1972',Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3069,Dubois Depraz,<NA>,Bonhams,534.45,748.23,None,720.0,600.0
+Lot 3071,Audemars Piguet,<NA>,Bonhams,962.01,1068.9,None,3200.0,2666.666666666667
+Lot 3072,Chopard,<NA>,Bonhams,1603.35,2137.8,None,2450.0,2041.6666666666667
+Lot 3073,Jaeger-LeCoultre,Memovox,Bonhams,1603.35,2672.25,None,2300.0,1916.6666666666667
+Lot 3074,Cartier,Tank Must de Cartier,Bonhams,534.45,748.23,None,720.0,600.0
+Lot 3075,Cartier,Roadster,Bonhams,1282.68,1924.02,None,1750.0,1458.3333333333335
+Lot 3076,Cartier,Santos Galbée,Bonhams,2137.8,3206.7,None,2850.0,2375.0
+Lot 3077,Cartier,Cougar,Bonhams,1282.68,1924.02,None,1650.0,1375.0
+Lot 3078,Blancpain,Villeret,Bonhams,3206.7,4275.6,None,4350.0,3625.0
+Lot 3079,Baume & Mercier,Riviera,Bonhams,2779.14,3741.15,None,3200.0,2666.666666666667
+Lot 3080,Hermès,Cape Cod,Bonhams,1282.68,1924.02,None,1750.0,1458.3333333333335
+Lot 3081,<NA>,<NA>,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3082,John Carter,<NA>,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3083,TAG Heuer,Monte-Carlo,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3084,TAG Heuer,Monte-Carlo,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3085,Leonidas,<NA>,Bonhams,534.45,748.23,None,1125.0,937.5
+Lot 3086,Chaude,<NA>,Bonhams,534.45,748.23,None,720.0,600.0
+Lot 3087,Excelsior Park,<NA>,Bonhams,534.45,748.23,None,720.0,600.0
+Lot 3088,Omega,Seamaster,Bonhams,374.12,619.96,None,580.0,483.33333333333337

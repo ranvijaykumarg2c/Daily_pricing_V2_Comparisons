@@ -1,0 +1,901 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+d794f8d4-c4ce-4676-b5c1-9830a32fc413,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 1,USD,"5,000","7,000",N/A,N/A,"5,000","7,000",N/A,N/A,TOM WESSELMANN,1931,2004,Nude (for Sedfre),prints,screenprint in colors on Strathmore paper,N/A,23,16.75,in,yes,yes,yes,1969,1969,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TW0CMR.","nude, figure, colors, screenprint, paper, edition, signature, date, size, blindstamp",1,020/100,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Nude (for Sedfre)
+signed, dated and numbered 'Wesselmann 69 20/100' (lower right)
+screenprint in colors on Strathmore paper
+image: 16
+3
+⁄
+4
+ x 23 in. (42.5 x 58.4 cm.)
+sheet: 23
+1
+⁄
+8
+ x 29 in. (58.7 x 73.7 cm.)
+Executed in 1969. This work is number 20 from the edition of 100. Published by Chiron Press, New York, with their blindstamp.
+
+Edition: 020/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0001_001(tom_wesselmann_nude120129).jpg?mode=max&w=2&hash=e32d0c7b7b5da15f9225956ad1a5cf42cf47ff69,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-1/316524?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,2026-07,7021.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+6629faa3-ea1b-45ad-abb4-f9cf3a250827,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 2,USD,"40,000","60,000",N/A,N/A,"40,000","60,000",N/A,N/A,TOM WESSELMANN,1931,2004,Study for Bedroom Painting #10,painting,oil on canvas,N/A,10,7.75,in,yes,yes,yes,1968,1968,"Provenance
+
+
+
+
+
+
+Private collection","bedroom, oil painting, canvas, study, furniture, interior, color",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Study for Bedroom Painting #10
+signed twice, titled and dated twice 'STUDY FOR BEDROOM PAINTING #10 Wesselmann 1968 Wesselmann 68' (on the stretcher)
+oil on canvas
+7
+3
+⁄
+4
+ x 10 in. (19.7 x 25.4 cm.)
+Painted in 1968.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0002_001(tom_wesselmann_study_for_bedroom_painting_10120150).jpg?mode=max&w=2&hash=903aa1e94652dd10e99132c055b172b99b855057,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-2/316525?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,70276.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52500.0,43750.0
+3ce817bc-fd7c-4966-a69a-3ecb1bbb2ccb,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 3,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,"Cut Out Nude, from 11 Pop Artists, Volume I",prints,screenprint in colors on blow-formed vinyl in die-cut mat,N/A,24,20,in,yes,yes,yes,1965,1965,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TW8NHW.","nude, screenprint, colors, vinyl, die-cut mat",1,033/200,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Cut Out Nude, from 
+11 Pop Artists, Volume I
+signed 'Wesselmann' (lower right) and numbered 33/200 (lower left) in pencil
+screenprint in colors on blow-formed vinyl in die-cut mat
+overall: 20 x 24 in. (50.8 x 61 cm.)
+Executed in 1965. This work is number 33 from the edition of 200 plus 50 artist's proofs. Published by Original Editions, New York.
+
+Edition: 033/200",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0003_001(tom_wesselmann_cut_out_nude_from_11_pop_artists_volume_i120215).jpg?mode=max&w=2&hash=5f6a5b6a3e23d1a09ea67c4ce79b307510fac132,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-3/316526?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,3702.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+cde88fb1-deb2-441f-9585-52937eceb63f,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 4,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,"Nude, from 11 Pop Artists, Volume II",prints,screenprint in colors on wove paper,N/A,29.625,23.875,in,yes,yes,yes,1965,1965,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TW2C3O.",nude,1,055/200,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Nude
+, 
+from 11 Pop Artists, Volume II
+signed 'Wesselmann' (lower right) and numbered 55/200 (lower left) in pencil
+screenprint in colors on wove paper
+sheet: 23
+7
+⁄
+8
+ x 29
+5
+⁄
+8
+ in. (60.6 x 75.2 cm.)
+Executed in 1965. This work is number 55 from the edition of 200 plus twenty artist's proofs. Published by Original Editions, New York.
+
+Edition: 055/200",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0004_001(tom_wesselmann_nude_from_11_pop_artists_volume_ii120228).jpg?mode=max&w=2&hash=901cce48a48fdb5f201d8c5af8fa34c8e81dc863,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-4/316527?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7020.54,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+d3887df2-63c6-492a-87c6-0e85a3d21093,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 5,USD,"120,000","180,000",N/A,N/A,"120,000","180,000",N/A,N/A,TOM WESSELMANN,1931,2004,Cut Out Nude with Hairbow,mixed media,acrylic and paper collage on paper laid down on paperboard,N/A,21.25,16,in,yes,yes,yes,1965,1965,"Provenance
+
+
+
+
+
+
+Dayton's 12 Gallery, Minneapolis
+Acquired from the above by the present owner","nude, hairbow, acrylic, collage, paper, figure",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Cut Out Nude with Hairbow 
+signed 'Wesselmann' (upper left); signed again and dated 'Wesselmann 65' (lower right)
+acrylic and paper collage on paper laid down on paperboard
+16 x 21
+1
+⁄
+4
+ in. (40.6 x 54 cm.)
+Executed in 1965.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0005_001(tom_wesselmann_cut_out_nude_with_hairbow120241).jpg?mode=max&w=2&hash=9669a426fe1fdae9eb84341183add7b0d0f1eba5,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-5/316528?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,207768.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,165000.0,137500.0
+f499d38a-3d4f-4690-9aba-700075af2c19,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 6,USD,"30,000","50,000",N/A,N/A,"30,000","50,000",N/A,N/A,TOM WESSELMANN,1931,2004,Quick Nude Torso,drawing,colored marker on paper,N/A,6,6,in,yes,yes,yes,1980,1980,"Provenance
+
+
+
+
+
+
+Private collection, New York, gift of the artist
+Acquired from the above by the present owner","nude, torso, colored marker, paper, 1980",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Quick Nude Torso
+signed with the artist's initials and dated 'TW 80' (lower right)
+colored marker on paper
+image: 6 x 6 in. (15.2 x 15.2 cm.)
+sheet: 10
+5
+⁄
+8
+ x 14 in. (27 x 35.6 cm.)
+Executed in 1980.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0006_001(tom_wesselmann_quick_nude_torso120314).jpg?mode=max&w=2&hash=7117eeba23a44103def2928c6e52e18747fcfae9,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-6/316529?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,37028.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,42000.0,35000.0
+9d51676a-002f-4b6a-b1ea-f9d55b93aa7e,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 7,USD,"200,000","300,000",N/A,N/A,"200,000","300,000",N/A,N/A,TOM WESSELMANN,1931,2004,Bedroom Face with Lichtenstein (3-D),mixed media,oil on cut-out aluminum,13,82,68.25,in,yes,yes,yes,1970,2000,"Provenance
+
+
+
+
+
+
+Sidney Janis Gallery, New York
+Private collection, Chicago, 1993
+By descent from the above to the present owner","face, bedroom, cut-out, aluminum, oil, Lichtenstein, contemporary art, modern art, sculpture",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Bedroom Face with Lichtenstein (3-D)
+signed and dated 'Wesselmann 91' (on the reverse)
+oil on cut-out aluminum
+68
+1
+⁄
+4
+ x 82 x 13 in. (173.4 x 208.3 x 33 cm.)
+Executed in 1989-1992.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0007_001(tom_wesselmann_bedroom_face_with_lichtenstein120341).jpg?mode=max&w=2&hash=393895b596c02589f5a9f60f701aed9cf9c5b83a,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-7/316531?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,207776.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,275000.0,229166.6666666667
+ffe894b7-0774-4540-8c75-3af47e35617b,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 8,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,Smoker,prints,lithograph in colors with embossing on Arches Cover paper,N/A,30.125,22.75,in,yes,yes,yes,1976,1976,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWBXAK.","smoker, woman, cigarette, color lithograph, embossing, Arches Cover paper, 1970s, figurative art, artist's proof, edition",1,007/12,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Smoker
+signed, dated and numbered 'Wesselmann 75 AP 7/12' in pencil (lower center)
+lithograph in colors with embossing on Arches Cover paper
+sheet: 22
+3
+⁄
+4
+ x 30
+1
+⁄
+8
+ in. (57.8 x 76.5 cm.)
+Executed in 1976. This work is artist's proof number 7 of 12 aside from the edition of 75. Published by Multiples, Inc., New York, with their blindstamp.
+
+Edition: 007/12",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0008_000(tom_wesselmann_smoker120347).jpg?mode=max&w=2&hash=d80f91f27ce04845cc19cc3a6139cfa2d0bba404,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-8/316534?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7020.52,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+e08d288c-288d-4524-a769-cc68bab1ec48,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 9,USD,"4,000","6,000",N/A,N/A,"4,000","6,000",N/A,N/A,TOM WESSELMANN,1931,2004,"Bedroom Nude, from Bedroom Portfolio",prints,"Arches paper, thinned acrylic, pencil additions",N/A,6.75,6.25,in,yes,yes,yes,1978,1978,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWQNB3.","nude, bedroom, portfolio, figure, hand-coloring, acrylic, additions, Arches paper",1,014/20,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Bedroom Nude
+, 
+from Bedroom Portfolio
+signed, dated and numbered 'Wesselmann 78 14/20' in pencil (lower right)
+embossment, with hand-coloring in thinned acrylic and pencil additions on Arches paper
+image: 6
+1
+⁄
+4
+ x 6
+3
+⁄
+4
+ in. (15.9 x 17.1 cm.)
+sheet: 10 x 11
+1
+⁄
+8
+ in. (25.4 x 28.3 cm.)
+Executed in 1978. This work is number 14 from the edition of 20 plus six artist's proofs.
+
+Edition: 014/20",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0009_001(tom_wesselmann_bedroom_nude_from_bedroom_portfolio120402).jpg?mode=max&w=2&hash=369f4f2810e01db3e8231633b9bc6e0f7762bdea,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-9/316532?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7021.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5500.0,4583.333333333334
+984a53c4-ab09-497c-940e-99ad96c108a1,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 10,USD,"20,000","30,000",N/A,N/A,"20,000","30,000",N/A,N/A,TOM WESSELMANN,1931,2004,Study for Nude Collage Edition,drawing,watercolor and graphite on ragboard,N/A,9.5,6,in,yes,yes,yes,1970,1970,"Provenance
+
+
+
+
+
+
+O.K. Harris Gallery, New York
+Private collection, Canada
+Anon. sale; Christie's East, New York, 15 May 2001, lot 62
+Acquired at the above sale by the present owner","nude, collage, watercolor, graphite, study, figure",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Study for Nude Collage Edition
+signed and dated 'Wesselmann 70' (lower left)
+watercolor and graphite on ragboard
+6 x 9
+1
+⁄
+2
+ in. (15.2 x 24.1 cm.)
+Executed in 1970.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0010_001(tom_wesselmann_study_for_nude_collage_edition120416).jpg?mode=max&w=2&hash=d4eced6848339b16a3915a493b85baa7d3f92521,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-10/316530?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20769.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,27500.0,22916.666666666668
+784e73d1-b2c9-4001-b4c2-11245789bee3,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 11,USD,"15,000","20,000",N/A,N/A,"15,000","20,000",N/A,N/A,TOM WESSELMANN,1931,2004,Study Drawing for Nude on a Couch,drawing,graphite on paperboard,N/A,9,3.75,in,yes,yes,yes,1971,1971,"Provenance
+
+
+
+
+
+
+O.K. Harris Gallery, New York 
+Private collection, Canada
+Anon. sale; Christie's, New York, 15 May 2001, lot 63
+Acquired at the above sale by the present owner","nude, couch, drawing, graphite, figure, sitting, woman, 1971, Tom Wesselmann, study",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Study Drawing for Nude on a Couch 
+signed, dedicated, titled and dated 'For Jeannie, Tom Wesselmann 1971, Study drawing for nude on a couch' (lower edge)
+graphite on paperboard
+3
+3
+⁄
+4
+ x 9 in. (9.5 x 22.9 cm.)
+Executed in 1971. This work is from an open-ended edition.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0011_001(tom_wesselmann_study_drawing_for_nude_on_a_couch120434).jpg?mode=max&w=2&hash=431195283e2216ae160fbcb9cb98021a2ae4eff6,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-11/316533?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20779.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,18000.0,15000.0
+ae85e1bf-965c-427c-b4e6-d2a0f3622c41,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 12,USD,"8,000","12,000",N/A,N/A,"8,000","12,000",N/A,N/A,TOM WESSELMANN,1931,2004,Drawing for Long Delayed Nude,drawing,"crayon, colored pencil and ink on tracing paper",N/A,3.5,3.75,in,yes,yes,yes,1970,1979,"Provenance
+
+
+
+
+
+
+Private collection","nude, drawing, crayon, colored pencil, ink, tracing paper",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Drawing for Long Delayed Nude
+signed 'Wesselmann' (upper right); signed again 'Wesselmann' (lower right)
+crayon, colored pencil and ink on tracing paper
+image: 3 x 3
+3
+⁄
+4
+ in. (7.6 x 9.5 cm.)
+sheet: 3
+1
+⁄
+2
+ x 4
+3
+⁄
+8
+ in. (8.9 x 11.1 cm.)
+Executed in 1973-1975.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0012_001(tom_wesselmann_drawing_for_long_delayed_nude120455).jpg?mode=max&w=2&hash=04f5fcd1e6299adffb2174be61232512f26e31b7,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-12/316535?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7021.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11000.0,9166.666666666668
+6b168d03-90f5-4c2c-aee6-ff6a47484f7d,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 13,USD,"10,000","15,000",N/A,N/A,"10,000","15,000",N/A,N/A,TOM WESSELMANN,1931,2004,Untitled (Bedroom Face),drawing,graphite on tracing paper,N/A,9.25,7.75,in,yes,yes,no,1974,1974,"Provenance
+
+
+
+
+
+
+The Printer's Stone, Ltd., New York
+Private collection, New York, 1982
+Private collection, Oregon
+Anon. sale; artnet Auctions, New York, 28 December 2017, lot 123599
+Private collection, Paris
+Anon. sale; artnet Auctions, New York, 15 December 2022, lot 138527
+Acquired at the above sale by the present owner","bedroom, face",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Untitled (Bedroom Face) 
+signed and dated 'Wesselmann 74' (lower left)
+graphite on tracing paper
+7
+3
+⁄
+4
+ x 9
+1
+⁄
+4
+ in. (19.7 x 23.5 cm.)
+Executed in 1974.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0013_001(tom_wesselmann_untitled120522).jpg?mode=max&w=2&hash=3ac97738cdc08de9ebe7c4e7f2bd5fa9882e1256,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-13/316536?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20776.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+31feda41-811e-49a4-ae9c-30342c03728d,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 14,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,Nude (Lithograph),prints,lithograph and screenprint in colors with embossing on Rives paper,N/A,29.75,22.5,in,yes,yes,yes,1976,1976,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWU0Y6.","nude, lithograph, screenprint, embossing, Rives paper",1,007/12,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Nude (Lithograph)
+signed, dated and numbered 'Wesselmann 76 7/12' in pencil (lower right)
+lithograph and screenprint in colors with embossing on Rives paper
+sheet: 22
+1
+⁄
+2
+ x 29
+3
+⁄
+4
+ in. (57.2 x 75.6 cm.)
+Executed in 1976. This work is artist's proof number 7 of 12 aside from the edition of 75. Published by Multiples, Inc., New York, with their blindstamp.
+
+Edition: 007/12",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0014_000(tom_wesselmann_nude120537).jpg?mode=max&w=2&hash=bb6d71dd4b92ee2ad8736e90e0b077016eca099a,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-14/316537?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7020.0,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+47072b58-a47f-4de3-b7c1-dee17338be3a,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 15,USD,"25,000","35,000",N/A,N/A,"25,000","35,000",N/A,N/A,TOM WESSELMANN,1931,2004,Study for Claire Nude,drawing,colored pencil and graphite on tracing paper,N/A,9.5,10,in,yes,yes,yes,1980,1980,"Provenance
+
+
+
+
+
+
+Private collection, New York, acquired directly from the artist
+Private collection
+Connaught Brown, London
+Acquired from the above by the present owner","nude, figure, woman, colored pencil, graphite, tracing paper, study, 1980, art",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Study for Claire Nude
+signed and dated 'Wesselmann 80' (lower right)
+colored pencil and graphite on tracing paper
+image: 10 x 9
+1
+⁄
+2
+ in. (25.4 x 24.1 cm.)
+sheet: 11 x 14 in. (27.9 x 35.6 cm.)
+Executed in 1980.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0015_001(tom_wesselmann_study_for_claire_nude120557).jpg?mode=max&w=2&hash=9ed8fb434fc1f6f3dadf8528475501fa13be936c,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-15/316538?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,27038.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+4894f69d-31d7-4cd5-bb3a-36370193f95e,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 16,USD,"20,000","30,000",N/A,N/A,"20,000","30,000",N/A,N/A,TOM WESSELMANN,1931,2004,Study for Bedroom Painting,drawing,colored pencil and graphite on tracing paper,N/A,8.5,6.75,in,no,yes,yes,1970,1979,"Provenance
+
+
+
+
+
+
+Tom Wesselmann Estate, New York
+Connaught Brown, London
+Acquired from the above by the present owner, 2005","bedroom, colored pencil, graphite, tracing paper, study, painting, 1977, Tom Wesselmann, Estate",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Study for Bedroom Painting
+dated '77' (lower right); stamped with the Estate of Tom Wesselmann, Claire Wesselmann, Executor stamp and numbered 'D7779 (lower left); titled and dated again 'STUDY FOR BEDROOM PAINTING 1977' (on the reverse)
+colored pencil and graphite on tracing paper
+image: 6
+3
+⁄
+4
+ x 8
+1
+⁄
+2
+ in. (17.1 x 21.6 cm.)
+sheet: 8
+1
+⁄
+2
+ x 11 in. (21.6 x 27.9 cm.)
+Executed in 1977.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0016_001(tom_wesselmann_study_for_bedroom_painting120701).jpg?mode=max&w=2&hash=d5a2392346ceba0aa4d336104f9ebe4036aca618,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-16/316539?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20769.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,27500.0,22916.666666666668
+b5fce858-3cef-4d32-b732-e8800d090400,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 17,USD,"10,000","15,000",N/A,N/A,"10,000","15,000",N/A,N/A,TOM WESSELMANN,1931,2004,Study for Bedroom Painting #43,drawing,graphite on tracing paper,N/A,9,6,in,no,yes,yes,1978,1978,"Provenance
+
+
+
+
+
+
+Tom Wesselmann Estate, New York
+Connaught Brown, London
+Acquired from the above by the present owner, 
+circa 
+2006","bedroom, painting, study, graphite, tracing paper",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Study for Bedroom Painting #43
+stamped with the Estate of Tom Wesselmann, Claire Wesselmann, Executor stamp and dated '78' (lower right); numbered 'D7895' (on the reverse)
+graphite on tracing paper
+image: 6 x 9 in. (15.2 x 22.9 cm.)
+sheet: 9 x 12 in. (22.9 x 30.5 cm.)
+Executed in 1978.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0017_001(tom_wesselmann_study_for_bedroom_painting_43120757).jpg?mode=max&w=2&hash=4518388e504e1a50756f94a76a5bff42f330edea,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-17/316540?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20776.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+b9237132-6d48-4f49-8542-6afd68441730,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 18,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,Seascape Nude Drop Out,ceramics,porcelain,0.5,16.75,14.75,in,yes,yes,yes,1984,1984,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWBZ7P.","seascape,nude,ceramic,drop out,Tom Wesselmann,1984",1,500/61,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Seascape Nude Drop Out
+signed 'Tom Wesselmann' (lower right); signed again, numbered and dated '1984 500/61 Tom Wesselmann' (on a ceramic disk on the reverse)
+porcelain multiple
+overall (irregular): 14
+3
+⁄
+4
+ x 16
+3
+⁄
+4
+ x 
+1
+⁄
+2
+ in. (37.5 x 42.5 x 1.3 cm.)
+Executed in 1984. This work is number 61 from the edition of 500. Published by Rosenthal GmbH, Selb Germany.
+
+Edition: 500/61",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0018_001(tom_wesselmann_seascape_nude_drop_out120843).jpg?mode=max&w=2&hash=f4424397c17f9e18b3f71b5d3b9c16da573574b9,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-18/316541?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,2707.53,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+75f9c2ba-5fc9-4913-98f5-9ff18251abe2,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 19,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,Bedroom Drop Out,prints,woodcut in colors on wove paper,N/A,28.75,24.25,in,yes,yes,yes,1983,1983,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWXPS3.","bedroom, figure, colors, woodcut, paper, nude, edition, signed, 1983",1,015/50,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Bedroom Drop Out
+signed, dated and numbered 'Wesselmann 83 15/50' in pencil (lower left)
+woodcut in colors on wove paper
+sheet: 24
+1
+⁄
+4
+ x 28
+3
+⁄
+4
+ in. (61.6 x 73.0 cm.)
+Executed in 1983. This work is number 15 from the edition of 50 plus ten artist's proofs. Published by Multiples, Inc., New York, with their blindstamp.
+
+Edition: 015/50",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0019_001(tom_wesselmann_bedroom_drop_out120908).jpg?mode=max&w=2&hash=d13f31d8820b906067e86a71a8399da46b5ded94,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-19/316542?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,3702.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+779fc469-7969-4b53-b6e9-22a87c592fd1,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 20,USD,"4,000","6,000",N/A,N/A,"4,000","6,000",N/A,N/A,TOM WESSELMANN,1931,2004,Monica Nude with Yellow Curtain,prints,aquatint in colors on wove paper,N/A,7.125,6.375,in,yes,yes,yes,1991,1991,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWHP74.","nude, yellow curtain, aquatint, woman, art print",1,019/50,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Monica Nude with Yellow Curtain
+signed and numbered 'Wesselmann 19/50' in pencil (lower right)
+aquatint in colors on wove paper
+image: 6
+3
+⁄
+8
+ x 7
+1
+⁄
+8
+ in. (16.2 x 18.1 cm.)
+sheet: 14
+7
+⁄
+8
+ x 17
+1
+⁄
+4
+ in. (37.8 x 43.8 cm.)
+Executed in 1991. This work is number 19 from the edition of 50 plus eight artist's proofs. Published by International Images, Inc., Putney, Vermont.
+
+Edition: 019/50",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0020_001(tom_wesselmann_monica_nude_with_yellow_curtain120921).jpg?mode=max&w=2&hash=4e190cd6b568248f95e46c6ad9d07653b20b35a5,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-20/316543?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7028.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+0ff3df50-45ed-459a-8e43-4e9c6344f79e,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 21,USD,"10,000","15,000",N/A,N/A,"10,000","15,000",N/A,N/A,TOM WESSELMANN,1931,2004,Monica with Mondrian,prints,screenprint in colors on museum board,N/A,37,50.875,in,yes,yes,yes,1970,2000,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TW8HOJ.","woman, abstract, color blocks, geometric shapes, modern art, screenprint, figure, portrait, composition, artwork",1,048/100,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Monica with Mondrian
+signed and numbered 'Wesselmann 48/100' in pencil (lower right)
+screenprint in colors on museum board
+sheet: 50
+7
+⁄
+8
+ x 37 in. (129.3 x 94 cm.)
+Executed in 1989. This work is number 48 from the edition of 100 plus twelve artist's proofs. Published by International Images, Inc., Putney, Vermont, with their blindstamp.
+
+Edition: 048/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0021_001(tom_wesselmann_monica_with_mondrian120935).jpg?mode=max&w=2&hash=6e65de2d64c31bf4a8a48ea6fc8072ce8d9f1170,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-21/316544?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20776.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+7b723590-30a3-4419-8827-4175d7e069ad,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 22,USD,"4,000","6,000",N/A,N/A,"4,000","6,000",N/A,N/A,TOM WESSELMANN,1931,2004,1960 Judy with Blue Blanket,prints,screenprint in colors on museum board,N/A,39.5,30,in,yes,yes,yes,1970,2000,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TW6WF1.","Judy, blue blanket",1,037/75,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+1960 Judy with Blue Blanket
+signed and numbered 'Wesselmann 37/75' in pencil (lower right)
+screenprint in colors on museum board
+sheet: 30 x 39
+1
+⁄
+2
+ in. (76.2 x 100.3 cm.)
+Executed in 1998. This work is number 37 from the edition of 75 plus ten artist's proofs. Published by Cooper Square Prints, New York.
+
+Edition: 037/75",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0022_001(tom_wesselmann_1960_judy_with_blue_blanket120956).jpg?mode=max&w=2&hash=5d2c735703165d873a48082d563795096b17044a,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-22/316545?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7021.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+1979eb96-576f-4e3f-859b-e97c762ddd8e,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 23,USD,"6,000","8,000",N/A,N/A,"6,000","8,000",N/A,N/A,TOM WESSELMANN,1931,2004,Woman in Green Blouse (Black),prints,screenprint on wove paper,N/A,73.375,59.5,in,yes,yes,yes,1988,1988,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWXAF4.","woman, green blouse, screenprint",1,061/100,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Woman in Green Blouse (Black)
+signed, dated and numbered 'Wesselmann 88 61/100' in pencil (lower right)
+screenprint on wove paper
+sheet: 59
+1
+⁄
+2
+ x 73
+3
+⁄
+8
+ in. (151.1 x 186.4 cm.) (visible)
+Executed in 1988. This work is number 61 from the edition of 100 plus twelve artist's proofs. Published by International Images, Inc., Putney, Vermont.
+
+Edition: 061/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0023_001(tom_wesselmann_woman_in_green_blouse121009).jpg?mode=max&w=2&hash=177c4abd6b7b70fdf36049db024a4d34e28ac6c0,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-23/316546?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7028.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+431b5067-5c1a-4129-8ca2-3c3941d26644,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 24,USD,"10,000","15,000",N/A,N/A,"10,000","15,000",N/A,N/A,TOM WESSELMANN,1931,2004,Fast Sketch Still Life with Fruit and Goldfish,prints,screenprint in colors on wove paper,N/A,78.5,56.5,in,yes,yes,yes,1990,1990,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWC5AK.","still life, fruit, goldfish, screenprint, colors, wove paper, large size",1,061/100,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Fast Sketch Still Life with Fruit and Goldfish
+signed and numbered 'Wesselmann 61/100' in pencil (lower right)
+screenprint in colors on wove paper
+sheet: 56
+1
+⁄
+2
+ x 78
+1
+⁄
+2
+ in. (143.5 × 199.4 cm.) (visible)
+Executed in 1990. This is number 61 from the edition of 100 plus twelve artist's proofs.
+
+Edition: 061/100",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0024_001(tom_wesselmann_fast_sketch_still_life_with_fruit_and_goldfish121021).jpg?mode=max&w=2&hash=f55f44a9460ca92837713127e41e33216b86136e,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-24/316547?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20776.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+d8d3621e-8d81-42a6-bcca-4973d1b5ba1b,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 25,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,"Monica Lying Down, One Arm Up",prints,offset lithograph in colors on Rives BFK paper,N/A,51,32.5,in,yes,yes,yes,1990,1990,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWZL42.","woman, reclining figure, arm up, lithograph, color print",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Monica Lying Down, One Arm Up
+signed and numbered 'Wesselmann PP 1/3' in pencil (lower right)
+offset lithograph in colors on Rives BFK paper
+sheet: 32
+1
+⁄
+2
+ x 51 in. (82.6 x 129.5 cm.)
+Executed in 1990. This work is printer's proof one of three aside from the edition of 26 plus six artist's proofs. Printed by Derrière L'Étoile Studios, New York. Published by International Images, Inc., Putney, Vermont.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0025_000(tom_wesselmann_monica_lying_down_one_arm_up121027).jpg?mode=max&w=2&hash=71e5101ccce8974a5ded42b6f9fa9fa977fef066,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-25/316548?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7020.52,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+1c8c95e2-0f5f-477e-befa-2c292ec22232,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 26,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,"Monica Sitting, One Leg on the Other",prints,offset lithograph in colors on Rives BFK paper,N/A,50.875,35.25,in,yes,yes,yes,1990,1990,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWAZCD.","woman, sitting, leg, colors, lithograph, Rives BFK paper",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Monica Sitting, One Leg on the Other
+signed and numbered 'Wesselmann PP 1/3' in pencil (lower right)
+offset lithograph in colors on Rives BFK paper
+sheet: 35
+1
+⁄
+4
+ x 50
+7
+⁄
+8
+ in. (89.5 x 129.2 cm.)
+Executed in 1990. This work is printer's proof number one of three aside from the edition of 26 plus six artist's proofs. Printed by Derrière L'Étoile Studios, New York. Published by International Images, Inc., Putney, Vermont.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0026_000(tom_wesselmann_monica_sitting_one_leg_on_the_other121033).jpg?mode=max&w=2&hash=80911a12c9578edc217cbe897acd87a42c3e19db,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-26/316549?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,2707.58,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+80629907-37a0-47d5-97fa-e04499d494c2,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 27,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,Monica Sitting Cross Legged,prints,offset lithograph in colors on Rives BFK paper,N/A,37.125,47.75,in,yes,yes,yes,1990,1990,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TW0M4R.","woman, sitting, cross-legged, color lithograph, art print",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Monica Sitting Cross Legged
+signed and numbered 'Wesselmann PP 1/3' in pencil (lower right)
+offset lithograph in colors on Rives BFK paper
+sheet: 47
+3
+⁄
+4
+ x 37
+1
+⁄
+8
+ in. (121.3 x 94.3 cm.)
+Executed in 1990. This work is printer's proof number one of three aside from the edition of 26 plus six artist's proofs. Printed by Derrière L'Étoile Studios, New York. Published by International Images, Inc., Putney, Vermont.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0027_000(tom_wesselmann_monica_sitting_cross_legged121041).jpg?mode=max&w=2&hash=1b1be6d74cd0328a74799764580c711a33a5160d,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-27/316550?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,2707.5,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+1dda7a05-38db-4ae2-9492-6b45c938c8e5,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 28,USD,"3,000","5,000",N/A,N/A,"3,000","5,000",N/A,N/A,TOM WESSELMANN,1931,2004,Monica Lying on Her Side with Scribbles,prints,offset lithograph in colors on Rives BFK paper,N/A,61.25,41,in,yes,yes,yes,1990,1990,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWBUMC.","woman, lying down, scribbles, colors, offset lithograph, Rives BFK paper",1,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Monica Lying on Her Side with Scribbles
+signed and numbered 'Wesselmann PP 3/3' in pencil (lower right)
+offset lithograph in colors on Rives BFK paper
+sheet: 41 x 61
+1
+⁄
+4
+ in. (104.1 x 155.6 cm.)
+Executed in 1990. This work is printer's proof number three of three aside from the edition of 26 plus six artist's proofs. Printed by Derrière L'Étoile Studios, New York. Published by International Images, Inc., Putney, Vermont.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0028_000(tom_wesselmann_monica_lying_on_her_side_with_scribbles121048).jpg?mode=max&w=2&hash=78bc54c34d14d9e999b27a4de58bac8c497ed2b2,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-28/316551?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,7020.52,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4500.0,3750.0
+34185b37-0875-44c8-bb8c-c1703aa180f1,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 29,USD,"10,000","15,000",N/A,N/A,"10,000","15,000",N/A,N/A,TOM WESSELMANN,1931,2004,Blue Nude (Pink); Blue Nude #2 and Blue Nude #4 [Three Works],prints,"screenprint in colors, on thick wove paper",21,19.125,17.125,in,yes,yes,yes,1901,2000,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that these works are included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under numbers TW9JMB, TWRVJT and TW3Z3O.","nude, blue, screenprint, colors, paper, abstract, portrait, figure, geometric, modern",3,N/A,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Blue Nude (Pink); Blue Nude #2 
+and 
+Blue Nude #4 
+[Three Works]
+(i) 
+Blue Nude (Pink)
+screenprint in colors, on thick wove paper
+image: 10
+1
+⁄
+8
+ x 12
+1
+⁄
+8
+ in. (25.7 x 30.8 cm.)
+sheet: 17
+1
+⁄
+8
+ x 19
+1
+⁄
+8
+ in. (43.5 x 48.6 cm.)
+signed and numbered 'Wesselmann DP 4/4' in pencil (lower right)
+Executed in 2000. This work is dedicated proof 4 of 4 apart from the edition of 20. Published by Cooper Square Prints, New York.
+(ii) 
+Blue Nude #2
+screenprint in colors, on thick wove paper
+sheet: 19 x 17 in. (48.3 x 43.2 cm.)
+signed and numbered 'Wesselmann DP 3/8' in pencil (lower right)
+Executed in 2001. This work is dedicated proof 3 of 8 aside from the edition of 60. Published by Cooper Square Prints, New York.
+(iii) 
+Blue Nude #4
+screenrpint in colors, on thick wove paper
+sheet: 16
+3
+⁄
+4
+ x 21 in. (42.5 x 53.3 cm.)
+signed and numbered 'Wesselmann DP 3/8' in pencil (lower right)
+Executed in 2001. This work is dedicated proof 3 of 8 aside from the edition of 60. Published by Cooper Square Prints, New York.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0029_001(tom_wesselmann_blue_nude_blue_nude_2_and_blue_nude_4_three_works121057).jpg?mode=max&w=2&hash=984508c56b601495f6b1aaaf46b0ddcfc6c9f5b0,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-29/316552?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,20776.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13500.0,11250.0
+51271a16-81d0-40ea-8b84-575856576584,Artwork,Christies,24850,2026-07-01,New York,American Beauty: Tom Wesselmann Online,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/lots/4112,Lot 30,USD,"50,000","70,000",N/A,N/A,"50,000","70,000",N/A,N/A,TOM WESSELMANN,1931,2004,Monica Lying on Blanket (Black),mixed media,enamel on cut-out steel,N/A,40.875,20.5,in,yes,yes,yes,1980,1989,"FURTHER DETAILS
+
+
+
+
+
+
+Please note that this work is included in the Tom Wesselmann Digital Corpus published by the Wildenstein Plattner Institute under number TWPAIS.","woman, blanket, steel, enamel, cut-out, reclining, signed, numbered, edition",1,011/25,original,"Details
+
+
+
+
+
+
+ (1931-2004)
+Monica Lying on Blanket (Black)
+signed, dated and numbered 'Wesselmann 88 11/25' (lower right)
+enamel on cut-out steel multiple
+overall: 20
+1
+⁄
+2
+ x 40
+7
+⁄
+8
+ in. (52.1 x 103.8 cm.)
+Executed in 1988. This work is number 11 from an edition of 25 (there were also six artist's proofs). Co-published by the artist and Sidney Janis Gallery, New York.
+
+Edition: 011/25",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24850_0030_000(tom_wesselmann_monica_lying_on_blanket053033).jpg?mode=max&w=2&hash=717f99ab44c2027bfabecc79ffc95867aeb9bbed,https://onlineonly.christies.com/s/american-beauty-tom-wesselmann-online/tom-wesselmann-1931-2004-30/317230?ldp_breadcrumb=back,7543.64,26206.89,52487.41,15.84,69.56,4.31,N/A,N/A,70288.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,62000.0,51666.66666666667

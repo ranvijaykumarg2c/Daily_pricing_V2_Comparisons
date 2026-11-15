@@ -1,0 +1,670 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,title,memorabilia_type,personality,autographed,signed_by,authentication,certification_number,year_of_issuance,condition,dimensions,materials,limited_edition,edition_number,provenance,manufacturer,sport,league,team,player,jersey_number,game_used,rookie_item,match_event,driver,series,race_event,race_used,vehicle_model,auto_memorabilia_type,sponsor_logos,franchise,character,actor_or_creator,media_type,publisher_or_studio,issue_number,prop_used,release_year,genre,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+d2959d58-c3b2-4598-8b3a-9f95303bc5a2,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 1,GBP,25000,35000,32000,25000,31641.86,44298.6,40501.58,31641.86,"Rolex. A fine and rare 18K rose gold diamond set automatic chronograph bracelet watch Cosmograph Daytona, Ref: 116505, Purchased December 2017",Automotive,N/A,False,N/A,N/A,N/A,2017,N/A,40mm,"18K rose gold, diamond",False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine and rare 18K rose gold diamond set automatic chronograph bracelet watch
+Model: Cosmograph Daytona
+Reference: 116505
+Date: Purchased December 2017
+Movement: 44-jewel Cal.4130 automatic, adjusted to 5 positions & temperature, No.5L660171
+Dial: Salmon pink, applied diamond set hour markers, black outer 1/5th second divisions, subsidiary dials at 3, 6 and 9 for seconds, 30 minute and 12 hour recording, rose gilt pointed baton hands with black and luminous inserts, centre chronograph hand
+Case: Brushed and polished tonneau form, screw down back, shouldered screw down crown flanked by twin screw down chronograph pushers, calibrated bezel, No.87Q814C4
+Strap/Bracelet: Brushed and polished Oyster link
+Buckle/Clasp: Signed folding clasp, stamped 1JU
+Signed: Case, dial & movement
+Size: 40mm
+ Accompaniments: Rolex box, outer card, international guarantee, 2 spare links, brochures, swing tags",https://images1.bonhams.com/image?src=Images/live/2026-05/14/60171144-2-1.jpg,https://www.bonhams.com/auction/31979/lot/1/rolex-a-fine-and-rare-18k-rose-gold-diamond-set-automatic-chronograph-bracelet-watch-cosmograph-daytona-ref-116505-purchased-december-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2026-09,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,42000.0,35000.0
+c5cb7e54-ec2c-4a45-86f7-9fff7356fcef,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 2,GBP,12000,18000,N/A,N/A,15188.09,22782.14,N/A,N/A,"Rolex. A fine 18K white gold automatic calendar bracelet watch Day-Date, Ref: 118209, Circa 2000",Pop Culture,N/A,False,N/A,N/A,N/A,2000,excellent,36mm,18K white gold,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine 18K white gold automatic calendar bracelet watch
+Model: Day-Date
+Reference: 118209
+Date: Circa 2000
+Movement: 31-jewel Cal.3155 automatic, No.38684133
+Dial: Sunburst silvered, applied polished baton hour markers, black outer minute track with Roman numeral 5 minute markers, magnified date aperture at 3, day aperture at 12, polished baton hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back, No.P879648
+Strap/Bracelet: Polished Oyster link
+Buckle/Clasp: Signed concealed 18K white gold folding clasp
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Rolex box, outer card, punched undated guarantee, spare link, Rolex notebook, polishing cloth, brochures, swing tags",https://images1.bonhams.com/image?src=Images/live/2026-05/14/60137557-3-1.jpg,https://www.bonhams.com/auction/31979/lot/2/rolex-a-fine-18k-white-gold-automatic-calendar-bracelet-watch-day-date-ref-118209-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,19000.0,15833.333333333334
+c6927663-78ad-41ec-bd19-67f726a13f37,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 3,GBP,8000,12000,19200,15000,10125.4,15188.09,24300.95,18985.12,"Rolex. A fine and rare 18K rose gold automatic calendar bracelet watch Day-Date, Ref: 1803, Purchased 9th May 1965",Automotive,N/A,False,N/A,N/A,N/A,1965,N/A,36mm,18K rose gold,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine and rare 18K rose gold automatic calendar bracelet watch
+Model: Day-Date
+Reference: 1803
+Date: Purchased 9th May 1965
+Movement: 26-jewel Cal.1555 automatic, No.DD39934
+Dial: Sunburst silvered, applied rose gilt baton hour markers, black outer 1/2 second divisions with luminous dot 5 minute markers, day aperture at 12, magnified date aperture at 3, rose gilt baton hands, centre seconds
+Case: Brushed and polished tonneau form, screw down back, fluted bezel, No.1077220
+Strap/Bracelet: Brushed and polished President link
+Buckle/Clasp: Signed folding clasp, stamped 64 4
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Rolex box, outer card, guarantee, chronometer certificate",https://images1.bonhams.com/image?src=Images/live/2026-05/14/73002558-8-1.jpg,https://www.bonhams.com/auction/31979/lot/3/rolex-a-fine-and-rare-18k-rose-gold-automatic-calendar-bracelet-watch-day-date-ref-1803-purchased-9th-may-1965/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,13200.0,11000.0
+b3cdef79-3f09-4e5a-af39-2573855841ba,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 4,GBP,30000,50000,38400,30000,37970.23,63283.72,48601.9,37970.23,"Rolex. A fine and rare 18K gold automatic calendar bracelet watch with stella dial Day-Date, Ref: 1803, Circa 1981",Automotive,N/A,False,N/A,N/A,N/A,1981,excellent,36mm,gold,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine and rare 18K gold automatic calendar bracelet watch with stella dial
+Model: Day-Date
+Reference: 1803
+Date: Circa 1981
+Movement: 27-jewel Cal.3055 automatic, No.0600734
+Dial: Red, applied gilt baton hour markers, black outer minute divisions with luminous dot five minute markers, magnified date aperture at 3, day aperture at 12, gilt baton hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back, fluted bezel, No.6588364
+Strap/Bracelet: Brushed and polished President link
+Buckle/Clasp: Signed concealed folding clasp
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Rolex box, outer card, Rolex notebook, brochure",https://images1.bonhams.com/image?src=Images/live/2026-05/18/73002544-1-1.jpg,https://www.bonhams.com/auction/31979/lot/4/rolex-a-fine-and-rare-18k-gold-automatic-calendar-bracelet-watch-with-stella-dial-day-date-ref-1803-circa-1981/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+c777b9a5-3109-448b-b2a1-7bd022428e65,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 5,GBP,12000,18000,15360,12000,15188.09,22782.14,19440.76,15188.09,"Vacheron Constantin. A fine and very rare 18K white gold manual wind calendar wristwatch with power reserve Malte, Ref: 83060/000G-9432, No.50/50, Purchased 21st December 2009",Pop Culture,Vacheron Constantin,False,N/A,N/A,N/A,2009,excellent,37mm,"18K white gold, alligator leather",True,50/50,N/A,Vacheron Constantin,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Vacheron Constantin. A fine and very rare 18K white gold manual wind calendar wristwatch with power reserve
+Model: Malte
+Reference: 83060/000G-9432, No.50/50
+Date: Purchased 21st December 2009
+Movement: 22-jewel Cal.1420 manual wind, stamped with the Seal of Geneva, No.5141101
+Dial: Grey, applied polished baton hour markers, white outer minute divisions, date indication at 3, power reserve indication at 10, subsidiary seconds at 6, polished pointed baton hands
+Case: Brushed and polished round, back secured by 6 screws, quickset button at 4, No.1177409
+Strap/Bracelet: Black Vacheron Constantin alligator leather
+Buckle/Clasp: Signed 18K white gold buckle
+Signed: Case, dial & movement
+Size: 37mm
+ Accompaniments: Vacheron Constantin box, outer card, certificate of origin and guarantee, chronometer certificate, certificate of authenticity, spare blue Vacheron Constantin alligator leather strap, strap removal tool, polishing cloth, brochures, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25842687-1-1.jpg,https://www.bonhams.com/auction/31979/lot/5/vacheron-constantin-a-fine-and-very-rare-18k-white-gold-manual-wind-calendar-wristwatch-with-power-reserve-malte-ref-83060000g-9432-no5050-purchased-21st-december-2009/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,19500.0,16250.0
+b8e83e68-51c9-42e3-bed6-35a65c4f7010,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 6,GBP,8000,12000,11520,9000,10125.4,15188.09,14580.57,11391.07,"Michel Jordi. A rare and unusual Limited Edition 18K white gold swivelling dual time zone chronograph wristwatch Squelette HDV, No.28/28, Circa 2007",Pop Culture,N/A,False,N/A,N/A,N/A,2007,excellent,43mm,"18K white gold, alligator leather",True,28/28,N/A,Michel Jordi,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Michel Jordi. A rare and unusual Limited Edition 18K white gold swivelling dual time zone chronograph wristwatch
+Model: Squelette HDV, No.28/28
+Date: Circa 2007
+Movement: 35-jewel Cal.71 automatic & 21-jewel manual wind
+Dial: One black with white baton hour markers and Arabic numeral quarters, white dot outer minute divisions, subsidiary seconds at 5, polished pointed baton hands, the other skeletonised with raised outer minute divisions, subsidiary dials at 3 and 9 for seconds and 30 minute recording, blued steel pointed baton hands, red centre chronograph hand
+Case: Brushed and polished round, exhibition backs secured by 5 screws, locking system at 9, lower crown flanked by chronograph pushers
+Strap/Bracelet: Black Michel Jordi alligator leather
+Buckle/Clasp: Signed 18K white gold folding clasp
+Signed: Case, dial & movement
+Size: 43mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25854402-1-1.jpg,https://www.bonhams.com/auction/31979/lot/6/michel-jordi-a-rare-and-unusual-limited-edition-18k-white-gold-swivelling-dual-time-zone-chronograph-wristwatch-squelette-hdv-no2828-circa-2007/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,13450.0,11208.333333333334
+b827bc08-9c4b-4845-a975-9ee1ce042a3b,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 7,GBP,25000,35000,53740,42000,31641.86,44298.6,68017.34,53158.32,"A. Lange & Söhne. A rare and unusual Limited Edition 18K rose gold wristwatch with jumping seconds, power reserve indication, remontoire d'égalité and zero-reset mechanism Richard Lange Jumping Seconds, No.091/100, Ref: 252.032, Circa 2017",Pop Culture,N/A,False,N/A,N/A,N/A,2017,excellent,40mm,"18K rose gold, alligator leather",True,No.091/100,N/A,A. Lange & Söhne,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"A. Lange & SÃ¶hne. A rare and unusual Limited Edition 18K rose gold wristwatch with jumping seconds, power reserve indication, remontoire d'Ã©galitÃ© and zero-reset mechanism
+Model: Richard Lange Jumping Seconds, No.091/100
+Reference: 252.032
+Date: Circa 2017
+Movement: 50-jewel Cal.L094.1 manual wind, No.130553
+Dial: Silvered regulator dial with offset subsidiary dials for hours, minutes and seconds, black Roman numeral hour markers, power reserve indication above 6, gilt dagger hands
+Case: Brushed and polished round, exhibition back secured by 6 screws, No.230967
+Strap/Bracelet: Brown A. Lange & SÃ¶hne alligator leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case, dial & movement
+Size: 40mm
+ Accompaniments: A. Lange & SÃ¶hne box, undated guarantee, brochure, polishing cloths",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25863006-5-3.jpg,https://www.bonhams.com/auction/31979/lot/7/a-lange-and-sohne-a-rare-and-unusual-limited-edition-18k-rose-gold-wristwatch-with-jumping-seconds-power-reserve-indication-remontoire-degalite-and-zero-reset-mechanism-richard-lange-jumping-seconds-no091100-ref-252032-circa-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,37000.0,30833.333333333336
+a2bdaa6a-79b3-4d78-9032-d3ced3946c1b,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 8,GBP,12000,18000,16640,13000,15188.09,22782.14,21060.82,16453.77,"A. Lange & Söhne. A fine 18K rose gold manual wind wristwatch with power reserve 1815 Up/Down, Ref: 234.032, Purchased 12th March 2019",Automotive,N/A,False,N/A,N/A,N/A,2019,N/A,39mm,"18K rose gold, alligator leather",False,N/A,N/A,A. Lange & Söhne,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"A. Lange & SÃ¶hne. A fine 18K rose gold manual wind wristwatch with power reserve
+Model: 1815 Up/Down
+Reference: 234.032
+Date: Purchased 12th March 2019
+Movement: 29-jewel Cal.L051.2 manual wind, adjusted to 5 positions, No.133603
+Dial: Silvered, black Arabic numeral hour markers, black outer minute track with 5 minute markers, subsidiary dials at 4 and 8 for seconds and power reserve indication, blued steel dagger hands
+Case: Polished round, exhibition back secured by 6 screws, No.238620
+Strap/Bracelet: Brown A. Lange & SÃ¶hne alligator leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case, dial & movement
+Size: 39mm
+ Accompaniments: A. Lange & SÃ¶hne box, outer card, guarantee, brochure, polishing cloth",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25863006-6-1.jpg,https://www.bonhams.com/auction/31979/lot/8/a-lange-and-sohne-a-fine-18k-rose-gold-manual-wind-wristwatch-with-power-reserve-1815-updown-ref-234032-purchased-12th-march-2019/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,19500.0,16250.0
+f03acb98-a80f-4179-819f-98d94017acea,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 9,GBP,12000,18000,15360,12000,15188.09,22782.14,19440.76,15188.09,"Graff. A fine and rare 18K white gold diamond set automatic calendar wristwatch Ref: GXXIX, Circa 2010",Pop Culture,N/A,False,N/A,N/A,N/A,2010,N/A,36mm,"18K white gold, diamond",False,N/A,N/A,Graff,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Graff. A fine and rare 18K white gold diamond set automatic calendar wristwatch
+Reference: GXXIX
+Date: Circa 2010
+Movement: 26-jewel LWO Cal.1918 automatic
+Dial: Grey ridged, black Roman numeral quarters within diamond set chapter, date aperture at 6, polished lance hands
+Case: Brushed and polished dodecagonal form, exhibition back secured by 6 screws, diamond set bezel and crown, No.0007
+Buckle/Clasp: Signed 18K white gold folding clasp
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Graff pouch, outer card",https://images1.bonhams.com/image?src=Images/live/2026-05/18/73002595-1-1.jpg,https://www.bonhams.com/auction/31979/lot/9/graff-a-fine-and-rare-18k-white-gold-diamond-set-automatic-calendar-wristwatch-ref-gxxix-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,19800.0,16500.0
+796cf258-1d08-477b-aa96-4df80f4ff797,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 10,GBP,15000,20000,17920,14000,18985.12,25313.49,22680.89,17719.44,Graff. A fine lady's 18K gold diamond set quartz bracelet watch Circa 1990,Pop Culture,Laurence Graff,False,N/A,N/A,N/A,1990,excellent,24.5mm,"18K gold, diamonds",False,N/A,N/A,Graff,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Graff. A fine lady's 18K gold diamond set quartz bracelet watch
+Date: Circa 1990
+Movement: Jewelled quartz
+Dial: PavÃ©-set brilliant-cut diamonds, black pointed baton hands
+Case: Polished round, snap on back, No.01101
+Strap/Bracelet: PavÃ©-set throughout with graduating brilliant-cut diamonds, diamonds approximately 19.35 carats total
+Buckle/Clasp: Concealed clasp
+Signed: Case
+Size: 24.5mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25853913-2-1.jpg,https://www.bonhams.com/auction/31979/lot/10/graff-a-fine-ladys-18k-gold-diamond-set-quartz-bracelet-watch-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+2bd26600-d4fe-4887-b94c-d31a1f25f66a,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 11,GBP,8000,12000,9600,7500,10125.4,15188.09,12150.47,9492.56,"Cartier. An 18K rose gold automatic bracelet watch Ballon Bleu, Ref: 3003, Circa 2011",Pop Culture,N/A,False,N/A,N/A,N/A,2011,excellent,36mm,18K rose gold,False,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Cartier. An 18K rose gold automatic bracelet watch
+Model: Ballon Bleu
+Reference: 3003
+Date: Circa 2011
+Movement: 25-jewel Cal.076 automatic
+Dial: Silvered with guillochÃ© engraved centre, black Roman numeral hour markers, secret signature at 7, black inner minute divisions, blued steel sword hands, centre seconds
+Case: Brushed and polished round, back secured by 8 screws, cabochon set crown set within the case, No.122417QX
+Strap/Bracelet: Polished link
+Buckle/Clasp: Signed 18K rose gold double folding clasp
+Signed: Case, dial & movement
+Size: 36mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25810411-2-1.jpg,https://www.bonhams.com/auction/31979/lot/11/cartier-an-18k-rose-gold-automatic-bracelet-watch-ballon-bleu-ref-3003-circa-2011/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,13200.0,11000.0
+2d49e9ac-5d92-4ff0-88b1-b8af1290dd55,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 12,GBP,30000,40000,48640,38000,37970.23,50626.98,61562.4,48095.63,"Patek Philippe. A fine lady's 18K rose gold diamond set quartz calendar bracelet watch Nautilus, Ref: 7010/1R-010, Purchased 23rd December 2011",Pop Culture,N/A,False,N/A,N/A,N/A,2011,N/A,32mm,"18K rose gold, diamond",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A fine lady's 18K rose gold diamond set quartz calendar bracelet watch
+Model: Nautilus
+Reference: 7010/1R-010
+Date: Purchased 23rd December 2011
+Movement: 8-jewel Cal.E23-250 quartz, No.5633711
+Dial: Brown ridged, applied luminous baton hour markers, white minute divisions, date aperture at 3, rose gilt baton hands, centre seconds
+Case: Brushed and polished three part case, screw down back, diamond set bezel, No.4757875
+Strap/Bracelet: Brushed and polished link
+Buckle/Clasp: Signed double folding clasp
+Signed: Case, dial & movement
+Size: 32mm
+ Accompaniments: Patek Philippe box, outer card, certificate of origin, 5 spare links, brochures",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25859465-1-1.jpg,https://www.bonhams.com/auction/31979/lot/12/patek-philippe-a-fine-ladys-18k-rose-gold-diamond-set-quartz-calendar-bracelet-watch-nautilus-ref-70101r-010-purchased-23rd-december-2011/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,46250.0,38541.66666666667
+75a0dd5c-2b2e-4d48-a394-fa6f8411fe52,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 13,GBP,12000,18000,19200,15000,15188.09,22782.14,24300.95,18985.12,"Audemars Piguet. A fine and rare 18K gold quartz calendar bracelet watch Royal Oak, Ref: 56175BA, Circa 1990",Automotive,N/A,False,N/A,N/A,N/A,1990,N/A,33mm,18K gold,False,N/A,N/A,Audemars Piguet,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Audemars Piguet. A fine and rare 18K gold quartz calendar bracelet watch
+Model: Royal Oak
+Reference: 56175BA
+Date: Circa 1990
+Movement: Jewelled quartz
+Dial: White tapisserie grid, applied luminous baton hour markers, black outer minute divisions, date aperture at 3, gilt baton hands with luminous inserts
+Case: Brushed and polished tonneau form, movement accessed through glass, No.1227, C79381
+Strap/Bracelet: Brushed link
+Buckle/Clasp: Signed 18K gold folding clasp
+Signed: Case, dial & movement
+Size: 33mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25832816-11-1.jpg,https://www.bonhams.com/auction/31979/lot/13/audemars-piguet-a-fine-and-rare-18k-gold-quartz-calendar-bracelet-watch-royal-oak-ref-56175ba-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,18985.0,15820.833333333334
+1aa25599-3086-4da6-b99d-948bf4d8a210,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 14,GBP,15000,20000,N/A,N/A,18985.12,25313.49,N/A,N/A,"Audemars Piguet. A fine and rare stainless steel and gold automatic calendar bracelet watch with moon phase Royal Oak, Ref: 25594, Circa 1985",Pop Culture,N/A,False,N/A,N/A,N/A,1985,excellent,36mm,"stainless steel, gold",False,N/A,N/A,Audemars Piguet,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Audemars Piguet. A fine and rare stainless steel and gold automatic calendar bracelet watch with moon phase
+Model: Royal Oak
+Reference: 25594
+Date: Circa 1985
+Movement: Jewelled automatic
+Dial: Grey tapisserie grid, applied gilt baton hour markers, black outer minute divisions, date indication at 3, day at 9, moon phase at 6, gilt baton hands with luminous inserts
+Case: Brushed and polished tonneau form, movement accessed through glass, No.1527
+Strap/Bracelet: Brushed stainless steel and gold link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Audemars Piguet box, outer card, four spare links, brochure",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25860132-1-1.jpg,https://www.bonhams.com/auction/31979/lot/14/audemars-piguet-a-fine-and-rare-stainless-steel-and-gold-automatic-calendar-bracelet-watch-with-moon-phase-royal-oak-ref-25594-circa-1985/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+6654fe7a-03c0-44ac-b9a1-5e93c82351a6,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 15,GBP,15000,20000,N/A,N/A,18985.12,25313.49,N/A,N/A,"Audemars Piguet. A fine and rare special edition stainless steel automatic calendar wristwatch Royal Oak 'Pictet & Cie', Ref: 15189ST.OO.D083CU.01, Purchased 31st May 2005",Automotive,N/A,False,N/A,N/A,N/A,2005,excellent,36mm,"stainless steel, leather",True,N/A,Commissioned by Pictet & Cie for its 20th anniversary,Audemars Piguet,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Audemars Piguet. A fine and rare special edition stainless steel automatic calendar wristwatch
+Model: Royal Oak 'Pictet & Cie'
+Reference: 15189ST.OO.D083CU.01
+Date: Purchased 31st May 2005
+Movement: Jewelled automatic
+Dial: White grid, applied luminous filled baton hour markers, black outer minute divisions with 5 minute markers, date aperture at 3, polished baton hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, back secured by 8 screws featuring Pictet & Cie logo with inscription, movement accessed through glass, 8 screws to bezel, No.F19053
+Strap/Bracelet: Brown Audemars Piguet leather
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Audemars Piguet box, outer card, certificate of origin and guarantee, instructions for use, brochures",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25823133-1-1.jpg,https://www.bonhams.com/auction/31979/lot/15/audemars-piguet-a-fine-and-rare-special-edition-stainless-steel-automatic-calendar-wristwatch-royal-oak-pictet-and-cie-ref-15189stood083cu01-purchased-31st-may-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+426ecef3-aaa5-41b2-af18-dea6846c0d53,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 16,GBP,8000,12000,19200,15000,10125.4,15188.09,24300.95,18985.12,"Christiaan van der Klaauw. A rare and unusual 18K rose gold automatic astrological wristwatch with month, Zodiacs and solar and lunar positions Astrolabium 2000, Circa 2005",Pop Culture,Christiaan van der Klaauw,False,N/A,N/A,N/A,2005,excellent,40mm,"18K rose gold, alligator leather",False,N/A,N/A,Christiaan van der Klaauw,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Christiaan van der Klaauw. A rare and unusual 18K rose gold automatic astrological wristwatch with month, Zodiacs and solar and lunar positions
+Model: Astrolabium 2000
+Date: Circa 2005
+Movement: Jewelled Cal.2824-2 automatic
+Dial: GuillochÃ© engraved silvered, blue Arabic numeral hour markers to brushed surround, overlapping rings representing equinoctial time, local time, the months, signs of the zodiac, the elevation and azimuth of the sun and the moon on the planisphere, the diurnal and nocturnal hours, the moon phases, the aspect of the sun and the moon in relation to each other, blued steel hands with luminous inserts, No.50NB
+Case: Polished round, screw down exhibition back, quick set button at 9
+Strap/Bracelet: Black Christiaan van der Klaauw alligator leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case, dial & movement
+Size: 40mm
+ Accompaniments: Christiaan van der Klaauw box, outer card",https://images1.bonhams.com/image?src=Images/live/2026-05/14/73001230-1-1.jpg,https://www.bonhams.com/auction/31979/lot/16/christiaan-van-der-klaauw-a-rare-and-unusual-18k-rose-gold-automatic-astrological-wristwatch-with-month-zodiacs-and-solar-and-lunar-positions-astrolabium-2000-circa-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+18a754ac-7839-4ff7-a42f-3393ac533c12,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 17,GBP,15000,20000,19200,15000,18985.12,25313.49,24300.95,18985.12,"Roger Dubuis. A rare and unusual Limited Edition 18K white gold diamond set automatic wristwatch with mother of pearl dial and retrograde hours, minutes and date Three-Retrograde, No.02/28, Circa 2000",Pop Culture,N/A,False,N/A,N/A,N/A,2000,excellent,43mm,"18K white gold, diamond, mother of pearl, alligator leather",True,02/28,N/A,Roger Dubuis,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Roger Dubuis. A rare and unusual Limited Edition 18K white gold diamond set automatic wristwatch with mother of pearl dial and retrograde hours, minutes and date
+Model: Three-Retrograde, No.02/28
+Date: Circa 2000
+Movement: 25-jewel Cal.5799 automatic, stamped with the Seal of Geneva, No.82
+Dial: Mother of pearl with guillochÃ© engraved diamond set centre, black retrograde Arabic numerals for hour, minutes and date, blued steel cathedral style hands
+Case: Brushed and polished round, screw down exhibition back, diamond set bezel, quick set button to crown
+Strap/Bracelet: Black Roger Dubuis alligator leather
+Buckle/Clasp: Signed 18K white gold diamond set buckle
+Signed: Case, dial & movement
+Size: 43mm
+ Accompaniments: Roger Dubuis box, outer card",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25866191-1-1.jpg,https://www.bonhams.com/auction/31979/lot/17/roger-dubuis-a-rare-and-unusual-limited-edition-18k-white-gold-diamond-set-automatic-wristwatch-with-mother-of-pearl-dial-and-retrograde-hours-minutes-and-date-three-retrograde-no0228-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,23400.0,19500.0
+36dc3e49-eb6b-40f7-b963-36ac9f9c6ce7,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 18,GBP,12000,18000,20480,16000,15188.09,22782.14,25921.01,20250.79,"Roger Dubuis. An 18K rose gold diamond set automatic wristwatch Excalibur, Ref: 86160, Purchased 3rd November 2017",Automotive,N/A,False,N/A,N/A,N/A,2017,N/A,37mm,"18K rose gold, diamond, alligator leather",False,N/A,N/A,Roger Dubuis,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Roger Dubuis. An 18K rose gold diamond set automatic wristwatch
+Model: Excalibur
+Reference: 86160
+Date: Purchased 3rd November 2017
+Movement: 33-jewel Cal.RD821 automatic, stamped with the Seal of Geneva, No.13677
+Dial: Diamond set, applied rose gilt Roman numeral hour markers, subsidiary seconds at 6, rose gilt lance hands
+Case: Brushed and polished round, exhibition back secured by 4 screws, diamond set bezel, lugs and sides, No.M427C8
+Strap/Bracelet: Brown Roger Dubuis alligator leather
+Buckle/Clasp: Signed 18K rose gold diamond set folding clasp
+Signed: Case, dial & movement
+Size: 37mm
+ Accompaniments: Roger Dubuis box, outer card, guarantee, 'Poincon de Geneve', swing tag",https://images1.bonhams.com/image?src=Images/live/2026-05/14/60137630-1-1.jpg,https://www.bonhams.com/auction/31979/lot/18/roger-dubuis-an-18k-rose-gold-diamond-set-automatic-wristwatch-excalibur-ref-86160-purchased-3rd-november-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,19800.0,16500.0
+fa0c825a-ba3c-4fc5-a554-c9d28d0c7c27,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 19,GBP,12000,18000,14080,11000,15188.09,22782.14,17820.7,13922.42,"Glashütte Original. An 18K white gold automatic calendar wristwatch with dual time zone, power reserve and day/night indication Senator Cosmopolite, Ref: 1-89-02-01-04-30, Purchased 22nd October 2016",Automotive,N/A,False,N/A,N/A,N/A,2016,N/A,44mm,"18K white gold, alligator leather",False,N/A,N/A,Glashütte Original,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"GlashÃ¼tte Original. An 18K white gold automatic calendar wristwatch with dual time zone, power reserve and day/night indication
+Model: Senator Cosmopolite
+Reference: 1-89-02-01-04-30
+Date: Purchased 22nd October 2016
+Movement: 63-jewel Cal.89 automatic, 21K gold rotor segment, No.0233
+Dial: White, black Roman numeral hour markers, black outer minute track, subsidiary dials at 12 and 6 for seconds and dual time zone combined with power reserve, day/night indication at 9, Daylight Saving and Standard time zone indication at 8, date aperture at 4, blued steel spade hands
+Case: Brushed and polished round, exhibition back secured by 5 screws, crown at 2 for winding and setting home and local time, crown at 4 for setting local time, crown at 8 for setting time zone indication, quick set button for date at 9, No.0016, 79134
+Strap/Bracelet: Blue GlashÃ¼tte Original alligator leather
+Buckle/Clasp: Signed 18K white gold folding clasp
+Signed: Case, dial & movement
+Size: 44mm
+ Accompaniments: GlashÃ¼tte Original box, outer card, Guarantee card, instructions for use",https://images1.bonhams.com/image?src=Images/live/2026-05/14/73002678-7-1.jpg,https://www.bonhams.com/auction/31979/lot/19/glashutte-original-an-18k-white-gold-automatic-calendar-wristwatch-with-dual-time-zone-power-reserve-and-daynight-indication-senator-cosmopolite-ref-1-89-02-01-04-30-purchased-22nd-october-2016/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,18500.0,15416.666666666668
+abcc8605-e9fd-46b4-a649-479fa0463a2f,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 20,GBP,18000,22000,N/A,N/A,22782.14,27844.84,N/A,N/A,"Breitling. A fine and rare Limited Edition 18K rose gold automatic perpetual calendar chronograph wristwatch with moon phase, 24-hour, season and leap year indication Navitimer Quantieme Perpetual, No.25/50, Ref: H29320, Circa 2002",Automotive,N/A,False,N/A,N/A,N/A,2002,excellent,43mm,"18K rose gold, alligator leather",True,25/50,N/A,Breitling,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Breitling. A fine and rare Limited Edition 18K rose gold automatic perpetual calendar chronograph wristwatch with moon phase, 24-hour, season and leap year indication
+Model: Navitimer Quantieme Perpetual, No.25/50
+Reference: H29320
+Date: Circa 2002
+Movement: Jewelled automatic
+Dial: Silvered, applied rose gilt baton hour markers, outer 1/5th second divisions, outer tachymetres, subsidiary dials at 3, 6, 9 and 12 for weeks of the year combined with moon phase, 12 hour recording and day combined with 24-hour indication, 30 minute recording and month combined with leap year, date and seconds combined with season, rose gilt pointed baton hands with luminous inserts, centre chronograph hand
+Case: Polished round, screw down back, crown flanked by twin chronograph pushers, quickset buttons in the band, No.579268
+Strap/Bracelet: Brown Breitling alligator leather
+Buckle/Clasp: Signed 18K rose gold folding clasp
+Signed: Case, dial & movement
+Size: 43mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25862877-2-1.jpg,https://www.bonhams.com/auction/31979/lot/20/breitling-a-fine-and-rare-limited-edition-18k-rose-gold-automatic-perpetual-calendar-chronograph-wristwatch-with-moon-phase-24-hour-season-and-leap-year-indication-navitimer-quantieme-perpetual-no2550-ref-h29320-circa-2002/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,25300.0,21083.333333333336
+8f858dac-67dc-42ba-8017-ed9249e8b5a4,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 21,GBP,12000,18000,15360,12000,15188.09,22782.14,19440.76,15188.09,"IWC. A fine stainless steel automatic perpetual calendar wristwatch with moon phase and 7 day power reserve Big Pilot's Watch Perpetual Calendar 'Racing Green', Ref: IW503608, Purchased 18th July 2023",Pop Culture,N/A,False,N/A,N/A,N/A,2023,excellent,46mm,"stainless steel, rubber",False,N/A,N/A,IWC,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"IWC. A fine stainless steel automatic perpetual calendar wristwatch with moon phase and 7 day power reserve
+Model: Big Pilot's Watch Perpetual Calendar 'Racing Green'
+Reference: IW503608
+Date: Purchased 18th July 2023
+Movement: 54-jewel Cal.52615 automatic, No.8105040
+Dial: Racing green, luminous baton hour markers, white outer minute divisions, subsidiary dials at 3, 6, 9 and 12 for calendar with 7 day power reserve, month, day with seconds and moon phase indication, year indication at 8, polished sword hands with luminous inserts
+Case: Brushed and polished round, screw down exhibition back, No.6445064
+Strap/Bracelet: Racing green IWC rubber
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 46mm
+ Accompaniments: IWC box, outer card, warranty card, purchase receipt, encased century slide, polishing cloth",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25833104-1-1.jpg,https://www.bonhams.com/auction/31979/lot/21/iwc-a-fine-stainless-steel-automatic-perpetual-calendar-wristwatch-with-moon-phase-and-7-day-power-reserve-big-pilots-watch-perpetual-calendar-racing-green-ref-iw503608-purchased-18th-july-2023/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,19850.0,16541.666666666668
+07dc6800-cd89-4123-8b9a-6a76972bf7f6,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 22,GBP,18000,22000,N/A,N/A,22782.14,27844.84,N/A,N/A,"Pierre Kunz. A fine and rare 18K rose gold manual wind tourbillon wristwatch Spirit of Challenge, Ref: O 800 T, Circa 2005",Pop Culture,Pierre Kunz,False,N/A,N/A,N/A,2005,N/A,41mm,"18K rose gold, leather",False,N/A,N/A,Pierre Kunz,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Pierre Kunz. A fine and rare 18K rose gold manual wind tourbillon wristwatch
+Model: Spirit of Challenge
+Reference: O 800 T
+Date: Circa 2005
+Movement: Jewelled manual wind, one-minute tourbillon with square cage
+Dial: Black, white Arabic numeral hour markers, silvered outer minute track, aperture at 6 to display tourbillon cage, rose gilt baton hands
+Case: Brushed and polished square form, exhibition back secured by 4 screws, coin edged band, No.17
+Strap/Bracelet: Associated black leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case, dial & movement
+Size: 41mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25862877-1-1.jpg,https://www.bonhams.com/auction/31979/lot/22/pierre-kunz-a-fine-and-rare-18k-rose-gold-manual-wind-tourbillon-wristwatch-spirit-of-challenge-ref-o-800-t-circa-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,25300.0,21083.333333333336
+8e29144b-8df0-4594-9736-ed837fdda752,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 23,GBP,7000,9000,N/A,N/A,8859.72,11391.07,N/A,N/A,"Jaeger-LeCoultre. A fine and rare 18K gold automatic perpetual calendar wristwatch with alarm, moon phase and 24 hour indication Master Grand Réveil, Ref: 180.1.99, Circa 1995",Pop Culture,N/A,False,N/A,N/A,N/A,1995,excellent,41mm,"18K gold, leather",False,N/A,N/A,Jaeger-LeCoultre,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Jaeger-LeCoultre. A fine and rare 18K gold automatic perpetual calendar wristwatch with alarm, moon phase and 24 hour indication
+Model: Master Grand RÃ©veil
+Reference: 180.1.99
+Date: Circa 1995
+Movement: 34-jewel Cal.919 automatic, No.2112426
+Dial: White, applied luminous baton hour markers, blue inner minute divisions and outer alarm markers, subsidiary dials at 12, 3, 6 and 9 for month, day, date and moon phase combined with 24 hour indication, leap year indication by 1, blued steel skeletonised hands with luminous tips, centre seconds, further arrow tipped alarm hand
+Case: Brushed and polished round, back secured by 6 screws, crown for alarm at 2, winding and hand setting crown at 4, quick set button at 8, No.1279
+Strap/Bracelet: Associated brown leather
+Buckle/Clasp: Associated gilt buckle
+Signed: Case, dial & movement
+Size: 41mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/60160082-5-1.jpg,https://www.bonhams.com/auction/31979/lot/23/jaeger-lecoultre-a-fine-and-rare-18k-gold-automatic-perpetual-calendar-wristwatch-with-alarm-moon-phase-and-24-hour-indication-master-grand-reveil-ref-180199-circa-1995/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+69f840cb-8b69-4fd7-9896-842b07e8975f,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 24,GBP,6000,8000,7680,6000,7594.05,10125.4,9720.38,7594.05,"Corum. A fine and unusual 18K white gold manual wind straight line wristwatch Golden Bridge, Ref: 05.0003, Circa 2005",Pop Culture,Vincent Calabrese,False,N/A,N/A,N/A,2005,excellent,32mm x 41mm,"18K white gold, leather",False,N/A,N/A,Corum,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Corum. A fine and unusual 18K white gold manual wind straight line wristwatch
+Model: Golden Bridge
+Reference: 05.0003
+Date: Circa 2005
+Movement: Jewelled Cal.7000 linear manual wind, suspended from engraved 18K white gold 'bridge'
+Dial: Skeletonised, black skeletonised hands
+Case: Brushed and polished rectangular, back secured by 4 screws, No.2140516
+Strap/Bracelet: Associated blue leather
+Buckle/Clasp: Associated steel buckle
+Signed: Case & movement
+Size: 32mm x 41mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/60160082-6-1.jpg,https://www.bonhams.com/auction/31979/lot/24/corum-a-fine-and-unusual-18k-white-gold-manual-wind-straight-line-wristwatch-golden-bridge-ref-050003-circa-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,8990.0,7491.666666666667
+ce75cdc0-3e5f-49d1-95c7-177a7bf7fe4a,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 25,GBP,12000,18000,23040,18000,15188.09,22782.14,29161.14,22782.14,"Breguet. A fine and rare 18K gold automatic perpetual calendar wristwatch with moon phase and power reserve indication Classique, Ref: 3310, Circa 1990",Pop Culture,N/A,False,N/A,N/A,N/A,1990,N/A,36mm,"18K gold, crocodile leather",False,N/A,N/A,Breguet,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,Daniel Roth,N/A,N/A,N/A,False,N/A,N/A,"Breguet. A fine and rare 18K gold automatic perpetual calendar wristwatch with moon phase and power reserve indication
+Model: Classique
+Reference: 3310
+Date: Circa 1990
+Movement: 38-jewel Cal.502 automatic, No.4425
+Dial: GuillochÃ© engraved silvered, black Roman numeral hour markers to brushed surround, black dot outer minute divisions, power reserve indication at 11, moon phase at 1, month indication to centre, leap year indication at 8, day indication at 4, date indication at 6, blued steel Breguet hands, No.2330
+Case: Brushed and polished round, snap on back, coin edged band, quick set buttons in the band at 2, 4 and 9, cabochon set crown, No.2330 C
+Strap/Bracelet: Associated black crocodile leather
+Buckle/Clasp: 18K gold buckle
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Breguet service case",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25832816-5-1.jpg,https://www.bonhams.com/auction/31979/lot/25/breguet-a-fine-and-rare-18k-gold-automatic-perpetual-calendar-wristwatch-with-moon-phase-and-power-reserve-indication-classique-ref-3310-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,19000.0,15833.333333333334
+5ae6196d-fb17-4843-aade-0e457bab386e,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 26,GBP,22000,28000,25600,20000,27844.84,35438.88,32401.26,25313.49,"Ulysse Nardin. A rare and unusual titanium and black ceramic automatic astronomical wristwatch with world time, tidal coefficients and positions of the sun and moon Blast Moonstruck, Ref: 1063-400, Purchased 15th May 2022",Pop Culture,N/A,False,N/A,N/A,N/A,2022,N/A,45mm,"titanium, black ceramic, rubber",False,N/A,N/A,Ulysse Nardin,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Ulysse Nardin. A rare and unusual titanium and black ceramic automatic astronomical wristwatch with world time, tidal coefficients and positions of the sun and moon
+Model: Blast Moonstruck
+Reference: 1063-400
+Date: Purchased 15th May 2022
+Movement: 42-jewel Cal.UN106 automatic, 22K gold rotor
+Dial: Black, outer chapter bearing the name of 24 world cities, revolving discs for diurnal and nocturnal 24-hour chapter, tidal coefficients and positions of the sun and moon, central globe with outer chapter for date indication, rose gilt pointed baton hands with luminous inserts 
+Case: Black round, exhibition back secured by 6 screws, quick set buttons at 8 and 10, No.7
+Strap/Bracelet: Black Ulysse Nardin rubber
+Buckle/Clasp: Signed double folding clasp
+Signed: Case, dial & movement
+Size: 45mm",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25858663-1-1.jpg,https://www.bonhams.com/auction/31979/lot/26/ulysse-nardin-a-rare-and-unusual-titanium-and-black-ceramic-automatic-astronomical-wristwatch-with-world-time-tidal-coefficients-and-positions-of-the-sun-and-moon-blast-moonstruck-ref-1063-400-purchased-15th-may-2022/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,31100.0,25916.666666666668
+40450d1b-7987-4845-a42b-a5536928a487,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 27,GBP,15000,20000,20480,16000,18985.12,25313.49,25921.01,20250.79,"Patek Philippe. A fine 18K rose gold automatic calendar wristwatch with dual time indication Calatrava Pilot Travel Time, Ref: 7234R, Purchased 29th December 2019",Pop Culture,N/A,False,N/A,N/A,N/A,2019,excellent,37.5mm,"18K rose gold, leather",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A fine 18K rose gold automatic calendar wristwatch with dual time indication
+Model: Calatrava Pilot Travel Time
+Reference: 7234R
+Date: Purchased 29th December 2019
+Movement: 29-jewel Cal.324 automatic, adjusted to heat, cold, isochronism & 5 positions, No.7284335
+Dial: Sunburst brown, luminous filled Arabic numeral hour markers, white outer minute track, subsidiary dial at 6 for date, local/home time apertures at 3 and 9, gilt sword hands with luminous inserts, centre seconds, further pierced white dual time hand
+Case: Polished round, screw down exhibition back, winding crown at 3, hand adjustment crowns at 8 and 10, quick set button in the band at 6, No.6359945
+Strap/Bracelet: Brown Patek Philippe leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case, dial & movement
+Size: 37.5mm
+ Accompaniments: Patek Philippe service delivery case, outer card, certificate of origin, brochures",https://images1.bonhams.com/image?src=Images/live/2026-05/14/73002678-8-1.jpg,https://www.bonhams.com/auction/31979/lot/27/patek-philippe-a-fine-18k-rose-gold-automatic-calendar-wristwatch-with-dual-time-indication-calatrava-pilot-travel-time-ref-7234r-purchased-29th-december-2019/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,23450.0,19541.666666666668
+c3ff2f66-e956-45e7-81e0-84cfd8e58231,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 28,GBP,18000,22000,23040,18000,22782.14,27844.84,29161.14,22782.14,"Patek Philippe. A fine 18K white gold automatic perpetual calendar wristwatch with moon phase, leap year indication and retrograde date Grand Complications, Ref: 5159G, Circa 2015",Automotive,N/A,False,N/A,N/A,N/A,2015,N/A,38mm,"18K white gold, alligator leather",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A fine 18K white gold automatic perpetual calendar wristwatch with moon phase, leap year indication and retrograde date
+Model: Grand Complications
+Reference: 5159G
+Date: Circa 2015
+Movement: 30-jewel Cal.324 automatic, adjusted to heat, cold, isochronism and 6 positions, gold rotor, No.5719470
+Dial: Silvered with engraved centre, black Roman numeral hour markers, black outer 1/5th second divisions with blue Arabic numeral five minute markers, inner black Arabic numerals for date indication, apertures at 3 and 9 for month and day indication, leap year indication below 12, moon phase above 6, black spade hands, centre seconds
+Case: Polished round, hinged back concealing snap on exhibition back, quick set buttons in the band at 3, 6 and 12, No.4602949
+Strap/Bracelet: Brown Patek Philippe alligator leather
+Buckle/Clasp: Signed 18K white gold folding clasp
+Signed: Case, dial & movement
+Size: 38mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25832816-8-2.jpg,https://www.bonhams.com/auction/31979/lot/28/patek-philippe-a-fine-18k-white-gold-automatic-perpetual-calendar-wristwatch-with-moon-phase-leap-year-indication-and-retrograde-date-grand-complications-ref-5159g-circa-2015/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,25300.0,21083.333333333336
+74c47a79-29e4-426b-b82f-f00b89d11bf1,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 29,GBP,150000,250000,178200,140000,189851.16,316418.6,225543.18,177194.42,"Patek Philippe. A very fine and rare mid-size 18K rose gold automatic minute repeating wristwatch Ref: 7000R-001, Purchased 20th December 2017",Pop Culture,N/A,False,N/A,N/A,N/A,2017,excellent,33mm,"18K rose gold, alligator leather",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A very fine and rare mid-size 18K rose gold automatic minute repeating wristwatch
+Reference: 7000R-001
+Date: Purchased 20th December 2017
+Movement: 39-jewel Cal.R27 PS manual wind, gold rotor, two polished hammers striking on two gongs, No.5175800
+Dial: Silvered, applied gilt Arabic numeral hour markers, gilt dot outer minute divisions, subsidiary seconds at 6, gilt spade hands
+Case: Polished round, snap on exhibition back, repeat slide in the band at 9, No.4550103
+Strap/Bracelet: Brown Patek Philippe alligator leather
+Buckle/Clasp: Signed 18K rose gold buckle
+Signed: Case, dial & movement
+Size: 33mm
+ Accompaniments: Patek Philippe box, outer card, certificate of origin, spare 18K rose gold solid case back, Patek Philippe pouch, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25830992-1-2.jpg,https://www.bonhams.com/auction/31979/lot/29/patek-philippe-a-very-fine-and-rare-mid-size-18k-rose-gold-automatic-minute-repeating-wristwatch-ref-7000r-001-purchased-20th-december-2017/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,252000.0,210000.0
+03ded5a5-d45b-4b06-be7f-4ac4b4cc6d1c,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 30,GBP,10000,15000,32000,25000,12656.74,18985.12,40501.58,31641.86,"Patek Philippe. A fine and rare 18K diamond set manual wind bracelet watch with lapis lazuli dial Ref: 3727, Circa 1970",Pop Culture,N/A,False,N/A,N/A,N/A,1970,excellent,30mm x 32mm,"18K gold, lapis lazuli, diamond",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A fine and rare 18K diamond set manual wind bracelet watch with lapis lazuli dial
+Reference: 3727
+Date: Circa 1970
+Movement: 18-jewel Cal.16-250 manual wind, adjusted to heat, cold, isochronism and 5 positions, No.1275995
+Dial: Lapis Lazuli, gilt lance hands
+Case: Brushed and polished rectangular form, snap on back, diamond and lapis lazuli set bezel, lapis lazuli set crown, No.2761880
+Strap/Bracelet: Associated 18K gold link
+Buckle/Clasp: Associated 18K gold folding clasp
+Signed: Case, dial & movement
+Size: 30mm x 32mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25813807-1-1.jpg,https://www.bonhams.com/auction/31979/lot/30/patek-philippe-a-fine-and-rare-18k-diamond-set-manual-wind-bracelet-watch-with-lapis-lazuli-dial-ref-3727-circa-1970/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,16500.0,13750.0
+f659dfd4-0f1d-41d9-b456-5bd0b4c2076b,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 31,GBP,16000,20000,N/A,N/A,20250.79,25313.49,N/A,N/A,"Patek Philippe. A fine lady's 18K white gold diamond set quartz bracelet watch Twenty 4, Ref: 4908/310G-011, Purchased 20th October 2006",Pop Culture,N/A,False,N/A,N/A,N/A,2006,excellent,22mm x 26mm,"18K white gold, diamond",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A fine lady's 18K white gold diamond set quartz bracelet watch
+Model: Twenty 4
+Reference: 4908/310G-011
+Date: Purchased 20th October 2006
+Movement: 6-jewel Cal.E15 quartz, No.3392903
+Dial: Silvered, applied diamond set hour markers, Roman numeral 12 and 6, polished baton hands with luminous inserts
+Case: Brushed and polished rectangular, diamond set bezel, back with personal engraving secured by 4 screws, diamond set crown, No.4375400
+Strap/Bracelet: Diamond set polished link
+Buckle/Clasp: Signed 18K white gold double folding clasp
+Signed: Case, dial & movement
+Size: 22mm x 26mm
+ Accompaniments: Patek Philippe box, outer card, Certificate of origin, service invoice dated 2012, brochures, swing tag",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25864435-1-1.jpg,https://www.bonhams.com/auction/31979/lot/31/patek-philippe-a-fine-ladys-18k-white-gold-diamond-set-quartz-bracelet-watch-twenty-4-ref-4908310g-011-purchased-20th-october-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,23900.0,19916.666666666668
+f614d3ec-385b-4b15-86e5-9db2795a4609,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 32,GBP,20000,30000,35840,28000,25313.49,37970.23,45361.77,35438.88,"Rolex. A lady's fine and rare 18K gold diamond set automatic calendar bracelet watch Datejust Pearlmaster, Ref: 81338, Circa 2006",Automotive,N/A,False,N/A,N/A,N/A,2006,N/A,34mm,"18K gold, diamond",False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A lady's fine and rare 18K gold diamond set automatic calendar bracelet watch
+Model: Datejust Pearlmaster
+Reference: 81338
+Date: Circa 2006
+Movement: 31-jewel Cal.2235 automatic, adjusted to 5 positions and temperature, No.1791077
+Dial: Diamond set, black Roman numeral hour markers, magnified date aperture at 3, gilt baton hands with black inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back, diamond set bezel, No.D804945
+Strap/Bracelet: Polished diamond set Pearlmaster link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 34mm
+ Accompaniments: Rolex box",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25845933-1-1.jpg,https://www.bonhams.com/auction/31979/lot/32/rolex-a-ladys-fine-and-rare-18k-gold-diamond-set-automatic-calendar-bracelet-watch-datejust-pearlmaster-ref-81338-circa-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,31600.0,26333.333333333336
+47276c09-546f-4a1c-9c5f-c8c12ea1a829,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 33,GBP,15000,20000,23040,18000,18985.12,25313.49,29161.14,22782.14,Cartier. A fine and extremely rare square 18K gold manual wind bracelet watch from the London workshops London Hallmark for 1972,Pop Culture,Jacques Cartier,False,N/A,N/A,N/A,1972,excellent,26mm,18K gold,False,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Cartier. A fine and extremely rare square 18K gold manual wind bracelet watch from the London workshops
+Date: London Hallmark for 1972
+Movement: 17-jewel Cal.845 manual wind, No.2019748
+Dial: White, black Roman numeral hour markers, black outer minute track, blued steel pointed baton hands
+Case: Brushed and polished square form, back secured by 4 screws, cabochon set crown
+Strap/Bracelet: Very fine Milanese integrated woven link
+Buckle/Clasp: Signed 18k gold folding clasp, stamped 1193, London Hallmark for 1972
+Signed: Dial signed Cartier, movement signed LeCoultre, case stamped JC for Jacques Cartier
+Size: 26mm
+ Accompaniments: Cartier box, Cartier service explanations dated 2024 and 2012",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25819441-1-1.jpg,https://www.bonhams.com/auction/31979/lot/33/cartier-a-fine-and-extremely-rare-square-18k-gold-manual-wind-bracelet-watch-from-the-london-workshops-london-hallmark-for-1972/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+1cf3b353-5f24-421a-b9ff-82c4b8af737b,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 34,GBP,30000,50000,48640,38000,37970.23,63283.72,61562.4,48095.63,"Cartier. A fine and rare Limited Edition 18K gold manual wind wristwatch made as part of the Paris 1991 edition Baignoire Allongée, No.314/400, Circa 1991",Pop Culture,Cartier,False,N/A,N/A,N/A,1991,N/A,23mm x 52mm,"18K gold, alligator leather",True,314/400,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Cartier. A fine and rare Limited Edition 18K gold manual wind wristwatch made as part of the Paris 1991 edition
+Model: Baignoire AllongÃ©e, No.314/400
+Date: Circa 1991
+Movement: 17-jewel Cal.78-1 manual wind
+Dial: GuillochÃ© engraved silvered, black Roman numeral hour markers, secret signature at 7, blued steel sword hands
+Case: Elongated curved oval, snap on back, cabochon set crown, No.314-91, A109023
+Strap/Bracelet: Black Cartier alligator leather
+Buckle/Clasp: Signed 18K gold folding clasp
+Signed: Case, dial & movement
+Size: 23mm x 52mm
+ Accompaniments: Cartier box, blank international guarantee",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25839511-1-1.jpg,https://www.bonhams.com/auction/31979/lot/34/cartier-a-fine-and-rare-limited-edition-18k-gold-manual-wind-wristwatch-made-as-part-of-the-paris-1991-edition-baignoire-allongee-no314400-circa-1991/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,51200.0,42666.66666666667
+d9f17b83-00ab-4eb9-a4e5-671600b7e90b,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 35,GBP,60000,80000,95650,75000,75940.46,101253.95,121061.76,94925.58,"Cartier. A fine and rare 18K gold manual wind wristwatch Bamboo Coussin, London Import mark for 1974",Pop Culture,N/A,False,N/A,N/A,N/A,1974,N/A,26mm x 36mm,"18K gold, alligator leather",False,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Cartier. A fine and rare 18K gold manual wind wristwatch
+Model: Bamboo Coussin
+Date: London Import mark for 1974
+Movement: 17-jewel manual wind
+Dial: White, black Roman numeral hour markers, black inner minute track with 5 minute markers, black sword hands
+Case: Brushed and polished rectangular form, back secured by four screws, bamboo stylized bezel, cabochon set crown, No.781020127
+Strap/Bracelet: Black Cartier alligator leather
+Buckle/Clasp: Signed 18K gold folding clasp, stamped JC
+Signed: Case, dial & movement
+Size: 26mm x 36mm
+ Accompaniments: Cartier pouch, Cartier insurance valuation dated 2001",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25843691-1-1.jpg,https://www.bonhams.com/auction/31979/lot/35/cartier-a-fine-and-rare-18k-gold-manual-wind-wristwatch-bamboo-coussin-london-import-mark-for-1974/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,89000.0,74166.66666666667
+c6b08b79-89c5-46d7-a1c1-0a276270fd9b,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 36,GBP,30000,50000,53740,42000,37970.23,63283.72,68017.34,53158.32,"Cartier. A fine and rare mid-size 18K gold manual wind wristwatch Bamboo Coussin, London Import mark for 1974",Automotive,N/A,False,N/A,N/A,N/A,1974,N/A,19mm x 26mm,"18K gold, alligator leather",False,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Cartier. A fine and rare mid-size 18K gold manual wind wristwatch
+Model: Bamboo Coussin
+Date: London Import mark for 1974
+Movement: 17-jewel manual wind
+Dial: White, black Roman numeral hour markers, black inner minute track with 5 minute markers, black sword hands
+Case: Brushed and polished rectangular form, back secured by four screws, bamboo stylized bezel, cabochon set crown, No.781100144
+Strap/Bracelet: Black Cartier alligator leather
+Buckle/Clasp: Signed 18K gold folding clasp, stamped JC
+Signed: Case, dial & movement
+Size: 19mm x 26mm
+ Accompaniments: Cartier insurance valuation dated 2001",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25843691-2-1.jpg,https://www.bonhams.com/auction/31979/lot/36/cartier-a-fine-and-rare-mid-size-18k-gold-manual-wind-wristwatch-bamboo-coussin-london-import-mark-for-1974/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,50600.0,42166.66666666667
+fd3396b3-d83d-4270-ba77-31cfee08ebb9,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 37,GBP,15000,20000,19200,15000,18985.12,25313.49,24300.95,18985.12,"Cartier. A mid-size recently serviced fine and rare 18K gold diamond set manual wind wristwatch Cristallor, Circa 1990",Pop Culture,N/A,False,N/A,N/A,N/A,1990,excellent,23mm x 30mm,"18K gold, diamond, alligator leather",False,N/A,N/A,Cartier,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Cartier. A mid-size recently serviced fine and rare 18K gold diamond set manual wind wristwatch
+Model: Cristallor
+Date: Circa 1990
+Movement: 17-jewel Cal.78-1 manual wind
+Dial: White, black Roman numeral hour markers, secret signature at 7, black inner minute track, blued steel sword hands
+Case: Brushed and polished rectangular with canted corners, back secured by 4 screws, diamond set bezel, cabochon set crown, No.780950940
+Strap/Bracelet: Blue alligator leather
+Buckle/Clasp: Signed 18K gold folding clasp
+Signed: Case, dial & movement
+Size: 23mm x 30mm
+ Accompaniments: Service receipt dated 16th December 2025",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25839422-1-1.jpg,https://www.bonhams.com/auction/31979/lot/37/cartier-a-mid-size-recently-serviced-fine-and-rare-18k-gold-diamond-set-manual-wind-wristwatch-cristallor-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+1fb0d313-8c16-409b-ba12-950cdffc8f8f,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 38,GBP,40000,60000,152800,120000,50626.98,75940.46,193395.05,151880.93,"Audemars Piguet. A very fine and rare platinum manual wind minute repeating jump hour wristwatch Ref: 25723, No.53, Circa 1994",Pop Culture,N/A,False,N/A,N/A,N/A,1994,N/A,29mm x 31mm,"platinum, alligator leather",True,257,N/A,Audemars Piguet,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Audemars Piguet. A very fine and rare platinum manual wind minute repeating jump hour wristwatch
+Reference: 25723, No.53
+Date: Circa 1994
+Movement: 34-jewel Cal.2865 manual wind, adjusted to heat, cold, isochronism and 5 positions, two polished hammers striking on two gongs, No.398989
+Dial: Black, jump hour aperture at 12, applied polished Arabic numeral 5 minute markers, white outer minute track, subsidiary seconds at 6, polished cathedral style hand
+Case: Brushed and polished rectangular form, back secured by 4 screws, repeat slide at 9, No.D22233
+Strap/Bracelet: Black Audemars Piguet alligator leather
+Buckle/Clasp: Signed platinum buckle
+Signed: Case, dial & movement
+Size: 29mm x 31mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25832816-3-1.jpg,https://www.bonhams.com/auction/31979/lot/38/audemars-piguet-a-very-fine-and-rare-platinum-manual-wind-minute-repeating-jump-hour-wristwatch-ref-25723-no53-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,63300.0,52750.0
+b74860ca-140d-4ae9-9e95-0057ca3d3fb3,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 39,GBP,100000,150000,165500,130000,126567.44,189851.16,209469.11,164537.67,"F.P Journe. A fine and rare platinum automatic calendar wristwatch Octa Calendrier, Circa 2010",Pop Culture,F.P. Journe,False,N/A,N/A,N/A,2010,N/A,40mm,"platinum, 18K gold, alligator leather",True,N/A,N/A,F.P. Journe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"F.P Journe. A fine and rare platinum automatic calendar wristwatch
+Model: Octa Calendrier
+Date: Circa 2010
+Movement: 18K gold Cal.1300.3 automatic, adjusted to 5 positions, 22K rotor
+Dial: Eccentric engine turned white dial with Arabic numerals and outer minute track set within grey surround, subsidiary dial for seconds at 6, apertures for day and month, retrograde sector for date, blued steel F.P Journe hands
+Case: Polished round, exhibition back secured by 6 screws, No.517-Q
+Strap/Bracelet: Black F.P Journe alligator leather
+Buckle/Clasp: Signed platinum buckle
+Signed: Case, dial & movement
+Size: 40mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/73002564-2-2.jpg,https://www.bonhams.com/auction/31979/lot/39/fp-journe-a-fine-and-rare-platinum-automatic-calendar-wristwatch-octa-calendrier-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,163000.0,135833.33333333334
+56ec9f27-bc40-4e81-8b46-edab074962de,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 40,GBP,70000,90000,89300,70000,88597.21,113910.7,113024.72,88597.21,"Patek Philippe. A fine and rare 18K rose gold diamond set automatic calendar bracelet watch Nautilus, Ref: 7118/1200R-001, Circa 2020",Pop Culture,N/A,False,N/A,N/A,N/A,2020,excellent,35mm,"18K rose gold, diamonds",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A fine and rare 18K rose gold diamond set automatic calendar bracelet watch
+Model: Nautilus
+Reference: 7118/1200R-001
+Date: Circa 2020
+Movement: 29-jewel Cal.324 automatic, gold rotor, No.7435537
+Dial: Silvered ridged, applied luminous baton hour markers, gilt dot outer minute divisions, date aperture at 6, gilt baton hands with luminous inserts, centre seconds
+Case: Brushed and polished three part case, exhibition back, No.6485258
+Strap/Bracelet: Brushed and polished link
+Buckle/Clasp: Signed double folding clasp
+Signed: Case, dial & movement
+Size: 35mm
+ Accompaniments: Patek Philippe box, outer card",https://images1.bonhams.com/image?src=Images/live/2025-11/09/60160188-1-2.jpg,https://www.bonhams.com/auction/31979/lot/40/patek-philippe-a-fine-and-rare-18k-rose-gold-diamond-set-automatic-calendar-bracelet-watch-nautilus-ref-71181200r-001-circa-2020/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,102000.0,85000.0
+3b92a473-78d3-4223-9bbc-ac4c1f1c4536,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 41,GBP,8000,12000,16640,13000,10125.4,15188.09,21060.82,16453.77,"Patek Philippe. A lady's stainless steel and gold quartz calendar bracelet watch with sigma dial Nautilus, Ref: 4700/1JA, Circa 1980",Pop Culture,N/A,False,N/A,N/A,N/A,1980,N/A,27mm,"stainless steel, gold",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A lady's stainless steel and gold quartz calendar bracelet watch with sigma dial
+Model: Nautilus
+Reference: 4700/1JA
+Date: Circa 1980
+Movement: 7-jewel Cal.E19C quartz, No.1524250
+Dial: Ridged white, applied gold baton hour markers, black outer minute divisions with luminous dot 5 minute markers, black date aperture at 3, gold pointed baton hands with luminous inserts
+Case: Brushed and polished cushion form, movement accessed through glass, No.557901
+Strap/Bracelet: Integrated steel and gold link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 27mm
+ Accompaniments: Patek Philippe service pouches, service paperwork dated 28.01.2026, 2 spare links",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25862301-1-1.jpg,https://www.bonhams.com/auction/31979/lot/41/patek-philippe-a-ladys-stainless-steel-and-gold-quartz-calendar-bracelet-watch-with-sigma-dial-nautilus-ref-47001ja-circa-1980/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,13200.0,11000.0
+70dabd05-0d6a-434f-850b-76297ad8efbd,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 42,GBP,7000,9000,12800,10000,8859.72,11391.07,16200.63,12656.74,"Patek Philippe. An 18K white gold diamond set manual wind wristwatch Gondolo, Ref: 5112G-001, Purchased 23nd November 2006",Pop Culture,Patek Philippe,False,N/A,N/A,N/A,2006,N/A,30mm x 34mm,"18K white gold, diamond, alligator leather",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. An 18K white gold diamond set manual wind wristwatch
+Model: Gondolo
+Reference: 5112G-001
+Date: Purchased 23nd November 2006
+Movement: 18-jewel Cal.215 manual wind, stamped with the Seal of Geneva, No.1893192
+Dial: Black, white baton hour markers with diamond set quarters, white outer minute track, subsidiary seconds at 6, polished leaf hands
+Case: Brushed and polished rectangular form, back secured by 4 screws, diamond set bezel and lugs, No.4377544
+Strap/Bracelet: Blue Patek Philippe alligator leather
+Buckle/Clasp: Signed 18K white gold buckle
+Signed: Case, dial & movement
+Size: 30mm x 34mm
+ Accompaniments: Patek Philippe box, outer card, suede service pouch, Certificate of Origin, Instructions for Use, brochures",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25860623-8-1.jpg,https://www.bonhams.com/auction/31979/lot/42/patek-philippe-an-18k-white-gold-diamond-set-manual-wind-wristwatch-gondolo-ref-5112g-001-purchased-23nd-november-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,10500.0,8750.0
+539e4ded-1666-4ced-a47f-048813e00497,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 43,GBP,35000,45000,63900,50000,44298.6,56955.35,80876.59,63283.72,"Patek Philippe. A fine stainless steel automatic calendar wristwatch with dual time zone and day/night indication Aquanaut Travel Time, Ref: 5164A, Circa 2018",Automotive,N/A,False,N/A,N/A,N/A,2018,N/A,41mm,"stainless steel, rubber",False,N/A,N/A,Patek Philippe,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Patek Philippe. A fine stainless steel automatic calendar wristwatch with dual time zone and day/night indication
+Model: Aquanaut Travel Time
+Reference: 5164A
+Date: Circa 2018
+Movement: 29-jewel Cal.324 automatic, adjusted to heat, cold, isochronism & 6 positions, gold rotor, No.5778814
+Dial: Black grid, applied luminous filled Arabic numeral hour markers, white outer minute divisions with luminous 5 minute markers, subsidiary dial at 6 for date, day/night indication apertures at 3 and 9, polished pointed baton hands with luminous inserts, centre seconds, skeleton dual time zone hand
+Case: Brushed and polished cushion form, screw down exhibition back, shouldered crown, quickset buttons at 8 and 10, quick set button in the band at 4, No.4667695
+Strap/Bracelet: Black Patek Philippe rubber
+Buckle/Clasp: Signed double folding clasp
+Signed: Case, dial & movement
+Size: 41mm
+ Accompaniments: Patek Philippe service delivery case",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25863006-1-1.jpg,https://www.bonhams.com/auction/31979/lot/43/patek-philippe-a-fine-stainless-steel-automatic-calendar-wristwatch-with-dual-time-zone-and-daynight-indication-aquanaut-travel-time-ref-5164a-circa-2018/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,48500.0,40416.66666666667
+d3b809d4-b81d-47b0-9c67-b05e4fa4abfd,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 44,GBP,20000,30000,N/A,N/A,25313.49,37970.23,N/A,N/A,"Rolex. A fine 18K rose gold automatic chronograph bracelet watch Cosmograph Daytona, Ref: 116505, Circa 2010",Automotive,N/A,False,N/A,N/A,N/A,2010,excellent,40mm,18K rose gold,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine 18K rose gold automatic chronograph bracelet watch
+Model: Cosmograph Daytona
+Reference: 116505
+Date: Circa 2010
+Movement: 44-jewel Cal.4130 automatic, adjusted to 5 positions & temperature, No.C0513085
+Dial: Sunburst salmon pink, black bullet form hour markers with luminous inserts, black outer 1/5th second divisions, black subsidiary dials at 3, 6 and 9 for seconds, 30 minute and 12 hour recording, gilt baton hands with black accents and luminous inserts, centre chronograph hand
+Case: Brushed and polished tonneau form, screw down back with personal engraving, rose gold bezel with tachymetre, shouldered screw down crown flanked by twin screw down chronograph pushers, No.0X3X3882
+Strap/Bracelet: Brushed and polished Oyster link
+Buckle/Clasp: Signed 18K rose gold folding clasp, stamped LT7
+Signed: Case, dial & movement
+Size: 40mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25810411-1-1.jpg,https://www.bonhams.com/auction/31979/lot/44/rolex-a-fine-18k-rose-gold-automatic-chronograph-bracelet-watch-cosmograph-daytona-ref-116505-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,34500.0,28750.0
+9d6693a2-6aba-46c0-83ee-c3c17333824b,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 45,GBP,60000,80000,76600,60000,75940.46,101253.95,96950.66,75940.46,"Rolex. A fine and rare 18K gold sapphire set quartz calendar bracelet watch Oysterquartz Day-Date, Ref: 19158/19018, Circa 1981",Automotive,N/A,False,N/A,N/A,N/A,1981,excellent,36mm,"18K gold, sapphire",False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine and rare 18K gold sapphire set quartz calendar bracelet watch
+Model: Oysterquartz Day-Date
+Reference: 19158/19018
+Date: Circa 1981
+Movement: 11-jewel Cal.5055 quartz, No.0068615
+Dial: Brushed champagne, applied sapphire set hour markers, black outer minute track with Roman numeral 5 minute markers, day aperture at 12, magnified date aperture at 3, gilt baton hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back, sapphire set bezel, No.6749861
+Strap/Bracelet: Polished link
+Buckle/Clasp: Signed concealed 18K gold folding clasp
+Signed: Case, dial & movement
+Size: 36mm
+ Accompaniments: Rolex service case, outer card, service receipt dated 8th November 2024, Rolex service card for 2024 service, International Service Guarantee card dated 19th July 2010",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25819344-1-1.jpg,https://www.bonhams.com/auction/31979/lot/45/rolex-a-fine-and-rare-18k-gold-sapphire-set-quartz-calendar-bracelet-watch-oysterquartz-day-date-ref-1915819018-circa-1981/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,88700.0,73916.66666666667
+addaee47-7824-4f72-b22c-bcd8944acf24,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 46,GBP,30000,40000,61360,48000,37970.23,50626.98,77661.78,60752.37,"Rolex. A fine and rare stainless steel automatic calendar bracelet watch offered on behalf of a former COMEX diver COMEX Sea-Dweller, Ref: 1665, Circa 1981",Automotive,Christopher Jeffers,False,N/A,N/A,N/A,1981,excellent,N/A,stainless steel,True,N/A,"Offered on behalf of a former COMEX diver, Christopher Jeffers.",Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine and rare stainless steel automatic calendar bracelet watch offered on behalf of a former COMEX diver
+Model: COMEX Sea-Dweller
+Reference: 1665
+Date: Circa 1981
+Movement: 26-jewel Cal.1570 automatic, adjusted to 5 positions & temperature, No.D511284
+Dial: Black, luminous dot hour markers, baton quarters, printed Comex 2000ft=600m Superlative Chronometer Officially Certified, date aperture at 3, polished Mercedes hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back engraved 2296, helium escape valve at 9, shouldered screw down crown, bi-directional rotating bezel with black calibrated insert, No.6751710 to inner case and between the lugs
+Strap/Bracelet: Brushed 93150 Oyster link
+Buckle/Clasp: Signed folding clasp
+Signed: 40mm
+Accompaniments: Blank punched guarantee, two diver's log books, 93150 Oyster bracelet, COMEX emergency respiratory unit, North Sea Alert! magazine, photocopies of documents relating to original owner, watch strap calendar for 1985",https://images1.bonhams.com/image?src=Images/live/2026-05/14/73002504-2-1.jpg,https://www.bonhams.com/auction/31979/lot/46/rolex-a-fine-and-rare-stainless-steel-automatic-calendar-bracelet-watch-offered-on-behalf-of-a-former-comex-diver-comex-sea-dweller-ref-1665-circa-1981/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,46250.0,38541.66666666667
+05d831b6-26d1-4f3a-86f8-7febf8b504e3,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 47,GBP,60000,80000,89300,70000,75940.46,101253.95,113024.72,88597.21,"Rolex. A very fine and rare stainless steel automatic calendar bracelet offered on behalf of a former COMEX diver COMEX Submariner, Ref: 5514, Circa 1978",Automotive,Christopher Jeffers,False,N/A,N/A,N/A,1978,N/A,40mm,stainless steel,False,N/A,"Offered on behalf of a former COMEX diver, Christopher Jeffers",Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A very fine and rare stainless steel automatic calendar bracelet offered on behalf of a former COMEX diver
+Model: COMEX Submariner
+Reference: 5514
+Date: Circa 1978
+Movement: 26-jewel Cal.1520 automatic
+Dial: Black, luminous dot hour markers, baton quarters, white outer minute divisions, printed COMEX 660ft=200m polished Mercedes hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back engraved ROLEX COMEX 904 (big number), helium escape valve at 9, shouldered screw down crown, bi-directional bezel with black calibrated insert, No.5228412
+Strap/Bracelet: Brushed 93150 Oyster link
+Buckle/Clasp: Signed folding clasp, stamped DT2
+Signed: Case, dial & movement
+Size: 40mm
+ Accompaniments: Two diver's log books, spare 93150 Oyster bracelet (AF), photocopies of service guarantees dated 1991, orange COMEX holdall bag, COMEX emergency respiratory unit, COMEX brochures, newspaper cuttings and photograph relating to original owner",https://images1.bonhams.com/image?src=Images/live/2026-05/18/73002504-1-1.jpg,https://www.bonhams.com/auction/31979/lot/47/rolex-a-very-fine-and-rare-stainless-steel-automatic-calendar-bracelet-offered-on-behalf-of-a-former-comex-diver-comex-submariner-ref-5514-circa-1978/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,92700.0,77250.0
+54b0090a-b55f-41c9-b092-26278e92870d,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 48,GBP,50000,70000,N/A,N/A,63283.72,88597.21,N/A,N/A,"Rolex. A rare military stainless steel automatic wristwatch issued to the Royal Navy Military Submariner, Ref: 5513, Circa 1975",Pop Culture,N/A,False,N/A,N/A,N/A,1975,excellent,39mm,"stainless steel, fabric",False,N/A,Issued to the Royal Navy,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A rare military stainless steel automatic wristwatch issued to the Royal Navy
+Model: Military Submariner
+Reference: 5513
+Date: Circa 1975
+Movement: 26-jewel Cal.1520 automatic
+Dial: Black, Tritium T, luminous dot hour markers, baton quarters, white outer minute divisions, broad polished sword hands with luminous inserts, arrow tipped centre seconds
+Case: Brushed and polished tonneau form, screw down back, inside back date coded I.72 and engraved 3927195, outside back engraved 0552/923-7697 377/75, black calibrated bezel insert, fixed bar lugs, No.3927195 between the lugs
+Strap/Bracelet: Grey fabric
+Buckle/Clasp: Associated plated buckle
+Signed: Case, dial & movement
+Size: 39mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25855026-2-1.jpg,https://www.bonhams.com/auction/31979/lot/48/rolex-a-rare-military-stainless-steel-automatic-wristwatch-issued-to-the-royal-navy-military-submariner-ref-5513-circa-1975/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,76000.0,63333.333333333336
+8677c14f-c281-4730-8726-453d07d1ebab,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 50,GBP,25000,35000,N/A,N/A,31641.86,44298.6,N/A,N/A,"Rolex. A rare stainless steel manual wind bracelet watch Anti-Magnetic Oyster Chronograph 'Pre-Daytona', Ref: 6234, Circa 1960",Pop Culture,N/A,False,N/A,N/A,N/A,1960,excellent,36mm,stainless steel,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A rare stainless steel manual wind bracelet watch
+Model: Anti-Magnetic Oyster Chronograph 'Pre-Daytona'
+Reference: 6234
+Date: Circa 1960
+Movement: 17-jewel Valjoux Cal.72 manual wind, column wheel chronograph
+Dial: Silvered, applied polished dart hour markers, black outer 1/5th second divisions with luminous dot 5 minute markers, blue outer telemeter scale, black outer base scale, subsidiary dials at 3, 6 and 9 for seconds, 30 minute and 12 hour recording, polished dagger hands with luminous inserts, red tipped centre chronograph hand
+Case: Brushed and polished tonneau form, screw down back, crown flanked by twin chronograph pushers, personal engraving to back, No.530239
+Strap/Bracelet: Brushed 78350 Oyster link
+Buckle/Clasp: Signed folding clasp, stamped S1
+Signed: Case, dial & movement
+Size: 36mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/60160082-1-1.jpg,https://www.bonhams.com/auction/31979/lot/50/rolex-a-rare-stainless-steel-manual-wind-bracelet-watch-anti-magnetic-oyster-chronograph-pre-daytona-ref-6234-circa-1960/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,37000.0,30833.333333333336
+ee113dd3-72c9-44bb-bd1a-361d6d2de106,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 51,GBP,7000,9000,10240,8000,8859.72,11391.07,12960.51,10125.4,"Rolex. A stainless steel automatic calendar bracelet watch with dual time zone GMT-Master, Ref: 1675, Circa 1967",Automotive,N/A,False,N/A,N/A,N/A,1967,N/A,39mm,stainless steel,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A stainless steel automatic calendar bracelet watch with dual time zone
+Model: GMT-Master
+Reference: 1675
+Date: Circa 1967
+Movement: 26-jewel Cal.1570 automatic, No.D140346
+Dial: Black, luminous dot hour markers with baton quarters, white outer minute divisions, magnified date aperture at 3, polished Mercedes hands with luminous inserts, centre seconds, further red arrow tipped dual time zone hand
+Case: Brushed and polished tonneau form, screw down back and shouldered screw down crown, bezel with blue and red 'Pepsi' 24 hour insert, inside back date coded II.67, No.1711713
+Strap/Bracelet: Brushed and polished 62510H Jubilee link
+Buckle/Clasp: Signed folding clasp, stamped S MA6
+Signed: Case, dial & movement
+Size: 39mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25863006-4-1.jpg,https://www.bonhams.com/auction/31979/lot/51/rolex-a-stainless-steel-automatic-calendar-bracelet-watch-with-dual-time-zone-gmt-master-ref-1675-circa-1967/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,10500.0,8750.0
+d89952e5-0d2b-4ef2-a1fb-1c22cfcbb3f9,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 52,GBP,6000,8000,N/A,N/A,7594.05,10125.4,N/A,N/A,"Rolex. A rare and oversized stainless steel manual wind wristwatch Precision, Ref: 4157, Circa 1948",Automotive,N/A,False,N/A,N/A,N/A,1948,N/A,38mm,"stainless steel, alligator leather",False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A rare and oversized stainless steel manual wind wristwatch
+Model: Precision
+Reference: 4157
+Date: Circa 1948
+Movement: 17-jewel Cal.710 manual wind, No.32814
+Dial: Silvered, applied alternating dart and Arabic numeral hour markers, black inner 1/5th second divisions, polished pointed baton hands, centre seconds
+Case: Brushed and polished round, snap on back, No.635601
+Strap/Bracelet: Brown Rolex alligator leather
+Buckle/Clasp: Signed steel buckle
+Signed: Case, dial & movement
+Size: 38mm
+ Accompaniments: Rolex pouch, Steven Hale Watch Repair service receipt dated 25/2/2026",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25839453-1-1.jpg,https://www.bonhams.com/auction/31979/lot/52/rolex-a-rare-and-oversized-stainless-steel-manual-wind-wristwatch-precision-ref-4157-circa-1948/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,8725.0,7270.833333333334
+ec908741-0116-43fd-a307-e77c3235144c,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 53,GBP,10000,15000,21760,17000,12656.74,18985.12,27541.07,21516.46,"Grana. A rare stainless steel manual wind Military issue wristwatch 'Dirty Dozen', Circa 1945",Automotive,N/A,False,N/A,N/A,N/A,1945,N/A,36mm,"stainless steel, fabric",False,N/A,N/A,Grana,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Grana. A rare stainless steel manual wind Military issue wristwatch
+Model: 'Dirty Dozen'
+Date: Circa 1945
+Movement: 15-jewel Cal.K.F.320 manual wind
+Dial: Black, Broad Arrow below 12, Arabic numeral hour markers, white outer minute track with luminous 5 minute markers, subsidiary dial at 6 for running seconds, pointed luminous filled hands
+Case: Brushed round, screw down back engraved â W.W.W M 18172, fixed bar lugs, inner cap, military markings also engraved to inside back
+Strap/Bracelet: Associated olive green fabric
+Buckle/Clasp: Associated steel buckle
+Signed: Dial
+Size: 36mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25849142-1-1.jpg,https://www.bonhams.com/auction/31979/lot/53/grana-a-rare-stainless-steel-manual-wind-military-issue-wristwatch-dirty-dozen-circa-1945/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,15800.0,13166.666666666668
+7316a2c3-c024-4536-bf07-5708bdeb63e6,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 54,GBP,10000,15000,N/A,N/A,12656.74,18985.12,N/A,N/A,"Breguet. A rare stainless steel manual wind flyback chronograph military wristwatch Type 20, Ref: 5101/54, Circa 1954",Automotive,N/A,False,N/A,N/A,N/A,1954,excellent,38mm,"stainless steel, leather",False,N/A,N/A,Breguet,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Breguet. A rare stainless steel manual wind flyback chronograph military wristwatch
+Model: Type 20
+Reference: 5101/54
+Date: Circa 1954
+Movement: Jewelled Valjoux Cal.222 manual wind, No.3351
+Dial: Black, luminous Arabic numeral hour markers, white outer 1/5th second divisions, subsidiary dials at 3 and 9 for seconds and 30 minute recording, white pointed baton hands with luminous inserts, centre chronograph hand
+Case: Brushed round, screw down back stamped 'FG15367', bi-directional rotating bezel, crown flanked by twin chronograph pushers, No.3958
+Strap/Bracelet: Brown Breguet leather
+Buckle/Clasp: Signed folding clasp
+Signed: Case & dial
+Size: 38mm
+ Accompaniments: Breguet pouch, service receipt dated 2006, spare brown Breguet leather strap",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25843845-1-1.jpg,https://www.bonhams.com/auction/31979/lot/54/breguet-a-rare-stainless-steel-manual-wind-flyback-chronograph-military-wristwatch-type-20-ref-510154-circa-1954/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,15800.0,13166.666666666668
+14b4216f-1e48-488e-b86e-494ad249eaa9,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 55,GBP,60000,80000,102000,80000,75940.46,101253.95,129098.79,101253.95,"Rolex. A fine and very rare stainless steel automatic antimagnetic wristwatch with honeycomb dial recently serviced by the Rolex Atelier de Restauration Milgauss, Ref: 6541/0, Circa 1958",Automotive,N/A,False,N/A,N/A,N/A,1958,excellent,38mm,"stainless steel, leather",False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine and very rare stainless steel automatic antimagnetic wristwatch with honeycomb dial recently serviced by the Rolex Atelier de Restauration
+Model: Milgauss
+Reference: 6541/0
+Date: Circa 1958
+Movement: 25-jewel Cal.1066M automatic, No.DN903318
+Dial: Black honeycomb, luminous dot hour markers with applied dart quarters, silvered outer minute divisions, polished sword hands, lightning bolt centre seconds
+Case: Brushed and polished tonneau form, screw down back, inside back date coded I.V 1958, inner protective movement cover, bi-directional rotating bezel with black calibrated insert, No.412351
+Strap/Bracelet: Black Rolex leather
+Buckle/Clasp: Signed steel buckle
+Signed: Case, dial & movement
+Size: 38mm
+ Accompaniments: Rolex Atelier de Restauration service presentation box, individual presentation booklet",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25869491-1-1.jpg,https://www.bonhams.com/auction/31979/lot/55/rolex-a-fine-and-very-rare-stainless-steel-automatic-antimagnetic-wristwatch-with-honeycomb-dial-recently-serviced-by-the-rolex-atelier-de-restauration-milgauss-ref-65410-circa-1958/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,90000.0,75000.0
+9fc02d84-a6de-4760-b753-d95c3bf6d5bc,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 56,GBP,80000,120000,N/A,N/A,101253.95,151880.93,N/A,N/A,"Rolex. A fine and very rare stainless steel automatic calendar bracelet watch made for the Royal Oman Police Submariner 'Royal Oman Police', Ref: 16800, Circa 1984",Automotive,N/A,False,N/A,N/A,N/A,1984,excellent,40mm,stainless steel,True,N/A,Produced for the Royal Oman Police,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine and very rare stainless steel automatic calendar bracelet watch made for the Royal Oman Police
+Model: Submariner 'Royal Oman Police'
+Reference: 16800
+Date: Circa 1984
+Movement: 27-jewel Cal.3035 automatic, No.0497884
+Dial: Black, emblem of the Royal Oman Police at 6, luminous dot hour markers, baton quarters, white outer minute divisions, magnified date aperture at 3, polished Mercedes hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back, uni-directional rotating bezel with black calibrated insert, No.8084973 
+Strap/Bracelet: Brushed 93150 Oyster link
+Buckle/Clasp: Signed folding clasp, stamped E010
+Signed: Case, dial & movement
+Size: 40mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25869491-2-1.jpg,https://www.bonhams.com/auction/31979/lot/56/rolex-a-fine-and-very-rare-stainless-steel-automatic-calendar-bracelet-watch-made-for-the-royal-oman-police-submariner-royal-oman-police-ref-16800-circa-1984/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,132000.0,110000.0
+9345c0c4-8a1d-4627-858e-3dc81b60d08e,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 57,GBP,12000,18000,12800,10000,15188.09,22782.14,16200.63,12656.74,"Rolex. A stainless steel automatic calendar bracelet watch with dual time zone Explorer II ""Steve McQueen/Freccione"", Ref: 1655, Circa 1978",Pop Culture,Steve McQueen,False,N/A,N/A,N/A,1978,excellent,38mm,stainless steel,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A stainless steel automatic calendar bracelet watch with dual time zone
+Model: Explorer II ""Steve McQueen/Freccione""
+Reference: 1655
+Date: Circa 1978
+Movement: 26-jewel Cal.1570 automatic, adjusted to 5 positions & temperature, No.D432305
+Dial: Black, luminous baton hour markers, white minute divisions, magnified date aperture at 3, white pointed baton hands with luminous inserts, centre seconds, further orange arrow tipped dual time hand
+Case: Brushed and polished tonneau form, screw down back and crown, 24 hour indication to bezel, No.5674615
+Strap/Bracelet: Brushed 78360 Oyster link
+Buckle/Clasp: Signed folding clasp
+Signed: Case, dial & movement
+Size: 38mm
+ Accompaniments: Rolex box",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25840955-1-1.jpg,https://www.bonhams.com/auction/31979/lot/57/rolex-a-stainless-steel-automatic-calendar-bracelet-watch-with-dual-time-zone-explorer-ii-steve-mcqueenfreccione-ref-1655-circa-1978/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,21000.0,17500.0
+f003e4ff-fe17-409d-bb95-df8b370c7eae,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 58,GBP,8000,12000,N/A,N/A,10125.4,15188.09,N/A,N/A,"Rolex. A transitional stainless steel automatic calendar bracelet watch with dual time zone GMT Master, Ref: M16750, Purchased 19th February 1984",Automotive,N/A,False,N/A,N/A,N/A,1984,excellent,39mm,stainless steel,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A transitional stainless steel automatic calendar bracelet watch with dual time zone
+Model: GMT Master
+Reference: M16750
+Date: Purchased 19th February 1984
+Movement: 27-jewel Cal.3075 automatic, adjusted to 5 positions & temperature, No.0944415
+Dial: Black, luminous filled dot hour markers, baton quarters, white outer minute markers, magnified date aperture at 3, polished Mercedes hands with luminous inserts, centre seconds, arrow tipped red dual time hand
+Case: Brushed and polished tonneau form, screw down back with personal engraving, shouldered screw down crown, blue and red 'Pepsi' bezel insert, No.8227202
+Strap/Bracelet: Brushed polished 78360 Oyster link
+Buckle/Clasp: Signed folding clasp, stamped H
+Signed: Case, dial & movement
+Size: 39mm
+ Accompaniments: Rolex box (lacking cushion), swing tag, two spare links, Punched Guarantee, brochures, International Service Guarantee dated 28th July 2006, service receipt dated 22nd March 2024, Rolex service card for March 2024 service",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25860074-1-1.jpg,https://www.bonhams.com/auction/31979/lot/58/rolex-a-transitional-stainless-steel-automatic-calendar-bracelet-watch-with-dual-time-zone-gmt-master-ref-m16750-purchased-19th-february-1984/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,13850.0,11541.666666666668
+34a7a598-56b7-4253-97b2-a6ba73012f2c,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 59,GBP,7000,9000,N/A,N/A,8859.72,11391.07,N/A,N/A,"Rolex. A stainless steel automatic bracelet watch Explorer, Ref: 5500, Purchased 29th December 1971",Automotive,N/A,False,N/A,N/A,N/A,1971,N/A,34mm,stainless steel,False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A stainless steel automatic bracelet watch
+Model: Explorer
+Reference: 5500
+Date: Purchased 29th December 1971
+Movement: 26-jewel Cal.1520 automatic
+Dial: Black, luminous baton hour markers, Arabic numeral 3, 6 and 9, gilt outer minute divisions, polished Mercedes hands with luminous inserts, centre seconds
+Case: Brushed and polished tonneau form, screw down back and crown, inside back date coded I.69, No.2089063
+Strap/Bracelet: Brushed Jubilee link
+Buckle/Clasp: Signed Rolex U.S.A folding clasp
+Signed: Case, dial & movement
+Size: 34mm
+ Accompaniments: Rolex box, guarantee booklet",https://images1.bonhams.com/image?src=Images/live/2026-05/14/25866256-1-1.jpg,https://www.bonhams.com/auction/31979/lot/59/rolex-a-stainless-steel-automatic-bracelet-watch-explorer-ref-5500-purchased-29th-december-1971/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,10250.0,8541.666666666668
+99d14ab6-e781-45bf-a230-0a484c415c73,Memorabilia,Bonhams,31979,2026-06-11,"London, New Bond Street",London Fine Watches,https://www.bonhams.com/auction/31979/london-fine-watches/,Lot 60,GBP,8000,12000,N/A,N/A,10125.4,15188.09,N/A,N/A,"Rolex. A fine stainless steel automatic wristwatch with gilt gloss dial Submariner, Ref: 5513, Circa 1966",Automotive,N/A,False,N/A,N/A,N/A,1966,excellent,40mm,"stainless steel, leather",False,N/A,N/A,Rolex,N/A,N/A,N/A,N/A,N/A,False,False,N/A,N/A,N/A,N/A,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,False,N/A,N/A,"Rolex. A fine stainless steel automatic wristwatch with gilt gloss dial
+Model: Submariner
+Reference: 5513
+Date: Circa 1966
+Movement: 26-jewel Cal.1530 automatic
+Dial: Gloss black, luminous dot hour markers with baton quarters, gilt outer minute divisions, polished Mercedes hands, centre seconds
+Case: Brushed and polished tonneau form, screw down back, inside back date coded III.65, bi-directional rotating bezel, black calibrated insert, No.1327391
+Strap/Bracelet: Associated grey leather
+Buckle/Clasp: Associated stainless steel buckle
+Signed: Case, dial & movement
+Size: 40mm",https://images1.bonhams.com/image?src=Images/live/2026-05/18/25863006-3-1.jpg,https://www.bonhams.com/auction/31979/lot/60/rolex-a-fine-stainless-steel-automatic-wristwatch-with-gilt-gloss-dial-submariner-ref-5513-circa-1966/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,gpt-4.1-mini,memorabilia-Auction-2025-gemma3-4B-text-pricer:latest,13800.0,11500.0

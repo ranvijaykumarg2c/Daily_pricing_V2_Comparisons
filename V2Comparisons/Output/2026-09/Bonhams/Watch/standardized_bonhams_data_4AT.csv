@@ -1,0 +1,1142 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,brand,model,ref_no,year_manufactured,box,papers,case_material,band_material,dial_color,karats,gold_present,gold_type,diamonds,diamonds_quantity,case_size,condition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+e7c558be-67c8-4a0a-85f7-869fc133dd20,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5001,USD,500,800,192.0,150,500,800,192.0,150,E. Howard Watch Co.,Keyless Wind Open Faced Watch,N/A,1913,0,0,gold,N/A,enamel,10,1,gold,0,N/A,55,good,"[NO RESERVE] E. HOWARD WATCH CO. A 10K GOLD PLATED KEYLESS WIND OPEN FACED WATCH
+Model: 1907
+Date: c. 1913
+Movement: Series 10, 21-jewel manual wind, swan neck regulator, no. 1158039
+Dial: Enamel, outer minute track
+Case: Polished, engraved monogram, screw down bezel, no. 5452176
+Signed: Case, dial and movement
+Size: 55 mm
+Accompaniments: None
+Weight: 97g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836621-59-1.jpg,https://www.bonhams.com/auction/32159/lot/5001/no-reserve-e-howard-watch-co-a-10k-gold-plated-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2026-09,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+5e01e966-4609-4acb-a32f-e580c1aa7d3f,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5002,USD,400,600,140.8,110,400,600,140.8,110,Elgin,N/A,N/A,1905,0,0,gold,N/A,white,N/A,1,gold,0,N/A,55,poor,"[NO RESERVE] ELGIN. A GOLD PLATED KEYLESS WIND OPEN FACED WATCH
+Date: c. 1905
+Movement: Cal. 307, 17-jewel manual wind, no. 11491431
+Dial: Enamel
+Case: Round, screw down case back, no. 155403
+Signed: Dial and movement
+Size: 55mm
+Accompaniments: None
+Weight: 109g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-58-1.jpg,https://www.bonhams.com/auction/32159/lot/5002/no-reserve-elgin-a-gold-plated-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,403.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+5ebd7fc8-c857-4dca-a5c9-b5f13b0210c3,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5003,USD,500,1000,1152.0,900,500,1000,1152.0,900,Elgin,C.H. Hulburd,N/A,1925,0,0,gold,N/A,silvered,18,1,white gold,0,N/A,43,good,"[NO RESERVE] ELGIN. AN 18K WHITE GOLD KEYLESS WIND OPEN FACED WATCH
+Model: C.H. Hulburd
+Date: c. 1925
+Movement: 19-jewel manual wind, no. 28844019
+Dial: Silvered
+Case: Polished, snap on case back and bezel, no. 128154
+Signed: Dial and movement
+Size: 43mm
+Accompaniments: None
+Weight: 43g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-69-1.jpg,https://www.bonhams.com/auction/32159/lot/5003/no-reserve-elgin-an-18k-white-gold-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,850.0,708.3333333333334
+be551e66-f9df-42f1-aafb-f8d7bc4dacd3,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5004,USD,1000,2000,1152.0,900,1000,2000,1152.0,900,F. Molyneau,Key Wind Open Face Watch,N/A,1860,0,0,gold,N/A,white,18,1,yellow gold,0,N/A,46,good,"[NO RESERVE] F. MOLYNEAU. AN 18K GOLD KEY WIND OPEN FACE WATCH
+Date: c. 1860s
+Movement: Gilt 13-jewel lateral lever
+Dial: Enamel
+Case: Round, snap on case back, no. 10970
+Signed: Case
+Size: 46mm
+Accompaniments: None
+Weight: 73g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-42-1.jpg,https://www.bonhams.com/auction/32159/lot/5004/no-reserve-f-molyneau-an-18k-gold-key-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1323.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+d7bd7ca6-eb2a-4f24-8159-2943ad61adce,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5005,USD,200,400,89.6,70,200,400,89.6,70,Gruen,Keyless Wind Open Faced Watch,N/A,1910,0,0,white gold,N/A,silver engraved reserve,14,1,white gold,0,N/A,45,good,"[NO RESERVE] GRUEN. A 14K WHITE GOLD FILLED KEYLESS WIND OPEN FACED WATCH
+Date: c. 1910s
+Movement: Cal. 756, 17-jewel manual wind, no. 713908 
+Dial: Silver engraved reserve
+Case: Engraved bezels, hinged case back, no. 3035625 
+Signed: Case, dial and movement
+Size: 45mm
+Accompaniments: None
+Weight: 53g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-66-1.jpg,https://www.bonhams.com/auction/32159/lot/5005/no-reserve-gruen-a-14k-white-gold-filled-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,300.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+11d6be4c-0a73-44ff-a1e1-5ce6ccbcb2ea,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5006,USD,300,500,281.6,220,300,500,281.6,220,Hamilton,996L,N/A,1915,0,0,gold,N/A,white,9,1,gold,0,N/A,48,good,"[NO RESERVE] HAMILTON. A 9K GOLD PLATED KEYLESS WIND OPEN FACED WATCH
+Model: 996L
+Date: c. 1915
+Movement: Cal. 996, 19-jewel manual wind, swan neck regulator, no. 1282257
+Dial: Enamel
+Case: Floral and cartouche engraving, screw down case back and bezel, no. 6399058
+Signed: Dial and movement
+Size: 48mm
+Accompaniments: None
+Weight: 86g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-62-1.jpg,https://www.bonhams.com/auction/32159/lot/5006/no-reserve-hamilton-a-9k-gold-plated-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,402.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+7b1ddde0-23a3-4f64-985f-42b48aed5cab,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5007,USD,300,500,192.0,150,300,500,192.0,150,Hamilton,978L,N/A,1915,0,0,gold,N/A,white,9,1,gold,0,N/A,48,good,"[NO RESERVE] HAMILTON. A 9K GOLD PLATED KEYLESS WIND OPEN FACED WATCH
+Model: 978L
+Date: c. 1915
+Movement: Cal. 978, 17-jewel manual wind, swan neck regulator, no. 1119439
+Dial: Enamel
+Case: Polished, engraved monogram, hinged case back and bezel, no. 9069930
+Signed: Dial and movement
+Size: 48mm
+Accompaniments: None
+Weight: 95g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836621-60-1.jpg,https://www.bonhams.com/auction/32159/lot/5007/no-reserve-hamilton-a-9k-gold-plated-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,425.0,354.1666666666667
+df88986b-c6cb-45dc-a877-b893172ce975,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5008,USD,300,500,281.6,220,300,500,281.6,220,Hamilton,912,N/A,1925,0,0,gold,gold,silvered,6,1,gold,0,N/A,43,good,"[NO RESERVE] HAMILTON. A GOLD FILLED KEYLESS WIND OPEN FACED WATCH
+Model: 912
+Date: c. 1925
+Movement: Cal. 912, 17-jewel manual wind, no. 3296916
+Dial: Silvered
+Case: Polished, engraved bezels, snap on case back, no. 92154770
+Signed: Case, dial and movement
+Size: 43mm
+Accompaniments: 6k gold chain
+Weight: 58g (watch), 5g (chain)",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836621-67-1.jpg,https://www.bonhams.com/auction/32159/lot/5008/no-reserve-hamilton-a-gold-filled-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,353.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,425.0,354.1666666666667
+ae5c9333-83f5-41ba-aa76-92f3f09e6433,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5009,USD,400,600,217.6,170,400,600,217.6,170,Hamilton,952L,N/A,1910,0,0,gold filled,N/A,white,N/A,1,yellow gold,0,N/A,47,good,"[NO RESERVE] HAMILTON. A GOLD FILLED KEYLESS WIND OPEN FACED WATCH
+Model: 952L
+Date: c. 1910s
+Movement: Cal. 952 19 jewel manual wind, swan neck regulator, no. 1151244
+Dial: Enamel
+Case: Polished, screw down case back and bezel, no. 7342284
+Signed: Dial and movement
+Size: 47mm
+Accompaniments: None
+Weight: 84g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-64-1.jpg,https://www.bonhams.com/auction/32159/lot/5009/no-reserve-hamilton-a-gold-filled-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,502.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+e3554112-4cb5-4eac-8813-27edee3e8072,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5010,USD,600,900,140.8,110,600,900,140.8,110,Hamilton,Keyless Wind Open Faced Watch,N/A,1890,0,0,metal,N/A,enamel,N/A,0,N/A,0,N/A,58,poor,"[NO RESERVE] HAMILTON. A METAL KEYLESS WIND OPEN FACED WATCH
+Date: c. 1890s
+Movement: Cal. 926, 17-jewel manual wind, no. 547591
+Dial: Enamel
+Case: Polished, screw down case back, no. 292513
+Signed: Case, dial and movement
+Size: 58mm
+Accompaniments: None
+Weight: 165g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836621-57-1.jpg,https://www.bonhams.com/auction/32159/lot/5010/no-reserve-hamilton-a-metal-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1004.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,700.0,583.3333333333334
+f0f9ab65-f186-41f7-b39a-b479efa21472,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5011,USD,300,500,166.4,130,300,500,166.4,130,Illinois,Bunn Special,N/A,1925,0,0,gold,N/A,white,N/A,1,gold,0,N/A,50,good,"[NO RESERVE] ILLINOIS. A GOLD PLATED KEYLESS WIND OPEN FACED WATCH
+Model: Bunn Special
+Date: c. 1925
+Movement: Type III, 21-jewel manual wind, swan neck regulator, no. 4988516
+Dial: Enamel
+Case: Polished, screw down case back and bezel, no. 7651550
+Signed: Dial and movement
+Size: 50mm
+Accompaniments: None
+Weight: 96g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-63-1.jpg,https://www.bonhams.com/auction/32159/lot/5011/no-reserve-illinois-a-gold-plated-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,425.0,354.1666666666667
+b6e7d77f-93c1-45b1-905a-8e7fb21ec34b,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5012,USD,400,600,204.8,160,400,600,204.8,160,Illinois,Stuart Springfield,N/A,1870,0,0,silver,N/A,enamel,N/A,0,N/A,0,N/A,55,good,"[NO RESERVE] ILLINOIS. A SILVER KEY WIND OPEN FACED WATCH
+Model: Stuart Springfield
+Date: c. 1870s
+Movement: Gilt, engraved balance cock, no. 2758
+Dial: Enamel
+Case: Polished, snap on case back, no. 4679, 2
+Signed: Dial and movement
+Size: 55mm
+Accompaniments: None
+weight: 126g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-56-1.jpg,https://www.bonhams.com/auction/32159/lot/5012/no-reserve-illinois-a-silver-key-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1004.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,525.0,437.5
+df7638d1-e1f6-423d-bb18-9c13c0025a6e,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5013,USD,1500,2500,2816.0,2200,1500,2500,2816.0,2200,INO. JOHNSON,Key Wind Open Faced Watch,N/A,1860,0,0,gold,N/A,tri-color fancy,14,1,yellow gold,0,N/A,45,good,"[NO RESERVE] INO. JOHNSON, LIVERPOOL. A 14K GOLD KEY WIND OPEN FACED WATCH
+Date: c. 1860s
+Movement: Gilt lateral lever, diamond endstone, no. 1602
+Dial: Tri-color fancy dial
+Case: Floral engraved bezels
+Signed: Movement, case with hallmarks worn, no. 2773
+Size: 45mm
+Accompaniments: None
+Weight: 98g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-44-1.jpg,https://www.bonhams.com/auction/32159/lot/5013/no-reserve-ino-johnson-liverpool-a-14k-gold-key-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1800.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+34613a28-3ac8-4a47-8a4d-a898b16408c3,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5014,USD,1000,2000,1920.0,1500,1000,2000,1920.0,1500,J Gross,Key Wind Open Faced Watch,N/A,1877,0,0,gold,N/A,engraved gold with floral motifs,18,1,gold,0,N/A,43,poor,"[NO RESERVE] J GROSS, LEEDS. AN 18K GOLD KEY WIND OPEN FACED WATCH WITH ENGRAVED DIAL
+Date: c. 1877
+Movement: Gilt lateral lever, no. 23727
+Dial: Engraved gold dial with floral motifs
+Case: Round, engraved bezel, snap on case back, no. 23727 
+Signed: Case with hallmarks for Chester
+Size: 43mm
+Accompaniments: None
+Weight: 59g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-46-1.jpg,https://www.bonhams.com/auction/32159/lot/5014/no-reserve-j-gross-leeds-an-18k-gold-key-wind-open-faced-watch-with-engraved-dial/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+8145fc87-af86-498c-9eef-1306514fb03d,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5015,USD,1500,2500,1792.0,1400,1500,2500,1792.0,1400,J Morris Tobias,Key Wind Open Faced Watch,N/A,1870,0,0,gold,N/A,engraved gold with floral motifs,18,1,gold,0,N/A,50,poor,"[NO RESERVE] J MORRIS TOBIAS, LIVERPOOL. AN 18K GOLD KEY WIND OPEN FACED WATCH WITH ENGRAVED DIAL
+Date: c. 1870s
+Movement: Gilt 13-jewel lateral lever
+Dial: Engraved gold dial with floral motifs
+Case: Round, engraved bezels, snap on case back, no. 3059
+Signed: Case
+Size: 50mm
+Accompaniments: None
+Weight: 85g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-50-1.jpg,https://www.bonhams.com/auction/32159/lot/5015/no-reserve-j-morris-tobias-liverpool-an-18k-gold-key-wind-open-faced-watch-with-engraved-dial/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1801.29,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+1d202cc2-a76f-44f0-b30b-0d105a02ee56,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5016,USD,2000,3000,2048.0,1600,2000,3000,2048.0,1600,Dr. Quartier,Key Wind Open Faced Watch,N/A,1860,0,0,gold,N/A,engraved gold with floral motifs,18,1,gold,0,N/A,48,poor,"DR. QUARTIER, LE LOCLE. AN 18K GOLD KEY WIND OPEN FACED WATCH WITH ENGRAVED DIAL
+Date: c. 1860s
+Movement: Gilt 13 jewel lateral lever
+Dial: Engraved gold dial with floral motifs
+Case: Engraved bezels, case back with engraved lakeside scene, no. 70300
+Signed: Case
+Size: 48mm
+Accompaniments: None
+Weight: 67g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-52-1.jpg,https://www.bonhams.com/auction/32159/lot/5016/dr-quartier-le-locle-an-18k-gold-key-wind-open-faced-watch-with-engraved-dial/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+e0f6d8d6-9f4f-44f5-a759-924ded14d1b8,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5017,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,E & J Droz,Key Wind Open Face Watch,N/A,1860,0,0,gold,N/A,gold engraved lake scene,16,1,yellow gold,0,N/A,40,poor,"E & J DROZ, LOCLE. A 16K GOLD KEY WIND OPEN FACE WATCH
+Date: c. 1860s
+Movement: Gilt lateral lever
+Dial: Gold engraved lake scene
+Case: Round, snap on case back, no 2623
+Signed: Case
+Size: 40mm
+Accompaniments: None
+Weight: 49g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-49-1.jpg,https://www.bonhams.com/auction/32159/lot/5017/e-and-j-droz-locle-a-16k-gold-key-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+1879c23b-64f5-4521-8bac-420ce4d51eba,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5018,USD,2000,3000,2176.0,1700,2000,3000,2176.0,1700,Jos. H Johnson,Key Wind Open Faced Watch,N/A,1860,0,0,gold,N/A,tri-color fancy,14,1,yellow gold,0,N/A,50,poor,"JOS. H JOHNSON, LIVERPOOL. A 14K GOLD KEY WIND OPEN FACED WATCH
+Date: c. 1860s
+Movement: Gilt lateral lever, diamond endstone
+Dial: Tri-color fancy dial
+Case: Floral engraved bezels
+Signed: Movement, case with hallmarks worn
+Size: 50mm
+Accompaniments: None
+Weight: 83g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-43-1.jpg,https://www.bonhams.com/auction/32159/lot/5018/jos-h-johnson-liverpool-a-14k-gold-key-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2600.0,2166.666666666667
+8438f592-f6ba-4d50-8490-b79882b1c896,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5019,USD,1000,2000,1024.0,800,1000,2000,1024.0,800,Longines,Keyless Wind Open Faced Watch,N/A,1925,0,0,gold,N/A,enamel,18,1,yellow gold,0,N/A,43,good,"[NO RESERVE] LONGINES. AN 18K GOLD KEYLESS WIND OPEN FACED WATCH
+Date: c. 1925
+Movement: 15-jewel manual wind, no. 5425809
+Dial: Enamel
+Case: Round, hinged bezel and movement, no. 100165
+Signed: Dial and movement
+Size: 43mm
+Accompaniments: None
+Weight: 52g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-68-1.jpg,https://www.bonhams.com/auction/32159/lot/5019/no-reserve-longines-an-18k-gold-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1500.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+ab7c6f07-bb8d-444c-9012-9f985115d4d5,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5020,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,Longines,manual wind open faced watch,N/A,1930,0,0,gold,N/A,silvered,18,1,yellow gold/white gold,0,N/A,42,good,"LONGINES. AN 18K YELLOW AND WHITE GOLD MANUAL WIND OPEN FACED WATCH
+Date: c. 1930s
+Movement: Cal. 18.89, 19-jewel manual wind, swan neck regulator, no. 3747803
+Dial: Silvered 
+Case: Enamel Greek key bezels, monogram to the back, snap on case back, no. 34672
+Signed: Movement, dial signed Adler
+Size: 42 mm
+Accompaniments: None
+Weight: 46g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-55-1.jpg,https://www.bonhams.com/auction/32159/lot/5020/longines-an-18k-yellow-and-white-gold-manual-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2703.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2550.0,2125.0
+cd7bc1c4-1fe1-4e55-a94e-2000976b4eda,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5021,USD,1500,2500,1152.0,900,1500,2500,1152.0,900,Matthey A Geneve,Key Wind Open Face Watch,N/A,1860,0,0,gold,N/A,gold engraved lake scene,18,1,yellow gold,0,N/A,44,good,"[NO RESERVE] MATTHEY A GENEVE. AN 18K GOLD KEY WIND OPEN FACE WATCH
+Date: c. 1860s
+Movement: Gilt lateral lever
+Dial: Gold engraved lake scene
+Case: Round, snap on case back, no. 2127
+Signed: Case
+Size: 44mm
+Accompaniments: None
+Weight: 65g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-47-1.jpg,https://www.bonhams.com/auction/32159/lot/5021/no-reserve-matthey-a-geneve-an-18k-gold-key-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1800.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+9db8af60-12ba-4788-a551-b3a2aeb2db9a,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5022,USD,300,500,128.0,100,300,500,128.0,100,Rockford,N/A,N/A,1860,0,0,gold,N/A,white,6,1,yellow gold,0,N/A,54,poor,"[NO RESERVE] ROCKFORD. A GOLD PLATED KEY WIND OPEN FACED WATCH
+6K yellow gold plated base metal
+Date: c. 1860s
+Movement: Gilt platform escapement, no. 8653
+Dial: Enamel
+Case: Round, snap on case back, no. 56041
+Signed: Dial and movement
+Size: 54mm
+Accompaniments: None
+Weight: 135g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-65-1.jpg,https://www.bonhams.com/auction/32159/lot/5022/no-reserve-rockford-a-gold-plated-key-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+a8e162ec-479c-4234-adce-039e011fa0c1,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5023,USD,800,1200,307.2,240,800,1200,307.2,240,Swiss,Quarter Repeater,N/A,1900,0,0,gold plated/silver,N/A,white,N/A,1,gold,0,N/A,51,poor,"[NO RESERVE] SWISS. A 5K GOLD PLATED SILVER OPEN FACED QUARTER REPEATER WATCH
+Date: c. 1900s
+Movement: Gilt, compensated open regulator
+Dial: Enamel 
+Case: Engraved case back, repeater button at 3 o'clock, no. 126599
+Size: 51mm
+Accompaniments: None
+Weight: 91g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-54-1.jpg,https://www.bonhams.com/auction/32159/lot/5023/no-reserve-swiss-a-5k-gold-plated-silver-open-faced-quarter-repeater-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+5bb0448a-f4f1-4aa9-850c-8bc6aae58dfd,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5024,USD,2000,3000,1280.0,1000,2000,3000,1280.0,1000,N/A,N/A,N/A,1860,0,0,gold,N/A,gold engraved lake scene,18,1,yellow gold,0,N/A,45,poor,"[NO RESERVE] SWISS. AN 18K GOLD KEY WIND OPEN FACE WATCH
+Date: c. 1860s
+Movement: Gilt lateral lever
+Dial: Gold engraved lake scene
+Case: Round, snap on case back with engraved with figure of Justice next to a bald eagle and a portrait of George Washington, no. 2227
+Size: 45mm
+Accompaniments: None
+Weight: 62g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-48-1.jpg,https://www.bonhams.com/auction/32159/lot/5024/no-reserve-swiss-an-18k-gold-key-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2500.0,2083.3333333333335
+a80ba9b7-3799-4f03-984a-4a7d6ba6fe9f,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5025,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,N/A,N/A,N/A,1830,0,0,gold/enamel,N/A,white,18,1,yellow gold,0,N/A,47,good,"SWISS. AN 18K GOLD KEY WIND OPEN FACED WATCH WITH ENAMEL PANEL
+Date: c. 1830s
+Movement: Gilt fusee and chain
+Dial: Enamel, aperture for winding
+Case: Pink translucent enamel over guilloche bezel, case back with purple translucent enamel over guilloche
+Size: 47mm
+Accompaniments: None
+Weight: 66g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836621-53-1.jpg,https://www.bonhams.com/auction/32159/lot/5025/swiss-an-18k-gold-key-wind-open-faced-watch-with-enamel-panel/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+8b4f7f64-2963-45ce-8f27-b2cbb08ccf26,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5026,USD,2000,3000,2560.0,2000,2000,3000,2560.0,2000,Thomas Blundell,Key Wind Open Faced Watch,6346,1870,0,0,gold,N/A,engraved gold,18,1,yellow gold,0,N/A,50,poor,"THOMAS BLUNDELL, LIVERPOOL. AN 18K GOLD KEY WIND OPEN FACED WATCH WITH ENGRAVED DIAL
+Date: c. 1870s
+Movement: Gilt lateral lever, diamond endstone
+Dial: Engraved gold dial 
+Case: Round, engraved bezels, snap on case back, no. 6346
+Signed: Movement
+Size: 50mm
+Accompaniments: None
+Weight: 111g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25836621-51-1.jpg,https://www.bonhams.com/auction/32159/lot/5026/thomas-blundell-liverpool-an-18k-gold-key-wind-open-faced-watch-with-engraved-dial/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+4f94d4ce-7841-4a8b-82c4-b9331439b43b,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5027,USD,1500,2500,1152.0,900,1500,2500,1152.0,900,Tobias,Key Wind Open Faced Watch,N/A,1860,0,0,gold,N/A,engraved gold,18,1,yellow gold,0,N/A,47,poor,"[NO RESERVE] TOBIAS, LONDON. AN 18K GOLD KEY WIND OPEN FACED WATCH WITH ENGRAVED DIAL
+Date: c. 1860s
+Movement: Gilt lateral lever
+Dial: Engraved gold dial
+Case: Floral engraved bezels, reeded case band
+Signed: Case with hallmarks worn
+Size: 47mm
+Accompaniments: None
+Weight: 66g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-45-1.jpg,https://www.bonhams.com/auction/32159/lot/5027/no-reserve-tobias-london-an-18k-gold-key-wind-open-faced-watch-with-engraved-dial/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1800.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+7863a32a-4299-4b79-98fc-d69557f29af2,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5028,USD,300,500,153.6,120,300,500,153.6,120,Waltham,Crescent St.,N/A,1908,0,0,gold filled,N/A,white,N/A,1,yellow gold,0,N/A,54,good,"[NO RESERVE] WALTHAM. A GOLD FILLED KEYLESS WIND OPEN FACED WATCH
+Model: Crescent St.
+Date: c. 1908
+Movement: 19 jewel manual wind, swan neck loop regulator, no. 17152000
+Dial: Enamel, 24 hour dial
+Case: Guilloche case back, screw down case back and bezel, no. 1056840
+Signed: Case, dial and movement
+Size: 54mm
+Accompaniments: None
+Weight: 127g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836621-61-1.jpg,https://www.bonhams.com/auction/32159/lot/5028/no-reserve-waltham-a-gold-filled-keyless-wind-open-faced-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,353.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+c5f8513d-00ba-4559-b00f-a4aaa0099a64,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5029,USD,500,800,217.6,170,500,800,217.6,170,Waltham,Travel Clock,N/A,1910,0,0,silver,N/A,silvered,N/A,0,N/A,0,N/A,66,poor,"[NO RESERVE] AMERICAN. A SILVER HINGED TRAVEL CLOCK
+Date: c. 1910s
+Movement: Jeweled manual wind
+Dial: Silvered 
+Case: Rectangular shell, hinged interior, no. 3556883, 151848
+Signed: Case signed Elgin, dial signed Waltham
+Size: 66mm
+Accompaniments: None
+Weight: 180g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-39-1.jpg,https://www.bonhams.com/auction/32159/lot/5029/no-reserve-american-a-silver-hinged-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+87e3f842-b3c4-4a04-962e-9ed93214dfab,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5030,USD,400,600,153.6,120,400,600,153.6,120,Black Starr & Frost,Travel Clock,N/A,1920,0,0,silver,N/A,enamel,N/A,0,N/A,0,N/A,74,poor,"[NO RESERVE] BLACK STARR & FROST. A SILVER MANUAL WIND 8 DAY TRAVEL CLOCK
+Date: c. 1920s
+Movement: 15-jewel manual wind
+Dial: Enamel
+Case: Clam shell, hinged interior 
+Signed: Case and dial, movement signed Concord
+Size: 74mm
+Accompaniments: None
+Weight: 115g (case), 116g (watch)",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-32-1.jpg,https://www.bonhams.com/auction/32159/lot/5030/no-reserve-black-starr-and-frost-a-silver-manual-wind-8-day-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1004.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+ecfe1a0b-5549-4a2c-b1be-4db1fa4957bd,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5031,USD,200,300,102.4,80,200,300,102.4,80,BOSCH,Silver Travel Clock,N/A,1920,0,0,silver,N/A,silvered,N/A,0,N/A,0,N/A,39,poor,"[NO RESERVE] BOSCH. A SILVER TRAVEL CLOCK
+Date: c. 1920s
+Movement: 15-jewel manual wind
+Dial: Silvered 
+Case: Rectangular shell, sliding hinged interior case, no. 63104
+Signed: Movement
+Size: 39mm
+Accompaniments: None
+Weight: 80g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-41-1.jpg,https://www.bonhams.com/auction/32159/lot/5031/no-reserve-bosch-a-silver-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,203.03,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,250.0,208.33333333333334
+237ef5de-034c-4833-b78a-339de9ef8b0e,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5032,USD,400,600,89.6,70,400,600,89.6,70,Elgin,Travel Clock,N/A,1910,0,0,metal,N/A,silvered,N/A,0,N/A,0,N/A,67,good,"[NO RESERVE] ELGIN. A METAL MANUAL WIND 8 DAY TRAVEL CLOCK
+Date: c. 1910s
+Movement: Jeweled manual wind, no. 24970305
+Dial: Silvered 
+Case: Rectangular shell, hinged interior, no. 0961295, 187733
+Signed: Case, dial and movement
+Size: 67mm
+Accompaniments: None
+Weight: 166g",https://images2.bonhams.com/image?src=Images/live/2026-04/27/25836621-35-2.jpg,https://www.bonhams.com/auction/32159/lot/5032/no-reserve-elgin-a-metal-manual-wind-8-day-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,500.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+7b714fec-5df6-42dd-bd4c-21eb124fe0c3,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5033,USD,300,500,102.4,80,300,500,102.4,80,Illinois,Miniature Travel Clock,N/A,1930,0,0,silver,N/A,silvered,N/A,0,N/A,0,N/A,33,good,"[NO RESERVE] ILLINOIS. A SILVER MINIATURE TRAVEL CLOCK
+Date: c. 1930s
+Movement: 15-jewel manual wind
+Dial: Silvered 
+Case: Angled rectangular shell, hinged interior, no. 5962838, 2591346
+Signed: Case and movement
+Size: 33 mm
+Accompaniments: None
+Weight: 47g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-36-1.jpg,https://www.bonhams.com/auction/32159/lot/5033/no-reserve-illinois-a-silver-miniature-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+73eb479b-cf46-4b1c-8ec8-fcc7d64a08f0,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5034,USD,200,300,64.0,50,200,300,64.0,50,New Haven Clock Co.,Travel Clock,N/A,1910,0,0,steel,N/A,silvered,N/A,0,N/A,0,N/A,56,poor,"[NO RESERVE] NEW HAVEN CLOCK CO. A STEEL TRAVEL CLOCK
+Date: c. 1910s
+Movement: Jeweled manual wind
+Dial: Silvered 
+Case: Rectangular shell, hinged interior 
+Signed: Case and movement
+Size: 56mm
+Accompaniments: None
+Weight: 137g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-40-1.jpg,https://www.bonhams.com/auction/32159/lot/5034/no-reserve-new-haven-clock-co-a-steel-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,203.03,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,250.0,208.33333333333334
+ec1261f8-4b4f-4e13-8e80-4cb9d7c718a3,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5035,USD,700,1000,281.6,220,700,1000,281.6,220,Tiffany & Co.,Bigelow Kennard & Co. Travel Clock,N/A,1920,0,0,silver,N/A,gilt,N/A,1,gilt,0,N/A,95,poor,"[NO RESERVE] RETAILED BY TIFFANY & CO. BIGELOW KENNARD & CO. A GILT SILVER MANUAL WIND QUARTER REPEATING 8 DAY TRAVEL CLOCK
+Date: c. 1920s
+Movement: Jeweled manual wind
+Dial: Gilt
+Case: Clam shell, hinge interior, no. 144299
+Signed: Case signed Tiffany & Co., dial signed Bigelow Kennard & Co., movement signed C.H. Baillot 
+Size: 95mm
+Accompaniments: None
+Weight: 364g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-33-1.jpg,https://www.bonhams.com/auction/32159/lot/5035/no-reserve-retailed-by-tiffany-and-co-bigelow-kennard-and-co-a-gilt-silver-manual-wind-quarter-repeating-8-day-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,850.0,708.3333333333334
+56937e25-bbda-4f54-8ec1-dfdeb154da83,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5036,USD,300,500,115.2,90,300,500,115.2,90,N/A,N/A,N/A,1910,0,0,silver,N/A,silvered,N/A,1,gilt,0,N/A,33,good,"[NO RESERVE] SWISS. A GILT SILVER TRAVEL CLOCK
+Date: c. 1910s
+Movement: Jeweled manual wind
+Dial: Silvered 
+Case: Angled rectangular shell, spring interior 
+Size: 33mm
+Accompaniments: None
+Weight: 46g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836621-38-1.jpg,https://www.bonhams.com/auction/32159/lot/5036/no-reserve-swiss-a-gilt-silver-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,308.21,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,400.0,333.33333333333337
+8acaffe2-ccc3-43b1-a327-9dc8ba1e9d3d,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5037,USD,400,600,38.4,30,400,600,38.4,30,N/A,N/A,N/A,1900,0,0,silver,N/A,silvered,N/A,0,N/A,0,N/A,80,poor,"[NO RESERVE] SWISS. A SILVER HINGED DESK TIMEPIECE
+Date: c. 1900s
+Movement: Jeweled
+Dial: Silvered 
+Case: Engraved frame, hinged stand 
+Size: 80mm
+Accompaniments: None
+Weight: 139g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-37-1.jpg,https://www.bonhams.com/auction/32159/lot/5037/no-reserve-swiss-a-silver-hinged-desk-timepiece/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,450.0,375.0
+5646b651-0f12-4ddd-ad9d-93aedd1bee13,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5038,USD,600,900,204.8,160,600,900,204.8,160,Tiffany & Co.,8 Day Travel Clock,N/A,1930,0,0,silver,N/A,silvered,N/A,0,N/A,0,N/A,50,poor,"[NO RESERVE] TIFFANY & CO. A SILVER MANUAL WIND 8 DAY TRAVEL CLOCK
+Date: c. 1930s
+Movement: 15-jewel manual wind
+Dial: Silvered 
+Case: Rectangular shell, hinged interior 
+Signed: Dial, case and movement signed Lemania
+Size: 50mm
+Accompaniments: None
+Weight: 150g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-34-1.jpg,https://www.bonhams.com/auction/32159/lot/5038/no-reserve-tiffany-and-co-a-silver-manual-wind-8-day-travel-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,700.0,583.3333333333334
+4405917c-c740-44fd-8a03-99f0b7ea2a09,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5039,USD,500,1000,153.6,120,500,1000,153.6,120,Bulova,Excellency,N/A,1940,0,0,gold,gold,silvered,10,1,yellow gold,0,N/A,25,good,"[NO RESERVE] BULOVA. A 10K GOLD FILLED MANUAL WIND BRACELET WATCH
+Model: Excellency
+Date: c. 1940s
+Movement: Cal. 10BM, 21 -jewel manual wind
+Dial: Silvered
+Case: Tonneau, snap on case back, angled lugs, no. 2590662
+Strap/Bracelet: Gold plated expandable link
+Signed: Case, dial and movement
+Size: 25mm
+Accompaniments: None
+Weight: 43g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836621-25-1.jpg,https://www.bonhams.com/auction/32159/lot/5039/no-reserve-bulova-a-10k-gold-filled-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,502.25,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+0b81d7fd-5919-4e08-bc56-2d1f0331856f,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5040,USD,400,600,76.8,60,400,600,76.8,60,Caravelle,Manual Wind Wristwatch,N/A,1965,0,0,gold,leather,silvered,N/A,1,gold,0,N/A,33,good,"[NO RESERVE] CARAVELLE. A GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1965
+Movement: Cal. 11DP, 17-jewel manual wind
+Dial: Silvered, applied indexes
+Case: Round, snap on case back 
+Strap/Bracelet: Brown leather
+Signed: Case, dial and movement
+Size: 33mm
+Accompaniments: None
+Weight: 31g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-12-1.jpg,https://www.bonhams.com/auction/32159/lot/5040/no-reserve-caravelle-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,405.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+baa13bcf-6dcd-4ff7-89b6-942c478e64b6,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5041,USD,500,1000,115.2,90,500,1000,115.2,90,Elgin,N/A,N/A,1950,0,0,gold,leather,silvered,N/A,1,gold,0,N/A,32,good,"[NO RESERVE] ELGIN. A GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1950s
+Movement: Cal. 716, 21-jewel manual
+Dial: Silvered, radial engraving around center arbor
+Case: Round, snap on case back with presentation engraving
+Strap/Bracelet: Brown leather
+Signed: Case, dial and movement
+Size: 32 mm
+Accompaniments: None
+Weight: 34g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-13-1.jpg,https://www.bonhams.com/auction/32159/lot/5041/no-reserve-elgin-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,502.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+3d259e81-acfe-49fd-9f46-b71dd3fb7313,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5042,USD,300,500,128.0,100,300,500,128.0,100,Elgin,manual wind wristwatch,N/A,1950,0,0,gold,leather,silvered,N/A,1,gold,0,N/A,27,good,"[NO RESERVE] ELGIN. A GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1950s
+Movement: Cal. 683, 17-jewel manual wind
+Dial: Silvered
+Case: Square, snap on case back, no. X055164
+Strap/Bracelet: Brown leather
+Signed: Dial and movement signed Elgin, case signed Wadsworth
+Size: 27mm
+Accompaniments: None
+Weight: 27g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-16-1.jpg,https://www.bonhams.com/auction/32159/lot/5042/no-reserve-elgin-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+492ed240-feea-4786-88de-752d540bc32e,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5043,USD,500,1000,140.8,110,500,1000,140.8,110,Elgin,manual wind wristwatch,N/A,1940,0,0,gold,leather,champagne,14,1,gold,0,N/A,27,poor,"[NO RESERVE] ELGIN. A 14K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: 15-jewel manual wind, no. 32081730
+Dial: Champagne 
+Case: Tonneau, snap on case back, engraved bezel and case band, no. 7665976
+Strap/Bracelet: Brown leather
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 27mm
+Accompaniments: None
+Weight: 31g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-26-1.jpg,https://www.bonhams.com/auction/32159/lot/5043/no-reserve-elgin-a-14k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+d55061aa-9421-487e-acfc-3c5cffcd9576,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5044,USD,600,1000,230.4,180,600,1000,230.4,180,Enicar,Automatic,704,1960,0,0,stainless steel,leather,silvered,N/A,0,N/A,0,N/A,34,poor,"[NO RESERVE] ENICAR. A STAINLESS STEEL AUTOMATIC WATCH
+Reference: 704
+Date: c. 1960s
+Movement: Cal. 1034, 17-jewel automatic
+Dial: Silvered
+Case: Round, screw down case back
+Strap/Bracelet: Black leather
+Buckle/Clasp: Steel buckle
+Signed: Case, dial, and movement
+Size: 34mm
+Accompaniments: None
+Weight: 35g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-2-1.jpg,https://www.bonhams.com/auction/32159/lot/5044/no-reserve-enicar-a-stainless-steel-automatic-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,602.25,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+e66ca44a-6119-4d66-9e5f-402f5a49a3bd,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5045,USD,800,1200,128.0,100,800,1200,128.0,100,Hamilton,manual wind wristwatch,N/A,1960,0,0,gold,leather,silvered,N/A,1,gold,0,N/A,32,poor,"[NO RESERVE] HAMILTON. A GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1960
+Movement: Cal. 770, 22-jewel manual wind
+Dial: Silvered, applied indexes
+Case: Round, snap on bezel with presentation engraving, no. C19871
+Strap/Bracelet: Black leather
+Signed: Case, dial and movement
+Size: 32mm
+Accompaniments: None
+Weight: 28g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-11-1.jpg,https://www.bonhams.com/auction/32159/lot/5045/no-reserve-hamilton-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+d0399b82-456a-4bf5-afd3-6b4e07aa373a,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5046,USD,300,500,128.0,100,300,500,128.0,100,Hamilton,manual wind wristwatch,N/A,1940,0,0,gold,N/A,salmon,N/A,1,gold,0,N/A,22,poor,"[NO RESERVE] HAMILTON. A GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 982, 19-jewel manual wind
+Dial: Salmon 
+Case: Rectangular, snap on case back, hinged lugs
+Signed: Case, dial and movement
+Size: 22mm
+Accompaniments: None
+Weight: 20g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-18-1.jpg,https://www.bonhams.com/auction/32159/lot/5046/no-reserve-hamilton-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,302.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+c9115d12-5263-4614-a419-e2a9759d9e28,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5047,USD,300,500,76.8,60,300,500,76.8,60,Bulova,N/A,N/A,1940,0,0,gold,leather,silvered,10,1,gold,0,N/A,21,poor,"[NO RESERVE] BULOVA. A 10K GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 7AP, 21-jewel manual wind
+Dial: Silvered, applied paste and ruby indexes
+Case: Rectangular, snap on case back 
+Strap/Bracelet: Brown leather cuff
+Signed: Dial and movement
+Size: 21mm
+Accompaniments: None
+Weight: 34g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-20-1.jpg,https://www.bonhams.com/auction/32159/lot/5047/no-reserve-bulova-a-10k-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+4b57a1f3-7e01-4ecd-a95d-e7a1b1d4ab01,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5048,USD,300,500,128.0,100,300,500,128.0,100,Hamilton,N/A,N/A,1940,0,0,gold,N/A,silvered,14,1,yellow gold,0,N/A,25,poor,"[NO RESERVE] HAMILTON. A 14K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 957, 17 jewel manual wind
+Dial: Silvered
+Case: Square, snap on case back, engraved bezel, no. 365020
+Signed: Case, dial and movement
+Size: 25mm
+Accompaniments: None
+Weight: 25g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-30-1.jpg,https://www.bonhams.com/auction/32159/lot/5048/no-reserve-hamilton-a-14k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,353.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+07f3a410-ef03-4f45-a863-72c7a3d50554,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5049,USD,500,1000,128.0,100,500,1000,128.0,100,Hamilton,N/A,N/A,1940,0,0,gold,leather,silvered,10,1,yellow gold,0,N/A,27,poor,"[NO RESERVE] HAMILTON. A 10K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 987-F, 17-jewel manual wind, no. 4308596
+Dial: Silvered 
+Case: Tonneau, snap on case back, stepped case band, no. 661512
+Strap/Bracelet: Black leather
+Signed: Case, dial and movement
+Size: 27mm
+Accompaniments: None
+Weight: 26g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-27-1.jpg,https://www.bonhams.com/auction/32159/lot/5049/no-reserve-hamilton-a-10k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+0f14dd61-f013-428d-8891-bc4d1c8f68a7,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5050,USD,400,600,102.4,80,400,600,102.4,80,Hamilton,N/A,N/A,1940,0,0,gold,leather,silvered,14,1,gold,0,N/A,23,poor,"[NO RESERVE] HAMILTON. A 14K GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 982, 17-jewel manual wind, no. J4777452
+Dial: Silvered, applied indexes
+Case: Rectangular, snap on case back with personal engraving
+Strap/Bracelet: Black leather
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 23mm
+Accompaniments: None
+Weight: 30g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-21-1.jpg,https://www.bonhams.com/auction/32159/lot/5050/no-reserve-hamilton-a-14k-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,500.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,450.0,375.0
+e3f44b45-0fb4-4e9a-bb56-0452a32794d1,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5051,USD,500,1000,140.8,110,500,1000,140.8,110,Hamilton,Indianapolis 1958,N/A,1958,0,0,gold,gold,silvered,N/A,1,gold,0,N/A,32,good,"[NO RESERVE] HAMILTON. A GOLD PLATED PRESENTATION WRISTWATCH
+Model: Indianapolis 1958
+Date: c. 1958
+Movement: Cal. 673, 17-jewel manual wind
+Dial: Silvered, applied gold reserve, crown and cross logo
+Case: Round, snap on case back with presentation engraving, no. R906129
+Strap/Bracelet: Gold plated expandable link
+Signed: Case, dial and movement
+Size: 32mm
+Accompaniments: None
+Weight:",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-10-1.jpg,https://www.bonhams.com/auction/32159/lot/5051/no-reserve-hamilton-a-gold-plated-presentation-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+68500eb9-ef07-4d36-b37b-fcfea47306d9,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5052,USD,400,600,243.2,190,400,600,243.2,190,Illinois,Manual Wind Wristwatch,N/A,1930,0,0,gold,leather,white enamel,N/A,1,gold,0,N/A,32,poor,"[NO RESERVE] ILLINOIS. A GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1930s
+Movement: 17 jewel manual wind, no. 2644910
+Dial: White enamel
+Case: Cushion, snap on case back, no. 8213381
+Strap/Bracelet: Black leather
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 32mm
+Accompaniments: None
+Weight: 37g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-29-1.jpg,https://www.bonhams.com/auction/32159/lot/5052/no-reserve-illinois-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,403.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+e489da6a-5ef6-4a62-a344-a350d3e7c3c2,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5053,USD,300,500,38.4,30,300,500,38.4,30,Jules Jurgensen,manual wind bracelet watch,N/A,1980,0,0,gold,gold,champagne,N/A,1,gold,0,N/A,25,good,"[NO RESERVE] JULES JURGENSEN. A GOLD PLATED MANUAL WIND BRACELET WATCH
+Date: c. 1980s
+Movement: Cal. 6061, 17-jewel manual wind
+Dial: Champagne 
+Case: Cushion form, snap on case back 
+Strap/Bracelet: Gold plated woven
+Buckle/clasp: Gold plated folding clasp
+Signed: Case, dial and movement
+Size: 25mm
+Accompaniments: None
+Weight: 42g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-31-1.jpg,https://www.bonhams.com/auction/32159/lot/5053/no-reserve-jules-jurgensen-a-gold-plated-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,425.0,354.1666666666667
+58d224e5-451c-468e-88ab-72b668b43909,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5054,USD,1000,2000,N/A,N/A,1000,2000,N/A,N/A,Juvenia,Ultra Thin,N/A,1960,0,0,stainless steel,leather,silvered,N/A,1,gold,0,N/A,33,good,"[NO RESERVE] JUVENIA. AN ULTRA THIN STAINLESS STEEL MANUAL WIND WRISTWATCH
+Date: c. 1960s
+Movement: Cal. 604, 21-jewel manual wind
+Dial: Silvered
+Case: Round, textured bezel and lugs, snap on case back
+Strap/Bracelet: Black leather
+Buckle/Clasp: Gold plated buckle
+Signed: Case, dial, and movement
+Size: 33mm
+Accompaniments: None
+Weight: 24g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-1-1.jpg,https://www.bonhams.com/auction/32159/lot/5054/no-reserve-juvenia-an-ultra-thin-stainless-steel-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+0b63a84f-05d8-427d-ae34-72b8c8af290c,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5055,USD,700,1000,281.6,220,700,1000,281.6,220,Elgin,Lord Elgin,N/A,1950,0,0,gold,leather,silvered,14,1,yellow gold,0,N/A,29,poor,"[NO RESERVE] LORD ELGIN. A 14K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1950s
+Movement: Cal. 688, 21-jewel manual wind
+Dial: Silvered
+Case: Square, snap on case back, no. J0864
+Strap/Bracelet: Gray leather
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 29mm
+Accompaniments: None
+Weight: 26g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-14-1.jpg,https://www.bonhams.com/auction/32159/lot/5055/no-reserve-lord-elgin-a-14k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+4c3f2126-dd23-4ca7-9816-11a478ee2c46,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5056,USD,300,500,102.4,80,300,500,102.4,80,Elgin,Lord Elgin,N/A,1940,0,0,gold,leather,silvered,14,1,yellow gold,0,N/A,20,poor,"[NO RESERVE] LORD ELGIN. A 14K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 559, 21-jewel manual wind, no. C670615
+Dial: Silvered
+Case: Rectangular, snap on case back with monogram, hinged lugs, no. 164131
+Strap/Bracelet: Brown leather
+Signed: Case, dial and movement
+Size: 20mm
+Accompaniments: None
+Weight: 24g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-19-1.jpg,https://www.bonhams.com/auction/32159/lot/5056/no-reserve-lord-elgin-a-14k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,353.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+1d845038-995a-42c4-9240-ff6dd13d912f,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5057,USD,400,600,140.8,110,400,600,140.8,110,Elgin,Lord Elgin,N/A,1940,0,0,gold,leather,silvered,14,1,gold,0,N/A,21,good,"[NO RESERVE] LORD ELGIN. A 14K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 670, 21-jewel manual wind
+Dial: Silvered
+Case: Rectangular, snap on case back, angled lugs, no. S424255
+Strap/Bracelet: Regulated species
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 21mm
+Accompaniments: None
+Weight: 24g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-24-1.jpg,https://www.bonhams.com/auction/32159/lot/5057/no-reserve-lord-elgin-a-14k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,503.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+9e0a2289-fb2a-4ddb-a03f-58b75f5a3c2a,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5058,USD,400,600,76.8,60,400,600,76.8,60,Elgin,Lord Elgin,N/A,1940,0,0,gold,leather,silvered,14,1,yellow gold,0,N/A,24,good,"[NO RESERVE] LORD ELGIN. A 14K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 625, 21-jewel manual wind, no. H434139
+Dial: Silvered
+Case: Rectangular, snap on case back, no. 9415542
+Strap/Bracelet: Black leather
+Signed: Case, dial and movement
+Size: 24mm
+Accompaniments: None
+Weight: 26g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-23-1.jpg,https://www.bonhams.com/auction/32159/lot/5058/no-reserve-lord-elgin-a-14k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,503.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+04e4c594-3f96-470f-a039-3963b3944784,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5059,USD,400,600,153.6,120,400,600,153.6,120,Elgin,Lord Elgin,N/A,1950,0,0,gold,leather,silvered,14,1,yellow gold,0,N/A,24,good,"[NO RESERVE] LORD ELGIN. A 14K GOLD FILLED MANUAL WIND WRISTWATCH
+Date: c. 1950s
+Movement: Cal. 670, 21-jewel manual wind
+Dial: Silvered
+Case: Rectangular, snap on case back with personal engraving, no. 2173408
+Strap/Bracelet: Brown leather
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 24 mm
+Accompaniments: None
+Weight: 27g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-22-1.jpg,https://www.bonhams.com/auction/32159/lot/5059/no-reserve-lord-elgin-a-14k-gold-filled-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,503.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,525.0,437.5
+5c0a49aa-c9be-4001-9707-196d3982a232,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5060,USD,500,1000,512.0,400,500,1000,512.0,400,Omega,N/A,3894-5,1950,0,0,gold,leather,black,N/A,1,gold,0,N/A,25,poor,"[NO RESERVE] OMEGA. A GOLD PLATED MANUAL WIND WRISTWATCH
+Reference: 3894-5
+Date: c. 1950s
+Movement: Cal. 302, 17-jewel manual wind
+Dial: Black
+Case: Rectangular, snap on case back, no. W120123
+Strap/Bracelet: Green leather
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 25mm
+Accompaniments: None
+Weight: 22g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-17-1.jpg,https://www.bonhams.com/auction/32159/lot/5060/no-reserve-omega-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+7b93ebfa-eb95-4857-90a1-3567e8bc62f9,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5061,USD,500,1000,512.0,400,500,1000,512.0,400,Omega,Seamaster,2438-4,1940,0,0,stainless steel,stainless steel,silvered,N/A,0,N/A,0,N/A,33,good,"[NO RESERVE] OMEGA. A STAINLESS STEEL AUTOMATIC BRACELET WATCH
+Model: Seamaster
+Reference: 2438-4
+Date: c. 1940s
+Movement: 17-jewel automatic, no. 10907673
+Dial: Silvered
+Case: Round, screw down case back
+Strap/Bracelet: Stainless steel expandable link
+Buckle/Clasp: Stainless steel buckle
+Size: 33mm
+Accompaniments: None
+Weight: 49g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836621-4-1.jpg,https://www.bonhams.com/auction/32159/lot/5061/no-reserve-omega-a-stainless-steel-automatic-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,850.0,708.3333333333334
+66dc6afc-cc2b-4437-b211-0ea0fd5e87f7,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5062,USD,400,600,51.2,40,400,600,51.2,40,Timex,Automatic Calendar,N/A,1960,0,0,gold,leather,brushed champagne,N/A,1,gold,0,N/A,38,poor,"[NO RESERVE] TIMEX. A GOLD PLATED AUTOMATIC CALENDAR WRISTWATCH WITH DAY AND DATE
+Date: c. 1960s
+Movement: 17-jewel automatic
+Dial: Brushed champagne
+Case: Cushion form, snap on case back
+Strap/Bracelet: Brown leather
+Buckle/Clasp: Gold plated buckle
+Signed: Case and dial, movement signed Nivada
+Size: 38mm
+Accompaniments: None
+Weight: 68g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-5-1.jpg,https://www.bonhams.com/auction/32159/lot/5062/no-reserve-timex-a-gold-plated-automatic-calendar-wristwatch-with-day-and-date/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,402.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+ea6fa8d7-b8dc-4293-a37f-d7f056697b83,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5063,USD,500,1000,140.8,110,500,1000,140.8,110,Vulcain,Automatic Calendar,75 131,1970,0,0,stainless steel/base metal,leather,matte blue,N/A,0,N/A,0,N/A,40,very good,"[NO RESERVE] VULCAIN. A STAINLESS STEEL AUTOMATIC CALENDAR WRISTWATCH WITH DAY AND DATE
+Reference: 75 131
+Date: c. 1970s
+Movement: 17-jewel automatic (movement in need of service, please refer to the condition report in the footnotes.)
+Dial: Matte blue
+Case: Textured base metal oval, screw down case back
+Strap/Bracelet: Blue leather
+Buckle/Clasp: Stainless steel buckle
+Signed: Case, dial, and movement
+Size: 40 mm
+Accompaniments: None
+Weight: 63g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-3-1.jpg,https://www.bonhams.com/auction/32159/lot/5063/no-reserve-vulcain-a-stainless-steel-automatic-calendar-wristwatch-with-day-and-date/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+28ac3224-d4d5-4b61-bace-2d170006535a,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5064,USD,400,600,89.6,70,400,600,89.6,70,Vulcain,Calendar,N/A,1965,0,0,plated,leather,silvered,N/A,1,gold,0,N/A,33,good,"[NO RESERVE] VULCAIN. A PLATED MANUAL WIND CALENDAR WRISTWATCH
+Date: c. 1965
+Movement: 17-jewel manual wind
+Dial: Silvered
+Case: Round, screw down case back
+Strap/Bracelet: Brown leather
+Buckle/clasp: Gold plated buckle
+Signed: Dial signed Vulcain, movement signed Watch Import Comp.
+Size: 33mm
+Accompaniments: None
+Weight: 33g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-15-1.jpg,https://www.bonhams.com/auction/32159/lot/5064/no-reserve-vulcain-a-plated-manual-wind-calendar-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,402.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,475.0,395.83333333333337
+b4a5c390-d144-4dcb-bed3-330c06ff9cc2,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5065,USD,300,500,38.4,30,300,500,38.4,30,Waltham,N/A,N/A,1940,0,0,gold,gold,silvered,10,1,gold,0,N/A,27,poor,"[NO RESERVE] WALTHAM. A 10K GOLD PLATED MANUAL WIND WRISTWATCH
+Date: c. 1940s
+Movement: Cal. 1135, 17-jewel manual wind
+Dial: Silvered, applied indexes
+Case: Tonneau, snap on case back, reeded bezel, no. 125166
+Strap/Bracelet: Gold plated expandable link
+Signed: Case, dial and movement
+Size: 27mm
+Accompaniments: None
+Weight: 51g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-28-1.jpg,https://www.bonhams.com/auction/32159/lot/5065/no-reserve-waltham-a-10k-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+4a12d62c-4249-4414-af87-c4a04ee3e3db,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5066,USD,400,600,N/A,N/A,400,600,N/A,N/A,Dorex,Chronograph,N/A,1950,0,0,stainless steel,leather,copper colored,N/A,1,gold plated,0,N/A,34,poor,"[NO RESERVE] DOREX. A STAINLESS STEEL MANUAL WIND CHRONOGRAPH WRISTWATCH
+Date: c. 1950s
+Movement: 17-jewel manual wind
+Dial: Copper colored, glossy indexes
+Case: Round, snap on case back
+Strap/Bracelet: Brown leather
+Buckle/Clasp: Gold plated buckle
+Signed: Dial signed Dorex, movement signed Micron Watch Co. hand engraved
+Size: 34mm
+Accompaniments: None
+Weight: 41g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-6-1.jpg,https://www.bonhams.com/auction/32159/lot/5066/no-reserve-dorex-a-stainless-steel-manual-wind-chronograph-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,403.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,450.0,375.0
+37c0b5b5-1488-41b3-aebd-cb00a3be223b,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5067,USD,500,1000,204.8,160,500,1000,204.8,160,Elmont,Chronograph,N/A,1950,0,0,stainless steel,leather,cream,0,1,gold,0,N/A,34,good,"[NO RESERVE] ELMONT. A STAINLESS STEEL MANUAL WIND CHRONOGRAPH WRISTWATCH
+Date: c. 1950s
+Movement: Cal. 148, 17-jewel manual wind
+Dial: Cream
+Case: Round, snap on case back
+Strap/Bracelet: Brown leather
+Buckle/Clasp: Gold plated buckle
+Signed: Dial signed Elmont, case and movement signed Kingston Watch
+Size: 34mm
+Accompaniments: None
+Weight: 39g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-7-1.jpg,https://www.bonhams.com/auction/32159/lot/5067/no-reserve-elmont-a-stainless-steel-manual-wind-chronograph-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+9e231523-932b-49b0-8461-6cf3bbbc5b65,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5068,USD,500,1000,140.8,110,500,1000,140.8,110,Orloff,Chronograph,110063,1950,0,0,stainless steel,leather,silvered,0,1,gold plated,0,N/A,33,good,"[NO RESERVE] ORLOFF. A STAINLESS STEEL MANUAL WIND CHRONOGRAPH WRISTWATCH
+Reference: 110063
+Date: c. 1950s
+Movement: 17-jewel manual wind
+Dial: Silvered
+Case: Round, snap on case back
+Strap/Bracelet: Brown leather
+Buckle/Clasp: Gold plated buckle
+Signed: Case, dial and movement
+Size: 33mm
+Accompaniments: None
+Weight: 40g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-8-1.jpg,https://www.bonhams.com/auction/32159/lot/5068/no-reserve-orloff-a-stainless-steel-manual-wind-chronograph-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+01a102db-262d-410c-82e2-c54f988a8b82,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5069,USD,800,1200,1536.0,1200,800,1200,1536.0,1200,Wakmann,Chronograph,N/A,1960,0,0,stainless steel,leather,silvered,N/A,0,N/A,0,N/A,36,good,"[NO RESERVE] WAKMANN. A STAINLESS STEEL MANUAL WIND CHRONOGRAPH WRISTWATCH
+Date: c. 1960s
+Movement: Cal. 188, 17-jewel manual wind 
+Dial: Silvered
+Case: Round, screw down case back
+Strap/Bracelet: Black leather
+Buckle/Clasp: Stainless steel deployant clasp
+Signed: Case, dial and movement
+Size: 36mm
+Accompaniments: None
+Weight: 62g",https://images2.bonhams.com/image?src=Images/live/2026-04/17/25836621-9-1.jpg,https://www.bonhams.com/auction/32159/lot/5069/no-reserve-wakmann-a-stainless-steel-manual-wind-chronograph-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+ec571e08-2edf-4e39-b252-a23905466200,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5070,USD,1000,1500,4608.0,3600,1000,1500,4608.0,3600,J.P. Stevens Watch Co.,Keyless Wind Open Face Watch,N/A,1850,0,0,gold,N/A,white enamel,13,1,yellow gold,0,N/A,51.5,poor,"[NO RESERVE] J.P. STEVENS WATCH CO. A 13K GOLD KEYLESS WIND OPEN FACE WATCH
+Date: c. 1850s
+Movement: 15-jewel manual wind
+Dial: White enamel dial
+Case: Round, snap on case back, no. 21354
+Size: 51.5mm
+Accompaniments: None
+Weight: 120g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/24130663-1-8.jpg,https://www.bonhams.com/auction/32159/lot/5070/no-reserve-jp-stevens-watch-co-a-13k-gold-keyless-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1200.0,1000.0
+c375f1ea-9e74-43c2-a785-4ff459eec84a,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5071,USD,2000,3000,1408.0,1100,2000,3000,1408.0,1100,Elgin,Keyless Wind Hunter Case Watch,N/A,1880,0,0,gold,N/A,enamel,14,1,yellow gold,0,N/A,34.5,poor,"FROM A PRIVATE DUTCH FAMILYELGIN. A 14K GOLD KEYLESS WIND HUNTER CASE WATCH
+Date: c. 1880s
+Movement: 17-jewel manual wind, no. 3073840
+Dial: Enamel
+Case: Round, snap on case back, no. 65864
+Signed: Dial signed GOldee, movement signed Elgin
+Size: 34.5mm
+Accompaniments: None
+Weight: 41g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25813452-28-1.jpg,https://www.bonhams.com/auction/32159/lot/5071/elgin-a-14k-gold-keyless-wind-hunter-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+09d16064-c87b-48d3-8d4a-5d525575c1aa,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5072,USD,500,1000,3840.0,3000,500,1000,3840.0,3000,EGLIN,Keyless Wind Hunter Case Watch,N/A,1900,0,0,gold,N/A,white,14,1,yellow gold,0,N/A,47,good,"EGLIN. A 14K GOLD KEYLESS WIND HUNTER CASE WATCH
+Date: c. 1900s
+Movement: 19-jewel manual wind, no. 12847880
+Dial: White
+Case: Round, snap on case back, no. 179742
+Size: 47mm
+Signed: Case, dial and movement
+Accompaniments: None
+Weight: 82g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25807254-40-1.jpg,https://www.bonhams.com/auction/32159/lot/5072/eglin-a-14k-gold-keyless-wind-hunter-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,850.0,708.3333333333334
+0b8d1f07-f441-4bc3-99f2-0330262bb7b9,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5073,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,Elgin,Keyless Wind Hunter Case Watch,N/A,1890,0,0,gold,N/A,enamel,12,1,yellow gold,0,N/A,34,good,"PROPERTY OF A PACIFIC NORTHWEST COLLECTORELGIN. A 12K GOLD KEYLESS WIND HUNTER CASE WATCH
+Date: c. 1890s
+Movement: 11-jewel manual wind, no. 6144434
+Dial: Enamel
+Case: Round, snap on case back, no. 80993, 993
+Signed: Case, dial and movement
+Size: 34mm
+Accompaniments: None
+Weight: 34g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25842254-1-1.jpg,https://www.bonhams.com/auction/32159/lot/5073/elgin-a-12k-gold-keyless-wind-hunter-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2600.0,2166.666666666667
+0d79930a-d557-47c9-b03e-1a90faab333f,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5074,USD,1500,2000,6400.0,5000,1500,2000,6400.0,5000,Longines,Keyless Wind Minute Repeater Hunter Case Watch,N/A,1900,0,0,gold,N/A,enamel,14,1,yellow gold,0,N/A,54,poor,"LONGINES. A 14K GOLD KEYLESS WIND MINUTE REPEATER HUNTER CASE WATCH
+Date: c. 1900s
+Movement: Jeweled manual wind
+Dial: Enamel
+Case: Round, snap on case back, no. 2975174
+Signed: Case, dial and movement
+Size: 54mm
+Accompaniments: None
+Weight: 101g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25807254-41-1.jpg,https://www.bonhams.com/auction/32159/lot/5074/longines-a-14k-gold-keyless-wind-minute-repeater-hunter-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1803.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1700.0,1416.6666666666667
+183ad265-15b6-47ef-91d0-b3a799ad5685,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5075,USD,800,1200,704.0,550,800,1200,704.0,550,Longines,Keyless Wind Pendant Watch,N/A,1903,0,0,gold,N/A,enamel,18,1,yellow gold,0,N/A,26,good,"LONGINES. AN 18K GOLD KEYLESS WIND PENDANT WATCH
+Date: c. 1903
+Movement: Jeweled manual wind, no. 1674066
+Dial: Enamel
+Case: Round, snap on case back, no. 81278
+Signed: Movement signed Longines
+Size: 26mm
+Accompaniments: None
+Weight: 17g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25836296-2-1.jpg,https://www.bonhams.com/auction/32159/lot/5075/longines-an-18k-gold-keyless-wind-pendant-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1100.0,916.6666666666667
+41a35044-db00-4ddc-a427-c05c0b903647,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5076,USD,1000,2000,1408.0,1100,1000,2000,1408.0,1100,SWISS,Key Wind Hunting Case Watch,N/A,1880,0,0,gold/enamel,N/A,textured gilt,18,1,yellow gold,0,N/A,36.5,poor,"SWISS. AN 18K GOLD AND ENAMEL KEY WIND HUNTING CASE WATCH
+Date: c. 1880s
+Movement: Gilt cylinder escapement
+Dial: Textured gilt
+Case: Round, snap on case back, no. 1845
+Signed: Case signed John Magnin & Guedin
+Size: 36.5mm
+Accompaniments: None
+Weight: 34g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836296-3-1.jpg,https://www.bonhams.com/auction/32159/lot/5076/swiss-an-18k-gold-and-enamel-key-wind-hunting-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1300.0,1083.3333333333335
+7687ab10-0a23-4084-bfa8-6431bc301812,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5077,USD,200,400,256.0,200,200,400,256.0,200,Tiffany & Co.,Carriage Clock,N/A,1970,0,0,brass,N/A,white,N/A,0,N/A,0,N/A,6.5 x 8 x 11,poor,"TIFFANY & CO. A BRASS QUARTZ CARRIAGE CLOCK
+Date: c. 1970s
+Movement: Quartz
+Dial: White
+Case: Rectangular
+Signed: Dial
+Size: 6.5cm (W) x 8cm (L) x 11cm (H)",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836296-4-1.jpg,https://www.bonhams.com/auction/32159/lot/5077/tiffany-and-co-a-brass-quartz-carriage-clock/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,203.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,250.0,208.33333333333334
+8107dc08-9a19-41d6-866b-15256424acc8,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5078,USD,400,600,1408.0,1100,400,600,1408.0,1100,Waltham,Manual Wind Hunter Case Watch,N/A,1890,0,0,gold,N/A,white,13,1,yellow gold,0,N/A,42,good,"WALTHAM. A 13K GOLD MANUAL WIND HUNTER CASE WATCH
+Date: c. 1890s
+Movement: 15-jewel manual wind, no. 6152672
+Dial: White
+Case: Round, snap on case back, no. 8689786
+Size: 42mm
+Signed: Case, dial and movement
+Accompaniments: None
+Weight: 60g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25807254-43-4.jpg,https://www.bonhams.com/auction/32159/lot/5078/waltham-a-13k-gold-manual-wind-hunter-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,503.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,525.0,437.5
+2abbf104-9823-4572-b585-345bd4addfa6,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5079,USD,1000,1500,1920.0,1500,1000,1500,1920.0,1500,Waltham,Keyless Wind Hunter Case Watch,N/A,1890,0,0,gold,N/A,enamel,11,1,yellow gold,0,N/A,53,good,"[NO RESERVE] WALTHAM. A 11K GOLD KEYLESS WIND HUNTER CASE WATCH
+Date: c. 1890s
+Movement: 13-jewel manual wind, no. 4107688
+Dial: Enamel
+Case: Round, snap on case back, no. 198214
+Signed: Case, dial and movement
+Size: 53mm
+Accompaniments: None
+Weight: 122g",https://images2.bonhams.com/image?src=Images/live/2026-04/22/25819866-2-1.jpg,https://www.bonhams.com/auction/32159/lot/5079/no-reserve-waltham-a-11k-gold-keyless-wind-hunter-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1200.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1200.0,1000.0
+b75534a1-7c66-4ffe-92ac-423a3b33c14d,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5080,USD,1500,2500,1664.0,1300,1500,2500,1664.0,1300,Waltham,Keyless Wind Hunter Case Watch,N/A,1890,0,0,gold,N/A,white,N/A,1,yellow gold,0,N/A,42,poor,"FROM A PRIVATE SHANGHAI COLLECTIONWALTHAM. A GOLD KEYLESS WIND HUNTER CASE WATCH
+Date: c. 1890s
+Movement: 15-jewel manual wind, no. 7281770
+Dial: White
+Case: Round, snap on case back, no. 581468
+Size: 42mm
+Signed: Case, dial and movement
+Accompaniments: None
+Weight: 61g",https://images2.bonhams.com/image?src=Images/live/2026-04/09/25817651-12-1.jpg,https://www.bonhams.com/auction/32159/lot/5080/waltham-a-gold-keyless-wind-hunter-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1803.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1800.0,1500.0
+2fa1d16d-a30b-45ca-a7ab-16bcdaf962eb,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5081,USD,1500,2500,4352.0,3400,1500,2500,4352.0,3400,Waltham,Keyless Wind Hunting Case Watch,N/A,1864,0,0,gold,N/A,enamel,14,1,yellow gold,0,N/A,55,good,"WALTHAM. A 14K GOLD KEYLESS WIND HUNTING CASE WATCH
+Date: 1864
+Movement: 11-jewel manual wind, no. 114185
+Dial: Enamel
+Case: Round, snap on case back, no. 877671
+Signed: Case, dial and movement
+Size: 55mm
+Accompaniments: None
+Weight: 147g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836296-1-1.jpg,https://www.bonhams.com/auction/32159/lot/5081/waltham-a-14k-gold-keyless-wind-hunting-case-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1803.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+57d5cc70-2d4c-44aa-8b11-cef1a4a1e5a3,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5082,USD,500,1000,102.4,80,500,1000,102.4,80,Waltham,Keyless Wind Open Face Watch,N/A,1890,0,0,gold,N/A,white,N/A,1,gold,0,N/A,N/A,poor,"FROM A PRIVATE DUTCH FAMILY[NO RESERVE] WALTHAM. A GOLD PLATED AND BLACK ENAMEL KEYLESS WIND OPEN FACE WATCH
+Date: c. 1890s
+Movement: 7-jewel manual wind, no. 6399659 (movement in need of service, please refer to condition report in the footnotes.)
+Dial: White
+Case: Round, snap on case back, no. 0927252
+Signed: Dial and movement signed Waltham, case signed 'IWC.CO'
+Accompaniments: None
+Weight: 62g",https://images2.bonhams.com/image?src=Images/live/2026-04/09/25813452-4-1.jpg,https://www.bonhams.com/auction/32159/lot/5082/no-reserve-waltham-a-gold-plated-and-black-enamel-keyless-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+01f480ab-724b-4cb3-9039-2625df4e07c8,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5083,USD,1000,1500,153.6,120,1000,1500,153.6,120,L.W. Suter,Keyless Wind Open Face Watch,N/A,1900,0,0,gold plated,N/A,white,N/A,1,yellow gold,0,N/A,34,poor,"[NO RESERVE] L.W. SUTER. A GOLD PLATED KEYLESS WIND OPEN FACE WATCH
+Date: c. 1900s
+Movement: 15-jewel manual wind
+Dial: White
+Case: Round, snap on case back, no. 8163831
+Size: 34mm
+Signed: Dial signed L.W. Suter, movement signed Swiss
+Accompaniments: None
+Weight: 68g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25819866-3-1.jpg,https://www.bonhams.com/auction/32159/lot/5083/no-reserve-lw-suter-a-gold-plated-keyless-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1200.0,1000.0
+857d2f4b-7eb5-47d0-9ac1-6909e16e515e,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5084,USD,500,700,1536.0,1200,500,700,1536.0,1200,Waltham,Keyless Wind Open Face Watch,N/A,1895,0,0,gold,N/A,white,14,1,yellow gold,0,N/A,45,poor,"WALTHAM. A 14K GOLD KEYLESS WIND OPEN FACE WATCH
+Date: c. 1895
+Movement: 17-jewel manual wind, no. 18012347
+Dial: White
+Case: Round, snap on case back, no. 6530325
+Size: 45mm
+Signed: Case, dial and movement
+Accompaniments: None
+Weight: 57g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25826723-10-1.jpg,https://www.bonhams.com/auction/32159/lot/5084/waltham-a-14k-gold-keyless-wind-open-face-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,600.0,500.0
+d2d6e356-3a06-45b9-8e63-880741239586,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5085,USD,1000,2000,1024.0,800,1000,2000,1024.0,800,Omega,Seamaster Diver,2252.50,2006,0,0,stainless steel,stainless steel,black,N/A,0,N/A,0,N/A,36,good,"[NO RESERVE] OMEGA. A STAINLESS STEEL AUTOMATIC CALENDAR BRACELET WATCH
+Model: Seamaster Diver
+Reference: 2252.50
+Date: c. 2006
+Movement: Cal. 1120, 23-jewel automatic
+Dial: Black
+Case: Tonneau form, screw down case back, no. 80294893
+Strap/bracelet: Stainless steel link
+Buckle/clasp: Stainless steel folding clasp
+Size: 36mm
+Accompaniments: None
+Weight: 123g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25833994-1-1.jpg,https://www.bonhams.com/auction/32159/lot/5085/no-reserve-omega-a-stainless-steel-automatic-calendar-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1223.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+74ee18c4-2b23-4046-afff-b98bbbacce5a,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5086,USD,200,400,256.0,200,200,400,256.0,200,Bucherer,Ring Watch,N/A,1965,1,0,gold,N/A,textured champagne,N/A,1,gold,0,N/A,15,good,"BUCHERER. A GOLD PLATED MANUAL WIND RING WATCH
+Date: c. 1965
+Movement: 17-jewel manual wind
+Dial: Textured champagne
+Case: Tonneau, snap on case back, no. 5, 2194
+Size: 15mm 
+Signed: Dial
+Accompaniments: Maker's box
+Weight: 7.6g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25836296-8-2.jpg,https://www.bonhams.com/auction/32159/lot/5086/bucherer-a-gold-plated-manual-wind-ring-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,230.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,275.0,229.16666666666669
+463d5337-6316-4480-841c-9b63883f84ab,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5087,USD,800,1200,1664.0,1300,800,1200,1664.0,1300,BVLGARI,Manual Wind Wristwatch,G1886.4,1990,0,0,gold,leather,black,18,1,yellow gold,0,N/A,23,good,"PROPERTY OF A NEWPORT COAST WOMAN[NO RESERVE] BULGARI. AN 18K GOLD MANUAL WIND WRISTWATCH
+Reference: G1886.4
+Date: c. 1990s
+Movement: Cal. 78-1 (ETA 2512-1), 17-jewel manual wind
+Dial: Black
+Case: Round, case back secured by two screws, no. 17047
+Bracelet/strap: Regulated species
+Clasp/buckle: 18k gold buckle
+Size: 23mm
+Signed: Case signed Bulgari, movement signed Gerald Genta
+Accompaniments: None
+Weight: 23g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25846267-26-1.jpg,https://www.bonhams.com/auction/32159/lot/5087/no-reserve-bulgari-an-18k-gold-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1100.0,916.6666666666667
+1c5e7f4a-ae4c-4021-8077-8fdae948b68d,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5089,USD,800,1200,832.0,650,800,1200,832.0,650,Cartier,Must de Cartier 21,N/A,1990,0,0,stainless steel/gold,stainless steel/gold,N/A,N/A,1,gold,0,N/A,31,good,"CARTIER. A STAINLESS STEEL AND GOLD PLATED QUARTZ BRACELET WATCH
+Model: Must de Cartier 21
+Date: c. 1990s
+Movement: Jeweled quartz
+Case: Round, case back secured by 6 weeks, no. PL30722 (crown in need of service, please refer to condition report in the footnote.)
+Bracelet/strap: Stainless steel and gold plated link
+Clasp/buckle: Stainless steel folding clasp
+Size: 31mm
+Signed: Case, dial, movement, bracelet and clasp
+Accompaniments: None
+Weight: 72g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25857211-11-2.jpg,https://www.bonhams.com/auction/32159/lot/5089/cartier-a-stainless-steel-and-gold-plated-quartz-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+8b14cf4e-4ec4-4f83-a430-37aa4d43c167,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5090,USD,600,800,1408.0,1100,600,800,1408.0,1100,Cartier,Tank,N/A,1980,0,0,gold,leather,blue,N/A,1,gold,0,N/A,28 x 20.5,good,"PROPERTY OF A NEWPORT COAST WOMAN[NO RESERVE] CARTIER. A GOLD PLATED MANUAL WIND WRISTWATCH
+Model: Tank
+Date: c. 1980s
+Movement: Jeweled manual wind
+Dial: Blue
+Case: Rectangular, case back secured by 4 screws, no. 3063151, 60022
+Bracelet/strap: Regulated species
+Clasp/buckle: Gold plated buckle
+Size: 28 x 20.5mm
+Signed: Case, dial, movement and strap
+Accompaniments: None
+Weight: 21g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25846267-28-1.jpg,https://www.bonhams.com/auction/32159/lot/5090/no-reserve-cartier-a-gold-plated-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+f2cbcc4d-26f7-4d58-a9de-956aa252e6ee,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5091,USD,1000,2000,1408.0,1100,1000,2000,1408.0,1100,Cartier,Santos Octagon,N/A,1990,0,0,stainless steel/gold,stainless steel/gold,N/A,N/A,1,yellow gold,0,N/A,29.5,poor,"PROPERTY OF A NEWPORT COAST WOMANCARTIER. A STAINLESS STEEL AND GOLD AUTOMATIC CALENDAR BRACELET WATCH
+Model: Santos Octagon
+Date: 1990s
+Movement: Jeweled automatic
+Case: Octagon, no. 296608636
+Bracelet/strap: Stainless steel and gold screw link (bracelet in need of service, please refer to the condition report in footnote.)
+Clasp/buckle: Stainless steel folding clasp (clasp in need of service, please refer to the condition report in footnote.)
+Signed: Case, dial, movement, bracelet and clasp
+Size: 29.5mm
+Accompaniments: None
+Weight: 71g",https://images2.bonhams.com/image?src=Images/live/2026-04/27/25846267-24-1.jpg,https://www.bonhams.com/auction/32159/lot/5091/cartier-a-stainless-steel-and-gold-automatic-calendar-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1223.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1400.0,1166.6666666666667
+07fbb6e1-0dee-4739-bd46-90767e06c4dd,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5092,USD,800,1200,1536.0,1200,800,1200,1536.0,1200,Cartier,Panthère Vendome,N/A,1980,0,0,stainless steel/gold,stainless steel/gold,white,N/A,1,yellow gold,0,N/A,24,good,"CARTIER. A STAINLESS STEEL AND GOLD QUARTZ BRACELET WATCH
+Model: PanthÃ¨re Vendome
+Date: c. 1980s
+Movement: Cal. 157, 4-jewel quartz (movement in need of service, please refer to condition report in the footnote.)
+Dial: White
+Case: Round, case back secured by 8 screws, no. 1087920, 10303
+Strap/bracelet: Stainless steel and gold
+Buckle/clasp: Stainless steel folding clasp
+Signed: Case, dial, movement, bracelet and clasp
+Size: 24mm
+Accompaniments: None
+Weight: 40g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836296-5-1.jpg,https://www.bonhams.com/auction/32159/lot/5092/cartier-a-stainless-steel-and-gold-quartz-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1050.0,875.0
+65e6db79-0ea0-4ef7-80a7-e59bf5daba92,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5093,USD,1200,1800,1408.0,1100,1200,1800,1408.0,1100,Corum,Manual Wind Wristwatch,N/A,1960,0,0,gold,leather,salmon,18,1,yellow gold,0,N/A,36.5 x 26,good,"FROM THE COLLECTION OF DOLORES FEINSWOGCORUM. AN 18K GOLD MANUAL WIND WRISTWATCH
+Date: c. 1960s
+Movement: 21-jewel manual wind, no. 67621
+Dial: Salmon
+Case: Rectangular, snap on case back, no. 57124
+Strap/bracelet: Black textured leather
+Buckle/clasp: Gold plated buckle clasp
+Size: 36.5 x 26mm (including lugs)
+Signed: Case, dial and movement signed Corum, buckle signed Omega
+Accompaniments: None
+Weigh: 15.6g",https://images2.bonhams.com/image?src=Images/live/2026-02/18/25817612-19-1.jpg,https://www.bonhams.com/auction/32159/lot/5093/corum-an-18k-gold-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1500.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+5057dd73-884b-41ce-b696-a6c81fb15a41,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5094,USD,600,800,N/A,N/A,600,800,N/A,N/A,EBEL,Beluga,9157428-20,2000,0,0,stainless steel,stainless steel,mother of pearl,N/A,0,N/A,1,12,27,poor,"EBEL. A STAINLESS STEEL AND DIAMOND QUART BRACELET WATCH
+Model: Beluga
+Reference: 9157428-20
+Date: c. 2000s
+Movement: Jeweled quartz
+Dial: Mother of pearl
+Case: Round, case back secured by 4 screws, no. 42559165
+Strap/bracelet: Stainless steel link
+Buckle/clasp: Stainless steel folding clasp
+Signed: Case, dial, movement, bracelet and clasp
+Size: 27mm
+Accompaniments: None
+Weight: 58g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25808547-6-1.jpg,https://www.bonhams.com/auction/32159/lot/5094/ebel-a-stainless-steel-and-diamond-quart-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+14de111e-241e-43cb-a58e-c04461a2e037,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5095,USD,300,500,192.0,150,300,500,192.0,150,Elgin,manual wind bracelet watch,N/A,1915,0,0,gold,gold,silvered,N/A,1,gold,0,N/A,25.5,good,"ELGIN. A GOLD FILLED MANUAL WIND BRACELET WATCH
+Date: c. 1915
+Movement: 17-jewel manual wind, no. F682057
+Dial: Silvered
+Case: Rectangular, snap on case back, no. 9822053
+Signed: Case, dial and movement
+Strap/bracelet: Gold plated expandable link
+Size: 25.5mm
+Accompaniments: None
+Weight: 49g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836296-6-1.jpg,https://www.bonhams.com/auction/32159/lot/5095/elgin-a-gold-filled-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,303.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,425.0,354.1666666666667
+59a4ea5f-9d51-44fb-bbc4-9e641d5fd860,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5096,USD,1500,2000,2176.0,1700,1500,2000,2176.0,1700,N/A,N/A,N/A,1940,0,0,platinum,platinum/diamond,white,N/A,0,N/A,1,N/A,11,poor,"PROPERTY FROM A BRONXVILLE, NY COLLECTIONSWISS. A PLATINUM AND DIAMOND SET BRACELET WATCH
+Date: 1940s
+Movement: 17-jewel manual wind (movement is not working, please refer to the condition report in footnotes.)
+Dial: White
+Case: Rectangular, snap on case back
+Bracelet/strap: Platinum and diamond set link
+Clasp/buckle: Platinum folding clasp
+Signed: Case
+Size: 11mm
+Accompaniments: None
+Weight: 29.1g",https://images2.bonhams.com/image?src=Images/live/2026-04/23/25854093-1-1.jpg,https://www.bonhams.com/auction/32159/lot/5096/swiss-a-platinum-and-diamond-set-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1700.0,1416.6666666666667
+ec584fb2-7084-4f3a-9305-3d0922dfee7d,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5097,USD,500,700,N/A,N/A,500,700,N/A,N/A,Geneva,Manual Wind Bracelet Watch,N/A,1930,0,0,base metal,stainless steel,white,N/A,1,gold plated,1,N/A,15,poor,"GENEVA. A BASE METAL MANUAL WIND BRACELET WATCH
+Date: 1930s
+Movement: 15-jewel manual wind
+Dial: White
+Case: Round, snap on case back
+Strap/bracelet: Stainless steel cord
+Buckle/clasp: Gold plated folding clasp
+Signed: Dial signed Geneva, movement signed Teriam Watch Co.
+Size: 15mm
+Accompaniments: None
+Weight: 9.6g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25836296-7-1.jpg,https://www.bonhams.com/auction/32159/lot/5097/geneva-a-base-metal-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,100.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,600.0,500.0
+7fcf4f44-d097-4c21-b716-64bcd7c60cdf,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5098,USD,1200,1500,3072.0,2400,1200,1500,3072.0,2400,Girard-Perregaux,manual bracelet watch,N/A,N/A,0,0,gold,gold,N/A,18,1,yellow gold,1,N/A,15,good,"GIRARD-PERREGAUX. AN 18K GOLD AND DIAMOND SET MANUAL BRACELET WATCH
+Date:
+Movement: 17-jewel manual wind, no. 650755
+Case: Round, snap on case back, no. 205 B5
+Bracelet/strap: 18k gold mesh link
+Clasp/buckle: 18k gold folding clasp
+Size: 15mm
+Signed: Case, dial, movement and clasp
+Accompaniments: None
+Weight: 31g",https://images2.bonhams.com/image?src=Images/live/2026-04/23/25841541-5-1.jpg,https://www.bonhams.com/auction/32159/lot/5098/girard-perregaux-an-18k-gold-and-diamond-set-manual-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1303.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1400.0,1166.6666666666667
+dc60ae61-bb02-44d0-a8a7-3219e202ff27,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5099,USD,500,1000,153.6,120,500,1000,153.6,120,Glycine,Automatic Calendar,3874,2010,0,0,stainless steel,leather,black,N/A,0,N/A,0,N/A,46,good,"[NO RESERVE] GLYCINE. A STAINLESS STEEL AUTOMATIC CALENDAR WRISTWATCH
+Reference: 3874
+Date: c. 2010s
+Movement: Cal. ETA 2824-2, 25-jewel automatic
+Case: Round, display case back
+Bracelet/strap: Brown leather
+Clasp/buckle: Stainless steel buckle
+Signed: Case, dial, movement, strap and buckle
+Size: 46mm
+Accompaniments: None
+Weight: 113g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25815482-26-1.jpg,https://www.bonhams.com/auction/32159/lot/5099/no-reserve-glycine-a-stainless-steel-automatic-calendar-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,602.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+2fc45e10-c60f-4d87-b142-9586e09ad100,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5100,USD,800,1200,1088.0,850,800,1200,1088.0,850,Gubelin,Quartz Bracelet Watch,N/A,1960,0,0,white gold,gold plated,white,18,1,white gold,1,N/A,14,poor,"GUBELIN. AN 18K WHITE GOLD AND DIAMOND SET QUARTZ BRACELET WATCH
+Date: c. 1960s
+Movement: 6-jewel quartz (movement not working, please refer to condition report in the footnotes.)
+Dial: White
+Case: Rectangular, snap on case back with special engraving, no. 5177
+Strap/bracelet: Associated gold plated bracelet
+Buckle/clasp: Associated gold plated folding clasp
+Size: 14mm
+Signed: Case and diamond
+Accompaniments: None
+Weight: 14g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25828575-6-1.jpg,https://www.bonhams.com/auction/32159/lot/5100/gubelin-an-18k-white-gold-and-diamond-set-quartz-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1050.0,875.0
+0c676ccc-3330-4a74-926b-161c91469ef4,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5101,USD,600,900,1408.0,1100,600,900,1408.0,1100,Eterna,Manual Wind Bracelet Watch,N/A,1950,0,0,gold,gold plated,silver,18,1,yellow gold,0,N/A,15.5,poor,"PROPERTY FROM A BRONXVILLE, NY COLLECTIONETERNA. AN 18K GOLD MANUAL WIND BRACELET WATCH
+Date: c. 1950s
+Movement: Jeweled manual wind, no. 4294295
+Case: Round, snap on case back, no. 4093769
+Bracelet/strap: 14k gold plated link
+Clasp/buckle: 14k gold plated folding clasp
+Signed: Case, dial and movement
+Size: 15.5mm
+Accompaniments: None",https://images2.bonhams.com/image?src=Images/live/2026-04/23/25854093-3-1.jpg,https://www.bonhams.com/auction/32159/lot/5101/eterna-an-18k-gold-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+c5821972-5400-4303-b3fa-103c03bfa6bb,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5102,USD,2500,3500,4096.0,3200,2500,3500,4096.0,3200,Jules Jurgensen,Manual Wind Bracelet Watch,N/A,1960,0,0,gold,gold,N/A,14,1,yellow gold,0,N/A,22.5,poor,"PROPERTY OF A NEWPORT COAST WOMANJULES JURGENSEN. A 14K GOLD MANUAL WIND BRACELET WATCH
+Date: c. 1960s
+Movement: 17-jewel manual wind, no. 505301
+Case: Square, snap on case back, no. 46010864
+Bracelet/strap: 14k gold link
+Clasp/buckle: 14k gold folding clasp
+Size: 22.5mm
+Signed: Dial and movement
+Accompaniments: None
+Weight: 54g",https://images2.bonhams.com/image?src=Images/live/2026-04/23/25846267-25-1.jpg,https://www.bonhams.com/auction/32159/lot/5102/jules-jurgensen-a-14k-gold-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2800.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+319924b2-ec86-4113-a5bc-198d4ff6a5df,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5103,USD,500,700,704.0,550,500,700,704.0,550,Lucid Piccard,Manual Wind Wristwatch,N/A,1960,0,0,gold,leather,mother of pearl,14,1,yellow gold,0,N/A,N/A,good,"LUCID PICCARD. A 14K GOLD MANUAL WIND WRISTWATCH WITH CONCEALED MOTHER OF PEARL DIAL
+Date: c. 1960s
+Movement: 17-jewel manual wind, no. 8358
+Dial: Mother of pearl
+Case: Round, dial cover with mother of pearl, snap on case back, no. D17152
+Strap/bracelet: Black leather
+Buckle/clasp: Gold plated buckle
+Signed: Case, dial and movement
+Accompaniments: None
+Weight: 18g",https://images2.bonhams.com/image?src=Images/live/2026-04/20/25826723-9-1.jpg,https://www.bonhams.com/auction/32159/lot/5103/lucid-piccard-a-14k-gold-manual-wind-wristwatch-with-concealed-mother-of-pearl-dial/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+4663aa3b-5534-4757-9f84-bfb992f646a2,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5104,USD,500,700,281.6,220,500,700,281.6,220,NIVIA/UNIVERSAL GENEVE,Manual Wind Bracelet Watch,N/A,1930,0,0,gold/plated,stainless steel,silvered,14,1,gold,1,1,16,good,"[NO RESERVE] A GROUP OF TWO MANUAL WIND BRACELET WATCHES
+NIVIA. A 4K WHITE GOLD PLATED AND DIAMOND SET MANUAL WIND BRACELET WATCH
+Date: c. 1930s
+Movement: 17-jewel manual wind
+Dial: Silvered
+Case: Tonneau form, diamond set lugs, snap on case back, no. 17098
+Strap/Bracelet: Stainless steel cord
+Bucke/clasp: Stainless steel folding clasp
+Signed: Dial and movement
+Size: 14mm
+Accompaniments: None
+Weight: 10g
+
+UNIVERSAL GENEVE. A 14K GOLD MANUAL WIND BRACELET WATCH
+Date: c. 1930s
+Movement: Cal. 216, 17-jewel manual wind
+Dial: Silvered
+Case: Rectangular, snap on case back with special engraving, no. A19462, 64626
+Strap/Bracelet: Stainless steel cord
+Bucke/clasp: Stainless steel folding clasp
+Signed: Case, dial and movement
+Size: 16mm
+Accompaniments: None
+Weight: 12g",https://images2.bonhams.com/image?src=Images/live/2026-04/16/25829683-7-1.jpg,https://www.bonhams.com/auction/32159/lot/5104/no-reserve-a-group-of-two-manual-wind-bracelet-watches/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+a0d0130e-c8dd-4cd6-a6c8-3fd7985a14f3,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5105,USD,2000,3000,4096.0,3200,2000,3000,4096.0,3200,KURZ,manual wind bracelet watch,N/A,1960,0,0,gold,gold,textured champagne,18,1,yellow gold,0,N/A,15,good,"PROPERTY FROM A BRONXVILLE, NY COLLECTIONKURZ. AN 18K GOLD MANUAL WIND BRACELET WATCH
+Date: c. 1960s
+Movement: Jeweled manual wind
+Dial: Textured champagne
+Case: Square, snap on case back
+Bracelet/strap: 18k gold mesh link
+Clasp/buckle: 18k gold folding
+Size: 15mm
+Signed: Dial
+Accompaniments: None
+Weight: 44g",https://images2.bonhams.com/image?src=Images/live/2026-04/23/25854093-2-1.jpg,https://www.bonhams.com/auction/32159/lot/5105/kurz-an-18k-gold-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+e87daebd-f7a7-400d-a752-d6fad3d91dc1,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5106,USD,400,600,2048.0,1600,400,600,2048.0,1600,Mathey-Tissot,manual wind bracelet watch,N/A,1950,0,0,gold,gold,champagne,14,1,yellow gold,1,N/A,16.8,good,"MATHEY-TISSOT. A 14K GOLD AND DIAMOND SET MANUAL WIND BRACELET WATCH
+Date: c. 1950s
+Movement: Jeweled manual wind
+Dial: Champagne
+Case: Oval, snap on case back
+Bracelet/strap: Gold mesh link
+Clasp/buckle: Gold folding clasp
+Size: 16.8mm
+Signed: Dial and movement
+Accompaniments: None
+Weight: 28.4g",https://images2.bonhams.com/image?src=Images/live/2026-04/23/25807254-44-1.jpg,https://www.bonhams.com/auction/32159/lot/5106/mathey-tissot-a-14k-gold-and-diamond-set-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,550.0,458.33333333333337
+d1ca529b-a6e3-4e73-93c1-481180b2a5ff,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5107,USD,1500,2000,3584.0,2800,1500,2000,3584.0,2800,Omega,De Ville,N/A,1980,0,0,gold,gold,textured champagne,14,1,yellow gold,0,N/A,29,good,"OMEGA. A 14K GOLD QUARTZ BRACELET WATCH
+Model: De Ville
+Date: c. 1980s
+Movement: 9-jewel quartz, no. 44713826
+Dial: Textured champagne
+Case: Cushion, snap on case back, no. 3810813A, 1810120, 7150
+Bracelet/strap: 14k gold mesh link
+Clasp/buckle: 14k gold folding clasp
+Signed: Case, dial, movement, bracelet and clasp
+Size: 29mm
+Accompaniments: None
+Weight: 51g",https://images2.bonhams.com/image?src=Images/live/2026-04/23/25807254-38-1.jpg,https://www.bonhams.com/auction/32159/lot/5107/omega-a-14k-gold-quartz-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1703.52,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1750.0,1458.3333333333335
+9080304b-a713-4b1e-a770-727746432eb5,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5108,USD,2500,3500,3584.0,2800,2500,3500,3584.0,2800,Omega,manual wind bracelet watch,N/A,1969,0,0,gold,gold,N/A,18,1,white gold,1,N/A,26,good,"PROPERTY FROM A PRIVATE MARIN COUNTY COLLECTOR[NO RESERVE] OMEGA. AN 18K WHITE GOLD AND DIAMOND SET MANUAL WIND BRACELET WATCH
+Date: c. 1969
+Movement: Cal. 620, 17-jewel manual wind, no. 29'261'587
+Case: Oval, snap on case back
+Bracelet/strap: 18k white gold mesh link
+Clasp/buckle: 18k white gold folding clasp
+Signed: Dial and movement
+Size: 26mm
+Accompaniments: None
+Weight: 43g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25812495-7-1.jpg,https://www.bonhams.com/auction/32159/lot/5108/no-reserve-omega-an-18k-white-gold-and-diamond-set-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+281b8036-5f34-4820-afef-c5bdc09de792,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5109,USD,800,1200,N/A,N/A,800,1200,N/A,N/A,Raymond Weil,Triple Calendar Bracelet Watch with Moon Phases,5402-2,1990,1,1,gold,gold,white,14,1,gold,0,N/A,32.5,poor,"RAYMOND WEILL. A 14K GOLD PLATED QUARTZ TRIPLE CALENDAR BRACELET WATCH WITH MOON PHASES
+Reference: 5402-2
+Date: c. 1990s
+Movement: 6-jewel quartz (movement in need of service, please refer to condition report.)
+Dial: White
+Case: Round, case back secured by 4 screws
+Bracelet/strap: Gold plated link
+Clasp/buckle: Gold plated clasp
+Size: 32.5mm
+Signed: Case and dial
+Accompaniments: Maker's presentation box and certificate (undated)
+Weight: 91g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25807254-39-1.jpg,https://www.bonhams.com/auction/32159/lot/5109/raymond-weill-a-14k-gold-plated-quartz-triple-calendar-bracelet-watch-with-moon-phases/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+1b4ea149-faf2-452e-9ac6-a7ae09996093,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5110,USD,500,1000,3072.0,2400,500,1000,3072.0,2400,Rolex,Manual Wind Bracelet Watch,8435,1987,1,1,gold,gold,off white,14,1,yellow gold,0,N/A,N/A,good,"ROLEX. A 14K GOLD MANUAL WIND BRACELET WATCH
+Reference: 8435
+Date: Purchased 14th July, 1987
+Movement: Cal. 1400, 18-jewel manual wind
+Case: Oval, snap on case back
+Bracelet/strap: 14k gold woven link
+Buckle/clasp: 14k gold folding clasp
+Signed: Case, dial, movement and clasp
+Accompaniments: Maker's box and certificate (dated)
+Weight: 31g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25807254-45-1.jpg,https://www.bonhams.com/auction/32159/lot/5110/rolex-a-14k-gold-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1200.0,1000.0
+3e07ecea-9072-405e-9198-af041c3fcfc7,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5111,USD,2000,3000,5376.0,4200,2000,3000,5376.0,4200,Shreve & Co.,Manual Wind Bracelet Watch,N/A,1925,0,0,gold,gold,silvered,14,1,yellow gold,0,N/A,42 x 25,poor,"PROPERTY OF LAURA-LEE W. WOODSSHREVE & CO. AN GOLD MANUAL WIND BRACELET WATCH
+Date: c. 1925
+Movement: 17-jewel manual wind
+Dial: Silvered
+Case: Rectangular, snap on case back, no. 51042
+Strap/Bracelet: 14k gold mesh link
+Buckle/Clasp: 14k gold folding clasp
+Signed: Dial signed Shreve & Co., movement signed International Watch Co.
+Size: 42 x 25mm (including lugs)
+Accompaniments: None
+Weight: 68g",https://images2.bonhams.com/image?src=Images/live/2025-11/25/25768223-79-1.jpg,https://www.bonhams.com/auction/32159/lot/5111/shreve-and-co-an-gold-manual-wind-bracelet-watch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2000.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+b7b664ba-5374-47fb-ae87-c554be4756fc,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5112,USD,1000,2000,1024.0,800,1000,2000,1024.0,800,Longines,Quartz Wristwatch,N/A,1980,0,0,gold,leather,champagned,18,1,yellow gold,0,N/A,30,good,"LONGINES. AN 18K GOLD QUARTZ WRISTWATCH
+Date: c. 1980s
+Movement: Jeweled quartz
+Dial: Champagned
+Case: TV shape, case back secured by a screw, no. 01269
+Bracelet/strap: Regulated species
+Clasp/buckle: Gold plated buckle
+Signed: Dial and case
+Size: 30mm
+Accompaniments: None
+Weight: 25g",https://images2.bonhams.com/image?src=Images/live/2026-04/24/25857211-10-2.jpg,https://www.bonhams.com/auction/32159/lot/5112/longines-an-18k-gold-quartz-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1301.29,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1400.0,1166.6666666666667
+32d8829e-3b2c-4177-bb2b-157426e778df,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5113,USD,600,900,332.8,260,600,900,332.8,260,Longines,manual wind wristwatch,N/A,1930,0,0,silver,leather,white enamel,N/A,1,gold,0,N/A,34,poor,"[NO RESERVE] LONGINES. A SILVER MANUAL WIND WRISTWATCH
+Date: c. 1930s
+Movement: Cal. 13.34, 15-jewel manual wind, no. 4796907
+Dial: White enamel
+Case: Round, snap on case back, no. 4796907
+Strap/Bracelet: Regulated species
+Buckle/clasp: Gold plated buckle
+Size: 34mm
+Accompaniments: None
+Weight: 40g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25833994-2-1.jpg,https://www.bonhams.com/auction/32159/lot/5113/no-reserve-longines-a-silver-manual-wind-wristwatch/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1004.22,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+ffb7ac5b-aa42-484c-8172-990e2cd45534,Watch,Bonhams,32159,2026-05-05,"Online, Los Angeles",Weekly: Watches,https://www.bonhams.com/auction/32159/weekly-watches/,Lot 5114,USD,500,1000,409.6,320,500,1000,409.6,320,Nivrel,Triple Calendar Wristwatch with Moon Phases,446.001,2014,1,1,stainless steel,regulated species,silvered,N/A,0,N/A,0,N/A,42,very good,"[NO RESERVE] NIVREL. A STAINLESS STEEL AUTOMATIC TRIPLE CALENDAR WRISTWATCH WITH MOON PHASES AND WEEKLY CALENDAR DISPLAY
+Reference: 446.001
+Date: Purchased 7th November, 2014
+Movement: Cal. ETA 2892-A2, 25-jewel automatic
+Dial: Silvered
+Case: Round, display case back secured by 5 screws, no. 039
+Strap/Bracelet: Regulated species
+Buckle/Clasp: Stainless steel double folding clasp
+Signed: Case, dial, movement, strap and clasp
+Size: 42mm
+Accompaniments: Maker's presentation box, certificate (dated) and instruction manual
+Weight: 99g",https://images2.bonhams.com/image?src=Images/live/2026-04/21/25853074-1-2.jpg,https://www.bonhams.com/auction/32159/lot/5114/no-reserve-nivrel-a-stainless-steel-automatic-triple-calendar-wristwatch-with-moon-phases-and-weekly-calendar-display/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1001.0,gpt-4.1-mini,watch-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,850.0,708.3333333333334

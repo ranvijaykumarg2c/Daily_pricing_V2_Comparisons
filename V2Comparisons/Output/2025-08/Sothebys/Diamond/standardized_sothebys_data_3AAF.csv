@@ -1,0 +1,10 @@
+lot_number,brand,carat,auction_house,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,None,6.02,Sotheby's,120000,160000,145000.0,120833.33333333334
+Lot 2,None,15.20,Sotheby's,30000,50000,42000.0,35000.0
+Lot 3,None,17.00,Sotheby's,20000,30000,25000.0,20833.333333333336
+Lot 4,None,12.06,Sotheby's,40000,60000,52000.0,43333.333333333336
+Lot 5,None,3.00,Sotheby's,15000,20000,17500.0,14583.333333333334
+Lot 6,None,9.03,Sotheby's,480000,600000,550000.0,458333.3333333334
+Lot 7,None,5.06,Sotheby's,80000,120000,102000.0,85000.0
+Lot 8,None,4.03,Sotheby's,80000,120000,102000.0,85000.0
+Lot 9,None,46.86,Sotheby's,220000,350000,300000.0,250000.0

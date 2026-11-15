@@ -1,0 +1,165 @@
+lot_number,artist_name,artwork_title,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Edward Hopper,A Corner (Zigrosser 5; Levin 60),10000,20000,15000.0,12500.0
+Lot 2,Edward Hopper,"Evening, The Seine (Zigrosser 37; Hopper 13)",20000,40000,35000.0,29166.666666666668
+Lot 3,Edward Hopper,Railroad Crossing (Zigrosser 23; Levin 103),80000,180000,145000.0,120833.33333333334
+Lot 4,Edward Hopper,Aux Fortifications (Zigrosser 2; Levin 89),130000,200000,175000.0,145833.33333333334
+Lot 5,Edward Hopper,Les Deux Pigeons (Zigrosser 7; Levin 71),175000,225000,200000.0,166666.6666666667
+Lot 6,Edward Hopper,The Monhegan Boat (Zigrosser 19; Levin 52),240000,280000,265000.0,220833.33333333334
+Lot 7,Edward Hopper,The Open Window (Zigrosser 44; Levin 24),25000,40000,35000.0,29166.666666666668
+Lot 8,David Hockney,"Wind, From The Weather Series (Scottish Arts Council 141; M.C.A.T. 132)",20000,30000,25000.0,20833.333333333336
+Lot 9,David Hockney,Pool Made With Paper And Blue Ink For Book (M.C.A.T 234),30000,40000,35000.0,29166.666666666668
+Lot 11,Chuck Close,Kate,40000,60000,55000.0,45833.333333333336
+Lot 12,Lucian Freud,Head Of An Irishman (Hartley 60),15000,20000,18000.0,15000.0
+Lot 13,Pat Steir,"Long Vertical Falls #1, #2, #3 And #4",8000,12000,10500.0,8750.0
+Lot 14,Sol Lewitt,Vanish (Krakow/Witkin 1994.07),12000,18000,15000.0,12500.0
+Lot 15,Ed Ruscha,Group Of 18 Artists Books,12000,18000,15000.0,12500.0
+Lot 16,Josef Albers,Homage To The Square: Ten Works (Danilowitz 156),20000,30000,25000.0,20833.333333333336
+Lot 17,Barnett Newman,Untitled Etching 1 (Barnett Newman Foundation 249),50000,70000,65000.0,54166.66666666667
+Lot 18,Barnett Newman,Untitled Etching 2 (Barnett Newman Foundation 250),60000,90000,75000.0,62500.0
+Lot 19,Louise Nevelson,Symphony Three,5000,7000,6500.0,5416.666666666667
+Lot 20,Sol Lewitt,9 Pyramids On A 9 Part Grid,6000,8000,7500.0,6250.0
+Lot 21,Sol Lewitt,Line Etchings (Krakow/Witkin 2000.01),5000,7000,6500.0,5416.666666666667
+Lot 22,Sol Lewitt,Bands (Not Straight) In Four Directions (Krakow/Witkin 1999.01),7000,10000,8500.0,7083.333333333334
+Lot 23,Sol Lewitt,Wavy Lines Superimposed #2,30000,50000,45000.0,37500.0
+Lot 24,Sol Lewitt,"Loopy Doopy, White On Black (Krakow/Witkin 1999.02)",5000,7000,6500.0,5416.666666666667
+Lot 25,Terry Winters,Field Notes (Sojka 71-95),7000,10000,8500.0,7083.333333333334
+Lot 26,Robert Mangold,Four Figures,8000,12000,10500.0,8750.0
+Lot 27,Robert Mangold,Curved Plane/Figure I,5000,7000,8500.0,7083.333333333334
+Lot 28,Barbara Hepworth,"November Green, From Opposing Forms",3000,5000,4500.0,3750.0
+Lot 29,Ellsworth Kelly,"Blue Over Green, From Suite Of Twenty-Seven Color Lithographs (Axsom 26)",5000,7000,6500.0,5416.666666666667
+Lot 30,Damien Hirst,"Andromeda, From Veils (H4-2)",6000,8000,7500.0,6250.0
+Lot 31,Damien Hirst,"Cannizaro, From Veils (H4-4)",6000,8000,7500.0,6250.0
+Lot 32,Damien Hirst,"Nong Nooch, From Veils (H4-5)",6000,8000,8500.0,7083.333333333334
+Lot 33,Damien Hirst,"Kew, From Veils (H4-6)",6000,8000,7500.0,6250.0
+Lot 34,Damien Hirst,"Ryoanji, From Veils (H4-7)",6000,8000,7500.0,6250.0
+Lot 35,Damien Hirst,"Keukenhof, From Veils (H4-8)",6000,8000,8500.0,7083.333333333334
+Lot 37,Frank Stella,"Moby Dick, From The Waves (Axsom 194)",12000,18000,15000.0,12500.0
+Lot 38,Frank Stella,"The Hyena, From The Waves (Axsom 195)",10000,15000,12000.0,10000.0
+Lot 39,Frank Stella,"Then Came A Fire And Burnt The Stick, From Illustrations After El Lissitzky'S Had Gadya (See Axsom 175)",30000,50000,45000.0,37500.0
+Lot 40,Willem De Kooning,Untitled,5000,7000,8500.0,7083.333333333334
+Lot 41,Willem De Kooning,Untitled (Beach),6000,8000,8500.0,7083.333333333334
+Lot 42,Robert Motherwell,The Berggruen Series (Walker Art Center 258-261; Belknap 225-228),6000,10000,8500.0,7083.333333333334
+Lot 43,Robert Motherwell,Redness Of Red (Walker Art Center 354; Belknap 324),15000,30000,25000.0,20833.333333333336
+Lot 44,Charles Arnoldi,Untitled (St. I-2),4000,6000,7500.0,6250.0
+Lot 45,Paul Klee,"Seiltnzer, From Kunst Der Gegenwart (Kornfeld 95 Iv)",12000,18000,15000.0,12500.0
+Lot 46,Alexej Von Jawlensky,"Kopf I, From Kpfe (Rosenbach 18)",5000,7000,6500.0,5416.666666666667
+Lot 47,Salvador Dal,Aliyah (Field 68-I; Michler/Lpsinger 1193-1217),15000,25000,18000.0,15000.0
+Lot 48,Joan Mir,Le Samoura (Dupin 438),15000,20000,18500.0,15416.666666666668
+Lot 49,Joan Mir,Les Deux Amis (Dupin 493),6000,8000,8500.0,7083.333333333334
+Lot 50,Joan Mir,La Meneuse De Lune (Mourlot 1029),25000,35000,30000.0,25000.0
+Lot 51,Joan Mir,La Femme Au Miroir (Mourlot 242),15000,20000,18500.0,15416.666666666668
+Lot 52,Henri Matisse,"La Nageuse Dans L'Aquarium, From Jazz (See Duthuit Books 22)",7000,10000,8500.0,7083.333333333334
+Lot 53,Henri Matisse,Pasipha (Duthuit 38),15000,25000,22000.0,18333.333333333336
+Lot 54,Henri Matisse,Visage Et Engant Sans Indication Des Visages I (Duthuit 651),7000,10000,8500.0,7083.333333333334
+Lot 55,Jacques Villon After Henri Matisse,Espagnole  La Mantille (Duthuit Ii; Ginestest & Pouillon E645),15000,25000,18500.0,15416.666666666668
+Lot 56,Maurice Brazil Prendergast,Park Promenade (Prestel 1663),20000,30000,25000.0,20833.333333333336
+Lot 57,Henri De Toulouse-Lautrec,Divan Japonais (Delteil 341; Adriani 8; Wittrock P11),8000,12000,10500.0,8750.0
+Lot 58,Henri De Toulouse-Lautrec,La Troupe De Mademoiselle Glantine (Delteil 361; Adriani 165; Wittrock P21),10000,15000,12500.0,10416.666666666668
+Lot 59,Henri De Toulouse-Lautrec,La Revue Blanche (Delteil 355; Adriani 130; Wittrock P16),10000,15000,12500.0,10416.666666666668
+Lot 60,Henri De Toulouse-Lautrec,May Belfort (Delteil 354; Adriani 126; Wittrock P14),5000,7000,8500.0,7083.333333333334
+Lot 61,Henri De Toulouse-Lautrec,Elles (Delteil 179; Adriani 171; Wittrock 155),6000,8000,7500.0,6250.0
+Lot 62,Henri De Toulouse-Lautrec,"Three Prints (Delteil 86, 91, 31; Adriani 80, 85; Wittrock 76, 81, 274)",3000,5000,4500.0,3750.0
+Lot 63,Henri De Toulouse-Lautrec,"Three Prints (Delteil 35, 293, 214; Adriani 23, 160, 231; Wittrock 25, 139, 233)",3000,5000,4500.0,3750.0
+Lot 64,Henri De Toulouse-Lautrec,Le Jockey (Delteil 321; Adriani 345; Wittrock 308),40000,60000,55000.0,45833.333333333336
+Lot 65,Henri De Toulouse-Lautrec,La Vache Enrage (Delteil 364; Adriani 166; Wittrock P27),7000,10000,8500.0,7083.333333333334
+Lot 66,Henri De Toulouse-Lautrec,Confetti (Delteil 352; Adriani 101; Wittrock P13),12000,18000,15000.0,12500.0
+Lot 67,Banksy ,Monkey Queen,8000,12000,10500.0,8750.0
+Lot 68,Banksy ,Morons,18000,24000,22000.0,18333.333333333336
+Lot 69,Banksy ,Welcome To Hell,40000,60000,55000.0,45833.333333333336
+Lot 70,Banksy ,I Fought The Law,10000,15000,12500.0,10416.666666666668
+Lot 71,Banksy ,Cnd,20000,30000,25000.0,20833.333333333336
+Lot 72,After Jean-Michel Basquiat,Ascent; Olympic; Leeches; And Liberty,70000,100000,85000.0,70833.33333333334
+Lot 73,Jean-michel Basquiat,"Thyroid, From Anatomy",8000,12000,15000.0,12500.0
+Lot 74,Hank Willis Thomas,All Lies Matter,1000,1500,1200.0,1000.0
+Lot 75,Kaws ,Running Chum,15000,25000,22000.0,18333.333333333336
+Lot 76,Keith Haring,Art Attack On Aids (Not In Littmann),40000,60000,55000.0,45833.333333333336
+Lot 77,Keith Haring,Pop Shop Iii: One Plate (Littmann P. 144),20000,30000,25000.0,20833.333333333336
+Lot 78,Keith Haring,Pop Shop Iv: One Plate (Littmann P. 147),20000,30000,25000.0,20833.333333333336
+Lot 79,Keith Haring,Pop Shop Vi (Littmann Pp. 150-151),20000,30000,25000.0,20833.333333333336
+Lot 80,Keith Haring,"The Story Of Red And Blue, 1-20 (See Littmann Pp. 128-133)",25000,35000,30000.0,25000.0
+Lot 81,Julian Opie,Walking Statuettes: Six Works,30000,50000,45000.0,37500.0
+Lot 82,Yayoi Kusama,Pumpkin (Ry),25000,35000,30000.0,25000.0
+Lot 83,Claes Oldenburg,"Geometric Mouse, Scale B (Red)",30000,40000,35000.0,29166.666666666668
+Lot 84,Roy Lichtenstein,The Solomon R. Guggenheim Museum (Corlett 83),7000,10000,8500.0,7083.333333333334
+Lot 85,Roy Lichtenstein,Bull Head Series (Corlett 123-125),30000,50000,45000.0,37500.0
+Lot 86,Roy Lichtenstein,"Bicentennial Print, From America: The Third Century (Corlett 136)",15000,20000,18500.0,15416.666666666668
+Lot 87,Roy Lichtenstein,Peace Through Chemistry Bronze (Not In Corlett),60000,80000,75000.0,62500.0
+Lot 88,Roy Lichtenstein,Art Critic (Corlett 305),25000,35000,30000.0,25000.0
+Lot 89,Roy Lichtenstein,Red Barn (Corlett 89),15000,20000,18500.0,15416.666666666668
+Lot 90,Roy Lichtenstein,"Moonscape, From 11 Pop Artists, Volume I (Corlett 37)",20000,30000,25000.0,20833.333333333336
+Lot 91,Roy Lichtenstein,"View From The Window, From Landscapes (Corlett 215)",70000,100000,85000.0,70833.33333333334
+Lot 92,Various Artists,The New York Collection For Stockholm,15000,25000,18500.0,15416.666666666668
+Lot 93,Various Artists,S.M.S.,10000,15000,12000.0,10000.0
+Lot 94,Various Artists,The Leo Castelli 90Th Birthday Portfolio,30000,50000,45000.0,37500.0
+Lot 95,David Hockney,Panama Hat (Scottish Arts Council 127; M.C.A.T. 119),20000,30000,25000.0,20833.333333333336
+Lot 96,David Hockney,French Shop (Scottish Arts Council 122; M.C.A.T. 112),6000,8000,7500.0,6250.0
+Lot 97,David Hockney,Self-Portrait (M.C.A.T. 248),7000,10000,8500.0,7083.333333333334
+Lot 98,David Hockney,"Waving, April 1986 (M.C.A.T. 301)",8000,12000,10500.0,8750.0
+Lot 99,David Hockney,"An Image Of Celia, State I, From Moving Focus (M.C.A.T. 278)",70000,100000,85000.0,70833.33333333334
+Lot 100,David Hockney,Dog Wall,250000,350000,300000.0,250000.0
+Lot 102,Ed Ruscha,Hollywood (Engberg 7),60000,80000,75000.0,62500.0
+Lot 103,Jasper Johns,Two Maps Ii (Ulae 26),50000,70000,65000.0,54166.66666666667
+Lot 104,Jasper Johns,Gray Alphabets (Ulae 57),60000,90000,75000.0,62500.0
+Lot 105,Jasper Johns,Flag (Moratorium) (Ulae S5),20000,30000,25000.0,20833.333333333336
+Lot 106,Jasper Johns,The Dutch Wives (Ulae 196),15000,25000,22000.0,18333.333333333336
+Lot 107,Jasper Johns,Painting With Two Balls (Grays) (Ulae 88),6000,8000,7500.0,6250.0
+Lot 108,Jasper Johns,"Figure 4, From 0-9",5000,7000,6500.0,5416.666666666667
+Lot 109,Jasper Johns,Voice 2 (Ulae 228),25000,35000,30000.0,25000.0
+Lot 110,Bruce Nauman,No (Cordes 44),6000,8000,8500.0,7083.333333333334
+Lot 111,Steven Sorman,The First Building Project According To What Plan,600,800,1200.0,1000.0
+Lot 112,Robert Rauschenberg,Opal Gospel,5000,7000,8500.0,7083.333333333334
+Lot 113,Robert Rauschenberg,Tibetan Garden Song/Roci Tibet,7000,10000,8500.0,7083.333333333334
+Lot 114,Robert Rauschenberg,Soviet/American Array I,12000,18000,15000.0,12500.0
+Lot 115,Tom Wesselmann,Big Blonde,12000,18000,15000.0,12500.0
+Lot 116,Chuck Close,Cecily,25000,35000,30000.0,25000.0
+Lot 117,Alex Katz,Julia And Alexandra (Cantz 181),8000,12000,10500.0,8750.0
+Lot 118,Wayne Thiebaud,Toy Counter; And Yo-Yo'S,7000,10000,8500.0,7083.333333333334
+Lot 119,Richard Pousette-dart,Untitled,6000,8000,8500.0,7083.333333333334
+Lot 120,Marc Chagall,La Chasse  L'Oiseau Bleu (See Mourlot 594),30000,50000,45000.0,37500.0
+Lot 121,Charles Sorlier After Marc Chagall,Carmen (Mourlot Cs 39),10000,15000,12500.0,10416.666666666668
+Lot 122,Rufino Tamayo,Dos Personajes Atacados Por Perros (Pereda 311),15000,25000,20000.0,16666.666666666668
+Lot 123,Francis Bacon,"Tude Pour Une Corrida, After Study For Bullfight No. 1 (Sabatier 10)",20000,30000,25000.0,20833.333333333336
+Lot 124,M. C. Escher,Earth; Air; Fire; And Water (Bool 382-385),4000,6000,5500.0,4583.333333333334
+Lot 125,M. C. Escher,Other World (Bool 348),20000,30000,25000.0,20833.333333333336
+Lot 126,M. C. Escher,Encounter (Bool 331),8000,12000,10200.0,8500.0
+Lot 127,M. C. Escher,Relativity (Bool 389),40000,60000,55000.0,45833.333333333336
+Lot 128,M. C. Escher,Convex And Concave (Bool 399),18000,24000,22000.0,18333.333333333336
+Lot 129,M. C. Escher,Bond Of Union (Bool 409),25000,35000,30000.0,25000.0
+Lot 130,M. C. Escher,Belvedere (Bool 426),30000,50000,45000.0,37500.0
+Lot 131,M. C. Escher,Self-Portrait In Spherical Mirror (Bool 368),5000,7000,6500.0,5416.666666666667
+Lot 132,Alberto Giacometti,The Artist'S Mother Reading Iii (Lust 44),5000,7000,8500.0,7083.333333333334
+Lot 133,Pablo Picasso,Lysistrata (Bloch 267-272; Baer 387-392; Cramer Books 24),20000,30000,25000.0,20833.333333333336
+Lot 134,Pablo Picasso,Le Combat Dans Larne (Bloch 301; Baer 629),12000,18000,15000.0,12500.0
+Lot 135,Pablo Picasso,"Faune Dvoilant Une Femme, From The Vollard Suite (Bloch 230; Baer 609)",40000,60000,55000.0,45833.333333333336
+Lot 136,Pablo Picasso,"Minotaure Aveugle Guid Par Une Fillette Dans La Nuit, From The Vollard Suite (Bloch 225; Baer 437)",80000,120000,105000.0,87500.0
+Lot 137,Pablo Picasso,Visage De Marie-Thrse (Bloch 95; Baer 243; Mourlot Xxiii),30000,50000,45000.0,37500.0
+Lot 138,Pablo Picasso,Figure (Bloch 579; Mourlot 128),12000,18000,15000.0,12500.0
+Lot 139,Pablo Picasso,Figure Compose Ii (Bloch 597; Mourlot 166),25000,35000,30000.0,25000.0
+Lot 140,Pablo Picasso,Tte De Femme (Bloch 384; Mourlot 4),8000,12000,10500.0,8750.0
+Lot 141,Pablo Picasso,Jacqueline Au Bandeau Ii (Bloch 1080; Baer 1297),25000,35000,30000.0,25000.0
+Lot 142,Jacques Villon After Pablo Picasso,Nature Morte (Ginestet & Pouillon E 652),7000,10000,8500.0,7083.333333333334
+Lot 143,Pablo Picasso,Bacchanale (Bloch 927; Baer 1255),10000,15000,12000.0,10000.0
+Lot 144,Pablo Picasso,Les Danseurs Au Hibou (Bloch 936; Baer 1256),10000,15000,12000.0,10000.0
+Lot 145,Pablo Picasso,Tte D'Homme Au Maillot Ray (Bloch 1164; Baer 1164),15000,25000,22000.0,18333.333333333336
+Lot 146,Edvard Munch,Delius In Wiesbaden (Schiefler 498; Woll 671),5000,7000,6500.0,5416.666666666667
+Lot 147,Edvard Munch,The Women And The Skeleton (Schiefler 44; Woll 51),10000,15000,12000.0,10000.0
+Lot 148,Andy Warhol,Madonna And Self-Portrait With Skeleton'S Arm (After Munch) (See Feldman & Schellmann Iiia.62),80000,120000,95000.0,79166.66666666667
+Lot 149,Andy Warhol,Marilyn Monroe (Marilyn) (Feldman & Schellmann Ii.24),180000,250000,220000.0,183333.33333333334
+Lot 150,Andy Warhol,Electric Chair (Feldman & Schellmann Ii.75),10000,15000,12500.0,10416.666666666668
+Lot 151,Andy Warhol,Electric Chair (Feldman & Schellmann Ii.74),10000,15000,12000.0,10000.0
+Lot 152,Andy Warhol,Electric Chair (Feldman And Schellmann Ii.79),8000,12000,10500.0,8750.0
+Lot 153,Andy Warhol,Joseph Beuys (Feldman & Schellmann Ii.242),15000,20000,18500.0,15416.666666666668
+Lot 154,Andy Warhol,$ (9) (See Feldman & Schellmann Ii.285-286),100000,150000,125000.0,104166.66666666667
+Lot 155,Andy Warhol,$ (9) (See Feldman & Schellmann Ii.285-286),100000,150000,120000.0,100000.0
+Lot 156,Andy Warhol,Mick Jagger (Feldman & Schellmann Ii.143),80000,120000,105000.0,87500.0
+Lot 157,Andy Warhol,Mick Jagger (Feldman & Schellmann Ii.145),80000,120000,105000.0,87500.0
+Lot 158,Andy Warhol,Mick Jagger (Feldman & Schellmann Ii.146),70000,100000,85000.0,70833.33333333334
+Lot 159,Andy Warhol,Ten Portraits Of Jews Of The Twentieth Century (Feldman & Schellmann Ii.226-235),300000,500000,450000.0,375000.0
+Lot 160,Andy Warhol,"Queen Elizabeth Ii Of The United Kingdom, From Reigning Queens (Feldman & Schellmann Ii.335)",200000,300000,250000.0,208333.33333333334
+Lot 161,Andy Warhol,Grace Kelly (Feldman & Schellmann Ii.305),100000,200000,150000.0,125000.0
+Lot 162,Andy Warhol,"Blackglama (Judy Garland), From Ads (Feldman & Schellmann Ii.351)",25000,35000,30000.0,25000.0
+Lot 163,Andy Warhol,"Rebel Without A Cause (James Dean), From Ads (Feldman & Schellmann Ii.355)",80000,120000,105000.0,87500.0
+Lot 164,Andy Warhol,"Superman, From Myths (Feldman & Schellmann Ii.260)",180000,250000,210000.0,175000.0
+Lot 165,Andy Warhol,"The Witch, From Myths (See Feldman & Schellmann Iib.261)",30000,50000,45000.0,37500.0
+Lot 166,Andy Warhol,Cow (Feldman & Schellmann Ii.12A),10000,15000,12000.0,10000.0
+Lot 167,Andy Warhol,Turtle (Feldman & Schellmann Ii.360A),50000,70000,65000.0,54166.66666666667

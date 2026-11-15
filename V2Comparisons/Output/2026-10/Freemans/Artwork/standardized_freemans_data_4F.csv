@@ -1,0 +1,851 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+370a6bcb-4a3e-4597-89f4-50e91c01c922,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 1,USD,2500,4000,N/A,N/A,2500,4000,N/A,N/A,Henri Edmond Cross,1865,1910,Madame Cross Cousant au Jardin,drawing,pencil and colored pencil on paper,N/A,9.375,12.25,in,yes,yes,yes,1890,1890,"Emmanuel Klein, New York. Sotheby's Arcade, New York, sale of February 28, 1992, lot 12 (as Madame Cross Sewing). Acquired directly from the above sale by the present owner. Xitrom Establishment, London, the United Kingdom. Acquired directly from the above by present owner.",N/A,N/A,N/A,original,"Henri Edmond Cross
+(French, 1865-1910)
+Madame Cross Cousant au Jardin, 1890
+pencil and colored pencil on paper
+stamp initialed HEC (lower left; Lugt 1305A)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+sheet size: 12 1/4 x 9 3/8 in. (31.1 x 23.8cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+Provenance:Emmanuel Klein, New York.Sotheby's Arcade, New York, sale of February 28, 1992, lot 12 (as Madame Cross Sewing).Acquired directly from the above sale by the present owner. Xitrom Establishment, London, the United Kingdom.Acquired directly from the above by present owner.Exhibited:""Revolution in Form: Tampa Collects French Art 1800-1950,"" Tampa Museum of Art, Tampa, Florida, June 2-August 18, 1991, no. 20 (illustrated in the accompanying exhibition catalogue p. 33).",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e59d63d7-6311-4430-ac7c-fc5832784ed5,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/1,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,2026-10,3058.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3500.0,2916.666666666667
+d65f2bdd-46d2-4ee4-bb86-28984c5efae5,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 2,USD,1200,1800,4800,3750,1200,1800,4800,3750,Berthe Morisot,1841,1895,Le Berger et ses Moutons (Vie de Ferme),drawing,colored crayon on paper,N/A,13.875,9,in,yes,yes,yes,1801,1900,"Property from Private Collection, Chicago, Illinois.",N/A,N/A,N/A,original,"Berthe Morisot
+(French, 1841-1895)
+Le Berger et ses Moutons (Vie de Ferme)
+colored crayon on paper
+stamp initialed B.M. (lower right; Lugt 388a)
+
+9 x 13 7/8 in. (22.9 x 35.2cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+Yves Rouart has confirmed the authenticity of this work.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/659f1a2d-d41a-4847-af8c-689c47616f12,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/2,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1538.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+4654a37f-5f9e-4ca5-b0ec-0cc122050da0,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 3,USD,2500,4000,5120,4000,2500,4000,5120,4000,Camille Pissarro,1830,1903,Ligne de Dieppe,drawing,pencil on paper,N/A,6.25,3.75,in,yes,yes,yes,1886,1886,George Dobry Collection,N/A,N/A,N/A,original,"Camille Pissarro
+(Danish/French, 1830-1903)
+Ligne de Dieppe, c. 1886
+pencil on paper
+initialed C.P. and titled indistinctly (lower right)
+
+3 3/4 x 6 1/4 in. (9.5 x 15.9cm)
+
+Property from Private Collection, Chicago, Illinois.
+
+This lot is located in Philadelphia.
+This lot will be included in the forthcoming catalogue raisonné of Camille Pissarro's drawings currently being prepared by Mr. Joachim Pissarro.Provenance:George Dobry Collection",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/91100a8c-38be-490c-9b18-c5520bdeb925,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/3,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3193.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3700.0,3083.3333333333335
+e7cd19f1-1a43-4fdf-a0ce-227d2379c1b0,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 4,USD,2000,3000,4160,3250,2000,3000,4160,3250,Camille Pissarro,1830,1903,Pommiers,drawing,pencil on paper laid down to card,N/A,11.75,7.75,in,no,yes,yes,1801,1900,"Sotheby's New York, 1980 (sale date unknown). The Collection of Edward R. Schaible.",N/A,N/A,N/A,original,"Camille Pissarro
+(French, 1830-1903)
+Pommiers
+pencil on paper laid down to card
+titled (top center)
+
+sheet size: 7 3/4 x 11 3/4 in. (19.7 x 29.8cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+This lot will be included in the forthcoming catalogue raisonné of Camille Pissarro's drawings currently being prepared by Mr. Joachim Pissarro.Provenance:Sotheby's New York, 1980 (sale date unknown).The Collection of Edward R. Schaible.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/52ea5546-aaf9-4390-8603-12e1d9006d71,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/4,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,2043.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+3b21980e-f827-49d2-8f9b-32f12a34f31a,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 5,USD,3000,5000,5760,4500,3000,5000,5760,4500,Constantin Kluge,1912,2003,La Place de la Madeleine,painting,oil on canvas,N/A,45.75,35.5,in,yes,yes,yes,1901,2000,"Wally Findlay Galleries, Palm Beach, Florida. Bonhams California, sale of November 14-15, 2016, lot 339. Acquired from the above sale by the present owner.",N/A,N/A,N/A,original,"Constantin Kluge
+(French, 1912-2003)
+La Place de la Madeleine
+oil on canvas
+signed C. Kluge- (lower right); titled (on the stretcher)
+
+35 1/2 x 45 3/4 in. (88.9 x 116.2cm)
+
+Property of a California Collector
+
+This lot is located in Chicago.
+Provenance:Wally Findlay Galleries, Palm Beach, Florida.Bonhams California, sale of November 14-15, 2016, lot 339.Acquired from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/13bab0d5-ccaf-4778-a77a-ea4a8e8e5d7b,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/5,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3048.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+a689d072-da2a-47a2-ae47-c247a0512252,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 6,USD,4000,6000,5440,4250,4000,6000,5440,4250,Constantin Kluge,1912,2003,Le Marché aux Fleurs,painting,oil on canvas,N/A,39.5,32,in,yes,yes,yes,1901,2000,"Bonhams Los Angeles, sale of November 15, 2016, lot 606. Acquired from the above sale by the present owner.",N/A,N/A,N/A,original,"Constantin Kluge
+(French, 1912-2003)
+Le Marché aux Fleurs
+oil on canvas
+signed C. Kluge- (lower left)
+
+32 x 39 1/2 in. (81.3 x 99.7cm)
+
+Property of a California Collector
+
+This lot is located in Chicago.
+Provenance:Bonhams Los Angeles, sale of November 15, 2016, lot 606.Acquired from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c1fb53d7-ecc7-420c-9cf0-d96afcba5589,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/6,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,4438.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+430e81f4-aa2c-4808-9e00-87161d071c70,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 7,USD,8000,12000,15360,12000,8000,12000,15360,12000,Pierre Eugène Montézin,1874,1946,Les Étangs de la Reine Blanche à Chantilly,painting,oil on canvas,N/A,29.125,21.25,in,yes,yes,yes,1901,2000,"Property from a Private Collection, New York",N/A,N/A,N/A,original,"Pierre Eugène Montézin
+(French, 1874-1946)
+Les Étangs de la Reine Blanche à Chantilly
+oil on canvas
+signed Montézin (lower center right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+21 1/4 x 29 1/8 in. (54 x 74cm)
+
+Property from a Private Collection, New York
+
+This lot is located in Philadelphia.
+The authenticity of this work has been confirmed by Cyril Klein-Montézin.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b0fd0988-a0dc-4039-ac3a-7719ad7a88f0,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/7,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+75a58697-89b3-45f1-ac1d-64edf620ccd4,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 8,USD,5000,8000,N/A,N/A,5000,8000,N/A,N/A,Emilio Grau Sala,1911,1975,"Fleurs, Paris",painting,oil on canvas,N/A,25.5,21.25,in,yes,yes,yes,1969,1969,N/A,N/A,N/A,N/A,original,"Emilio Grau Sala
+(Spanish, 1911-1975)
+Fleurs, Paris, 1969
+oil on canvas
+signed Grau Sala, titled, dated, and located (on the reverse)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm
+
+21 1/4 x 25 1/2 in. (54 x 64.8cm)
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5a0c1b5c-7444-4e27-94b6-2b24d9e5d2f4,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/8,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,6398.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+1203ed21-5aeb-47af-8095-582f6c095827,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 9,USD,40000,60000,51200,40000,40000,60000,51200,40000,Grigory Gluckmann,1898,1973,Ballet Dancer,painting,oil on panel,N/A,24,32,in,yes,yes,yes,1901,2000,"Dalzell Hatfield Galleries, Los Angeles, California. George Stern Fine Arts, West Hollywood, California.",N/A,N/A,N/A,original,"Grigory Gluckmann
+(Belarusian, 1898-1973)
+Ballet Dancer
+oil on panel
+signed GLUCKMANN (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+32 x 24 in. (81.3 x 61cm)
+
+This lot is located in Philadelphia.
+Provenance:Dalzell Hatfield Galleries, Los Angeles, California.George Stern Fine Arts, West Hollywood, California.Lot Note:Born in Russia, later active in Paris, and ultimately settled in the United States, Gluckmann developed a deeply personal and immediately-recognizable-style that bridged classical tradition with a distinctly modern sensitivity. Over the course of his career, such a blended approach found its most compelling expression in his depictions of ballerinas and dancers. The theme of the ballerina has a long and familiar history in art. Yet unlike the theatrical, onstage dynamism most famously associated with Edgar Degas, Gluckmann offers a quieter, more introspective vision. His dancers exist in moments of pause rather than performance: seated backstage, stretching, or absorbed in thought. In works such as Ballet Dancer, or Seated Dancer (Lot 10), the emphasis shifts from spectacle to mood, inviting the viewer into an intimate and contemplative space. This restraint gives both paintings a subtle but powerful emotional depth.A key element of their appeal lies in Gluckmann’s technique. After leaving Russia in the wake of the Russian Revolution in 1917, the artist spent formative years in Italy studying the Old Masters, an experience that left a lasting imprint on his work. In each painting, the figures emerge through delicate layers of thin, translucent glazes, producing a soft luminosity that echoes the diaphanous quality of the dancers’ tutus, and bathes the dancers in a gentle, almost glowing light. Critics have compared this treatment of flesh to that of Giorgione, noting a similar sense of warmth and understated sensuality.Gluckmann approached his work with patience and precision, often devoting many months (sometimes close to a year) to a single composition. These ambitious canvases were typically conceived as the centerpiece of his exhibitions, frequently held in Pomona at Dalzell Hatfield Galleries. They reflect not only his technical mastery but also his commitment to creating paintings of ethereal, yet enduring presence.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e9210783-73ba-4e82-b59e-762702ab03d0,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/9,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,44480.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,52000.0,43333.333333333336
+a5fa4a31-3f64-4400-8474-b395937bf8de,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 10,USD,30000,50000,38400,30000,30000,50000,38400,30000,Grigory Gluckmann,1898,1973,Seated Dancer,painting,oil on panel,N/A,12.5,20,in,yes,yes,yes,1901,2000,"Weiss Galleries, New York. Debra Force Fine Art, New York.",N/A,N/A,N/A,original,"Grigory Gluckmann
+(Belarusian, 1898-1973)
+Seated Dancer
+oil on panel
+signed GLUCKMANN (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+20 x 12 1/2 in. (50.8 x 31.8cm)
+
+This lot is located in Philadelphia.
+Provenance:Weiss Galleries, New York.Debra Force Fine Art, New York.Lot Note:See Lot 9 for more information about the artist.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ea759e60-3a83-4b3f-afae-4bc48f608dc5,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/10,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,38040.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,42000.0,35000.0
+bdfaa7df-2f1a-4f53-b900-9e5c768dfc24,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 11,USD,1000,1500,3840,3000,1000,1500,3840,3000,Pavel Tchelitchew,1898,1957,Costume Study,drawing,ink and wash on paper,N/A,8.5,11,in,yes,yes,yes,1942,1942,"The Artist. A gift from the above in 1945. Collection of Pericles ""Perry"" Embiricos, Monaco. A gift from the above in the 1960s. Private Collection, Athens, Greece.",N/A,N/A,N/A,original,"Pavel Tchelitchew
+(Russian, 1898-1957)
+Costume Study, 1942
+ink and wash on paper
+signed P. Tchelitchew and dated (lower right); also dedicated a Perry/Amicalement/Pavlik 1945 (lower left)
+
+11 x 8 1/2 in. (27.9 x 21.6cm)
+
+This lot is located in Philadelphia.
+Provenance:The Artist.A gift from the above in 1945.Collection of Pericles ""Perry"" Embiricos, Monaco.A gift from the above in the 1960s.Private Collection, Athens, Greece.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e32f1129-9d77-426d-bf37-6fb50296a91d,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/11,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1028.9,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+ed94d30b-27d2-497f-a1c7-dc6698132641,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 12,USD,2000,3000,2560,2000,2000,3000,2560,2000,Pavel Tchelitchew,1898,1957,Leaf Children (Figure Studies),drawing,India ink and brush on paper,N/A,10.75,8.25,in,no,yes,yes,1901,2000,The Estate of Alexander Znoussoiloff.,N/A,N/A,N/A,original,"Pavel Tchelitchew
+(Russian/American, 1898-1957)
+Leaf Children (Figure Studies)
+India ink and brush on paper
+inscribed Figure Studies (verso)
+
+8 1/4 x 10 3/4 in. (21 x 27.3cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+Provenance:The Estate of Alexander Znoussoiloff.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/434dc3b9-2248-4c4c-8ecf-f99f74adcc2d,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/12,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1907.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+644e0aaf-93fc-4d8c-b6e0-a0402040a069,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 13,USD,20000,30000,20480,16000,20000,30000,20480,16000,Florencio Molina Campos,1891,1959,Los Gauchos Por La Noche,painting,tempera on artist's board,N/A,21.625,15.125,in,yes,yes,yes,1947,1947,"Private collection, Argentina. By descent to the current owner.",N/A,N/A,N/A,original,"Florencio Molina Campos
+(Argentine, 1891-1959)
+Los Gauchos Por La Noche, 1947
+tempera on artist's board
+signed F. Molina Campos and dated (lower left)
+
+15 1/8 x 21 5/8 in. (38.4 x 55cm)
+
+This lot is located in Chicago.
+We are grateful to Marcos Bledel for confirming the authenticity of this work. Provenance: Private collection, Argentina.By descent to the current owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f608ce70-a257-4e16-99e5-be2e7e80bab6,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/13,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,20408.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,27500.0,22916.666666666668
+c0435e2c-10ad-4587-9806-56bc4142944a,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 14,USD,20000,30000,24320,19000,20000,30000,24320,19000,Florencio Molina Campos,1891,1959,"Los Gauchos, Tres de Mayo",painting,tempera on artist's board,N/A,21.75,15,in,yes,yes,yes,1947,1947,"Private collection, Argentina. By descent to the current owner.",N/A,N/A,N/A,original,"Florencio Molina Campos
+(Argentine, 1891-1959)
+Los Gauchos, Tres de Mayo, 1947
+tempera on artist's board
+signed F. Molina Campos and dated (lower left)
+
+15 x 21 3/4 in. (38.1 x 55cm)
+
+This lot is located in Chicago.
+We are grateful to Marcos Bledel for confirming the authenticity of this work. Provenance: Private collection, Argentina.By descent to the current owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4fa33767-6190-43c9-9b88-1e1cbb143d6f,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/14,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,20408.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,27500.0,22916.666666666668
+1196807b-23b7-4d38-a286-4dfcc2816e84,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 15,USD,4000,6000,2560,2000,4000,6000,2560,2000,Ángel Botello,1913,1986,Four Seated Figures,drawing,ink on oil-based paper,N/A,15.25,12.625,in,yes,yes,yes,1950,1950,N/A,N/A,N/A,N/A,original,"Ángel Botello
+(Spanish, 1913-1986)
+Four Seated Figures, c. 1950
+ink on oil-based paper
+signed Botello (lower right); inscribed 16 (upper left)
+
+12 5/8 x 15 1/4 in. (32.1 x 38.7cm)
+
+This lot is located in Philadelphia.
+We would like to thank Juan Botello for his kind assistance with cataloging this lot and for providing the circa date for the painting. The artwork was executed as part of a series the artist executed in Haiti.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7f60a47a-3c24-4262-9b12-49572b91e4d0,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/15,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3800.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+6cde2170-465c-4ec6-9b2e-0c3a894e95a6,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 16,USD,3000,5000,5120,4000,3000,5000,5120,4000,Diego Rivera,1886,1957,The Pensive Man,drawing,pencil on paper laid down to card,N/A,10.25,13,in,yes,yes,yes,1927,1927,"Collection of John J. Dobry. Collection of George M. Dobry, 1979.",N/A,N/A,N/A,original,"Diego Rivera
+(Mexican, 1886-1957)
+The Pensive Man, 1927
+pencil on paper laid down to card
+signed Diego Rivera and dated (lower left)
+
+sheet size: 13 x 10 1/4 in. (33 x 26cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+We wish to thank Professor Luis–Martín Lozano for his kind assistance in the research and cataloguing of the present work.Provenance:Collection of John J. Dobry.Collection of George M. Dobry, 1979.Lot Note:At the end of 1927, Diego Rivera was invited to participate in activities surrounding the tenth anniversary of the Russian Revolution in Moscow, in part due to his growing artistic reputation abroad, but also because of his Marxist politics. He finished up his current mural projects in Mexico and, with very little money for travel, made a stop in New York City on his way to Moscow, where he sold several drawings and studies to his art dealers there to obtain an advance to finance his travels. Once in Moscow, Rivera joined other artists whom he had met in Paris in supporting Trotsky, as Stalin's power was growing. The Stalinist regime canceled Rivera's projects in Russia and forced him to leave, returning to New York and then Mexico empty handed.The present drawing, The Pensive Man, comes from this period, when Rivera was trying to raise funds for his travels to and from Russia. While the sitter is unknown, the drawing represents a study of personality and psychology, an example of his style and sensibility in the late 1920s. The movement of the hand and the look in the eyes show Rivera’s close study of character and the quality of his work, as he was working to establish himself financially. In the following year, Rivera traveled to San Francisco, selling paintings to collectors there and engaging in new mural projects, where he discovered a more reliable audience in America, which helped him gain independence and stability as an artist.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5e2aed20-b6d0-4dfa-a662-69ceab4d5388,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/16,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3068.9,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+b8c492fd-730c-4ddc-9e10-12304a54cdfa,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 17,USD,10000,15000,11520,9000,10000,15000,11520,9000,Francisco Zúñiga,1912,1992,Desnudo de Victoria,sculpture,bronze with verdigris patina,N/A,N/A,16.25,in,no,yes,yes,1964,1964,Acquired in the early 1970s. Thence by descent to the present owner.,N/A,N/A,N/A,original,"Francisco Zúñiga
+(Mexican, 1912-1992)
+Desnudo de Victoria, 1964
+bronze with verdigris patina
+inscribed Zuniga, dated, and numbered I/III (rear of figure)
+
+Height: 16 1/4 in.
+
+Property of a Lady, Fountain Hills, Arizona
+
+This lot is located in Chicago.
+Provenance:Acquired in the early 1970s.Thence by descent to the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/74258f3b-c54d-46e4-8e62-6ddeec3e43f8,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/17,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10100.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13500.0,11250.0
+cecb710d-2c3a-4066-8e4d-3f0e32a72800,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 18,USD,50000,70000,N/A,N/A,50000,70000,N/A,N/A,Henri Matisse,1869,1954,Pensive Woman,drawing,ink on paper,N/A,8.375,10.5,in,yes,yes,yes,1901,1930,"Me Martin, Versailles, sale of March 31, 1968. Galerie Ile de France, Paris, by April 1968. Private Collection. La Boetie, New York. Henry Reed. Kay Hillman, New York. Acquired directly from the above in 1983. Judith Rothschild. The Judith Rothschild Foundation, New York. Private Collection, New York.",N/A,N/A,N/A,original,"Henri Matisse
+(French, 1869-1954)
+Pensive Woman, c. 1906
+ink on paper
+signed Henri Matisse (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+10 1/2 x 8 3/8 in. (26.7 x 21.3cm)
+
+This lot is located in Philadelphia.
+A certificate for this work was issued in 1968 by Marguerite Duthuit, but is no longer extant. A letter of confirmation will be issued by Georges Matisse at the buyer’s request.Provenance:Me Martin, Versailles, sale of March 31, 1968.Galerie Ile de France, Paris, by April 1968Private Collection.La Boetie, New York.Henry Reed.Kay Hillman, New York.Acquired directly from the above in 1983.Judith Rothschild.The Judith Rothschild Foundation, New York.Private Collection, New York.Exhibited:Washington, D.C., National Gallery of Art, Encounters with Modern Art: Works from the Rothschild Family Collections, September 22, 1996 - January 26, 1997, p. 174, illustrated (and traveling to Philadelphia Museum of Art, March 2 - May 11, 1997).Literature:Pierre Schneider, Matisse, New York: Rizzoli, New York, 1984, p. 230 (illus.).Lot Note:Henri Matisse executed the ink drawing Pensive Woman around 1906, at a crucial moment when he was gaining recognition in avant-garde circles, exhibiting his new “Fauve” paintings to the shock of many critics. Along with fellow painters André Derain and Maurice de Vlaminck, Matisse was experimenting with bold color and outline, culminating in his mural-sized painting Le Bonheur de Vivre, currently in the Barnes Foundation collection in Philadelphia, a vibrant early masterpiece that influenced generations of artists to come.While drawing did not come as easily to Matisse as his explorations of color, he worked diligently in his early career to build his drawing skill because he saw it as fundamental to his practice. Much later in his career, in Notes of a Painter on his Drawing, in 1939, Matisse wrote: “My line drawing is the purest and most direct translation of my emotion. The simplification of the medium allows for that. … I have always seen drawing … above all as a means of expression of ultimate feelings and states of mind, but a means that is condensed in order to give more simplicity and spontaneity to the expression which should be conveyed directly to the spirit of the spectator.” Pensive Woman encapsulates this spontaneity, its quick lines moving freely around the paper, cascading down her shoulder in a river of movement and agility. The quiet, contemplative figure contrasts with the frenetic pace of the line, creating a tension that brings the work to life.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7eea2564-4e9a-4bec-b7fe-36f1afb3ca65,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/18,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,63930.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,65000.0,54166.66666666667
+068a203c-dad7-40a1-9aab-c6a2833d3924,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 19,USD,50000,70000,44800,35000,50000,70000,44800,35000,Gaston Lachaise,1882,1935,Dans La Nuit (Lovers),sculpture,bronze with dark brown patina,41.25,89.5,33,in,no,yes,yes,1935,1935,"Lachaise Foundation, Boston, Massachusetts. Robert Schoelkopf Gallery, New York, New York. Acquired directly from the above in October, 1984. Private Collection, New York. Thence by descent in the family to the present owner.",N/A,N/A,N/A,original,"Gaston Lachaise
+(American/French, 1882–1935)
+Dans La Nuit (Lovers) [LF 108]
+bronze with dark brown patina
+Stamped LACHAISE/ESTATE and numbered 1/7 (along the base); also stamped MODERN ART FOUNDRY/NEW YORK. and inscribed with the insignias of the Modern Art Foundry and the Art Founders Guild MA AFG and dated 85 (along the base)
+Modeled in 1935, cast in 1985.
+
+Height: 33 in. (83.8cm) / Width: 89 1/2 in. (227.3cm) / Depth: 41 1/4 in. (104.8cm)
+We wish to thank Virginia Budny, author of the forthcoming Catalogue Raisonné of Lachaise’s work (sponsored by the Lachaise Foundation), for her assistance in preparing the catalogue entry for the present work.Provenance:Lachaise Foundation, Boston, Massachusetts.Robert Schoelkopf Gallery, New York, New York.Acquired directly from the above in October, 1984. Private Collection, New York.Thence by descent in the family to the present owner.Literature:Winslow Ames, “Gaston Lachaise, 1882-1935,” in Parnassus, Vol. 8, no. 4, April 1936, p. 41 (the plaster model referenced).Edward Alden Jewell, “Museums Set the Pace,” in The New York Times, January 19, 1936, p. X9 (the full-scale plaster model referenced).""First Section of Biennial at Whitney: Opens to Public, Showing Sculpture, Drawings, Prints,"" in The Villager (New York, N.Y.), Vol. 3, no. 41-5, January 16, 1936), [clipping] (the plaster model referenced, as Plaster Group).Second Biennial Exhibition, Part One: Sculpture, Drawings, and Prints,"" exhibition catalogue, Whitney Museum of American Art, New York, 1936, n.p, no. 32 (the plaster model referenced as Group, Plaster).Elizabeth C. Baker, “The Late Lachaise, Uncensored at Last,” in Art News, Vol. 63, no. 1, March 1964, pp. 47, 65, fig. 8 (another example illustrated).Los Angeles County Museum of Art, Gaston Lachaise (1882-1935) Sculpture and Drawings, exhibition catalogue, LACMA, Los Angeles, 1964, no. 108 (another example illustrated).The Sculpture of Gaston Lachaise, with an essay by Hilton Kramer, and appreciations by Hart Crane et al., The Eakins Press, New York, 1967/1987, pp. 13, 53, no. 63 (the present model illustrated).William C. Agee, The 1930s: Painting and Sculpture in America, exhibition catalogue, The Whitney Museum of American Art, New York, 1968, n.p., no. 63 (another example illustrated).Donald Bannard Goodall, “Gaston Lachaise, Sculptor,” 2 vols., Ph.D. dissertation, Harvard University, Cambridge, Massachusetts, 1969, Vol. 1, pp. 126, 276, 593, 601-03, 657n.2 (6), 666n.56; vol. 2, pp. 349-50, 452, plate CLIV (the plaster cast and another cast referenced; another example illustrated).Gaston Lachaise, 1882–1935, exhibition catalogue, Cornell University Press, Ithaca, 1974, n.p. (another example referenced).Gerald Nordland, Gaston Lachaise: The Man and His Work, G. Braziller, New York, 1974, pp. 56, 155-56, fig. 87 (another example illustrated).Nelson A. Rockefeller, Alfred H. Barr Jr., and Dorothy Corning Miller, The Nelson A. Rockefeller Collection, Masterpieces of Modern Art, Hudson Hills Press, New York, 1981, p. 98 (another example illustrated).Sam Hunter, Lachaise, Cross River Press, New York, 1993, pp. 209-11, 245 (another example illustrated).Gaston Lachaise, The Monumental Sculpture, exhibition catalogue, Salander-O’Reilly Galleries, LLC, New York, 1994, n.p. (another example illustrated).Anne Barclay Morgan, “Gaston Lachaise, The Monumental Sculpture,” in American Art Review, Vol. 7, no. 5, October–November 1995, pp. 120-21 (another example illustrated).Gaston Lachaise, 1882–1935, exhibition catalogue, Gallimard, Paris, 2007 (English edition), pp. 60-61, 189, plate 36, no. 76 (another example illustrated).Lot Essay:The full-scale model for Dans la Nuit [LF108], a statue of two mature, recumbent, larger-than-life lovers, is one of the very last artistic projects undertaken by Gaston Lachaise before his sudden death in New York City on October 18, 1935. The composition recapitulates that of his summarily modeled early statuette, also named Dans la Nuit [LF 2], that represents two intertwined young lovers, the male awake and watching as the female sleeps peacefully at his side. That statuette, intended as an idea for a future sculpture, was one of the very last works created by Lachaise before leaving France (his native country) in 1905 in pursuit of his American lover, Isabel Duteau (or Dutaud) Nagle (1872-1957), and it clearly expresses his love for her. She had recently returned to her home near Boston, having met him during a three-year stay in Paris to oversee her young son’s education. The two were eventually married in 1917. Like the statuette, the statue in some ways represents an ideal creation intended to have universal significance, yet now the woman clearly resembles Isabel, so that the statue even more explicitly represents a testament to Lachaise’s profound love for her.Lachaise began to create this statue before May 27, 1935, a little more than two and a half months after his retrospective at the Museum of Modern Art in New York City had closed. At the time of his death, the model, composed of an unstable combination of materials, had been left unfinished and vulnerable at his summer home in Georgetown, Maine. Five days later, Lincoln Kirstein, his friend and patron, ordered a waste mold of the model to be made for his widow, and the mold to be brought to New York City for a plaster cast to be made from the new mold. Less than three months later, the resulting plaster cast was exhibited in the Second Biennial of the Whitney Museum of American Art, New York, as it was “the work which he had intended to send” (“Foreward,” Second Biennial Exhibition, Part One: Sculpture, Drawings, and Prints, exhibition catalogue, 1936, n.p.). The first bronze cast of the statue was made in 1938 for Nelson Rockefeller, and was eventually installed by him on the grounds of Kykuit, his estate at Pocantico Hills, New York, where it can be seen today.The Lachaise Foundation, established in 1963, later issued an edition of seven numbered Estate bronze casts to be made from the plaster model. Four bronze casts, including the present example, were made between 1985 and 2003 by the Modern Art Foundry, New York.The Lachaise Foundation has given the number LF 108 to the work.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/51aa842b-abe0-481c-9162-3e78eda2f4f6,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/19,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,60390.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,65500.0,54583.333333333336
+5a82c5c9-098b-478e-8cc3-62ec3069027b,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 20,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,Théo Tobiasse,1927,2012,"Adam, Ève et le Bateau à Roues",mixed media,ink and gouache on paper laid down to card,N/A,9.5,13,in,yes,yes,yes,1967,1967,N/A,N/A,N/A,N/A,original,"Théo Tobiasse
+(French, 1927-2012)
+Adam, Ève et le Bateau à Roues, 1967
+ink and gouache on paper laid down to card
+signed theo tobiasse (lower right); dated (lower left); titled (upper left)
+
+13 x 9 1/2 in. (33 x 24.1cm)
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0cd0ce92-34a1-48c1-a491-3f756d2665d9,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/20,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,2043.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+f9934446-0645-4e0c-8aef-212e61ef4cce,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 21,USD,1500,2500,4160,3250,1500,2500,4160,3250,Pavel Tchelitchew,1898,1957,Anthropomorphic Study,drawing,ink on paper,N/A,12.5,13.875,in,yes,yes,yes,1940,1940,"Collection of Pericles ""Perry"" Embiricos, Monaco, circa 1950. A gift from the above in the 1960s. Private Collection, Athens, Greece.",N/A,N/A,N/A,original,"Pavel Tchelitchew
+(Russian, 1898-1957)
+Anthropomorphic Study, 1940
+ink on paper
+signed P. Tchelitchew and dated (verso)
+
+13 7/8 x 12 1/2 in. (35.2 x 31.8cm)
+
+This lot is located in Philadelphia.
+Provenance:Collection of Pericles ""Perry"" Embiricos, Monaco, circa 1950.A gift from the above in the 1960s.Private Collection, Athens, Greece.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/009c08ca-7236-4be3-81ba-29c26c91c746,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/21,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1910.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2100.0,1750.0
+9be107a1-6c25-40f1-a631-a16dc23ed99a,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 21A,USD,40000,60000,38400,30000,40000,60000,38400,30000,Alexander Archipenko,1887,1964,"Torso (Female Figure), Torse (Var. II)",sculpture,polished terracotta on a round black wooden base,N/A,N/A,24.5,in,yes,yes,yes,1945,1945,"From the historic du Pont residence, Goodstay House and Gardens, Wilmington, Delaware. By descent in the family to the present owner. Private Collection, Pennsylvania.",N/A,N/A,N/A,original,"Alexander Archipenko
+(American/Ukrainian, 1887-1964)
+Torso (Female Figure), Torse (Var. II), 1945
+polished terracotta on a round black wooden base
+signed Archipenko and dated (at the base)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+height: 24 1/2 in. (62.2cm)
+This lot will be included in the Alexander Archipenko catalogue raisonné as CR no. s.45-01, work no. 6476. It is one of two casts by the artist in terracotta. Provenance:From the historic du Pont residence, Goodstay House and Gardens, Wilmington, Delaware.By descent in the family to the present owner.Private Collection, Pennsylvania.Lot Note:The other example is currently held in the Rose Art Museum at Brandeis University.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/48fea6b8-a021-4763-b0e6-20e2e842dff9,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/21a,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,44188.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,52000.0,43333.333333333336
+d9db599f-8d0a-472c-8df4-3a752abf398d,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 22,USD,300000,500000,1522000,1200000,300000,500000,1522000,1200000,Josef Šíma,1891,1971,Europa,painting,oil on canvas,N/A,28.75,39.25,in,yes,yes,yes,1927,1927,"The Artist, Paris. Acquired directly from the above in 1927-1928. Collection of Mr. Bernard Davis, Philadelphia. Acquired directly from the above, circa 1952. Collection of Robert Sturgis Ingersoll, Philadelphia, Pennsylvania. By descent in the Ingersoll family to the present owners.",N/A,N/A,N/A,original,"Josef Šíma
+(Czech, 1891-1971)
+Europa, 1927
+oil on canvas
+signed Šíma (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-25 and April 27-29, 10am-5pm.
+
+It will be presented in Philadelphia, at 2400 Market Street on Sunday April 26, from 10am to 5pm.
+
+39 1/4 x 28 3/4 in. (99.7 x 73cm)
+
+Property from the Ingersoll Family Collection, Philadelphia, Pennsylvania
+
+This lot is located in New York.
+We wish to thank Dr. Rea Michalová, PhD and David Frank of the Trinity Art Research for confirming the authenticity of the present lot. Provenance:The Artist, Paris.Acquired directly from the above in 1927-1928.Collection of Mr. Bernard Davis, Philadelphia.Acquired directly from the above, circa 1952. Collection of Robert Sturgis Ingersoll, Philadelphia, Pennsylvania. By descent in the Ingersoll family to the present owners. Literature:Georges Ribemont-Dessaignes, “Sima” in Cahiers d’Art, Paris, 1928, p. 175 (erranesouly listed as exhibited at the Aventinská mansarda, Prague).Život 14 (Life), 1935–1936, p. 76 (erroneously illustrated with the Europa now in the Moravian Gallery, and identified as ‘Electricity’ in the collection of František Dvořáček)Lot Essay:Šíma is one of those painters, uncommon in our culture, who see the mysteriously grand, the cosmic. He discovers it not in the multiplicity or fullness of things, but in a few elements of narrow span, often a single chord … I do not know of another painter who has maintained with such purity and steadfastness this contemplative attitude which is more familiar through the poets than the painters. - Meyer Schapiro Europa is a pivotal work in the career of Josef Šíma, one of the most prominent Czech painters of the twentieth century. Painted in Paris in the summer of 1927, it marks a decisive turning point in the artist’s career and creative expression, as well as in the entire Parisian avant-garde movement. A CZECH IN PARISBorn in 1891 in Jaroměř, near the present-day Polish border, Josef Šíma received his early training in Prague under the Symbolist painter Jan Preisler, before continuing his studies from 1913 at the Brno University of Technology. As the scholar Monique Faux has observed, Šíma’s engagement with the natural sciences, mathematics and physics ""gave his poetic spirit a solid foundation and directed him towards scientific thinking, which he used as a powerful tool for structural reflection, refining it with his intuition."" His formative years were interrupted by service on the front during the World War I, which would leave a lasting imprint on his intellectual and artistic outlook. By the end of 1920, Šíma relocated to France, and in the autumn of 1921 he settled in Paris, then the undisputed capital of the art world, where he would remain for the next five decades. In the French capital, Šíma entered a vibrant intellectual milieu, forging lasting connections with figures such as Tristan Tzara, Le Corbusier, Piet Mondrian, Theo van Doesburg, František Kupka, Robert Delaunay, and Amédée Ozenfant. In 1922, he participated in the landmark Spring Exhibition of Devětsil, marking the beginning of a close and sustained collaboration with one of the most influential Post-War Czech groups. He was elected a full member the following year and served as its foreign correspondent, a role that allowed him to maintain vital intellectual and artistic ties with his native country while remaining actively engaged in the Parisian avant-garde.Until 1927, Josef Šíma gravitated toward Surrealist circles, exhibiting in the Surrealist section of the Salon des Surindépendants. In 1926, he met André Breton in Paris through their mutual acquaintance Jean Arp. Although Breton invited Šíma to exhibit again in 1927, their relationship remained distant: Breton appears to have viewed Šíma’s quasi-mystical intensity with a degree of suspicion: an attitude that foreshadowed the broader opposition that would soon emerge between their respective circles and movements. LE GRAND JEUIn 1927, Šíma co-founded Le Grand Jeu alongside the poets Roger Gilbert-Lecomte and René Daumal, following a decisive, almost revelatory meeting in June of that same year. The origins of the group, however, date back to 1922, when Gilbert-Lecomte, Daumal, along with Roger Vailland, and Robert Meyrat (then students at the lycée de Reims) formed an initiatory circle known as the “Simplistes.” Their aim was to strip away the artifices of Western civilization and recover a primordial, childlike state of perception. They engaged in experimental practices, including explorations of altered consciousness and extrasensory experience, seeking a lived form of poetry inspired by their idol, Arthur Rimbaud, that could lead to deeper collective knowledge.A decisive figure in the group’s formation was Léon-Pierre Quint, who became their patron and, through his introduction to Richard Weiner, facilitated their pivotal encounter with Josef Šíma. Recalled by contemporaries as a “miracle Šíma,” this meeting marked the artist’s immediate and profound integration into the circle. He soon emerged as its central, unifying force and from October 1927 onward, the group convened weekly in his studio at Cour de Rohan in Paris, which became the nucleus of their activity. In his seminal text Ce que Devrait Être la Peinture, Roger Gilbert-Lecomte positioned Šíma at the forefront of modern painting; by 1930, he would place him alongside Pablo Picasso, Joan Miró, and André Masson, in deliberate opposition to Giorgio de Chirico, Salvador Dalí, and René Magritte. Like their Surrealist contemporaries, the members of Le Grand Jeu explored dreams, sleep, memory, and the unconscious. Yet their ambitions reached further: they sought moments of sudden illumination and visionary exaltation capable of revealing the deeper reality of the visible world. Their guiding principle was “to turn everything and every moment into a question—question everything, reject everything, and at the same time accept everything.” Under the artistic direction of Josef Šíma, the group organized exhibitions, the first of which resonated as far as Prague, where it was perceived as a luminous signal amid a spiritually fatigued bourgeois Paris. At the same time, the group published a short-lived journal (three issues in total), which embodied a dual aspiration: engaging with the avant-garde and, more fundamentally, sharing a commitment to transformation. Their aim was not to change art, but to change themselves. In this respect, they sought to surpass Dada, which, while having succeeded in liberating art from convention, had, in their view, failed to liberate the human being from the constraints of Western imperatives.1927, A PIVOTAL YEAR Following a period during which he devoted himself primarily to drawing and illustration, Šíma returned to painting in the Spring of 1927. Until then, Šíma’s work had been largely non-representational, reflecting the influence of Mondrian. However, his style underwent a decisive transformation following his encounter with the writer Pierre Jean Jouve, a reader of Sigmund Freud. From this point onward, Šíma developed a radical transformation in his pictorial language marked by recurring symbolical motifs such as crystals, obelisks, trees, and eggs, through which he sought to translate his inner world and visionary experiences. A lifelong project began to emerge: that of the regeneration of the human spirit and the restoration of unity between man and the world. This symbolic system, developed in connection with Le Grand Jeu, remained central to his practice thereafter; he never abandoned it. Josef Šíma himself commented on this period, saying that it represented the beginning of finding the ""definitive form"" of his artistic work. EUROPAEuropa represents the culmination of his imaginative exploration. With this painting, Šíma transports the viewer into an oneiric realm that escapes conscious experience and surpasses the limits of rational comprehension. The composition presents two merging torsos inspired by Paleolithic statues. Suspended in levitation against a dark, indeterminate void evocative of the universe, one is partially flanked by a blue mantle and surmounted by a monumental egg. Though rendered with striking clarity, these forms float freely in space, untethered from the laws of logic or physics. In forging unexpected relationships between these elements, Šíma arrests the viewer, compelling a direct confrontation with meaning itself.The floating bodies evoke independence, elevation, and the abolition of time and space. The egg, at once a symbol of life, immortality, and, on a cosmological level, the universe, evokes genesis, projecting the scene into the mythic instant of the world’s creation. Here, everything becomes a metaphor for origin, perpetual return and liberation. Europa operates as a reversion to a primordial time, a sacred moment when humanity existed in unity with nature and the cosmos, freely. As Šíma confided to Richard Weiner, these forms were not invented but “received,” as if revealed to him. In contrast to the more explicitly Freudian symbolism of Surrealism, Šíma summons an imagery that seems already inscribed within us i.e. latent memories reawakened in flashes of revelation, as though recalling an origin we humans, have always known. The torsos and the egg should not be understood as conventional symbols, but rather as archetypal forms emerging from the depths of our shared human psyche, charged with a mythic resonance that should look and sound familiar to us. As Šíma himself suggested, such forms are not easy to reach, however. They demand a different mode of engagement, one that mobilizes reason alongside feeling, intuition, and imagination. In this sense, his imagery may be understood as a primordial language: the native tongue of the unconscious, apprehended most fully in premonitory dreams, and whose meaning can neither be totally translated nor understood.THE COSMIC EGGEuropa occupies a central position within Josef Šíma’s celebrated series devoted to the motif of the egg, a form that emerged as a defining element of his visual language in the mid-1920s. The egg first appears in 1926 in Šíma’s stage design for Le Bourreau du Pérou by Georges Ribemont-Dessaignes, and shortly thereafter in preparatory drawings for the album Paris in early 1927. It rapidly assumed a central role in a number of key compositions, often in conjunction with recurring motifs such as fragmented bodies, vegetal forms, or clouds.For Šíma, the egg, much like the circle, initially functioned as a perfect, enigmatic form, almost primitive in its simplicity. By the late 1920s, however, it acquired a far richer symbolic resonance. As Marie-Hélène Popelard has observed, Šíma came to associate the egg with ""living, embryonic, and chaotic matter."" This conception aligns with the long-standing mythological and religious notion of the cosmic egg as a primordial source of life; the generative matrix from which existence itself emerges. The leading authority on Šíma, František Šmejkal, similarly identified the archetypal dimension of this motif, drawing parallels with Constantin Brâncuși’s The Beginning of the World (1924), in which the ovoid form becomes a universal symbol of origin.This fascination with origins extended beyond the visual arts. In 1927, the cosmologist Georges Lemaître advanced his theory of the ""homogeneous universe,"" describing a primordial state of matter as an indivisible concentration of energy sometimes referred to as a ""cosmic egg."" Such parallels reveal a broader intellectual climate in which art, science and philosophy converged around questions of genesis and becoming. Within Europa, Šíma developed this symbolism further, conceiving the egg as a figure of unity, above all: from a single, enclosed form unfolds the multiplicity of existence. In its indivisible wholeness, it contains all potential—an origin that is at once singular and infinite.A PRODUCT OF LITERATUREBeyond the central motif of the cosmic egg, Europa stands as an enigmatic work featuring, first and foremost, two torsos. While earlier interpretations proposed a modern reimagining of Adam and Eve, more recent scholarship has convincingly identified the figures as two female bodies. This shift in reading foregrounds the work’s latent eroticism, in which the fragmented female form operates as both a vehicle of desire and its sublimation within Šíma’s poetic visual language.Two key literary sources appear to have catalysed Šíma’s conception of this dual female imagery. The first is Le Nègre (1928) by Philippe Soupault, a surrealist novel centered on a Barcelona prostitute who calls herself Europe and is ultimately killed by the protagonist, Edgar Manning. The more explicitly sensual figure on the right of Šíma’s composition may be understood in relation to this character. This interpretation is further supported by a now-lost painting from 1927 (known through a black-and-white reproduction and formerly in the collection of Roger Vailland), in which a similarly posed torso appears within a nocturnal setting, accompanied by discarded drapery—details that closely parallel Soupault’s narrative.A second literary point of reference may be found in The D.E. Trust: A History of Europe’s Destruction by Ilya Erenburg, published in Czech translation in 1924. Fragmentary, poetic and visionary in form, the text evokes a civilisation in decline while invoking the figure of Europa, the daughter of the Phoenician king abducted by Zeus in the guise of a bull. In Erenburg’s account, she emerges as a figure of profound ambiguity: at once radiant and debased, a duality that resonates strongly with Šíma’s composition here. Within this framework, the more restrained figure on the left may be read as an evocation of the mythological Europa, whose name was ultimately bestowed upon the Old continent itself. This interpretation is reinforced by formal parallels with Šíma’s cover design for the 1925 Czech edition of L’Autruche aux Yeux Clos by Georges Ribemont-Dessaignes. Conceived as a photomontage, the design juxtaposes a classical sculptural type reminiscent of the Aphrodite of Knidos, with a modern female figure, thus establishing a dialogue between antiquity and contemporaneity that finds a compelling and fully realized expression in Europa. A MONSTRUOUS WORKThe significance of Europa within Josef Šíma’s oeuvre was recognised from the moment of its creation. The painting notably appears in a celebrated cartoon dated 24 December 1927 by Adolf Hoffmeister, depicting one of the earliest gatherings of the Le Grand Jeu at Šíma’s Paris studio. Wryly captioned Young Generation in the Embryotic State, the drawing captures Hoffmeister’s autumn visit to Paris and portrays figures such as Roger Vailland, Artür Harfaux, René Daumal and Roger Gilbert-Lecomte. Šíma himself is absent, evoked instead through the presence of Europa within the composition, accompanied by his dog seated in the foreground. In this context, the painting assumes a surrogate role, as though embodying the artist himself, and acting as a testament to his conception of painting as an autonomous visual poem.Even when presented in Šíma’s one-man exhibition in Prague in March 1928, Europa was widely regarded as the keystone of the presentation. Within the exhibition, Europa stood out as its most enigmatic work, distinguished both by its striking visual qualities (namely the sensual interplay of pale, sculptural torsos and a monumental oval set against a deep black ground) and by the ambiguity of its title, which resists any immediate or literal correspondence with the scene depicted. The Czech poet and critic Karel Teige observed that ""the monstrous, chimerical, mysterious, and bizarre forms of Šíma’s paintings are images of the negative of life: dreams…"", situating the work firmly within the intellectual and aesthetic ambitions of the interwar avant-garde. ""THE REDISCOVERY OF THE CENTURY""Until the emergence of Freeman’s version of Europa, the composition was known only through a single, presumed unique example, now held in the Moravian Gallery in Brno. This painting was formerly owned by the Prague publisher Otakar Storch-Marien, who acquired it directly from Josef Šíma’s studio in 1927 for display in the Aventinská Mansarda gallery, which he founded that same year with the aim of establishing a publicly accessible collection of Czech modern art. The reappearance of a second version prompted curiosity, and speculations. Ultimately, it led to a months-long extensive technical and art-historical investigation at Trinity Art Research in Prague, under the supervision of Rea Michalová and conservator David Frank.Advanced imaging methods, including X-radiography, ultraviolet luminescence, infrared reflectography, and high-intensity light analysis, revealed a highly controlled and sophisticated working process overall. Central to the authentication of the painting was Šíma’s distinctive and inimitable technique, characterized by a thin, restrained, watercolor-like handling of oil paint. Underneath, a minimal yet precise pencil underdrawing that defines the essential forms of the composition was visible. The resulting surface, marked by delicate transitions and refined anatomical rendering, produces an ethereal visual that is arguably, and exceptionally, difficult to channel. Infrared imaging additionally revealed a previously obscured signature at bottom right, which the artist etches onto the paint layer with the bottom of his paint brush, while the painting’s untouched condition preserved its original material integrity. X-ray imaging also revealed pentimenti, including revisions to the upper-right background, providing insight into an evolving compositional process and strongly suggesting that the present work constitutes an original and possibly primary version: the prototype which would led to the Moravian’s version of Europa. Alongside close physical comparison with key works by Josef Šíma from the same period—including M (Egg Balance MZ) (1927), Electricity (1927), Vampire (1928), and Portrait of Berenice Abbott (1928)— a direct, side-by-side examination was undertaken with the painting preserved in the Moravian Gallery in Brno. This rare opportunity for immediate visual confrontation proved decisive in establishing the present work’s attribution. The two compositions reveal striking material concordances: both employ identical pigments, notably lead white, and share the same type of canvas, ground preparation in a characteristic orange-terracotta tonality, and construction features such as a French stretcher, original tacking edges, and period nails. These technical affinities are entirely consistent with Šíma’s practice during his Parisian years in the late 1920s.At the same time, the comparison underscores important distinctions that affirm the individuality of the present canvas. Differences in scale (our work being of larger dimensions) are accompanied by variations in proportion, the articulation of drapery, and the treatment of anatomy. Particularly notable is the modulation of light and shadow, most evident in the rendering of the egg, where subtle shifts in tonal handling produce a distinct atmospheric and symbolic effect.As Michalová observed, the paintings appear as works of a single artist yet exist in “rare harmony,” each asserting its individuality through confident and non-derivative execution. She concludes: “Each work stands out as entirely unique, demonstrating confident artistic bravura without hesitation.”THE IDEA OF A MASTERPIECE The painting’s tracked historical records are equally compelling. Its first official trace dates back to the 1936 jubilee exhibition catalogue of Josef Šíma, held byUmělecká beseda (Artistic Forum) in Prague. More than a checklist, this publication functioned as a working inventory of the artist’s oeuvre, recording parallel versions and their locations. Crucially, alongside the known Europa in Brno, the catalogue reveals: “Another larger canvas from the same year is in the Davis Collection in Philadelphia.” This confirms that Šíma himself openly acknowledged multiple versions of the composition: a fact long overlooked by modern scholarship.Even more decisive is the painting’s inclusion in the avant-garde journal Cahiers d’Art in 1928, edited by Christian Zervos. The present work, clearly identifiable by its elongated format, is reproduced in this publication, providing early visual confirmation of its existence during the artist’s lifetime. Taken together, these findings challenge the traditional notion of a single “masterpiece,” revealing instead a more complex and experimental creative process. Šíma conceived Europa not as a singular image, but as multiple, equally original works. Rather than copies, they represent parallel acts of creation: a powerful expression of artistic freedom within the Parisian avant-garde. A PHILADELPHIA STORYFrom its early years, Europa was closely associated with the city of Philadelphia. Its first recorded owner was Bernard M. Davis, a Ukrainian-born collector who emigrated to the United States in 1913 and established himself in The City of Brotherly Love as a successful textile entrepreneur and designer. Initially engaged in artistic practice, Davis abandoned painting after concluding that his abilities did not match those of his peers and instead turned to collecting modern art. Known for his eccentric personality and visionary approach, he became an influential patron, particularly of lesser-known and Eastern European artists, a focus facilitated by his fluency in several Slavic languages. His activities extended beyond collecting: as founder of the Miami Museum of Modern Art in 1962, he played a significant role in promoting international modernism, introducing numerous artists to American audiences and fostering cross-cultural exchange.Although the precise date of Davis’s acquisition of Europa remains uncertain, it is highly probable that he obtained the work shortly after its creation, likely directly from Šíma’s Paris studio at Cour de Rohan, a site that functioned as both a workspace and a cultural meeting point for the avant-garde circle associated with Le Grand Jeu. Around 1952, when Davis sold his Rittenhouse Square apartment, the painting entered the collection of Robert Sturgis Ingersoll, Sr. (1891–1973). A prominent Philadelphia lawyer, philanthropist, and major figure in American cultural life, Ingersoll served as director of the Philadelphia Museum of Art from 1948 to 1964. He was known as a discerning and forward-looking collector, assembling a significant collection of European modern art, often acquiring works directly from artists and playing a crucial role in introducing them to American audiences. His acquisition of Šíma’s Europa, at a time when the artist’s reputation had waned in Europe and was close to non-existent in the United States, reflects both his exceptional artistic sensitivity and his commitment to supporting overlooked figures within modernism. CONCLUSION With its iconic and enigmatic surrealist imagery, Josef Šíma’s Europa stands as the most significant achievement of the artist’s career. The re-emergence of this extraordinary canvas constitutes a landmark moment, bringing to market a work of true museum caliber. Europa expands and sharpens our understanding of Šíma’s oeuvre, compelling a reevaluation of his artistic legacy. It affirms his place not simply as a major Czech modernist, but as one of the most singular and intellectually sophisticated voices in 20th Century art, which resonates loudly across both European and transatlantic contexts.Europa's distinguished provenance further highlights the decisive role of visionary collectors in propelling Czech modern art onto the international stage. Much like the monumental egg in its composition, Europa becomes a symbol of creation; it contains the seeds of creativity and universality that every artist aspires to reach. Within its core lies the very potential to transcend borders and meanings, thus positioning Josef Šíma not merely as a national pride, but at the apex of a truly global art-historical narrative.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5dec8eb1-f05a-4dea-82c8-aaf7c325911f,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/22,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,N/A,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,437500.0,364583.3333333334
+ea69e7c8-79bb-4a9d-a02f-5acb2a507abd,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 23,USD,6000,8000,7680,6000,6000,8000,7680,6000,Pavel Tchelitchew,1898,1957,Head in Profile (Étude Anatomique),drawing,"pastel, watercolor and gouache on paper",N/A,15,21,in,yes,yes,yes,1949,1949,"Collection of Pericles ""Perry"" Embiricos, Monaco, circa 1950. A gift from the above in the 1960s. Private Collection, Athens, Greece.",N/A,N/A,N/A,original,"Pavel Tchelitchew
+(Russian, 1898-1957)
+Head in Profile (Étude Anatomique), 1949
+pastel, watercolor and gouache on paper
+signed P. Tchelitchew, dated and numbered 49 VII (lower left)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+sheet size: 21 x 15 in. (53.3 x 38.1cm)
+
+This lot is located in Philadelphia.
+Provenance:Collection of Pericles ""Perry"" Embiricos, Monaco, circa 1950.A gift from the above in the 1960s.Private Collection, Athens, Greece.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/810d2f4b-cca6-4f1f-9ca8-4c919a7847f6,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/23,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10283.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+ceb5403c-a26f-4880-ad2e-b06a4a104c9f,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 24,USD,50000,80000,70400,55000,50000,80000,70400,55000,Christian Bérard,1902,1949,"Pair of Cartouches for the ""Bal du Panache"" held at the Maison de L'Amérique Latine, Paris",painting,pair oils on shaped panel,N/A,53.25,29,in,no,yes,yes,1947,1947,"Galerie du Passage, Paris. Sotheby's, New York, sale of June 12, 2009, lot 63. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Christian Bérard 
+(French, 1902–1949)
+Pair of Cartouches for the ""Bal du Panache"" held at the Maison de L'Amérique Latine, Paris, 1947
+pair oils on shaped panel
+inscribed Salon de l'Amérique/Latine (on the reverse of one panel)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+top: 29 x 53 1/4 in. (73.7 x 135.3cm) / bottom: 29 1/2 x 53 1/4 in. (74.9 x 135.3cm)
+
+Property from a Distinguished Residence Designed by Jacques Grange
+
+This lot is located in Philadelphia.
+Provenance:Galerie du Passage, Paris.Sotheby's, New York, sale of June 12, 2009, lot 63.Acquired directly from the above sale by the present owner.Literature:""Paris Notes,"" Vogue, August 1947, p. 157 (for a description of Bérard's decor).Irene Lidova, ""La Nuit du Panache,"" L'Officiel de la Mode, 1947, pp. 66-67, nos. 305-306 (for period images and descriptions of the event).Jean-Claude Daufresne, Fêtes à Paris au XXe Siècle: Architectures Éphémères de 1919 à 1989, Paris, 2001, pp. 205-206.Lot Note:Christian Bérard emerged as a versatile creative figure in early twentieth-century France, working across painting, illustration and stage design. Shaped in part by the intimate, atmospheric work of Édouard Vuillard, he became closely involved with the Parisian avant-garde during the years between the wars. His wide-ranging collaborations brought him into close contact with figures such as Alberto Giacometti, Jean-Michel Frank, Coco Chanel, and Jean Cocteau. Moving easily between disciplines, Bérard became a ubiquitous figure in the Parisian theater scene before his life was cut short at the age of 46.The pair of cartouches here relate to Bérard's set design compositions for the Ballet des Champs-Elysées, created for the ""Bal du Panache"" party which was held at the Maison de l' Amerique Latine, in Paris during the summer of 1947. Bérard conceived of the event, an idea supported by British ambassador Sir Alfred Duff Cooper for the benefit of the Marie-Thérèse Health Center in Malakoff. One of the first few large events hosted after the second World War, the party was seen as a vibrant return to a pre-war glittering Parisian social scene. The décor consisted of vined trellises, painted heraldry and white-plumed suits of armor, and female guests were encouraged to wear feathered hair ornaments. These particular cartouches were incorporated into the elaborate boiseries of the grand salon of Maison de l' Amerique Latine, and remain a rare momento of this ephemeral moment.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4235a07a-bc4b-4129-8580-9a2ceb468f3c,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/24,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,69400.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+94b38e2e-a1cc-4dff-b842-1c5defe16338,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 25,USD,5000,8000,16640,13000,5000,8000,16640,13000,Roger Mühl,1929,2008,La Marée Basse,painting,oil on canvas,N/A,39.25,32,in,yes,yes,yes,1901,2000,"Property from the Wetherill Family Collection, Main Line, Philadelphia and Château de Drouilly, Les Hayes, France",N/A,N/A,N/A,original,"Roger Mühl
+(French/German, 1929-2008)
+La Marée Basse
+oil on canvas
+signed Mühl (lower right)
+
+32 x 39 1/4 in. (81.3 x 99.7cm)
+
+Property from the Wetherill Family Collection, Main Line, Philadelphia and Château de Drouilly, Les Hayes, France
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/504e8cad-6772-4f8a-988f-8b9e1a33000b,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/25,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,6960.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+bb5d3a1a-440b-4748-a514-da707bc09afe,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 27,USD,15000,25000,21120,16500,15000,25000,21120,16500,Jean Dufy,1888,1964,"Place de Clichy, Paris",painting,watercolor and gouache on paper,N/A,22.25,18.5,in,yes,yes,yes,1901,2000,Property from a St. Louis Collection,N/A,N/A,N/A,original,"Jean Dufy
+(French, 1888-1964)
+Place de Clichy, Paris
+watercolor and gouache on paper
+signed Jean Dufy (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+18 1/2 x 22 1/4 in. (47 x 56.5cm)
+
+Property from a St. Louis Collection
+
+This lot is located in Philadelphia.
+The authenticity has been confirmed by Mr. Jacques Bailly and the work will be included in the forthcoming Catalogue Raisonné of the artist's work, accompanied with a photo-certificate of authenticity.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3cf03844-dc52-4040-8cc8-b3eebbecd676,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/27,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,19108.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,22000.0,18333.333333333336
+9e69b2e5-09e0-4789-9756-e44e8d3a3e15,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 28,USD,20000,30000,18560,14500,20000,30000,18560,14500,Henri Jean Guillaume Martin,1860,1943,Cour de Maison,painting,oil on canvas,N/A,15,21.75,in,yes,yes,yes,1901,2000,"Private Collection, France. Sotheby's, London, sale of December 8, 199, lot 254 (as Cour de Bastide). Acquired directly from the above sale. Collection of Robert L. Forbes.",N/A,N/A,N/A,original,"Henri Jean Guillaume Martin
+(French, 1860-1943)
+Cour de Maison
+oil on canvas
+signed Henri Martin (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+21 3/4 x 15 in. (55.2 x 38.1cm)
+
+Collection of Robert L. Forbes
+
+This lot is located in Philadelphia.
+We wish to thank Mme Marie-Anne Destrebecq-Martin for confirming the authenticity of the work, which will be added in the forthcoming Catalogue Raisonné of the artist's work. Provenance:Private Collection, France.Sotheby's, London, sale of December 8, 199, lot 254 (as Cour de Bastide).Acquired directly from the above sale.Collection of Robert L. Forbes.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/db987cd2-8d1c-4fbe-8c0d-3a1b5c925749,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/28,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,25488.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,25500.0,21250.0
+3964ba7d-0930-4513-9f33-2d051354b8f6,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 29,USD,5000,8000,5120,4000,5000,8000,5120,4000,Marcel Dyf,1899,1985,Campagne Bretonne,painting,oil on canvas,N/A,21.5,18,in,yes,yes,yes,1976,1976,"The Artist. Frost & Reed Ltd., London, 1976. Estate of Jacks and Enid Hudig. Bonham's California, sale of November 13-14, 2017, lot 514 (as Avant la Moisson). Acquired from the above sale by the present owner.",N/A,N/A,N/A,original,"Marcel Dyf
+(French, 1899-1985)
+Campagne Bretonne, 1976
+oil on canvas
+signed Dyf (lower right); bears the Artist's stamp and date © MARCEL DYF/1976. (on the reverse)
+
+18 x 21 1/2 in. (45.7 x 54.6cm)
+
+Property of a California Collector
+
+This lot is located in Chicago.
+The authenticity of this work has kindly been confirmed by Madame Claudine Dyf. It is registered in the e-catalogue of Marcel Dyf's work under no. 3009.Provenance:The Artist.Frost & Reed Ltd., London, 1976.Estate of Jacks and Enid Hudig.Bonham's California, sale of November 13-14, 2017, lot 514 (as Avant la Moisson).Acquired from the above sale by the present owner.Exhibited:London, Frost and Reed Ltd. and Christopher Wade Gallery, Exhibition Marcel Dyf, n.d., no. 29, p. 8.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/29c80750-db11-44e6-91fd-c0e901fdfa6f,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/29,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,6398.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+d56c7762-a7a9-4487-a484-950de1fc1b37,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 30,USD,15000,25000,N/A,N/A,15000,25000,N/A,N/A,Frits Thaulow,1847,1906,"Le Long de la Rivière, Normandie",painting,oil on canvas,N/A,21.75,18.25,in,yes,yes,yes,1801,1900,"Sheridan Galleries, Long Beach",N/A,N/A,N/A,original,"Frits Thaulow
+(Norwegian, 1847-1906)
+Le Long de la Rivière, Normandie
+oil on canvas
+signed Frits Thaulow (lower right)
+
+18 1/4 x 21 3/4 in. (46.4 x 55.3cm) 
+
+This lot is located in Chicago.
+We are grateful for Dr. Vidar Poulsson for confirming the authenticity of this work.Provenance:Sheridan Galleries, Long Beach",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7799d14e-d2bd-4379-a440-b94bff4d70a1,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/30,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,19100.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,21000.0,17500.0
+f562f531-f6e7-409c-badc-8420baafc48c,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 31,USD,3000,5000,8960,7000,3000,5000,8960,7000,Roger Mühl,1929,2008,Village Haut-Rhinois,painting,oil on canvas,N/A,36.25,28.75,in,yes,yes,yes,1901,2000,"David Findlay Galleries, New York (per label).",N/A,N/A,N/A,original,"Roger Mühl
+(French, 1929-2008)
+Village Haut-Rhinois
+oil on canvas
+signed Mühl (lower right), signed again and titled (verso)
+
+28 3/4 x 36 1/4 in. (73 x 92.1cm)
+
+This lot is located in Chicago.
+Provenance: David Findlay Galleries, New York (per label).",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4a5254c3-8c55-4787-b95d-7f5519bb1c6f,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/31,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3099.53,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+f85ac75a-2348-49e6-9c20-40392c34e213,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 32,USD,800,1200,512,400,800,1200,512,400,Théophile Steinlen,1852,1923,Femmes Normandes,drawing,charcoal and red chalk on paper,N/A,9.125,9.875,in,no,yes,yes,1901,2000,"Sotheby's Arcade, New York, sale of October 9, 1992, lot 2. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Théophile Steinlen
+(French, 1852-1923)
+Femmes Normandes
+charcoal and red chalk on paper
+
+9 7/8 x 9 1/8 in. (25.1 x 23.2cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+Provenance:Sotheby's Arcade, New York, sale of October 9, 1992, lot 2.Acquired directly from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ecde2319-fec6-4708-8f1d-4546d0ac1ac7,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/32,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1028.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1100.0,916.6666666666667
+15b40b1a-6775-4162-8b9d-6e4e46390de6,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 33,USD,3000,5000,3200,2500,3000,5000,3200,2500,Camille Pissarro,1830,1903,Soldat Barbu de Profil,drawing,pencil on paper,N/A,3,5.5,in,yes,yes,yes,1801,1900,"The Artist. By descent in the family of the Artist. Sotheby Parke Bernet, London, sale of May 25, 1977, lot 18. (Likely) acquired directly from the above sale. Collection of Joseph Faulkner. Collection of John J. Dobry.",N/A,N/A,N/A,original,"Camille Pissarro
+(Danish/French, 1830-1903)
+Soldat Barbu de Profil
+pencil on paper
+stamp initialed C.P. (lower right; Lugt 613e)
+
+sheet size: 5 1/2 x 3 in. (14 x 7.6cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+This lot will be included in the forthcoming catalogue raisonné of Camille Pissarro's drawings currently being prepared by Mr. Joachim Pissarro.Provenance:The Artist.By descent in the family of the Artist.Sotheby Parke Bernet, London, sale of May 25, 1977, lot 18.(Likely) acquired directly from the above sale.Collection of Joseph Faulkner.Collection of John J. Dobry.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ed507aff-deac-46fe-9560-b1af549a31ac,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/33,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3068.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+36dcf3a9-cdcf-4b3b-aabe-3d03652545ec,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 34,USD,600,800,768,600,600,800,768,600,Jacques Villon,1875,1963,Portrait d'Homme (Autoportrait),drawing,ink on paper laid down to card,N/A,10.125,8.25,in,yes,yes,yes,1961,1961,"Property from Private Collection, Chicago, Illinois.",N/A,N/A,N/A,original,"Jacques Villon
+(French, 1875-1963)
+Portrait d'Homme (Autoportrait), 1961
+ink on paper laid down to card
+signed Jacques Villon and dated (lower center)
+
+8 1/4 x 10 1/8 in. (21 x 25.7cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0081ea6d-7c21-4de1-ba75-a05779cc0cd1,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/34,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1016.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,750.0,625.0
+d12fbd69-85e6-4cbb-ada2-ccd4526b933c,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 35,USD,800,1200,512,400,800,1200,512,400,Marie Laurencin,1885,1956,Femme Nue Accroupie,drawing,pencil on paper with perforations on the left,N/A,5,7.625,in,yes,yes,yes,1901,2000,"Collection of Hume Cronyn and Jessica Tandy, New York and California. Parke-Bernet, New York, sale of January 15, 1958, lot 9 (as Femme assise). Acquired directly from the above sale. Collection of Joseph Faulkner.",N/A,N/A,N/A,original,"Marie Laurencin
+(French, 1885-1956)
+Femme Nue Accroupie
+pencil on paper with perforations on the left
+signed Marie Laurencin (lower center right)
+
+7 5/8 x 5 in. (19.4 x 12.7cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+Provenance:Collection of Hume Cronyn and Jessica Tandy, New York and California.Parke-Bernet, New York, sale of January 15, 1958, lot 9 (as Femme assise).Acquired directly from the above sale.Collection of Joseph Faulkner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ad73bd3d-0e37-43c3-a2c2-5d18f7648321,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/35,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1028.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1100.0,916.6666666666667
+aff02d28-3261-4966-b464-770d11a1b060,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 36,USD,80000,120000,64000,50000,80000,120000,64000,50000,Henri Jean Guillaume Martin,1860,1943,Labastide du Vert (Lot),painting,oil on canvas,N/A,31,37.5,in,yes,yes,yes,1908,1908,"Kaplan Gallery, London, the United Kingdom, by July 1959 (cat. no. 5). Hammer Galleries, New York, New York (as Le Village en Automne). Acquired directly from the above. Private Collection, New Jersey. Thence by descent in the family in 2002. Private Collection, Pennsylvania.",N/A,N/A,N/A,original,"Henri Jean Guillaume Martin
+(French, 1860-1943)
+Labastide du Vert (Lot), 1908
+oil on canvas
+signed Henri Martin (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+37 1/2 x 31 in. (95.3 x 78.7cm)
+
+This lot is located in Philadelphia.
+We wish to thank Mme Marie-Anne Destrebecq-Martin for confirming the authenticity of the work, which will be added in the forthcoming Catalogue Raisonné of the artist's work. Provenance:Kaplan Gallery, London, the United Kingdom, by July 1959 (cat. no. 5).Hammer Galleries, New York, New York (as Le Village en Automne).Acquired directly from the above.Private Collection, New Jersey.Thence by descent in the family in 2002.Private Collection, Pennsylvania.Exhibited:New York, Hammer Galleries, Henri Martin (1860-1943), February 20 - March 10, 1962, no. 1 (cover image of brochure).Lot Essay: This luminous view of Labastide-du-Vert, painted in 1908, belongs to the mature work of Henri Martin. It corresponds to a moment when he was undertaking major decorative commissions, including his celebrated contributions to the Sorbonne, yet remained deeply anchored in the landscape of the Lot, his preferred subject and the cradle of his mature method.Martin’s attachment to the village dates to 1900, when he and his family acquired the estate of Marquayrol, situated on the hills above Labastide-du-Vert, a small village in the Quercy countryside named after the Vert river. This move marked a decisive turning point in his career. Gradually abandoning Symbolist themes and literary references, Martin turned toward a direct and sustained engagement with nature. The rolling hills, the valley of the Vert, and the shifting light of the seasons offered him an inexhaustible field of study. Although Martin most often painted within the intimate confines of his estate, its gardens, pergolas, terraces, and fountains, he also sought broader perspectives on the surrounding landscape, as exemplified in the present work. Painted en plein air from an elevated, almost bird’s-eye viewpoint (in fact from his son’s bedroom window), the village unfolds as a dense mosaic of rooftops, foliage, and winding paths. This panoramic vision recurs throughout his œuvre, explored across multiple formats, varying the angle, spatial construction, and atmospheric conditions. Each vantage point offered a renewed configuration of forms and colors, a fresh means of capturing what he perceived as the living fabric of the land.The distant hills, tinged with mauve and blue, contrast with the tender greens and ochres of the valley, creating a chromatic harmony that is both structured and sensuous. What animates the composition above all is Martin’s distinctive handling of paint. The scene itself is one of stillness, a quiet village nestled within an enveloping nature. Yet the surface vibrates with life. Built up through a myriad of small, discrete touches, the landscape dissolves into a shimmering field of color. The accumulation of these touches conveys both the permanence of the village and the fleeting effects of atmosphere. This bravura of pointillism, adopted empirically rather than theoretically, enabled Martin to translate the intensity of light he experienced directly in nature. As he himself observed, the brilliance and diffusion of natural light compelled him to render it through pointillé. His touch remains free, mobile, and deeply responsive. The dots are not mechanical but lyrical, creating subtle variations in hue that evoke the movement of air, the warmth of sunlight, and the density of vegetation.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/1f6acb0e-0429-4262-b24b-6391ef73f9d0,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/36,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,101900.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,102500.0,85416.66666666667
+d253b1a6-aff8-407d-8398-85fd5f474e73,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 37,USD,4000,6000,5440,4250,4000,6000,5440,4250,Paul-Émile Pissarro,1884,1972,Le Cheval Blanc,painting,oil on canvas,N/A,18,24,in,yes,yes,yes,1970,2000,The Artist. Gifted by the above. Helen Findlay.,N/A,N/A,N/A,original,"Paul-Émile Pissarro
+(French, 1884-1972)
+Le Cheval Blanc, c. 1972
+oil on canvas
+signed Paulemile Pissarro (lower left); signed, titled, and dedicated (on the reverse)
+
+24 x 18 in. (61 x 45.7cm)
+
+This lot is located in Chicago.
+The authenticity of this work has been confirmed by Lélia Pissarro, granddaughter of the artist.Provenance:The Artist.Gifted by the above.Helen Findlay.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/782567b2-85d7-42d2-a508-984105cdf83d,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/37,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,4098.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+963f7071-ea7a-4bd7-840b-4587223c817b,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 38,USD,1200,1500,7680,6000,1200,1500,7680,6000,Hugues Claude Pissarro,1935,N/A,Pommier en Fleur à la Ferme de Noué,drawing,pastel on paper,N/A,14.5,10,in,yes,no,yes,1935,1935,"Property from Private Collection, Chicago, Illinois.",N/A,N/A,N/A,original,"Hugues Claude Pissarro
+(French, b. 1935)
+Pommier en Fleur à la Ferme de Noué
+pastel on paper
+signed H. Claude Pissarro (lower right), signed and titled (verso)
+
+10 x 14 1/2 in. (25.4 x 36.8cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+We wish to thank the Stern Pissarro Gallery in London for confirming the authenticity of the present lot. A Certificate of Authenticity may be purchased directly from the gallery by the successful bidder.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/03a11e79-407f-4657-bac1-38058aaad8fd,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/38,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1407.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1450.0,1208.3333333333335
+0dee3829-ca04-4ebc-b276-835d341c97e9,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 39,USD,1000,1500,3520,2750,1000,1500,3520,2750,Hugues Claude Pissarro,1935,N/A,La Rochelle,drawing,pastel on paper,N/A,14.25,9.75,in,yes,no,yes,1935,1935,"Property from Private Collection, Chicago, Illinois.",N/A,N/A,N/A,original,"Hugues Claude Pissarro
+(French, b. 1935)
+La Rochelle
+pastel on paper
+signed H. Claude Pissarro (lower center left), signed and titled (verso)
+
+9 3/4 x 14 1/4 inches. (24.8 x 36.2cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+We wish to thank the Stern Pissarro Gallery in London for confirming the authenticity of the present lot. A Certificate of Authenticity may be purchased directly from the gallery by the successful bidder.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/863ac2ab-9c2c-4fd2-968e-339f51490c76,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/39,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1026.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+26e3eb71-cbc5-4898-a49a-d3cd6fc3d720,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 40,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,Basil Marros,1897,1954,Figures,painting,oil on paper,N/A,11.25,14.125,in,yes,yes,yes,1930,1930,N/A,N/A,N/A,N/A,original,"Basil Marros
+(Greek, 1897-1954)
+Figures, c. 1930
+oil on paper
+signed Marros (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+14 1/8 x 11 1/4 in. (35.9 x 29.2cm)
+
+This lot is located in Philadelphia.
+Literature:Basil Marros (1897-1954), an exhibition catalogue, Hellenic American Union, 1998, Athens, Greece, p. 181, illustrated.Lot Note:To learn more about the artist, see Lot 50.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/cb3168b8-ba20-4b64-bd3f-b636b7bd9f7c,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/40,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+f5d6530d-5e3b-4f0d-afa7-5dd4c2397016,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 41,USD,1000,2000,7040,5500,1000,2000,7040,5500,Jean Dunand,1877,1942,La Moisson,painting,gouache heightened with gold on paper laid down to board,N/A,33,25,in,yes,yes,yes,1901,2000,"Félix Marcilhac, Paris. Christie's, New York, sale of June 12, 2003, lot 43. Acquired directly from the above by the present owner.",N/A,N/A,N/A,original,"Jean Dunand
+(Swiss, 1877-1942)
+La Moisson, c. 1936
+gouache heightened with gold on paper laid down to board
+signed Jean Dunand (lower right)
+
+25 x 33 in. (63.5 x 83.8cm)
+
+Property from a Palm Beach Collector
+
+This lot is located in Chicago.
+Provenance:Félix Marcilhac, Paris.Christie's, New York, sale of June 12, 2003, lot 43.Acquired directly from the above by the present owner.Literature:Félix Marcilhac, Jean Dunand: His Life and Works, 1991, p. 149, Dunand in his atelier working on the design for the ""Harvest"" mural, circa 1936. See also p. 330, nos. 1229-1231, variant lacquer panels on the same theme illustrated, and no. 1232, a tapestry cartoon for ""Ploughing"" also in gouache.Lot Note:The present lot relates to Dunand's monumental 18-panel incised gold lacquer mural, created for the Exposition Internationale des Arts et Techniques Appliqués à la Vie Moderne in Paris in 1937. Other smaller versions were also produced after 1937.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2a97378c-476a-43b6-afef-3a2f5fd4f774,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/41,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1028.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1800.0,1500.0
+3125c317-5a61-4d9e-8d6a-785e75a29bd9,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 42,USD,1000,2000,14080,11000,1000,2000,14080,11000,Jean Dunand,1877,1942,Les Arts Appliqués,mixed media,gouache heightened with gold on paper laid down to board,N/A,33,25,in,yes,yes,yes,1935,1935,"Félix Marcilhac, Paris. Christie's, Paris, sale of June 12, 2003, lot 44. Acquired from the above by the present owner",N/A,N/A,N/A,original,"Jean Dunand
+(Swiss, 1877-1942)
+Les Arts Appliqués, c. 1935
+gouache heightened with gold on paper laid down to board
+signed Jean Dunand (lower right)
+
+25 x 33 in. (63.5 x 83.8cm)
+
+Property from a Palm Beach Collector
+
+This lot is located in Chicago.
+Provenance:Félix Marcilhac, Paris.Christie's, Paris, sale of June 12, 2003, lot 44.Acquired from the above by the present ownerLot Note: The present lot is likely a study for the series The Pastimes and Joys of Mankind, created for the first class smoking room of the luxury liner Normandie.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/67508005-7b29-4ae8-92e5-d9bd599246a3,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/42,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1028.9,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1800.0,1500.0
+a90b9f18-6caa-40cc-bf9e-d56b744c7b83,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 43,USD,3000,5000,14080,11000,3000,5000,14080,11000,Claude Venard,1913,1999,La Musique,painting,oil on canvas,N/A,13,16,in,yes,yes,yes,1901,2000,"Private Collection, Philadelphia, Pennsylvania.",N/A,N/A,N/A,original,"Claude Venard
+(French, 1913-1999)
+La Musique
+oil on canvas
+signed C. VENARD (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+16 x 13 in. (40.6 x 33cm)
+
+This lot is located in Philadelphia.
+The present lot is accompanied by a certificate of authenticity signed by Alain Vercel, no .FV 300.Provenance:Private Collection, Philadelphia, Pennsylvania.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/fae92aba-a8f7-4f1c-b3b7-2713406cd222,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/43,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3807.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+245bc66a-9a32-4f2b-b9d6-4f3f7f592bb0,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 44,USD,50000,80000,121600,95000,50000,80000,121600,95000,Gabriele Münter,1877,1962,Still Life with Gray Teakettle (Stilleben mit grauer Teekanne),painting,oil on board,N/A,13.5,10,in,no,yes,yes,1935,1935,"Dalzell Hatfield Galleries, Los Angeles, California.",N/A,N/A,N/A,original,"Gabriele Münter
+(German, 1877-1962)
+Stilleben mit grauer Teekanne (Still Life with Gray Teakettle), 1935
+oil on board
+titled and dated (on the reverse)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+10 x 13 1/2 in. (25.4 x 34.3cm)
+
+Property from a Private Estate
+
+This lot is located in Philadelphia.
+The present lot will be included in the catalogue raisonné of Gabriele Münter 's paintings published by the Gabriele Münter and Johannes Eichner Foundation, under No. 19b.Provenance: Dalzell Hatfield Galleries, Los Angeles, California.Exhibited:Pasadena, California, The Pasadena Art Museum, German Expressionism, April 23 - June 4, 1961.Lot Essay:Gabriele Münter was once described by Johannes Eichner, her companion from the late 1920s onwards, as an artistic tabula rasa, ""not burdened by the prejudices of tradition or by the passing taste of times"" (Kandinsky und Gabriele Münter: Von Ursprüngen moderner Kunst, Munich, 1957). This statement not only emphasizes Münter as committed to a self-developed stylistic vocabulary, but also as an artist keen to distill inner truth and personal reality from the mundane and the ordinary. Alongside fellow artists Marianne von Werefkin, Alexej von Jawlensky, and Wassily Kandinsky, Münter was a founding member of The New Artists' Association in Munich in 1909. It was here that the artist adopted her individualistic approach to subject matter, concentrating on still-life and portraiture in a scale that depicted the every day, rather than the grand metaphysical interpretations expressed by the other members of the group.Still Life with Gray Teakettle (Stilleben mit grauer Teekanne), 1935, is a noteworthy example of how the still life was integral to Münter's oeuvre. Traditionally, the still life was viewed as a feminine genre, a view that the artist challenged, inspired perhaps by the great role still life played in contemporary French avant-garde painting. She absorbed the influences of Henri Matisse, Vincent van Gogh, and Paul Gauguin to create similar effects, but in her own style. Additionally, in Murnau, where she had a house from 1931 onwards, the artist found a source of inspiration for her still lifes in the local naïve art of reverse glass paintings particular to the area. The simple forms and bold outlines characterized by the reverse glass painting, combined with the influence of both the Expressionists and the Impressionists, translated into Münter’s unique use of flattened forms and the encapsulation of color with heavy black line. In the present work, the thick black lines bring the tea kettle, flower arrangements, and table into unusual visual focus, with each item gaining a form of independent existence. Drawing from Der Blaue Reiter belief in the symbolic nature of color, the everyday objects, with their vibrant, pulsating palette of blues, yellows, grays, and greens in a thickly worked impasto, stand apart from each other not through perspective but by subtle variations in the musicality – the “essence” – of their tone. It is a demonstration of Münter's unique ability to produce visionary poetry gleaned from the most ordinary of possessions.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7d952436-e52a-4a0e-bc10-2bd0031046d5,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/44,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,69400.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+e41215ed-d34f-4073-9c99-2fbf3b003f3b,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 45,USD,250000,400000,N/A,N/A,250000,400000,N/A,N/A,Nicolai Fechin,1881,1955,Girl with White Headscarf,painting,oil on canvas laid down to Masonite,N/A,14.875,17.875,in,yes,yes,yes,1920,1929,"Property from the Stimmel Family Collection, Pittsburgh, Pennsylvania.",N/A,N/A,N/A,original,"Nicolai Fechin
+(Russian, 1881-1955)
+Girl with White Headscarf, c. late 1920s 
+oil on canvas laid down to Masonite
+signed N. Fechin (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+Masonite: 17 7/8 x 14 7/8 in. (45.4 x 37.8cm) / canvas: 15 1/4 x 12 5/8 in. (38.7 x 32.1cm)
+
+Property from the Stimmel Family Collection, Pittsburgh, Pennsylvania.We wish to thank Galina Tuluzakova for confirming the authenticity of the lot, and for her assistance with its cataloguing.Provenance: The Artist.Acquired directly from the above in 1930.William S. Stimmel, Pittsburgh, Pennsylvania.By descent in the Stimmel Family Collection.Lot Essay:Though its hypnotizing painterly quality and exceptional provenance, Young Girl with White Headscarf stands among the most compelling examples of Nicolai Fechin’s mature production.Executed at the height of his career, it encapsulates the artist’s then-already celebrated bravura, namely his unique ability to reconcile the rigorous training of the Russian academic tradition with a dazzling freedom of execution. Trained at the Imperial Academy of Arts in Saint Petersburg, Fechin absorbed a sophisticated synthesis of influences drawn from his principal teacher, Ilya Repin, who instilled in him a deep commitment to Russian realism and national identity, while also introducing him to the lighter palette and expressive brushwork associated with Impressionism.By as early as 1904, Fechin had turned almost exclusively to portraiture, the genre in which he would achieve his greatest successes, as exemplified here. The present work stands as a striking demonstration of the artist’s highly personal style, combining immediacy and vitality with exceptional draftsmanship. The sitter’s face emerges with remarkable softness and candor, in subtle contrast to the richly animated background: an explosive field of impasto where garments and surroundings dissolve into lavish, flamboyant, and energetic strokes. A luminous palette dominated by pure whites, warm browns, flashes of aquamarine, and deep reds, creates a composition of extraordinary chromatic intensity. The surface itself is alive with movement, each stroke appearing as fresh and spontaneous as if just laid onto the canvas, charging the work with a palpable sense of life. Beyond its technical brilliance, the work carries a deeply personal resonance. The young sitter, with her luminous eyes and gently mischievous expression, bears a striking resemblance to the artist’s daughter Eya, his most cherished and frequently depicted model. This subtle parallel gives the painting an added intimacy as well as a quietly nostalgic quality that is evocative of Fechin’s native Russia. Painted after his emigration to the United States, a period marked by homesickness and fragile health, the work indeed suggests a longing for the world and cultural identity Fechin had left behind. Yet nothing in its execution betrays struggle or decline; on the contrary, it radiates warmth, vitality, and a profound sense of artistic confidence. These enduring qualities, deeply rooted in the artist’s Russian sensibility, are carried seamlessly into his American period, making this tender and engaging portrait all the more poignant.The painting’s significance is further elevated by its unparalleled provenance, coming directly from the family of William S. Stimmel—Fechin’s most important early American patron. A discerning Pittsburgh-based collector, Stimmel began acquiring the artist’s works from 1910 at the Carnegie International exhibitions, assembling an ever-growing group that famously included Lady in Pink (Portrait of Natalia Podbelskaya), now a highlight of the Frye Art Museum. His support proved decisive: through his efforts, and those of fellow patron John Burnham, Fechin was able to emigrate to the United States on August 1st, 1923. Settling initially in New York, he quickly secured major portrait commissions while teaching at the Grand Central School of Art, and exhibiting at the National Academy of Design, where he was awarded the prestigious Thomas Proctor Prize for portraiture in 1924.The present portrait was the very last painting acquired by Stimmel directly from the artist, and as such stands as a moving testament to a long-standing and deeply meaningful relationship between patron and painter that spread over decades. Preserved by descent within Stimmel’s family, the work retains an intimacy rarely encountered. Is gentle charm and emotional appeal echoes both the affection between artist and sitter, and the enduring bond between Fechin and the visionary man who helped shape his destiny.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/be2cd92e-7741-4f6a-87d7-724776cad0e1,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/45,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,306000.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,375000.0,312500.0
+5358635a-ed08-4876-9797-3295d5d7c5ad,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 46,USD,8000,12000,14080,11000,8000,12000,14080,11000,August Macke,1887,1914,Entwurf für Stickerei (Design for Embroidery),drawing,watercolor and colored wax crayons on tracing paper,N/A,12.375,10.625,in,yes,yes,yes,1913,1913,"The Artist. A gift from the above in 1913. Collection of Louis Moilliet, La Tour de Peilz. Siegfried Adler, Lugano, Switzerland. Collection of Milton Holland, Los Angeles, California. Acquired directly from the above. Maxwell Galleries, Ltd., San Francisco, California. Acquired directly from the above by the family of the present owner in June 1973.",N/A,N/A,N/A,original,"August Macke
+(German, 1887-1914)
+Entwurf für Stickerei (Design for Embroidery), 1913
+watercolor and colored wax crayons on tracing paper
+signed August/Macke (lower right)
+
+10 5/8 x 12 3/8 in. (26.8 x 31.5cm)
+
+Property from a Private East Coast Collection
+
+This lot is located in Philadelphia.
+Provenance:The Artist.A gift from the above in 1913.Collection of Louis Moilliet, La Tour de Peilz.Siegfried Adler, Lugano, Switzerland.Collection of Milton Holland, Los Angeles, California.Acquired directly from the above.Maxwell Galleries, Ltd., San Francisco, California. Acquired directly from the above by the family of the present owner in June 1973.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7426a1cf-b64f-4c68-9148-7ac9bdb4d3e8,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/46,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10100.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+97bfa613-3843-4c33-989b-7e9ee8d03940,Artwork,Freemans,6494,2026-04-29,New York,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 47,USD,20000,30000,28800,22500,20000,30000,28800,22500,Raoul Dufy,1877,1953,New York Billboards,painting,watercolor and gouache on paper,N/A,25.5,19.5,in,yes,yes,yes,1950,1950,"The Artist. Acquired directly from the above. Perls Galleries, New York, New York. (Likely) acquired directly from the above by the family of the present owner.",N/A,N/A,N/A,original,"Raoul Dufy
+(French, 1877-1953)
+New York Billboards, 1950
+watercolor and gouache on paper
+signed Raoul Dufy (lower center right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+19 1/2 x 25 1/2 in. (49.5 x 64.8cm)
+
+Property from a Private Estate.
+
+This lot is located in Philadelphia.
+We wish to thank Madame Fanny Guillon-Laffaille for kindly confirming the authenticity of the present work, which will be accompanied by a Certificate of Authenticity, under the number As-1890.Provenance:The Artist.Acquired directly from the above.Perls Galleries, New York, New York.(Likely) acquired directly from the above by the family of the present owner.Literature:""Raoul Dufy in America,"" Life, January 22, 1951, p. 65, illustrated.Lot Note:In 1950, at age 73, Raoul Dufy traveled to Boston for treatment of severe arthritis in his hands. Undaunted by his condition, the artist continued to paint, and created numerous watercolors of America from New England to Arizona during his sojourn. Upon the invitation of Life magazine, Dufy also visited New York City, where he depicted baseball games, the Brooklyn Bridge, and Trinity Church, among other scenes, all of which convey the lively energy of the city. Many of the works he made while in New York were featured in the January 22, 1951 issue of Life, including the present work. The caption that accompanies the illustration of New York Billboards, 1950, is indicative of Dufy's ebullient view of the world: ""Time's Square,"" thought the artist, 'was spectacular like a ballet.' 'Ah, le Kleenex' he murmured..."" The bold and bright billboards of Times Square are a perfect vehicle for the French artist's vivid colors and expressive, rapid brushstrokes, which permitted him to capture the spontaneity and movement of the beating heart of the city that never sleeps. It is a fitting subject for a painter of modern life whose art unabashedly relished in joy and pleasure.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e2265383-9044-43a0-8248-2bf64892e60e,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/47,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,25583.05,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,27500.0,22916.666666666668
+027f59af-d02f-4c05-9047-50c485e97a13,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 48,USD,30000,50000,25600,20000,30000,50000,25600,20000,Fernand Léger,1881,1955,Visage à une Main (Head with One Hand),ceramics,glazed ceramic,N/A,N/A,17.75,in,yes,yes,yes,1952,1952,"Brice Pottery, Biot, France. Acquired directly from the above, 1954. Herbert and Nannette Rothschild. Thence by family descent. Judith Rothschild. Acquired directly from the above. Private Collection, New York.",N/A,N/A,N/A,original,"Fernand Léger
+(French, 1881-1955)
+Visage à une Main (Head with One Hand), 1952
+glazed ceramic
+signed F. LEGER and dated (verso)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+height: 17 3/4 in. (45.1cm)
+
+This lot is located in Philadelphia.
+This lot has been authenticated by the Comité Léger and will be accompanied by a certificate of authenticity.Provenance:Brice Pottery, Biot, France.Acquired directly from the above, 1954.Herbert and Nannette Rothschild.Thence by family descent.Judith Rothschild.Acquired directly from the above.Private Collection, New York.Exhibited:Providence, Rhode Island, Annmary Brown Memorial, Brown University and Rhode Island School of Design, Herbert and Nannette Rothschild Collection, October 7 - November 6, 1966, no. 90, illustrated.Washington, D.C., National Gallery of Art, Encounters with Modern Art: Works from the Rothschild Family Collections, September 22, 1996 - January 26, 1997, p. 168, illustrated (and traveling to Philadelphia Museum of Art, March 2 - May 11, 1997).",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/53923219-46da-46ef-9535-b6d575b32cbd,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/48,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,38080.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,42000.0,35000.0
+cd6ab9ec-57d0-4594-b4fd-5d26c35954ed,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 49,USD,12000,18000,N/A,N/A,12000,18000,N/A,N/A,Basil Marros,1897,1954,Reflection,painting,oil on Masonite,N/A,22.25,28,in,yes,yes,yes,1930,1930,N/A,N/A,N/A,N/A,original,"Basil Marros
+(Greek, 1897-1954)
+Reflection, c. 1930
+oil on Masonite
+signed Marros (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+28 x 22 1/4 in. (71.1 x 56.5cm)
+
+This lot is located in Philadelphia.
+Literature:Basil Marros (1897-1954), an exhibition catalogue, Hellenic American Union, 1998, Athens, Greece, p. 103, illustrated.The ART Magazine, Issue 14, January 1995, Athens, Greece, p. 50, illustratedLot Note:Basil Marros was a Greek-born artist whose career unfolded between Europe and the United States. Born in the village of Melissa in the prefecture of Corinthia, he moved to San Francisco at the age of 16, entering the California College of Arts and Crafts before traveling to New York on a scholarship at the Art Students League. He later continued his training in Paris at the Académie Moderne under Fernand Léger and Émile-Othon Friesz, who taught him a strong sense of geometric shapes and warm coloration, respectively. This transatlantic formation shaped his work decisively. While in Paris, he turned early toward abstraction, and by the 1930s—at a time when realism dominated in the United States—he developed a personal visual language based on geometry and simplification.After settling in New York, Marros became part of progressive artistic circles, exhibiting at the Society of Independent Artists and participating in group exhibitions alongside figures such as Marsden Hartley and Jackson Pollock. At the same time, he was involved in experimental theater, working as both stage designer and actor—an experience that shaped the constructed, almost scenographic quality of his painting. In 1938, Marros had his first one-man show at Delphic Studios. The works on offer, including Figures (Lot 40), date from this period, a key moment during which Marros turned toward simplified, geometric forms and controlled compositions. As seen in Reflection, he focused on interiors inhabited by anonymous, stylized figures. These are not descriptive spaces but constructed ones, where balance, geometry, and structure take precedence over narrative.In the present work, the standing figure is reduced to an angular, almost abstract silhouette, built from flat planes and muted tones. It draws on both Cycladic idols and the metaphysical mannequins of Giorgio de Chirico, combining archaic memory with modernist structure. The mirror introduces a subtle doubling, reinforcing the sense of a staged, self-contained space—echoing the artist’s scenographic background—and contributing to the quiet unease of the scene. In Figures (Lot 40), the repetition of three figures creates a rhythmic, almost emblematic effect. This repetition introduces a slight visual disorientation, echoed by the eerie, stage-like setting reminiscent of de Chirico’s work, while also animating the composition. In both paintings, color remains restrained: earth tones, ochres, and muted greens are applied evenly to stabilize and anchor the image.In 1942, Marros moved back to the West Coast, settling permanently in California, where he worked in connection with the U.S. Navy at the Alameda Base. He remained there until his death in San Leandro in 1954, having exhibited in both Europe and the United States, though remaining relatively little known in his native Greece during his lifetime. As the poet and critic Nanos Valaoritis puts it, Marros was ""an important but sadly neglected modernist painting who rated about the world like Odysseus.""",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0a8ecd7f-c6f5-4c9f-b428-c99a9bc57ff1,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/49,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,12100.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,15300.0,12750.0
+f49b3083-0cb2-45a8-8c2b-90f2bd4109ba,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 50,USD,3000,5000,10240,8000,3000,5000,10240,8000,Duilio (Dubè) Barnabé,1914,1961,Still Life,painting,oil on canvas,N/A,36.125,28.625,in,yes,yes,yes,1901,2000,N/A,N/A,N/A,N/A,original,"Duilio (Dubè) Barnabé
+(Italian, 1914-1961)
+Still Life
+oil on canvas
+signed Barnabé (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+28 5/8 x 36 1/8 in. (72.7 x 91.8cm)
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b714059b-0409-482f-8a31-d5fc61593a56,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/50,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3078.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+85f5957d-39fe-4c9e-889b-d35158fca33b,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 51,USD,10000,15000,10240,8000,10000,15000,10240,8000,André Derain,1880,1954,Femme à la Coiffe,sculpture,bronze with brown patina,N/A,N/A,11.25,in,yes,yes,yes,1901,1930,"Private Collection, Philadelphia, Pennsylvania.",N/A,N/A,N/A,original,"André Derain
+(French, 1880-1954)
+Femme à la Coiffe, c. 1912-1914
+bronze with brown patina
+signed ANDRE DERAIN and numbered 9/11 (verso)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+height: 11 1/4 in. (28.6cm)
+
+This lot is located in Philadelphia.
+Provenance:Private Collection, Philadelphia, Pennsylvania.Literature:Pierre Cailler, Catalogue Raisonné de l'Œuvre Sculpturé d'André Derain, Geneva, 1965, no. 27.Pieter Coray, André Derain Scultore, Milan, 1994, no. 66.Lot Note:Conceived circa 1912-1914; cast at a later date in an edition of 11 plus 4 artist's proofs.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/8a7999e4-0998-4767-b713-4aabd64150a2,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/51,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,12088.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+659e90b4-83a8-4975-b833-fe0bc701a325,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 52,USD,6000,8000,10880,8500,6000,8000,10880,8500,Paul Signac,1863,1935,Paimpol,drawing,sepia ink over pencil on paper,N/A,17.1875,11.125,in,no,yes,yes,1900,1900,"Catherine Burns, Oakland, California. Private Collection, Chicago.",N/A,N/A,N/A,original,"Paul Signac
+(French, 1863-1935)
+Paimpol, 1900
+sepia ink over pencil on paper
+posthumously located Paimpol (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+sheet size: 11 1/8 x 17 3/16 in. (28.3 x 43.7cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+We wish to thank Marina Ferretti for confirming the authenticity of the present lot, which will be accompanied by a Certificate of Authenticity.Provenance:Catherine Burns, Oakland, California.Private Collection, Chicago.Lot Note:Paul Signac’s relationship with Paimpol is part of his broader, lifelong fascination with the French coastline, particularly Brittany, which he explored extensively in the mid-1880s and 1890s, at a moment when he was developing, alongside Georges Seurat, the principles of Neo-Impressionism. A working fishing port on the northern coast, Paimpol offered a very different motif from the Mediterranean light that would later define Signac’s work. Here, he encountered a harsher, more variable atmosphere, which he often translated into sepia ink on paper, as a way to suggest the region’s shifting skies, cool tonalities, and the rugged geometry of harbors, masts, and boats.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5a3b4c97-eda3-49d8-a1ce-e650fa247459,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/52,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10120.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+59e825e4-da4e-434c-a81a-c587ae33d228,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 53,USD,3000,5000,3840,3000,3000,5000,3840,3000,Pavel Tchelitchew,1898,1957,Bathers,drawing,brown and sepia ink on paper,N/A,16.875,13.875,in,yes,yes,yes,1937,1937,"Collection of Pericles ""Perry"" Embiricos, Monaco, circa 1950. A gift from the above in the 1960s. Private Collection, Athens, Greece.",N/A,N/A,N/A,original,"Pavel Tchelitchew 
+(Russian, 1898-1957)
+Bathers, 1937
+brown and sepia ink on paper
+signed Tchelitchew and dated (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+13 7/8 x 16 7/8 in. (35.2 x 42.9cm)
+
+This lot is located in Philadelphia.
+Provenance:Collection of Pericles ""Perry"" Embiricos, Monaco, circa 1950.A gift from the above in the 1960s.Private Collection, Athens, Greece.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/fa073496-804b-4231-a430-57e5cce908ee,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/53,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3099.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+65a2591e-eda6-495e-840e-915cb0b41de9,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 54,USD,2000,3000,2560,2000,2000,3000,2560,2000,Grigory Gluckmann,1898,1973,Nude with Raised Arm,drawing,watercolor over graphite on paper laid on board,N/A,11,13.25,in,yes,yes,yes,1942,1942,"The Artist. Acquired directly from the artist, late 1940s. By descent to the previous owner. Joan Moran Auctioneers, Los Angeles, California and American Fine Art, sale of February 15, 2011, lot 71. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Grigory Gluckmann
+(Belarusian, 1898-1973)
+Nude with Raised Arm, 1942
+watercolor over graphite on paper laid on board
+signed Grigory Gluckmann, dated, and inscribed New York (lower right)
+
+13 1/4 x 11 in. (33.7 x 27.9cm)
+
+This lot is located in Philadelphia.
+Provenance:The Artist.Acquired directly from the artist, late 1940s.By decent to the previous owner.Joan Moran Auctioneers, Los Angeles, California and American Fine Art, sale of February 15, 2011, lot 71.Acquired directly from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a53b6c6a-243e-4b05-8a1d-9e6b59b65fae,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/54,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,2043.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+d3456eb4-0399-491a-b4a4-d36ebf64ef53,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 55,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,Grigory Gluckmann,1898,1973,Seated Nude,drawing,watercolor over charcoal and varnished on board,N/A,10.875,15,in,yes,yes,yes,1901,2000,"Leland Little Auction, Hillsborough, sale of December 5, 2015, lot 558. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Grigory Gluckmann
+(Belarusian, 1898-1973)
+Seated Nude
+watercolor over charcoal and varnished on board
+signed GLUCKMANN (lower right)
+
+15 x 10 7/8 in. (38.1 x 27.6cm)
+
+This lot is located in Philadelphia.
+Provenance:Leland Little Auction, Hillsborough, sale of December 5, 2015, lot 558.Acquired directly from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f391d7f3-0ca1-414c-b0ab-d9b99dc78342,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/55,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,3099.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+94d0efa1-fa87-49b0-bee6-fb64c8c91f0d,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 56,USD,20000,30000,N/A,N/A,20000,30000,N/A,N/A,Edgar Degas,1834,1917,Étude d'Homme Assis,drawing,pencil on laid paper,N/A,12.9375,18.3125,in,no,yes,yes,1858,1858,"Atelier Degas. Collection of Felix Fénéon, Paris. Sotheby's Arcade, New York, sale of February 24, 1995, Lot 9. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Edgar Degas
+(French, 1834-1917)
+Étude d'Homme Assis, 1858
+pencil on laid paper
+bears the Ed Degas Atelier stamp (verso; Lugt 657)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+18 5/16 x 12 15/16 in. (46.5 x 32.9cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+We wish to thank the Comité Degas at Brame & Lorenceau, Paris for kindly confirming the authenticity of the present Lot, which will be accompanied by a Certificate of Authenticity.The present lot will be reproduced in the digital catalogue raisonné of Edgar Degas by Michel Schulman under number MS-4559.Provenance:Atelier Degas.Collection of Felix Fénéon, Paris.Sotheby's Arcade, New York, sale of February 24, 1995, Lot 9.Acquired directly from the above sale by the present owner. Literature:Michael Schulman, Catalogue Raisonné Digital des Peintures, Pastels et Dessins d'Edgar Degas (1834-1917), no. MS-4559.Lot Note:Edgar Degas’s early graphite studies of the male nude offer a revealing window into his rigorous academic. Trained within the highly structured environment of the École des Beaux-Arts in Paris, where he was formally admitted in 1855, Degas followed the traditional progression expected of any aspiring history painter. After extensively copying the Old Masters of the Italian Renaissance at the Louvre during the early 1850s, he turned to drawing from the live model, a foundational exercise in mastering anatomy, proportion, and form.Following his training in the private studios of Félix-Joseph Barrias and Louis Lamothe, Degas developed a disciplined and analytical approach to draftsmanship rooted in the teachings of Jean-Auguste-Dominique Ingres. His extended stay in Italy from 1856 to 1859, principally in Rome, Florence, and Naples, further reinforced this classical grounding. Around 1858, while working at the Académie de France in Rome, he attended evening life-drawing sessions alongside his friend Gustave Moreau, producing studies that demonstrate a close adherence to academic conventions.These works, including the present drawing, emphasize careful observation, controlled line, and a sculptural modeling of the human body, bridging antique precision and idealism with an emerging naturalistic sensibility. The present sheet underscores Degas’s deep respect for tradition and precision at this early stage of his career, while also revealing his sustained engagement with the human figure; an interest that would later evolve into the more dynamic and unconventional treatments for which Edgar Degas is best known today.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/610c6b15-a5a9-4714-b18e-4e0f630900e9,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/56,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,25488.01,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,27500.0,22916.666666666668
+e396a564-3f2a-4ed3-87aa-8df0f8b523db,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 57,USD,1000,1500,1216,950,1000,1500,1216,950,Roger de la Fresnaye,1885,1925,Nu Allongé Appuyé sur le Coude Gauche,drawing,charcoal heightened with white on paper,N/A,19,12,in,yes,yes,yes,1910,1910,"Property from Private Collection, Chicago, Illinois.",N/A,N/A,N/A,original,"Roger de la Fresnaye
+(French, 1885-1925)
+Nu Allongé Appuyé sur le Coude Gauche, 1910
+charcoal heightened with white on paper
+signed R. de la Fresnaye (lower right)
+
+12 x 19 in. (30.5 x 48.3cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/9b39e158-a462-4690-a679-14d6851ee124,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/57,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1028.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+af55db88-19b0-4437-b934-8be822a0088b,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 58,USD,2000,3000,8960,7000,2000,3000,8960,7000,Pavel Tchelitchew,1898,1957,Nude Studies,drawing,ink on paper,N/A,10.75,14.75,in,yes,yes,yes,1940,1940,"The Artist. A gift from the above in 1950. Collection of Pericles 'Perry' Embiricos, Monaco. A gift from the above in the 1960s. Private Collection, Athens, Greece.",N/A,N/A,N/A,original,"Pavel Tchelitchew
+(Russian, 1898-1957)
+Nude Studies, 1940
+ink on paper
+signed P. Tchelitchew and dated (lower right); also dedicated 'a mon cher Perry avec toute mon amitié/pour Noël 1950/Pavlik' (lower left)
+
+14 3/4 x 10 3/4 in. (37.5 x 27.3cm)
+
+This lot is located in Philadelphia.
+Provenance:The Artist.A gift from the above in 1950.Collection of Pericles ""Perry"" Embiricos, Monaco.A gift from the above in the 1960s.Private Collection, Athens, Greece.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7ed14b79-844b-40bc-bed1-2946f330a783,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/58,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,2043.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+e0837d49-2534-492c-b513-c6d903d25b5d,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 59,USD,800,1200,512,400,800,1200,512,400,Maximilien Luce,1858,1941,Nu aux Bras Levés; Together with a Companion (Two Works),drawing,graphite and charcoal on paper,N/A,12.375,8.5,in,yes,yes,yes,1901,2000,"Property from Private Collection, Chicago, Illinois.",N/A,N/A,N/A,original,"Maximilien Luce
+(French, 1858-1941)
+Nu aux Bras Levés; Together with a Companion (Two Works)
+graphite and charcoal on paper
+each signed Luce (lower right)
+
+larger: 8 1/2 x 12 3/8 in. (21.6 x 31.4cm)
+
+Property from Private Collection, Chicago, Illinois.
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/efffa00d-3d14-4497-ac3a-296bd304e5ec,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/59,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1028.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1100.0,916.6666666666667
+7a7668f5-03be-40ae-9bcf-b3a80915f791,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 60,USD,4000,6000,15360,12000,4000,6000,15360,12000,Andre Alexeyevich Jawlensky,1902,1984,Herbst Im Saleggio,painting,oil on Masonite,N/A,18.125,13.375,in,yes,yes,yes,1958,1958,"Dalzell Hatfield Galleries, Los Angeles, 1963. Estate of Cecile C. Bartman, Los Angeles, California. Bonhams Los Angeles, sale of November 15, 2016, lot 743. Acquired from the above sale by the present owner.",N/A,N/A,N/A,original,"Andre Alexeyevich Jawlensky
+(Russian, 1902-1984)
+Herbst Im Saleggio, 1958
+oil on Masonite
+signed Andreas Jawlensky (lower left); dated XI 1958 (lower right); signed, titled, and dated (on the reverse)
+
+13 3/8 x 18 1/8 in. (34 x 46.1cm)
+
+Property of a California Collector
+
+This lot is located in Chicago.
+Provenance:Dalzell Hatfield Galleries, Los Angeles, 1963.Estate of Cecile C. Bartman, Los Angeles, California.Bonhams Los Angeles, sale of November 15, 2016, lot 743.Acquired from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/bbf8f55a-d63e-4ed7-b2bf-38984e17fc31,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/60,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,4448.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+707d7188-6fa8-4060-95c1-d6a1985eef22,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 61,USD,40000,60000,60800,47500,40000,60000,60800,47500,Albert Marquet,1875,1947,Vue de Laghouat à Travers la Palmeraie (Algérie),painting,oil on canvasboard,N/A,16,13,in,yes,yes,yes,1921,1921,"Bernheim-Jeune, Paris, acquired from the Artist, June 22, 1922 (stock no. 23066). Paul Vallotton S.A., Lausanne, Switzerland c. 1985. Christie's, London, sale of February 8, 2005, lot 338. Acquired directly from the above sale. Opera Gallery, Paris. Acquired directly from the above in July, 2005 by the present owner.",N/A,N/A,N/A,original,"Albert Marquet
+(French, 1875-1947)
+Vue de Laghouat à Travers la Palmeraie (Algérie), 1921
+oil on canvasboard
+signed marquet (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+13 x 16 in. (33 x 40.6cm)
+
+Property from a Private New York Collection.
+
+This lot is located in Philadelphia.
+Provenance:Bernheim-Jeune, Paris, acquired from the Artist, June 22, 1922 (stock no. 23066)Paul Vallotton S.A., Lausanne, Switzerland c. 1985. Christie's, London, sale of February 8, 2005, lot 338.Acquired directly from the above sale.Opera Gallery, Paris.Acquired directly from the above in July, 2005 by the present owner.Exhibited:Lausanne, Fondation de l'Hermitage, De Cèzanne à Picasso dans les collections romandes, June 15 - October 20, 1985, no. 77Literature:Jean-Claude Martinet and Guy Wildenstein, Marquet, L'Afrique du Nord, Catalogue de l'oeuvre peint, Milan & Paris, 2001, no. I-535, p. 390, illus.Lot Note:From the 1910s onward, Albert Marquet looked for places that offered calm, simplicity, and, above all, clear light; qualities the artist deemed increasingly absent from the industrial modernity of metropolitan France.Algeria, then part of the French colonial world, soon became one of his preferred destinations. It was a familiar destination because of its Mediterranean culture, yet strikingly different in its flora, atmosphere and sense of space. By the 1920s, and even more during the Second World War, Marquet formed a strong attachment to Algiers, where he eventually kept a residence.The present painting shows Laghouat, a more remote town south of Algiers. Located at the northern edge of the Sahara, Laghouat marks a transition between the cultivated north and the open desert. As an oasis town, it is defined by palm groves, low buildings, and a bright, dry light that tends to simplify forms. For Marquet, this setting offered ideal conditions: as light softened details, it reduced contrasts, and brought a quiet order to the scene, as exemplified here.In contrast to the bustling dynamism of Marquet’s port scenes, the composition here is markedly paired down, and invites to mediation and contemplation. A dense foreground of palm trees, rendered in a loose brushwork, forms a dark, rhythmic vegetal curtain beyond which the town emerges as a pale, sun-bleached silhouette against a hazy, sunny sky. Human presence is reduced to a few diminutive figures and animals, all barely articulated, reinforcing a sense of scale and stillness.The focus is not on action but on atmosphere. The colors are restrained: muted greens, warm off-whites, and a faint blue sky. Instead, light becomes the main subject. In this way, Marquet achieves what Marcel Sembat so perceptively described: a “pure and intense light” that does not dramatize but instead suffuses the entire scene with a quiet, continuous luminosity.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7edd39e4-836c-4a08-b571-63967b2125a4,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/61,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,44080.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,52500.0,43750.0
+de0190c0-d987-4a9c-a39f-5d7d753af390,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 62,USD,15000,25000,38400,30000,15000,25000,38400,30000,Paul Signac,1863,1935,Le Port de Saint Gilles Croix-de-Vie,drawing,"watercolor, gouache and charcoal on laid paper",N/A,17.125,10.875,in,yes,yes,yes,1901,2000,"Private Collection, Belgium.",N/A,N/A,N/A,original,"Paul Signac
+(French, 1863-1935)
+Le Port de Saint Gilles Croix-de-Vie
+watercolor, gouache and charcoal on laid paper
+signed and located Paul Signac - Croix-de-vie (lower left)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+sheet size: 10 7/8 x 17 1/8 in. (27.6 x 43.5cm)
+
+This lot is located in Philadelphia.
+We wish to thank Marina Ferretti for confirming the authenticity of the present lot, which will be accompanied by a Certificate of Authenticity.Provenance:Private Collection, Belgium.Lot Note:Paul Signac traveled through the Vendée as part of his systematic exploration of French ports and coastal landscapes. Drawn to fishing harbors, river mouths, and low-lying settlements, he encountered here a quieter, more horizontal geography than that of Brittany.In contrast to Paimpol (Lot 52), the present work opens onto a broader horizon, with a pronounced emphasis on expansive skies. The light is softer and more diffused, allowing for a brighter yet restrained chromatic range. Muted blues and greys dominate, subtly enlivened by accents of rusty reds and sandy yellows in the sails and along the quay. This controlled palette does not diminish the vitality of the surface. On the contrary, the juxtaposition of small, discrete touches of color produces a quiet optical shimmer, perfectly attuned to the stillness of the landscape.This serene and rare view of Saint-Gilles-Croix-de-Vie reveals Signac as both a systematic observer and a poetic interpreter of France's harbors. The watercolor privileges equilibrium, atmosphere, and duration over spectacle, offering a soothing vision of the Atlantic coast.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/cd759f79-f88b-448e-8b13-2e209127bf7e,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/62,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,19087.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,22000.0,18333.333333333336
+ab0ef6d8-2f1e-4265-b382-7fcb012eb3c7,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 63,USD,6000,8000,44800,35000,6000,8000,44800,35000,Roger Mühl,1929,2008,Cap d'Antibes,painting,oil on canvas,N/A,51,47,in,yes,yes,yes,1901,2000,"David Findlay Galleries, New York.",N/A,N/A,N/A,original,"Roger Mühl
+(French, 1929-2008)
+Cap d'Antibes
+oil on canvas
+signed mühl (lower center); also titled verso
+
+47 x 51 in. (119.4 x 129.5cm)
+
+This lot is located in Chicago.
+Provenance: David Findlay Galleries, New York.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d14f6e49-6c83-478b-87db-df1b3ac5fa3f,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/63,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10200.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+2862086d-b0b7-46ec-b879-074eca8b8b2d,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 64,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,Françoise Gilot together with Javier Vilató,1921,2023,Feuillets du Livre d'Or de 'Chez Paulette' (A Pair of Works),drawing,blue ink on paper,N/A,9,10.75,in,yes,yes,yes,1946,1946,"Private Collection, Paris, France.",N/A,N/A,N/A,original,"Françoise Gilot (French, 1921-2023)
+Together with Javier Vilató (Spanish, 1921-2000)
+Feuillets du Livre d'Or de 'Chez Paulette', 1946 (A Pair of Works)
+blue ink on paper
+the first: signed Gilot, dated, and dedicated Pour Paulette / Francoise (lower left); the second: signed Javier Vilató and dedicated Pour Paulette (lower right), with several inscriptions (verso)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+each: 10 3/4 x 9 in. (27.3 x 22.9cm)
+
+This lot is located in Philadelphia.
+We wish to thank Mrs. Aurélia Engel, who has confirmed the authenticity of this work. Provenance:Private Collection, Paris, France.Lot Note:The present drawings by Françoise Gilot and her nephew originate from the Livre d’Or (guest book) of a Parisian bistro where artists regularly gathered to exchange ideas as they ate and drank. Cafés and bistros played a central role in postwar Paris, serving as sites of encounter, debate, and creation, thus defining the spirit of camaraderie and collegiality that defined the artistic milieu of the French capital. It was in such a setting that Gilot famously first met Pablo Picasso, at Le Catalan on Paris’s Left Bank.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ab54fd2f-8aad-4144-8d22-8b94184e7733,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/64,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10100.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+beec23f0-84e5-4ce1-b0b3-f75552cbdfc5,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 65,USD,8000,12000,14080,11000,8000,12000,14080,11000,Françoise Gilot,1921,2023,Paloma à la Fleur,drawing,pencil and colored crayon on paper,N/A,25.75,20,in,yes,yes,yes,1949,1949,"Galerie Louise Leiris, Paris, France. Acquired directly from the above in Spring, 1951. Collection of Norman and Helen Daly, New York. By descent in the family to the present owner.",N/A,N/A,N/A,original,"Françoise Gilot
+(French, 1921-2023)
+Paloma à la Fleur, 1949
+pencil and colored crayon on paper
+signed F. Gilot (lower right); also dated IV (dec 49) (verso)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+20 x 25 3/4 in. (50.8 x 65.4cm)
+
+This lot is located in Philadelphia.
+We wish to thank Ms. Aurélia Engel for confirming the authenticity of the present Lot, which is recorded in the Françoise Gilot Archives under number 60843. Provenance:Galerie Louise Leiris, Paris, France.Acquired directly from the above in Spring, 1951.Collection of Norman and Helen Daly, New York. By descent in the family to the present owner. Lot Note:Following her meeting with Pablo Picasso in 1943 at the age of 21, Françoise Gilot would go on to have two children: Claude in 1947 and Paloma in 1949. The present drawing and the following Lot depict her daughter in her earliest years. Each is set within the domestic sphere of Vallauris that occupied much of Gilot’s life at this time.Executed circa 1950, these works mark a decisive moment in the artist’s development. Although still shaped by her proximity to Picasso, they already assert a personal language grounded in observation and defined by a strong sense of line and draughtsmanship. In both compositions, form is articulated through contour rather than modeling, proving Gilot's early disposition in draughtsmanship. Paloma’s body, whether seated or reclining, is constructed through a continuous, controlled line. In Paloma Endormie (Lot 67), the reclining body of Paloma is notable for its economy: it unfolds across the surface of the paper with a sense of quiet monumentality, reduced to essential curves. Even in the present, more developed sheet, where subtle tonal inflections appear, line remains dominant and allows the figure to exist in a state of suspended clarity. This linear precision is what distinguishes Gilot from Picasso: where he fractures and reconfigures, she delineates. Gilot’s attentiveness to the child as a subject in formation is also particularly striking. These are not symbolic or mythologized images of childhood, but intimate and immediate records. The disproportion of the figure, the large head, compact body, and tentative gesture of the hand holding a small flower all suggest close and sustained observation. The inclusion of a drawing within the composition of Paloma Endormie (Lot 67) introduces a reflexive element, suggesting Paloma's early creativity i.e. the witnessing of an act of making within the image itself.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d5f450eb-51da-4591-81e5-b6552d39ce14,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/65,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10100.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+83203134-f642-468d-9621-e1b8b3dd76d8,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 66,USD,6000,8000,5120,4000,6000,8000,5120,4000,Françoise Gilot,1921,2023,Paloma Endormie,drawing,pencil on paper,N/A,25.75,19.875,in,yes,yes,yes,1951,1951,"Galerie Louise Leiris, Paris, France. Acquired directly from the above in Spring, 1951. Collection of Norman and Helen Daly, New York. By descent in the family to the present owner.",N/A,N/A,N/A,original,"Françoise Gilot
+(French, 1921-2023)
+Paloma Endormie, 1951
+pencil on paper
+signed F. Gilot (lower left); also dated VIII. Janv 1951 (verso)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+19 7/8 x 25 3/4 in. (50.5 x 65.4cm)
+
+This lot is located in Philadelphia.
+We wish to thank Ms. Aurélia Engel for confirming the authenticity of the present Lot, which is recorded in the Françoise Gilot Archives under number 60914.02. Provenance:Galerie Louise Leiris, Paris, France.Acquired directly from the above in Spring, 1951.Collection of Norman and Helen Daly, New York. By descent in the family to the present owner. Lot Note:For more information about the artist, and to learn more about the context of creation of the present drawing, please see Lot 66.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c325f9c7-4fb0-40cc-bf19-d27809de95a1,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/66,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10100.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+f2da6660-72ff-40c3-bf0e-541c7842fb2d,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 67,USD,10000,15000,21760,17000,10000,15000,21760,17000,Joan Miró,1893,1983,Sans Titre,mixed media,mixed media on paper,N/A,12.875,8.75,in,yes,yes,yes,1960,1960,"Galería René Métras, Barcelona. (this gallery opened in 1962). Galería Maeght, Barcelona. (this branch of the gallery opened in 1974). Harcourts Gallery, San Francisco, California. Acquired directly from the above in 1987. Private Collection.",N/A,N/A,N/A,original,"Joan Miró
+(Spanish, 1893-1983)
+Sans Titre, 1960
+mixed media on paper
+signed with initial M (lower left, on the brown paper); signed Miro and dated (verso)
+
+8 3/4 x 12 7/8 in. (22.2 x 32.7cm)
+
+This lot is located in Philadelphia.
+The present lot is accompanied by a Certificate of Authenticity issued by the Association pour la Défense de l'Oeuvre de Joan Miró and dated December 2025.Provenance:Galería René Métras, Barcelona. (this gallery opened in 1962).Galería Maeght, Barcelona. (this branch of the gallery opened in 1974).Harcourts Gallery, San Francisco, California.Acquired directly from the above in 1987.Private Collection.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3579f48f-5a92-4a4c-a9e1-6e92f688382c,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/67,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,12088.08,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+e88bc0d0-5095-4043-a6e4-14e1f51cc6a2,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 68,USD,8000,12000,N/A,N/A,8000,12000,N/A,N/A,Louis Anquetin,1861,1932,Portrait d'Aristide Bruant,drawing,"pastel, charcoal and colored crayons on buff paper",N/A,12.625,18.625,in,yes,yes,yes,1887,1888,"The Artist. Acquired directly from the above. Collection of Henri Cottereau, Paris. Thence by descent. Collection of Pierre Cottereau, Paris. Sotheby's, London, sale of October 13, 1993, lot 160. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Louis Anquetin
+(French, 1861-1932)
+Portrait d'Aristide Bruant, c. 1887-1888
+pastel, charcoal and colored crayons on buff paper
+signed Anquetin (lower right)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+sheet size: 18 5/8 x 12 5/8 in. (47.3 x 32.1cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+We wish to thank the Comité Anquetin at Brame & Lorenceau, Paris for kindly confirming the authenticity of the present Lot, which will be accompanied by a Certificate of Authenticity.Provenance:The Artist.Acquired directly from the above. Collection of Henri Cottereau, Paris.Thence by descent.Collection of Pierre Cottereau, Paris.Sotheby's, London, sale of October 13, 1993, lot 160.Acquired directly from the above sale by the present owner. Lot Note:Aristide Bruant (1851-1925) was one of the most notable figures of Belle Époque Paris: a singer, performer, and sharp-witted personality closely associated with the cabarets of Montmartre. Known for his black cape, wide-brimmed hat, and red scarf, he became an icon of Parisian nightlife, immortalized above all in the striking posters by Henri de Toulouse-Lautrec, which fixed his image in posterity.Bruant embodied the lively and theatrical spirit of the city, while Louis Anquetin, deeply engaged with modern Paris, devoted much of his work to capturing its atmosphere, people, and popular places. In this sense, portraying Bruant was a natural choice: a meeting point between artist and subject within the shared culture of the capital.In this portrait, Anquetin moves away from the graphic clarity of Lautrec’s posters toward a more intimate and expressive approach. The tight framing focuses on the sitter’s face. Built with bold, shifting colors and lively pastel strokes, the features appear direct and animated. The quick handling of the medium, combined with Bruant’s subtle, inviting grim, creates a sense of immediacy and complicity. It captures not just a likeness, but the charm and charisma of a quintessential Parisian character altogether.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a11c9771-7c56-43b2-ac46-6ac481a61c7a,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/68,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,10128.9,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+28c38031-21ab-4656-8256-e68b73ebc8fd,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 69,USD,1000,1500,1792,1400,1000,1500,1792,1400,Jacques Villon,1875,1963,Illustration pour les Bucoliques de Virgile,drawing,pen and ink on paper,N/A,22.125,14.875,in,yes,yes,yes,1942,1942,"Property from a Private Collection, Chicago, Illinois.",N/A,N/A,N/A,original,"Jacques Villon
+(French, 1875-1963)
+Illustration pour les Bucoliques de Virgile, 1942
+pen and ink on paper
+signed Jacques Villon (lower right)
+
+sheet size: 14 7/8 x 22 1/8 in. (37.8 x 56.2cm)
+
+Property from a Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+Related literature:Colette de Ginestet & Catherine Pouillon, Jacques Villon, les estampes et les illustrations: catalogue raisonné, Paris, 1979, nos. 555-557.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5c7335f8-5c2a-4f14-8167-7010ff167296,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/69,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1029.53,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+938ad316-23f2-4eb4-b7d3-2eb18d77bfcf,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 70,USD,1000,1500,640,500,1000,1500,640,500,Pierre Bonnard,1867,1947,Marthe Bonnard,drawing,pencil on graph paper,N/A,3.75,6,in,no,yes,yes,1925,1925,"Sotheby Parke Bernet, New York, 1973, lot 107. Gallery 609, Denver, Colorado. Private Collection, Chicago.",N/A,N/A,N/A,original,"Pierre Bonnard
+(French, 1867-1947)
+Marthe Bonnard, c. 1925-30
+pencil on graph paper
+inscribed c. 1918 (verso)
+
+sheet size: 6 x 3 3/4 in. (15.2 x 9.5cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+Provenance:Sotheby Parke Bernet, New York, 1973, lot 107.Gallery 609, Denver, Colorado.Private Collection, Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/99662824-ed4f-4689-a18b-59e3dec49da0,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/70,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1029.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1300.0,1083.3333333333335
+cbdc5561-e1e9-4fe6-a139-c845e28600d0,Artwork,Freemans,6494,2026-04-29,Philadelphia Warehouse,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 71,USD,1000,1500,640,500,1000,1500,640,500,Marie Laurencin,1885,1956,Femme à sa Toilette,drawing,pencil on paper,N/A,8.25,10.5,in,yes,yes,yes,1901,2000,"The Artist. The Estate of the Artist. To Suzanne Moreau Laurencin, Paris. The Estate of Suzanne Moreau Laurencin, Paris. Her Estate Sale, Drouot, Paris, sale of December 12, 1986. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Marie Laurencin
+(French, 1885-1956)
+Femme à sa Toilette
+pencil on paper
+stamp signed with initials M.L. (lower center right)
+
+10 1/2 x 8 1/4 in. (26.7 x 21cm)
+
+Property from Private Collection, Chicago, Illinois.
+
+This lot is located in Philadelphia.
+Provenance:The Artist.The Estate of the Artist.To Suzanne Moreau Laurencin, Paris.The Estate of Suzanne Moreau Laurencin, Paris. Her Estate Sale, Drouot, Paris, sale of December 12, 1986.Acquired directly from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b36e85f4-9996-4552-b46a-49b2db74263e,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/71,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,1288.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1300.0,1083.3333333333335
+a0ba1387-2e58-4111-8d6c-a975f04a48e8,Artwork,Freemans,6494,2026-04-29,Off Premises,Impressionist and Modern Art,https://freemansauction.com/auctions/6494-impressionist-and-modern-art,Lot 72,USD,2000,3000,2176,1700,2000,3000,2176,1700,Aristide Maillol,1861,1944,"Femme Nue Vue de Dos, c. 1930",drawing,pencil on laid paper,N/A,9.25,12.4375,in,yes,yes,yes,1901,2000,"Maurice Sternberg Gallery, Chicago, Illinois. A Chicago, Illinois Estate. Christie's, New York, sale of May 13, 1992, lot 225. Acquired directly from the above sale by the present owner.",N/A,N/A,N/A,original,"Aristide Maillol
+(French, 1861-1944)
+Femme Nue Vue de Dos, c. 1930
+pencil on laid paper
+signed with artist's monogram (lower center)
+
+The present Lot will be on view at Freeman's Upper East Side galleries located at 32 E. 67th St in New York from April 20-29, 10am-5pm.
+
+sheet size: 12 7/16 x 9 1/4 in. (31.6 x 23.5cm)
+
+Property from Private Collection, Chicago, Illinois. 
+
+This lot is located in Philadelphia.
+This authenticity of this lot has been confirmed by Mr. Olivier Lorquin. It has also previously been authenticated by Dina Vierny and is accompanied by a duplicate of the certificate from the same.Provenance:Maurice Sternberg Gallery, Chicago, Illinois.A Chicago, Illinois Estate.Christie's, New York, sale of May 13, 1992, lot 225.Acquired directly from the above sale by the present owner.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/bd6c28b6-8762-4aa4-859e-a4e990a53504,https://freemansauction.com/auction/6494-impressionist-and-modern-art/lot/72,7743.98,26549.85,52342.56,16.91,123.1,4.85,N/A,N/A,2043.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2700.0,2250.0

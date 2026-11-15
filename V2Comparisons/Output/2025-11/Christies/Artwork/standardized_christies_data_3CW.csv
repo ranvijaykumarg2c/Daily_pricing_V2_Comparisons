@@ -1,0 +1,949 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+ec10ff70-49c7-4219-810e-a6466ab319e0,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 1,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Sujet poisson (A.R. 139),ceramics,terracotta with black and white engobe,21,<NA>,<NA>,cm,yes,yes,yes,1952,<NA>,"fish, pottery, handle, orange, black, smile, eye, lines, patterns, white",None,None,"Sujet poisson (A.R. 139)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura' (underneath)
+terracotta pitcher with black and white engobe
+Length: 8
+1
+⁄
+4
+ in. (21 cm.)
+Conceived in 1952 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0001_000(pablo_picasso_sujet_poisson120102).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-1/278418?ldp_breadcrumb=back,None,None,None,None,None,None,None,2025-11,gpt-4.1-mini,4200.0,3500.0
+0a3928b3-9924-4f8f-899e-52cdadedc8b9,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 2,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Visage (A.R. 288),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,12,in,yes,yes,yes,1955,<NA>,"jug, face, abstract, pattern, brown, black, white, ceramics",None,None,"Visage (A.R. 288)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic pitcher with colored engobe and glaze
+Height: 12 in. (30.6 cm.)
+Conceived in 1955 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0002_000(pablo_picasso_visage120253).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-2/278420?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+61f3787c-d0b5-48d7-9cb8-e10dfce0c7ca,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 3,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Figure de proue (A.R. 136),ceramics,"white earthenware ceramic, colored engobe, glaze",9.25,<NA>,<NA>,in,yes,yes,yes,1952,<NA>,"jug, ceramic, blue, white, abstract figures, face, design, pattern, handle, decoration",None,None,"Figure de proue (A.R. 136)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ 273/ 300/ Madoura' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Length: 9
+1
+⁄
+4
+ in. (26 cm.)
+Conceived in 1952 and executed in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0003_000(pablo_picasso_figure_de_proue072004).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-3/278419?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9500.0,7916.666666666667
+af03b3c2-e39c-4eec-833f-e39ca01f51fb,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 4,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Quatre visages (A.R. 437),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,9.25,in,yes,yes,yes,1959,<NA>,"vase, face, eyes, black, orange, white, handle, decoration, pottery, ceramics",None,None,"Quatre visages (A.R. 437)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 272/ 300' (underneath)
+white earthenware ceramic pitcher with colored engobe and glaze
+Height: 9
+1
+⁄
+4
+ in. (24 cm.)
+Conceived in 1959 and executed in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0004_000(pablo_picasso_quatre_visages120624).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-4/278421?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+4688742b-f51a-453e-8f98-989880a06015,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 5,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Pichet anse prise (A.R. 186),ceramics,white earthenware ceramic with colored engobe and glaze,11,<NA>,<NA>,in,yes,yes,yes,1953,<NA>,"bird, handle, blue, white, earthenware, decorative, abstract pattern, round forms, rustic, minimalist",None,None,"Pichet anse prise (A.R. 186)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 27/ 200' (underneath)
+white earthenware ceramic pitcher with colored engobe and glaze
+Length: 11 in. (27.9 cm.)
+Conceived on 4 April 1953 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0005_000(pablo_picasso_pichet_anse_prise120810).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-5/278423?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+5fe8b58c-9e39-4793-801d-3ed59636b80c,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 7,USD,18000,25000,None,None,18000,25000,None,None,PABLO PICASSO,1881,1973,Chouette ébouriffée (A.R. 292),ceramics,"white earthenware ceramic, brown and black engobe",<NA>,<NA>,11.125,in,yes,yes,yes,1955,<NA>,"owl, pottery, abstract face, brown, black, white, decoration, eyes, ears, beak",None,None,"Chouette ébouriffée (A.R. 292)
+marked and numbered 'Edition Picasso/ Madoura/ 11' (underneath)
+white earthenware ceramic vase, partially engraved, with brown and black engobe
+Height: 11
+1
+⁄
+8
+ in. (28.4 cm.)
+Conceived in 1955 and executed in a numbered edition of 25",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0007_000(pablo_picasso_chouette_ebouriffee062111).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-7/278422?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+a4af2ef4-afdf-4fd3-9ff7-7ecfbd9e3792,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 8,USD,12000,18000,None,None,12000,18000,None,None,PABLO PICASSO,1881,1973,Hibou blanc sur fond rouge (A.R. 395),ceramics,"terracotta, white and black engobe",<NA>,<NA>,<NA>,in,yes,yes,yes,1957,<NA>,"owl, plate, black lines, red background, leaves, decoration, ceramics, bird, abstract, geometric",None,None,"Hibou blanc sur fond rouge 
+(A.R. 395)
+stamped, marked, numbered and dated '25.3.57./ Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ 21/ 200' (underneath)
+terracotta bowl, partially engraved, with white and black engobe
+Diameter: 17
+3
+⁄
+8
+ in. (45.2 cm.)
+Conceived on 25 March 1957 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0008_000(pablo_picasso_hibou_blanc_sur_fond_rouge121238).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-8/278424?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+b965d90d-bf4a-4703-93e6-b8ae00f98610,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 9,USD,12000,18000,None,None,12000,18000,None,None,PABLO PICASSO,1881,1973,Chouette (A.R. 603),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,11,in,yes,yes,yes,1969,<NA>,"owl, ceramic, pottery, bird, black, white, brown, art, sculpture, animal",None,None,"Chouette (A.R. 603)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 195/ 250' (underneath)
+white earthenware ceramic vase, partially engraved, with colored engobe and glaze
+Height: 11 in. (27.9 cm.)
+Conceived in 1969 and executed in a numbered edition of 250",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0009_000(pablo_picasso_chouette121304).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-9/278425?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+f3ff9ee7-acad-4ba0-b8c3-60529fe9e3ce,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 10,USD,70000,100000,None,None,70000,100000,None,None,PABLO PICASSO,1881,1973,Gros oiseau corrida (A.R. 191),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,21.75,in,no,yes,yes,1953,<NA>,"vessel, bullfighter, red color, black lines, decorative patterns, abstract shapes, arms, anthropomorphic figure",None,None,"Gros oiseau corrida (A.R. 191)
+stamped and numbered 'Madoura Plein Feu/ D'Après Picasso/ 8' (to the interior of the neck)
+white earthenware ceramic vase with colored engobe and glaze
+Height: 21
+3
+⁄
+4
+ in. (55.2 cm.)
+Conceived on 22 June 1953 and executed in a numbered edition of 25",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0010_000(pablo_picasso_gros_oiseau_corrida061804).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-10/278427?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,85000.0,70833.33333333334
+2788d42c-8ec0-492c-8982-ee09e7e4bd3c,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 11,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Picador et taureau (A.R. 439),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,no,yes,yes,1959,<NA>,"bull, horse, man, plate, ceramics, white, black, brown, abstract, equestrian",None,None,"Picador et taureau (A.R. 439)
+stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ Exemplaire Editeur/ 34/ 100' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 16
+1
+⁄
+2
+ in. (42 cm.)
+Conceived in 1959 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0011_000(pablo_picasso_picador_et_taureau121830).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-11/278429?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+d59c872c-cb26-4c68-95b1-af3b51aa0f95,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 12,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Corrida (A.R. 181),ceramics,white earthenware ceramic plate with black oxide and white glaze,<NA>,17,<NA>,in,no,yes,yes,1953,<NA>,"horse, rider, bull, cowboy, figures, branches, cattle, sombrero, motion, ceramics",None,None,"Corrida (A.R. 181)
+dated '11 3 53' (in reverse; lower center); stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (underneath)
+white earthenware ceramic plate with black oxide and white glaze
+Diameter: 17 in. (43.2 cm.)
+Conceived on 11 March 1953 and executed in an edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0012_000(pablo_picasso_corrida121916).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-12/278430?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+706fa602-3d6c-4313-b699-8e104d37cc9e,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 13,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Taureau gravé (A.R. 32),ceramics,"white earthenware ceramic, colored engobe, glaze",14.375,<NA>,<NA>,in,yes,yes,yes,1947,<NA>,"bull, plate, ceramics, yellow, black lines, decorative, animal, patterned, design",None,None,"Taureau gravé (A.R. 32)
+stamped, marked and numbered 'Madoura Plein Feu/ Edition Picasso/ I. 107/ 29/ 200' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Length: 14
+3
+⁄
+8
+ in. (36.3 cm.)
+Conceived in 1947 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0013_000(pablo_picasso_taureau_grave122002).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-13/278428?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+0335b595-11db-4b81-86b9-9e9686f66f82,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 14,USD,70000,100000,None,None,70000,100000,None,None,PABLO PICASSO,1881,1973,Taureau (A.R. 255),ceramics,"white earthenware ceramic, colored engobe and glaze",<NA>,<NA>,11.875,in,yes,yes,yes,1955,<NA>,"bull, pottery, black and white, decorative elements, yellow, horn, face, body, circular form, collar",None,None,"Taureau (A.R. 255)
+stamped and marked ‘Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ Exemplaire Editeur’ (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Height: 11
+7
+⁄
+8
+ in. (30.2 cm.)
+Conceived on 29 March 1955 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0014_000(pablo_picasso_taureau061403).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-14/278431?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,85000.0,70833.33333333334
+db1e26d6-0631-4339-929c-4e39e100e523,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 15,USD,60000,80000,None,None,60000,80000,None,None,PABLO PICASSO,1881,1973,Service scènes de corrida (set of 8 plates) (A.R. 416-423),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,17,17,in,no,yes,yes,1959,<NA>,"plates, animals, bull, landscape, figures, abstract shapes, yellow, blue, brown, ochre",None,None,"Service scènes de corrida (set of 8 plates) (A.R. 416-423)
+Paseo (A.R. 416) 
+dated '1.7.59.' (in reverse; lower center); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+Pase de cape (A.R. 417) 
+dated '1.7.59.' (in reverse; upper right); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+Picador (A.R. 418) 
+dated '1.7.59.' (in reverse; upper right); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+Banderilleros (A.R. 419) 
+dated '1.7.59.' (in reverse; upper right); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+Pase de muleta (A.R. 420) 
+dated '1.7.59.' (in reverse; lower right); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+Cogida (A.R. 421) 
+dated '1.7.59.' (in reverse; upper right); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+Estocado (A.R. 422) 
+dated '1.7.59.' (in reverse; upper right); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+Arrastro (A.R. 423) 
+dated '1.7.59.' (in reverse; upper right); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 1/ 50' (underneath)
+a complete set of 8 white earthenware ceramic plates with colored engobe and glaze
+Diameter: approximately 17 in. (43 cm.) each
+Conceived on 1 July 1959 and executed in a numbered edition of 50",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0015_000(pablo_picasso_service_scenes_de_corrida122254).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-15/278434?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,75000.0,62500.0
+e81658e1-6458-4097-a453-faecda1a522e,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 16,USD,20000,30000,None,None,20000,30000,None,None,PABLO PICASSO,1881,1973,Vallauris (A.R. 331),ceramics,"white earthenware ceramic plate with colored engobe, black oxide and glaze",<NA>,<NA>,<NA>,in,yes,yes,yes,1956,<NA>,"faces, smile, ceramic plate, color, abstract shapes, yellow, black, brown, white, Vallauris",None,None,"Vallauris (A.R. 331)
+inscribed and dated 'VALLAURIS 1956' (upper and lower center); stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ C103/ 42/ 100' (underneath)
+white earthenware ceramic plate with colored engobe, black oxide and glaze
+Diameter: 16
+5
+⁄
+8
+ in. (42.2 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0016_000(pablo_picasso_vallauris122919).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-16/278436?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,28000.0,23333.333333333336
+17a2af26-f85d-4e8e-9461-b7796ad08391,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 17,USD,30000,50000,None,None,30000,50000,None,None,PABLO PICASSO,1881,1973,Visage au nez noir (A.R. 609),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,13.25,in,yes,yes,yes,1969,<NA>,"vase, face, eye, fish, dots, handle, colors, patterns, ceramic",None,None,"Visage au nez noir (A.R. 609)
+dated '9.1.69.' (on the side); stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 79/ 200' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Height: 13
+1
+⁄
+4
+ in. (34 cm.)
+Conceived on 9 January 1969 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0017_000(pablo_picasso_visage_au_nez_noir062620).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-17/278435?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,42000.0,35000.0
+53de73b4-9c82-416f-a00c-5e648dfa235f,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 18,USD,8000,12000,None,None,8000,12000,None,None,PABLO PICASSO,1881,1973,Visage géométrique (A.R. 357),ceramics,"white earthenware ceramic plate with ceramic pastels, colored engobe and glaze",<NA>,15,<NA>,in,yes,yes,yes,1956,<NA>,"face, geometric design, eyes, eyebrows, nose, mouth, oval shape, ceramics, colors, decoration",None,None,"Visage géométrique (A.R. 357)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ D.100Bis/ 33/ 100' (underneath)
+white earthenware ceramic plate with ceramic pastels, colored engobe and glaze
+Diameter: 15 in. (38.1 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0018_000(pablo_picasso_visage_geometrique123153).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-18/278432?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+db733bc9-9870-4ab3-a854-7fe87396ca62,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 19,USD,15000,20000,None,None,15000,20000,None,None,PABLO PICASSO,1881,1973,Bouteille gravée (A.R. 249),ceramics,"white earthenware ceramic, black oxide, black engobe, glaze",<NA>,<NA>,17.625,in,yes,yes,yes,1954,<NA>,"vase, face, abstract, lines, color, stripes, ceramic, decoration, shape, design",None,None,"Bouteille gravée (A.R. 249)
+marked and numbered 'Edition Picasso/ Madoura/ 172/ 300' (underneath)
+white earthenware ceramic vase, partially engraved, with black oxide, black engobe and glaze
+Height: 17
+5
+⁄
+8
+ in. (44.8 cm.)
+Conceived in 1954 and executed in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0019_000(pablo_picasso_bouteille_gravee123237).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-19/278433?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+da633c63-7d07-44bc-b343-f1617e3be4af,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 20,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Visage géométrique (A.R. 344),ceramics,white earthenware ceramic,<NA>,<NA>,<NA>,in,yes,yes,yes,1956,<NA>,"face, geometric, ceramics, plate, abstract design",None,None,"Visage géométrique (A.R. 344)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ A 102/ 40/ 100' (underneath)
+white earthenware ceramic plate
+Diameter: 14
+1
+⁄
+4
+ in. (36 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0020_000(pablo_picasso_visage_geometrique123410).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-20/278437?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+98e814a7-d709-4c87-85fd-c7a957f3f311,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 21,USD,140000,180000,None,None,140000,180000,None,None,PABLO PICASSO,1881,1973,Tripode (A.R. 125),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,29.625,in,yes,yes,yes,1951,<NA>,"vessel, face, stripes, blue, green, legs, ceramic, abstract, art",None,None,"Tripode (A.R. 125)
+stamped 'Edition Picasso/ Madoura Plein Feu' (underneath); marked and numbered 'Edition Picasso/ Madoura/ 11/ 75' (on the side of the back foot)
+white earthenware ceramic vase, partially engraved, with colored engobe and glaze
+Height: 29
+5
+⁄
+8
+ in. (75.3 cm.)
+Conceived in 1951 and executed in a numbered edition of 75",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0021_000(pablo_picasso_tripode042157).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-21/278439?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,165000.0,137500.0
+28d1605b-aa5c-40fe-a9b6-f29732a4b323,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 22,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Visage no. 144 (A.R. 480),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1963,<NA>,"plate, face, eyes, mouth, blue, green, yellow, black, abstract, ceramic",None,None,"Visage no. 144 (A.R. 480)
+marked and numbered 'Edition Picasso/ Madoura/ N°144/ 56/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25.1 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0022_000(pablo_picasso_visage_no_144123810).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-22/278438?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7500.0,6250.0
+c0597e28-8955-4e6e-ae96-720a4e09757d,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 23,USD,20000,30000,None,None,20000,30000,None,None,PABLO PICASSO,1881,1973,Femme du barbu (A.R. 193),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,14.875,in,yes,yes,yes,1953,<NA>,"jug, face, woman, green, black, brown, decoration, pottery, lines",None,None,"Femme du barbu (A.R. 193)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Height: 14
+7
+⁄
+8
+ in. (37.7 cm.)
+Conceived on 10 July 1953 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0023_000(pablo_picasso_femme_du_barbu063348).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-23/278440?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,28000.0,23333.333333333336
+939f9df8-fb9e-4737-8a70-dd11a89b0bf2,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 24,USD,20000,30000,None,None,20000,30000,None,None,PABLO PICASSO,1881,1973,Visage de femme (A.R. 220),ceramics,"white earthenware ceramic, colored engobe and glaze",15.125,<NA>,<NA>,in,no,yes,yes,1953,<NA>,"face, woman, black background, decorative plate, abstract lines, white accents, colored dots, hair",None,None,"Visage de femme (A.R. 220)
+stamped 'Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Length: 15
+1
+⁄
+8
+ in. (38.5 cm.)
+Conceived in 1953 and executed in an edition of 400",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0024_000(pablo_picasso_visage_de_femme124034).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-24/278443?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+db5eaf86-09a2-4659-b685-fdf1718f2c31,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 25,USD,70000,100000,None,None,70000,100000,None,None,PABLO PICASSO,1881,1973,Canard pique-fleurs (A.R. 117),ceramics,"white earthenware ceramic, colored engobe, glaze",17.25,<NA>,<NA>,in,yes,yes,yes,1951,<NA>,"vessel, face, plants, blue, black, green, red, abstract shapes, decoration, pottery",None,None,"Canard pique-fleurs (A.R. 117)
+marked and numbered 'Edition Picasso/ Madoura/ 37/ 50' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Length: 17
+1
+⁄
+4
+ in. (43.8 cm.)
+Conceived in 1951 and executed in a numbered edition of 50",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0025_000(pablo_picasso_canard_pique-fleurs063016).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-25/278442?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,95000.0,79166.66666666667
+116de5a8-56a2-48b3-9da7-133d86abaadc,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 27,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Visage no. 130 (A.R. 479),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1963,<NA>,"face, abstract, blue, green, red, black, round, ceramic, painted, pattern",None,None,"Visage no. 130 (A.R. 479)
+marked and numbered 'Edition Picasso/ Madoura/ N° 130/ 124/ 500' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 10
+1
+⁄
+8
+ in. (25.5 cm.)
+Conceived in 1963 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0027_000(pablo_picasso_visage_no_130124531).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-27/278445?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+b83b6c71-9224-4721-93cd-93fcd7caa94b,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 28,USD,2500,3500,None,None,2500,3500,None,None,PABLO PICASSO,1881,1973,Pichet têtes (A.R. 221),ceramics,white earthenware ceramic with black oxide and white glaze,<NA>,<NA>,5.125,in,yes,yes,yes,1953,<NA>,"pitcher, face, plant motifs, lines, abstract shapes",None,None,"Pichet têtes (A.R. 221)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura' (underneath)
+white earthenware ceramic pitcher with black oxide and white glaze
+Height: 5
+1
+⁄
+8
+ in. (12.9 cm.)
+Conceived in 1953 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0028_000(pablo_picasso_pichet_tetes124616).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-28/278446?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+fde89c55-6a7d-4986-9f1e-0eb08159f3ec,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 29,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Visage no. 193 (A.R. 493),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,10.125,10.125,in,yes,yes,yes,1963,<NA>,"round plate, abstract face, blue color, black outline, red line, white background, green shape, two eyes, smiling mouth, orange shape",None,None,"Visage no. 193 (A.R. 493)
+marked and numbered 'Edition Picasso/ Madoura/ N° 193/ 38/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 10
+1
+⁄
+8
+ in. (25.5 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0029_000(pablo_picasso_visage_no_193124806).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-29/278444?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9500.0,7916.666666666667
+07305f48-96ca-4f17-a6b4-3dafa4f78ad4,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 30,USD,25000,35000,None,None,25000,35000,None,None,PABLO PICASSO,1881,1973,Pichet à glace (A.R. 143),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,13.5,in,yes,yes,yes,1952,<NA>,"vase, face, abstract shapes, blue, green, black, white, ceramic, decor, handle",None,None,"Pichet à glace (A.R. 143)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 12/ 50' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Height: 13
+1
+⁄
+2
+ in. (34.4 cm.)
+Conceived in 1952 and executed in a numbered edition of 50",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0030_000(pablo_picasso_pichet_a_glace063501).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-30/278448?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+26b9bec4-742b-4ed8-8846-930dce55a50f,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 31,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Visage aux points (A.R. 610),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,11.75,in,yes,yes,yes,1969,<NA>,"face, ceramic, blue, orange, green, dots, shapes, abstract, eyes, mouth",None,None,"Visage aux points (A.R. 610)
+dated '9.1.69' (on the side); stamped, marked and numbered 'Madoura Plein Feu/ Edition Picasso/ Madoura/ Edition Picasso/ 119/ 350' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Height: 11
+3
+⁄
+4
+ in. (27.2 cm.)
+Conceived on 9 January 1969 and executed in a numbered edition of 350",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0031_000(pablo_picasso_visage_aux_points125052).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-31/278447?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+74d539ff-5b4c-45bc-ae3b-ccc138b1d9f0,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 32,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Visage no. 203 (A.R. 496),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1963,<NA>,"plate, face, color, eyes, nose, mouth, clown, white, blue, green",None,None,"Visage no. 203 (A.R. 496)
+marked and numbered 'Edition Picasso/ Madoura/ N°203/ 10/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25.1 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0032_000(pablo_picasso_visage_no_203125229).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-32/278450?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+65ee026d-78b0-4785-a482-a2e3fb11fee7,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 33,USD,60000,80000,None,None,60000,80000,None,None,PABLO PICASSO,1881,1973,Vase aztèque aux quatres visages (A.R. 402),ceramics,"white earthenware ceramic, colored engobe",<NA>,<NA>,20.5,in,yes,yes,yes,1957,<NA>,"vase, face, ceramic, handle, blue patterns, decorative, tribal art, circular base, painted details, Aztec",None,None,"Vase aztèque aux 
+quatres 
+visages 
+(
+A.R. 
+402
+)
+stamped, marked and numbered ‘Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 14/ 100’ (underneath)
+white earthenware ceramic vessel, partially engraved, with colored engobe
+Height: 20
+1
+⁄
+2
+ in. (52 cm.)
+Conceived in 1957 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0033_000(pablo_picasso_vase_azteque_aux_quatres_visages042239).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-33/278452?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,72000.0,60000.0
+5e3b4352-e253-474a-8416-a21c3ea5b872,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 34,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Profil de Jacqueline (A.R. 383),ceramics,white earthenware ceramic plaque with black oxide and white glaze,<NA>,7.25,7.25,in,no,yes,yes,1956,<NA>,"face, profile, woman, line drawing, ceramic, Picasso, artwork, minimalist, decorative art, expression",None,None,"Profil de Jacqueline (A.R. 383)
+stamped 'Empreinte Originale de Picasso/ Madoura Plein Feu' (on the reverse)
+white earthenware ceramic plaque with black oxide and white glaze
+Diameter: 7
+1
+⁄
+4
+ in. (18.5 cm.)
+Conceived in 1956 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0034_000(pablo_picasso_profil_de_jacqueline125633).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-34/278449?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+c75e17c6-588e-4a2b-bb7d-a58d09959558,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 35,USD,25000,35000,None,None,25000,35000,None,None,PABLO PICASSO,1881,1973,Vase deux anses hautes (A.R. 213),ceramics,"white earthenware ceramic, black and white engobe and glaze",<NA>,<NA>,15,in,yes,yes,yes,1953,<NA>,"vase, face, two handles, floral decoration, geometric patterns, black, white, ceramic, abstract figure",None,None,"Vase deux anses hautes (A.R. 213)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu' (underneath)
+white earthenware ceramic vase, partially engraved, with black and white engobe and glaze
+Height: 15 in. (38 cm.)
+Conceived in 1953 and executed in an edition of 400",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0035_000(pablo_picasso_vase_deux_anses_hautes062200).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-35/278451?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+d50ed3b4-2c18-4649-8740-745e387952ab,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 36,USD,10000,15000,None,None,10000,15000,None,None,PABLO PICASSO,1881,1973,Quatre profils enlacés (A.R. 88),ceramics,white earthenware ceramic plate with black oxide and white glaze,<NA>,<NA>,<NA>,in,no,yes,yes,1949,<NA>,"faces, flowers, geometric shapes, abstract forms, profiles",None,None,"Quatre profils enlacés (A.R. 88)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (underneath)
+white earthenware ceramic plate with black oxide and white glaze
+Diameter: 10
+1
+⁄
+4
+ in. (26.2 cm.)
+Conceived in 1949 and executed in an edition of 25",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0036_000(pablo_picasso_quatre_profils_enlaces010034).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-36/278453?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+d93c34d1-d970-4e37-aad9-3a97c8d8b050,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 37,USD,18000,25000,None,None,18000,25000,None,None,PABLO PICASSO,1881,1973,Visage de profil (A.R. 209),ceramics,"terracotta, colored engobe, glaze",<NA>,<NA>,9.625,in,yes,yes,yes,1953,<NA>,"vase, profile, face, decorative pattern, reddish-brown, black, white, linear design, features, ceramic",None,None,"Visage de profil (A.R. 209)
+dated '19.12.53.' (on the side); stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ R-154/ 59/ 150' (underneath)
+terracotta vase, partially engraved, with colored engobe and glaze
+Height: 9
+5
+⁄
+8
+ in. (24.8 cm.)
+Conceived on 19 December 1953 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0037_000(pablo_picasso_visage_de_profil010123).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-37/278454?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+b3a9dd00-b230-425c-b89f-3d8121680106,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 38,USD,20000,30000,None,None,20000,30000,None,None,PABLO PICASSO,1881,1973,Tête de femme couronnée de fleurs (A.R. 237),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,9,in,yes,yes,yes,1954,<NA>,"woman, face, flowers, ceramics, art, color, design, portrait, decorative, abstract",None,None,"Tête de femme couronnée de fleurs (A.R. 237)
+dated '20.3.54.' (on the side); marked and numbered 'Edition Picasso/ Madoura/ R-157/ 39/ 100' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Height: 9 in. (22.9 cm.)
+Conceived on 20 March 1954 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0038_000(pablo_picasso_tete_de_femme_couronnee_de_fleurs010316).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-38/278455?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+c3f5a283-5e64-467b-80de-e5918bf20c26,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 39,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Faune cavalier (A.R. 336),ceramics,white earthenware ceramic,<NA>,16.875,16.875,in,yes,yes,yes,1956,<NA>,"horse, rider, sun, moon, symbols, patterns, animals, circular, engraved, foliage",None,None,"Faune cavalier (A.R. 336)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ CIII/ 31/ 100' (underneath)
+white earthenware ceramic plate
+Diameter: 16
+7
+⁄
+8
+ in. (42.8 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0039_000(pablo_picasso_faune_cavalier010625).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-39/278457?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+1f42130a-281b-461f-ab57-37d86baf29bc,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 40,USD,70000,100000,None,None,70000,100000,None,None,PABLO PICASSO,1881,1973,Personnages et têtes (A.R. 242),ceramics,"terracotta, black and white engobe",<NA>,<NA>,21.625,in,no,yes,yes,1954,<NA>,"figurines, human figures, male figures, female figures, faces, horns, foliage, vertical stripes, ceramics, terracotta",None,None,"Personnages et têtes (A.R. 242)
+stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 12/ 25' (to the interior)
+terracotta vase, partially engraved, with black and white engobe
+Height: 21
+5
+⁄
+8
+ in. (58.1 cm.)
+Conceived in 1954 and executed in a numbered edition of 25",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0040_000(pablo_picasso_personnages_et_tetes061652).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-40/278456?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,85000.0,70833.33333333334
+835eea00-31be-474e-982a-f8aff6bf36df,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 41,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Visage de faune tourmenté (A.R. 319),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,16.625,16.625,in,yes,yes,yes,1956,<NA>,"face, blue, white, circular, decorative patterns, human features, lines, dots",None,None,"Visage de faune tourmenté 
+(A.R. 319)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Orginale de Picasso/ Made in France/ C110/ 12/ 100' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 16
+5
+⁄
+8
+ in. (42.3 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0041_000(pablo_picasso_visage_de_faune_tourmente042321).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-41/278458?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9500.0,7916.666666666667
+d3c1a567-1b3f-4453-afc3-68dee137d936,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 42,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Joueur de flute et chèvre (A.R. 382),ceramics,white earthenware ceramic plaque with black oxide and white glaze,<NA>,10.25,10.25,in,no,yes,yes,1956,<NA>,"flute player, goat, trees, geometric shapes",None,None,"Joueur de flute et chèvre (A.R. 382)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (on the reverse)
+white earthenware ceramic plaque with black oxide and white glaze
+Diameter: 10
+1
+⁄
+4
+ in. (26.2 cm.)
+Conceived in 1956 and executed in an edition of 450",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0042_000(pablo_picasso_joueur_de_flute_et_chevre011122).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-42/278459?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+6a68df56-adf6-49dc-b5d9-034fa0b0de56,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 43,USD,8000,12000,None,None,8000,12000,None,None,PABLO PICASSO,1881,1973,Profil de Jacqueline (A.R. 457),ceramics,"terracotta, black engobe, glaze",<NA>,<NA>,<NA>,in,yes,yes,yes,1962,<NA>,"plate, profile, face, woman, black background, terracotta color, foliage design, line drawing, expression, artistic decoration",None,None,"Profil de Jacqueline (A.R. 457)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ N° 89/ 100' (underneath)
+terracotta plate, partially engraved, with black engobe and glaze
+Diameter: 14 in. (35.3 cm.)
+Conceived in 1962 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0043_000(pablo_picasso_profil_de_jacqueline011212).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-43/278461?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+5bd715da-7bf8-4d4a-8de6-0d9b8652ac00,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 44,USD,50000,70000,None,None,50000,70000,None,None,PABLO PICASSO,1881,1973,"Joueur de flute, danseur et buveur",ceramics,white earthenware ceramic plaque with colored engobe and glaze,<NA>,30.5,25.5,cm,yes,yes,yes,1957,"Anon. sale, Christie’s, New York, 12 February 1987 lot 117.
+Acquired at the above sale by the family of the present owner.","figures, woman, man, horse, dance, music, blue color, lines, movement, shapes",None,None,"Joueur de flute, danseur et buveur
+dated '7.3.57.' (upper right); signed 'Picasso' (on the reverse)
+white earthenware ceramic plaque with colored engobe and glaze
+25.5 x 30.5 cm. (10 x 12 in.)
+Conceived and executed on 7 March 1957; unique",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0044_000(pablo_picasso_joueur_de_flute_danseur_et_buveur011255).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-44/278462?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+9f3fa849-3cae-4dba-8f23-d1bba3d25bf5,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 45,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Joie de vivre (A.R. 346),ceramics,white earthenware ceramic,<NA>,<NA>,<NA>,in,yes,yes,yes,1956,<NA>,"plate, figures, trees, sun, stars, landscape, dancing, grass, abstract, outlines",None,None,"Joie de vivre (A.R. 346)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ C 102/ 48/ 100' (underneath)
+white earthenware ceramic plate
+Diameter: 16
+1
+⁄
+4
+ in. (41.5 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0045_000(pablo_picasso_joie_de_vivre011340).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-45/278463?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+0f1bb05c-a46c-469d-bb48-827659871a80,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 46,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Centaure et visage (A.R. 188),ceramics,"terracotta, black engobe, glaze",<NA>,<NA>,10.625,in,yes,yes,yes,1953,<NA>,"ceramic, pitcher, black, orange, face, abstract, texture, design, handle, art",None,None,"Centaure et visage (A.R. 188)
+stamped, marked and numbered 'Madoura Plein Feu/ Edition Picasso/ Madoura/ R 153/ 68/ 125' (underneath)
+terracotta pitcher with black engobe and glaze
+Height: 10
+5
+⁄
+8
+ in. (27 cm.)
+Conceived on 15 April 1953 and executed in a numbered edition of 125",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0046_000(pablo_picasso_centaure_et_visage080039).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-46/278460?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9200.0,7666.666666666667
+cac4ea56-ee9c-4589-a512-04e3e28e036c,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 47,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Femme échevelée (A.R. 510),ceramics,white earthenware ceramic,<NA>,10.5,10.5,in,yes,yes,yes,1963,<NA>,"female figure, abstract lines, hair, body, silhouette, round plate, texture, curves, patterns, engraving",None,None,"Femme échevelée (A.R. 510)
+stamped, marked and numbered 'Empreinte Originale de Picasso/ Madoura Plein Feu/ T.103/ 57/ 100' (underneath)
+white earthenware ceramic plate
+Diameter: 10
+1
+⁄
+2
+ in. (26.7 cm.)
+Conceived on 20 August 1963 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0047_000(pablo_picasso_femme_echevelee011740).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-47/278464?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+94a7d48e-4c0a-40f9-a687-154bc1c82007,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 48,USD,50000,70000,None,None,50000,70000,None,None,PABLO PICASSO,1881,1973,Le déjeuner sur l'herbe (A.R. 517),ceramics,"terracotta plaque, black engobe",<NA>,24.25,20,in,yes,yes,yes,1964,<NA>,"figures, woman, man, tree, animal, nudity, landscape, abstract shapes, lines, patterns",None,None,"Le déjeuner sur l'herbe (A.R. 517) 
+stamped and marked 'Madoura Plein Feu/ Empreinte Originale de Picasso/ Exemplaire Editeur' (on the reverse)
+terracotta plaque, partially engraved, with black engobe
+20 x 24
+1
+⁄
+4
+ in. (50.8 x 61.5 cm.)
+Conceived in 1964 and executed in a numbered edition of 50",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0048_000(pablo_picasso_le_dejeuner_sur_lherbe011821).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-48/278466?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,65000.0,54166.66666666667
+9abb24fe-59aa-4ee8-b007-f319f69431a2,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 49,USD,2500,3500,None,None,2500,3500,None,None,PABLO PICASSO,1881,1973,Danseurs (A.R. 388),ceramics,"white earthenware ceramic, black engobe, white glaze",<NA>,8,8,in,no,yes,yes,1956,<NA>,"dance, figures, lines, shapes, patterns, black background, white details",None,None,"Danseurs (A.R. 388)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (on the reverse)
+white earthenware ceramic plaque with black engobe and white glaze
+Diameter: 8 in. (20.2 cm.)
+Conceived in 1956 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0049_000(pablo_picasso_danseurs042404).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-49/278465?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+fd5537ba-6522-4612-ba9f-c6d68d4c3d99,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 50,USD,10000,15000,None,None,10000,15000,None,None,PABLO PICASSO,1881,1973,Vase au décor pastel (A.R. 190),ceramics,terracotta with colored pastels,<NA>,<NA>,12.25,in,yes,yes,yes,1953,<NA>,"vase, two handles, sun face, geometric patterns, earthy tones, painted decoration, terracotta, abstract shapes, circular motifs",None,None,"Vase au décor pastel (A.R. 190)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 43/ 200' (underneath)
+terracotta vase with colored pastels
+Height: 12
+1
+⁄
+4
+ in. (31.2 cm.)
+Conceived on 4 June 1953 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0050_000(pablo_picasso_vase_au_decor_pastel012015).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-50/278467?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+5953a38a-899a-4a6e-a3a3-a58bca5319e2,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 51,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Bouquet à la pomme (A.R. 307),ceramics,"white earthenware ceramic plate with black oxide, colored engobe and glaze",<NA>,<NA>,<NA>,in,no,yes,yes,1956,<NA>,"flowers, pot, apple, leaves, outline drawing, still life, green, brown, geometric pattern, table",None,None,"Bouquet à la pomme (A.R. 307)
+dated '22.1.56.' (in reverse; lower center); stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (underneath)
+white earthenware ceramic plate with black oxide, colored engobe and glaze
+Diameter: 9
+3
+⁄
+4
+ in. (24.7 cm.)
+Conceived on 22 January 1956 and executed in an edition of 400",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0051_000(pablo_picasso_bouquet_a_la_pomme015606).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-51/278468?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+d079bfda-4c7d-4326-9230-265da801fc79,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 52,USD,8000,12000,None,None,8000,12000,None,None,PABLO PICASSO,1881,1973,Nature morte (A.R. 219),ceramics,"white earthenware ceramic, colored engobe, glaze",14.75,<NA>,<NA>,in,yes,yes,yes,1953,<NA>,"still life, green shape, black background, jug, plate, white lines, brown elements, geometric patterns, blue triangles, abstract forms",None,None,"Nature morte (A.R. 219)
+stamped and marked 'd'Après Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Length: 14
+3
+⁄
+4
+ in. (37.7 cm.)
+Conceived in 1953 and executed in an edition of 400",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0052_000(pablo_picasso_nature_morte042527).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-52/278469?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,10500.0,8750.0
+e90811d6-0c6f-4c50-8cdd-9abbccc660a4,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 53,USD,8000,12000,None,None,8000,12000,None,None,PABLO PICASSO,1881,1973,Paysage (A.R. 208),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,16.5,in,no,yes,yes,1953,<NA>,"house, trees, moon, stars, landscape, steps, walls, garden, night, architecture",None,None,"Paysage (A.R. 208)
+stamped and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ 93/ 200' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Diameter: 16
+1
+⁄
+2
+ in. (41.8 cm.)
+Conceived on 9 December 1953 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0053_000(pablo_picasso_paysage015752).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-53/278472?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+786a278a-ff43-47d9-826e-159a7f8b7d11,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 54,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Bouquet à la pomme (A.R. 305),ceramics,"white earthenware ceramic plate with black oxide, colored engobe and glaze",<NA>,<NA>,<NA>,in,no,yes,yes,1956,<NA>,"flower, pot, leaves, orange, blue background, lines, shapes",None,None,"Bouquet à la pomme (A.R. 305)
+dated '22.1.56.' (in reverse; lower center); stamped 'Empreinte Originale de Picasso/ Madoura Plein Feu' (underneath)
+white earthenware ceramic plate with black oxide, colored engobe and glaze
+Diameter: 9
+3
+⁄
+4
+ in. (25 cm.)
+Conceived on 22 January 1956 and executed in an edition of 400",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0054_000(pablo_picasso_bouquet_a_la_pomme015846).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-54/278470?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+e9d0977c-08a6-4252-9c7d-3743428e3dca,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 55,USD,10000,15000,None,None,10000,15000,None,None,Pablo Picasso,1881,1973,Chouette (A.R. 605),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,11.25,in,yes,yes,yes,1969,<NA>,"owl, ceramic, vase, white patterns, dark background",None,None,"Chouette (A.R. 605)
+stamped, marked and numbered 'Edition Picasso/ Madoura/ Edition Picasso/ 42/ 500' (underneath)
+white earthenware ceramic vase, partially engraved, with colored engobe and glaze
+Height: 11
+1
+⁄
+4
+ in. (28.7 cm.)
+Conceived in 1969 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0055_000(pablo_picasso_chouette015944).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-55/278474?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+bafe6c78-5c3c-4247-aa85-d8f5b600d36c,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 56,USD,12000,18000,None,None,12000,18000,None,None,PABLO PICASSO,1881,1973,Tête de chèvre de profil (A.R. 154),ceramics,"white earthenware ceramic, colored engobe and glaze",<NA>,<NA>,<NA>,in,no,yes,yes,1952,<NA>,"fish, eye, yellow, blue, green, circular, patterns, abstract, ceramics, profile",None,None,"Tête de chèvre de profil (A.R. 154)
+stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 16/ 100' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Diameter: 16
+3
+⁄
+4
+ in. (42.5 cm.)
+Conceived in 1952 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0056_000(pablo_picasso_tete_de_chevre_de_profil020151).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-56/278471?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+c63d5c95-c151-4d80-a984-e8c09fed3fc6,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 57,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Vase aux chèvres (A.R. 156),ceramics,"white earthenware ceramic, black oxide, white glaze",<NA>,<NA>,7.5,in,no,yes,yes,1952,<NA>,"vase, goat, animal, ceramics, drawing, pottery, handle, horns, decoration, profile",None,None,"Vase aux chèvres (A.R. 156)
+dated '6.6.52.' (on the side); stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (underneath)
+white earthenware ceramic vase, partially engraved, with black oxide and white glaze
+Height: 7
+1
+⁄
+2
+ in. (19.1 cm.)
+Conceived on 6 June 1952 and executed in an edition of 40",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0057_000(pablo_picasso_vase_aux_chevres020246).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-57/278473?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+090d32af-adbf-4b33-b989-50360378bae9,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 58,USD,8000,12000,None,None,8000,12000,None,None,PABLO PICASSO,1881,1973,Tête de chèvre de profil (A.R. 145),ceramics,white earthenware ceramic plate with colored engobe and glaze,50.6,<NA>,<NA>,in,no,yes,yes,1952,<NA>,"goat, ceramic, plate, horn, blue, green, abstract, animal face, patterned, profile",None,None,"Tête de chèvre de profil (A.R. 145)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Length: 19
+7
+⁄
+8
+ in. (50.6 cm.)
+Conceived on 5 June 1952 and executed in an edition of 250",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0058_000(pablo_picasso_tete_de_chevre_de_profil020501).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-58/278475?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11500.0,9583.333333333334
+812865e3-09fd-4158-9228-8e183d6b98de,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 59,USD,10000,15000,None,None,10000,15000,None,None,PABLO PICASSO,1881,1973,Chouette (A.R. 607),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,11.875,in,yes,yes,yes,1969,<NA>,"owl, ceramic, pottery, brown hues, decorative art, animal, vessel, design, sculpture, Picasso",None,None,"Chouette (A.R. 607)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ R147/ 154/ 500' (underneath)
+white earthenware ceramic vase, partially engraved, with colored engobe and glaze
+Height: 11 7⁄8 in. (30.1 cm.)
+Conceived in 1969 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0059_000(pablo_picasso_chouette020551).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-59/278476?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+333f82c1-a3c4-499a-ab2c-a3aa6f806384,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 60,USD,12000,18000,None,None,12000,18000,None,None,PABLO PICASSO,1881,1973,Hibou rouge sur fond noir (A.R. 399),ceramics,"terracotta, colored engobe, glaze",<NA>,<NA>,<NA>,in,yes,yes,yes,1957,<NA>,"owl, orange, black background, plate, bird, eyes, wings, feathers, artwork, ceramics",None,None,"Hibou rouge sur fond noir 
+(A.R. 399)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ N-103/ 73/ 150' (underneath)
+terracotta bowl, partially engraved, with colored engobe and glaze
+Diameter: 17 1⁄4 in. (44 cm.)
+Conceived on 10 May 1957 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0060_000(pablo_picasso_hibou_rouge_sur_fond_noir020755).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-60/278478?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+db6e16c7-c62f-47b2-86ee-05791a5d67cc,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 61,USD,10000,15000,None,None,10000,15000,None,None,PABLO PICASSO,1881,1973,Femme (A.R. 297),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,12.875,in,yes,yes,yes,1955,<NA>,"woman, nude, blue, black, vase, pottery, figure, arms, breasts, jewelry",None,None,"Femme (A.R. 297)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic pitcher with colored engobe and glaze
+Height: 12
+7
+⁄
+8
+ in. (33 cm.)
+Conceived in 1955 and executed in an edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0061_000(pablo_picasso_femme020851).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-61/278479?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+bee4a09f-4330-4e11-a8f1-bf24587696d5,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 62,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Colombe mate (A.R. 77),ceramics,"white earthenware ceramic, colored engobe, glaze",15.125,<NA>,<NA>,in,yes,yes,yes,1948,<NA>,"dove, black background, orange border, green leaves, ceramic plate",None,None,"Colombe mate (A.R. 77)
+stamped and marked 'Madoura Plein Feu/ D'Après Picasso/ 3ème Version' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Length: 15
+1
+⁄
+8
+ in. (38.4 cm.)
+Conceived in 1948 and executed in an edition of 450",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0062_000(pablo_picasso_colombe_mate021146).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-62/278477?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+e2a0b9c6-24ea-4a22-85ff-7c9eced5a8b5,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 63,USD,8000,12000,None,None,8000,12000,None,None,PABLO PICASSO,1881,1973,Pichet gothique aux oiseaux (A.R. 187),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,11.5,in,yes,yes,yes,1953,<NA>,"jug, birds, polka dots, handle, green, brown, white, decoration, ceramic, design",None,None,"Pichet gothique aux oiseaux (A.R. 187)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ 83/100' (underneath)
+white earthenware ceramic pitcher, partially engraved, with colored engobe and glaze
+Height: 11
+1
+⁄
+2
+ in. (29.2 cm.)
+Conceived on 10 April 1953 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0063_000(pablo_picasso_pichet_gothique_aux_oiseaux021241).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-63/278481?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+04f7fd6d-15e3-4dc3-96b0-550555215b5e,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 64,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Deux oiseaux no. 95 (A.R. 487),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1963,<NA>,"birds, branches, plate, white, blue, black, round, perched, nature, ceramic",None,None,"Deux oiseaux no. 95 (A.R. 487)
+marked and numbered 'Edition Picasso/ Madoura/ N° 95/ 14/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25.2 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0064_000(pablo_picasso_deux_oiseaux_no_95021450).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-64/278480?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+56b9d747-2fde-40b1-a53a-8fb635bf129c,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 65,USD,10000,15000,None,None,10000,15000,None,None,PABLO PICASSO,1881,1973,Hibou noir perché (A.R. 398),ceramics,"terracotta, black engobe",<NA>,16.5,16.5,in,yes,yes,yes,1957,<NA>,"owl, bird, branch, round plate, black, terracotta, decorative art, animal, graphic design, eyes",None,None,"Hibou noir perché (A.R. 398)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ N-104/ 33/ 100' (underneath)
+terracotta plate, partially engraved, with black engobe
+Diameter: 16
+1
+⁄
+2
+ in. (42 cm.)
+Conceived on 7 May 1957 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0065_000(pablo_picasso_hibou_noir_perche021541).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-65/278482?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,13500.0,11250.0
+ccfb562e-ce46-46ee-b90b-235a4a8b4027,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 66,USD,12000,18000,None,None,12000,18000,None,None,PABLO PICASSO,1881,1973,Chouette (A.R. 542),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,11.5,in,yes,yes,yes,1968,<NA>,"vase, owl, ceramic, brown color, green accents, white spots, decoration, rounded shape, abstract design, standing",None,None,"Chouette 
+(A.R. 542)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ R.146/ 96/ 500' (underneath)
+white earthenware ceramic vase with colored engobe and glaze
+Height: 11
+1
+⁄
+2
+ in. (29.5 cm.)
+Conceived in 1968 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0066_000(pablo_picasso_chouette021658).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-66/278485?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,16500.0,13750.0
+5694e590-54d7-4e9f-8683-971d42cbccd3,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 67,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Chouette (A.R. 48),ceramics,"white earthenware ceramic, colored engobe, glaze",15.375,<NA>,<NA>,in,yes,yes,yes,1948,<NA>,"owl, snake, decorative plate, blue background, brown swirls, yellow eyes, abstract shapes, ceramic, animal motif, green circles",None,None,"Chouette (A.R. 48)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ I. 112/ 124/ 200' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Length: 15
+3
+⁄
+8
+ in. (39 cm.)
+Conceived in 1948 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0067_000(pablo_picasso_chouette042650).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-67/278484?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+52e1dd8d-4636-4496-90a0-8e4df1376501,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 68,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Scène de plage (A.R. 391),ceramics,white earthenware ceramic plaque with black engobe and white glaze,<NA>,<NA>,9.75,in,no,yes,yes,1956,<NA>,"figures, diving board, boat, water, clouds, people, shoreline, landscape, sun, animals",None,None,"Scène de plage (A.R. 391)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (on the reverse)
+white earthenware ceramic plaque with black engobe and white glaze
+Diameter: 9
+3
+⁄
+4
+ in. (25.9 cm.)
+Conceived in 1956 and executed in an edition of 450",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0068_000(pablo_picasso_scene_de_plage022132).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-68/278483?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+3ab96efd-7920-4f31-894f-dde37f558e41,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 69,USD,6000,8000,None,None,6000,8000,None,None,Pablo Picasso,1881,1973,Mains au poisson (A.R. 215),ceramics,terracotta plate with colored engobe and glaze,<NA>,<NA>,12.5,in,yes,yes,yes,1953,<NA>,"fish, hand, ceramic plate, orange, black, blue, green, decorative patterns, abstract shapes, circular",None,None,"Mains au poisson (A.R. 215)
+stamped, marked and numbered 'Empreinte Originale de Picasso/ Madoura Plein Feu/ Madoura/ I-118/ 111/ 250' (underneath)
+terracotta plate with colored engobe and glaze
+Diameter: 12
+1
+⁄
+2
+ in. (32 cm.)
+Conceived in 1953 and executed in a numbered edition of 250",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0069_000(pablo_picasso_mains_au_poisson022225).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-69/278486?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+cca2c959-5445-478c-a8e3-e9a39cb7e281,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 70,USD,18000,25000,None,None,18000,25000,None,None,PABLO PICASSO,1881,1973,Poisson de profil (A.R. 132),ceramics,white earthenware ceramic plate with colored engobe and glaze,12.75,<NA>,<NA>,in,yes,yes,yes,1951,<NA>,"fish, plate, blue, green, eye, scales, fins, stripes, texture, patterned",None,None,"Poisson de profil (A.R. 132)
+stamped and marked 'Empreinte Originale de Picasso/ Madoura Plein Feu' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Length: 12
+3
+⁄
+4
+ in. (32.5 cm.)
+Conceived in 1951 and executed in an edition of 25",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0070_000(pablo_picasso_poisson_de_profil022313).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-70/278487?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+d39f4d6d-7dfd-4b77-97a9-92cbbcbf6e73,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 71,USD,2000,3000,None,None,2000,3000,None,None,PABLO PICASSO,1881,1973,Service poisson (A.R. 27),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1947,<NA>,"fish, plate, blue, green, red, yellow, white, decoration, ceramic, abstract",None,None,"Service poisson (A.R. 27)
+stamped and marked 'Madoura Plein Feu/ W/ W' and with the Suzanne Ramié monogram (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 8
+3
+⁄
+8
+ in. (23.9 cm.)
+Conceived in 1947 and executed in an edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0071_000(pablo_picasso_service_poisson022341).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-71/278488?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,2800.0,2333.3333333333335
+d5058532-9b8b-4df0-b2a5-93800b95eb59,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 72,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Mains au poisson (A.R. 216),ceramics,"terracotta, black and white engobe",<NA>,<NA>,12.375,in,no,yes,yes,1953,<NA>,"hand, fish, orange, black, contours, texture",None,None,"Mains au poisson (A.R. 216)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (underneath)
+terracotta bowl, partially engraved, with black and white engobe
+Diameter: 12
+3
+⁄
+8
+ in. (31.3 cm.)
+Conceived in 1953 and executed in an edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0072_000(pablo_picasso_mains_au_poisson022436).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-72/278489?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+3ddc6dcf-980b-46ba-acc2-467b97c716ee,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 73,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Hibou (A.R. 253),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,9.75,in,yes,yes,yes,1954,<NA>,"jug, owl, blue, white, ceramic, handle, abstract patterns, spots, decoration, rounded form",None,None,"Hibou (A.R. 253)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura' (underneath)
+white earthenware ceramic pitcher with colored engobe and glaze
+Height: 9
+3
+⁄
+4
+ in. (24.7 cm.)
+Conceived in 1954 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0073_000(pablo_picasso_hibou022530).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-73/278490?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+d2078e92-0c31-4424-9ab1-dc1fdb2adc04,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 74,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Oiseau polychrome (A.R. 33),ceramics,"white earthenware ceramic, colored engobe, glaze",14.25,<NA>,<NA>,in,yes,yes,yes,1947,<NA>,"bird, blue, red, green, plate, illustration, abstract, ceramic, decorative, polychrome",None,None,"Oiseau polychrome (A.R. 33)
+stamped, marked and numbered 'Madoura Plein Feu/ Edition Picasso/ I. 106/ 37/ 200' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Length: 14
+1
+⁄
+4
+ in. (36.2 cm.)
+Conceived in 1947 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0074_000(pablo_picasso_oiseau_polychrome022739).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-74/278491?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9200.0,7666.666666666667
+3f7108e8-f514-471f-870c-d3d91db2473d,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 75,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Tête de chèvre de profil (A.R. 105),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,no,yes,yes,1950,<NA>,"goat, flowers, blue, green, white, round plate, ceramics",None,None,"Tête de chèvre de profil (A.R. 105)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 10
+1
+⁄
+2
+ in. (26.6 cm.)
+Conceived in 1950 and executed in an edition of 50",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0075_000(pablo_picasso_tete_de_chevre_de_profil022834).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-75/278492?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+dcf9e02a-9d4f-4387-aad0-67d020a35748,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 76,USD,6000,8000,None,None,6000,8000,None,None,PABLO PICASSO,1881,1973,Chouette aux taches (A.R. 120),ceramics,white earthenware ceramic with colored engobe and glaze,<NA>,<NA>,11.375,in,yes,yes,yes,1951,<NA>,"vase, owl, abstract shapes, black paint, brown paint, white surface",None,None,"Chouette aux taches (A.R. 120)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic vase with colored engobe and glaze
+Height: 11
+3
+⁄
+8
+ in. (29 cm.)
+Conceived in 1951 and executed in an edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0076_000(pablo_picasso_chouette_aux_taches022927).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-76/278494?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,7200.0,6000.0
+6e0a4ccc-d012-43dc-b8e7-0fd505dfb739,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 77,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Colombe à la lucarne (A.R. 78),ceramics,"white earthenware ceramic, colored engobe, glaze",14.5,<NA>,<NA>,in,yes,yes,yes,1949,<NA>,"bird, feathers, brick, wall, grass, flower, blue, white, black, plate",None,None,"Colombe à la lucarne (A.R. 78)
+stamped, marked and numbered 'Madoura Plein Feu/ Edition Picasso/ 61/ 200' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Length: 14
+1
+⁄
+2
+ in. (37 cm.)
+Conceived in 1949 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0077_000(pablo_picasso_colombe_a_la_lucarne042815).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-77/278495?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9500.0,7916.666666666667
+23d3d723-bc92-460e-a6d4-1ffcf404e1a3,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 78,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Sujet poule (A.R. 250),ceramics,white earthenware ceramic with colored engobe and glaze,7.75,<NA>,<NA>,in,yes,yes,yes,1954,<NA>,"chicken, blue, white, pottery, abstract shapes, design",None,None,"Sujet poule (A.R. 250)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic vessel with colored engobe and glaze
+Length: 7
+3
+⁄
+4
+ in. (18.5 cm.)
+Conceived in 1954 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0078_000(pablo_picasso_sujet_poule023227).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-78/278493?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+d06a8a29-ea20-4626-b02c-8bf6f15f9599,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 79,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Picador et taureau (A.R. 197),ceramics,"white earthenware ceramic plate with black oxide, colored engobe and glaze",<NA>,<NA>,<NA>,in,no,yes,yes,1953,<NA>,"horse, bull, rider, yellow, blue, ceramic, landscape, grass, silhouette, lances",None,None,"Picador et taureau (A.R. 197)
+dated '25.9.53.' (in reverse; lower center); stamped and numbered 'Empreinte Originale de Picasso/ Madoura Plein Feu/ 176/ 200' (underneath)
+white earthenware ceramic plate with black oxide, colored engobe and glaze
+Diameter: 9
+5
+⁄
+8
+ in. (24.4 cm.)
+Conceived on 25 September 1953 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0079_000(pablo_picasso_picador_et_taureau023433).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-79/278497?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5700.0,4750.0
+c754e682-e7d0-4080-9713-b76f254098be,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 80,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Scène de tauromachie (A.R. 410),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1959,<NA>,"horses, riders, bullfighting, sculpture, relief, circular, ceramic, brown, white, blue",None,None,"Scène de tauromachie (A.R. 410)
+dated '11.6.59.' (in reverse; lower center); stamped and marked 'Madoura Plein Feu/ Empreinte Originale de Picasso/ Exemplaire Editeur/ 12/ 100' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 16
+3
+⁄
+4
+ in. (42.5 cm.)
+Conceived on 11 June 1959 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0080_000(pablo_picasso_scene_de_tauromachie023523).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-80/278496?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+1488b6aa-a113-49f6-b344-18d8e061a6ce,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 81,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Profil de taureau (A.R. 317),ceramics,white earthenware ceramic plaque with black oxide and white glaze,<NA>,<NA>,9.875,in,no,yes,yes,1956,<NA>,"bull, ceramic, plate, animal, profile, black, collar, green, decoration, ear",None,None,"Profil de taureau (A.R. 317)
+dated 'XXII II 56' (in reverse; lower right); stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (on the reverse)
+white earthenware ceramic plaque with black oxide and white glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25.1 cm.)
+Conceived on 22 February 1956 and executed in an edition of 450",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0081_000(pablo_picasso_profil_de_taureau023616).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-81/278499?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+a52a2db2-e22e-4aba-9867-a1a753f69735,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 82,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Visage de faune (A.R. 283),ceramics,white earthenware ceramic,<NA>,10,<NA>,in,no,yes,yes,1955,<NA>,"face, features, lines, pottery, abstract shapes, textures, date, circular form, monochrome",None,None,"Visage de faune (A.R. 283)
+dated '28.6.55.' (upper right); stamped 'Empreinte Originale de Picasso/ Madoura Plein Feu' (underneath)
+white earthenware ceramic plate
+Diameter: 10 in. (25.3 cm.)
+Conceived on 28 June 1955 and executed in an edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0082_000(pablo_picasso_visage_de_faune023707).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-82/278498?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+8ac59e9e-4216-4479-8148-fe3c8ed189d7,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 83,USD,8000,12000,None,None,8000,12000,None,None,PABLO PICASSO,1881,1973,Centaure (A.R. 339),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1956,<NA>,"centaur, horse, yellow plate, figure, rider, pottery, ceramic, abstract design, patterns, painted decoration",None,None,"Centaure (A.R. 339)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ C-112/ 48/ 100' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 16
+5
+⁄
+8
+ in. (42.2 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0083_000(pablo_picasso_centaure023758).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-83/278500?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+a4b8b6d4-f6be-44b0-bbdb-65b8e8eefe33,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 84,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Tête de faune (A.R. 51),ceramics,white earthenware ceramic plate with colored engobe and glaze,15.375,<NA>,<NA>,in,yes,yes,yes,1948,<NA>,"plate, abstract face, diamond shape, blue lines, pink brushstrokes, green leaves, yellow border, artistic patterns, geometric design",None,None,"Tête de faune (A.R. 51)
+stamped, marked and numbered 'Madoura Plein Feu/ Edition Picasso/ I.122/ 132/ 300' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Length: 15
+3
+⁄
+8
+ in. (39.2 cm.)
+Conceived on 10 March 1948 and executed in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0084_000(pablo_picasso_tete_de_faune023853).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-84/278502?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+97f3f2c2-aea0-46a1-9f42-0bca8a766ac8,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 85,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Centaure (A.R. 338),ceramics,white earthenware ceramic,<NA>,16.625,16.625,in,yes,yes,yes,1956,<NA>,"centaur, horse, plate, figure, outline, circular, pattern, carving",None,None,"Centaure (A.R. 338)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ C 112/ 18/ 100' (underneath)
+white earthenware ceramic plate
+Diameter: 16
+5
+⁄
+8
+ in. (42.2 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0085_000(pablo_picasso_centaure023947).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-85/278501?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+619fa3ce-c837-46bc-bffc-6ab1349755f9,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 86,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Visage no. 101 (A.R. 475),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,10,<NA>,in,yes,yes,yes,1963,<NA>,"plate, face, eyes, green, black, yellow, red, abstract, design, ceramics",None,None,"Visage no. 101 (A.R. 475)
+marked and numbered 'Edition Picasso/ Madoura/ N° 101/ 36/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 10 in. (25.5 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0086_000(pablo_picasso_visage_no_101024041).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-86/278503?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+064fe0c6-d0c8-401a-9764-35ec3d67069d,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 87,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Yan barbu (A.R. 513),ceramics,"terracotta, black engobe",<NA>,<NA>,10.75,in,yes,yes,yes,1963,<NA>,"ceramic vase, face, handle, abstract patterns, black decoration, orange background, human figure, bearded man, artistic design",None,None,"Yan barbu (A.R. 513)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 104/ 300' (underneath)
+terracotta pitcher, partially engraved, with black engobe
+Height: 10
+3
+⁄
+4
+ in. (27.7 cm.)
+Conceived on 30 August 1963 and executed in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0087_000(pablo_picasso_yan_barbu024137).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-87/278506?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+bd3cb5d3-1c6d-4709-95cf-71b94b43b603,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 88,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Visage aux yeux carrés (A.R. 415),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,no,yes,yes,1959,<NA>,"face, ceramic, smile, eyes, beard, hair, blue, red, round, abstract",None,None,"Visage aux yeux carrés (A.R. 415)
+stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 54/ 100' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25 cm.)
+Conceived on 29 June 1959 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0088_000(pablo_picasso_visage_aux_yeux_carres024352).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-88/278504?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+68eb5748-efd1-4e6d-8c31-e07c3703089d,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 89,USD,5000,7000,None,None,5000,7000,None,None,Pablo Picasso,1881,1973,Visage no. 197 (A.R. 494),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1963,<NA>,"face, round plate, blue, green, black, white, abstract features",None,None,"Visage no. 197 (A.R. 494)
+marked and numbered 'Edition Picasso/ Madoura/ N° 197/ 484/ 500' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25.1 cm.)
+Conceived in 1963 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0089_000(pablo_picasso_visage_no_197024448).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-89/278505?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+ecb2a156-ee71-4915-b2d0-3257cf7d6bf2,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 90,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Visage en gros relief (A.R. 408),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,16.875,16.875,in,no,yes,yes,1959,<NA>,"face, abstract shapes, ceramic plate, orange, black, white, turquoise, geometric patterns",None,None,"Visage en gros relief 
+(A.R. 408)
+dated '59.6.11' (in reverse; lower centre); stamped and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ 88/ 100' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 16
+7
+⁄
+8
+ in. (42.8 cm.)
+Conceived on 11 June 1959 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0090_000(pablo_picasso_visage_en_gros_relief024544).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-90/278508?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+9db2b0be-3d4a-4286-bd29-30f72ace8366,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 91,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Personnages no. 28 (A.R. 463),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,9.875,in,yes,yes,yes,1963,<NA>,"face, abstract shapes, blue color, green color, black outlines, red color, yellow color, circular form, decorative patterns",None,None,"Personnages no. 28 (A.R. 463)
+marked and numbered 'Edition Picasso/ Madoura/ N° 28/ 47/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25.1 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0091_000(pablo_picasso_personnages_no_28024636).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-91/278510?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+5b574d9b-667c-411c-9041-b24258e52824,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 92,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Yan bandeau noir (A.R. 514),ceramics,"terracotta, black engobe",<NA>,<NA>,9.75,in,yes,yes,yes,1963,<NA>,"pitcher, faces, black decoration, orange background, geometric patterns, abstract design, stylized features, ceramic form",None,None,"Yan bandeau noir (A.R. 514)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ 122/ 300' (underneath)
+terracotta pitcher, partially engraved, with black engobe
+Height: 9
+3
+⁄
+4
+ in. (24.8 cm.)
+Conceived on 30 August 1963 and executed in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0092_000(pablo_picasso_yan_bandeau_noir024729).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-92/278507?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+f2d4c9df-fec4-4bcf-8649-3ca28c0284d4,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 93,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Sujet colombe (A.R. 435),ceramics,"white earthenware ceramic, colored engobe, glaze",22.5,<NA>,<NA>,in,yes,yes,yes,1959,<NA>,"bird, blue decoration, ceramics, abstract shapes",None,None,"Sujet colombe (A.R. 435)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ 310/ 500/ R.128' (underneath)
+white earthenware ceramic vessel, partially engraved, with colored engobe and glaze
+Length: 8
+7
+⁄
+8
+ in. (22.5 cm.)
+Conceived in 1959 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0093_000(pablo_picasso_sujet_colombe024934).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-93/278512?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+7ec1e260-8c98-4e45-858a-0f066531d5ae,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 94,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Chouette femme (A.R. 119),ceramics,white earthenware ceramic with black engobe and white glaze,<NA>,<NA>,11.375,in,yes,yes,yes,1951,<NA>,"vase, face, abstract, black, white, ceramics, human features, decorative, pottery, sculpture",None,None,"Chouette femme (A.R. 119)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic vase with black engobe and white glaze
+Height: 11
+3
+⁄
+8
+ in. (28.9 cm.)
+Conceived in 1951 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0094_000(pablo_picasso_chouette_femme025137).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-94/278509?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,9500.0,7916.666666666667
+862c9f78-84d3-4190-8c44-3c361ee48dde,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 95,USD,1500,2500,None,None,1500,2500,None,None,PABLO PICASSO,1881,1973,Oiseau au ver (A.R. 172),ceramics,"white earthenware ceramic, black oxide, white glaze",<NA>,6.875,6.875,in,yes,yes,yes,1952,<NA>,"bird, dish, ceramic, black silhouette, animal, decorative art",None,None,"Oiseau au ver (A.R. 172)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic ashtray with black oxide and white glaze
+Diameter: 6
+7
+⁄
+8
+ in. (14.8 cm.)
+Conceived in 1952 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0095_000(pablo_picasso_oiseau_au_ver025350).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-95/278513?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+9dde16c0-ff72-4f09-a2de-d2d7153473ba,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 96,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Visage no. 189 (A.R. 491),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1963,<NA>,"face, green line, blue shape, yellow circle, pink shape, black line, eyes",None,None,"Visage no. 189 (A.R. 491)
+marked and numbered 'Edition Picasso/ Madoura/ N° 189/ 35/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0096_000(pablo_picasso_visage_no_189025441).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-96/278514?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,11500.0,9583.333333333334
+c2352b1a-5e90-438d-aeab-db40dd0ae2ec,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 97,USD,2000,3000,None,None,2000,3000,None,None,PABLO PICASSO,1881,1973,Plongeurs (A.R. 378),ceramics,white earthenware ceramic plaque with black engobe and white glaze,<NA>,7.625,7.625,in,no,yes,yes,1956,<NA>,"figures, swimming, abstract forms, black background, white lines, geometric shapes, ceramic, Picasso, minimalism",None,None,"Plongeurs (A.R. 378)
+stamped 'Madoura Plein Feu/ Empreinte Originale de Picasso' (on the reverse)
+white earthenware ceramic plaque with black engobe and white glaze
+Diameter: 7
+5
+⁄
+8
+ in. (19.3 cm.)
+Conceived in 1956 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0097_000(pablo_picasso_plongeurs025534).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-97/278511?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+32287eb6-f5ff-4ffc-85c2-086fe293e323,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 98,USD,2500,3500,None,None,2500,3500,None,None,PABLO PICASSO,1881,1973,Pichet petites têtes (A.R. 222),ceramics,white earthenware ceramic with black oxide and white glaze,<NA>,<NA>,5.125,in,yes,yes,yes,1953,<NA>,"jug, ceramic, black patterns, white background, abstract faces, leaves, floral design, handle",None,None,"Pichet petites têtes (A.R. 222)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ 123/ 300' (underneath)
+white earthenware ceramic pitcher with black oxide and white glaze
+Height: 5
+1
+⁄
+8
+ in. (13 cm.)
+Conceived in 1953 and executed in a numbered edition of 300",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0098_000(pablo_picasso_pichet_petites_tetes025632).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-98/278517?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+577730e1-2512-44dc-8405-2d5fdb862e22,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 99,USD,7000,10000,None,None,7000,10000,None,None,PABLO PICASSO,1881,1973,Visage no. 202 (A.R. 495),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,<NA>,in,yes,yes,yes,1963,<NA>,"plate, face, blue, green, yellow, red, black, white, round, abstract",None,None,"Visage no. 202 (A.R. 495)
+marked and numbered 'Edition Picasso/ Madoura/ N°202/ 276/ 500'
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 9
+7
+⁄
+8
+ in. (25.1 cm.)
+Conceived in 1963 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0099_000(pablo_picasso_visage_no202025913).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-99/278515?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+f04a313c-ba2d-4ad0-bd16-0e15dfd001b8,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 100,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Trois personnages sur tremplin (A.R. 375),ceramics,white earthenware ceramic plaque with black oxide and white glaze,<NA>,7.25,7.25,in,no,yes,yes,1956,<NA>,"figures, lines, geometric shapes, abstract forms, black, white, ceramic, standing, illustration, minimalist",None,None,"Trois personnages sur tremplin (A.R. 375)
+stamped 'Empreinte Originale de Picasso/ Madoura Plein Feu' (on the reverse)
+white earthenware ceramic plaque with black oxide and white glaze
+Diameter: 7
+1
+⁄
+4
+ in. (18.5 cm.)
+Conceived in 1956 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0100_000(pablo_picasso_trois_personnages_sur_tremplin030005).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-100/278519?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+e52b4f94-98eb-4976-bb0f-8086ef3f4431,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 101,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Visage no. 59 (A.R. 469),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,10,<NA>,in,yes,yes,yes,1963,<NA>,"plate, abstract face, orange, blue, black, ceramic, geometric patterns, lines, stars, decorative",None,None,"Visage no. 59 (A.R. 469)
+marked and numbered 'Edition Picasso/ Madoura/ N°59/ 49/ 150' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Diameter: 10 in. (25.3 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0101_000(pablo_picasso_visage_no_59030053).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-101/278518?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+66f48106-0e7c-42d8-b7c2-46682d8f12dd,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 102,USD,2500,3500,None,None,2500,3500,None,None,PABLO PICASSO,1881,1973,Têtes (A.R. 368),ceramics,"white earthenware ceramic, black oxide, white glaze",<NA>,<NA>,5.125,in,yes,yes,yes,1956,<NA>,"jug, black dots, abstract face, blue accents, ceramic",None,None,"Têtes (A.R. 368)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic pitcher with black oxide and white glaze
+Height: 5
+1
+⁄
+8
+ in. (13.1 cm.)
+Conceived in 1956 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0102_000(pablo_picasso_tetes030148).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-102/278516?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+904ad5f5-5415-4ad2-a803-49a51dd10cda,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 103,USD,5000,7000,None,None,5000,7000,None,None,PABLO PICASSO,1881,1973,Visage tourmenté (A.R. 358),ceramics,white earthenware ceramic,<NA>,16.625,16.625,in,yes,yes,yes,1956,<NA>,"face, circular plate, abstract design, texture, rays",None,None,"Visage tourmenté (A.R. 358)
+stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ C-117/ 40/ 100' (underneath)
+white earthenware ceramic plate
+Diameter: 16
+5
+⁄
+8
+ in. (42.4 cm.)
+Conceived in 1956 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0103_000(pablo_picasso_visage_tourmente030427).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-103/278520?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+369b3568-9642-483b-83cc-62ac8fea1eb5,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 104,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Visage no. 127 (A.R. 478),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,10.125,10.125,in,yes,yes,yes,1963,<NA>,"sun, face, green, black, ceramic, abstract, pattern, round, smile, rays",None,None,"Visage no. 127 (A.R. 478)
+marked and numbered 'Edition Picasso/ Madoura/ N° 127/ 93/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 10
+1
+⁄
+8
+ in. (25.5 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0104_000(pablo_picasso_visage_no_127030522).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-104/278521?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+ff6996a9-6ae9-49f9-b36b-caa5afc22d23,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 105,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Oiseau no. 76 (A.R. 481),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,10,<NA>,in,yes,yes,yes,1963,<NA>,"bird, plate, white, blue, brown, feathers, ceramic",None,None,"Oiseau no. 76 (A.R. 481)
+marked and numbered ‘Edition Picasso/ Madoura/ N°76/ 11/ 200’ (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 10 in. (25.2 cm.)
+Conceived in 1963 and executed in a numbered edition of 200",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0105_000(pablo_picasso_oiseau_no_76030617).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-105/278522?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+c6926740-8f1c-4616-a628-e4a7fbdfca23,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 106,USD,3000,5000,None,None,3000,5000,None,None,PABLO PICASSO,1881,1973,Visage (A.R. 533),ceramics,white earthenware ceramic,<NA>,10.625,10.625,in,yes,yes,yes,1965,<NA>,"face, moon, abstract shapes, eyes, circular, features, texture, ceramics",None,None,"Visage (A.R. 533)
+dated '17.1.65.' in reverse (lower right); stamped, marked and numbered 'Madoura Plein Feu/ Empreinte Originale de Picasso/ T.119/ 39/ 100' (underneath)
+white earthenware ceramic plate
+Diameter: 10
+5
+⁄
+8
+ in. (27 cm.)
+Conceived on 17 January 1965 and executed in a numbered edition of 100",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0106_000(pablo_picasso_visage030712).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-106/278524?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,4200.0,3500.0
+1db9824d-a9ac-4e6d-9da3-37946797148b,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 107,USD,4000,6000,None,None,4000,6000,None,None,PABLO PICASSO,1881,1973,Visage no. 72 (A.R. 474),ceramics,white earthenware ceramic plate with colored engobe and glaze,<NA>,10,<NA>,in,yes,yes,yes,1963,<NA>,"plate, face, blue, brown, circular, abstract, expression, line, shape, art",None,None,"Visage no. 72 (A.R. 474)
+marked and numbered 'Edition Picasso/ Madoura/ N°72/ 21/ 150' (underneath)
+white earthenware ceramic plate with colored engobe and glaze
+Diameter: 10 in. (25.5 cm.)
+Conceived in 1963 and executed in a numbered edition of 150",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0107_000(pablo_picasso_visage_no_72030810).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-107/278523?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+e919020d-f8a6-442b-8e58-47908df6c4a8,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 108,USD,1500,2500,None,None,1500,2500,None,None,PABLO PICASSO,1881,1973,Taureau sous l'arbre (A.R. 159),ceramics,white earthenware ceramic plate with black oxide and white glaze,<NA>,<NA>,<NA>,in,yes,yes,yes,1952,<NA>,"bull, tree, plate, black, white, shadow, landscape, ceramics, round, dots",None,None,"Taureau sous l'arbre (A.R. 159)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic plate with black oxide and white glaze
+Diameter: 7
+1
+⁄
+2
+ in. (19 cm.)
+Conceived in 1952 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0108_000(pablo_picasso_taureau_sous_larbre030905).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-108/278526?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,2200.0,1833.3333333333335
+1b3ba1e0-a54d-4707-be8b-41cff1307982,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 109,USD,2000,3000,None,None,2000,3000,None,None,PABLO PICASSO,1881,1973,Visage (A.R. 290),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,<NA>,in,yes,yes,yes,1955,<NA>,"bowl, face, lion, turquoise, black, orange, patterns",None,None,"Visage (A.R. 290)
+marked ‘Edition Picasso/ Madoura Plein Feu’ (underneath)
+white earthenware ceramic bowl, partially engraved, with colored engobe and glaze
+Diameter: 5
+7
+⁄
+8
+ in. (12.2 cm.)
+Conceived in 1955 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0109_000(pablo_picasso_visage031000).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-109/278525?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,2800.0,2333.3333333333335
+e41c6867-1c26-45c3-9ae4-50268bff9dc3,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 110,USD,1500,2500,None,None,1500,2500,None,None,PABLO PICASSO,1881,1973,Oiseau au soleil (A.R. 174),ceramics,white earthenware ceramic with black oxide and white glaze,<NA>,6.375,6.375,in,yes,yes,yes,1952,<NA>,"bird, sun, flowers, plants, abstract shapes",None,None,"Oiseau au soleil (A.R. 174)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic ashtray with black oxide and white glaze
+Diameter: 6
+3
+⁄
+8
+ in. (15.8 cm.)
+Conceived in 1952 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0110_000(pablo_picasso_oiseau_au_soleil031056).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-110/278527?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,2100.0,1750.0
+bbef7bb3-266b-4611-a7de-4d8ff61cef3d,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 111,USD,2500,3500,None,None,2500,3500,None,None,PABLO PICASSO,1881,1973,Motif spiralé (A.R. 404),ceramics,"white earthenware ceramic, colored engobe, glaze",<NA>,<NA>,<NA>,in,yes,yes,yes,1957,<NA>,"plate, blue pattern, black pattern, yellow accents, circular design, red border, decorative art, ceramic",None,None,"Motif spiral
+é 
+(A.R. 404)
+stamped, marked and numbered 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso/ Madoura/ K-119/ 71/ 500' (underneath)
+white earthenware ceramic plate, partially engraved, with colored engobe and glaze
+Diameter: 9
+1
+⁄
+2
+ in. (24 cm.)
+Conceived in 1957 and executed in a numbered edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0111_000(pablo_picasso_motif_spirale031152).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-111/278530?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+26818142-9517-419d-99dd-026d1276f842,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 112,USD,1500,2500,None,None,1500,2500,None,None,PABLO PICASSO,1881,1973,Oiseau sur la branche (A.R. 175),ceramics,"white earthenware ceramic, black oxide, white glaze",<NA>,<NA>,<NA>,in,yes,yes,yes,1952,<NA>,"bird, branch, leaves, plate, ceramic, abstract",None,None,"Oiseau sur la branche (A.R. 175)
+stamped and marked 'Edition Picasso/ Madoura Plein Feu/ Edition Picasso' (underneath)
+white earthenware ceramic ashtray with black oxide and white glaze
+Diameter: 6 in. (15.2 cm.)
+Conceived in 1952 and executed in an edition of 500",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0112_000(pablo_picasso_oiseau_sur_la_branche031246).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/pablo-picasso-1881-1973-112/278529?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,2100.0,1750.0
+43456689-e25d-47d2-8b31-c78e94e70c19,Art,Christies,23489,2024-11-07,New York,Picasso Ceramics,None,Lot 113,USD,1000,1500,None,None,1000,1500,None,None,ALAIN RAMIÉ,<NA>,<NA>,"Picasso, Catalogue of the Edited Ceramic Works, 1947-1971",decorative arts,N/A,<NA>,<NA>,<NA>,N/A,no,yes,yes,1988,<NA>,"book, ceramic works, Picasso, edited catalogue, 1947-1971, woman, figure, art history",None,None,"ALAIN RAMIÉ
+Picasso, Catalogue of the Edited Ceramic Works, 1947-1971
+the complete 
+catalogue raisonné 
+of Picasso's ceramic editions, in English, published in Paris, 1988.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23489_0113_000(alain_ramie031341).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/picasso-ceramics/alain-ramiepicasso-catalogue-edited-ceramic-works-1947-1971the-113/278528?ldp_breadcrumb=back,None,None,None,None,None,None,None,nan,gpt-4.1-mini,1350.0,1125.0

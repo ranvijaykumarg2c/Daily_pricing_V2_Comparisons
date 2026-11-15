@@ -1,0 +1,176 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 201,Patek Philippe,World Time,Christies,20000,40000,None,25000.0,20833.333333333336
+Lot 202,Patek Philippe,World Time,Christies,15000,25000,None,21000.0,17500.0
+Lot 203,Patek Philippe,<NA>,Christies,15000,25000,None,22000.0,18333.333333333336
+Lot 204,Patek Philippe,<NA>,Christies,120000,160000,None,145000.0,120833.33333333334
+Lot 205,Patek Philippe,<NA>,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 206,Patek Philippe,<NA>,Christies,10000,20000,None,15000.0,12500.0
+Lot 207,Patek Philippe,Calatrava,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 208,Patek Philippe,Calatrava,Christies,4000,8000,None,7500.0,6250.0
+Lot 209,Patek Philippe,<NA>,Christies,10000,20000,None,15000.0,12500.0
+Lot 210,Patek Philippe,Calatrava,Christies,10000,20000,None,15000.0,12500.0
+Lot 211,Patek Philippe X Tiffany & Co.,Gondolo Fantaisie,Christies,8000,12000,None,10500.0,8750.0
+Lot 212,Patek Philippe,<NA>,Christies,18000,25000,None,22000.0,18333.333333333336
+Lot 214,Patek Philippe,<NA>,Christies,12000,18000,None,25000.0,20833.333333333336
+Lot 215,Patek Philippe,Aquanaut,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 216,Patek Philippe,<NA>,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 217,Patek Philippe,Golden Ellipse,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 218,Patek Philippe,Reference 2526,Christies,15000,30000,None,25000.0,20833.333333333336
+Lot 219,Patek Philippe,Golden Ellipse,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 220,Patek Philippe,<NA>,Christies,4000,8000,None,6000.0,5000.0
+Lot 221,Patek Philippe,Pagoda,Christies,4000,8000,None,6000.0,5000.0
+Lot 222,Patek Philippe,<NA>,Christies,8000,12000,None,12000.0,10000.0
+Lot 223,Patek Philippe,<NA>,Christies,5000,10000,None,12000.0,10000.0
+Lot 224,Patek Philippe,<NA>,Christies,3000,5000,None,4500.0,3750.0
+Lot 225,Audemars Piguet,Royal Oak,Christies,24000,45000,None,35000.0,29166.666666666668
+Lot 226,Audemars Piguet,Royal Oak Offshore Chronograph,Christies,15000,25000,None,21000.0,17500.0
+Lot 227,Audemars Piguet,<NA>,Christies,12000,18000,None,15000.0,12500.0
+Lot 228,Audemars Piguet,Jules Audemars,Christies,15000,25000,None,22000.0,18333.333333333336
+Lot 229,Audemars Piguet,<NA>,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 230,Audemars Piguet,<NA>,Christies,4000,6000,None,5000.0,4166.666666666667
+Lot 231,Audemars Piguet,Millenary Day Date,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 232,Audemars Piguet,<NA>,Christies,10000,20000,None,15000.0,12500.0
+Lot 233,Audemars Piguet,<NA>,Christies,10000,20000,None,18500.0,15416.666666666668
+Lot 234,Asprey,Daytona,Christies,80000,120000,None,102000.0,85000.0
+Lot 235,Rolex,Daytona,Christies,80000,120000,None,102000.0,85000.0
+Lot 236,Rolex,Datejust,Christies,15000,40000,None,25000.0,20833.333333333336
+Lot 237,Rolex,Datejust,Christies,10000,16000,None,14500.0,12083.333333333334
+Lot 238,Rolex,Datejust,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 239,Rolex,Chronograph,Christies,15000,25000,None,19500.0,16250.0
+Lot 240,Rolex,Chronograph,Christies,24000,45000,None,32000.0,26666.666666666668
+Lot 241,Rolex,Submariner Date,Christies,10000,20000,None,15000.0,12500.0
+Lot 242,Rolex,Explorer II,Christies,8000,12000,None,10500.0,8750.0
+Lot 243,Rolex,Yacht-Master II,Christies,8000,12000,None,10500.0,8750.0
+Lot 244,Rolex,GMT-Master,Christies,8000,12000,None,10500.0,8750.0
+Lot 245,Rolex,Submariner,Christies,10000,20000,None,15000.0,12500.0
+Lot 246,Rolex,Submariner,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 247,Rolex,Explorer,Christies,10000,20000,None,14500.0,12083.333333333334
+Lot 248,Rolex,Explorer,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 249,Tudor,Submariner,Christies,6000,12000,None,8500.0,7083.333333333334
+Lot 250,Blancpain,Fifty Fathoms,Christies,15000,30000,None,22500.0,18750.0
+Lot 251,DOXA,SUB 300T Professional,Christies,3000,6000,None,4500.0,3750.0
+Lot 252,TAG Heuer,Mareographe,Christies,8000,16000,None,12000.0,10000.0
+Lot 253,Longines,<NA>,Christies,8000,12000,None,9500.0,7916.666666666667
+Lot 254,Vacheron Constantin,Limited Edition Platinum Semi-Skeletonized Retrograde,Christies,20000,40000,None,35000.0,29166.666666666668
+Lot 255,Vacheron Constantin,Very Rare Limited Edition Jump Hour,Christies,12000,18000,None,15000.0,12500.0
+Lot 256,Vacheron Constantin,Malte,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 257,Vacheron Constantin,<NA>,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 258,Vacheron Constantin,<NA>,Christies,6000,12000,None,10000.0,8333.333333333334
+Lot 259,Vacheron Constantin,<NA>,Christies,4000,6000,None,7500.0,6250.0
+Lot 260,Vacheron & Constantin,<NA>,Christies,6000,12000,None,8500.0,7083.333333333334
+Lot 261,Tiffany & Co.,<NA>,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 262,Rolex,Cellini,Christies,10000,18000,None,14500.0,12083.333333333334
+Lot 263,Rolex,Prince Imperial,Christies,3000,5000,None,4500.0,3750.0
+Lot 264,Piaget,<NA>,Christies,6000,12000,None,8500.0,7083.333333333334
+Lot 265,null,null,Christies,3000,5000,None,4500.0,3750.0
+Lot 266,<NA>,<NA>,Christies,20000,40000,None,35000.0,29166.666666666668
+Lot 267,Vacheron Constantin,<NA>,Christies,2000,4000,None,3500.0,2916.666666666667
+Lot 268,Cartier,<NA>,Christies,8000,12000,None,9500.0,7916.666666666667
+Lot 269,Cartier,Highly rare gilded-brass jumping hour,Christies,8000,16000,None,12000.0,10000.0
+Lot 270,Cartier,Tank A Vis,Christies,12000,20000,None,15500.0,12916.666666666668
+Lot 271,Cartier,Tortue,Christies,8000,12000,None,10500.0,8750.0
+Lot 272,Cartier,Tank Américaine,Christies,4000,8000,None,6000.0,5000.0
+Lot 273,Cartier,Santos Galbee,Christies,2000,4000,None,3200.0,2666.666666666667
+Lot 274,Cartier,Santos Dumont,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 275,Cartier,Tank Divan,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 276,BVLGARI,<NA>,Christies,15000,25000,None,22000.0,18333.333333333336
+Lot 277,Harry Winston,Midnight,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 278,Harry Winston,Premier Chronograph,Christies,3000,5000,None,4500.0,3750.0
+Lot 279,Harry Winston,<NA>,Christies,3000,5000,None,4500.0,3750.0
+Lot 280,Harry Winston,<NA>,Christies,8000,12000,None,10500.0,8750.0
+Lot 281,Chanel,J12,Christies,4000,8000,None,7500.0,6250.0
+Lot 282,Piaget,Altiplano,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 283,Piaget,Altiplano,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 284,Hublot,Classic Fusion,Christies,10000,15000,None,13500.0,11250.0
+Lot 285,Breguet,Reine de Naples,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 286,Breguet,Classique,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 287,Breguet,Classique,Christies,4000,8000,None,6000.0,5000.0
+Lot 288,Breguet,Le Réveil du Tsar,Christies,6000,12000,None,10000.0,8333.333333333334
+Lot 289,Breguet,Chronograph Marine with Date,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 290,Breguet,Tradition,Christies,8000,12000,None,10200.0,8500.0
+Lot 291,Hermès,Arceau Le Temps Voyageur,Christies,6000,12000,None,9500.0,7916.666666666667
+Lot 292,Glashütte Original,Panomaticchrono,Christies,10000,15000,None,12000.0,10000.0
+Lot 293,Franck Muller,Master Calendar,Christies,4000,8000,None,6000.0,5000.0
+Lot 294,Franck Muller,null,Christies,12000,18000,None,15000.0,12500.0
+Lot 295,A. Lange & Söhne,Lange 1,Christies,15000,25000,None,21000.0,17500.0
+Lot 296,A. Lange & Söhne,Saxonia Langematic,Christies,12000,18000,None,15000.0,12500.0
+Lot 297,A. Lange & Söhne,Saxonia,Christies,12000,18000,None,14500.0,12083.333333333334
+Lot 298,A. Lange & Söhne,1815,Christies,10000,20000,None,15000.0,12500.0
+Lot 299,A. Lange & Söhne,Lange 1,Christies,12000,18000,None,15000.0,12500.0
+Lot 300,A. Lange & Söhne,1815 Up/Down,Christies,10000,20000,None,15000.0,12500.0
+Lot 301,A. Lange & Söhne,Saxonia with outsized date,Christies,10000,20000,None,15000.0,12500.0
+Lot 302,A. Lange & Söhne,Saxonia with outsized date,Christies,8000,12000,None,10500.0,8750.0
+Lot 303,A. Lange & Söhne,Saxonia Langematic,Christies,8000,12000,None,10000.0,8333.333333333334
+Lot 304,A. Lange & Söhne,Lange 1815,Christies,8000,12000,None,10500.0,8750.0
+Lot 305,A. Lange & Söhne,1815,Christies,8000,12000,None,10500.0,8750.0
+Lot 306,Omega,Seamaster,Christies,1500,3000,None,2500.0,2083.3333333333335
+Lot 307,Chopard,L.U.C. Calendar Lune,Christies,2000,4000,None,3500.0,2916.666666666667
+Lot 308,Ebel,Chronograph,Christies,2000,4000,None,3500.0,2916.666666666667
+Lot 309,IWC,Portofino,Christies,5000,10000,None,7500.0,6250.0
+Lot 310,IWC,Portofino,Christies,1000,2000,None,1500.0,1250.0
+Lot 311,Jaeger LeCoultre,Reverso Duo Face,Christies,3000,5000,None,4500.0,3750.0
+Lot 312,IWC,Portugieser,Christies,3000,5000,None,4000.0,3333.3333333333335
+Lot 313,IWC,Mark XV,Christies,1200,2500,None,1800.0,1500.0
+Lot 314,IWC,Mark XV,Christies,1000,2000,None,1500.0,1250.0
+Lot 315,Omega,Speedmaster Racing,Christies,3000,5000,None,4200.0,3500.0
+Lot 316,Breitling,Navitimer,Christies,3500,7000,None,5500.0,4583.333333333334
+Lot 317,Breitling,Top Time Chevrol,Christies,3500,7000,None,5500.0,4583.333333333334
+Lot 318,Zenith,El Primero,Christies,5000,10000,None,7500.0,6250.0
+Lot 319,Blancpain,Fifty Fathoms Flyback Chronograph,Christies,8000,12000,None,10500.0,8750.0
+Lot 320,Blancpain,Fifty Fathoms,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 321,Oris,Aquis,Christies,2000,4000,None,3500.0,2916.666666666667
+Lot 322,Oris,Aquis New York Harbor,Christies,1000,2000,None,1500.0,1250.0
+Lot 323,Jaeger-LeCoultre,Master Compressor,Christies,4000,6000,None,5500.0,4583.333333333334
+Lot 324,Jaeger-LeCoultre,Master Compressor,Christies,4000,6000,None,5000.0,4166.666666666667
+Lot 325,Jorg Hysek,Limited Edition White Gold Retrograde Dual Time Tourbillon,Christies,8000,12000,None,10500.0,8750.0
+Lot 326,Bell & Ross,Limited Edition Skeletonized Chronograph,Christies,3000,5000,None,4500.0,3750.0
+Lot 327,Parmigiani Fleurier,Tonda G,Christies,8000,12000,None,10500.0,8750.0
+Lot 328,Parmigiani Fleurier,Kalpa Tonda,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 329,Hamilton,American Classic Intra-Matic,Christies,1000,2000,None,1500.0,1250.0
+Lot 330,Seiko,Presage,Christies,2000,4000,None,3200.0,2666.666666666667
+Lot 331,Panerai,Luminor Submersible,Christies,4000,6000,None,5500.0,4583.333333333334
+Lot 332,Panerai,Luminor GMT,Christies,3000,5000,None,4500.0,3750.0
+Lot 333,Panerai,Submersible,Christies,6000,10000,None,8500.0,7083.333333333334
+Lot 334,Panerai,Luminor Submersible,Christies,3000,6000,None,4500.0,3750.0
+Lot 335,Panerai,Luminor Marina,Christies,3000,6000,None,4500.0,3750.0
+Lot 336,Panerai,Luminor,Christies,3000,5000,None,4500.0,3750.0
+Lot 337,Panerai,Radiomir Black Seal,Christies,4000,8000,None,6500.0,5416.666666666667
+Lot 338,Panerai,Radiomir Black Seal,Christies,3000,5000,None,4500.0,3750.0
+Lot 339,Mathey Tissot,<NA>,Christies,5000,8000,None,7500.0,6250.0
+Lot 340,TAG Heuer,<NA>,Christies,2000,4000,None,2500.0,2083.3333333333335
+Lot 341,Patek Philippe,Calatrava,Christies,4000,6000,None,5500.0,4583.333333333334
+Lot 342,Audemars Piguet,<NA>,Christies,3000,5000,None,4500.0,3750.0
+Lot 343,Longines,<NA>,Christies,4000,6000,None,4500.0,3750.0
+Lot 344,Rolex,Oyster Perpetual Date,Christies,3000,5000,None,4500.0,3750.0
+Lot 345,Rolex,Oysterdate Precision,Christies,2000,4000,None,3500.0,2916.666666666667
+Lot 346,Tudor,Prince Oysterdate,Christies,1000,2000,None,1500.0,1250.0
+Lot 347,Porsche Design,<NA>,Christies,4000,6000,None,4500.0,3750.0
+Lot 348,Cornell,Unique Piece 1870 PC Wristwatch,Christies,5000,8000,None,6500.0,5416.666666666667
+Lot 349,Studio Underd0g,Watermel0n,Christies,1000,2000,None,1500.0,1250.0
+Lot 350,TAG Heuer,Kith limited edition,Christies,1000,2000,None,1500.0,1250.0
+Lot 351,Casio X Furlan Marri X Baltic,G-Shock for Kith 'Rainbow 10-Year Anniversary',Christies,2000,3000,None,2500.0,2083.3333333333335
+Lot 352,Swatch X Merci Instruments X True North Watch Company,Sistem51 'Hodinkee Generation 1986',Christies,1000,2000,None,1500.0,1250.0
+Lot 353,Seiko/Xodiac,2000 Olympic Team/Seiko 5 Rowing Blazers 'Artillery Zig-Zag'/Zodiac Rowing Blazers 'Harry's Bar' Super Sea Wolf,Christies,1000,2000,None,1500.0,1250.0
+Lot 354,Oris,COTTON CANDY,Christies,2000,4000,None,3500.0,2916.666666666667
+Lot 355,Oris,Aquis Date Calibre 400,Christies,2000,3000,None,2500.0,2083.3333333333335
+Lot 356,Oris,Big Crown Pointer Date Hank Aaron Limited Edition,Christies,1000,2000,None,1500.0,1250.0
+Lot 357,Fears,Brunswick,Christies,3000,5000,None,4500.0,3750.0
+Lot 358,Perrelet,Jumping Hour,Christies,3000,5000,None,4500.0,3750.0
+Lot 359,Frédérique Constant,<NA>,Christies,1000,2000,None,1500.0,1250.0
+Lot 360,Formex,Reef,Christies,1000,2000,None,1500.0,1250.0
+Lot 361,Marathon,Marathon stainless steel OSAR-1,Christies,1000,2000,None,1500.0,1250.0
+Lot 362,Synchron,Limited Edition Posidon Black Edition,Christies,1000,2000,None,1500.0,1250.0
+Lot 363,Bulova Accutron,Limited Edition Astronaut,Christies,1000,2000,None,1500.0,1250.0
+Lot 364,Omega,Seamaster,Christies,1000,2000,None,1500.0,1250.0
+Lot 365,Technos,Sky Diver,Christies,1000,2000,None,1500.0,1250.0
+Lot 366,Tissot,Camper,Christies,1000,2000,None,1200.0,1000.0
+Lot 367,Vulcain,<NA>,Christies,1000,2000,None,1500.0,1250.0
+Lot 368,Bulova,Lone Eagle,Christies,1000,2000,None,1500.0,1250.0
+Lot 369,Heuer-Leonidas X Minerva,Auto-Rallye,Christies,1000,2000,None,1500.0,1250.0
+Lot 370,Brew X Bólido,Metric PVD Black X 1st Edition 2017,Christies,1000,2000,None,1500.0,1250.0
+Lot 371,Traska,Commuter The Summiteer,Christies,1000,2000,None,1500.0,1250.0
+Lot 372,Shinola,Limited Edition Titanium Mooncraft Monster,Christies,1000,2000,None,1500.0,1250.0
+Lot 373,Brooklands Watch Co.,Limited Edition Chronograph,Christies,1000,2000,None,1500.0,1250.0
+Lot 374,dan tanenbaum,original and bespoke horological camera-shaped art piece,Christies,2000,3000,None,2500.0,2083.3333333333335
+Lot 375,Rolex,Daytona,Christies,1000,2000,None,1500.0,1250.0
+Lot 376,Grand Central Watch,<NA>,Christies,1000,2000,None,1500.0,1250.0

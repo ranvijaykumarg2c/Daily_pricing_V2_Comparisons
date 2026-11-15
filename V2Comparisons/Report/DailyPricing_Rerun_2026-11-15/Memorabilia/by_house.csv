@@ -1,0 +1,4 @@
+checked_house,N,median_ape_pct,median_bias_pct,within_20_pct,below_range_pct,in_range_pct,above_range_pct
+Bonhams,213,50.0,50.0,0.0,100.0,0.0,0.0
+Freemans,667,30.08,16.88,30.13,29.69,43.63,26.69
+Sothebys,3,18.11,18.11,66.67,0.0,100.0,0.0

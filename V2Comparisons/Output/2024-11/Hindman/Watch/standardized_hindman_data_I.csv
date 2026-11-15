@@ -1,0 +1,151 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Rolex,Oyster Perpetual Datejust,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 2,Rolex,Oysterdate Precision,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 3,Rolex,Oyster Perpetual Datejust,Hindman,2000,3000,None,3500.0,2916.666666666667
+Lot 4,Rolex,Oyster Perpetual Lady Date,Hindman,1000,2000,None,1500.0,1250.0
+Lot 5,Rolex,Oyster Perpetual Lady Datejust,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 6,Rolex,Oyster Perpetual,Hindman,4000,6000,None,5500.0,4583.333333333334
+Lot 7,Rolex,Oyster Perpetual Day-Date,Hindman,8000,12000,None,10500.0,8750.0
+Lot 8,Cartier,Ballon Bleu,Hindman,3000,5000,None,4000.0,3333.3333333333335
+Lot 9,Patek Philippe,Twenty~4,Hindman,14000,18000,None,16500.0,13750.0
+Lot 10,Blancpain,Villeret,Hindman,3000,5000,None,4500.0,3750.0
+Lot 11,Patek Philippe,Calatrava,Hindman,15000,25000,None,19500.0,16250.0
+Lot 12,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 13,IWC,<NA>,Hindman,1000,2000,None,1200.0,1000.0
+Lot 14,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 15,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 16,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 17,Jaeger-LeCoultre,Memovox,Hindman,3000,5000,None,4500.0,3750.0
+Lot 18,Audemars Piguet,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 19,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 20,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1200.0,1000.0
+Lot 21,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 22,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1200.0,1000.0
+Lot 23,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 24,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 25,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1200.0,1000.0
+Lot 26,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 27,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 28,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 29,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 30,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 31,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 32,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 33,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 34,Jaeger-LeCoultre,Master Mariner,Hindman,1000,2000,None,1500.0,1250.0
+Lot 35,Jaeger-LeCoultre,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 36,LeCoultre,<NA>,Hindman,1000,2000,None,1200.0,1000.0
+Lot 37,Omega,Seamaster de Ville,Hindman,1000,2000,None,1500.0,1250.0
+Lot 38,Omega,<NA>,Hindman,500,1000,None,850.0,708.3333333333334
+Lot 39,Longines,<NA>,Hindman,3000,5000,None,4500.0,3750.0
+Lot 40,Corum,<NA>,Hindman,300,500,None,450.0,375.0
+Lot 41,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 42,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 43,IWC,<NA>,Hindman,1000,2000,None,1200.0,1000.0
+Lot 44,IWC,<NA>,Hindman,1000,2000,None,1200.0,1000.0
+Lot 45,Jaeger-LeCoultre,Memovox,Hindman,3000,5000,None,4500.0,3750.0
+Lot 46,LeCoultre,MEMOVOX,Hindman,3000,5000,None,4500.0,3750.0
+Lot 47,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 48,Vacheron & Constantin,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 49,IWC,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 50,Rolex,Oyster Perpetual,Hindman,3000,5000,None,4500.0,3750.0
+Lot 51,Rolex,Datejust,Hindman,3000,5000,None,4500.0,3750.0
+Lot 52,Rolex,Oyster Perpetual Day-Date,Hindman,25000,35000,None,30000.0,25000.0
+Lot 53,Rolex,Oyster Perpetual,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 54,Tudor,Black Bay,Hindman,1500,2000,None,1800.0,1500.0
+Lot 55,Rolex,Cosmograph Daytona,Hindman,20000,30000,None,24500.0,20416.666666666668
+Lot 56,Rolex,Cosmograph Daytona,Hindman,20000,30000,None,24500.0,20416.666666666668
+Lot 57,Rolex,GMT-Master II,Hindman,18000,24000,None,21500.0,17916.666666666668
+Lot 58,Rolex,Daytona,Hindman,40000,60000,None,55000.0,45833.333333333336
+Lot 59,Rolex,GMT-Master,Hindman,25000,35000,None,30000.0,25000.0
+Lot 60,Audemars Piguet,Royal Oak,Hindman,15000,20000,None,18500.0,15416.666666666668
+Lot 61,Patek Philippe,Aquanaut,Hindman,15000,20000,None,18500.0,15416.666666666668
+Lot 62,Patek Philippe,Nautilus,Hindman,40000,60000,None,55000.0,45833.333333333336
+Lot 63,Cartier,Cougar,Hindman,1500,2500,None,2100.0,1750.0
+Lot 64,Piaget,<NA>,Hindman,5000,7000,None,6000.0,5000.0
+Lot 65,Audemars Piguet,Cobra,Hindman,6000,8000,None,7500.0,6250.0
+Lot 66,Audemars Piguet,COBRA,Hindman,8000,12000,None,10500.0,8750.0
+Lot 67,Audemars Piguet,<NA>,Hindman,6000,8000,None,7500.0,6250.0
+Lot 68,Piaget,Protocole,Hindman,3000,5000,None,4500.0,3750.0
+Lot 69,Piaget,HOBNAIL,Hindman,2500,3000,None,3500.0,2916.666666666667
+Lot 70,Rolex,Pearlmaster,Hindman,10000,15000,None,12000.0,10000.0
+Lot 71,Rolex,Oyster Perpetual,Hindman,1000,2000,None,1500.0,1250.0
+Lot 72,Cartier,Tank Francaise,Hindman,6000,8000,None,7500.0,6250.0
+Lot 73,Bulgari,Assioma,Hindman,4000,6000,None,5000.0,4166.666666666667
+Lot 74,Bulgari,Diagono,Hindman,600,800,None,650.0,541.6666666666667
+Lot 75,Bulgari,<NA>,Hindman,3000,5000,None,4500.0,3750.0
+Lot 76,Corum,<NA>,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 77,Rolex,Oyster Perpetual,Hindman,1200,1800,None,1500.0,1250.0
+Lot 78,Franck Muller,Master Calendar Magnum,Hindman,4000,6000,None,5500.0,4583.333333333334
+Lot 79,Breitling,Avenger Blackbird 44,Hindman,2000,4000,None,3500.0,2916.666666666667
+Lot 80,Cartier,Calibre de Cartier,Hindman,4000,6000,None,5000.0,4166.666666666667
+Lot 81,Girard-Perregaux,Laureato Absolute,Hindman,5000,7000,None,6500.0,5416.666666666667
+Lot 82,Girard-Perregaux,Laureato Absolute,Hindman,8000,12000,None,10200.0,8500.0
+Lot 83,Prim,Defy El Primero 21,Hindman,5000,7000,None,6500.0,5416.666666666667
+Lot 84,Jaquet Droz,Grande Seconde,Hindman,3000,5000,None,4000.0,3333.3333333333335
+Lot 85,Bell & Ross,Chrono Stealth,Hindman,800,1200,None,950.0,791.6666666666667
+Lot 86,Ulysse Nardin,Diver Chronograph Monaco Yacht Show Limited Edition,Hindman,6000,8000,None,7500.0,6250.0
+Lot 87,Panerai,Luminor Marina,Hindman,4000,6000,None,5000.0,4166.666666666667
+Lot 88,Jaeger-LeCoultre,Master Tourbillon,Hindman,18000,24000,None,21500.0,17916.666666666668
+Lot 89,Patek Philippe,Neptune,Hindman,15000,25000,None,19500.0,16250.0
+Lot 90,Patek Philippe,<NA>,Hindman,15000,25000,None,21000.0,17500.0
+Lot 91,Patek Philippe,<NA>,Hindman,10000,20000,None,15000.0,12500.0
+Lot 92,Patek Philippe,Ellipse,Hindman,8000,12000,None,10500.0,8750.0
+Lot 93,Patek Philippe,BACK WIND,Hindman,8000,12000,None,9500.0,7916.666666666667
+Lot 94,Patek Philippe,Calatrava,Hindman,5000,10000,None,8500.0,7083.333333333334
+Lot 95,Piaget,<NA>,Hindman,4000,6000,None,5000.0,4166.666666666667
+Lot 96,Vacheron & Constantin,<NA>,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 97,Rolex,Datejust,Hindman,3000,5000,None,4500.0,3750.0
+Lot 98,Rolex,Oyster Perpetual Datejust,Hindman,6000,8000,None,7500.0,6250.0
+Lot 99,Rolex,Oyster Perpetual Day-Date,Hindman,20000,30000,None,25000.0,20833.333333333336
+Lot 100,Rolex,Submariner,Hindman,60000,80000,None,75000.0,62500.0
+Lot 101,Rolex,Oyster Perpetual Datejust,Hindman,4000,6000,None,5500.0,4583.333333333334
+Lot 102,Patek Philippe,<NA>,Hindman,8000,12000,None,9500.0,7916.666666666667
+Lot 103,Audmars Piguet,<NA>,Hindman,800,1200,None,1200.0,1000.0
+Lot 104,Ulysse Nardin,<NA>,Hindman,800,1200,None,1200.0,1000.0
+Lot 105,Patek Philippe,<NA>,Hindman,800,1200,None,1500.0,1250.0
+Lot 106,<NA>,<NA>,Hindman,4000,6000,None,8500.0,7083.333333333334
+Lot 107,Cartier,<NA>,Hindman,1000,2000,None,1500.0,1250.0
+Lot 108,Cartier,must de Cartier Tank,Hindman,800,1200,None,950.0,791.6666666666667
+Lot 109,Cartier,Tank,Hindman,5000,10000,None,7500.0,6250.0
+Lot 110,Chopard,<NA>,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 111,Baume & Mercier,<NA>,Hindman,3000,5000,None,3500.0,2916.666666666667
+Lot 112,Audemars Piguet,<NA>,Hindman,4000,6000,None,5500.0,4583.333333333334
+Lot 113,Piaget,Miss Protocole,Hindman,4000,6000,None,5000.0,4166.666666666667
+Lot 114,Vacheron & Constantin,Malta,Hindman,2000,3000,None,3500.0,2916.666666666667
+Lot 115,Cartier,Baignoire,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 116,Audemars Piguet,Lady Royal Oak,Hindman,3000,5000,None,4500.0,3750.0
+Lot 117,Hublot,Classic Fusion,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 118,Patek Philippe,<NA>,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 119,Patek Philippe,Ellipse,Hindman,3000,5000,None,4500.0,3750.0
+Lot 120,Rolex,Oyster Perpetual Lady Datejust,Hindman,4000,6000,None,5500.0,4583.333333333334
+Lot 121,Patek Philippe,<NA>,Hindman,8000,12000,None,10500.0,8750.0
+Lot 122,Patek Philippe,<NA>,Hindman,8000,12000,None,10500.0,8750.0
+Lot 123,Patek Philippe,<NA>,Hindman,6000,8000,None,7500.0,6250.0
+Lot 124,Patek Philippe,Ellipse,Hindman,8000,12000,None,10500.0,8750.0
+Lot 125,Patek Philippe,<NA>,Hindman,10000,15000,None,12000.0,10000.0
+Lot 126,Piaget,<NA>,Hindman,5000,7000,None,6500.0,5416.666666666667
+Lot 127,Bulgari,BVLGARI BVLGARI,Hindman,1200,1800,None,1500.0,1250.0
+Lot 128,Cartier,Tank Basculante,Hindman,3500,5500,None,4500.0,3750.0
+Lot 129,Heuer,Camaro,Hindman,3500,5500,None,4500.0,3750.0
+Lot 130,Jaeger-LeCoultre,Heraion Reveil,Hindman,3000,5000,None,4500.0,3750.0
+Lot 131,Omega,<NA>,Hindman,900,1200,None,950.0,791.6666666666667
+Lot 132,Baume & Mercier,Classima,Hindman,700,900,None,850.0,708.3333333333334
+Lot 133,Longines,<NA>,Hindman,500,1000,None,750.0,625.0
+Lot 134,Rolex,Oyster Precision,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 135,Baume & Mercier,Capeland Chronograph Automatic,Hindman,800,1200,None,950.0,791.6666666666667
+Lot 136,Concord,<NA>,Hindman,600,800,None,650.0,541.6666666666667
+Lot 137,Corum,<NA>,Hindman,800,1200,None,950.0,791.6666666666667
+Lot 138,Breitling,Bentley GMT Special Edition,Hindman,2800,3400,None,3200.0,2666.666666666667
+Lot 139,Breguet,Horloger de la Marine,Hindman,5000,7000,None,6000.0,5000.0
+Lot 140,Vacheron & Constantin,<NA>,Hindman,2500,3500,None,3200.0,2666.666666666667
+Lot 141,IWC,Aquatimer,Hindman,2500,3500,None,3200.0,2666.666666666667
+Lot 142,Omega,Speedmaster,Hindman,3000,5000,None,3500.0,2916.666666666667
+Lot 143,Omega,Speedmaster,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 144,Omega,Speedmaster Professional,Hindman,3000,5000,None,4500.0,3750.0
+Lot 145,Omega,Speedmaster Professional,Hindman,2000,3000,None,2500.0,2083.3333333333335
+Lot 146,Cartier,Pasha C Meridian,Hindman,1800,2400,None,2100.0,1750.0
+Lot 147,Patek Philippe,<NA>,Hindman,35000,55000,None,45000.0,37500.0
+Lot 148,Rolex,Oyster Perpetual Datejust,Hindman,10000,18000,None,15000.0,12500.0
+Lot 149,Rolex,Oyster Perpetual Date,Hindman,2000,3000,None,3500.0,2916.666666666667
+Lot 150,Rolex,Oyster Perpetual Lady Datejust,Hindman,10000,15000,None,13500.0,11250.0

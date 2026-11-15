@@ -1,0 +1,961 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+da54d30d-7aa4-40cf-96b8-6c7f0979dbbd,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 1,USD,12000,18000,12800,10000,12000,18000,12800,10000,Willem de Kooning,1904,1997,"Figures in Landscape VI, 1980",prints,offset lithograph in colors,N/A,28,31.25,in,yes,yes,yes,1980,1980,"This lot is located in Philadelphia. Published by the Institute of Contemporary Art, Philadelphia","figure, landscape, abstract, colors, brushstrokes",1,N/A,original,"Willem de Kooning
+(American/Dutch, 1904–1997)
+Figures in Landscape VI, 1980
+offset lithograph in colors
+signed, dated, and numbered 67/100 in pencil
+
+31 1/4 x 28 inches.
+
+This lot is located in Philadelphia.
+Published by the Institute of Contemporary Art, Philadelphia",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/be611fcd-3271-4a84-b4df-5687cbc5fa37,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/1,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,2026-09,N/A,gpt-4.1-mini,DISABLED_VRAM,16500.0,13750.0
+8e94c255-797e-48a4-b03a-5c2fbfa29071,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 2,USD,4000,5000,N/A,N/A,4000,5000,N/A,N/A,Philip Guston,1913,1980,Untitled (Nice) (from A Suite of Ten Lithographs),prints,lithograph on Arches paper,N/A,30,22.375,in,yes,yes,yes,1966,1966,N/A,"abstract forms, black shapes, organic shapes, lithograph, monochrome, smooth textures, negative space, curvilinear lines, gestural marks, beige background",1,N/A,original,"Philip Guston
+(American, 1913–1980)
+Untitled (Nice) (from A Suite of Ten Lithographs), 1966
+lithograph on Arches paper
+signed, dated, and numbered 5/35 in pencil
+
+Sheet: 22 3/8 x 30 inches.
+
+This lot is located in Philadelphia.
+Published and printed by Hollander's Workshop, Inc., New York, with their blindstampLiterature:The Guston Foundation Catalogue Number L66-12; Semff 14",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/21cdcd92-2e18-4886-a3a3-396fcfb5b22d,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/2,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4600.0,3833.3333333333335
+47303bbe-481e-4b06-8705-477641f5c5ab,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 3,USD,8000,12000,8320,6500,8000,12000,8320,6500,Sam Francis,1923,1994,"King Corpse, 1986",prints,color screenprint,N/A,58.75,42.125,in,yes,yes,yes,1986,1986,"Thomas McCormick Gallery, Chicago","abstract, color splatters, shapes, lines, circular forms, blue, red, yellow, green, white background",1,N/A,original,"Sam Francis
+(American, 1923-1994)
+King Corpse, 1986
+color screenprint
+signed and numbered TP 5/5 in pencil 
+
+Sheet: 42 1/8 x 58 3/4 inches.
+
+Property from a Private Collection
+
+This lot is located in Chicago.
+Published and printed by Gemini G.E.L., Los Angeles, with their blindstampProvenance:Thomas McCormick Gallery, ChicagoLiterature:Lembark S-16; Gemini 1296",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/cfa02dd5-1074-47b0-a22d-f9985529547a,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/3,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,11000.0,9166.666666666668
+e991759b-88a0-4b1b-89e4-ca2af897b61e,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 5,USD,3000,5000,2176,1700,3000,5000,2176,1700,Carlos Cruz-Diez,1923,2019,Inducción Cromática a Doble Frecuencia (from Serie Caura Permutación 7),prints,color lithograph on wove paper,N/A,27.5,23.5,in,yes,yes,yes,2015,2015,N/A,"color, lithograph, lines, patterns, abstract, stripes, gradient, composition, visual rhythm, optical illusion",1,N/A,original,"Carlos Cruz-Diez
+(Venezuelan, 1923-2019)
+Inducción Cromática a Doble Frecuencia (from Serie Caura Permutación 7), 2015
+color lithograph on wove paper
+signed, dated, and numbered 33/75 in pencil, verso
+
+Sheet: 23 1/2 x 27 1/2 inches.
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c2879505-cc46-4f83-90ff-f185f7b5644e,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/5,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+6704653e-cc3c-4db7-b05f-bfaf41e345c6,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 6,USD,4000,6000,N/A,N/A,4000,6000,N/A,N/A,Carlos Cruz-Diez,1923,2019,"Color Aditivo Cantarrana 3, 2016",prints,color lithograph on wove paper,N/A,39.25,27.5,in,yes,yes,yes,2016,2016,N/A,"color, lines, patterns, abstraction, lithograph, stripes, vibrant colors, geometric shapes, optical illusion, contemporary art",1,N/A,original,"Carlos Cruz-Diez
+(Venezuelan, 1923-2019)
+Color Aditivo Cantarrana 3, 2016
+color lithograph on wove paper
+signed, dated, and numbered 2/40 in pencil, verso
+
+Sheet: 27 1/2 x 39 1/4 inches.
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ed34b4ed-aed5-49e2-95b2-f619fd711b51,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/6,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+6bb08cf6-9f00-4a8a-8e56-10186a3396a3,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 7,USD,30000,50000,25600,20000,30000,50000,25600,20000,Damien Hirst,1965,N/A,"Palais des Papes (from Cathedral), 2007",prints,unique screenprint with diamond dust,N/A,47.25,47.25,in,yes,yes,yes,2007,2007,Property from an Alessandra Branca-Designed Chicago Residence,"butterflies, pattern, colorful, circular arrangement, blue, yellow, black, pink, nature, symmetry",1,N/A,original,"Damien Hirst
+(British, b. 1965)
+Palais des Papes (from Cathedral), 2007
+unique screenprint with diamond dust
+signed in ink; unique prototype, from a set of eight Cathedral prints that the Artist donated to the Silverlake charity auction in May 2007
+
+Sheet: 47 1/4 x 47 1/4 inches.
+
+Property from an Alessandra Branca-Designed Chicago Residence
+
+This lot is located in Chicago.
+Published by Other Criteria, London",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/63ad600f-b41a-4e3c-bd9a-0f46e553bdd5,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/7,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,42000.0,35000.0
+932301dc-ab40-4dc5-b2aa-05c0a22f9c56,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 8,USD,12000,18000,10880,8500,12000,18000,10880,8500,Damien Hirst,1965,N/A,"Cineole, 2004",prints,aquatint in colors,N/A,N/A,N/A,in,yes,yes,yes,2004,2004,"This lot is located in Chicago. Published by The Paragon Press, London","dots, colors, circle, patterns",1,N/A,original,"Damien Hirst 
+(British, b. 1965)
+Cineole, 2004
+aquatint in colors
+signed in pencil; numbered 106/145 in pencil, verso
+
+Diameter: 33 3/4 inches.
+
+This lot is located in Chicago.
+Published by The Paragon Press, London",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/17d1cbc9-0359-49ed-817e-0a6595fda804,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/8,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,16500.0,13750.0
+bba01e0f-1e6a-4cec-b47b-ab991c4a38eb,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 9,USD,15000,20000,12800,10000,15000,20000,12800,10000,Frank Stella,1936,2024,"Polar Co-Ordinates Variant Ia, 1980",prints,lithograph and screenprint in colors,N/A,38,38.5,in,yes,yes,yes,1980,1980,Estate of Eleanor C. Bogart,"geometric shapes, colors, lines, patterns, abstract design, polygons, textures, grids, circles, concentric",1,N/A,original,"Frank Stella
+(American, 1936–2024)
+Polar Co-Ordinates Variant Ia, 1980
+lithograph and screenprint in colors
+signed, dated, and numbered 5/20 in pencil
+
+Sheet: 38 1/2 x 38 inches.
+
+Estate of Eleanor C. Bogart
+
+This lot is located in Chicago.
+Published by Petersburg Press, New YorkLiterature:Axsom 127",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/dcea2ab8-e0bd-4243-872d-1bf6f5683579,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/9,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,18500.0,15416.666666666668
+47d9390a-2039-4bda-9804-61083d3509c2,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 10,USD,2000,3000,N/A,N/A,2000,3000,N/A,N/A,Robert Rauschenberg,1925,2008,Deposit (from America: The Third Century),prints,screenprint in colors with hand-coloring,N/A,22.25,30,in,yes,yes,yes,1975,1975,"Co-published by APC Editions and Chermayeff & Geismar, New York; printed by Styria Studio, New York, with their blindstamp","collage, figures, text, graphic elements, abstract forms, nature, machinery, patterns, colors, sketches",1,N/A,original,"Robert Rauschenberg
+(American, 1925–2008)
+Deposit (from America: The Third Century), 1975
+screenprint in colors with hand-coloring
+signed, dated, and numbered 92/200 in pencil
+
+Sheet: 30 x 22 1/4 inches.
+
+This lot is located in Philadelphia.
+Co-published by APC Editions and Chermayeff & Geismar, New York; printed by Styria Studio, New York, with their blindstamp",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b3a8b10a-7496-4a37-81cf-d836404d5623,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/10,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+c7a486ac-11bb-4979-8f56-df24d1851558,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 11,USD,2500,3500,3840,3000,2500,3500,3840,3000,Tom Wesselmann,1931,2004,"Monica Sitting By Wall, 1990",prints,lithograph,N/A,38.875,46.75,in,yes,yes,yes,1990,1990,"This lot is located in Chicago. Published by International Images, Putney, Vermont, printed by Derriere l'Etoile, New York","woman, sitting, wall, lithograph",1,N/A,original,"Tom Wesselmann
+(American, 1931–2004)
+Monica Sitting By Wall, 1990
+lithograph
+signed and numbered 13/26 in pencil
+
+Sheet: 46 3/4 x 38 7/8 inches.
+
+This lot is located in Chicago.
+Published by International Images, Putney, Vermont, printed by Derriere l'Etoile, New York",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2f53d5e7-591b-4a96-a6d9-7ea95144dba1,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/11,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3200.0,2666.666666666667
+03af4a43-23aa-4aab-82cf-4f55d8bb563f,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 12,USD,600,800,1216,950,600,800,1216,950,Susan Rothenberg,1945,2020,"Puppet, 1983",prints,woodcut,N/A,33.5,47.75,in,yes,yes,yes,1983,1983,"Paul Cadwell Gallery, Philadelphia, Pennsylvania
+Acquired directly from the above on July 31, 1984","puppet, strings, movement, woodcut, black and white, abstract, dynamic lines, texture",1,N/A,original,"Susan Rothenberg
+(American, 1945-2020)
+Puppet, 1983
+woodcut
+signed, dated, and numbered 12/25 in pencil
+
+ 47 3/4 x 33 1/2 inches.
+
+This lot is located in Philadelphia.
+Published by Multiples, Inc., New YorkProvenance:Paul Cadwell Gallery, Philadelphia, PennsylvaniaAcquired directly from the above on July 31, 1984Literature:Maxwell 16",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/84fba25e-c8eb-4efa-bb14-af7ae58a748a,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/12,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+80444ba2-966f-4c0d-abc1-bbb7be9eddf6,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 13,USD,600,800,1280,1000,600,800,1280,1000,Neil Welliver,1929,2005,"Loon, 1988",prints,etching and aquatint in colors on wove paper,N/A,23.75,23.5,in,yes,yes,yes,1988,1988,"Published by the Institute of Contemporary Art, Philadelphia; printed by Cleveland Editions, New York. Created for the Institute of Contemporary Art, 25th Anniversary Benefit, 'Those Fabulous Sixties'.","loon, water, reflection, green background, blue patterns, black and white, animal, nature, etching",1,N/A,original,"Neil Welliver
+(American, 1929-2005)
+Loon, 1988
+etching and aquatint in colors on wove paper
+signed and numbered 72/175 in pencil
+
+23 1/2 x 23 3/4 inches.
+
+This lot is located in Philadelphia.
+Published by the Institute of Contemporary Art, Philadelphia; printed by Cleveland Editions, New YorkCreated for the Institute of Contemporary Art, 25th Anniversary Benefit, 'Those Fabulous Sixties'",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/fafdc508-4b04-465b-bbfa-f37b8bc8d8d0,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/13,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,700.0,583.3333333333334
+4bb7e9b2-64d1-4fa6-a92d-9ec0db76a730,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 14,USD,400,600,3200,2500,400,600,3200,2500,Kikuo Saito,1939,2016,"Onion Train, 1979",prints,screenprint,N/A,29.75,42.5,in,yes,yes,yes,1970,1979,N/A,"abstract shapes, colors, green, gray, black, red, brown, yellow",1,N/A,original,"Kikuo Saito
+(Japanese, 1939-2016)
+Onion Train, 1979
+screenprint
+signed and inscribed 'A.P.' in pencil
+
+Sheet: 42 1/2 x 29 3/4 inches.
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6027903c-24ee-4ec5-bc52-486ec6da8e93,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/14,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+305a1c55-dc93-4a88-8a09-cbf227916a10,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 15,USD,800,1200,3200,2500,800,1200,3200,2500,William Scott,1913,1989,Benbecula (from The Scottish Island),prints,color lithograph,N/A,24,19.75,in,yes,yes,yes,1962,1962,"Property from the Estate of Richard and Annette Bloch, Kansas City, Missouri. Provenance: The Collection of Charles Craig, Santa Barbara. Denenberg Fine Arts, Inc., West Hollywood, California.","abstract shapes, dark blue, black, light gray, brown, textured patterns, organic forms",1,N/A,original,"William Scott
+(British, 1913–1989)
+Benbecula (from The Scottish Island), 1962
+color lithograph
+signed, dated, and numbered 18/75 in pencil
+
+19 3/4 x 24 inches.
+
+Property from the Estate of Richard and Annette Bloch, Kansas City, Missouri
+
+This lot is located in Chicago.
+Published and printed by Curwen Prints, LondonProvenance:The Collection of Charles Craig, Santa BarbaraDenenberg Fine Arts, Inc., West Hollywood, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/12432539-1978-43c8-8421-1cdeb2a5bab5,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/15,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+62a09f15-b760-4b72-b5f4-0ca425895c6b,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 17,USD,800,1200,4480,3500,800,1200,4480,3500,Dan Christensen,1942,2007,"Blue Rancho, Latuka, Ring Taboo, and Mojo (four works)",prints,screenprints,N/A,29.75,42,in,yes,yes,yes,1901,2000,Deaccessioned from the Boca Raton Museum of Art to benefit the Acquisitions Fund,"blue, abstract shapes, screenprints, colors, lines, dark backgrounds, geometric forms, bold colors",4,N/A,original,"Dan Christensen
+(American, 1942-2007)
+Blue Rancho, Latuka, Ring Taboo, and Mojo (four works)
+screenprints
+each signed, titled, and numbered in pencil
+
+Largest sheet: 42 x 29 3/4 inches.
+
+Deaccessioned from the Boca Raton Museum of Art to benefit the Acquisitions Fund
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4977e7de-48b8-4de6-ac3c-5f31c980ae05,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/17,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1050.0,875.0
+8d30fd40-1b2f-4edd-822b-356fa3c1566f,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 18,USD,600,800,1408,1100,600,800,1408,1100,Dan Christensen,1942,2007,"Chord Progression I, Chord Progression II, and Jivaro II (three works)",prints,screenprints,N/A,29.75,42.25,in,yes,yes,yes,1901,2000,Deaccessioned from the Boca Raton Museum of Art to benefit the Acquisitions Fund,"colors, geometric shapes, abstract forms, screenprints",3,N/A,original,"Dan Christensen
+(American, 1942–2007)
+Chord Progression I, Chord Progression II, and Jivaro II (three works)
+screenprints
+each signed, titled, and numbered in pencil
+
+Each sheet: 42 1/4 x 29 3/4 inches.
+
+Deaccessioned from the Boca Raton Museum of Art to benefit the Acquisitions Fund
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/cccb4b37-1d75-43a7-8863-6edde120624e,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/18,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+6689df1b-315d-46c5-b93e-59d973a9f872,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 19,USD,100,200,320,250,100,200,320,250,Patrick Caulfield,1936,2005,She Fled Along the Avenue and My Life Inspires So Many Desires (two plates from Some Poems By Jules Laforgue),prints,screenprints,N/A,13.75,15.875,in,no,yes,yes,1973,1973,Property from the Collection of Carl Ciampanelli,"screenprints, abstract, lines, shapes, blue background, green, modern art, graphic design, circular forms, minimalism",2,N/A,original,"Patrick Caulfield
+(British, 1936–2005)
+She Fled Along the Avenue and My Life Inspires So Many Desires (two plates from Some Poems By Jules Laforgue), 1973
+screenprints
+from the bound volume of 22 screenprints; each unsigned as issued
+
+Largest sheet: 15 7/8 x 13 3/4 inches.
+
+Property from the Collection of Carl Ciampanelli",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ba215338-2716-4581-8b87-e9c2aacc7815,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/19,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,175.0,145.83333333333334
+2191da34-51e7-4005-b766-5f2354a199a6,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 20,USD,800,1200,832,650,800,1200,832,650,Dan Christensen,1942,2007,"Illinois, Hyde Park I, Hyde Park II, and Hyde Park III (four works)",prints,screenprints,N/A,29.75,42.25,in,yes,no,yes,1942,2007,Deaccessioned from the Boca Raton Museum of Art to benefit the Acquisitions Fund,"abstract shapes, color blocks, geometric forms, rectangles, brush strokes",4,N/A,original,"Dan Christensen
+(American, 1942-2007)
+Illinois, Hyde Park I, Hyde Park II, and Hyde Park III (four works)
+screenprints
+each signed, titled, and numbered in pencil
+
+Largest sheet: 42 1/4 x 29 3/4 inches.
+
+Deaccessioned from the Boca Raton Museum of Art to benefit the Acquisitions Fund
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5afbd7d4-c08a-4a2e-8b0f-823bcc947ff3,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/20,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+4d72265c-138b-45c9-8206-fba065d26415,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 21,USD,1000,2000,1408,1100,1000,2000,1408,1100,Robert Mangold,1937,N/A,Untitled (Red/Gray Zone) (Lincoln Center/List Print at the Barbican Centre),prints,screenprint in colors,N/A,39,24,in,yes,yes,yes,1997,1997,"Published by Lincoln Center/List Print, New York, printed by Brand X, New York, with their blindstamp","geometric shapes, red, gray, lines, curves, abstract, screenprint, color, form, space",1,N/A,original,"Robert Mangold
+(American, b. 1937)
+Untitled (Red/Gray Zone) (Lincoln Center/List Print at the Barbican Centre)﻿, 1997
+screenprint in colors
+signed and numbered 'R.P. 6/10' in pencil; a reserve proof, aside from the edition of 108
+
+24 x 39 inches.
+
+This lot is located in Philadelphia.
+Published by Lincoln Center/List Print, New York, printed by Brand X, New York, with their blindstamp",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d3253637-b458-4171-b0e5-b866defbcacf,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/21,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1750.0,1458.3333333333335
+ecea6f58-df56-4104-b54b-43df0de41d13,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 22,USD,600,800,576,450,600,800,576,450,Robert Mangold,1937,N/A,"Two plates from A Book of Silk Screen Prints: Multiple Panel Paintings 1973-1976, 1992",prints,color screenprints,N/A,19.1875,7,in,yes,yes,yes,1992,1992,N/A,"geometric shapes, yellow, gray lines, abstract composition, rectangles, curves",2,N/A,original,"Robert Mangold
+(American, b. 1937)
+Two plates from A Book of Silk Screen Prints: Multiple Panel Paintings 1973-1976, 1992
+color screenprints
+each initialed and dated in pencil
+
+Larger: 7 x 19 3/16 inches.
+
+This lot is located in Philadelphia.
+Published by Parasol Press S.A., New York; printed by Domberger KG, FilderstadtLiterature:Robert Mangold Print Catalogue Raisonné 1997.02",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a292f268-4555-4eb0-8f41-1f499288b54a,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/22,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,700.0,583.3333333333334
+8c74a692-3a40-453d-a7af-310afb122d64,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 23,USD,1000,2000,1024,800,1000,2000,1024,800,Robert Mangold,1937,N/A,IV and VI (from I-VIII),prints,woodcuts on Misu with torn edge paper,N/A,12,14,in,yes,yes,yes,1991,1991,Property from the Collection of Yasunao Frank Aoi,"rectangles, lines, red, woodcut, torn edges, abstract shapes, geometric patterns, paper, number, signature",2,N/A,original,"Robert Mangold
+(American, b. 1937)
+IV and VI (from I-VIII), 1991-92
+woodcuts on Misu with torn edge paper
+each signed, titled, and numbered 7/32 in pencil
+
+Each sheet: 14 x 12 inches.
+
+Property from the Collection of Yasunao Frank Aoi
+
+This lot is located in Chicago.
+Published and printed by Simmelink/Sukimoto Editions, Marina Del Rey, CaliforniaLiterature:Robert Mangold Print Catalogue Raisonné 1992.01",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/67187fe7-de47-4957-a98d-11a107759f35,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/23,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1600.0,1333.3333333333335
+2151905f-7666-4b82-94f6-87e9011b6b07,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 24,USD,1000,2000,960,750,1000,2000,960,750,Robert Mangold,1937,N/A,Untitled (from Seven Aquatints),prints,color aquatint on BFK Rives,N/A,15.5,15.875,in,yes,yes,yes,1973,1973,N/A,"circle, square, green, geometric shapes, abstract",1,N/A,original,"Robert Mangold
+(American, b. 1937)
+Untitled (from Seven Aquatints), 1973
+color aquatint on BFK Rives
+signed, dated and numbered 49/50 in pencil
+
+15 7/8 x 15 1/2 inches.
+
+This lot is located in Philadelphia.
+Published by Parasol Press, New York, 1974Literature:Robert Mangold Print Catalogue Raisonné 1973.04",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/1b360e10-3708-46f5-a1a0-0667bb672fc8,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/24,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1600.0,1333.3333333333335
+11045f59-ddac-464e-844d-0ec618aaec6b,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 25,USD,800,1200,768,600,800,1200,768,600,Óscar Domínguez,1906,1957,"Composition (two works), ca. 1950",prints,color lithographs on Arches paper,N/A,15,22.375,in,yes,yes,yes,1901,2000,N/A,"abstract, geometric shapes, color variations, curtains, red, green, blue, yellow, black, white",2,N/A,original,"Óscar Domínguez
+(Spanish, 1906-1957)
+Composition (two works), ca. 1950
+color lithographs on Arches paper
+each signed and numbered in pencil
+
+Each sheet: 22 3/8 x 15 inches.
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0a71bceb-d01c-4347-a745-84aa5160273f,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/25,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+73e21e8e-41ee-45d9-a1b3-cdfa89ef063a,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 26,USD,2000,3000,2880,2250,2000,3000,2880,2250,Alexander Calder,1898,1976,"The Black Line, 1967",prints,color lithograph on Arches,N/A,30,22.5,in,yes,yes,yes,1967,1967,"Brewster Gallery, New York
+Acquired directly from the above in 1992
+Private Collection, Pennsylvania","black line, red circles, abstract shapes, color lithograph, yellow background",1,N/A,original,"Alexander Calder
+(American, 1898-1976)
+The Black Line, 1967
+color lithograph on Arches
+signed and numbered 28/60 in pencil
+
+Sheet: 22 1/2 x 30 inches.
+Provenance:Brewster Gallery, New YorkAcquired directly from the above in 1992Private Collection, Pennsylvania",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/19d18cdd-4e7f-4a0a-94fb-e1e6ee62752a,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/26,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+c056e82f-8327-4393-8a12-618192f90c68,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 27,USD,2000,3000,3200,2500,2000,3000,3200,2500,Alexander Calder,1898,1976,"Circles, 1969",prints,color lithograph on Arches,N/A,20.5,26.75,in,yes,yes,yes,1960,1969,"Sidney Rothman-The Gallery, Barnegat Light, New Jersey
+Acquired directly from the above on August 18, 1994
+Private Collection, Pennsylvania","blue shape, black shape, red shape, snake shape, abstract forms",1,N/A,original,"Alexander Calder
+(American, 1898-1976)
+Circles, 1969
+color lithograph on Arches
+signed and numbered 66/125 in pencil
+
+Sheet: 26 3/4 x 20 1/2 inches.
+Published by Kennedy GalleryProvenance:Sidney Rothman-The Gallery, Barnegat Light, New JerseyAcquired directly from the above on August 18, 1994Private Collection, Pennsylvania",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7604d4a2-405e-4aaf-9d5d-8106656955a5,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/27,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+931640f7-c772-455b-9bfa-56b11679992f,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 28,USD,2000,3000,2880,2250,2000,3000,2880,2250,Alexander Calder,1898,1976,Grey Elipse (from Our Unfinished Revolution),prints,color lithograph on Arches,N/A,29.875,22,in,yes,yes,yes,1976,1976,"Private Collection, Pennsylvania","circles, red, blue, yellow, black, grey, ovals, abstract shapes, lithograph, color",1,N/A,original,"Alexander Calder
+(American, 1898-1976)
+Grey Elipse (from Our Unfinished Revolution), 1976
+color lithograph on Arches
+signed and numbered 148/175 in pencil
+
+Sheet: 22 x 29 7/8 inches.
+Published by Alba Editions, Inc., New York, to aid the National Emergency Civil Liberties Committee; printed by Mourlot, ParisProvenance:Private Collection, Pennsylvania",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/0044a3f8-d282-44f1-84a5-69c414b5c65f,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/28,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2800.0,2333.3333333333335
+726b2f11-b803-4b9f-9736-4328190f63d6,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 29,USD,3000,5000,2880,2250,3000,5000,2880,2250,Alexander Calder,1898,1976,Untitled (Red Cloud),prints,color lithograph on Arches,N/A,30,21.75,in,yes,yes,yes,1970,1970,N/A,"red shape, blue shape, yellow shape, black background, abstract composition",1,N/A,original,"Alexander Calder
+(American, 1898-1976)
+Untitled (Red Cloud), 1970
+color lithograph on Arches
+signed and inscribed 'AP' in pencil
+
+Sheet: 21 3/4 x 30 inches.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6515ad51-1618-4b78-9e58-8c85e93f9209,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/29,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+6e7367be-9e31-4de3-8245-c5e01fddbe13,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 30,USD,400,600,576,450,400,600,576,450,Yaacov Agam,1928,N/A,Chess,prints,lenticular print,N/A,11.875,11.875,in,yes,no,yes,1928,1928,"Property from the Estate of Ethel Kurland, Highland Park, Illinois.","chess, geometric patterns, abstract shapes, colors, squares, rectangles, lines, lenticular print, vibrant hues, modern art",1,N/A,original,"Yaacov Agam
+(Israeli, b. 1928)
+Chess
+lenticular print
+signed and numbered 95/99 in marker
+
+11 7/8 x 11 7/8 inches.
+
+Property from the Estate of Ethel Kurland, Highland Park, Illinois.
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/59aaa7f6-2d7f-43bd-a725-54aa64a0a6bd,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/30,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+0692ce57-8663-4c62-8be6-2b5f50da6dce,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 31,USD,500,700,384,300,500,700,384,300,Nancy Graves,1939,1995,"Medusa, 1989",prints,color screenprint with glitter,N/A,29.875,30.25,in,yes,yes,yes,1989,1989,"Published by the Institute of Contemporary Art, University of Pennsylvania","lines, blue shapes, abstract forms, glitter, screenprint, nature, visual patterns, texture, organic shapes, layers",1,N/A,original,"Nancy Graves
+(American, 1939-1995)
+Medusa, 1989
+color screenprint with glitter
+signed, dated, and numbered 14/170 in pencil
+
+Sheet: 30 1/4 x 29 7/8 inches.
+
+This lot is located in Philadelphia.
+Published by the Institute of Contemporary Art, University of Pennsylvania",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c2f1473f-2a63-41cc-8cc8-e0411a3cb4a7,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/31,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,650.0,541.6666666666667
+95363784-30ca-4df9-955a-eff853f84991,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 33,USD,3000,4000,3584,2800,3000,4000,3584,2800,Robert Motherwell,1915,1991,Untitled (from A La Pintura),prints,aquatint in colors on wove paper,N/A,23.25,12,in,yes,yes,yes,1970,1970,"John C. Stoller & Co, Minneapolis","color blocks, abstract shapes, beige, blue, geometric composition, printmaking, aquatint, unified form, wove paper, unique proof",1,N/A,original,"Robert Motherwell
+(American, 1915–1991)
+Untitled (from A La Pintura), ca. 1970
+aquatint in colors on wove paper
+signed and annotated 'Trial' in pencil; a unique proof
+
+12 x 23 1/4 inches.
+
+This lot is located in Philadelphia.
+Provenance:John C. Stoller & Co, Minneapolis",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f8f01e91-a8da-430f-b714-a64c8e67484c,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/33,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3500.0,2916.666666666667
+b08ca4ac-2e5b-4606-840f-8ad9ba35595f,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 34,USD,1000,1500,704,550,1000,1500,704,550,Lynda Benglis,1941,N/A,"Barrier Wave II, 1993",prints,color lithograph,N/A,35.75,23.25,in,yes,yes,yes,1993,1993,N/A,"abstract, lines, shapes, yellow, black, grey, textures, patterns, nature, wave",1,N/A,original,"Lynda Benglis
+(American, b. 1941)
+Barrier Wave II, 1993
+color lithograph
+signed, titled, dated, and numbered 4/12 in pencil
+
+Sheet: 23 1/4 x 35 3/4 inches.
+
+This lot is located in Philadelphia.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ffae59e2-3934-417d-81de-2d6191f053d6,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/34,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1350.0,1125.0
+66e4d9af-e4b7-4326-b306-e3dfc938b018,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 35,USD,2500,3500,6080,4750,2500,3500,6080,4750,Richard Serra,1938,2024,"Venice Notebook Series #9, 2002",prints,etching,N/A,13.75,12,in,yes,yes,yes,2002,2002,Property from a Private Collection,"abstract shapes, black lines, texture, etching",1,N/A,original,"Richard Serra
+(American, 1938-2024)
+Venice Notebook Series #9, 2002
+etching
+signed, dated, and numbered 50/60 in pencil
+
+12 x 13 3/4 inches.
+
+Property from a Private Collection
+
+This lot is located in Chicago.
+Published and printed by Gemini G.E.L, Los Angeles, with their blindstamp",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a0e34845-8c5d-43da-9904-dc19b3f1b701,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/35,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3200.0,2666.666666666667
+19bb9517-b5f2-42c0-986a-92961b919450,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 36,USD,2500,3500,7040,5500,2500,3500,7040,5500,Richard Serra,1938,2024,"Venice Series Notebook #11, 2002",prints,etching,N/A,13.25,11.25,in,yes,yes,yes,2002,2002,Property from a Private Collection,"black ink, abstract, circular, etching",1,N/A,original,"Richard Serra
+(American, 1938-2024)
+Venice Series Notebook #11, 2002
+etching
+signed, dated, and numbered 50/60 in pencil
+
+11 1/4 x 13 1/4 inches.
+
+Property from a Private Collection
+
+This lot is located in Chicago.
+Published and printed by Gemini G.E.L, Los Angeles, with their blindstamp",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/485b39fe-a906-4f40-a278-5ecc9710d630,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/36,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3200.0,2666.666666666667
+6741dbdb-9239-4e19-b9d6-3e2f1f423b07,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 37,USD,1800,2500,N/A,N/A,1800,2500,N/A,N/A,After Joan Miró,1893,1983,"One Plate from Constellations, 1959",prints,pochoir in colors,N/A,14.125,17,in,no,yes,yes,1959,1959,"Published by Pierre Matisse, New York","stars,circles,abstract shapes,colors,lines,geometric patterns,eye,triangles,red,black",1,N/A,after,"After Joan Miró
+(Spanish, 1893-1983)
+One Plate from Constellations, 1959
+pochoir in colors
+
+Sheet: 17 x 14 1/8 inches.
+
+This lot is located in Philadelphia.
+Published by Pierre Matisse, New YorkLiterature:Cramer Books 58",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/48015b3f-5833-419f-a679-0949a6a4a95e,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/37,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+c603cb45-aa86-4a4e-9734-ce93173558ff,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 38,USD,1500,2000,1792,1400,1500,2000,1792,1400,Joan Miró,1893,1983,"One Plate from Ubu Roi, 1966",prints,color lithograph on Arches,N/A,25,16.125,in,no,yes,yes,1966,1966,N/A,"abstract shapes, colorful patterns, figures, organic forms, green background, yellow elements, red accents, blue details, textures, whimsical forms",1,N/A,original,"Joan Miró
+(Spanish, 1893-1983)
+One Plate from Ubu Roi, 1966
+color lithograph on Arches
+numbered 51/75 in pencil; inscribed II, verso
+
+16 1/8 x 25 inches.
+
+This lot is located in Philadelphia.
+Published by Tériade Editeur, Paris, printed by Mourlot, ParisLiterature:Mourlot 464",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/db7aedb8-e478-4d3d-b00a-1948944f0876,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/38,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+2c2e3d65-2786-4dc5-bcc2-0838494e338d,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 39,USD,1500,2500,3840,3000,1500,2500,3840,3000,After Fernand Léger,1881,1955,"13 plates from La Ville, 1959",prints,color lithographs,N/A,31.25,25.25,in,no,yes,yes,1959,1959,"Published by Tériade, Paris; printed by Mourlot Frères, Paris","figures, cityscapes, abstraction, architecture, colors, lines, shapes, crowds, industry, urban life",13,N/A,after,"After Fernand Léger
+(French, 1881-1955)
+13 plates from La Ville, 1959
+color lithographs
+each stamped and numbered 6/180 in pencil
+
+Each framed: 25 1/4 x 31 1/4 inches (or the reverse). 
+
+This lot is located in Chicago.
+Published by Tériade, Paris; printed by Mourlot Frères, Paris",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/b9239abb-e0cd-4c48-8afe-527301394308,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/39,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+f987f0a1-fabc-4d8e-8e96-0ff87788a2db,Artwork,Freemans,6492,2026-03-06,Philadelphia,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 40,USD,1500,2000,1792,1400,1500,2000,1792,1400,Joan Miró,1893,1983,"One Plate from Ubu Roi, 1966",prints,color lithograph on Arches,N/A,24.625,16.125,in,no,yes,yes,1966,1966,N/A,"abstract shapes, colorful patterns, playful forms, geometric elements, vibrant colors, fish, cone, bubbles, background with pink",1,N/A,original,"Joan Miró
+(Spanish, 1893–1983)
+One Plate from Ubu Roi, 1966
+color lithograph on Arches
+numbered 46/75 in pencil
+
+16 1/8 x 24 5/8 inches.
+
+This lot is located in Philadelphia.
+Published by Tériade Editeur, Paris, printed by Mourlot, Paris.Literature:Mourlot 485",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ff5b9e45-5412-40ce-86bd-23a7963c2b2d,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/40,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+5ad7312c-ea05-46d3-b952-7e344996c10f,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 41,USD,1500,2000,2176,1700,1500,2000,2176,1700,Mel Ramos,1935,2018,"Mixed Nuts, 2008",mixed media,enamel on steel,1.125,19.625,27.5,in,yes,yes,yes,2008,2008,N/A,"woman, can, mixed nuts, yellow background, enamel, figure, legs, packaging, branding, nude",1,N/A,original,"Mel Ramos
+(American, 1935–2018)
+Mixed Nuts, 2008
+enamel on steel
+signed and numbered 114/125 in silver marker
+
+27 1/2 x 19 5/8 x 1 1/8 inches.
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/21af92e6-3796-4e4f-80cd-7a3eeb8f0e18,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/41,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1850.0,1541.6666666666667
+3a224b1a-b4c5-4888-b26f-c63bd3d7f3db,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 42,USD,1500,2000,1408,1100,1500,2000,1408,1100,Mel Ramos,1935,2018,"Jujyfruit Judy, 2015",prints,color lithograph,N/A,17.875,24,in,yes,yes,yes,2015,2015,N/A,"woman, nude, candy box, Jujyfruit, blonde hair, sitting pose, colorful, fruit, packaging, advertising",1,N/A,original,"Mel Ramos
+(American, 1935–2018)
+Jujyfruit Judy, 2015
+color lithograph
+signed and numbered 56/199 in pencil
+
+24 x 17 7/8 inches.
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c7cafffc-9bde-44f2-b5fe-78ae800225be,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/42,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+158f299b-3f24-451b-bb44-b5093ef40849,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 43,USD,1200,1800,1664,1300,1200,1800,1664,1300,Takashi Murakami,1962,N/A,And then and then and then and then and then (Blue) and (Red) (two works),prints,offset lithographs in colors,N/A,26.75,26.75,in,yes,yes,yes,1999,1999,"Published and printed by Kaikai Kiki Co., Ltd., Tokyo","blue bear, smiling face, green eyes, checkered background, offset lithographs, contemporary art, pop culture, Japanese artist, playful design, character art",2,N/A,original,"Takashi Murakami
+(Japanese, b. 1962)
+And then and then and then and then and then (Blue) and (Red) (two works), 1999
+offset lithographs in colors
+each signed and numbered out of 300 in ink
+
+Each sheet: 26 3/4 x 26 3/4 inches.
+Published and printed by Kaikai Kiki Co., Ltd., Tokyo",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d8574e08-43eb-4442-a2b1-ab3d504d5a8a,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/43,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1650.0,1375.0
+90dba727-ccfc-4281-b7ba-e3d4219c79f0,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 44,USD,1000,2000,1024,800,1000,2000,1024,800,Deborah Kass,1952,N/A,"Vote Hillary, 2016",prints,screenprint,N/A,42,41.75,in,yes,yes,yes,2016,2016,N/A,"Donald Trump, political art, protest, screenprint, Hillary Clinton, vibrant colors, portrait, expression, contemporary art, satire",1,N/A,original,"Deborah Kass
+(American, b. 1952)
+Vote Hillary, 2016
+screenprint
+signed, dated, and numbered 21/250 in pencil, verso
+
+41 3/4 x 42 inches.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/55704c85-3e58-43ce-8f72-8a3ae5e764f2,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/44,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+870a635e-ea25-41fc-9fcf-ea607b8aabcb,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 45,USD,1500,2500,2048,1600,1500,2500,2048,1600,Annie Leibovitz,1949,N/A,"Malcolm McLaren and Christian Fletcher, Point Dume, California, 1985",photographs,archival pigment print,N/A,14.125,14.125,in,yes,yes,yes,1985,1985,N/A,"two figures, blue body paint, surfboard, rocks, beach, California, male figure, sitting figure, colorful hair, 1980s",1,N/A,original,"Annie Leibovitz
+(American, b. 1949)
+Malcolm McLaren and Christian Fletcher, Point Dume, California, 1985
+archival pigment print
+signed, titled, dated, and numbered 10/40 in ink
+
+14 1/8 x 14 1/8 inches.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7055499e-5dc5-4757-a59e-b26f16cbb9bf,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/45,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+cae2d9e5-480b-4201-b3f0-aa317f293ae5,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 46,USD,3000,5000,4480,3500,3000,5000,4480,3500,Annie Leibovitz,1949,N/A,"John Belushi, Staten Island, New York, 1981",photographs,dye bleach print,N/A,14,14,in,yes,yes,yes,1981,1981,N/A,"man, street, night, grass, hat, jacket, plaid shirt, stance, photograph, road",1,N/A,original,"Annie Leibovitz
+(American, b. 1949)
+John Belushi, Staten Island, New York, 1981
+dye bleach print
+signed, titled, dated, and numbered 15/40 in ink
+
+14 x 14 inches.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/427a1bfd-ff4f-4e28-9a76-d7a8f405e3c6,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/46,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+795a3c96-6dc3-4052-9d48-f1758895a419,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 47,USD,800,1200,1024,800,800,1200,1024,800,Eikoh Hosoe,1933,2024,"Untitled (Twinka Under Tree Shadow, Yosemite)",photographs,gelatin silver print,N/A,9.875,10,in,no,yes,yes,1975,1975,Property from the Collection of Yasunao Frank Aoi,"nude, rock, tree shadow, Yosemite, woman, meditation, nature, black and white, portrait, landscape",1,N/A,original,"Eikoh Hosoe
+(Japanese, 1933-2024)
+Untitled (Twinka Under Tree Shadow, Yosemite), 1975
+gelatin silver print
+inscribed in Japanese and dated in pencil; artist copyright stamp, verso
+
+10 x 9 7/8 inches.
+
+Property from the Collection of Yasunao Frank Aoi
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/9bcc462c-051c-46b2-b81f-6b0e1c0c80dc,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/47,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+e28a0113-e5f9-43f3-bef2-7ed7013cc652,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 49,USD,1500,2500,1152,900,1500,2500,1152,900,Ralph Gibson,1939,N/A,Four Works,prints,gelatin silver prints,N/A,15.875,19.75,in,yes,no,yes,1939,1939,"Property from the Museum of Fine Arts, Houston","human figure, torso, hands, shadows, fabric, legs, scissors, black and white photography, texture, drapery",4,N/A,original,"Ralph Gibson
+(American, b. 1939)
+Four Works
+gelatin silver prints
+each signed, dated, and inscribed 'AP' in pencil, verso
+
+Largest sheet: 19 3/4 x 15 7/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/90868e52-efff-4fbe-b9f9-4300d32299d5,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/49,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+6836fda0-7d21-4d0b-b4e9-43733ef507be,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 50,USD,300,500,1024,800,300,500,1024,800,Ralph Gibson,1939,N/A,"Six Works, 1991-1994",prints,chromogenic prints,N/A,8.5,12.5,in,yes,yes,yes,1991,1994,"Property from the Museum of Fine Arts, Houston; Gift of Adam and Susan Finn","plate, forks, chair, cattle, landscape, chicken",6,N/A,original,"Ralph Gibson
+(American, b. 1939)
+Six Works, 1991-1994
+chromogenic prints
+each signed, dated, and inscribed 'AP' in black ink
+
+Largest: 12 1/2 x 8 1/2 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Adam and Susan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3c4761c7-1c2a-4fe8-8e83-29e8a5e494ea,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/50,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,425.0,354.1666666666667
+61380e0c-f376-489d-b347-0996f662a83c,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 51,USD,800,1200,704,550,800,1200,704,550,Ralph Gibson,1939,N/A,Untitled (Man and Mona Lisa),photographs,gelatin silver print,N/A,8.125,12.375,in,yes,yes,yes,1974,1974,Gift of Joan Morgenstern,"man, Mona Lisa, painting, portrait, interior, doorway, coat, floor tiles, shadow, gallery",1,N/A,original,"Ralph Gibson
+(American, b. 1939)
+Untitled (Man and Mona Lisa), 1974
+gelatin silver print
+signed, dated, and inscribed AP in pencil (verso)
+
+12 3/8 x 8 1/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Provenance:Gift of Joan Morgenstern",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2fbce7ba-6d68-48bc-a9d2-b23ca5e3c50d,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/51,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+9ad32cc7-64cb-47e2-bda6-3cdfa3115171,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 52,USD,1500,2500,1024,800,1500,2500,1024,800,Len Prince,1953,N/A,"Ford Models V, New York, 1991",photographs,platinum print,N/A,19,23.75,in,yes,yes,yes,1991,1991,"Patti Gilford Fine Arts, Chicago","woman, dress, back, flowers, minimalism, fashion, photography",1,N/A,original,"Len Prince
+(American, b. 1953)
+Ford Models V, New York, 1991
+platinum print
+embossed signature; signed, titled, dated, and numbered 25/25 in pencil, verso 
+
+23 3/4 x 19 inches.
+
+This lot is located in Chicago.
+Provenance:Patti Gilford Fine Arts, Chicago",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/93fca9b7-4f51-4b63-b3dd-18548a3027a7,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/52,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+0a45f2ca-c0cf-4928-b325-1a27b2a3796d,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 53,USD,400,600,256,200,400,600,256,200,Gjon Mili,1904,1984,Model wearing evening dress of net skirt with silver metal bodice and Model wearing gold brocade evening dress (two works),prints,gelatin silver prints,N/A,10.375,13.375,in,no,yes,yes,1938,1938,"Property from the Museum of Fine Arts, Houston","model, evening dress, net skirt, silver metal bodice, gold brocade dress, gelatin silver print, fashion, 1930s, portrait, photography",2,N/A,original,"Gjon Mili
+(American, 1904–1984)
+Model wearing evening dress of net skirt with silver metal bodice and Model wearing gold brocade evening dress (two works), 1938; printed ca. 1938
+gelatin silver prints
+
+Each: 13 3/8 x 10 3/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jordan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/f83527f4-89dd-4a79-9ae5-27c0b2cd3409,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/53,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,550.0,458.33333333333337
+d037153f-dd5a-4cef-b175-be8b2c46c914,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 54,USD,800,1200,512,400,800,1200,512,400,Gjon Mili,1904,1984,"Four Works, 1945-1946; printed ca. 1945-1946",prints,gelatin silver prints,N/A,11,14,in,no,yes,yes,1940,1949,"Property from the Museum of Fine Arts, Houston","models, fashion, dresses, hats, poses, photography, elegance, motion, black and white, 1940s",4,N/A,original,"Gjon Mili
+(American, 1904–1984)
+Four Works, 1945-1946; printed ca. 1945-1946
+gelatin silver prints
+each bearing stamps, verso
+
+Largest sheet: 14 x 11 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jordan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/24c9744d-2051-4511-851f-118c2f48de5d,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/54,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+69742489-2e52-43dd-a1bc-298d4b88f8c2,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 55,USD,1000,2000,640,500,1000,2000,640,500,Leon Levinstein,1913,1988,Rockefeller Center (from Street Scene); printed later,photographs,gelatin silver print,N/A,13.5,16.25,in,no,no,yes,1913,1988,"Property from the Museum of Fine Arts, Houston; Gift of a Private Collection","women, hats, fur, street scene, Rockefeller Center, black and white photography, close-up, expressions, urban environment, fashion",1,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Rockefeller Center (from Street Scene); printed later
+gelatin silver print
+bearing artist's stamp, verso
+
+16 1/4 x 13 1/2 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of a Private Collection",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/635d427d-f584-42b6-9f69-720358627583,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/55,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1800.0,1500.0
+5c7c66af-eb4d-44bb-8137-5fb44b027960,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 56,USD,1000,2000,640,500,1000,2000,640,500,Leon Levinstein,1913,1988,Four Works,photographs,gelatin silver prints,N/A,11,13.875,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston. Gift of Mr. and Mrs. Israel Englander.","man, hat, portrait, crowd, expression, outdoor, black and white, elderly, joy, celebration",4,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Four Works
+gelatin silver prints
+three bearing artist's stamp, verso
+
+Largest sheet: 13 7/8 x 11 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Mr. and Mrs. Israel Englander",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7043b9c0-9a55-4597-ba87-1f9d92be7a80,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/56,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1650.0,1375.0
+2753a06a-89bf-447c-97ec-21374852369d,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 57,USD,400,600,256,200,400,600,256,200,Leon Levinstein,1913,1988,Two Works,photographs,gelatin silver prints,N/A,14,10.875,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston. Gift of Mr. and Mrs. Israel Englander.","crowd, people, street, urban, women, men, buildings, fashion, hands, expressions",2,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Two Works
+gelatin silver prints
+each bearing artist's stamp, verso
+
+Largest: 10 7/8 x 14 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Mr. and Mrs. Israel Englander",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/c7fa6b91-f48a-47bf-ab9d-3f8fba5ef80a,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/57,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,550.0,458.33333333333337
+db2934eb-d12a-4425-ba82-ab63b5bd4699,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 58,USD,1000,2000,640,500,1000,2000,640,500,Leon Levinstein,1913,1988,Five Works,photographs,gelatin silver prints,N/A,10.625,13.625,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston; Gift of Mr. and Mrs. Israel Englander","man, hat, man, photograph, man, shirtless, two men, man, fence, two men, conversation, man, portrait",5,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Five Works
+gelatin silver prints
+three bearing artist's stamp, verso
+
+Largest sheet: 13 5/8 x 10 5/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Mr. and Mrs. Israel Englander",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/1491ab7c-1a03-4735-ba6e-54a6f473c847,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/58,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1650.0,1375.0
+42fb99e6-876b-4657-88a8-5c96c7283afe,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 59,USD,400,600,320,250,400,600,320,250,Leon Levinstein,1913,1988,Two Works,photographs,gelatin silver print and pigment print,N/A,10.5,13.625,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston. Gift of Mr. and Mrs. Israel Englander.","man, smoking, storefront, urban, fashion, suit, portrait, black and white, 20th century, pose",2,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Two Works
+gelatin silver print and pigment print
+one bearing artist's stamp, verso
+
+Largest: 13 5/8 x 10 1/2 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Mr. and Mrs. Israel Englander",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/91028154-4e8b-47d7-9eae-623b88dbfa6f,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/59,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+a624b7d0-3196-47a1-a4cd-15e0d6ec89cb,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 60,USD,800,1200,512,400,800,1200,512,400,Joseph Sterling,1936,2010,Untitled (Soda Fountain) (from The Age of Adolescence),photographs,gelatin silver print,N/A,13,8.75,in,yes,yes,yes,1959,1959,"Stephen Daiter Gallery, Chicago","soda fountain, adolescents, ice cream, boys, girls, 1950s, desserts, diner, sitting, eating",1,N/A,original,"Joseph Sterling
+(American, 1936-2010)
+Untitled (Soda Fountain) (from The Age of Adolescence), 1959-64; printed 1960
+gelatin silver print
+signed, dated, and annotated 238-28 in pencil, verso
+
+8 3/4 x 13 inches.
+
+Property from a Private Collection
+
+This lot is located in Chicago.
+Provenance:Stephen Daiter Gallery, Chicago",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e96cc119-c059-4c00-88b0-6a10afd85249,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/60,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+d8c16a4d-5be4-49f7-9102-4e275a5c8fdd,Artwork,Freemans,6492,2026-03-06,Denver,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 61,USD,600,800,384,300,600,800,384,300,Larry Fink,1941,2023,"Social Graces (with original, signed print from Tavern on the Green)",photographs,gelatin silver print,N/A,9.125,10.5,in,yes,yes,yes,1970,1979,"Property from the Museum of Fine Arts, Houston; Gift of Bernard and Nancy Matus","man, car, black, print, event, night, formal attire, portrait, back view, driver",1,N/A,original,"Larry Fink
+(American, 1941–2023)
+Social Graces (with original, signed print from Tavern on the Green), 1976; printed 1984
+special edition book with gelatin silver print
+book signed and numbered 211/250 on colophon; print signed, titled, and dated, verso
+
+Book: 10 1/2 x 9 1/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Denver.
+Gift of Bernard and Nancy Matus",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/85d75235-6df3-48a9-81a8-e534c5ef5260,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/61,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+f17d9288-6f8d-42b1-92c6-649fe3683a2f,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 62,USD,200,400,192,150,200,400,192,150,Gjon Mili,1904,1984,"Frank Hall, Theron Bamberger, Franklin Adams, Russel Crouse, Howard Lindsay, Mike Wallach and Bernie Hart playing poker",photographs,gelatin silver print,N/A,11.875,9.875,in,no,yes,yes,1941,1941,"Property from the Museum of Fine Arts, Houston; Gift of Jordan Finn","poker, men, cards, chips, table, dice, gambling, suits, gestures, smoking",1,N/A,original,"Gjon Mili
+(American, 1904–1984)
+Frank Hall, Theron Bamberger, Franklin Adams, Russel Crouse, Howard Lindsay, Mike Wallach and Bernie Hart playing poker, 1941; printed ca. 1941
+gelatin silver print
+inscribed in pencil and bearing the artist's stamp, Times copyright credit stamp, and 'Used in Life Jun 9 1941' stamp, verso
+
+Sheet: 9 7/8 x 11 7/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jordan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a47ee168-a9ee-4fee-9cf1-80850de6a432,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/62,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,350.0,291.6666666666667
+45344c09-d765-4fda-bd14-eb43d3cc621a,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 63,USD,200,300,384,300,200,300,384,300,Gjon Mili,1904,1984,"Duke Ellington, Jam Session at Mili's Studio",photographs,gelatin silver print,N/A,11,14,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston; Gift of Jordan Finn","Duke Ellington, piano, jazz musicians, jam session, audience, trumpet, black and white, Studio, New York, 1940s",1,N/A,original,"Gjon Mili
+(American, 1904–1984)
+Duke Ellington, Jam Session at Mili's Studio
+gelatin silver print
+bearing stamp 'Gjon Mili; The Richard Checani Collection' in black, verso
+
+14 x 11 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jordan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2a39cbb4-3ea6-493e-aba4-943afe39fc3d,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/63,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,275.0,229.16666666666669
+ca411a89-03f9-4127-89ed-0efb45c6ab3e,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 64,USD,800,1200,576,450,800,1200,576,450,Leon Levinstein,1913,1988,Four Works,photographs,gelatin silver prints,N/A,14,11,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston. Gift of Caryl and Israel Englander.","children, adults, outdoor, kitchen, food, group, sitting, people, men, family",4,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Four Works
+gelatin silver prints
+each unsigned
+
+Each sheet: 11 x 14 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Caryl and Israel Englander",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3244dfec-b7d8-4e02-b2c2-f1115d93b1f6,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/64,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+a9c44426-278c-4b8e-8365-c2ce63558b6e,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 65,USD,1000,2000,832,650,1000,2000,832,650,Leon Levinstein,1913,1988,Coney Island,photographs,gelatin silver print,N/A,13.375,10.5,in,no,yes,yes,1955,1955,"Property from the Museum of Fine Arts, Houston. Gift of Mr. and Mrs. Israel Englander.","Coney Island, couple, beach, sand, bag, resting, photography, black and white, 1950s, intimacy",1,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Coney Island, ca. 1955
+gelatin silver print
+bearing artist's stamp, verso
+
+10 1/2 x 13 3/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Mr. and Mrs. Israel Englander",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/77b114b7-19e7-41b4-bb2a-ae1edc4c9482,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/65,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1650.0,1375.0
+b5e081f8-7026-4087-97de-cec465f06408,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 66,USD,1500,2500,N/A,N/A,1500,2500,N/A,N/A,Leon Levinstein,1913,1988,Coney Island (two works),photographs,gelatin silver prints,N/A,13.875,11,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston","beach, sand, woman, umbrella, hat, leisure, two figures, lying down, photography, black and white",2,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Coney Island (two works)
+gelatin silver prints
+
+Largest sheet: 11 x 13 7/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/3ac54b0d-4232-4875-b65b-48c2b7115c5a,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/66,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+0883b562-3b1a-4b9a-9716-463e6bb8c8f0,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 67,USD,800,1200,512,400,800,1200,512,400,Leon Levinstein,1913,1988,"Four Works, 1960s",photographs,gelatin silver prints,N/A,16.75,13.625,in,no,yes,yes,1960,1969,"Property from the Museum of Fine Arts, Houston","cow, men, beach, cart, horse, fishermen, boat",4,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Four Works, 1960s
+gelatin silver prints
+each bearing artist's stamp, verso
+
+Largest: 13 5/8 x 16 3/4 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/fe44e179-2f05-4342-9f30-3f90264c1776,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/67,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+676e4c48-3d2e-4762-8b3e-f5add7b18d5e,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 68,USD,800,1200,512,400,800,1200,512,400,Sid Grossman,1913,1955,"Four Works, ca. 1940s",photographs,gelatin silver prints,N/A,7.125,9.625,in,no,yes,yes,1940,1949,"Property from the Museum of Fine Arts, Houston","group of people, portraits, child, woman, man, black and white, sitting, doorway, basket, barefoot",4,N/A,original,"Sid Grossman
+(American, 1913–1955)
+Four Works, ca. 1940s
+gelatin silver prints
+
+Largest sheet: 9 5/8 x 7 1/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/2efe7ebc-c36a-43a1-90a2-76fd74704d3e,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/68,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+d193fe78-667c-4624-8ead-f04fc4f88fcd,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 69,USD,400,600,256,200,400,600,256,200,Leon Levinstein,1913,1988,Two Works,photographs,gelatin silver prints,N/A,11.125,14,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston","woman, child, donkey, basket, rural, stone street, landscape, two figures, black and white, horseback",2,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Two Works
+gelatin silver prints
+one bearing artist's stamp, verso
+
+Largest sheet: 14 x 11 1/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/e52d84cb-5bea-4ea4-93a2-c3270a405d20,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/69,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,525.0,437.5
+92b83bdd-a552-4c03-ad27-920c1ae8e0d5,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 70,USD,600,800,192,150,600,800,192,150,Gjon Mili,1904,1984,"Three Works, 1941; printed ca. 1941",photographs,gelatin silver prints,N/A,9.875,12.375,in,yes,yes,yes,1941,1941,"Property from the Museum of Fine Arts, Houston","horses, horse riding, historical photography, circus performance, horse training, equestrian, men, indoor arena, black and white photography, German cavalry",3,N/A,original,"Gjon Mili
+(American, 1904–1984)
+Three Works, 1941; printed ca. 1941
+gelatin silver prints
+Each signed, verso
+
+Largest: 12 3/8 x 9 7/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jordan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/7e82f882-5f47-4966-b02c-87eab9855ba2,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/70,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+7aa86507-5843-4e04-8f80-0b87ed74d7a0,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 71,USD,600,800,384,300,600,800,384,300,Gjon Mili,1904,1984,Three Works Depicting Athletes,photographs,gelatin silver prints,N/A,9.25,12.625,in,no,no,yes,1904,1984,"Property from the Museum of Fine Arts, Houston; Gift of Jordan Finn","basketball, athletes, judo, throwing, sports, men, gymnasium, outdoor, action, competition",3,N/A,original,"Gjon Mili
+(American, 1904–1984)
+Three Works Depicting Athletes
+gelatin silver prints
+
+Largest: 12 5/8 x 9 1/4 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jordan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/1bcdf3a6-b7f7-45f1-b4f9-42aaf223f9b1,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/71,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+4a6a8096-be62-4852-96ff-f9c5fd7a44f3,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 72,USD,300,500,448,350,300,500,448,350,Gjon Mili,1904,1984,Studio shot of Boston Red Sox star Ted Williams demonstrating his batting technique,photographs,gelatin silver print,N/A,10.5,11.875,in,no,yes,yes,1941,1941,"Property from the Museum of Fine Arts, Houston; Gift of Jordan Finn","man, baseball bat, sports, athletic posture, black and white photography, studio shot, Boston Red Sox, Ted Williams, action pose, mid-century",1,N/A,original,"Gjon Mili
+(American, 1904–1984)
+Studio shot of Boston Red Sox star Ted Williams demonstrating his batting technique, 1941; printed ca. 1941
+gelatin silver print
+bearing stamp 'Gjon Mili; The Richard Checani Collection' in black, verso
+
+11 7/8 x 10 1/2 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jordan Finn",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/41c846b1-e2e4-4966-bcd5-87a854bbdcf3,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/72,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,420.0,350.0
+b6c02c83-ce2f-4fa9-8174-8f563df22ea3,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 73,USD,1500,2500,512,400,1500,2500,512,400,Sid Grossman,1913,1955,Boxing (three works),photographs,gelatin silver prints,N/A,13.875,10.875,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston. Gift of Steven and Traci Schwartz.","boxing, athlete, trainer, coach, gloves, ringside, intense expressions, towel, cigarette, coaching",3,N/A,original,"Sid Grossman
+(American, 1913–1955)
+Boxing (three works)
+gelatin silver prints
+each unsigned
+
+Each sheet: 10 7/8 x 13 7/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Steven and Traci Schwartz",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4ea97ade-c1ba-414d-87fc-65b44520f44c,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/73,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2100.0,1750.0
+32c829cb-af38-43b1-982b-60e77d2824dc,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 74,USD,2000,3000,1280,1000,2000,3000,1280,1000,Garry Winogrand,1928,1984,"Three Works from Women are Beautiful, ca. 1970",prints,gelatin silver prints,N/A,13,8.625,in,yes,yes,yes,1970,1979,"Property from the Museum of Fine Arts, Houston","crowd, women, men, park, street, urban life, leisure, fashion, black and white photography, social gathering",3,N/A,original,"Garry Winogrand
+(American, 1928–1984)
+Three Works from Women are Beautiful, ca. 1970
+gelatin silver prints
+each signed and numbered 30/80 in pencil, verso
+
+Each: 8 5/8 x 13 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Ron Shaich",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6ecddbfd-8f15-43d6-b1f5-d7e76632ca77,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/74,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+1802be96-42fd-4bf8-b15e-19cf9b8921c3,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 75,USD,2000,3000,1280,1000,2000,3000,1280,1000,Garry Winogrand,1928,1984,"Three Works from Women are Beautiful, ca. 1970",prints,gelatin silver prints,N/A,8.75,13,in,yes,yes,yes,1970,1979,"Property from the Museum of Fine Arts, Houston; Gift of Ron Shaich","women, dogs, city street, food, cafe, pedestrians, clothing, black and white photography, social interaction, urban life",3,N/A,original,"Garry Winogrand
+(American, 1928–1984)
+Three Works from Women are Beautiful, ca. 1970
+gelatin silver prints
+each signed and numbered 30/80 in pencil, verso
+
+Each: 13 x 8 3/4 inches (or the reverse).
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Ron Shaich",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/17c31acd-ba14-4600-928f-6f270a6c9732,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/75,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+a72a9c65-6cd5-46d1-bdae-175cf80996ab,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 76,USD,1500,2500,5440,4250,1500,2500,5440,4250,Garry Winogrand,1928,1984,New York (two works from Women are Beautiful); printed 1981,photographs,gelatin silver prints,N/A,13,8.75,in,yes,yes,yes,1981,1981,"Property from the Museum of Fine Arts, Houston; Gift of Jeanne and Michael Klein","woman, street, city, ice cream, suit, storefront, candid, black and white, urban, photography",2,N/A,original,"Garry Winogrand
+(American, 1928–1984)
+New York (two works from Women are Beautiful); printed 1981
+gelatin silver prints
+each signed and numbered 75/80 in pencil, verso
+
+Each: 8 3/4 x 13 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Jeanne and Michael Klein",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/edf4138f-b79b-4d6b-a9d8-c07a4be47122,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/76,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+6957db1b-e9fc-4973-bcf1-3ec37193a4d9,Artwork,Freemans,6492,2026-03-06,Denver,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 77,USD,1500,2500,1152,900,1500,2500,1152,900,Lalla Essaydi,1956,N/A,Converging Territories #26,photographs,chromogenic print,N/A,28.75,36.25,in,no,yes,yes,2003,2003,"Property from the Museum of Fine Arts, Houston","women, veils, robes, patterns, textures, group, photography",1,N/A,original,"Lalla Essaydi
+(Moroccan, b. 1956)
+Converging Territories #26, 2003
+chromogenic print
+unsigned
+
+36 1/4 x 28 3/4 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Denver.
+Gift of the Artist",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6769d001-8c95-4d27-9b95-d4cb55b4da71,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/77,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+58cc9e30-7788-4126-883a-ce6943095379,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 78,USD,400,600,N/A,N/A,400,600,N/A,N/A,Leon Levinstein,1913,1988,Two Works,photographs,gelatin silver prints,N/A,13.625,13.625,in,no,yes,yes,1901,2000,"Property from the Museum of Fine Arts, Houston. Gift of Mr. and Mrs. Israel Englander.","buildings, cityscape, skyscraper, architecture, river, ships, bridge, historical architecture, urban landscape, fog",2,N/A,original,"Leon Levinstein
+(American, 1913–1988)
+Two Works
+gelatin silver prints
+each bearing artist's stamp, verso
+
+Largest: 13 5/8 x 13 5/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Mr. and Mrs. Israel Englander",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/70c6c13b-2e0f-4e13-9529-588d3528d7d9,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/78,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,550.0,458.33333333333337
+bfdc4c67-1bc9-4290-a051-9f69dd4d1967,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 79,USD,5000,7000,N/A,N/A,5000,7000,N/A,N/A,Robert Polidori,1951,N/A,"Abandoned Farmhouse, Schaty Farm, Slope County, North Dakota, 2000",photographs,archive print mounted to dibond,N/A,51.75,39.75,in,yes,yes,yes,2000,2000,"Rose Gallery, Santa Monica, California; Acquired directly from the above by the present owner on January 31, 2007","abandoned farmhouse, North Dakota, windmill, grass, blue sky, rural landscape, weathered wood, architecture, green shingles, prairie",1,N/A,original,"Robert Polidori
+(Canadian, b. 1951)
+Abandoned Farmhouse, Schaty Farm, Slope County, North Dakota, 2000
+archive print mounted to dibond
+signed in ink and numbered 2/10 to artist's label, dibond mount verso
+
+39 3/4 x 51 3/4 inches.
+
+This lot is located in Chicago.
+Provenance:Rose Gallery, Santa Monica, CaliforniaAcquired directly from the above by the present owner on January 31, 2007",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/a3b10eeb-b6af-4bfc-9415-2b3542f7cac6,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/79,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,6200.0,5166.666666666667
+9bcce294-23c1-4056-9035-a7731e708e3e,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 80,USD,4000,6000,2880,2250,4000,6000,2880,2250,Edward Burtynsky,1955,N/A,"Shipbreaking #39, Chittagong, Bangladesh, 2001",photographs,chromogenic print,N/A,34,27,in,yes,yes,yes,2001,2001,"Robert Koch Gallery, San Francisco, California","ship, shipbreaking, industrial landscape, Bangladesh, metal, decay, geometry, blue sky, rust, architecture",1,N/A,original,"Edward Burtynsky
+(Canadian, b. 1955)
+Shipbreaking #39, Chittagong, Bangladesh, 2001
+chromogenic print
+signed, titled, and numbered 3/10, mount verso
+
+27 x 34 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/d5f2827e-256f-4db9-b5bc-f73a4b9df1cc,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/80,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+6ae2f693-97ac-48c7-8e79-74c9cfc058e9,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 81,USD,3000,5000,4800,3750,3000,5000,4800,3750,Edward Burtynsky,1955,N/A,"Mines #13, Inco-Abandoned Mine Shaft, Crean Hill Mine, Sudbury, Ontario, 1984; printed 2003",photographs,chromogenic print,N/A,34,26.75,in,yes,yes,yes,1980,1989,"Robert Koch Gallery, San Francisco, California","mine shaft, rock formations, water, reflections, quarry, mining site, landscape, colors, vegetation, geologic features",1,N/A,original,"Edward Burtynsky
+(Canadian, b. 1955)
+Mines #13, Inco-Abandoned Mine Shaft, Crean Hill Mine, Sudbury, Ontario, 1984; printed 2003
+chromogenic print
+signed, titled, and numbered 7/10, mount verso
+
+26 3/4 x 34 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/1744fdb1-6caa-4b5b-83bd-03314677a981,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/81,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+7d808b58-52e3-4d62-9af0-ec475421afce,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 82,USD,4000,6000,3840,3000,4000,6000,3840,3000,Edward Burtynsky,1955,N/A,"Shipbreaking #1, Chittagong, Bangladesh, 2000",photographs,chromogenic print,N/A,33.625,26.75,in,yes,yes,yes,2000,2000,"Robert Koch Gallery, San Francisco, California","ship, shipbreaking, sunset, water, mud, landscape, industrial, reflections, boat, debris",1,N/A,original,"Edward Burtynsky
+(Canadian, b. 1955)
+Shipbreaking #1, Chittagong, Bangladesh, 2000
+chromogenic print
+signed, titled, and numbered 5/10, mount verso
+
+26 3/4 x 33 5/8 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5ba1b4f4-f49e-4088-8dc2-3fc48156d6c7,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/82,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334
+0cc16bd2-7ff2-42d6-a83f-d375e6f0a358,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 83,USD,3000,5000,2304,1800,3000,5000,2304,1800,Edward Burtynsky,1955,N/A,"Densified Oil Drums #4, Hamilton, Ontario, 1996; printed 1998",photographs,chromogenic print,N/A,33.125,26,in,yes,yes,yes,1996,1996,"Robert Koch Gallery, San Francisco, California","oil drums, abstract shapes, colors, texture, industrial waste, stacked objects, close-up, urban environment",1,N/A,original,"Edward Burtynsky
+(Canadian, b. 1955)
+Densified Oil Drums #4, Hamilton, Ontario, 1996; printed 1998
+chromogenic print
+signed in ink and titled, dated, and numbered 3/10 to label, mount verso
+
+26 x 33 1/8 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ac43b12c-6cf4-4997-ac96-3e915d0d2904,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/83,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+f0441588-9292-4ac6-beff-f2a26f1a7895,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 84,USD,2500,3500,2560,2000,2500,3500,2560,2000,Eliot Porter,1901,1990,Glen Canyon (complete portfolio of ten with clamshell box),prints,dye transfer prints,N/A,20,24,in,yes,yes,yes,1961,1961,"Published by Daniel Wolf Press, Inc., New York","landscape, canyon, water, rock formations, plants, textures, geological features, reflections, colors, nature",1,N/A,original,"Eliot Porter
+(American, 1901–1990)
+Glen Canyon (complete portfolio of ten with clamshell box), 1961-71; printed 1980
+dye transfer prints
+signed and numbered 99 in ink on colophon; each signed in pencil, mount; with portfolio hand-stamp with edition limitation and publisher's information, mount verso
+
+Each mount: 24 x 20 inches (or the reverse).
+
+This lot is located in Chicago.
+﻿Published by Daniel Wolf Press, Inc., New York",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/83704342-3fbc-4d21-a9fe-40c0ffb6c6fd,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/84,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3200.0,2666.666666666667
+63a23adc-e8a7-46f8-9ece-886dae8c53f8,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 85,USD,6000,8000,4160,3250,6000,8000,4160,3250,Edward Burtynsky,1955,N/A,"Rock of Ages #33, Abandoned Section, Rock of Ages Quarry, Vermont, 1991 (printed 2000)",photographs,chromogenic print,N/A,25.75,35.5,in,yes,yes,yes,1990,1999,"Robert Koch Gallery, San Francisco, California","quarry, rock face, ladders, abandoned site, nature, construction debris, vegetation, cliffs, terrain, textures",1,N/A,original,"Edward Burtynsky
+(Canadian, b. 1955)
+Rock of Ages #33, Abandoned Section, Rock of Ages Quarry, Vermont, 1991 (printed 2000)
+chromogenic print
+signed, titled, and numbered 1/10 (mount verso)
+
+35 1/2 x 25 3/4 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/4c82b475-4386-4dad-805b-ea43b73cf081,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/85,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,7200.0,6000.0
+653a76ae-beb2-4e96-a89f-586df0cf2287,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 86,USD,2000,3000,1920,1500,2000,3000,1920,1500,Edward Burtynsky,1955,N/A,"Rock of Ages #2, Granite Quarry, Bebee, Quebec, 1991; printed 1999",photographs,chromogenic print,N/A,21.875,17.5,in,yes,yes,yes,1990,1999,"Robert Koch Gallery, San Francisco, California; Sold: Heritage Auctions, November 7, 2002, Lot 11138","granite quarry, rock formations, water reflection, autumn foliage, quarry equipment, natural landscape, industrial site, stone blocks, symmetry, textures",1,N/A,original,"Edward Burtynsky
+(Canadian, b. 1955)
+Rock of Ages #2, Granite Quarry, Bebee, Quebec, 1991; printed 1999
+chromogenic print
+signed in ink and titled, dated, and numbered 1/15 to label, mount verso
+
+17 1/2 x 21 7/8 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, CaliforniaSold: Heritage Auctions, November 7, 2002, Lot 11138",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/46258a67-8ab7-484f-a587-4352c14d259c,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/86,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+0f879984-2a01-4241-82c7-0c0c6a3f507c,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 88,USD,600,800,1024,800,600,800,1024,800,Elliott Erwitt,1928,2023,"Sylt, West Germany, 1968",photographs,gelatin silver print on agfa paper,N/A,9.375,6.25,in,no,yes,yes,1968,1968,"Property from the Museum of Fine Arts, Houston. Gift of Joseph Chanin.","beach, swimmers, exercise, child, adults, black and white, sand, ocean, fitness, summer",1,N/A,original,"Elliott Erwitt
+(American, 1928–2023)
+Sylt, West Germany, 1968
+gelatin silver print on agfa paper
+titled in pencil and bearing artist's Magnum Photos stamp, verso
+
+6 1/4 x 9 3/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Joseph Chanin",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/49a0a7cf-2ae5-4c1a-abf5-b24a99dd7d75,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/88,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1200.0,1000.0
+251854ea-f4a2-4bc3-a8f4-05d17c1b1df4,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 89,USD,1500,2500,1088,850,1500,2500,1088,850,Uta Barth,1958,N/A,"Untitled (02.9), 2002 (diptych)",photographs,mounted archival pigment photographs,N/A,26.125,21.25,in,no,yes,yes,2002,2002,"Tanya Bonakdar Gallery, New York","tree branches, sky, haze, minimalism",1,N/A,original,"Uta Barth
+(American/German, b. 1958)
+Untitled (02.9), 2002 (diptych)
+mounted archival pigment photographs
+edition 3/5
+
+Each: 21 1/4 x 26 1/8 inches.
+
+This lot is located in Chicago.
+Provenance:Tanya Bonakdar Gallery, New York",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/6acce7e6-4b7d-4764-b5cc-258bbd6a1d38,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/89,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2200.0,1833.3333333333335
+ae0f4064-7e60-4e76-9ba9-8355655c3768,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 90,USD,2500,3500,2560,2000,2500,3500,2560,2000,Harry Callahan,1912,1999,"Michigan, 1941",photographs,gelatin silver print,N/A,9.625,7.625,in,yes,yes,yes,1941,1941,"Property from the Museum of Fine Arts, Houston. Gift of Lawrence D. Hite","grass, field, plants, foliage, landscape, texture, black and white, wilderness, nature, patterns",1,N/A,original,"Harry Callahan
+(American, 1912–1999)
+Michigan, 1941
+gelatin silver print
+signed in pencil, lower right
+
+7 5/8 x 9 5/8 inches.
+
+Property from the Museum of Fine Arts, Houston
+
+This lot is located in Chicago.
+Gift of Lawrence D. Hite",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/5c3ddec9-e727-49d4-88ab-5b11fb77938c,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/90,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,3200.0,2666.666666666667
+80ee0851-3a56-4553-97fa-52ac84d2a358,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 91,USD,3000,5000,2560,2000,3000,5000,2560,2000,Brett Weston,1911,1993,"Dune, 1934",photographs,gelatin silver print,N/A,9.0625,7.625,in,yes,yes,yes,1934,1934,"Robert Koch Gallery, San Francisco, California","sand dunes, shadows, texture, landscape, black and white, light and shadow",1,N/A,original,"Brett Weston
+(American, 1911-1993)
+Dune, 1934
+gelatin silver print
+signed in pencil, verso
+
+7 5/8 x 9 1/16 inches. 
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/553e5b1e-311f-4461-b424-5bdceeeffcaa,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/91,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+6708a969-d553-4b5a-ad13-4222d257d6f3,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 92,USD,2000,3000,4160,3250,2000,3000,4160,3250,Alison Rossiter,1953,N/A,"Haloid Platino, expiration ca.1915; processed 2008",photographs,gelatin silver print,N/A,8,9.875,in,yes,yes,yes,1901,1930,"Stephen Bulger Gallery, Toronto; Acquired directly from the above on October 28, 2009","gelatin silver print, black, white, abstract, photographic art",1,N/A,original,"Alison Rossiter
+(American, b. 1953)
+Haloid Platino, expiration ca.1915; processed 2008
+unique gelatin silver print
+signed, titled, and dated in pencil, verso
+
+9 7/8 x 8 inches.
+
+Property from a Private Collector, Chicago, Illinois
+
+This lot is located in Chicago.
+Provenance:Stephen Bulger Gallery, TorontoAcquired directly from the above on October 28, 2009",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/16dc0a05-27de-48f6-ab62-01842d88aa34,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/92,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2750.0,2291.666666666667
+3b561753-a846-414a-8070-e62d051ca45a,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 93,USD,1500,2500,N/A,N/A,1500,2500,N/A,N/A,Tom Baril,1952,N/A,"Jones Beach, 1995",photographs,toned gelatin silver print,N/A,25.75,33.5,in,yes,yes,yes,1995,1995,"Robert Koch Gallery, San Francisco, California","beach, ocean, horizon, monochrome, sky, water, gradient, seascape",1,N/A,original,"Tom Baril
+(American, b. 1952)
+Jones Beach, 1995
+toned gelatin silver print
+signed and numbered 10/10 to mount
+
+33 1/2 x 25 3/4 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco, California",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/eb6ba92b-4bb4-4275-951c-3a7c59c1a5c6,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/93,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2100.0,1750.0
+b9b2add2-09ea-4d02-aaa1-594ac2ede291,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 94,USD,1500,2500,1664,1300,1500,2500,1664,1300,Tom Baril,1952,N/A,"View from China Beach, 2000",photographs,toned gelatin silver print,N/A,34,25.75,in,yes,yes,yes,2000,2000,"Robert Koch Gallery, San Francisco","beach, ocean, bridge, rocks, waves, gray sky, water, landscape, shoreline, fog",1,N/A,original,"Tom Baril
+(American, b. 1952)
+View from China Beach, 2000
+toned gelatin silver print
+signed and numbered 2/10 to mount
+
+25 3/4 x 34 inches.
+
+This lot is located in Chicago.
+Provenance:Robert Koch Gallery, San Francisco",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/ee9a6228-0a84-4db3-8d89-d18aafa24547,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/94,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2100.0,1750.0
+63ac7bdc-d14b-4749-aafd-5abe97c40117,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 95,USD,3000,5000,N/A,N/A,3000,5000,N/A,N/A,Richard Misrach,1949,N/A,"Lake Powell #1, 1986; printed 1997",photographs,dye coupler print,N/A,34.75,27.75,in,yes,yes,yes,1980,1989,"Catheine Edelman Gallery, Chicago; Acquired directly from the above by the present owner on August 25, 1997","lake, mountains, clouds, water, landscape, sky, desert, sunlight, reflection",1,N/A,original,"Richard Misrach
+(American, b. 1949)
+Lake Powell #1, 1986; printed 1997
+dye coupler print
+signed, titled, dated, and numbered 4/10 in pencil
+
+27 3/4 x 34 3/4 inches.
+
+This lot is located in Chicago.
+Provenance:Catheine Edelman Gallery, ChicagoAcquired directly from the above by the present owner on August 25, 1997",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/928d4e76-0283-43ba-bbcc-54a272fe37ec,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/95,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4200.0,3500.0
+42fc4505-e4b8-48ec-9986-b65b0866d706,Artwork,Freemans,6492,2026-03-06,Chicago,Collect: Prints & Photographs,https://freemansauction.com/auctions/6492-collect-prints-and-photographs,Lot 96,USD,4000,6000,3200,2500,4000,6000,3200,2500,Sally Mann,1951,N/A,"Untitled #804 (Yucatan), 1999",photographs,c-print,N/A,40,30,in,no,yes,yes,1999,1999,"Catherine Edelman Gallery, Chicago","steps, trees, stone, ancient ruins, light, shadow, Yucatan, landscape, nature, blurred",1,N/A,original,"Sally Mann
+(American, b. 1951)
+Untitled #804 (Yucatan), 1999
+c-print
+edition 1/10
+
+30 x 40 inches.
+
+This lot is located in Chicago.
+Provenance:Catherine Edelman Gallery, Chicago",https://assets.basta.app/accounts/4832eb18-f9a7-4c12-8295-871abe232696/images/1414a717-9daa-4b48-b90b-8d52bde28af1,https://freemansauction.com/auction/6492-collect-prints-and-photographs/lot/96,7670.84,26797.54,51349.92,16.04,114.89,5.06,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,5200.0,4333.333333333334

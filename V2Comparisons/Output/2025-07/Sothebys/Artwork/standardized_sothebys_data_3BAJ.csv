@@ -1,0 +1,248 @@
+lot_number,artist_name,artwork_title,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Andy Warhol ,Margaret Krebs,213780.0,320670.0,295000.0,245833.33333333334
+Lot 2,Bernar Venet ,14 straight lines,32067.0,53445.0,46000.0,38333.333333333336
+Lot 3,Fernand Léger ,L’Ouvrier ou L’Homme au vélo,106890.0,160335.0,142500.0,118750.0
+Lot 4,Robert Indiana ,LOVE (Gold/Blue),213780.0,320670.0,298500.0,248750.0
+Lot 5,Andy Warhol ,Paul Delvaux,160335.0,213780.0,220000.0,183333.33333333334
+Lot 6,Pablo Picasso ,Buste de femme,74823.0,96201.0,102500.0,85416.66666666667
+Lot 7,Marlene Dumas ,Pasolini,12826.8,19240.2,18500.0,15416.666666666668
+Lot 8,Bernar Venet ,85.5˚ Arc x 8,106890.0,160335.0,145000.0,120833.33333333334
+Lot 9,Jean Arp ,Tête-bouteille,213780.0,320670.0,295000.0,245833.33333333334
+Lot 10,Dadamaino ,Volume,21378.0,32067.0,29500.0,24583.333333333336
+Lot 11,Hiroshi Sugimoto ,"Guggenheim Museum, Bilbao",10689.0,16033.5,14500.0,12083.333333333334
+Lot 12,Chiharu Shiota ,State of being (Children's dress),42756.0,64134.0,55000.0,45833.333333333336
+Lot 13,Takesada Matsutani ,White spot-A,6413.4,8551.2,7200.0,6000.0
+Lot 14,Henryk Stażewski ,Kompozycja przestrzenna,32067.0,42756.0,38500.0,32083.333333333336
+Lot 15,Carlos Cruz-Diez ,Physichromie n°1452,106890.0,160335.0,145000.0,120833.33333333334
+Lot 18,Max Ernst ,Oiseau en cage sur fond noir,64134.0,85512.0,78000.0,65000.0
+Lot 19,Joan Miró ,"Tête, oiseau",74823.0,106890.0,110000.0,91666.66666666667
+Lot 20,Max Ernst ,Masque aux yeux ronds,32067.0,53445.0,55000.0,45833.333333333336
+Lot 21,Salvador Dalí ,"Harlequin, illustration pour la série lithographique Anamorphoses",106890.0,160335.0,142500.0,118750.0
+Lot 22,Hans Hartung ,P1961-21,21378.0,32067.0,29500.0,24583.333333333336
+Lot 23,Jean-Michel Atlan ,Sans titre,25653.6,36342.6,31000.0,25833.333333333336
+Lot 24,Jean Dubuffet ,Parachiffre XXXII,74823.0,106890.0,112000.0,93333.33333333334
+Lot 25,Maria Helena Vieira da Silva ,Composition,106890.0,160335.0,145000.0,120833.33333333334
+Lot 26,Olivier Debré ,"Bleue, ""Grande claire"" S. et D.",53445.0,74823.0,72000.0,60000.0
+Lot 27,Jean-Paul Riopelle ,Lac bouclé,53445.0,74823.0,72000.0,60000.0
+Lot 28,César ,Hommage à Léon,53445.0,74823.0,72000.0,60000.0
+Lot 29,Eugène Leroy ,Portrait,16033.5,21378.0,19500.0,16250.0
+Lot 30,Dado ,Sans titre,21378.0,32067.0,28000.0,23333.333333333336
+Lot 31,Auguste Rodin ,"Masque d'Hanako, étude type E",12826.8,19240.2,21000.0,17500.0
+Lot 32,Henri Fantin-Latour ,Cerises et amandes,21378.0,32067.0,32500.0,27083.333333333336
+Lot 33,Pierre Bonnard ,"Portrait de Mme Frédéric Mertzdorff, grand-mère de l'artiste",106890.0,160335.0,145000.0,120833.33333333334
+Lot 34,Édouard Vuillard ,La table,42756.0,64134.0,65000.0,54166.66666666667
+Lot 35,Henri Fantin-Latour ,"Nature morte : altéas, glaïeuls et raisins",53445.0,74823.0,72000.0,60000.0
+Lot 36,Léonard Tsuguharu Foujita ,Bouquet de roses dans un vase d'étain,106890.0,160335.0,162500.0,135416.6666666667
+Lot 37,Zao Wou-Ki ,Sans titre,4275.6,6413.4,5800.0,4833.333333333334
+Lot 38,Pierre Soulages ,Eau-forte No 13 (Rivière XIII),1068.9,1603.35,1450.0,1208.3333333333335
+Lot 39,Alberto Magnelli ,Regards animés n°2,32067.0,42756.0,38500.0,32083.333333333336
+Lot 40,Sonia Delaunay ,Rythme Couleur,7482.3,10689.0,11000.0,9166.666666666668
+Lot 41,Maurice Estève ,Trufo,25653.6,34204.8,35000.0,29166.666666666668
+Lot 42,Auguste Herbin ,Nature morte aux feuilles,53445.0,74823.0,76000.0,63333.333333333336
+Lot 43,Louis Marcoussis ,Nature morte à la poire,32067.0,42756.0,43000.0,35833.333333333336
+Lot 44,Louis Marcoussis ,Guitare,25653.6,34204.8,33500.0,27916.666666666668
+Lot 45,Robert Delaunay ,Cathédrale de Laon,74823.0,106890.0,112000.0,93333.33333333334
+Lot 46,Serge Férat ,Arlequin à la guitare,42756.0,64134.0,55000.0,45833.333333333336
+Lot 47,Serge Férat ,Personnage à la guitare,8551.2,12826.8,11500.0,9583.333333333334
+Lot 48,Ben Nicholson ,Inca,8551.2,12826.8,13000.0,10833.333333333334
+Lot 49,Dadamaino ,Volume,8551.2,12826.8,11500.0,9583.333333333334
+Lot 50,Giuseppe Penone ,5 propagazioni – aprile 2011,10689.0,16033.5,14500.0,12083.333333333334
+Lot 51,Bernard Aubertin ,Clown,10689.0,16033.5,14500.0,12083.333333333334
+Lot 52,Alberto Biasi ,L'ira funesta,12826.8,19240.2,19500.0,16250.0
+Lot 53,Antonio Asis ,Untitled,6413.4,8551.2,7200.0,6000.0
+Lot 54,Victor Vasarely ,Nagoya,25653.6,36342.6,37000.0,30833.333333333336
+Lot 55,Victor Vasarely ,Silur n°103,16033.5,21378.0,22000.0,18333.333333333336
+Lot 56,Horacio Garcia-Rossi ,Couleur lumière décalée,6413.4,8551.2,7200.0,6000.0
+Lot 57,César Domela ,Relief no. 133,7482.3,10689.0,10200.0,8500.0
+Lot 58,Bram Bogart ,Blauwinzwartcirkel,10689.0,16033.5,14500.0,12083.333333333334
+Lot 59,Ad Dekkers ,Verdeeld vierkant gefreesd in vierkant,12826.8,19240.2,17500.0,14583.333333333334
+Lot 60,Joan Miró ,"Personnage, oiseau",19240.2,27791.4,28500.0,23750.0
+Lot 61,Joan Miró ,Oiseaux dans l'espace,12826.8,19240.2,18500.0,15416.666666666668
+Lot 62,Pablo Picasso ,Visage no. 101 (A.R. 475),6413.4,8551.2,7800.0,6500.0
+Lot 63,Joan Miró ,Sans titre,16033.5,21378.0,19500.0,16250.0
+Lot 64,Pablo Picasso ,Visage no. 111 (A.R. 476),7482.3,10689.0,11200.0,9333.333333333334
+Lot 65,Salvador Dalí ,Étude pour Galatée en formation (recto); Étude pour le tableau la Cène (verso),7482.3,10689.0,11200.0,9333.333333333334
+Lot 66,Pablo Picasso ,Femme échevelée (A. R. 509),7482.3,10689.0,11500.0,9583.333333333334
+Lot 67,Joan Miró ,Quelques fleurs pour des amis,748.23,1068.9,1025.0,854.1666666666667
+Lot 68,Sam Francis ,Untitled (SF90 - 281),4275.6,6413.4,5500.0,4583.333333333334
+Lot 69,Sol LeWitt ,Wavy Horizontal Brushstrokes,10689.0,12826.8,13000.0,10833.333333333334
+Lot 70,Niki de Saint Phalle ,Nana - Vase,16033.5,21378.0,19850.0,16541.666666666668
+Lot 71,Niki de Saint Phalle ,Nana de Berlin,6413.4,8551.2,7200.0,6000.0
+Lot 72,Chiharu Shiota ,Outside of Window,10689.0,16033.5,16200.0,13500.0
+Lot 73,Anselm Kiefer ,Für Jean Genet,32067.0,53445.0,45000.0,37500.0
+Lot 74,Georg Baselitz ,"Oh, Oh, Ach",21378.0,32067.0,28000.0,23333.333333333336
+Lot 75,Andy Warhol ,Unknown male,8551.2,12826.8,11500.0,9583.333333333334
+Lot 76,Odilon Redon ,Étude de feuilles,8551.2,12826.8,13000.0,10833.333333333334
+Lot 77,Odilon Redon ,Cyclamen,10689.0,16033.5,16500.0,13750.0
+Lot 78,Édouard Vuillard ,Le massif,16033.5,21378.0,22000.0,18333.333333333336
+Lot 79,Odilon Redon ,Morgat,16033.5,21378.0,22000.0,18333.333333333336
+Lot 80,Édouard Vuillard ,Arbres bleus en Normandie,16033.5,21378.0,22000.0,18333.333333333336
+Lot 81,Édouard Vuillard ,Le berceau d'Annette,21378.0,32067.0,28500.0,23750.0
+Lot 82,Camille Pissarro ,Jeune femme cousant (recto); Sans titre (verso),12826.8,19240.2,18500.0,15416.666666666668
+Lot 83,Roger de La Fresnaye ,Homme assis pensif,5344.5,7482.3,6500.0,5416.666666666667
+Lot 84,Maurice Denis ,Portrait de Pierre Portelette,4275.6,6413.4,5500.0,4583.333333333334
+Lot 85,Roger de La Fresnaye ,Gampert au chandail,42756.0,64134.0,58000.0,48333.333333333336
+Lot 86,Théo van Rysselberghe ,Au jardin,42756.0,64134.0,55000.0,45833.333333333336
+Lot 87,Valerio Adami ,Le Bureau de travail de William Fauchner,32067.0,53445.0,45000.0,37500.0
+Lot 88,Robert Combas ,"Sur la table basse, un vase érotique regorgeant de fleurs exotiques",32067.0,53445.0,45000.0,37500.0
+Lot 89,Gérard Schlosser ,Dimanche après-midi,8551.2,12826.8,11500.0,9583.333333333334
+Lot 90,Valerio Adami ,Cucina,21378.0,32067.0,28500.0,23750.0
+Lot 91,Leonardo Cremonini ,Les voyageurs indiscrets,37411.5,58789.5,52000.0,43333.333333333336
+Lot 92,Gérard Schlosser ,La jolie veuve,6413.4,8551.2,7200.0,6000.0
+Lot 93,Jacques Monory ,N.Y. n°1,12826.8,19240.2,18500.0,15416.666666666668
+Lot 94,Ugo Rondinone ,The Clear,42756.0,64134.0,55000.0,45833.333333333336
+Lot 95,Jeff Koons ,"Balloon Monkey (Blue), Balloon Rabbit (Red) and Balloon Swan (Yellow)",21378.0,32067.0,33500.0,27916.666666666668
+Lot 96,Marc Chagall ,Soleil aux amoureux,5344.5,7482.3,7600.0,6333.333333333334
+Lot 97,Marc Chagall ,Die Verliebte. II and III (Two Works),2137.8,3206.7,3350.0,2791.666666666667
+Lot 98,Marc Chagall ,Le paysan; and L'Artiste a la chèvre (Two works),4275.6,6413.4,6800.0,5666.666666666667
+Lot 99,Marc Chagall ,Le Peintre et son tableau; with Le Clown-acrobate and Violoncelliste du village (Three Works),4275.6,6413.4,6800.0,5666.666666666667
+Lot 100,Marc Chagall ,Le rêve de l'ane,5344.5,7482.3,7600.0,6333.333333333334
+Lot 101,Marc Chagall ,Drei Akrobaten,3206.7,5344.5,5400.0,4500.0
+Lot 102,Marc Chagall ,"Granada, from Paroles Peintes I",4275.6,6413.4,6800.0,5666.666666666667
+Lot 103,Marc Chagall ,"Plate 13, from Arabian Nights",5344.5,7482.3,7600.0,6333.333333333334
+Lot 104,Marc Chagall ,Das Haus,3206.7,5344.5,5400.0,4500.0
+Lot 105,Marc Chagall ,International Rescue (M. 528),4275.6,6413.4,5800.0,4833.333333333334
+Lot 106,Marc Chagall ,Eiffelturm; with Les Amoureux and Le Mariage,4275.6,6413.4,5800.0,4833.333333333334
+Lot 107,Marc Chagall ,Trapéziste à l'oiseau,4275.6,6413.4,6800.0,5666.666666666667
+Lot 108,Marc Chagall ,Les Danseurs à la lune; and La femme et le Christ (Two Works),4275.6,6413.4,6800.0,5666.666666666667
+Lot 109,Marc Chagall ,Les Amoureux dans le ciel,5344.5,7482.3,7600.0,6333.333333333334
+Lot 110,Marc Chagall ,Ouvert la nuit; with Das Pferd and Die Uhr (Three Works),4275.6,6413.4,5800.0,4833.333333333334
+Lot 111,Marc Chagall ,Paysan à l'horloge,3206.7,5344.5,5400.0,4500.0
+Lot 112,Marc Chagall ,Le Mariage,4275.6,6413.4,6800.0,5666.666666666667
+Lot 113,Marc Chagall ,"Selbstbildnis, traurig; and Selbstbildnis an der Staffelei (Two Works)",2137.8,3206.7,2950.0,2458.3333333333335
+Lot 114,Marc Chagall ,"Das Pferd mit dem Regenschirm; with Die Geigerin, Tänzerin mit Pferd and Die Liebenden mit dem Hahn",4275.6,6413.4,6850.0,5708.333333333334
+Lot 115,Marc Chagall ,Majakoviski (Three Works),4275.6,6413.4,5800.0,4833.333333333334
+Lot 116,Marc Chagall ,Selbstbildnis mit Grimasse,5344.5,7482.3,7600.0,6333.333333333334
+Lot 117,Marc Chagall ,Die Akrobaten; Die Reiterin; and Der Mann mit dem Regenschirm (Three Works),4275.6,6413.4,5800.0,4833.333333333334
+Lot 118,Marc Chagall ,Selbstbildnis mit lachendem Gesicht,3206.7,5344.5,4800.0,4000.0
+Lot 119,Marc Chagall ,Double visage gris,3206.7,5344.5,5600.0,4666.666666666667
+Lot 120,Bernard Buffet ,Marguerites dans un verre,53445.0,74823.0,72000.0,60000.0
+Lot 121,Giorgio de Chirico ,Teste di cavallo,25653.6,37411.5,32000.0,26666.666666666668
+Lot 122,Gérard Garouste ,La pierre et la cruche,21378.0,32067.0,27500.0,22916.666666666668
+Lot 123,Auguste Rodin ,Tête de garçon rieur,4275.6,6413.4,5800.0,4833.333333333334
+Lot 124,Auguste Rodin ,"Balzac, étude type C (Tête), réduction",10689.0,16033.5,15800.0,13166.666666666668
+Lot 125,Henri Matisse ,Portrait de jeune fille,32067.0,42756.0,41000.0,34166.66666666667
+Lot 126,Henri Matisse ,Étude de feuille,10689.0,16033.5,14500.0,12083.333333333334
+Lot 127,Paul Gauguin ,Étude d'un buste et de deux mains,4275.6,6413.4,6800.0,5666.666666666667
+Lot 128,Édouard Vuillard ,La petite fille en robe bleue et bonnet rose,6413.4,8551.2,7200.0,6000.0
+Lot 129,Édouard Vuillard ,Le jardin public (recto); La petite fille au volant (verso),6413.4,8551.2,7500.0,6250.0
+Lot 130,Édouard Vuillard ,"Madame Vuillard, rue de Calais",16033.5,21378.0,22000.0,18333.333333333336
+Lot 131,Édouard Vuillard ,Vue du Suquet,10689.0,16033.5,13500.0,11250.0
+Lot 132,Arpad Szenes ,Tumulte sous-marin,2137.8,3206.7,2800.0,2333.3333333333335
+Lot 133,Judit Reigl ,Sans titre (fragment),4275.6,6413.4,5200.0,4333.333333333334
+Lot 134,Roberto Matta ,Sans titre,5344.5,7482.3,6800.0,5666.666666666667
+Lot 135,Pierre Tal-Coat ,Paysage,1603.35,2137.8,1950.0,1625.0
+Lot 136,Pierre Soulages ,Lithographie No. 31,1068.9,1603.35,1750.0,1458.3333333333335
+Lot 137,Sol LeWitt ,Irregular form,5344.5,7482.3,7600.0,6333.333333333334
+Lot 138,Sol LeWitt ,Irregular form,7482.3,10689.0,9800.0,8166.666666666667
+Lot 139,Robert Rauschenberg ,Untitled,32067.0,53445.0,45000.0,37500.0
+Lot 140,Sol LeWitt ,"Working Drawings for Wall Drawing numbers 470, 473, 474",5344.5,7482.3,7200.0,6000.0
+Lot 141,Gino Severini ,Relevée sur pointe,8551.2,12826.8,11500.0,9583.333333333334
+Lot 142,Serge Férat ,Nature morte aux fruits et au verre,7482.3,10689.0,9500.0,7916.666666666667
+Lot 143,Serge Férat ,Nature morte aux fruits,4275.6,6413.4,5800.0,4833.333333333334
+Lot 144,Serge Charchoune ,Coupe en forme de coeur,855.12,1282.68,1350.0,1125.0
+Lot 145,Jacques Villon ,Nature morte,10689.0,16033.5,16500.0,13750.0
+Lot 146,Serge Charchoune ,Weber Freischütz Final,2137.8,3206.7,2950.0,2458.3333333333335
+Lot 147,Roberto Matta ,The Gardener,29929.2,37411.5,38500.0,32083.333333333336
+Lot 148,Léon Spilliaert ,Eve aux deux pommes,7482.3,10689.0,11200.0,9333.333333333334
+Lot 149,Man Ray ,L'Étoile de mer,12826.8,19240.2,19500.0,16250.0
+Lot 150,Max Ernst ,"Ilustrationsvorlage zu 'Partition', rückseitiger Umschlag (Illustration for 'Partition', back cover)",12826.8,19240.2,18500.0,15416.666666666668
+Lot 151,Leonor Fini ,Deux personnages,5344.5,7482.3,6800.0,5666.666666666667
+Lot 152,Francis Picabia ,Les toits de Paris,32067.0,42756.0,45000.0,37500.0
+Lot 153,Suzanne Valadon ,Paysage de Bretagne,32067.0,42756.0,38500.0,32083.333333333336
+Lot 154,Maurice Utrillo ,Place animée devant l'église,42756.0,64134.0,65500.0,54583.333333333336
+Lot 155,Maurice Utrillo ,La petite maison à Pierrefitte (Seine-Saint-Denis),21378.0,32067.0,33500.0,27916.666666666668
+Lot 156,Maurice Utrillo ,Les usines à Montmagny (Val d'Oise),21378.0,32067.0,29500.0,24583.333333333336
+Lot 157,Maurice Utrillo ,"Montmartre, Rue Norvins",16033.5,21378.0,22000.0,18333.333333333336
+Lot 158,Maurice Utrillo ,Pot de fleurs sur un fond de paysage,7482.3,10689.0,11200.0,9333.333333333334
+Lot 159,Niki de Saint-Phalle ,L'arbre de vie - mémoire de la liberté,8551.2,12826.8,13000.0,10833.333333333334
+Lot 160,Fabrice Hyber ,"La grande esquisse du Cri, l'Ecrit",8551.2,12826.8,11500.0,9583.333333333334
+Lot 161,Vhils ,Depict Series #08,8551.2,12826.8,11500.0,9583.333333333334
+Lot 162,Hugues Decointet ,Borgo,4275.6,6413.4,5500.0,4583.333333333334
+Lot 163,Marcello Lo Giudice ,Eden Spring,21378.0,32067.0,28500.0,23750.0
+Lot 164,Joseph Sassine ,Hiéroglyphe,12826.8,19240.2,17500.0,14583.333333333334
+Lot 165,Kazuko Inoue ,Untitled,5344.5,7482.3,6800.0,5666.666666666667
+Lot 166,Joseph Sassine ,Nirvana,10689.0,16033.5,14500.0,12083.333333333334
+Lot 167,Claude Viallat ,161/1986,6413.4,8551.2,7500.0,6250.0
+Lot 168,Keith Haring ,Plate Princess Gloria,6413.4,8551.2,9000.0,7500.0
+Lot 169,Robert Combas ,"Il nous fait quoi celui-là ? un ""caca"" nerveux. même les fleurs que lui offre le slipeur, il ne les voit pas, il pleure sur sa dulcinée qui s'éloigne à tire-d'aile",42756.0,64134.0,55000.0,45833.333333333336
+Lot 170,Achille-Emile Othon Friesz ,Petite assiette: femme allongée devant un arbre,3206.7,5344.5,4500.0,3750.0
+Lot 171,Maurice de Vlaminck ,Pot avec couvercle,8551.2,12826.8,11500.0,9583.333333333334
+Lot 172,Achille-Emile Othon Friesz ,Pichet à décor bi-faces de femmes et de feuillage stylisé,5344.5,6413.4,6200.0,5166.666666666667
+Lot 173,André Derain ,Environs de Chatou,12826.8,19240.2,21000.0,17500.0
+Lot 174,Louis Valtat ,Femmes dans un paysage,19240.2,26722.5,23000.0,19166.666666666668
+Lot 175,Marc Chagall ,Femme au bouquet de fleurs,12826.8,19240.2,21000.0,17500.0
+Lot 176,Louis Valtat ,Bouquet d'anémones et œillets,10689.0,16033.5,14500.0,12083.333333333334
+Lot 177,Louis Valtat ,Bouquet aux tentures,16033.5,21378.0,22000.0,18333.333333333336
+Lot 178,André Lanskoy ,Sans titre,2137.8,3206.7,3100.0,2583.3333333333335
+Lot 179,Alfred Manessier ,Sans titre,1603.35,2137.8,2200.0,1833.3333333333335
+Lot 180,Jean Le Moal ,Untitled,5344.5,7482.3,6500.0,5416.666666666667
+Lot 181,Camille Bryen ,Sans titre,1068.9,1603.35,1350.0,1125.0
+Lot 182,Antoni Clavé ,Roi à la pipe,10689.0,16033.5,14500.0,12083.333333333334
+Lot 183,Gaston Chaissac ,Sans titre,10689.0,16033.5,14500.0,12083.333333333334
+Lot 184,George Minne ,Adolescent I,12826.8,19240.2,17500.0,14583.333333333334
+Lot 185,Georges Rouault ,"Etude pour le n°1411, Christ à la colonne",12826.8,19240.2,18500.0,15416.666666666668
+Lot 186,Georges Rouault ,... aux gueules cassées,12826.8,19240.2,21000.0,17500.0
+Lot 187,Georges Rouault ,Saintes femmes au calvaire,16033.5,26722.5,22000.0,18333.333333333336
+Lot 188,Georges Rouault ,Le blessé,10689.0,16033.5,15800.0,13166.666666666668
+Lot 189,Georges Rouault ,Paysage,8551.2,12826.8,11500.0,9583.333333333334
+Lot 190,Georges Rouault ,Nus décoratifs,5344.5,7482.3,7600.0,6333.333333333334
+Lot 191,Georges Rouault ,Fête foraine (esquisse),5344.5,7482.3,7600.0,6333.333333333334
+Lot 192,Georges Rouault ,Exode,5344.5,7482.3,7600.0,6333.333333333334
+Lot 193,Georges Rouault ,Le cagneux,4275.6,6413.4,6800.0,5666.666666666667
+Lot 194,Georges Rouault ,Chauffard,8551.2,12826.8,13500.0,11250.0
+Lot 195,Georges Rouault ,Le juif errant,10689.0,16033.5,14500.0,12083.333333333334
+Lot 196,Vladimir Velickovic ,Homme qui marche 25.6.1977,2137.8,3206.7,3500.0,2916.666666666667
+Lot 197,Pedro Pablo Oliva ,"Ventanas, La Llegada de la Esperanza (Windows, The Arrival of Hope)",10689.0,16033.5,14500.0,12083.333333333334
+Lot 198,Valerio Adami ,Sulla Riva del Lago,2137.8,3206.7,3500.0,2916.666666666667
+Lot 199,Antonio Seguí ,Sr Distraido,4275.6,6413.4,5800.0,4833.333333333334
+Lot 201,Aboudia ,Untitled,16033.5,21378.0,22000.0,18333.333333333336
+Lot 202,Vhils ,Logo and Patterns Series #03,10689.0,16033.5,14500.0,12083.333333333334
+Lot 203,Chéri Samba ,Picasso au travail,5344.5,7482.3,7200.0,6000.0
+Lot 204,Alin Bozbiciu ,Waiting (turkish bath),4275.6,6413.4,5200.0,4333.333333333334
+Lot 205,Paul Thek ,Untitled,10689.0,16033.5,13500.0,11250.0
+Lot 206,Sabine Moritz ,Zwei Chrysantemen,3206.7,5344.5,4500.0,3750.0
+Lot 207,Georgia Russell ,La mémoire et l'oubli,5344.5,7482.3,7600.0,6333.333333333334
+Lot 208,Nicole Coson ,Untitled,2137.8,3206.7,2750.0,2291.666666666667
+Lot 209,Enoc Perez ,Untitled,5344.5,7482.3,6500.0,5416.666666666667
+Lot 210,Cristina Iglesias ,Sin Titulo (Lanzarote 5),3206.7,4275.6,4100.0,3416.666666666667
+Lot 211,Alin Bozbiciu ,Maria,2137.8,3206.7,2850.0,2375.0
+Lot 212,Hippolyte Petitjean ,La femme de l'artiste à son chevalet,8551.2,12826.8,11500.0,9583.333333333334
+Lot 213,Henri Lebasque ,Pont de la Marne près de Lagny,12826.8,19240.2,17500.0,14583.333333333334
+Lot 214,Paul Signac ,Saint-Tropez. Goélette à l'ancre,10689.0,16033.5,14500.0,12083.333333333334
+Lot 215,Léon de Smet ,Bateaux au port,10689.0,16033.5,14500.0,12083.333333333334
+Lot 216,Léon de Smet ,Still life with flowers,7482.3,10689.0,10250.0,8541.666666666668
+Lot 217,Edgard Wiethase ,Femme au jardin (recto); Paysage (verso),5344.5,7482.3,7200.0,6000.0
+Lot 218,Jeanne Selmersheim-Desgrange ,Vase de fleurs,5344.5,7482.3,7600.0,6333.333333333334
+Lot 219,André Lhote ,Le jardin public à Bordeaux,16033.5,21378.0,22000.0,18333.333333333336
+Lot 220,André Lhote ,Paysage bordelais,8551.2,12826.8,13500.0,11250.0
+Lot 221,Raoul Dufy ,Nu debout,19240.2,27791.4,26000.0,21666.666666666668
+Lot 222,Maurice de Vlaminck ,La berge,8551.2,12826.8,13500.0,11250.0
+Lot 223,Takanori Oguiss ,Vue du Châtelet à Paris,12826.8,19240.2,17500.0,14583.333333333334
+Lot 224,Takanori Oguiss ,"Moulin de la Galette, Rue Tholozé Montmartre",16033.5,21378.0,19000.0,15833.333333333334
+Lot 225,Léonard Tsuguharu Foujita ,Autoportrait dans l'atelier,5344.5,7482.3,7200.0,6000.0
+Lot 226,Serge Mendjisky ,Paris La Nuit,5344.5,7482.3,6500.0,5416.666666666667
+Lot 227,Serge Mendjisky ,Paysage provençal,5344.5,7482.3,7200.0,6000.0
+Lot 228,Léopold Survage ,Paysage,7482.3,10689.0,9800.0,8166.666666666667
+Lot 229,Albert Gleizes ,Projet de l'affiche pour l'Exposition du 32e groupe des artistes de ce temps,6413.4,8551.2,7200.0,6000.0
+Lot 230,Germaine Richier ,Composition 4,5344.5,7482.3,7200.0,6000.0
+Lot 231,Hans Reichel ,Composition,1603.35,2137.8,1950.0,1625.0
+Lot 232,Hans Reichel ,Composition,1603.35,2137.8,1950.0,1625.0
+Lot 233,Jean Messagier ,L’Armure d’Or,4275.6,6413.4,5800.0,4833.333333333334
+Lot 234,Jean Messagier ,Journées parallèles,4275.6,6413.4,5800.0,4833.333333333334
+Lot 235,Gordon Onslow-Ford ,Full time,10689.0,16033.5,14500.0,12083.333333333334
+Lot 236,Jean-Michel Atlan ,Sans titre,2137.8,3206.7,2750.0,2291.666666666667
+Lot 237,Alfred Manessier ,Printanier,5344.5,7482.3,7200.0,6000.0
+Lot 238,Zao Wou-Ki ,Lithographie 337,1068.9,1603.35,1450.0,1208.3333333333335
+Lot 239,Zao Wou-Ki ,Gravure 316,1068.9,1603.35,1450.0,1208.3333333333335
+Lot 240,Zao Wou-Ki ,À La Gloire de l'image et art Poétique,5344.5,7482.3,7600.0,6333.333333333334
+Lot 241,Ruud van Empel ,Venus #1,8551.2,12826.8,13000.0,10833.333333333334
+Lot 242,Désirée Dolron ,Xteriors I,21378.0,32067.0,28500.0,23750.0
+Lot 243,Pieter Hugo ,"Portrait #7, Rwanda, 2014 (from 1994)",10689.0,16033.5,16500.0,13750.0
+Lot 244,Pieter Hugo ,"Portrait #22, Rwanda, 2014",10689.0,16033.5,14500.0,12083.333333333334
+Lot 245,Salla Tykkä ,American dream,2137.8,3206.7,2950.0,2458.3333333333335
+Lot 246,Karl Lagerfeld ,Portrait imaginaire du chevalier de Faublas,7482.3,10689.0,11200.0,9333.333333333334
+Lot 247,Alin Bozbiciu ,The Need for Change,3206.7,4275.6,4100.0,3416.666666666667
+Lot 248,Alin Bozbiciu ,Rituel [number 1],2137.8,3206.7,2950.0,2458.3333333333335
+Lot 249,Mircea Suciu ,Change,2137.8,3206.7,2950.0,2458.3333333333335
+Lot 250,Damian Moppett ,Yellow Caryatid,1068.9,2137.8,1800.0,1500.0

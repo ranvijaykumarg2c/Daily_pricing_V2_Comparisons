@@ -1,0 +1,139 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Breitling,Chronospace Military,Bonhams,1265.67,1898.51,None,1450.0,1208.3333333333335
+Lot 2,Breitling,Navitimer,Bonhams,1265.67,1898.51,None,1580.0,1316.6666666666667
+Lot 3,Breitling,<NA>,Bonhams,1012.54,1518.81,None,1350.0,1125.0
+Lot 4,Breitling,TransOcean Day-Date,Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 5,Breitling,Chrono Cockpit,Bonhams,632.84,885.97,None,785.0,654.1666666666667
+Lot 6,Bucherer,<NA>,Bonhams,1265.67,1898.51,None,1780.0,1483.3333333333335
+Lot 7,Cartier,Colisee,Bonhams,379.7,632.84,None,450.0,375.0
+Lot 8,Cartier,null,Bonhams,379.7,632.84,None,450.0,375.0
+Lot 9,Cartier,Must de Cartier,Bonhams,379.7,506.27,None,450.0,375.0
+Lot 10,Cartier,Must de Cartier,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 11,Cartier,<NA>,Bonhams,379.7,632.84,None,450.0,375.0
+Lot 12,Cartier,Panthère Ruban,Bonhams,1265.67,1898.51,None,1450.0,1208.3333333333335
+Lot 13,Cartier,limited edition gold plated and black lacquer lighter,Bonhams,253.13,379.7,None,312.5,260.4166666666667
+Lot 14,Chanel,J12 White Phantom 10th Anniversary Limited Edition,Bonhams,1518.81,2278.21,None,1980.0,1650.0
+Lot 15,Chopard X Kutchinsky,<NA>,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 16,Chopard X Kutchinsky,<NA>,Bonhams,759.4,1012.54,None,950.0,791.6666666666667
+Lot 17,Chopard,<NA>,Bonhams,1518.81,2278.21,None,1980.0,1650.0
+Lot 18,Chopard,Mille Miglia Godolphin Racing,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 19,Eberhard & Co.,<NA>,Bonhams,379.7,506.27,None,450.0,375.0
+Lot 20,Eterna,Matic,Bonhams,379.7,632.84,None,550.0,458.33333333333337
+Lot 21,Fabergé,<NA>,Bonhams,379.7,632.84,None,450.0,375.0
+Lot 22,Ferrari,<NA>,Bonhams,379.7,632.84,None,450.0,375.0
+Lot 23,Frederique Constant,Slim Line,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 24,Garrard,<NA>,Bonhams,379.7,632.84,None,550.0,458.33333333333337
+Lot 25,Garrard,<NA>,Bonhams,632.84,1012.54,None,850.0,708.3333333333334
+Lot 26,Gerald Genta,Gefica Safari,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 27,Girard-Perregaux,<NA>,Bonhams,253.13,379.7,None,315.0,262.5
+Lot 28,GMC,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 29,IWC,Yacht Club Date,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 30,Jaeger-LeCoultre,Memovox,Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 31,Jaeger-LeCoultre,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 32,Jaeger-LeCoultre,<NA>,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 33,Jaeger-LeCoultre,<NA>,Bonhams,1012.54,1518.81,None,1350.0,1125.0
+Lot 34,Jaeger-LeCoultre,Grand Étrier,Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 35,Jaeger-LeCoultre,<NA>,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 36,Jaeger-LeCoultre,ClubDate,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 37,Jaeger-LeCoultre,<NA>,Bonhams,1265.67,1898.51,None,1580.0,1316.6666666666667
+Lot 38,Jaeger-LeCoultre,Memovox,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 39,Jaeger-LeCoultre,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 40,Jaeger-LeCoultre,Étrier,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 41,Jaeger-LeCoultre,Étrier,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 42,Jaeger-LeCoultre,<NA>,Bonhams,1265.67,1898.51,None,1580.0,1316.6666666666667
+Lot 43,Jaeger-LeCoultre,Memovox,Bonhams,1265.67,1898.51,None,1780.0,1483.3333333333335
+Lot 44,LeCoultre,<NA>,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 45,LeCoultre,Memovox,Bonhams,1518.81,2278.21,None,1985.0,1654.1666666666667
+Lot 46,Longines,<NA>,Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 47,Longines,<NA>,Bonhams,379.7,632.84,None,550.0,458.33333333333337
+Lot 48,Longines,<NA>,Bonhams,379.7,506.27,None,450.0,375.0
+Lot 49,Longines,La Grande Classique,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 50,Movado,Museum Sport,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 51,Movado/Xenith,<NA>,Bonhams,2278.21,2784.48,None,2500.0,2083.3333333333335
+Lot 52,Omega,<NA>,Bonhams,379.7,632.84,None,550.0,458.33333333333337
+Lot 53,Omega,<NA>,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 54,Omega,Seamaster,Bonhams,253.13,379.7,None,312.5,260.4166666666667
+Lot 55,Omega,Seamaster Cosmic,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 56,Omega,De Ville,Bonhams,253.13,379.7,None,312.5,260.4166666666667
+Lot 57,Omega,<NA>,Bonhams,253.13,379.7,None,312.5,260.4166666666667
+Lot 58,Omega,Seamaster,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 59,Omega,Seamaster Cosmic,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 60,Omega,<NA>,Bonhams,253.13,379.7,None,312.5,260.4166666666667
+Lot 61,Omega,<NA>,Bonhams,253.13,379.7,None,312.5,260.4166666666667
+Lot 62,Omega,<NA>,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 63,Omega,<NA>,Bonhams,253.13,379.7,None,312.5,260.4166666666667
+Lot 64,Omega,<NA>,Bonhams,126.57,189.85,None,150.0,125.0
+Lot 65,Omega,De Ville,Bonhams,379.7,506.27,None,450.0,375.0
+Lot 66,Omega,Electronic f300Hz,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 67,Omega,Seamaster,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 68,Omega,Constellation,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 69,Omega,Constellation,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 70,Omega,Constellation,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 71,Omega,Seamaster 600,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 72,Omega,"Seamaster 120m ""Alveoles""",Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 73,Omega,Constellation,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 74,Omega,<NA>,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 75,Omega,Seamaster,Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 76,Omega,Constellation,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 77,Omega,Seamaster,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 78,Omega,Seamaster,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 79,Omega,Chronostop,Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 80,Omega,Constellation,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 81,Omega,Constellation,Bonhams,379.7,632.84,None,450.0,375.0
+Lot 82,Omega,Seamaster Polaris,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 83,Omega,Chronostop,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 84,Omega,<NA>,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 85,Omega,<NA>,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 86,Omega,Speedmaster Automatic,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 87,Omega,Seamaster,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 88,Omega,Equinoxe,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 89,Omega,Seamaster 200 Pre‑Bond,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 90,Omega,Polaris,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 91,Omega,Constellation,Bonhams,3164.19,4429.86,None,3850.0,3208.3333333333335
+Lot 92,Omega,De Ville,Bonhams,2531.35,3797.02,None,3125.0,2604.166666666667
+Lot 93,Omega,<NA>,Bonhams,632.84,885.97,None,850.0,708.3333333333334
+Lot 94,Omega,De Ville,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 95,Oris,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 96,Patek Philippe,<NA>,Bonhams,253.13,379.7,None,300.0,250.0
+Lot 97,Patek Philippe,<NA>,Bonhams,253.13,379.7,None,150.0,125.0
+Lot 98,Patek Philippe,<NA>,Bonhams,253.13,379.7,None,150.0,125.0
+Lot 99,Patek Philippe,<NA>,Bonhams,126.57,253.13,None,200.0,166.66666666666669
+Lot 100,Piaget,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 101,Recta,<NA>,Bonhams,1265.67,1518.81,None,1450.0,1208.3333333333335
+Lot 102,Roger Dubuis,"Easy Diver, No.129/888",Bonhams,1265.67,1898.51,None,1580.0,1316.6666666666667
+Lot 103,Rolex,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 104,Rolex,Precision,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 105,Rolex,Cellini,Bonhams,1265.67,1898.51,None,1580.0,1316.6666666666667
+Lot 106,Rolex,Cellini,Bonhams,759.4,1012.54,None,895.0,745.8333333333334
+Lot 107,Rolex,Datejust,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 108,Rolex,Date,Bonhams,1265.67,1898.51,None,1450.0,1208.3333333333335
+Lot 109,Rolex,Cellini,Bonhams,3797.02,6328.37,None,4850.0,4041.666666666667
+Lot 110,Rolex,Cellini,Bonhams,1012.54,1518.81,None,1450.0,1208.3333333333335
+Lot 111,Stowa,<NA>,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 112,TAG Heuer,Carrera Twin-Time,Bonhams,1012.54,1518.81,None,1350.0,1125.0
+Lot 113,TAG Heuer,<NA>,Bonhams,379.7,632.84,None,485.0,404.1666666666667
+Lot 114,Tissot,<NA>,Bonhams,1012.54,1518.81,None,1350.0,1125.0
+Lot 115,Tissot,<NA>,Bonhams,253.13,379.7,None,312.0,260.0
+Lot 116,Tissot,<NA>,Bonhams,759.4,1012.54,None,950.0,791.6666666666667
+Lot 117,Universal Genève,Polerouter,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 118,Universal Genève,<NA>,Bonhams,1012.54,1518.81,None,1450.0,1208.3333333333335
+Lot 119,Vacheron Constantin,<NA>,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 120,Vertex,Dirty Dozen,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 121,A. Golay-Leresche & Fils,<NA>,Bonhams,632.84,885.97,None,785.0,654.1666666666667
+Lot 122,Arsa,<NA>,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 123,E.J. Bishopp,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 124,Eberhard & Co.,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 125,Garrard,<NA>,Bonhams,632.84,885.97,None,750.0,625.0
+Lot 126,Henry Capt,<NA>,Bonhams,506.27,759.4,None,675.0,562.5
+Lot 127,International Watch Co.,<NA>,Bonhams,632.84,885.97,None,850.0,708.3333333333334
+Lot 128,John Brownbill,<NA>,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 129,John Cawley,<NA>,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 130,Josh. Penlington & Co,<NA>,Bonhams,885.97,1139.11,None,1025.0,854.1666666666667
+Lot 131,Klaftenburger,<NA>,Bonhams,1012.54,1518.81,None,1450.0,1208.3333333333335
+Lot 132,L.Petrzyk,<NA>,Bonhams,1898.51,2531.35,None,2150.0,1791.6666666666667
+Lot 133,Le Roy,<NA>,Bonhams,1012.54,1518.81,None,1350.0,1125.0
+Lot 134,W. A. Perry & Co,<NA>,Bonhams,379.7,632.84,None,550.0,458.33333333333337
+Lot 135,W.H. Ridge,<NA>,Bonhams,1012.54,1518.81,None,1450.0,1208.3333333333335
+Lot 136,Waltham,<NA>,Bonhams,379.7,506.27,None,450.0,375.0
+Lot 137,Waltham,<NA>,Bonhams,1012.54,1518.81,None,1350.0,1125.0
+Lot 138,<NA>,<NA>,Bonhams,379.7,632.84,None,550.0,458.33333333333337

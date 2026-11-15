@@ -1,0 +1,902 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+9b66f12b-ea8d-4bc1-92b0-ace9d290d30d,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 1,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,UMIT ZEYTINCIOGLU,N/A,N/A,"City of Villages, Revisited",photographs,photographic print on aluminium,N/A,25,20,cm,no,yes,yes,2025,2025,N/A,"city, villages",1,N/A,original,"Details
+
+
+
+
+
+
+
+City of Villages, Revisited, 2025
+photographic print on aluminium
+20 cm. high x 25 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0001_001(umit_zeytincioglu_city_of_villages_revisited_2025054114).jpg?mode=max&w=2&hash=c35c3493cdb02bd4b3d496ef1869b16bc1877485,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/umit-zeytincioglu-1/318473?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,2026-09,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+3e7310a7-fc6e-4ca1-95d3-af8d530ceff1,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 2,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,UMIT ZEYTINCIOGLU,N/A,N/A,Impetious,photographs,"photographic print, semi matte paper",N/A,41.5,31.5,cm,no,yes,yes,2024,2024,N/A,"photographic print, framed",1,N/A,original,"Details
+
+
+
+
+
+
+
+Impetious, 2024
+photographic print, semi matte paper
+framed: 31.5 cm. high x 41.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0002_001(umit_zeytincioglu_impetious_2024054125).jpg?mode=max&w=2&hash=b82d76553ab75cf20f5b9e264e37e7b7b242dca9,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/umit-zeytincioglu-2/318474?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.0,167.5
+1c6feb16-a424-4774-b8ba-9bbe2b772649,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 3,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,UMIT ZEYTINCIOGLU,N/A,N/A,"Look About You, 2025",photographs,"photographic print, on Fuji Velvet Paper",N/A,30,39,cm,no,yes,yes,2025,2025,N/A,details,1,N/A,original,"Details
+
+
+
+
+
+
+
+Look About You, 2025
+photographic print, on Fuji Velvet Paper
+image: 39 cm. high x 30 cm. wide
+framed: 57 cm. high x 47 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0003_000(umit_zeytincioglu_look_about_you_2025054132).jpg?mode=max&w=2&hash=7f1f6b9ef54fbab545b28c5f325c8be14b4ffcb1,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/umit-zeytincioglu-3/318475?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+429e330a-e4dc-4acd-a9fa-5812282b2120,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 4,GBP,"1,500","2,500",N/A,N/A,2011.19,3351.99,N/A,N/A,ABIGAIL DEAKIN,N/A,N/A,Spur,painting,oil on canvas,N/A,40,50,cm,yes,yes,yes,2026,2026,N/A,spur,1,N/A,original,"Details
+
+
+
+
+
+
+
+Spur, 2026
+signed 'A.Deakin' (lower right)
+oil on canvas
+50 cm. high x 40 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0004_001(abigail_deakin_spur_2026055025).jpg?mode=max&w=2&hash=e5fec94909f8b8764295679ee10b505f527cae70,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/abigail-deakin-4/318476?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,2680.0,2233.3333333333335
+a20fa0ac-09cc-420d-a3bc-5fad874c2aa7,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 5,GBP,"3,000","4,000",N/A,N/A,4022.39,5363.19,N/A,N/A,ABIGAIL DEAKIN,N/A,N/A,Passing,painting,oil on canvas,N/A,70,100,cm,yes,yes,yes,2026,2026,N/A,woman,1,N/A,original,"Details
+
+
+
+
+
+
+
+Passing, 2026
+signed 'A. Deakin' (lower right)
+oil on canvas
+100 cm. high x 70 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0005_001(abigail_deakin_passing_2026054153).jpg?mode=max&w=2&hash=4095f40ef7aab895706009692a6b904cba292390,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/abigail-deakin-5/318477?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4700.0,3916.666666666667
+83b30493-3a6e-451c-bd56-d433aa85fe33,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 6,GBP,"2,500","3,500",N/A,N/A,3351.99,4692.79,N/A,N/A,ABIGAIL DEAKIN,N/A,N/A,"Arena, 2026",painting,oil on canvas,N/A,40,50,cm,yes,yes,yes,2026,2026,N/A,arena,1,N/A,original,"Details
+
+
+
+
+
+
+
+Arena, 2026
+signed 'A. Deakin' (lower right)
+oil on canvas
+50 cm. high x 40 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0006_001(abigail_deakin_arena_2026055033).jpg?mode=max&w=2&hash=b96a78eba21bc69de963f2c2971ad7258446d887,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/abigail-deakin-6/318478?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,4000.0,3333.3333333333335
+bb58193e-2403-4faf-8405-364d96035847,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 7,GBP,600,800,N/A,N/A,804.48,1072.64,N/A,N/A,LUZ MARIA OSORIO,N/A,N/A,Untitled,photographs,"archival c-type print, acrylic face mounted",N/A,101.5,68,cm,yes,yes,no,2025,2025,N/A,"untitled, print, archival, acrylic, abstract",1,N/A,original,"Details
+
+
+
+
+
+
+
+Untitled, 2025
+signed and dated (on the reverse)
+archival c-type print, acrylic face mounted
+framed: 68 cm. high x 101.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0007_000(luz_maria_osorio_untitled_2025054205).jpg?mode=max&w=2&hash=c346beab1b1d51671eb87673af61a07df4d4b2bf,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/luz-maria-osorio-7/318472?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,950.0,791.6666666666667
+5516da05-2e32-4061-98fb-5a6888e5b377,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 8,GBP,600,800,N/A,N/A,804.48,1072.64,N/A,N/A,LUZ MARIA OSORIO,N/A,N/A,Untitled,photographs,"archival c-type print, acrylic face mounted",N/A,101.5,68,cm,yes,yes,no,2023,2023,N/A,"untitled, archival c-type print, acrylic face mounted, framed, 2023",1,N/A,original,"Details
+
+
+
+
+
+
+
+Untitled, 2023
+signed and dated (on reverse)
+archival c-type print, acrylic face mounted
+framed: 68 cm. high x 101.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0008_000(luz_maria_osorio_untitled_2023055041).jpg?mode=max&w=2&hash=71e817c568d1eff5ff45d2a6aca599c100f31173,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/luz-maria-osorio-8/318471?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,950.0,791.6666666666667
+5b36f86e-5a4d-499f-ae30-0b550ed00ec8,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 9,GBP,50,100,N/A,N/A,67.04,134.08,N/A,N/A,MARIA FALCO,N/A,N/A,"Zero Hour Series - Creature, 2025",prints,giclee print of a graphite drawing,N/A,10,7.7,cm,yes,yes,yes,2025,2025,N/A,creature,1,N/A,original,"Details
+
+
+
+
+
+
+
+Zero Hour Series - Creature, 2025
+numbered, titled and signed '1/5 ""Creature"" Maria Falco' (centre)
+giclee print of a graphite drawing
+image: 7.7 cm. high x 10 cm. wide
+framed: 20.5 cm. high x 25.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0009_001(maria_falco_zero_hour_series_-_creature_2025_d6598249054212).jpg?mode=max&w=2&hash=dc55c506cc9e62643c4dee83c6fc4e8e1129daf8,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/maria-falco-9/318479?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,110.0,91.66666666666667
+62d35b12-d288-4fbd-a2ee-9e2889a25cf4,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 10,GBP,50,100,N/A,N/A,67.04,134.08,N/A,N/A,MARIA FALCO,N/A,N/A,"Zero Hour Series - Partner at Night, 2025",prints,giclee print of a graphite drawing,N/A,10,7.7,cm,yes,yes,yes,2025,2025,N/A,"graphite drawing, partner, night, giclee print",1,N/A,original,"Details
+
+
+
+
+
+
+
+Zero Hour Series - Partner at Night, 2025
+numbered, titled and signed '1/5 ""Partner At Night"" Maria Falco' (centre)
+giclee print of a graphite drawing
+image: 7.7 cm. high x 10 cm. wide
+framed: 20.5 cm. high x 25.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0010_001(maria_falco_zero_hour_series_-_partner_at_night_2025054226).jpg?mode=max&w=2&hash=64d46402fbe74abc841a9123dfc627c76889f850,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/maria-falco-10/318480?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,110.0,91.66666666666667
+2b7b5b16-87ce-4a7c-bd41-53f885b5729f,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 11,GBP,50,100,N/A,N/A,67.04,134.08,N/A,N/A,MARIA FALCO,N/A,N/A,"Zero Hour Series - The End, 2025",prints,giclee print of a graphite drawing,N/A,10,7.7,cm,yes,yes,yes,2025,2025,N/A,"drawing, giclee print, graphite, framed artwork, series title, numbered print, monochrome",1,N/A,original,"Details
+
+
+
+
+
+
+
+Zero Hour Series - The End, 2025
+numbered, titled and signed '1/5 ""The End"" Maria Falco' (centre)
+giclee print of a graphite drawing
+image: 7.7 cm. high x 10 cm. wide
+framed: 20.5 cm. high x 25.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0011_001(maria_falco_zero_hour_series_-_the_end_2025054240).jpg?mode=max&w=2&hash=2598eb8f46ba8cab2cc54aa2ea7692caf4966693,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/maria-falco-11/318481?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,110.0,91.66666666666667
+be014c42-4a58-4f5d-9529-1f0daf66bc10,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 12,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,SOPHIE TAYLOR,N/A,N/A,Study of Fish Bone,drawing,pencil on paper,N/A,25.4,20.3,cm,yes,yes,yes,2026,2026,N/A,"fish, bone",1,N/A,original,"Details
+
+
+
+
+
+
+
+Study of Fish Bone, 2026
+signed 'SST' (lower right)
+pencil on paper
+20.3 cm. high x 25.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0012_001(sophie_taylor_study_of_fish_bone_2026054253).jpg?mode=max&w=2&hash=e7847501bc231c9cdec1590c182f619747311d90,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sophie-taylor-12/318483?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.0,167.5
+a705d14d-fd04-4e2e-b37a-9b3d1eb090ab,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 13,GBP,300,400,N/A,N/A,402.24,536.32,N/A,N/A,EVIE JOHNSON,N/A,N/A,3 Funky Fish,painting,acrylic on canvas,N/A,45.7,55.6,cm,no,yes,yes,2026,2026,N/A,fish,1,N/A,original,"Details
+
+
+
+
+
+
+
+3 Funky Fish, 2026
+acrylic on canvas
+55.6 cm. high x 45.7 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0013_001(evie_johnson_3_funky_fish_2026054306).jpg?mode=max&w=2&hash=77b27c40de434da972737182bbada22ece0356e6,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/evie-johnson-13/318482?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,475.0,395.83333333333337
+5ecaa65c-bc30-4f08-bea1-8df9e6436327,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 14,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,MARGUERITE KNOWLES,N/A,N/A,"Fox, 2026",mixed media,"watercolour, pencil and ink on paper",N/A,14.8,21,cm,yes,yes,yes,2026,2026,N/A,fox,1,N/A,original,"Details
+
+
+
+
+
+
+
+Fox, 2026
+signed 'Marguerite Knowles 2026' (on reverse)
+watercolour, pencil and ink on paper
+21 cm. high x 14.8 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0014_001(marguerite_knowles_fox_2026055101).jpg?mode=max&w=2&hash=13869aa494d1fb0671c79ab2dce4ad1e05d5ab5d,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/marguerite-knowles-14/318485?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.12,167.60000000000002
+cb794414-243e-4934-bb09-4a893111f48d,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 15,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,MARGUERITE KNOWLES,N/A,N/A,Three Pigeons,drawing,"watercolour, pencil and ink on paper",N/A,14.8,21,cm,yes,yes,yes,2026,2026,N/A,pigeons,1,N/A,original,"Details
+
+
+
+
+
+
+
+Three Pigeons, 2026
+signed 'Marguerite Knowles 2026' (on reverse)
+watercolour, pencil and ink on paper
+21 cm. high x 14.8 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0015_001(marguerite_knowles_three_pigeons_2026054323).jpg?mode=max&w=2&hash=8e0b683117387c9c7aef08724a822d1905def1a7,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/marguerite-knowles-15/318484?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,220.0,183.33333333333334
+ef7f4234-81e0-40f8-a15d-b243b0b1e2aa,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 16,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,MARGUERITE KNOWLES,N/A,N/A,"Tulip, 2026",drawing,"watercolour, pencil and ink on paper",N/A,14.8,21,cm,yes,yes,yes,2026,2026,N/A,"tulip, flower, watercolor, pencil, ink, paper",1,N/A,original,"Details
+
+
+
+
+
+
+
+Tulip, 2026
+signed 'Marguerite Knowles 2026' (on reverse)
+watercolour, pencil and ink on paper
+21 cm. high x 14.8 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0016_001(marguerite_knowles_tulip_2026055106).jpg?mode=max&w=2&hash=bb467e8d486d4370c2fe46c473f074512621a66b,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/marguerite-knowles-16/318487?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.0,167.5
+e6e74997-4348-4166-a296-e4cb37e62779,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 17,GBP,50,100,N/A,N/A,67.04,134.08,N/A,N/A,NICHOLA JONES,N/A,N/A,"Tulip I, 2026",drawing,watercolour and pencil on paper,N/A,17.5,22.5,cm,no,yes,yes,2026,2026,N/A,tulip,1,N/A,original,"Details
+
+
+
+
+
+
+
+Tulip I, 2026
+watercolour and pencil on paper
+22.5 cm. high x 17.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0017_001(nichola_jones_tulip_i_2026055111).jpg?mode=max&w=2&hash=07b5f777d15ad8e1ee1b6bfc6994a9a3bd2d9878,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/nichola-jones-17/318486?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,100.0,83.33333333333334
+6157f6e4-8bd6-4a40-9052-6c7d207b322e,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 18,GBP,700,"1,000",N/A,N/A,938.56,1340.8,N/A,N/A,ANNIE FOLEY,N/A,N/A,Two Lilies,painting,oil on canvas,N/A,61,91,cm,yes,yes,yes,2023,2023,N/A,"lilies, flowers, oil on canvas",1,N/A,original,"Details
+
+
+
+
+
+
+
+Two Lilies
+signed 'Annie 2023 ""TWO LILIES""' (on reverse)
+oil on canvas
+91 cm. high x 61 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0018_001(annie_foley_two_lilies_d6598258054340).jpg?mode=max&w=2&hash=4bc83b6bf168faa0701c2ad206e64cde0a38c772,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/annie-foley-18/318488?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1150.0,958.3333333333334
+bf1586f2-8363-400f-ac0c-b176d644da67,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 19,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,ISA LEUNG,N/A,N/A,Vibrant Tulip Garden,painting,oil on canvas,N/A,29,37.7,cm,yes,yes,yes,2026,2026,N/A,"tulips,garden,flowers,green,soil,artwork",1,N/A,original,"Details
+
+
+
+
+
+
+
+Vibrant Tulip Garden, 2026
+signed 'Isa' (lower right)
+oil on canvas
+37.7 cm. high x 29 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0019_001(isa_leung_vibrant_tulip_garden_2026_d6598259054346).jpg?mode=max&w=2&hash=69deaa03a40825d4958351a081690779f7da7fba,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/isa-leung-19/318489?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+2893aef8-2c99-4b35-a250-d28429492b8c,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 20,GBP,200,400,N/A,N/A,268.16,536.32,N/A,N/A,ANASTASIA LEBEDEV,N/A,N/A,Coming Up Roses,prints,cyanotype print on handmade cotton paper,N/A,42,59.4,cm,yes,yes,yes,2026,2026,"Sale Room Notice
+
+
+
+
+
+
+Please note that the starting bid on this lot has been lowered.",roses,1,N/A,original,"Details
+
+
+
+
+
+
+
+Coming Up Roses, 2026
+framed, signed, titled and dated 'Anastasia Lebedev / Coming Up Roses / 2026' (on the reverse).
+cyanotype print on handmade cotton paper
+image: 59.4 cm. high x 42 cm. wide
+framed: 67.4 cm. high x 50 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0020_001(anastasia_lebedev_coming_up_roses_2026113713).jpg?mode=max&w=2&hash=ed29984b287bc317d0efcb088b817b14c3da165a,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/anastasia-lebedev-20/318490?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,450.0,375.0
+9852a403-be18-4c4d-9573-2864ee2b653a,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 21,GBP,200,400,N/A,N/A,268.16,536.32,N/A,N/A,ANASTASIA LEBEDEV,N/A,N/A,"A Year of Bloom, 2026",prints,cyanotype print on handmade cotton paper,N/A,59.5,42,cm,yes,yes,yes,2026,2026,"Sale Room Notice
+
+
+
+
+
+
+Please note that the starting bid on this lot has been lowered.","cyanotype, cotton paper, blooming flowers, floral patterns, blue color, nature, abstract forms",1,N/A,original,"Details
+
+
+
+
+
+
+
+A Year of Bloom, 2026
+framed, signed, titled and dated 'Anastasia Lebedev / A Year of Bloom / 2026' (on reverse).
+cyanotype print on handmade cotton paper
+image: 42 cm. high x 59.5 cm. wide
+framed: 50 cm. high x 67.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0021_001(anastasia_lebedev_a_year_of_bloom_2026061919).jpg?mode=max&w=2&hash=d78cb2090a10995142f615fcde98ea719db2895c,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/anastasia-lebedev-21/318491?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,450.0,375.0
+1f81e680-d5ed-41a9-92c9-2b543266e646,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 22,GBP,300,500,N/A,N/A,402.24,670.4,N/A,N/A,ANASTASIA LEBEDEV,N/A,N/A,Duallium,prints,cyanotype print on handmade cotton paper,N/A,42,59.4,cm,yes,yes,yes,2026,2026,"Sale Room Notice
+
+
+
+
+
+
+Please note that the starting bid on this lot has been lowered.","cyanotype, handmade cotton paper, diptych, blue tones",2,N/A,original,"Details
+
+
+
+
+
+
+
+Duallium, 2026
+diptych, framed, each print signed, titled and dated 'Anastasia Lebedev / Duallium / 2026' (on the reverse).
+cyanotype print on handmade cotton paper
+each image: 59.4 cm. high x 42 cm. wide
+each framed: 67.4 cm. high x 50 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0022_001(anastasia_lebedev_duallium_2026062952).jpg?mode=max&w=2&hash=f62107fa14f532d429930ce8c9c703a99db8e1d3,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/anastasia-lebedev-22/318492?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,550.0,458.33333333333337
+94fcba6b-e29d-4a19-81c9-39ee9eab5570,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 23,GBP,200,400,N/A,N/A,268.16,536.32,N/A,N/A,ANASTASIA LEBEDEV,N/A,N/A,Fall’s fall,prints,cyanotype print on handmade cotton paper,N/A,59.5,42,cm,yes,yes,yes,2026,2026,N/A,"fall, nature, cyanotype, handmade paper",1,N/A,original,"Details
+
+
+
+
+
+
+
+Fall’s fall, 2026
+framed, signed, titled and dated 'Anastasia Lebedev / Fall's fall / 2026' (on reverse).
+cyanotype print on handmade cotton paper
+image: 42 cm. high x 59.5 cm. wide
+framed: 86.5 cm. high x 62.2 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0023_001(anastasia_lebedev_fall8217s_fall_2026_d6598263063049).jpg?mode=max&w=2&hash=951d10f2f08676a2f718b276f8a7a39609bb16e4,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/anastasia-lebedev-23/318493?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,450.0,375.0
+874d35c8-4eeb-4d96-b165-6f6e64d214c6,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 24,GBP,300,500,N/A,N/A,402.24,670.4,N/A,N/A,ANASTASIA LEBEDEV,N/A,N/A,From Eden,prints,cyanotype print on handmade cotton paper,N/A,42,59.4,cm,yes,yes,yes,2026,2026,"Sale Room Notice
+
+
+
+
+
+
+Please note that the starting bid on this lot has been lowered.","cyanotype, handmade paper, diptych, framed, nature, botanical, blue tones, abstract shapes, patterns, prints",1,N/A,original,"Details
+
+
+
+
+
+
+
+From Eden, 2026
+diptych, framed, each print signed, titled and dated 'Anastasia Lebedev / From Eden / 2026' (on reverse).
+cyanotype print on handmade cotton paper
+each image: 59.4 cm. high x 42 cm. wide
+each framed: 67.4 cm. high x 50 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0024_001(anastasia_levedev_from_eden_d6598264063106).jpg?mode=max&w=2&hash=9afe03be732c26a0a98d55f09035d9670a4f9f07,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/anastasia-lebedev-24/318494?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,550.0,458.33333333333337
+1e80fd15-1bf6-40db-b2b7-be9b1fff3b32,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 25,GBP,400,600,N/A,N/A,536.32,804.48,N/A,N/A,RAFFAELE COLETTA,N/A,N/A,"Piera, 2024",painting,oil on canvas,N/A,60,76,cm,yes,yes,yes,2024,2024,N/A,"portrait, woman",1,N/A,original,"Details
+
+
+
+
+
+
+
+Piera, 2024
+signed 'R.Coletta' (on reverse)
+oil on canvas
+76 cm. high x 60 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0025_001(raffaele_coletta_piera_2024_d6598265054415).jpg?mode=max&w=2&hash=b517f87714f9725b24e882ba968b6dc71c596502,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/raffaele-coletta-25/318495?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,670.0,558.3333333333334
+2c053fa8-e8cb-48a2-a79a-d2c3c015e935,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 26,GBP,400,600,N/A,N/A,536.32,804.48,N/A,N/A,RAFFAELE COLETTA,N/A,N/A,"Miranda, 2025",painting,oil on canvas,N/A,60,76,cm,yes,yes,yes,2025,2025,N/A,"woman, portrait, oil painting, canvas, figure, art",1,N/A,original,"Details
+
+
+
+
+
+
+
+Miranda, 2025
+signed 'R.Coletta' (on reverse)
+oil on canvas
+76 cm. high x 60 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0026_001(raffaele_coletta_miranda_2025_d6598266054423).jpg?mode=max&w=2&hash=836ca97eb3533fc2c0c89c84527874d7119f6571,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/raffaele-coletta-26/318497?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,670.0,558.3333333333334
+9ca927fa-c2ae-4fb6-8dcc-a69a8d5eec05,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 27,GBP,400,600,N/A,N/A,536.32,804.48,N/A,N/A,RAFFAELE COLETTA,N/A,N/A,Yu-Ge,painting,oil on canvas,N/A,60,76,cm,yes,yes,yes,2025,2025,N/A,none,1,N/A,original,"Details
+
+
+
+
+
+
+
+Yu-Ge, 2025
+signed 'R. Coletta' (on reverse)
+oil on canvas
+76 cm. high x 60 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0027_001(raffaele_coletta_yu-ge_2025_d6598267054430).jpg?mode=max&w=2&hash=92c1f59e3cfa4b877e4690d9a925c1db07ec8232,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/raffaele-coletta-27/318499?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,700.0,583.3333333333334
+1280bd9a-eb87-4dc8-831c-bf44f0e75340,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 28,GBP,400,500,N/A,N/A,536.32,670.4,N/A,N/A,GUILLEM MATALLANAS,N/A,N/A,GENERATION C2,prints,screenprint on paper,N/A,59.4,42,cm,no,yes,yes,2019,2019,N/A,"screenprint, abstract, geometric, brown tones",1,N/A,original,"Details
+
+
+
+
+
+
+
+GENERATION C2, 2019
+screenprint on paper
+42 cm. high x 59.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0028_000(guillem_matallanas_generation_c2_2019054438).jpg?mode=max&w=2&hash=60d497cffca15dc82ec905e49de6433e45873047,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/guillem-matallanas-28/318496?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,600.0,500.0
+0e5bf95c-674d-452e-9495-bba58da9cf7a,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 29,GBP,500,800,N/A,N/A,670.4,1072.64,N/A,N/A,GRAEME DUDDRIDGE,N/A,N/A,Stargazer,mixed media,"pencil, watercolour, collage & metal leaf on paper",N/A,70.6,50.6,cm,no,yes,yes,2024,2024,N/A,"stargazer, pencil, watercolour, collage, metal leaf, paper",1,N/A,original,"Details
+
+
+
+
+
+
+
+Stargazer, 2024
+pencil, watercolour, collage & metal leaf on paper
+framed: 50.6 cm. high x 70.6 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0029_001(graeme_duddridge_stargazer_2024055259).jpg?mode=max&w=2&hash=9021eb0c453678455237b7d2a2e65625bf8510b1,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/graeme-duddridge-29/318498?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,900.0,750.0
+0e7aa29e-5792-4edb-a696-b1289e8c2b33,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 30,GBP,800,"1,000",N/A,N/A,1072.64,1340.8,N/A,N/A,GRAEME DUDDRIDGE,N/A,N/A,Ellie in Stripes,painting,"oil on board, walnut, corian inlay, vintage buttons",N/A,55.5,65.1,cm,no,yes,yes,2025,2025,N/A,"woman, stripes, vintage buttons, oil on board, framed",1,N/A,original,"Details
+
+
+
+
+
+
+
+Ellie in Stripes, 2025
+oil on board, artist frame in walnut, corian inlay and vintage buttons
+framed: 65.1 cm. high x 55.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0030_001(graeme_duddridge_ellie_in_stripes_2025055314).jpg?mode=max&w=2&hash=4a2f2d3d653e31365e44506509ce659600ed50e9,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/graeme-duddridge-30/318500?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1200.0,1000.0
+361631f5-c8e3-4497-bc2f-6fa014036834,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 31,GBP,500,800,N/A,N/A,670.4,1072.64,N/A,N/A,GRAEME DUDDRIDGE,N/A,N/A,Serving Fish,painting,oil on board,3.5,28,40,cm,yes,yes,yes,2019,2019,N/A,"fish, serving dish, water, table, food, reflection, color, texture",1,N/A,original,"Details
+
+
+
+
+
+
+
+Serving Fish, 2019
+signed 'GD' 19 Serving Fish' (on reverse)
+oil on board
+40 cm. high x 28 cm. wide x 3.5 cm. deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0031_001(graeme_duddridge_serving_fish_2019055328).jpg?mode=max&w=2&hash=acdd76212ae162d1edbd31871246685800fa2a19,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/graeme-duddridge-31/318501?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,900.0,750.0
+0f10a89c-b3e2-4075-aa6c-b3c5b3e87dec,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 32,GBP,200,300,N/A,N/A,268.16,402.24,N/A,N/A,ALICE GELDENHUYS,N/A,N/A,Embrace,painting,acrylic on canvas,N/A,29.5,42,cm,yes,yes,yes,2025,2025,N/A,"embrace, abstract, shapes, colors, figures",1,N/A,original,"Details
+
+
+
+
+
+
+
+Embrace, 2025
+signed 'ALICE G'25' (on reverse)
+acrylic on canvas
+42 cm. high x 29.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0032_001(alice_geldenhuys_embrace_2025055341).jpg?mode=max&w=2&hash=4a2efea5c6415fe53b26d4578f64d19d7500b093,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/alice-geldenhuys-32/318502?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,335.0,279.1666666666667
+c1b6cdc5-8563-4457-ae3f-5c69a7cbd375,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 33,GBP,200,300,N/A,N/A,268.16,402.24,N/A,N/A,ALICE GELDENHUYS,N/A,N/A,Stretch,painting,acrylic on canvas,N/A,41,30.5,cm,yes,yes,yes,2025,2025,N/A,"acrylic, canvas, abstract, stretch, colors, shapes, 2025, signed",1,N/A,original,"Details
+
+
+
+
+
+
+
+Stretch, 2025
+signed 'ALICE G'25' (on reverse)
+acrylic on canvas
+30.5 cm. high x 41 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0033_001(alice_geldenhuys_stretch_2025_d6598273054451).jpg?mode=max&w=2&hash=9511c20204cc30a38c36dafc3d4f4765c98099fc,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/alice-geldenhuys-33/318504?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,350.0,291.6666666666667
+6f04cd5a-6fa6-4def-84b8-1987bd20060f,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 34,GBP,700,900,N/A,N/A,938.56,1206.72,N/A,N/A,ALICE KIM,N/A,N/A,O-mi,decorative arts,Korean traditional organza (ramie and hemp),N/A,40,21,cm,no,yes,yes,2026,2026,N/A,"Korean traditional organza, ramie, hemp",1,N/A,original,"Details
+
+
+
+
+
+
+
+O-mi, 2026
+Korean traditional organza (ramie and hemp)
+21 cm. high x 40 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0034_000(alice_kim_o-mi_2026055354).jpg?mode=max&w=2&hash=b9ecf948a4bc7ce17677483b2be77a86803126ab,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/alice-kim-34/318503?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+759d418e-675a-4fc9-b1d5-2160c2f5b7ce,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 35,GBP,600,800,N/A,N/A,804.48,1072.64,N/A,N/A,JAMES CAMPION,N/A,N/A,After Mondrian,painting,oil on canvas,N/A,30,30,cm,yes,yes,yes,2019,2019,N/A,"abstract, colors, grid, geometric shapes, oil paint, square, composition",1,N/A,original,"Details
+
+
+
+
+
+
+
+After Mondrian, 2019
+signed 'Campion 2019' (on reverse)
+oil on canvas
+30 cm. high x 30 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0035_001(james_campion_after_mondrian_2019_d6598275054457).jpg?mode=max&w=2&hash=5ce1facdc4ebf20b9f58a1ec2a7052be60aaae78,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/james-campion-35/318505?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,950.0,791.6666666666667
+1cedb8d7-3e23-4441-b1ac-0c936c0c1151,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 36,GBP,800,"1,000",N/A,N/A,1072.64,1340.8,N/A,N/A,JAMES CAMPION,N/A,N/A,Towel Painting,painting,oil on canvas,N/A,60,50,cm,yes,yes,yes,2026,2026,N/A,"towel, painting, oil, canvas",1,N/A,original,"Details
+
+
+
+
+
+
+
+Towel Painting, 2026
+signed 'TOWEL PAINTING I/James Campion 2026' (on reverse)
+oil on canvas
+50 cm. high x 60 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0036_001(james_campion_towel_painting_2026_d6598276054504).jpg?mode=max&w=2&hash=b7ddb0fefedeae0d9d133601bf994b8d550ee5d4,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/james-campion-36/318506?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1200.0,1000.0
+ddb67665-5ba5-44f7-8d45-1d015305f096,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 37,GBP,800,"1,000",N/A,N/A,1072.64,1340.8,N/A,N/A,JAMES CAMPION,N/A,N/A,Towel Painting II,painting,oil on canvas,N/A,50,60,cm,yes,yes,yes,2026,2026,N/A,"towel, abstract, color, texture, canvas, oil painting",1,N/A,original,"Details
+
+
+
+
+
+
+
+Towel Painting II, 2026
+signed 'TOWEL PAINTING II/ James Campion 2026' (on reverse)
+oil on canvas
+60 cm. high x 50 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0037_001(james_campion_towel_painting_ii_2026_d6598277054511).jpg?mode=max&w=2&hash=26d6c631aa7fee6161c65e55f354bdf56826d000,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/james-campion-37/318507?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1200.0,1000.0
+6e3cadfc-56e6-4724-9e33-24fb30565352,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 38,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,BRONWEN HARRISON,N/A,N/A,Tidal Vessel,ceramics,glazed stoneware,6,13,18,cm,no,no,yes,N/A,N/A,N/A,"vessel, stoneware, glazed, height 18 cm, width 13 cm, depth 6 cm",1,N/A,original,"Details
+
+
+
+
+
+
+
+Tidal Vessel
+glazed stonewear
+18 cm. high x 13 cm. wide x 6 cm. deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0038_001(bronwen_harrison_tidal_vessel055424).jpg?mode=max&w=2&hash=06eef2fa9bf4c7eb19c358325d32ab4892f184cd,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/bronwen-harrison-38/318508?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+30c76131-1195-4c5f-9ad3-4ff8fc772320,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 39,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,BRONWEN HARRISON,N/A,N/A,Tidal Vessel II,ceramics,glazed stoneware,13,14,13,cm,no,no,yes,N/A,N/A,N/A,"vessel, stoneware, glazed, organic shape",1,N/A,original,"Details
+
+
+
+
+
+
+
+Tidal Vessel II
+glazed stoneware
+13 cm. high x 14 cm. wide x 13 cm. deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0039_001(bronwen_harrison_tidal_vessel_ii055449).jpg?mode=max&w=2&hash=8efba182bf69d6c64202dd208ea07a443d291805,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/bronwen-harrison-39/318510?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.0,167.5
+0a68e28c-c635-4a51-9ff4-5e435f816b03,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 40,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,BRONWEN HARRISON,N/A,N/A,Upside-down Bowl,ceramics,glazed stoneware,13,38,19,cm,no,no,yes,N/A,N/A,N/A,"bowl, glazed stoneware, ceramic, household object",1,N/A,original,"Details
+
+
+
+
+
+
+
+Upside-down Bowl
+glazed stoneware
+19 cm. high x 38 cm. wide x 13 cm. deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0040_001(bronwen_harrison_upside-down_bowl055512).jpg?mode=max&w=2&hash=3468bd13a99c40ec5eb60c34fb3ebc898c2f2f14,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/bronwen-harrison-40/318509?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.0,167.5
+3f0f17ef-0379-4e86-a246-2ebd8471d2cc,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 41,GBP,400,600,N/A,N/A,536.32,804.48,N/A,N/A,SANDRA ROMITO,N/A,N/A,Toto's Vases,ceramics,ceramic,20,20,30,cm,no,no,yes,N/A,N/A,N/A,"vases, ceramic",1,N/A,original,"Details
+
+
+
+
+
+
+
+Toto's Vases
+ceramic
+30 cm. high x 20 cm. wide x 20 cm. deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0041_001(sandra_romito_totos_vases054553).jpg?mode=max&w=2&hash=181f440e8042175cc792dd638abc3cb234126520,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sandra-romito-41/318511?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,670.0,558.3333333333334
+ad9d24ce-8601-4f7d-976e-a82e657c41fd,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 42,GBP,50,100,N/A,N/A,67.04,134.08,N/A,N/A,PRAPASRI SUWANNAKHOT,N/A,N/A,"Experimental - Ripley, 2026",decorative arts,"freshwater baroque pearl, silver, cubic zirconia",0.5,2.7,2,cm,no,yes,yes,2026,2026,N/A,"pendant, charm, freshwater baroque pearl, silver, cubic zirconia",1,N/A,original,"Details
+
+
+
+
+
+
+
+Experimental - Ripley, 2026
+pendant, charm
+freshwater baroque pearl, silver, cubic zirconia
+2 cm. high x 2.7 cm. wide x 0.5 cm. deep",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0042_001(prapasri_suwannakhot_experimental_-_ripley_2026055541).jpg?mode=max&w=2&hash=906878a261dbd5e110c364ecddff175a4bc1e29f,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/prapasri-suwannakhot-42/318512?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,100.0,83.33333333333334
+6f53baf4-6e70-4f9a-8d75-b4d6b89d738c,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 43,GBP,700,900,N/A,N/A,938.56,1206.72,N/A,N/A,PRAPASRI SUWANNAKHOT,N/A,N/A,RGB Chameleon Pendant Necklace,decorative arts,"diamond, colourless sapphire, garnet, mystic topaz, cold enamel",1.1,1.8,2.6,cm,no,yes,yes,2022,2022,N/A,"pendant necklace, chameleon, diamond, sapphire, garnet, mystic topaz, cold enamel, foxtail chain",1,N/A,original,"Details
+
+
+
+
+
+
+
+RGB Chameleon Pendant Necklace, 2022
+made in 2022, UK hallmarked 2026
+diamond, colourless sapphire, garnet, mystic topaz, cold enamel pendant on foxtail chain
+mystic topaz is a natural colourless topaz stone enhanced with a thin metallic coating
+pendant: 2.6 cm. high x 1.8 cm. wide x 1.1 cm. deep
+chain: 51.4 cm. lengh",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0043_001(prapasri_suwannakhot_rgb_chameleon_pendant_necklace_2022055547).jpg?mode=max&w=2&hash=a4263024633c77bb689af3c902b46b71401d7aa7,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/prapasri-suwannakhot-43/318513?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+39f9e02b-e750-4998-a0a8-1817d3549b4d,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 44,GBP,700,900,N/A,N/A,938.56,1206.72,N/A,N/A,PRAPASRI SUWANNAKHOT,N/A,N/A,Mystic Ring - Chameleon Ring,decorative arts,"mystic topaz, silver, sapphires",5.2,2.5,2.7,cm,no,yes,yes,2022,2022,N/A,"ring, mystic topaz, silver, sapphires, jewelry",1,N/A,original,"Details
+
+
+
+
+
+
+
+Mystic Ring - Chameleon Ring, 2022
+made in 2022, UK hallmarked 2026
+mystic topaz, silver, sapphires
+mystic topaz is a natural colourless topaz stone enhanced with a thin metallic coating
+2.7 cm. high x 2.5 cm. wide x 5.2 cm. deep
+ring size: EU 60, UK S, US 9
+not recommend for resizing due to stone settings",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0044_001(prapasri_suwannakhot_mystic_ring_-_chameleon_ring_2022_d6598284054623).jpg?mode=max&w=2&hash=6d5ba43b09cbc66eb5abbf5414124a70c5029965,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/prapasri-suwannakhot-44/318514?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,1100.0,916.6666666666667
+7740569b-0bd1-48a0-8b0e-adf99c43b1ba,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 45,GBP,300,500,N/A,N/A,402.24,670.4,N/A,N/A,PRAPASRI SUWANNAKHOT,N/A,N/A,Half Eternity Orange Sapphire,decorative arts,"coloured diamonds, orange sapphire, silver, yellow gold plating",2.2,0.56,2,cm,no,yes,yes,2023,2023,N/A,"ring, orange sapphire, coloured diamonds, silver, yellow gold plating",1,N/A,original,"Details
+
+
+
+
+
+
+
+Half Eternity Orange Sapphire, 2023
+UK hallmarked, 2023
+coloured diamonds, orange sapphire, silver, yellow gold plating
+2 cm. high x 0.56 cm. wide x 2.2 cm. deep
+ring size: EU 57, UK Q, US 8
+not recommend for resizing due to stone settings",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0045_001(prapasri_suwannakhot_half_eternity_orange_sapphire_2023_d6598285054635).jpg?mode=max&w=2&hash=130c121df6109dfc57bfabe6c780a6fcefd10de6,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/prapasri-suwannakhot-45/318516?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,580.0,483.33333333333337
+a5cd0515-b6c4-4e4a-93f7-bcbeb36753e9,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 46,GBP,400,600,N/A,N/A,536.32,804.48,N/A,N/A,PRAPASRI SUWANNAKHOT,N/A,N/A,"TzTs ring, 2023",decorative arts,"silver, tanzanite, tsavorite",2.31,1.0,2.37,cm,no,yes,yes,2023,2023,N/A,"ring, silver, tanzanite, tsavorite",1,N/A,original,"Details
+
+
+
+
+
+
+
+TzTs ring, 2023
+UK hallmarked, 2023
+silver, tanzanite, tsavorite
+2.37 cm. high x 1.0 cm. wide x 2.31 cm. deep
+ring size: EU 57, UK Q, US 8
+not recommend for resizing due to stone settings",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0046_001(prapasri_suwannakhot_tzts_ring_2023_d6598286054653).jpg?mode=max&w=2&hash=dc925f06e96d8de2e40a7b12a2df208e4d5d62b3,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/prapasri-suwannakhot-46/318515?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,670.0,558.3333333333334
+eb61809d-6b33-416b-948d-fc4bc1eb130b,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 47,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,LUCIA ALONSO-LASHERAS SMITH,N/A,N/A,"Chez Richard, 2026",painting,oil on canvas board,N/A,24.4,32.8,cm,no,yes,yes,2026,2026,N/A,Chez Richard,1,N/A,original,"Details
+
+
+
+
+
+
+
+Chez Richard, 2026
+oil on canvas board
+32.8 cm. high x 24.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0047_001(lucia_alonso-lasheras_smith_chez_richard_2026_d6598287054711).jpg?mode=max&w=2&hash=a26f3e01d9ad9f755bdf6beee9587200626d883d,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lucia-alonso-lasheras-smith-47/318517?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+765dd759-b7aa-44bb-977f-ee0e4522536f,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 48,GBP,400,600,N/A,N/A,536.32,804.48,N/A,N/A,RUTH ANDERTON,N/A,N/A,In the Noodle Bar,painting,oil on canvas,N/A,30,30,cm,yes,yes,yes,2026,2026,N/A,"noodle bar, oil on canvas, table, food, chairs, interior, dining, people, decor, urban scene",1,N/A,original,"Details
+
+
+
+
+
+
+
+In the Noodle Bar, 2026
+signed 'Ruth S. Anderton 2026' (on reverse)
+oil on canvas
+30 cm. high x 30 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0048_001(ruth_anderton_in_the_noodle_bar_2026054725).jpg?mode=max&w=2&hash=e8d6cf75e55e512c3c3577ed56422feefb16c8b8,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/ruth-anderton-48/318518?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,670.0,558.3333333333334
+b9bb6bb7-990f-462a-8cc3-713453a9e85e,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 49,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,SOPHIE KHAN,N/A,N/A,"Anonymous, 2026",photographs,35mm photograph on hahnemühle paper,N/A,23.9,32.6,cm,no,yes,yes,2026,2026,N/A,photograph,1,N/A,original,"Details
+
+
+
+
+
+
+
+Anonymous, 2026
+35mm photograph on hahnemühle paper
+framed: 32.6 cm. high x 23.9 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0049_001(sophie_khan_anonymous_2026055635).jpg?mode=max&w=2&hash=fc3751d5b4dd09300c9244e24fe6888d5daabd11,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sophie-khan-49/318520?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+315a54be-662e-4ddb-b8a0-62e90bff2afa,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 50,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,SOPHIE KHAN,N/A,N/A,Path,photographs,35mm photograph on hahnemühle paper,N/A,32.5,44.6,cm,no,yes,yes,2026,2026,N/A,"path, nature, landscape, photography",1,N/A,original,"Details
+
+
+
+
+
+
+
+Path, 2026
+35mm photograph on hahnemühle paper
+framed: 44.6 cm. high x 32.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0050_001(sophie_khan_path_2026055650).jpg?mode=max&w=2&hash=eb2c622f3f779fc2e3163226ad5122dc4790c9f9,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sophie-khan-50/318519?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.0,167.5
+a7490ea0-b4f6-4f0b-8fa1-7e6a7b0a53eb,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 51,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,SOPHIE KHAN,N/A,N/A,"Moke, 2026",photographs,35mm photograph on hahnemühle paper,N/A,32.5,44.6,cm,no,yes,yes,2026,2026,N/A,,1,N/A,original,"Details
+
+
+
+
+
+
+
+Moke, 2026
+35mm photograph on hahnemühle paper
+framed: 44.6 cm. high x 32.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0051_001(sophie_khan_moke_2026_d6598291054738).jpg?mode=max&w=2&hash=b49970c0e18a9e74b1e7f77293347ce174be93b9,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sophie-khan-51/318522?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+adc4190b-313d-44a9-b13e-eddd69d6e99d,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 52,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,NATASHA WILCOCKSON,N/A,N/A,"Fallow Year, 2026",painting,acrylic on canvas,N/A,40,50,cm,yes,yes,yes,2026,2026,N/A,"fallow year, landscape, nature, fields, growth, rural, tranquility, season, earth, sky",1,N/A,original,"Details
+
+
+
+
+
+
+
+Fallow Year, 2026
+signed 'NW' (lower right) and '""Fallow Year"" July 2026 Natasha Wilcockson' (on reverse)
+acrylic on canvas
+50 cm. high x 40 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0052_001(natasha_wilcockson_fallow_year_2026055712).jpg?mode=max&w=2&hash=e2026d1547ea2806042d9e0398189b9fdd6bb408,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/natasha-wilcockson-52/318521?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,220.0,183.33333333333334
+186a0fc8-e86a-47cc-bc87-304374af2365,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 53,GBP,500,800,N/A,N/A,670.4,1072.64,N/A,N/A,NJALL MILLEN,N/A,N/A,"Clifton Nurseries, Maida Vale (Saturn glimpsed at pink dawn)",painting,oil on canvas,N/A,40,50,cm,yes,yes,yes,2026,2026,N/A,"Clifton Nurseries, Maida Vale, Saturn, dawn, oil on canvas, trees, garden, landscape, sky, color",1,N/A,original,"Details
+
+
+
+
+
+
+
+Clifton Nurseries, Maida Vale (Saturn glimpsed at pink dawn)
+signed 'Njall Millen 2026' (on reverse)
+oil on canvas
+50 cm. high x 40 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0053_001(neil_millen_clifton_nurseries_maida_vale055727).jpg?mode=max&w=2&hash=216696c55dab105dc23d00628c3288305a20af59,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/njall-millen-53/318523?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,850.0,708.3333333333334
+70453a39-68d0-4378-9532-538f35c102c5,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 54,GBP,400,700,N/A,N/A,536.32,938.56,N/A,N/A,NJALL MILLEN,N/A,N/A,"Dawn from the Artist's Window (A Clatter of Jackdaws, Cornwall)",painting,oil on canvas,N/A,30,40,cm,yes,yes,yes,2026,2026,N/A,"dawn,jackdaws,Cornwall,window,landscape,oil on canvas",1,N/A,original,"Details
+
+
+
+
+
+
+
+Dawn from the Artist's Window (A Clatter of Jackdaws, Cornwall), 2026
+signed 'Njall Millen 2026' (on reverse)
+oil on canvas
+40 cm. high x 30 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0054_000(neil_millen_duallium_2026054744).jpg?mode=max&w=2&hash=8c2fe250aa32da8febd4ba16d481ef682ac515e6,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/njall-millen-54/318524?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,750.0,625.0
+36a4b6eb-0297-4c87-96bb-2142b89047bb,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 55,GBP,400,700,N/A,N/A,536.32,938.56,N/A,N/A,NJALL MILLEN,N/A,N/A,"Lone Raven over Fields, St Agnes Beacon, with Copper Clouds",painting,oil on canvas,N/A,40,30,cm,yes,yes,yes,2026,2026,N/A,"raven, fields, St Agnes Beacon, clouds, oil painting",1,N/A,original,"Details
+
+
+
+
+
+
+
+Lone Raven over Fields, St Agnes Beacon, with Copper Clouds, 2026
+signed 'Njall Millen 2026' (on reverse)
+oil on canvas
+30 cm. high x 40 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0055_001(neil_millen_lone_raven_over_fields_st_agnes_beacon_with_copper_clouds054758).jpg?mode=max&w=2&hash=64fc0f1bcc6ee87f75275a0a8f0f0f96b88cf74f,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/njall-millen-55/318526?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,725.0,604.1666666666667
+63c1b16e-f99a-4dc6-b366-dddd13adfd0b,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 56,GBP,300,500,N/A,N/A,402.24,670.4,N/A,N/A,COOKIE BERGMAN,N/A,N/A,We Are Starstuff (edition 1/7),prints,Print on Aluminium Dibond,N/A,20,21,cm,yes,no,yes,N/A,N/A,N/A,"digital collage, starstuff, aluminum dibond, black oak frame, abstract design",1,N/A,original,"Details
+
+
+
+
+
+
+
+We Are Starstuff
+signed as edition 1/7
+Print on Aluminium Dibond, Black Oak Artbox frame. Digital collage
+print size: 21 cm. high x 20 cm. wide
+framed: 21.8 high x 20.8 cm wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0056_001(cookie_bergman_we_are_starstuff_d6598296054804).jpg?mode=max&w=2&hash=544baa6e323881720bd813e3bc1b6fb71a027830,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/cookie-bergman-56/318525?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,550.0,458.33333333333337
+8db0c197-6ff1-426e-8795-4a69b2a632f6,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 57,GBP,300,500,N/A,N/A,402.24,670.4,N/A,N/A,COOKIE BERGMAN,N/A,N/A,Postcard from a Speculative Past (edition 1/7),prints,"photography, giclée fine art print",N/A,29.7,17.8,cm,yes,no,yes,N/A,N/A,N/A,"postcard, speculative past, photography, giclée print, landscape, fine art, framed artwork",1,N/A,original,"Details
+
+
+
+
+
+
+
+Postcard from a Speculative Past
+signed as edition 1/7
+framed, photography, giclée fine art print
+17.8 cm. high x 29.7 cm. wide (print dimensions without frame)",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0057_001(cookie_bergman_postcard_from_a_speculative_past054817).jpg?mode=max&w=2&hash=d8618b754960b57750bfa4b4db8738d5fe67320c,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/cookie-bergman-57/318527?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,550.0,458.33333333333337
+7c163032-440b-47e6-85d5-370568b56bb4,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 58,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,SHARON SMART,N/A,N/A,Seascape I,drawing,pencil on paper,N/A,26.5,22.5,cm,yes,yes,yes,2019,2019,N/A,"seascape, ocean, sky, waves, horizon",1,N/A,original,"Details
+
+
+
+
+
+
+
+Seascape I, 2019
+signed 'Smart '19' (lower right)
+pencil on paper
+framed: 22.5 cm. high x 26.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0058_000(sharon_smart_seascape_i_2019054823).jpg?mode=max&w=2&hash=b062c211b5d6f580d7b75a71538a0c58e0e1c195,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sharon-smart-58/318528?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+a40f561d-f1a4-4227-b62b-fa632b5cc5a7,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 59,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,SHARON SMART,N/A,N/A,Seascape IV,drawing,pencil on paper,N/A,26.5,22.5,cm,yes,yes,yes,2019,2019,N/A,"seascape, ocean, water, clouds, horizon",1,N/A,original,"Details
+
+
+
+
+
+
+
+Seascape IV, 2019
+signed 'Smart '19' (lower right)
+pencil on paper
+framed: 22.5 cm. high x 26.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0059_000(sharon_smart_seascape_iv_2019054830).jpg?mode=max&w=2&hash=ac8bec8ecb95e95f9212cbfedb6abf30201352f1,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sharon-smart-59/318529?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,220.0,183.33333333333334
+d34c0e94-ad1a-41d5-9da1-b72b3f58e282,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 60,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,SHARON SMART,N/A,N/A,Seascape III,drawing,pencil on paper,N/A,26.5,22.5,cm,yes,yes,yes,2019,2019,N/A,"seascape, water, sky, horizon, clouds",1,N/A,original,"Details
+
+
+
+
+
+
+
+Seascape III, 2019
+signed 'Smart '19' (lower right)
+pencil on paper
+framed: 22.5 cm. high x 26.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0060_000(sharon_smart_seascape_iii_2019054836).jpg?mode=max&w=2&hash=80ec9989384d479ac22edafbf4771eee5d9e52d1,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/sharon-smart-60/318531?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,220.0,183.33333333333334
+fbf5a9f9-6260-44d1-a7a0-9999e1cd9ebf,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 61,GBP,200,300,N/A,N/A,268.16,402.24,N/A,N/A,KEVIN FRAZER,N/A,N/A,"Combestone Tor, Dartmoor",photographs,hahnemühle fine art photographic 308 GSM print,N/A,46,61,cm,no,no,yes,N/A,N/A,N/A,"Combestone Tor, Dartmoor, landscape, photographic print",1,N/A,original,"Details
+
+
+
+
+
+
+
+Combestone Tor, Dartmoor
+hahnemühle fine art photographic 308 GSM print
+61 cm. high x 46 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0061_000(kevin_frazer_defenders_of_the_realm054843).jpg?mode=max&w=2&hash=5b26e2f0bc4511ecf1adec1b06e54a8f98709169,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/kevin-frazer-61/318530?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,335.0,279.1666666666667
+82bc5a95-c4cb-44ad-8e07-7c3a163ec301,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 62,GBP,200,300,N/A,N/A,268.16,402.24,N/A,N/A,KEVIN FRAZER,N/A,N/A,Defenders of the Realm,photographs,hahnemühle fine art photographic 308 GSM print,N/A,35.5,51,cm,no,no,yes,N/A,N/A,N/A,"landscape, sky, mountains, rock formations, photography",1,N/A,original,"Details
+
+
+
+
+
+
+
+Defenders of the Realm
+hahnemühle fine art photographic 308 GSM print
+51 cm. high x 35.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0062_000(kevin_frazer_combestone_tor_dartmoor054850).jpg?mode=max&w=2&hash=4c2877e0725e3ce11901f7da8ae914389a768500,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/kevin-frazer-62/318532?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,335.0,279.1666666666667
+1a7f3bcc-dfee-46df-b8a0-65248bd5fa19,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 63,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,KEVIN FRAZER,N/A,N/A,Synchro Pair,photographs,hahnemühle fine art photographic 308 GSM print,N/A,30.5,46,cm,no,no,yes,N/A,N/A,N/A,"pair, fine art, photographic print, blue, vertical, abstract",1,N/A,original,"Details
+
+
+
+
+
+
+
+Synchro Pair
+hahnemühle fine art photographic 308 GSM print
+46 cm. high x 30.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0063_000(kevin_frazer_synchro_pair054855).jpg?mode=max&w=2&hash=77bcdcacf13f12abea5d3f4a7f4e92ceee020772,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/kevin-frazer-63/318534?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.0,167.5
+835e8944-1812-46b4-817e-c259afc007c6,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 64,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,FERNANDO LOBINA,N/A,N/A,"Iceland, 2022",photographs,photographic print,N/A,30,22,cm,no,yes,yes,2022,2022,N/A,"Iceland, landscape, photographic print",1,N/A,original,"Details
+
+
+
+
+
+
+
+Iceland, 2022
+photograpic print
+22 cm. high x 30 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0064_000(fernando_lobina_iceland_2022054901).jpg?mode=max&w=2&hash=117f67f8dfcb5adc3b732ef82472346634b53aea,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/fernando-lobina-64/318533?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+66070709-b096-4bfd-9abb-a341e9df12b3,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 65,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,CAMILLA ELLINGSEN WEBSTER,N/A,N/A,"Open, 2018",photographs,photograph,N/A,12.7,12.7,cm,yes,yes,yes,2018,2018,N/A,photograph,1,N/A,original,"Details
+
+
+
+
+
+
+
+Open, 2018
+signed 'A/P ""Open"" CW'
+photograph
+image: 12.7 cm. high x 12.7 cm. wide
+framed: 25.4 cm. high x 25.4 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0065_001(camilla_ellingsen_webster_open_2018055744).jpg?mode=max&w=2&hash=7e032bf50943e02aea991116971ed690d2e482d7,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/camilla-ellingsen-webster-65/318535?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,200.0,166.66666666666669
+2fd1ecf7-be93-488e-b3cb-8b4a9aa29802,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 66,GBP,200,300,N/A,N/A,268.16,402.24,N/A,N/A,CAMILLA ELLINGSEN WEBSTER,N/A,N/A,"Lolita, 2018",photographs,photograph,N/A,25.4,25.4,cm,yes,yes,yes,2018,2018,N/A,photograph,1,N/A,original,"Details
+
+
+
+
+
+
+
+Lolita, 2018
+signed 'A/P ""Lolita""CW' (centre)
+photograph
+image: 25.4 cm. high × 25.4 cm. wide
+framed: 50.8 cm. high × 50.8 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0066_001(camilla_ellingsen_webster_lolita_2018055752).jpg?mode=max&w=2&hash=b306ea2cec45d93be6f75619bd6262fa6cdee73e,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/camilla-ellingsen-webster-66/318536?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,350.0,291.6666666666667
+096988f7-1f9d-4b8b-bb2f-ab80970610aa,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 67,GBP,200,300,N/A,N/A,268.16,402.24,N/A,N/A,CAMILLA ELLINGSEN WEBSTER,N/A,N/A,"Path, 2023",photographs,photography,N/A,50.8,50.8,cm,yes,yes,yes,2023,2023,N/A,"path, photography",1,N/A,original,"Details
+
+
+
+
+
+
+
+Path, 2023
+signed 'A/P ""Path"" CW' (centre)
+photography
+50.8 cm. high x 50.8 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0067_000(camilla_ellingsen_webster_path_2023054921).jpg?mode=max&w=2&hash=0c04e7ba0929b68ee4d4bce4972862d2658a6afe,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/camilla-ellingsen-webster-67/318538?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,350.0,291.6666666666667
+be7664f2-c300-401a-b802-0202b24c8537,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 68,GBP,50,100,N/A,N/A,67.04,134.08,N/A,N/A,BENJAMIN SMITH,N/A,N/A,Glider,photographs,35mm film on photo paper,N/A,66,66,cm,no,no,yes,N/A,N/A,N/A,glider,1,N/A,original,"Details
+
+
+
+
+
+
+
+Glider
+35mm film on photo paper
+framed: 66 cm. high x 66 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0068_001(benjamin_smith_glider054936).jpg?mode=max&w=2&hash=6c8dc653fbcff9a37e3eb7ca9992be0745cad290,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/benjamin-smith-68/318537?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,100.0,83.33333333333334
+066e884d-9426-4bb1-9276-b17b393de906,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 69,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,BENJAMIN SMITH,N/A,N/A,Untitled #4,photographs,35mm film printed on rag paper,N/A,42,56,cm,no,no,no,N/A,N/A,N/A,"untitled, 35mm film, framed, paper",1,N/A,original,"Details
+
+
+
+
+
+
+
+Untitled #4
+35mm film printed on rag paper
+framed: 56 cm. high x 42 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0069_001(benjamin_smith_untitled_4054950).jpg?mode=max&w=2&hash=985e332182332ab8566f251239d67d5298bf4564,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/benjamin-smith-69/318539?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,201.12,167.60000000000002
+ee1891d2-5ad5-42ef-8587-e05ef5200d9f,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 70,GBP,50,100,N/A,N/A,67.04,134.08,N/A,N/A,BENJAMIN SMITH,N/A,N/A,Untitled #6,photographs,35mm film printed on rag paper,N/A,42,56,cm,no,no,no,N/A,N/A,N/A,"film, rag paper, framed, abstract",1,N/A,original,"Details
+
+
+
+
+
+
+
+Untitled #6
+35mm film printed on rag paper
+framed: 56 cm. high x 42 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0070_001(benjamin_smith_untitled_6055001).jpg?mode=max&w=2&hash=bf7a07a683481dfe7e46e288f1cf220da1739649,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/benjamin-smith-70/318540?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,100.0,83.33333333333334
+8c28b4f2-add7-41cd-9e75-488b0cb74506,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 71,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,ALBA RODRÍGUEZ,N/A,N/A,"Rayo, 2026",prints,photo etching,N/A,22.5,15,cm,yes,yes,yes,2026,2026,N/A,"light, abstract, textures, patterns, shapes",1,N/A,original,"Details
+
+
+
+
+
+
+
+Rayo, 2026
+signed 'Rayo AlbaR'26' and numbered 1/10 in pencil
+photo etching
+15 cm. high x 22.5 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0071_000(alba_rodriguez_rayo_2026055007).jpg?mode=max&w=2&hash=96e8351993f62c16e589c8151c2a75d44e9f59af,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/alba-rodriguez-71/318542?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,220.0,183.33333333333334
+267f492c-19b0-4800-8651-4a4074e24709,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 72,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,ALBA RODRÍGUEZ,N/A,N/A,"Silhouettes, 2026",prints,etching and aquatint,N/A,16,10,cm,yes,yes,yes,2026,2026,N/A,silhouettes,1,N/A,original,"Details
+
+
+
+
+
+
+
+Silhouettes, 2026
+signed 'Silhouettes AlbaR'26' and numbered edition 1/10
+etching and aquatint
+10 cm. high x 16 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0072_000(alba_rodriguez_silhouettes_2026055013).jpg?mode=max&w=2&hash=89aedcf827712e7325d9194ac66d960d5befa2b9,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/alba-rodriguez-72/318541?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,220.0,183.33333333333334
+7c6e34da-c900-40a3-ba2f-844331530eed,Artwork,Christies,24637,2026-08-20,London,Studio 1766: Christie’s London Staff Art Show,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/lots/4000,Lot 73,GBP,100,200,N/A,N/A,134.08,268.16,N/A,N/A,ALBA RODRIGUEZ,N/A,N/A,"Tree house, 2026",prints,photo etching,N/A,15,22.5,cm,yes,yes,yes,2026,2026,N/A,tree house,1,N/A,original,"Details
+
+
+
+
+
+
+
+Tree house, 2026
+signed 'Tree house AlbaR'26' and numbered edition 1/10
+photo etching
+22.5 cm. high x 15 cm. wide",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24637_0073_000(alba_rodirguez_tree_house_2026055019).jpg?mode=max&w=2&hash=32132926feb8e8c7f4ba74e99caa3660b82c41e9,https://onlineonly.christies.com/s/studio-1766-christies-london-staff-art-show/alba-rodriguez-73/318543?ldp_breadcrumb=back,7591.7,26253.34,52064.1,16.46,109.51,4.61,N/A,N/A,N/A,gpt-4.1-mini,DISABLED_VRAM,220.0,183.33333333333334

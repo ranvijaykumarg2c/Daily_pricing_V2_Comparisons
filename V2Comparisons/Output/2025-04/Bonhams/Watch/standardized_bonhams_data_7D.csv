@@ -1,0 +1,10 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 2,J. Brooks,<NA>,Bonhams,2531.35,3797.02,None,3125.0,2604.166666666667
+Lot 5,Stenning,<NA>,Bonhams,3164.19,3797.02,None,3500.0,2916.666666666667
+Lot 22,William Langford,<NA>,Bonhams,1518.81,2278.21,None,1895.0,1579.1666666666667
+Lot 31,Rolex,Prince,Bonhams,3797.02,5062.7,None,4325.0,3604.166666666667
+Lot 36,Patek Philippe,Calatrava,Bonhams,5062.7,7594.05,None,6750.0,5625.0
+Lot 58,Rolex,GMT-Master,Bonhams,7594.05,10125.4,None,8950.0,7458.333333333334
+Lot 98,Cartier,Panthère,Bonhams,7594.05,10125.4,None,8950.0,7458.333333333334
+Lot 106,Cartier,Tank Française,Bonhams,6328.37,8859.72,None,7540.0,6283.333333333334
+Lot 119,IWC,Portuguese,Bonhams,3797.02,6328.37,None,4875.0,4062.5

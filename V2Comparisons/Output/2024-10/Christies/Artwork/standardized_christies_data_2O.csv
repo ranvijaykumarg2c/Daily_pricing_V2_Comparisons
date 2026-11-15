@@ -1,0 +1,127 @@
+lot_number,artist_name,artwork_title,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Martin Schongauer,The Nativity,100000,150000,120000.0,100000.0
+Lot 2,Albrecht Dürer,The Holy Family with the three Hares,70000,100000,85000.0,70833.33333333334
+Lot 3,Albrecht Dürer,Saint Eustace,200000,300000,275000.0,229166.6666666667
+Lot 4,Albrecht Dürer,Melencolia I,300000,500000,450000.0,375000.0
+Lot 5,Lucas Van Leyden,Abraham and Isaac,30000,50000,45000.0,37500.0
+Lot 6,Lucas Van Leyden,The Dance of Saint Mary Magdalene,30000,50000,45000.0,37500.0
+Lot 7,Augustin Hirschvogel,River Landscape with Rocks at Left and Right,25000,35000,30000.0,25000.0
+Lot 8,Hanns Lautensack,"Mountainous Landscape, in the Middle a River and a Citadel",8000,12000,10500.0,8750.0
+Lot 9,Jean Duvet,"La bête a sept têtes et a dix cornes (The Beast with Seven Heads and Ten Horns), from: L'Apocalypse figurée",25000,35000,30000.0,25000.0
+Lot 10,Joannes Van Doetecum The Elder,"Euntes in Emmaus (The Way to Emmaus), from: The Large Landscapes",7000,10000,8500.0,7083.333333333334
+Lot 11,Hendrick Goltzius,Hercules killing Cacus,30000,50000,45000.0,37500.0
+Lot 12,Hendrik Goudt,Ceres seeking her Daughter,4000,6000,5000.0,4166.666666666667
+Lot 13,Jacques Bellange,Les trois Maries au tombeau (The Holy Women at the Sepulchre),50000,70000,65000.0,54166.66666666667
+Lot 14,Jacques Callot,La Foire de l'Impruneta (Deuxième Planche),4000,6000,5500.0,4583.333333333334
+Lot 15,Peter Paul Rubens,Saint Catherine,12000,18000,15000.0,12500.0
+Lot 16,Anthony Van Dyck,Jan de Wael,12000,18000,15000.0,12500.0
+Lot 17,Christoffel Jegher,The Garden of Love,6000,8000,12000.0,10000.0
+Lot 18,Rembrandt Harmensz. Van Rijn,Landscape with three gabled Cottages beside a Road,150000,250000,200000.0,166666.6666666667
+Lot 19,Rembrandt Harmensz. Van Rijn,A Scholar in his Study ('Faust'),120000,180000,150000.0,125000.0
+Lot 20,Rembrandt Harmensz. Van Rijn,Christ crucified between the two Thieves: 'The Three Crosses',1000000,1500000,1200000.0,1000000.0
+Lot 21,Rembrandt Harmensz. Van Rijn,The Entombment,100000,150000,145000.0,120833.33333333334
+Lot 22,Rembrandt Harmensz. Van Rijn,"Jan Lutma, Goldsmith",150000,250000,210000.0,175000.0
+Lot 23,"Antonio Canal, Called Canaletto","Imaginary View of Padua, from: Vedute altre prese da i luoghi altre ideate da Antonio Canal",15000,25000,22000.0,18333.333333333336
+Lot 24,Giovanni Battista Tiepolo,Adoration of the Magi,7000,10000,8500.0,7083.333333333334
+Lot 25,Bernardo Bellotto,Vue de la Grande Place du Vieux Marché du Coté de l'Eglise de la Sainte Croix et la Rue de la Porte neuve ('Der Altmarkt zu Dresden'),4000,6000,7500.0,6250.0
+Lot 26,Thomas Gainsborough,Wooded Landscape with two Country Carts and Figures,5000,7000,8500.0,7083.333333333334
+Lot 27,Francisco De Goya Y Lucientes,"Y aun no se van. (And still they don't go.), Plate 59 from: Los Caprichos",15000,25000,18500.0,15416.666666666668
+Lot 28,Francisco De Goya Y Lucientes,"Dibersión de España (Spanish Entertainment), from: The Bulls of Bordeaux",80000,120000,150000.0,125000.0
+Lot 29,Honoré Daumier,Le ventre législatif (The Legislative Belly),5000,7000,8500.0,7083.333333333334
+Lot 30,Charles Meryon,Le petit pont,7000,10000,8500.0,7083.333333333334
+Lot 31,Rodolphe Bresdin,Le bon samaritain ('Abd-el Kader secourant un chrétien'),8000,12000,10500.0,8750.0
+Lot 32,Félix Bracquemond,Portrait d'Edmond de Goncourt,7000,10000,8500.0,7083.333333333334
+Lot 33,Odilon Redon,Le liseur,8000,12000,10500.0,8750.0
+Lot 34,Édouard Manet,Les courses à Longchamps (The Races),20000,30000,25000.0,20833.333333333336
+Lot 35,Edgar Degas,Mlle Bécat aux Ambassadeurs,25000,35000,30000.0,25000.0
+Lot 36,Camille Pissarro,"Paysage sous bois, à l'Hermitage (Pontoise) (Woodlands at the Hermitage)",15000,20000,18500.0,15416.666666666668
+Lot 37,Félix Vallotton,Le bain (The Bath),30000,50000,45000.0,37500.0
+Lot 38,Félix Vallotton,La paresse (Laziness),40000,60000,55000.0,45833.333333333336
+Lot 39,Pierre Bonnard,La petite blanchisseuse,12000,18000,15000.0,12500.0
+Lot 40,Pierre Bonnard,"Maison dans la cour, from Quelques aspects de la vie de Paris",6000,8000,7500.0,6250.0
+Lot 41,Henri De Toulouse-Lautrec,"La Clownesse assise (Mademoiselle Cha-u-ka-o), from Elles",80000,120000,95000.0,79166.66666666667
+Lot 42,Henri De Toulouse-Lautrec,"Femme au tub - Le tub, from Elles",15000,25000,22000.0,18333.333333333336
+Lot 43,Edvard Munch,Das kranke Kind (The Sick Child),50000,70000,65000.0,54166.66666666667
+Lot 45,Edvard Munch,The Brooch. Eva Mudocci,100000,150000,125000.0,104166.66666666667
+Lot 46,Jacques Villon,Les cartes ou La réussite,60000,80000,75000.0,62500.0
+Lot 47,Käthe Kollwitz,Brustbild einer Arbeiterfrau mit blauem Tuch (Bust of a Worker Woman with Blue Shawl),20000,30000,25000.0,20833.333333333336
+Lot 48,Henri Matisse,Le grand bois,20000,30000,25000.0,20833.333333333336
+Lot 49,Erich Heckel,Fränzi liegend (Fränzi reclining),100000,150000,125000.0,104166.66666666667
+Lot 50,Karl Schmidt-Rottluff,Liegendes Mädchen (Reclining Girl),5000,7000,6500.0,5416.666666666667
+Lot 51,Emil Nolde,Tänzerin,120000,180000,150000.0,125000.0
+Lot 52,Emil Nolde,Prophet,7000,10000,8500.0,7083.333333333334
+Lot 53,Emil Nolde,Fischdampfer (Fishing Steamer),10000,15000,12000.0,10000.0
+Lot 54,Emil Nolde,"Dampfer (groß, dunkel) (Steamship [Large, Dark])",10000,15000,12500.0,10416.666666666668
+Lot 55,Georges Braque,Fox,8000,12000,10500.0,8750.0
+Lot 56,Jacques Villon,Yvonne D. de profil,18000,25000,22000.0,18333.333333333336
+Lot 57,Lyonel Feininger,Gelmeroda VII,6000,8000,7500.0,6250.0
+Lot 58,Ernst Ludwig Kirchner,Kopf Ludwig Schames (Head of Ludwig Schames),12000,18000,15000.0,12500.0
+Lot 59,Max Beckmann,Selbstbildnis mit steifem Hut (Self-Portrait in Bowler Hat),20000,30000,25000.0,20833.333333333336
+Lot 60,Max Beckmann,"Gruppenbildnis Edenbar (Group Portrait, Eden Bar)",20000,30000,25000.0,20833.333333333336
+Lot 61,Heinrich Campendonk,Sitzender Harlekin (Sitting Harlequin),8000,12000,10000.0,8333.333333333334
+Lot 62,Marc Chagall,Selbstbildnis mit Grimasse (Self-Portrait with Grimace),10000,15000,12000.0,10000.0
+Lot 63,Paul Klee,Rechnender Greis (Old Man calculating),12000,18000,15000.0,12500.0
+Lot 64,Joan Miró,L'éveil du géant,15000,20000,18500.0,15416.666666666668
+Lot 65,Joan Miró,La géante,18000,25000,22000.0,18333.333333333336
+Lot 66,Joan Miró,One Plate from: Série noire et rouge,20000,30000,25000.0,20833.333333333336
+Lot 67,Joan Miró,One Plate from: Série noire et rouge,20000,30000,25000.0,20833.333333333336
+Lot 69,Pablo Picasso,Françoise sur fond gris,80000,120000,105000.0,87500.0
+Lot 70,Pablo Picasso,Nature morte au verre sous la lampe,150000,200000,185000.0,154166.6666666667
+Lot 71,Blanche Lazzell,Red and White Petunia,8000,12000,10500.0,8750.0
+Lot 72,Bror Julius Olsson Nordfeldt,The Skyrocket,8000,12000,9500.0,7916.666666666667
+Lot 73,Bror Julius Olsson Nordfeldt,A Spring Day (Mother and Child),15000,25000,18000.0,15000.0
+Lot 74,Ethel Mars,Lady with a Fan and Sunflowers,5000,7000,6500.0,5416.666666666667
+Lot 75,Blanche Lazzell,West Virginia Hills,12000,18000,15000.0,12500.0
+Lot 76,Frances H. Gearhart,Austerity,6000,8000,7500.0,6250.0
+Lot 77,Gustave Baumann,April,8000,12000,10500.0,8750.0
+Lot 78,Mabel Hewit,Artist Working,2500,3500,3500.0,2916.666666666667
+Lot 79,Winslow Homer,Eight Bells,50000,70000,65000.0,54166.66666666667
+Lot 80,Winslow Homer,Perils of the Sea,40000,60000,55000.0,45833.333333333336
+Lot 81,Winslow Homer,A Voice from the Cliffs,40000,60000,55000.0,45833.333333333336
+Lot 82,Winslow Homer,"Fly Fishing, Saranac Lake",40000,60000,55000.0,45833.333333333336
+Lot 83,James Abbott Mcneill Whistler,"Nocturne, from First Venice Set",50000,70000,65000.0,54166.66666666667
+Lot 84,James Abbott Mcneill Whistler,"The Two Doorways, from First Venice Set",12000,18000,15000.0,12500.0
+Lot 85,James Abbott Mcneill Whistler,"Draped Figure, reclining",40000,60000,55000.0,45833.333333333336
+Lot 86,Maurice Brazil Prendergast,Evening on the Pier No. 3,40000,60000,55000.0,45833.333333333336
+Lot 87,John Singer Sargent,Study of a Young Man (seated),10000,15000,12000.0,10000.0
+Lot 88,Childe Hassam,The White Kimono,6000,8000,7500.0,6250.0
+Lot 89,George Wesley Bellows,A Stag at Sharkey's,60000,80000,75000.0,62500.0
+Lot 90,Thomas Hart Benton,Going West,15000,20000,18500.0,15416.666666666668
+Lot 91,Thomas Hart Benton,"Huck Finn, from The Missouri State Capitol Mural Series",6000,8000,7500.0,6250.0
+Lot 92,John Steuart Curry,John Brown,3000,5000,4500.0,3750.0
+Lot 93,Diego Rivera,Emiliano Zapata,20000,30000,25000.0,20833.333333333336
+Lot 94,Elizabeth Catlett,Sharecropper,8000,12000,10000.0,8333.333333333334
+Lot 95,Elizabeth Catlett,Sharecropper,8000,12000,10500.0,8750.0
+Lot 96,Edward Hopper,"Night Shadows, from Six American Etchings (Series I)",20000,30000,25000.0,20833.333333333336
+Lot 97,Edward Hopper,Evening Wind,20000,30000,25000.0,20833.333333333336
+Lot 98,Edward Hopper,Night on the El Train,150000,200000,175000.0,145833.33333333334
+Lot 99,Edward Hopper,American Landscape,50000,70000,65000.0,54166.66666666667
+Lot 100,Edward Hopper,The Cat Boat,40000,60000,55000.0,45833.333333333336
+Lot 101,Edward Hopper,Night in the Park,50000,70000,65000.0,54166.66666666667
+Lot 102,Edward Hopper,East Side Interior,15000,20000,18500.0,15416.666666666668
+Lot 103,Edward Hopper,The Lonely House,150000,200000,175000.0,145833.33333333334
+Lot 104,Martin Lewis,Glow of the City,20000,30000,25000.0,20833.333333333336
+Lot 105,Martin Lewis,Rain on Murray Hill,8000,12000,10500.0,8750.0
+Lot 106,Martin Lewis,Shadow Dance,20000,30000,25000.0,20833.333333333336
+Lot 107,Reginald Marsh,Tattoo - Shave - Haircut,15000,20000,18500.0,15416.666666666668
+Lot 108,John Marin,Woolworth Building (The Dance),20000,30000,25000.0,20833.333333333336
+Lot 109,John Marin,"Brooklyn Bridge, No. 6 (Swaying)",7000,10000,8500.0,7083.333333333334
+Lot 110,Jan Matulka,Arrangement - New York,20000,30000,25000.0,20833.333333333336
+Lot 111,Louis Lozowick,New York,40000,60000,55000.0,45833.333333333336
+Lot 112,Louis Lozowick,Brooklyn Bridge,5000,7000,6500.0,5416.666666666667
+Lot 113,Stow Wengenroth,Manhattan Gateway,6000,8000,7500.0,6250.0
+Lot 114,Howard Cook,Skyscraper,4000,6000,5000.0,4166.666666666667
+Lot 115,Samuel Margolies,Man's Canyons,7000,10000,8500.0,7083.333333333334
+Lot 116,Benton M. Spruance,Traffic Control,25000,35000,30000.0,25000.0
+Lot 117,Benton M. Spruance,"The People Work - Morning, Noon, Evening, Night",25000,35000,30000.0,25000.0
+Lot 118,Raphael Soyer,Bowery Nocturne,5000,7000,6500.0,5416.666666666667
+Lot 119,Clare Leighton,"Bread Line, New York",5000,7000,6500.0,5416.666666666667
+Lot 120,Stuart Davis,Barber Shop Chord,20000,30000,25000.0,20833.333333333336
+Lot 121,Stuart Davis,Sixth Avenue El,20000,30000,25000.0,20833.333333333336
+Lot 122,Benton M. Spruance,Arrangement for Drums,7000,10000,8500.0,7083.333333333334
+Lot 123,Arshile Gorky,Mannikin,10000,15000,12000.0,10000.0
+Lot 124,Charles Sheeler,Barn Abstraction,70000,100000,85000.0,70833.33333333334
+Lot 125,Charles Sheeler,Roses,5000,7000,6500.0,5416.666666666667
+Lot 126,Charles Sheeler,Yachts,6000,8000,7500.0,6250.0
+Lot 127,Charles Sheeler,Delmonico Building,8000,12000,9500.0,7916.666666666667
+Lot 128,Charles Sheeler,Industrial Series #1,30000,50000,45000.0,37500.0

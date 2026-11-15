@@ -1,0 +1,153 @@
+manufacturer,model,title,year_of_manufacture,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Ferrari,512 BB,1979 Ferrari 512 BB,1979,None,None,1325000.0,1325000.0
+Ferrari,California T 70th Anniversary Edition “The Ingrid”,2018 Ferrari California T 70th Anniversary Edition “The Ingrid”,2018,None,None,215000.0,215000.0
+Ferrari,Testarossa,"1986 Ferrari Testarossa ""Monospecchio""",1986,None,None,185000.0,185000.0
+Mercedes-Benz,280 SL Pagoda,1970 Mercedes-Benz 280 SL Pagoda,1970,None,None,132500.0,132500.0
+Ferrari,360 Spider,2003 Ferrari 360 Spider,2003,None,None,85000.0,85000.0
+Ferrari,250 GT Berlinetta Lusso,1963 Ferrari 250 GT Berlinetta Lusso,1963,None,None,112500000.0,112500000.0
+Porsche,911 GT2 RS Weissach Package,2018 Porsche 911 GT2 RS Weissach Package,2018,None,None,325000.0,325000.0
+Alfa Romeo,Montreal,1974 Alfa Romeo Montreal,1973,None,None,132500.0,132500.0
+Mercedes-Benz,300 SE Cabriolet,1967 Mercedes-Benz 300 SE Cabriolet,1967,None,None,385000.0,385000.0
+Mercedes-Benz,300 SL Gullwing Coupe,1955 Mercedes-Benz 300 SL Gullwing Coupe,1955,None,None,19850000.0,19850000.0
+Ferrari,365 GTB/4 Daytona Spider,1971 Ferrari 365 GTB/4 Daytona Spider,1971,None,None,4950000.0,4950000.0
+Porsche,911 Turbo,1991 Porsche 911 Turbo,1991,None,None,165000.0,165000.0
+Maserati,3500 GT Vignale Spyder,1962 Maserati 3500 GT Vignale Spyder,1962,None,None,3250000.0,3250000.0
+Ferrari,Superamerica,2005 Ferrari Superamerica,2005,None,None,325000.0,325000.0
+BMW,2002,1971 BMW 2002,1971,None,None,49500.0,49500.0
+Porsche,911 Speedster,1989 Porsche 911 Speedster,1989,None,None,1325000.0,1325000.0
+Dodge,Challenger SRT Hellcat,2016 Dodge Challenger SRT Hellcat,2016,None,None,38500.0,38500.0
+Ford,De Luxe,1940 Ford De Luxe “Woodie” Station Wagon,1940,None,None,132500.0,132500.0
+Ferrari,Dino 246 GT,1972 Ferrari Dino 246 GT,1972,None,None,1125000.0,1125000.0
+Porsche,914,1971 Porsche 914,1971,None,None,385000.0,385000.0
+Porsche,911 Turbo,1996 Porsche 911 Turbo,1996,None,None,215000.0,215000.0
+Subaru,Impreza WRX STi,2007 Subaru Impreza WRX STi,2007,None,None,18500.0,18500.0
+Fiat,600 Jolly,1960 Fiat 600 Jolly,1960,None,None,45000.0,45000.0
+Porsche,356 “Pre-A” 1500 Coupe,1955 Porsche 356 “Pre-A” 1500 Coupe,1955,None,None,215000.0,215000.0
+Delage,D6-75,1939 Delage D6-75 3.0-Liter Figoni et Falaschi Three-Position Drophead Coupe,1939,None,None,4850000.0,4850000.0
+Ferrari,275 GTB,1965 Ferrari 275 GTB,1965,None,None,132500000.0,132500000.0
+Ferrari,"F12berlinetta 70th Anniversary Edition ""The Phil""","2017 Ferrari F12berlinetta 70th Anniversary Edition ""The Phil""",2017,None,None,3250000.0,3250000.0
+Ferrari,575M Maranello,2002 Ferrari 575M Maranello,2002,None,None,385000.0,385000.0
+Mercedes-Benz,190 SL,1962 Mercedes-Benz 190 SL,1962,None,None,165000.0,165000.0
+Mercedes-Benz,E 55 AMG,1999 Mercedes-Benz E 55 AMG,1999,None,None,18500.0,18500.0
+Citroën,DS 21 Chapron Cabriolet de Série,1969 Citroën DS 21 Chapron Cabriolet de Série,1969,None,None,1125000.0,1125000.0
+Maserati,Mistral 3.5 Spyder,1964 Maserati Mistral 3.5 Spyder,1964,None,None,1985000.0,1985000.0
+Mercedes-Benz,300 SL Roadster,1960 Mercedes-Benz 300 SL Roadster,1960,None,None,2200000.0,2200000.0
+Rolls-Royce,Phantom,2010 Rolls-Royce Phantom,2010,None,None,85000.0,85000.0
+Packard,Custom Super Eight One-Eighty 1806 Darrin Convertible Victoria,1940 Packard Custom Super Eight One-Eighty 1806 Darrin Convertible Victoria,1940,None,None,3250000.0,3250000.0
+Ford,GT Heritage Edition,2006 Ford GT Heritage Edition,2006,None,None,1150000.0,1150000.0
+Ferrari,365 GTC/4,1972 Ferrari 365 GTC/4,1972,None,None,1325000.0,1325000.0
+Mercedes-Benz,450 SL,1976 Mercedes-Benz 450 SL,1976,None,None,38500.0,38500.0
+Alfa Romeo,8C Spider,2009 Alfa Romeo 8C Spider,2009,None,None,1125000.0,1125000.0
+RUF,Rt Roadster,2011 RUF Rt Roadster,2011,None,None,1325000.0,1325000.0
+Allard,K2,1951 Allard K2,1951,None,None,385000.0,385000.0
+Porsche,911 S “Soft-Window” Targa,1967 Porsche 911 S “Soft-Window” Targa,1967,None,None,1325000.0,1325000.0
+BMW,503 Coupe,1959 BMW 503 Coupe,1959,None,None,1325000.0,1325000.0
+RUF,CTR 2 Sport,1998 RUF CTR 2 Sport,1998,None,None,2375000.0,2375000.0
+Honda,NSX-R,1994 Honda NSX-R,1994,None,None,165000.0,165000.0
+Lancia,Delta HF Integrale Evoluzione II Collezione Edizione Finale,"1995 Lancia Delta HF Integrale Evoluzione II Collezione ""Edizione Finale""",1995,None,None,85000.0,85000.0
+Alfa Romeo,8C Competizione,2008 Alfa Romeo 8C Competizione,2008,None,None,1150000.0,1150000.0
+Rivian,R1S Quad,2026 Rivian R1S Quad Pebble Beach,2026,None,None,72000.0,72000.0
+Ford,Super De Luxe,"1942 Ford Super De Luxe ""Woodie"" Station Wagon",1942,None,None,165000.0,165000.0
+Auburn,120 Eight Boattail Speedster,1929 Auburn 120 Eight “Boattail” Speedster,1929,None,None,2375000.0,2375000.0
+Lamborghini,Diablo SV Monterey Edition,1998 Lamborghini Diablo SV Monterey Edition,1998,None,None,1325000.0,1325000.0
+Lamborghini,400 GT Interim,1966 Lamborghini 400 GT “Interim”,1966,None,None,3850000.0,3850000.0
+Ferrari,575M Maranello,2003 Ferrari 575M Maranello,2003,None,None,295000.0,295000.0
+Arnolt-Bristol,DeLuxe Convertible,1955 Arnolt-Bristol DeLuxe Convertible,1955,None,None,1325000.0,1325000.0
+Maserati,MC12 Stradale,2005 Maserati MC12 Stradale,2005,None,None,2800000.0,2800000.0
+Alfa Romeo,6C 2500 Super Sport Cabriolet,1949 Alfa Romeo 6C 2500 Super Sport Cabriolet by Pinin Farina,1949,None,None,2850000.0,2850000.0
+Bugatti,Chiron,2018 Bugatti Chiron,2018,None,None,3150000.0,3150000.0
+Mercedes-Benz,300 SL Roadster,1960 Mercedes-Benz 300 SL Roadster,1960,None,None,2350000.0,2350000.0
+Ford,Super DeLuxe Woodie Sportsman,"1947 Ford Super DeLuxe ""Woodie"" Sportsman",1947,None,None,1325000.0,1325000.0
+Ferrari,360 Modena,2004 Ferrari 360 Modena,2004,None,None,165000.0,165000.0
+Mercedes-Benz,220 Cabriolet A,1952 Mercedes-Benz 220 Cabriolet A,1952,None,None,385000.0,385000.0
+Porsche,911 Targa 4 GTS 50 Years Porsche Design Edition,2022 Porsche 911 Targa 4 GTS 50 Years Porsche Design Edition,2022,None,None,145000.0,145000.0
+Ford,GT,2006 Ford GT,2006,None,None,825000.0,825000.0
+Jaguar,XK 140 MC Drop Head Coupe,1956 Jaguar XK 140 MC Drop Head Coupe Ex-Briggs Cunningham/Denise McCluggage,1956,None,None,1985000.0,1985000.0
+Dodge,Challenger SRT Super Stock,2021 Dodge Challenger SRT Super Stock,2021,None,None,38500.0,38500.0
+Siata,208CS Lungo 2+2 Bertone Berlinetta,1952 Siata 208CS Lungo 2+2 Bertone Berlinetta,1952,None,None,3250000.0,3250000.0
+Lancia,Aurelia B24 S Spider America,1955 Lancia Aurelia B24 S Spider America,1955,None,None,3250000.0,3250000.0
+Lotus,Etna,1984 Lotus Etna,1984,None,None,275000.0,275000.0
+Mercedes-Benz,G 320 Cabriolet,2001 Mercedes-Benz G 320 Cabriolet,2001,None,None,178500.0,178500.0
+Land Rover,Range Rover Supercharged Autobiography,2012 Land Rover Range Rover Supercharged Autobiography,2012,None,None,18500.0,18500.0
+Subaru,Impreza 22B STi,1998 Subaru Impreza 22B STi,1998,None,None,165000.0,165000.0
+Ford,Mustang Boss 429,1970 Ford Mustang Boss 429,1970,None,None,1325000.0,1325000.0
+Porsche,356 A Carrera GT/GT Lightweight Coupe,1957 Porsche 356 A Carrera GT/GT Lightweight Coupe,1957,None,None,8250000.0,8250000.0
+Porsche,911 Turbo S,1997 Porsche 911 Turbo S,1997,None,None,85000.0,85000.0
+Auburn,851 Super-Charged Boattail Speedster,"1935 Auburn 851 Super-Charged ""Boattail"" Speedster",1935,None,None,3850000.0,3850000.0
+Porsche,911 Turbo Coupe,1987 Porsche 911 Turbo Coupe,1987,None,None,85000.0,85000.0
+Porsche,911 Targa,1977 Porsche 911 Targa,1977,None,None,132500.0,132500.0
+Bocar,XP-4,1959 Bocar XP-4,1959,None,None,1325000.0,1325000.0
+Alfa Romeo,Giulietta Sprint Speciale,1961 Alfa Romeo Giulietta Sprint Speciale,1961,None,None,385000.0,385000.0
+Aston Martin,V8 Vantage Volante,1989 Aston Martin V8 Vantage Volante,1989,None,None,1125000.0,1125000.0
+Porsche,911 Reimagined by Singer DLS,1991 Porsche 911 Reimagined by Singer DLS “Dynamics and Lightweight Study”,1991,None,None,1325000.0,1325000.0
+Toyota,Supra RZ,1995 Toyota Supra RZ,1995,None,None,115000.0,115000.0
+Dodge,Viper ACR Extreme Aero Package,2017 Dodge Viper ACR Extreme Aero Package,2017,None,None,85000.0,85000.0
+Porsche,356 A 1600 Speedster,1957 Porsche 356 A 1600 Speedster,1957,None,None,1325000.0,1325000.0
+Lancia,Aurelia B20 S GT Series VI,1958 Lancia Aurelia B20 S GT Series VI Pinin Farina Coupe,1958,None,None,1325000.0,1325000.0
+Volkswagen,Super Beetle Cabriolet,1978 Volkswagen Super Beetle Cabriolet,1978,None,None,18500.0,18500.0
+Maserati,Indy 4900,1971 Maserati Indy 4900,1971,None,None,1125000.0,1125000.0
+Chevrolet,"Corvette 283/283 ""Fuelie""","1957 Chevrolet Corvette 283/283 ""Fuelie""",1957,None,None,1325000.0,1325000.0
+Ferrari,360 Spider,2003 Ferrari 360 Spider,2003,None,None,215000.0,215000.0
+Mercedes-Benz,SLS AMG Black Series,2014 Mercedes-Benz SLS AMG Black Series,2014,None,None,385000.0,385000.0
+Alfa Romeo,Giulietta SZ,1960 Alfa Romeo Giulietta SZ by Zagato,1960,None,None,3850000.0,3850000.0
+Cadillac,Eldorado Biarritz,1958 Cadillac Eldorado Biarritz,1958,None,None,1325000.0,1325000.0
+BAC,Mono,2019 BAC Mono,2019,None,None,165000.0,165000.0
+Porsche,911 Speedster,2019 Porsche 911 Speedster,2019,None,None,215000.0,215000.0
+Koenigsegg,CCXR,2008 Koenigsegg CCXR,2008,None,None,3250000.0,3250000.0
+Rolls-Royce,Phantom V James Young Sedanca De Ville,1965 Rolls-Royce Phantom V James Young Sedanca De Ville,1965,None,None,4950000.0,4950000.0
+Chevrolet,Camaro ZL1 1LE,2023 Chevrolet Camaro ZL1 1LE,2023,None,None,52000.0,52000.0
+Buick,Skylark,1953 Buick Skylark,1953,None,None,1325000.0,1325000.0
+Rolls-Royce,Corniche II,1988 Rolls-Royce Corniche II,1988,None,None,165000.0,165000.0
+Porsche,911 Turbo,1996 Porsche 911 Turbo,1996,None,None,285000.0,285000.0
+Shelby,GT500 KR Convertible,1968 Shelby GT500 KR Convertible,1968,None,None,1325000.0,1325000.0
+Fiat,8V Zagato Berlinetta,1953 Fiat 8V Zagato Berlinetta,1953,None,None,4950000.0,4950000.0
+Aston Martin,DB4 Series IV,1961 Aston Martin DB4 Series IV,1961,None,None,3250000.0,3250000.0
+Porsche,911 T Targa,1973 Porsche 911 T Targa,1973,None,None,65000.0,65000.0
+Mercedes-Benz,300 Sc Coupe,1956 Mercedes-Benz 300 Sc Coupe,1956,None,None,3850000.0,3850000.0
+Ferrari,275 GTB/4,1967 Ferrari 275 GTB/4,1967,None,None,102500000.0,102500000.0
+Porsche,911 GT3 Touring,2024 Porsche 911 GT3 Touring,2024,None,None,285000.0,285000.0
+Aston Martin,V8 Vantage X-Pack,1987 Aston Martin V8 Vantage X-Pack,1987,None,None,1125000.0,1125000.0
+Porsche,911 S Coupe,1968 Porsche 911 S Coupe,1968,None,None,1125000.0,1125000.0
+Porsche,356 C Emory Outlaw Cabriolet,"1964 Porsche 356 C ""Emory Outlaw"" Cabriolet",1964,None,None,495000.0,495000.0
+Ferrari,F355 Spider,1997 Ferrari F355 Spider,1997,None,None,215000.0,215000.0
+Ferrari,Dino 246 GTS,1972 Ferrari Dino 246 GTS,1972,None,None,1125000.0,1125000.0
+Porsche,911 RUF Carrera 3.4,1987 Porsche 911 RUF Carrera 3.4 “Goldfinger”,1987,None,None,1125000.0,1125000.0
+Honda,Z600,1974 Honda Z600,1974,None,None,38500.0,38500.0
+Chevrolet,Corvette Z06 Convertible,2015 Chevrolet Corvette Z06 Convertible,2015,None,None,72500.0,72500.0
+Rolls-Royce,Phantom I Brewster Marlborough Town Car Landaulet,1931 Rolls-Royce Phantom I Brewster Marlborough Town Car Landaulet,1931,None,None,3850000.0,3850000.0
+Aston Martin,DB2/4 MK III Drop Head Coupe,1958 Aston Martin DB2/4 MK III Drop Head Coupe,1958,None,None,2375000.0,2375000.0
+Porsche,"356 B 1600 Super D'Ieteren ""Twin Grille"" Roadster","1962 Porsche 356 B 1600 Super D'Ieteren ""Twin Grille"" Roadster",1962,None,None,1785000.0,1785000.0
+Dodge,Viper GTC ACR Extreme Aero Package,2017 Dodge Viper GTC ACR Extreme Aero Package,2017,None,None,112500.0,112500.0
+Mercedes-Benz,280 SL Pagoda,1969 Mercedes-Benz 280 SL Pagoda,1969,None,None,165000.0,165000.0
+Ferrari,Dino 246 GTS,1973 Ferrari Dino 246 GTS,1973,None,None,1125000.0,1125000.0
+Maserati,Sebring 3500 GTI Vignale Series I,1963 Maserati Sebring 3500 GTI Vignale Series I,1963,None,None,1325000.0,1325000.0
+Ford,V8 De Luxe Roadster,1936 Ford V8 De Luxe Roadster,1936,None,None,132500.0,132500.0
+Ferrari,Dino 246 GT,1971 Ferrari Dino 246 GT,1971,None,None,1150000.0,1150000.0
+Ferrari,250 GT Berlinetta Lusso,1963 Ferrari 250 GT Berlinetta Lusso,1963,None,None,8250000.0,8250000.0
+Cord,812 Supercharged Sportsman Cabriolet,"1937 Cord 812 Supercharged ""Sportsman"" Cabriolet",1937,None,None,3250000.0,3250000.0
+Lancia,Appia Zagato GTE,1959 Lancia Appia Zagato GTE,1959,None,None,385000.0,385000.0
+Mercedes-Benz,G 36 AMG,1997 Mercedes-Benz G 36 AMG,1997,None,None,215000.0,215000.0
+Fiat,508 S “Balilla” Berlinetta Aerodinamica,1935 Fiat 508 S “Balilla” Berlinetta Aerodinamica,1935,None,None,825000.0,825000.0
+Stearns-Knight,F6-85 Roadster,1928 Stearns-Knight F6-85 Roadster,1928,None,None,2850000.0,2850000.0
+Nissan,Silvia Spec.R,1999 Nissan Silvia Spec.R,1999,None,None,13500.0,13500.0
+Mercedes-Benz,SLR McLaren Prototype,"2009 Mercedes-Benz SLR McLaren Prototype ""Stealth""",2009,None,None,850000.0,850000.0
+Jaguar,E-Type Series 1 4.2 Coupe,1967 Jaguar E-Type Series 1 4.2 Coupe,1967,None,None,725000.0,725000.0
+Ferrari,330 GTC,1967 Ferrari 330 GTC,1967,None,None,3250000.0,3250000.0
+Jaguar,XK 140 MC Drop Head Coupe,1955 Jaguar XK 140 MC Drop Head Coupe,1955,None,None,385000.0,385000.0
+Pierce-Arrow,Model 38 Five-Passenger Touring Car,1919 Pierce-Arrow Model 38 Five-Passenger Touring Car,1919,None,None,1325000.0,1325000.0
+Lamborghini,Countach 5000 QV,1988 Lamborghini Countach 5000 QV,1988,None,None,2150000.0,2150000.0
+Ferrari,F40,1991 Ferrari F40,1991,None,None,32000000.0,32000000.0
+Porsche,944 Turbo Cup,"1988 Porsche 944 Turbo Cup ""Mackenzie""",1988,None,None,42500.0,42500.0
+Lamborghini,Miura P400,1968 Lamborghini Miura P400,1968,None,None,1150000.0,1150000.0
+Porsche,911 Carrera RS,1992 Porsche 911 Carrera RS,1992,None,None,85000.0,85000.0
+BMW,328 Roadster,1939 BMW 328 Roadster,1939,None,None,4950000.0,4950000.0
+Talbot-Lago,T120 Sport Cabriolet,1936 Talbot-Lago T120 Sport Cabriolet,1936,None,None,2850000.0,2850000.0
+Honda,NSX-R,1995 Honda NSX-R,1995,None,None,72000.0,72000.0
+Lamborghini,Countach 25th Anniversary Edition,1989 Lamborghini Countach 25th Anniversary Edition,1989,None,None,2350000.0,2350000.0
+Ferrari,F430 Spider,2006 Ferrari F430 Spider,2006,None,None,215000.0,215000.0
+Aston Martin,DB AR1,2003 Aston Martin DB AR1,2003,None,None,495000.0,495000.0
+Aston Martin,DB2 Vantage Drop Head Coupe,1953 Aston Martin DB2 Vantage Drop Head Coupe,1953,None,None,825000.0,825000.0
+Land Rover,Defender 110 “Artemis K2”,2025 Land Rover Defender 110 “Artemis K2”,2025,None,None,72000.0,72000.0
+Alfa Romeo,2000 Spider,1961 Alfa Romeo 2000 Spider,1961,None,None,198500.0,198500.0
+Ferrari,365 GTB/4 Daytona,1973 Ferrari 365 GTB/4 Daytona,1973,None,None,2385000.0,2385000.0
+Porsche,356 A 1600 Speedster,1958 Porsche 356 A 1600 Speedster,1958,None,None,1325000.0,1325000.0

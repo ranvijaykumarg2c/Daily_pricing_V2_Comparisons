@@ -1,0 +1,905 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+f00cd89f-3fbb-4542-81b9-3355d74b7ed0,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 501,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,AN ARCHAIC BRONZE DAGGER,decorative arts,bronze,N/A,N/A,25.5,cm,no,yes,yes,1200,"Previously from a French private collection, appraised by Michel Beurdeley and Guy Raindre, Paris, 26 November 1991, no. 35.","bronze dagger, antique weapon, Chinese art, Shang dynasty, decorative carving, ancient object",1,N/A,original,25.5 cm. (10 in.) high,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0501_000(an_archaic_bronze_dagger_ge_china_shang_dynasty_circa_1200_bc012151).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/archaic-bronze-dagger-ge-501/312187?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2026-06,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2700.0,2250.0
+5d26c29a-55ac-486f-818a-041983418c59,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 502,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,N/A,N/A,N/A,AN ARCHAISTIC BRONZE COIN MOLD,sculpture,bronze,N/A,N/A,18.5,cm,no,yes,yes,1644,"Previously from a French private collection, appraised by Michel Beurdeley and Guy Raindre, Paris, 26 November 1991, no. 33.","archaistic bronze, coin mold, China, Qing dynasty",1,N/A,original,"18.5 cm. (7
+1
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0502_000(an_archaistic_bronze_coin_mold_china_qing_dynasty012218).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/archaistic-bronze-coin-mold-502/312188?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1400.0,1166.6666666666667
+585ef4be-447d-4710-b18b-881ac3d60225,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 503,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A BROWN-GLAZED CUT AWAY CARVED PEONY DECORATED VASE,ceramics,ceramic,N/A,N/A,34,cm,no,yes,yes,1200,"Previously from a French private collection, appraised by Michel Beurdeley and Guy Raindre, Paris, 26 November 1991, no. 1.","vase, peony, carved design, brown glaze, floral decoration, Song dynasty, ceramic, Chinese art",1,N/A,original,"34 cm. (13
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0503_000(a_brown-glazed_cut_away_carved_peony_decorated_vase_china_song_dynasty012239).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/brown-glazed-cut-away-carved-peony-decorated-vase-503/312189?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2540.0,2116.666666666667
+2199f7f7-b045-4182-a2fa-16aea2c248f6,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 504,EUR,1500,2000,N/A,N/A,1632.3,2176.4,N/A,N/A,A CIZHOU,N/A,N/A,LOTUS PILLOW,ceramics,ceramic,N/A,11.25,N/A,cm,no,yes,yes,1234,"Previously from a French private collection, appraised by Michel Beurdeley and Guy Raindre, Paris, 26 November 1991, no. 8.","lotus, pillow, ceramic, brown, floral, patterned, Song Dynasty, Chinese, decorative, traditional",1,N/A,original,"28.5 cm. (11
+1
+⁄
+4
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0504_000(a_cizhou_lotus_pillow_china_song-jin_dynasty012249).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/cizhou-lotus-pillow-504/312191?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2401.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1850.0,1541.6666666666667
+6c26d63f-62cc-4a27-a3dd-6de78254d7f1,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 505,EUR,800,1200,N/A,N/A,870.56,1305.84,N/A,N/A,N/A,N/A,N/A,A GREEN-GLAZED TRIPOD CENSER,ceramics,ceramic,N/A,N/A,N/A,cm,no,yes,yes,0,"Previously in the collection of Michel Duchange, acquired before 1990, thence by descent in the family.","censer, green glaze, tripod, Han dynasty, decorative art, ancient China, vessel, round shape, articulated foot",1,N/A,original,"The dating of this lot is consistent with the thermoluminescence test, Oxford, no. 566k72, 29 October 1990.
+19.7 cm. (7
+3
+⁄
+4
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0505_000(a_green-glazed_tripod_censer_china_han_dynasty012255).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/green-glazed-tripod-censer-505/312190?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1077.57,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1140.0,950.0
+c9e900ec-fccc-42fe-8e51-b3fa27d4b284,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 506,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,"A GREEN GLAZED POTTERY CYLINDRICAL VESSEL AND COVER, BOSHANZUN",ceramics,glazed pottery,N/A,N/A,28.8,cm,no,yes,yes,0,"Previously in the collection of Michel Duchange, acquired before 1990, thence by descent in the family.","cylindrical vessel, green glaze, cover, ornate design, pottery, legs, ancient China, decorative art, relief carvings",1,N/A,original,"The dating of this lot is consistent with the thermoluminescence test, Oxford, no. 566k82, 29 October 1990.
+28.8 cm. (11
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0506_000(a_green_glazed_pottery_cylindrical_vessel_and_cover_boshanzun_china_ha012303).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/green-glazed-pottery-cylindrical-vessel-cover-boshanzun-506/312193?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1620.0,1350.0
+f350462d-e4cb-464a-952a-92e3e2daa20e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 507,EUR,600,800,N/A,N/A,652.92,870.56,N/A,N/A,A FAHUA,N/A,N/A,FLORAL JAR,ceramics,gilt-bronze mount,N/A,N/A,10.8,cm,no,yes,yes,16th century,"Previously in the collection of Michel Duchange, thence by descent in the family.","floral jar, blue background, gilt-bronze mount, flowers, leaves, Ming dynasty, Chinese art, ceramic, decorative arts, antique, circular shape",1,N/A,original,"10.8 cm. (4
+1
+⁄
+4
+ in.) high, gilt-bronze mount",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0507_000(a_fahua_floral_jar_china_ming_dynasty_16th_century012309).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/fahua-floral-jar-507/312192?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1017.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,760.0,633.3333333333334
+99a281ba-1e16-4ba2-8c2a-f8ac0e7da9e7,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 508,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A TURQUOISE-GLAZED OPENWORK BRUSH POT,ceramics,ceramic,N/A,N/A,9,cm,no,yes,yes,1722,"Previously in the collection of Michel Duchange, thence by descent in the family.","brush pot, turquoise glaze, openwork, dragon, Qing dynasty, Kangxi period",1,N/A,original,"9 cm. (3
+1
+⁄
+2
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0508_000(a_turquoise-glazed_openwork_brush_pot_china_qing_dynasty_kangxi_period_d6591043015114).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/turquoise-glazed-openwork-brush-pot-508/312194?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.3,1360.25
+0cf2db64-22a4-491c-9e6d-5ca0e2f03a18,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 509,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A SMALL TURQUOISE-GLAZED RECTANGULAR TRAY,ceramics,turquoise glaze,N/A,15.4,N/A,cm,no,yes,yes,1722,"Previously in the collection of Michel Duchange, thence by descent in the family.","tray, turquoise, rectangular, ceramic, Qing dynasty, Kangxi period",1,N/A,original,15.4 cm. (6 in.) wide,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0509_000(a_small_turquoise-glazed_rectangular_tray_china_qing_dynasty_kangxi_pe_d6591044015119).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-turquoise-glazed-rectangular-tray-509/312195?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.0,1360.0
+7e756add-eaff-47ad-85f0-93b9386ecafd,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 510,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A TURQUOISE-GLAZED MELON RIBBED VASE,ceramics,ceramic,N/A,N/A,20.7,cm,no,yes,yes,1722,"Previously in the collection of Michel Duchange, thence by descent in the family.","vase, turquoise, melon, ribbed, Qing dynasty, Kangxi period, porcelain",1,N/A,original,"20.7 cm. (8
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0510_000(a_turquoise-glazed_melon_ribbed_vase_china_qing_dynasty_kangxi_period012351).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/turquoise-glazed-melon-ribbed-vase-510/312196?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1630.0,1358.3333333333335
+16a528b4-ecba-49d1-acee-26fa04a48c86,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 511,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A SMALL TURQUOISE-GLAZED QUATREFOIL JARDINIERE,ceramics,turquoise glaze,N/A,5,N/A,cm,no,yes,yes,1662,"Previously in the collection of Michel Duchange, thence by descent in the family.","jardiniere, turquoise glaze, quatrefoil shape",1,N/A,original,12.8 cm. (5 in.) wide,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0511_000(a_small_turquoise-glazed_quatrefoil_jardiniere_china_qing_dynasty_kang012421).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-turquoise-glazed-quatrefoil-jardiniere-511/312200?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1630.0,1358.3333333333335
+1001f6b1-3474-4e0c-9a1a-febe2b6dd8e8,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 512,EUR,600,800,N/A,N/A,652.92,870.56,N/A,N/A,N/A,N/A,N/A,"A SMALL RED-GLAZED VASE, HU",ceramics,"red glaze, gilt-bronze",N/A,N/A,16,cm,no,yes,yes,18th century,"Previously in the collection of Michel Duchange, thence by descent in the family.","vase, red glaze, gilt-bronze, Qing dynasty, 18th century",1,N/A,original,"16 cm. (6
+1
+⁄
+4
+ in.) high, gilt-bronze mount",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0512_000(a_small_red-glazed_vase_hu_china_qing_dynasty_18th_century012448).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-red-glazed-vase-hu-512/312198?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1061.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,761.0,634.1666666666667
+cd4a2c67-7a07-42b0-ab21-6dab84639249,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 513,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A BLUE AND WHITE 'LOTUS' HOOKAH BASE,ceramics,ceramic,N/A,N/A,32,cm,no,yes,yes,1722,"Previously in the collection of Michel Duchange, thence by descent in the family.","hookah base, blue and white, lotus, flowers, porcelain, China, Qing dynasty, Kangxi period",1,N/A,original,"32 cm. (12
+5
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0513_000(a_blue_and_white_lotus_hookah_base_china_qing_dynasty_kangxi_period012515).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/blue-white-lotus-hookah-base-513/312197?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5161.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+ad32202e-572a-4165-bec0-f7ccf91346c2,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 514,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A Blue and White 'Lotus Scroll' Jar,ceramics,ceramic,N/A,N/A,42,cm,no,yes,yes,1662,"Previously in the collection of Michel Duchange, thence by descent in the family.","jar, lotus, blue and white, floral pattern, Qing dynasty, Kangxi period",1,N/A,original,"42 cm. (16
+1
+⁄
+2
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0514_000(a_blue_and_white_lotus_scroll_jar_china_qing_dynasty_kangxi_period012534).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/blue-white-lotus-scroll-jar-514/312202?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.97,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.3,1360.25
+460e9715-c19c-44b1-a757-f4fa62d4d4cf,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 515,EUR,1500,2500,N/A,N/A,1632.3,2720.5,N/A,N/A,N/A,N/A,N/A,A PAIR OF BLUE AND WHITE SQUARE BOTTLE VASES,ceramics,porcelain,N/A,26.3,26.3,cm,no,yes,yes,1662,"Previously in the collection of Michel Duchange, thence by descent in the family.","bottle vases, blue and white, floral motifs, birds, landscapes, Qing dynasty, Kangxi period, square shape, porcelain, Chinese art, decorative arts",1,N/A,original,"26.3 cm (10
+3
+⁄
+8
+ in.) and 26.3 cm. (10
+7
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0515_000(a_pair_of_blue_and_white_square_bottle_vases_china_qing_dynasty_kangxi012540).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pair-blue-white-square-bottle-vases-515/312201?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2288.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2200.0,1833.3333333333335
+892e9da8-00ed-4198-9fbc-f047a52cca22,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 516,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,TWO BLUE AND WHITE 'ANTIQUITIES' EWERS AND COVERS,ceramics,porcelain,N/A,N/A,20.3,cm,no,yes,yes,1662,"Previously in the collection of Michel Duchange, thence by descent in the family.","ewers, covers, blue and white, Chinese porcelain, Qing dynasty, floral design, decorative arts, antique",2,N/A,original,20.3 cm. (8 in.) high,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0516_000(two_blue_and_white_antiquities_ewers_and_covers_china_qing_dynasty_kan012547).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/two-blue-white-antiquities-ewers-covers-516/312199?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+1adf0ecb-f39d-4c15-afe8-ac93d9760bb1,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 517,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A PAIR OF BLUE AND WHITE STEM CUPS,ceramics,porcelain,N/A,3.75,N/A,cm,no,yes,yes,1722,"Previously in the collection of Michel Duchange, thence by descent in the family.","blue and white, stem cups, porcelain, Chinese, Qing dynasty, Kangxi period, floral patterns, decorative design",1,N/A,original,"9.6 cm. (3
+3
+⁄
+4
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0517_000(a_pair_of_blue_and_white_stem_cups_china_qing_dynasty_kangxi_period012554).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pair-blue-white-stem-cups-517/312203?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.0,1360.0
+ee946672-3e41-47c1-bff6-a9f3bcd7efb4,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 518,EUR,3000,5000,N/A,N/A,3264.6,5441.0,N/A,N/A,N/A,N/A,N/A,A BLUE AND WHITE CAT-FORM LANTERN,ceramics,ceramic,N/A,8.375,N/A,cm,no,yes,yes,1722,"Previously in the collection of Michel Duchange, thence by descent in the family.","cat, lantern, blue, white, porcelain, Qing dynasty, Kangxi period",1,N/A,original,"21.3 cm. (8
+3
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0518_000(a_blue_and_white_cat-form_lantern_china_qing_dynasty_kangxi_period_d6591053015240).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/blue-white-cat-form-lantern-518/312204?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4074.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4350.0,3625.0
+710eb5e8-5903-411c-b039-6abea35047dc,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 519,EUR,3000,5000,N/A,N/A,3264.6,5441.0,N/A,N/A,N/A,N/A,N/A,A Famille Rose Figure of an Immortal,ceramics,porcelain,N/A,N/A,32.8,cm,no,yes,yes,19th century,"Previously in the collection of Michel Duchange, thence by descent in the family.","figure, immortal, porcelain, clothing, decoration, smile, hat, base, expression, colors",1,N/A,original,"32.8 cm. (12
+7
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0519_000(a_famille_rose_figure_of_an_immortal_china_qing_dynasty_19th_century_d6591054015246).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/famille-rose-figure-immortal-519/312205?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4807.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4350.0,3625.0
+4aaad0c6-36d2-454b-a1b5-14d7b985304e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 520,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,N/A,N/A,N/A,"A GREEN-GLAZED BALUSTER VASE, MEIPING",ceramics,ceramic,N/A,N/A,37.8,cm,no,no,yes,N/A,"Previously in the collection of Michel Duchange, thence by descent in the family.","vase, green glaze, hongmu stand, baluster form, Chinese, Qing dynasty, 18th century, decoration, ceramic, crackle glaze",1,N/A,original,"37.8 cm. (14
+7
+⁄
+8
+ in.) high, 
+hongmu 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0520_000(a_green-glazed_baluster_vase_meiping_china_qing_dynasty_18th-19th_cent015251).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/green-glazed-baluster-vase-meiping-520/312206?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.77,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1350.0,1125.0
+53de4d29-23c4-4b26-94ee-345d0ca9c818,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 521,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A LARGE BLACK-LACQUERED PORCELAIN BALUSTER VASE,ceramics,black-lacquered porcelain,N/A,N/A,39.8,cm,no,yes,yes,19th century,"Previously in the collection of Michel Duchange, thence by descent in the family.","vase, porcelain, black lacquer, baluster, Qing dynasty",1,N/A,original,"39.8 cm. (15
+5
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0521_000(a_large_black-lacquered_porcelain_baluster_vase_possibly_china_qing_dy015308).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/large-black-lacquered-porcelain-baluster-vase-521/312207?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+0449a942-7925-46f1-aee6-353429435711,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 522,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A TURQUOISE-GLAZED TOAD-FORM JARDINIERE,ceramics,ceramic,N/A,11.25,N/A,cm,no,no,yes,N/A,"Previously in the collection of Michel Duchange, thence by descent in the family.","toad, jardiniere, turquoise, ceramic, Qing dynasty",1,N/A,original,"28.5 cm. (11
+1
+⁄
+4
+) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0522_000(a_turquoise-glazed_toad-form_jardiniere_china_qing_dynasty_18th-19th_c015324).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/turquoise-glazed-toad-form-jardiniere-522/312212?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.13,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+8520d2a1-0af7-4a93-8376-b97f91182a71,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 523,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A Pair of White-Glazed Toad-Form Jardinieres,ceramics,glazed ceramic,N/A,10.875,N/A,cm,no,yes,yes,19th century,"Previously in the collection of Michel Duchange, thence by descent in the family.","jardinieres,toads,ceramics,white glaze,eyes,feet,decorative art,Chinese,Qing dynasty,19th century",2,N/A,original,"27.5 cm. (10
+7
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0523_000(a_pair_of_white-glazed_toad-form_jardinieres_china_qing_dynasty_19th_c015348).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pair-white-glazed-toad-form-jardinieres-523/312210?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+2a6da703-1c48-4e9d-a8d2-e9f8ec862e90,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 524,EUR,3000,5000,N/A,N/A,3264.6,5441.0,N/A,N/A,N/A,N/A,N/A,"AN IRON-RED AND GILT-DECORATED EWER AND COVER, DUOMUHU",ceramics,ceramic,N/A,N/A,17.5,cm,no,yes,yes,1662,"Previously in the collection of Michel Duchange, thence by descent in the family.","ewer, cover, floral design, red decoration, porcelain, Qing dynasty, China",1,N/A,original,"17.5 cm. (6
+7
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0524_000(an_iron-red_and_gilt-decorated_ewer_and_cover_duomuhu_china_qing_dynas_d6591059015419).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/iron-red-gilt-decorated-ewer-cover-duomuhu-524/312211?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4807.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4200.0,3500.0
+f5881378-fc76-4dfb-8278-ec34ae670e36,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 525,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,AN EXPORT,N/A,N/A,KING LOUIS XV ARMS IMARI SALT-CELLAR,ceramics,porcelain,N/A,3.125,N/A,cm,no,yes,yes,1725,"Previously in the collection of Michel Duchange, thence by descent in the family.","salt cellar, porcelain, Imari, floral patterns, blue accents, gold detailing, octagonal shape, historical emblem, Asian art, decorative arts",1,N/A,original,"7.8 cm. (3
+1
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0525_000(an_export_king_louis_xv_arms_imari_salt-cellar_china_qing_dynasty_circ_d6591060015425).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/export-king-louis-xv-arms-imari-salt-cellar-525/312208?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+d138ac89-afdd-4d2b-9f45-7230da0922af,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 526,EUR,800,1200,N/A,N/A,870.56,1305.84,N/A,N/A,N/A,N/A,N/A,A Pair of Famille Rose 'Day Bed' Cups and Saucers,ceramics,porcelain,N/A,11,6.7,cm,no,yes,yes,1736,"Previously in the collection of Michel Duchange, thence by descent in the family.","cups, saucers, figures, landscapes, floral patterns, animals",1,N/A,original,"6.7 cm. (2
+5
+⁄
+8
+ in.) and 11 cm. (4
+3
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0526_000(a_pair_of_famille_rose_day_bed_cups_and_saucers_china_qing_dynasty_qia_d6591061015432).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pair-famille-rose-day-bed-cups-saucers-526/312213?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1271.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1150.0,958.3333333333334
+02fb6ce4-eaa2-4fc3-b20e-94d1b923a9fb,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 527,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,"CHINA, QING DYNASTY, 18TH-19TH CENTURY",painting,ink and colour on paper,N/A,66.5,53.8,cm,no,no,yes,N/A,"Previously in the collection of Michel Duchange, thence by descent in the family.","European merchant, shop, trees, Chinese figures, traditional clothing, landscape, shoes, architecture, interaction, accessories",1,N/A,original,"Framed and glazed, ink and colour on paper.
+53.8 x 66.5 cm. (21
+1
+⁄
+8
+ x 26
+1
+⁄
+8
+ in.), 
+hongmu 
+frame",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0527_000(a_painting_depicting_a_european_and_merchants_china_qing_dynasty_18th-_d6591062015440).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/painting-depicting-european-merchants-527/312209?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.0,1360.0
+8ba69d68-062b-416d-a849-8815bbf80625,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 528,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A LARGE PAINTING DEPICTING THE PREPARATION OF A PARADE,painting,ink and colour on paper,N/A,N/A,N/A,N/A,no,no,yes,N/A,"Previously in the collection of Michel Duchange, thence by descent in the family.","parade, figures, buildings, trees, water, mountainous landscape, traditional clothing, musicians, instruments, decorations",1,N/A,original,"Framed and glazed, ink and colour on paper.",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0528_000(a_large_painting_depicting_the_preparation_of_a_parade_china_qing_dyna012859).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/large-painting-depicting-preparation-parade-528/312214?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.0,1360.0
+cd2caa1a-eaed-4423-8f96-db93dca5200b,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 529,EUR,3000,5000,N/A,N/A,3264.6,5441.0,N/A,N/A,N/A,N/A,N/A,A Reverse-Glass Painting of a Parrot,painting,reverse glass,N/A,43,73.2,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","parrot, flowers, tree, leaves, fruit, blue, white, gold, landscape, bird",1,N/A,original,"73.2 x 43 cm. (28
+7
+⁄
+8
+ x 16
+7
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0529_000(a_reverse-glass_painting_of_a_parrot_china_qing_dynasty_18th_century_t012909).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/reverse-glass-painting-parrot-529/312215?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4074.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4350.0,3625.0
+49266e56-c6eb-4551-aa0c-797231541e1e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 530,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,"CHINESE SCHOOL (CHINA, QING DYNASTY, 19TH CENTURY)",N/A,N/A,A French pavilion amid junks arriving at the port,painting,oil on canvas,N/A,40.5,33.5,cm,no,yes,yes,1800,"Previously in the collection of Michel Duchange, thence by descent in the family.","ship, sea, mountains, flags, boats, harbor, clouds, water, coastline, sky",1,N/A,original,"Framed, oil on canvas
+33.5 x 40.5 cm. (13
+1
+⁄
+4
+ x 16 in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0530_000(chinese_school_a_french_pavilion_amid_junks_arriving_at_the_port015518).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/chinese-school-china-qing-dynasty-19th-century-530/312217?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1800.0,1500.0
+0e8ab828-af80-4f36-9204-7baa7ca2ac59,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 531,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,CHINESE SCHOOL,N/A,N/A,European ships and junks off the port of Shanghai,painting,oil on canvas,N/A,77.7,44.2,cm,no,yes,yes,1865,"Previously in the collection of Michel Duchange, thence by descent in the family.","European ships, junks, port of Shanghai, water, clouds, buildings, docks, people, boats, landscape",1,N/A,original,"Framed, oil on canvas
+44.2 x 77.7 cm. (17
+3
+⁄
+8
+ x 30
+5
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0531_000(chinese_school_european_ships_and_junks_off_the_port_of_shanghai015556).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/chinese-school-china-qing-dynasty-circa-1865-531/312220?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2700.0,2250.0
+806165bf-db2b-412f-bae4-f7da50eef3dd,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 532,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,"CHINESE SCHOOL (CHINA, QING DYNASTY, 19TH CENTURY)",N/A,N/A,French three-masted ship in asian waters,painting,oil on canvas,N/A,66.2,53,cm,no,yes,yes,1800,"Previously in the collection of Michel Duchange, thence by descent in the family.","three-masted ship, ocean, clouds, flags, coastline, sailing, water, boat, sky, masts",1,N/A,attributed to,"Framed, oil on canvas
+53 x 66.2 cm. (20
+7
+⁄
+8
+ x 26 in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0532_000(chinese_school_french_three-masted_ship_in_asian_waters015620).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/chinese-school-china-qing-dynasty-19th-century-532/312216?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+752c0d6e-59ac-48d9-8dc2-3878447ed4b8,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 533,EUR,1500,2500,N/A,N/A,1632.3,2720.5,N/A,N/A,CHINESE SCHOOL,N/A,N/A,The Dupleix,painting,oil on canvas,N/A,59.7,45.5,cm,no,yes,yes,1865,"Previously in the collection of Michel Duchange, thence by descent in the family.","ship, water, waves, flags, clouds, sea, coastline, sailing, boat, horizon",1,N/A,school of,"Framed, oil on canvas
+45.5 x 59.7 cm. (17
+7
+⁄
+8
+ x 23
+1
+⁄
+2
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0533_000(chinese_school_the_dupleix015701).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/chinese-school-china-qing-dynasty-circa-1865-533/312219?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2048.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2100.0,1750.0
+9378c7a8-86d9-44a4-bbb0-be9e7c3ccaf5,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 534,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A LARGE IMARI JAR MOUNTED AS A LAMP,decorative arts,ceramic,N/A,N/A,55.5,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","jar, lamp, floral patterns, blue, orange, figures, leaves, Edo period, hexagonal shapes, gold",1,N/A,original,"55.5 cm. (21
+7
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0534_000(a_large_imari_jar_mounted_as_a_lamp_japan_edo_period_circa_1700_d6591069015735).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/large-imari-jar-mounted-lamp-534/312218?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3511.97,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+8c80b2ad-be6c-4a29-9d91-36251189fbb1,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 535,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,AN IRON-RED AND GILT-DECORATED FIGURE OF A BIJIN,sculpture,ceramic,N/A,N/A,43,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","figure, woman, kimono, porcelain, iron-red, gilding, traditional, Japanese, Edo period, smiling",1,N/A,original,"43 cm. (16
+7
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0535_000(an_iron-red_and_gilt-decorated_figure_of_a_bijin_japan_edo_period_circ_d6591070015740).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/iron-red-gilt-decorated-figure-bijin-535/312222?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1500.0,1250.0
+5dda891a-c210-45cf-8c03-03a50ace15c2,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 536,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,AN IMARI APOTHICARY BOTTLE,ceramics,ceramic,N/A,N/A,20.5,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","apothecary bottle, Edo period, Japan, figures, flowers, decorative patterns, animals, circular motif, colored glaze",1,N/A,original,"20.5 cm. (8
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0536_000(an_imari_apothicary_bottle_japan_edo_period_circa_1700_d6591071015745).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/imari-apothicary-bottle-536/312221?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+b4094e87-aad1-4e18-a938-e0f74af10713,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 537,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,AN IMARI 'GEISHA' BEAKER VASE,ceramics,"ceramic, gilt-bronze",N/A,N/A,55.5,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","vase, geisha, flowers, umbrella, red, blue, gold, porcelain, patterns, Edo period",1,N/A,original,"55.5 cm. (21
+7
+⁄
+8
+ in.) high, gilt-bronze base",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0537_000(an_imari_geisha_beaker_vase_japan_edo_period_circa_1700_d6591072015750).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/imari-geisha-beaker-vase-537/312223?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5161.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+8d0e2b32-bf3d-4491-a696-f4aca434debd,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 538,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,TWO BLUE-GROUND IMARI TEAPOTS AND COVERS WITH RELIEF DECORATION,ceramics,ceramic,12.7,N/A,11.7,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","teapot, blue ground, relief decoration, rooster, rabbit, floral design",2,N/A,original,"11.7 cm. (4
+5
+⁄
+8
+ in.) and 12.7 cm. (5 in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0538_000(two_blue-ground_imari_teapots_and_covers_with_relief_decoration_japan013026).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/two-blue-ground-imari-teapots-covers-relief-decoration-538/312225?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1397.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1630.0,1358.3333333333335
+e55e8d42-6a4e-4401-8c3d-3a3e80c5b47f,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 539,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,TWO KO-IMARI OPENWORK DISHES,ceramics,ceramic,N/A,N/A,N/A,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","dishes, floral pattern, blue, orange, white, circular, openwork, Japanese, porcelain, Edo period",1,N/A,original,"24 cm. (9
+1
+⁄
+2
+ in.) and 29.6 cm. (11
+5
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0539_000(two_ko-imari_openwork_dishes_japan_edo_period_circa_1700013032).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/two-ko-imari-openwork-dishes-539/312224?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1397.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.0,1360.0
+0157b863-b0a0-4fec-bf86-7a8079c437e1,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 540,EUR,600,800,N/A,N/A,652.92,870.56,N/A,N/A,N/A,N/A,N/A,AN IMARI CIRCULAR DISH AND AN IMARI FAN-FORM DISH,ceramics,ceramic,N/A,29.1,N/A,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","dish, fan, birds, flowers, blue, red, orange, white, green, geometric patterns",2,N/A,original,"14.3 cm. (5
+5
+⁄
+8
+ in.) diameter ; 29.1 cm. (11
+1
+⁄
+2
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0540_000(an_imari_circular_dish_and_an_imari_fan-form_dish_japan_edo_period_18t015900).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/imari-circular-dish-imari-fan-form-dish-540/312227?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1061.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,760.0,633.3333333333334
+ba278d35-3235-4f69-9b75-d49a83785f49,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 541,EUR,800,1200,N/A,N/A,870.56,1305.84,N/A,N/A,N/A,N/A,N/A,AN IMARI OCTOGONAL BOWL,ceramics,porcelain,N/A,9.25,N/A,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","octagonal bowl, Imari, blue, white, red, gold, flowers, peacock, geometric patterns",1,N/A,original,"23.5 cm. (9
+1
+⁄
+4
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0541_000(an_imari_octogonal_bowl_japan_edo_period_circa_1700_apocryphal_wanli_m015917).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/imari-octogonal-bowl-541/312226?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1077.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1150.0,958.3333333333334
+6b08f31c-dee4-42aa-8efa-72ca80dfd747,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 542,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,AN ARITA CIRCULAR TRIPOD CENSER,ceramics,ceramic,N/A,6.625,N/A,in,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","circular tripod censer, Arita, Edo period, Japan, floral patterns, green dragon, red flowers, blue stripe, ceramic",1,N/A,original,"16.8 (6
+5
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0542_000(an_arita_circular_tripod_censer_japan_edo_period_18th_century015942).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/arita-circular-tripod-censer-542/312229?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1620.0,1350.0
+1ae8cf5e-8307-4bd8-9af4-d28c1c89840a,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 543,EUR,800,1200,N/A,N/A,870.56,1305.84,N/A,N/A,A KAKIEMON,N/A,N/A,PRUNUS AND BUTTERFLY DOUBLE GOURD VASE,ceramics,ceramic,N/A,N/A,17,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","vase, double gourd, prunus, butterfly, flowers, branches, leaves, floral decoration, green, red",1,N/A,original,"17 cm. (6
+3
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0543_000(a_kakiemon_prunus_and_butterfly_double_gourd_vase_japan_edo_period_cir015958).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/kakiemon-prunus-butterfly-double-gourd-vase-543/312228?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1271.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1200.0,1000.0
+b3561c80-5f03-4586-ac41-83347659d308,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 544,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,A KUTANI,N/A,N/A,"JAPAN, EDO PERIOD, CIRCA 1700",ceramics,ceramic,N/A,4.875,N/A,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","square dish, Kutani, Japan, Edo period, circa 1700, decorated patterns, colors, brown background, circular design, turquoise",1,N/A,original,"12.4 cm. (4
+7
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0544_000(a_kutani_square_dish_japan_edo_period_circa_1700_d6591079020026).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/kutani-square-dish-544/312233?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1620.0,1350.0
+1ddce426-96cb-4728-979b-d3f69633de3f,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 545,EUR,700,800,N/A,N/A,761.74,870.56,N/A,N/A,N/A,N/A,N/A,A Polychrome Foliated Dish,ceramics,ceramic,N/A,21.8,N/A,cm,no,yes,yes,1600,"Previously in the collection of Michel Duchange, thence by descent in the family.","dishes, porcelain, blue, white, polychrome, floral, landscapes, geometric patterns, figures, Japanese art",2,N/A,original,"Together with a small blue and white dish.
+21.8 cm. (8
+5
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0545_000(a_polychrome_foliated_dish_japan_edo_period_17th_century_d6591080020032).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/polychrome-foliated-dish-545/312230?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1017.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,815.0,679.1666666666667
+f4eb2021-cf34-4552-809b-8defe6d27f4e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 546,EUR,800,1200,N/A,N/A,870.56,1305.84,N/A,N/A,N/A,N/A,N/A,AN IMARI POLYLOBED VASE MOUNTED AS A LAMP,decorative arts,ceramic,N/A,N/A,22.5,cm,no,yes,yes,1700,"Previously in the collection of Michel Duchange, thence by descent in the family.","vase, lamp, blue, red, floral, decoration, porcelain, gold, Edo period, Japanese",1,N/A,original,"22.5 cm. (8
+7
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0546_000(an_imari_polylobed_vase_mounted_as_a_lamp_japan_edo_period_17th-18th_c_d6591081020037).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/imari-polylobed-vase-mounted-lamp-546/312231?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1271.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1200.0,1000.0
+f2280e58-7dd4-4450-a82e-bc8d91cb4a38,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 547,EUR,800,1200,N/A,N/A,870.56,1305.84,N/A,N/A,N/A,N/A,N/A,A BLUE AND WHITE PEACH-FORM BOX AND COVER,ceramics,ceramic,N/A,10,N/A,cm,no,yes,yes,1800,"Previously in the collection of Michel Duchange, thence by descent in the family.","peach form, box, cover, blue and white, ceramic, Japan, 19th century",1,N/A,original,25.5 cm. (10 in.) wide,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0547_000(a_blue_and_white_peach-form_box_and_cover_japan_19th_century_d6591082020042).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/blue-white-peach-form-box-cover-547/312232?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1017.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1150.0,958.3333333333334
+a76a8e97-7398-46a5-8cc6-214c07013170,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 548,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A Six-Fold Screen Depicting a Field Under the Moon,decorative arts,N/A,N/A,48.5,121.3,cm,no,yes,yes,1700,"PARAVENT À SIX FEUILLES REPRÉSENTANT UN CHAMP SOUS LA LUNE
+JAPON, ÉPOQUE EDO, XVIIIE SIÈCLE","field, moon, grass, plants, vegetation, landscape, gold, texture, nature, dusk",1,N/A,original,"121.3 x 48.5 cm. (47
+3
+⁄
+4
+ x 19
+1
+⁄
+8
+ in.) one leaf",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0548_000(a_six-fold_screen_depicting_a_field_under_the_moon_japan_edo_period_18013213).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/six-fold-screen-depicting-field-under-moon-548/312234?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.97,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+368a023d-fbb3-4a2c-bcc1-3f5cde2621fa,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 549,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,UTAGAWA HIROSHIGE,1797,1858,"Crane on a pine branch with a nest of three young, rising sun in background.",prints,Woodblock print,N/A,24.1,71.1,cm,yes,no,yes,N/A,"UTAGAWA HIROSHIGE (1797-1858)
+Grue près du nid avec des poussins sur une branche de pin","crane, pine tree, nest, chicks, branches, moon, foliage, woodblock print, seals, pattern",1,N/A,original,"Woodblock print, signed 
+Hiroshige ando
+, with four seals, published by Maruya Jinpachi.
+71.1 x 24.1 cm. (28 x 9
+1
+⁄
+2
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0549_000(utagawa_hiroshige_crane_on_a_pine_branch_with_a_nest_of_three_young_ri020053).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/utagawa-hiroshige-1797-1858-549/312740?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3519.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2730.0,2275.0
+6f8b6191-e2ff-414b-b03d-4d6809919789,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 550,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,Gado,N/A,N/A,A Six-Fold Screen Depicting Cranes on Pine Trees,decorative arts,N/A,N/A,57.4,150.4,cm,yes,yes,yes,20th century,"PARAVENT À SIX FEUILLES À DÉCOR DE GRUES SUR DES PINS
+JAPON, XXE SIÈCLE","cranes,pine trees,screen,landscape,Japan,20th century",1,N/A,original,"Signed 
+Gado
+, with one seal.
+150.4 x 57.4 cm. (59
+1
+⁄
+4
+ x 22
+5
+⁄
+8
+ in.) one leaf",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0550_000(a_six-fold_screen_depicting_cranes_on_pine_trees_japan_20th_century020113).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/six-fold-screen-depicting-cranes-pine-trees-550/312236?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4818.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3920.0,3266.666666666667
+7b226b40-aee1-485d-af29-d64d9171baba,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 551,EUR,5000,8000,N/A,N/A,5441.0,8705.6,N/A,N/A,N/A,N/A,N/A,A Carved Red Lacquer and Gilt Lacquer Cabinet,furniture,"red lacquer, gilt lacquer",34.4,50,51.5,cm,no,yes,yes,1912,"With Tanakaya, Paris, 3 May 2021.","cabinet, red lacquer, gilt lacquer, drawers, carved design, decorative hardware, ornamental patterns, circular motifs, Meiji period, Japanese furniture",1,N/A,original,"51.5 cm. (20
+1
+⁄
+4
+ in.) high ; 50 cm. (19
+3
+⁄
+4
+ in.) wide ; 34.4 cm. (13
+1
+⁄
+2
+ in.) deep",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0551_000(a_carved_red_lacquer_and_gilt_lacquer_cabinet_japan_meiji_period020140).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/carved-red-lacquer-gilt-lacquer-cabinet-551/312239?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6401.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+a17d3d58-3069-4f00-aa2d-84f5a5a4452f,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 552,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,AN IRON-DECORATED WHITE-GLAZED OPENWORK BRUSH POT,ceramics,iron-decorated white-glazed ceramic,N/A,N/A,12.8,cm,no,yes,yes,1800,"POT À PINCEAUX AJOURÉ EN PORCELAINE ÉMAILLÉE BLANC À DÉCOR À L'OXYDE DE FER
+CORÉE, DYNASTIE JOSEON, XIXE SIÈCLE","brush pot, porcelain, white glaze, iron decoration, openwork, Joseon dynasty, 19th century, Korea",1,N/A,original,12.8 cm. (5 in.) high,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0552_000(an_iron-decorated_white-glazed_openwork_brush_pot_korea_joseon_dynasty020222).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/iron-decorated-white-glazed-openwork-brush-pot-552/312238?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+e81f8391-d4d4-4604-a52f-e0a5c9472094,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 553,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,MAEHARA FUYUKI,1962,N/A,Ikkoki (untitled),sculpture,"Japanese cypress, wild mulberry, oil paint",N/A,26.75,N/A,cm,no,yes,no,2008,"Bonhams San Francisco, 
+Fine Asian Works of Art
+, 13 December 2010, lot 5348.","wood, sandal, stone, crab, stick, object, red piece, sea shell",1,N/A,original,"Japanese cypress, wild mulberry and oil paint; an arrangement of six objects carved out of wood
+67.9 cm. (26
+3
+⁄
+4
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0553_000(maehara_fuyuki_ikkoki_2008020244).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/maehara-fuyuki-b-1962-553/312235?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5618.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+61634cad-163a-409b-bfa6-9ba44af602bd,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 554,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,MAEHARA FUYUKI,1962,N/A,Ikkoku (Moment),sculpture,"Japanese cypress, boxwood, magnolia, oil paint",N/A,20.75,N/A,cm,no,yes,yes,2008,"Bonhams New York, 
+Fine Japanese Works of Art
+, 13 September 2011, lot 2397.","wood, sculpture, objects, insects, stick, cylinder, stone, abstract, carved",1,N/A,original,"Japanese cypress, boxwood, magnolia and oil paint; sculpture comprising nine objects carved from wood
+52.6 cm. (20
+3
+⁄
+4
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0554_000(maehara_fuyuki_ikkoku_2008_d6591089020307).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/maehara-fuyuki-b-1962-554/312240?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5611.77,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+ad8c37d8-9ee8-41a2-8e02-b7fa356c1548,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 555,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,Wang Yun,N/A,N/A,Playing go,painting,ink and colour on silk,N/A,55,123.8,cm,yes,no,yes,N/A,"French private collection, acquired in the French art market in the 1970s-1980s.","landscape, tree, house, rocks, mountain, person, water, foliage, autumn, pavilion",1,N/A,original,"Hanging scroll, ink and colour on silk.
+Inscribed and signed, with seals.
+123.8 x 55 cm. (48
+3
+⁄
+4
+ x 21
+5
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0555_000(with_signature_of_wang_yun_)_playing_go_d6591090020312).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/signature-wang-yun-china-qing-dynasty-1644-1911-555/312237?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+e0795286-2b5d-4efd-9df2-3585e6871292,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 556,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,ZHANG ZHIWAN,1811,1897,Landscape,painting,ink and colour on silk,N/A,35,84.2,cm,yes,no,yes,N/A,"French private collection, acquired in the French art market in the 1970s-1980s.","mountains, river, bridge, house, trees, rocks, figures, landscape, waterfall, clouds",1,N/A,original,"Mounted scroll, framed and glazed, ink and colour on silk.
+Inscribed and signed by the artist with two seals.
+Dimensions : 84,2 x 35 cm. (33
+1
+⁄
+8
+ x 13
+3
+⁄
+4
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0556_000(zhang_zhiwan_landscape_d6591091020317).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/zhang-zhiwan-1811-1897-556/312242?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10797.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+2611b4d4-14d8-475e-b187-fadb0c515a79,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 557,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,Shi Tao,N/A,N/A,Landscape,painting,ink on paper,N/A,51.9,95,cm,yes,no,yes,N/A,"French private collection, acquired in the French art market in the 1970s-1980s.","landscape, mountains, water, boat, trees, fishing, houses, river, sky, grass",1,N/A,original,"Hanging scroll, ink on paper
+Inscribed and signed, with two seals
+95 x 51.9 cm. (37
+3
+⁄
+8
+ x 20
+3
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0557_000(with_signature_of_shi_tao_)_landscape_d6591092020321).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/signature-shi-tao-china-qing-dynasty-1644-1911-557/312241?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.0,1360.0
+60886a02-c9cb-4274-871e-f00351a9f141,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 558,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,GAI QI,1774,1829,Lingzhi,painting,Ink and colour on silk,N/A,42.7,109.4,cm,yes,yes,yes,1808,"Acquired in the French art market, Versailles, 13 April 1979.","tree, rock, mushroom, grass, landscape, ink, color, silk, inscription, seal",1,N/A,original,"Ink and colour on silk 
+Inscribed and signed by the artist with two seals, dated 1808
+109.4 x 42.7 cm. (43
+1
+⁄
+8
+ x 16
+3
+⁄
+4
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0558_000(gai_qi_lingzhi013326).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/gai-qi-1774-1829-558/312243?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+688a1870-c7f6-4f00-9d8d-870d3924f920,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 559,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,LAN YING,N/A,N/A,Paysage,painting,ink and colour on silk,N/A,65.3,154.2,cm,yes,no,yes,N/A,"French private collection, acquired in the French art market in the 1970s-1980s.","mountains, trees, river, house, landscape, nature, ink, color, silk, scroll",1,N/A,original,"Hanging scroll, ink and colour on silk.
+Inscribed and signed, with two seals.
+154.2 x 65.3 cm. (60
+3
+⁄
+4
+ x 25
+3
+⁄
+4
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0559_000(with_signature_of_lan_ying_)_paysage013330).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/signature-lan-ying-china-qing-dynasty-1644-1911-559/312244?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.3,1360.25
+d1de7c9d-2189-4d9c-ab53-e2326cffbc63,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 560,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A Painting Depicting Daoist Figures,painting,ink and colour on silk,N/A,59.5,124,cm,no,yes,yes,18th century,"PEINTURE REPRÉSENTANT DES DIVINITÉS DAOISTES
+CHINE, DYNASTIE QING, XVIIIÈME SIÈCLE
+Encadré, encre et couleur sur soie","daoist figures, deities, silk, robes, staffs, mystical creatures, dragon, landscape, clouds, ritual attire",1,N/A,original,"Framed, ink and colour on silk.
+circa 
+124 x 59.5 cm. (48
+7
+⁄
+8
+ x 23
+3
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0560_000(a_painting_depicting_daoist_figures_china_qing_dynasty_18th_century013335).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/painting-depicting-daoist-figures-560/312246?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1630.0,1358.3333333333335
+f28ffd0d-a0a1-4074-9ec4-247cfd825894,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 561,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A LARGE BLACK LACQUERED BED,furniture,Lacquer,110,220,80,cm,no,yes,yes,1644,"GRAND LIT EN BOIS LAQUÉ NOIR
+CHINE, DYNASTIE QING (1644-1911)","mattress, pillows, black lacquer, bed, wood, red fabric, Chinese furniture, Qing dynasty",1,N/A,original,"Comprising a mattress and pillows.
+80 cm. (31
+1
+⁄
+2
+ in.) high ; 220 cm. (86
+1
+⁄
+2
+ in.) wide ; 110 cm. (43
+1
+⁄
+4
+ in.) deep",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0561_000(a_large_black_lacquered_bed_china_qing_dynasty_d6591096020348).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/large-black-lacquered-bed-561/312247?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5518.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+a5a767dc-5701-4fec-9edc-644f434129ee,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 562,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,SANYU,1901,1966,Les Poèmes de T’ao Ts’ien,prints,"etchings, paper",N/A,25.5,32.5,cm,no,yes,yes,1930,"SANYU (1901-1966)
+Les Poèmes de T’ao Ts’ien
+. Paris : Editions Lemarget, 1930.","etchings, portrait, poetry, literature, publication, Arches paper, Paris, 1930, Chinese poetry, Sanyu",4,N/A,original,"4°, as issued, printed wrappers, uncut. 
+Three original full-page etchings by Sanyu 
+and a portrait of the poet after Hwang Shen as the frontispiece. A very fresh copy.
+Total edition of 306 copies, one of 290 on Arches wove paper, n°130.
+32.5 x 25.5 cm. (12
+3
+⁄
+4
+ x 10 in.",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0562_000(sanyu_les_poemes_de_t8217ao_ts8217ien_paris_editions_lemarget_1930013408).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/sanyu-1901-1966-562/312245?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10516.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+8e487ff4-f677-4892-bd8a-4d007dd7ebab,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 563,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,"CHINA, SONG-JIN DYNASTY (960-1234)",decorative arts,"ceramic, leather",N/A,5,N/A,cm,no,yes,yes,1234,"Collection of Dr. Maurin, Ader Picard Tajan, 16–18 March 1987, lot 42.","leather box, ding cup stand, round shape, decorative patterns, brown color, white color, Chinese art, Song dynasty, ceramic, craftsmanship",1,N/A,original,"12.6 cm. (5 in.) wide, leather box",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0563_000(a_ding_cup_stand_china_song-jin_dynasty013439).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/ding-cup-stand-563/312248?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10787.73,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+0fa9b83e-dd93-4efb-9c77-f030ed5991ed,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 564,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A Junyao Dish,ceramics,ceramic,N/A,N/A,N/A,cm,no,yes,yes,1200,"COUPE EN GRÈS 
+JUNYAO
+CHINE, DYNASTIE SONG-JIN, XIIE-XIIIE SIÈCLE","dish, Junyao, 12th century, Song-Jin dynasty, ceramic, turquoise, glaze, round, China",1,N/A,original,"18 cm. (7
+1
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0564_000(a_junyao_dish_china_song-jin_dynasty_12th-13th_century013509).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/junyao-dish-564/312249?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+2c7ed36d-dc8b-41cb-8693-ef63381e3ed8,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 565,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,A Dehua,N/A,N/A,A Dehua Censer,ceramics,Dehua porcelain,N/A,5.875,N/A,cm,no,yes,yes,17th century,"BRÛLE-PARFUM EN PORCELAINE DEHUA
+CHINE, DYNASTIE QING, XVIIE SIÈCLE","porcelain, censer, Qing dynasty, 17th century, white, four-character mark, decorative object, round, handles",1,N/A,attributed to,"The base bears a four-character mark: Qiu Gu Qi Jian.
+15 cm. (5
+7
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0565_000(a_dehua_censer_china_qing_dynasty_17th_century013515).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/dehua-censer-565/312251?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3518.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+95fbf2ba-1ea1-4519-8027-91cfba064051,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 566,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A Sang-de-Boeuf-Glazed Baluster Vase,ceramics,Sang-de-boeuf glaze,N/A,N/A,37,cm,no,yes,yes,1644,"VASE BALUSTRE EN PORCELAINE ÉMAILLÉE SANG DE BOEUF
+CHINE, DYNASTIE QING (1644-1911)","vase, porcelain, red, baluster, Qing Dynasty, sang de boeuf, antique, Chinese",1,N/A,original,"37 cm. (14
+5
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0566_000(a_sang-de-boeuf-glazed_baluster_vase_china_qing_dynasty013521).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/sang-de-boeuf-glazed-baluster-vase-566/312250?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1620.0,1350.0
+564847d0-ecef-4e1b-9d6a-0327cce361f5,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 567,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,"A Small Clair-de-Lune-Glazed Vase, Meiping",ceramics,ceramic,N/A,N/A,15.8,cm,no,yes,yes,1644,"Christie's Paris, 20 June 2023, lot 614","vase, ceramic, blue color, meiping, Qing dynasty, Asian art, decorative arts",1,N/A,original,"15.8 cm. (6
+1
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0567_000(a_small_clair-de-lune-glazed_vase_meiping_china_qing_dynasty_apocrypha013526).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-clair-de-lune-glazed-vase-meiping-567/312252?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.13,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+b2f36701-a5dd-43a2-b57f-bf1c1e9ba207,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 568,EUR,800,1200,N/A,N/A,870.56,1305.84,N/A,N/A,N/A,N/A,N/A,"A Small Cream-Glazed 'Lotus Scroll' Vase, Meiping",ceramics,cream-glazed porcelain,N/A,N/A,17.6,cm,no,yes,yes,19th century,Previously from the collection of Art Director Ivar Björnberg (1934-2021),"vase, lotus, scroll, floral pattern, cream glaze, porcelain, Qing dynasty, Chinese ceramics, meiping, decorative art",1,N/A,original,"Height: 17.6 cm. (6
+7
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0568_000(a_small_cream-glazed_lotus_scroll_vase_meiping_china_qing_dynasty_19th_d6591103020451).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-cream-glazed-lotus-scroll-vase-meiping-568/312253?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1071.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1100.0,916.6666666666667
+8d6dd9d0-3773-417f-ad4b-4804b75bb18b,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 570,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A SMALL LONGQUAN CELADON LUDUAN-FORM CENSER AND COVER,ceramics,celadon,N/A,N/A,13.8,cm,no,yes,yes,16th century,"Bonhams London, 
+Fine Chinese Art
+, 12 May 2016, lot 57.","wooden box, luduan form, censer, cover, celadon, Chinese art, Ming dynasty",1,N/A,original,"13.8 cm. (5
+3
+⁄
+8
+ in.) high, Japanese wooden box",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0570_000(a_small_longquan_celadon_luduan-form_censer_and_cover_china_ming_dynas013545).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-longquan-celadon-luduan-form-censer-cover-570/312254?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+436fbd3c-9110-4317-b137-87a2c099969d,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 571,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A RED-GLAZED BOTTLE VASE,ceramics,ceramic,N/A,N/A,40.5,cm,no,no,yes,N/A,"Acquired on the French art market, April 2019.","bottle vase, red glaze, Chinese, Qing dynasty, 18th century, ceramic",1,N/A,original,40.5 cm. (16 in.) high,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0571_000(a_red-glazed_bottle_vase_china_qing_dynasty_18th-19th_century013620).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/red-glazed-bottle-vase-571/312258?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+156603b2-3346-4371-a3aa-b87c8f3bb56b,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 572,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A RED-GLAZED BOWL,ceramics,ceramic,N/A,N/A,N/A,cm,no,yes,yes,1723,"Bonhams London, Knightsbridge, 11 May 2015, lot 114.","bowl, red glaze, china, Qing dynasty, Yongzheng, ceramic",1,N/A,original,15.3 cm. (6 in.) diameter,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0572_000(a_red-glazed_bowl_china_qing_dynasty_yongzheng_six-character_mark_with013629).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/red-glazed-bowl-572/312255?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+550ac551-a9dd-4bee-87a1-bba6747b09f3,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 573,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,N/A,N/A,N/A,"A SMALL SILVER-MOUNTED FAMILLE VERTE 'CRACKED ICE' VASE, GU",ceramics,"porcelain, silver",N/A,N/A,18,cm,no,yes,yes,1722,"With Galerie Nicolas Fournery, November 2017.","vase, famille verte, cracked ice, flowers, silver mount, green, porcelain, decorative art",1,N/A,original,"18 cm. (7
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0573_000(a_small_silver-mounted_famille_verte_cracked_ice_vase_gu_the_porcelain013655).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-silver-mounted-famille-verte-cracked-ice-vase-gu-573/312257?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.77,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1360.0,1133.3333333333335
+84afa1a9-9903-4c0e-bcdf-2bad35de4f3a,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 574,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,N/A,N/A,N/A,A RUBY-BACK FAMILLE ROSE CUP AND SAUCER,ceramics,porcelain,N/A,13.2,8.4,cm,no,yes,yes,1735,"COUPE ET SOUCOUPE EN PORCELAINE DE LA FAMILLE ROSE À FOND RUBIS
+CHINE, DYNASTIE QING, ÉPOQUE YONGZHENG (1723-1735)","cup, saucer, rose, butterfly, flower, pink, porcelain, Qing dynasty, Yongzheng period",1,N/A,original,"8.4 cm. (3
+1
+⁄
+4
+ in.) and 13.2 cm. (5
+1
+⁄
+4
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0574_000(a_ruby-back_famille_rose_cup_and_saucer_china_qing_dynasty_yongzheng_p020517).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/ruby-back-famille-rose-cup-saucer-574/312256?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1397.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1425.0,1187.5
+bb118b70-d274-422b-96ac-7f452c828fe4,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 575,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A LARGE BRONZE 'CRANE' TRIPOD CENSER,decorative arts,bronze,N/A,N/A,14.75,cm,no,no,yes,N/A,"GRAND BRÛLE-PARFUM TRIPODE EN BRONZE 
+CHINE OU JAPON","bronze, tripod, crane, censer, turtle, legs, ornamentation, traditional, Asian, decorative",1,N/A,original,"37.6 cm. (14
+3
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0575_000(a_large_bronze_crane_tripod_censer_china_or_japan020540).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/large-bronze-crane-tripod-censer-575/312260?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335
+b9971460-9994-4fd3-821d-5e9e93880b2e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 576,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL BRONZE TWIN-HANDLED VASE,decorative arts,bronze,N/A,N/A,16.5,cm,no,yes,yes,1700,"PETIT VASE EN BRONZE
+CHINE, XVIIE-XVIIIE SIÈCLE","vase, bronze, twin-handled, Chinese, 17th century, decorative, ancient, traditional design, metalwork",1,N/A,original,"16.5 cm. (6
+1
+⁄
+2
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0576_000(a_small_bronze_twin-handled_vase_china_17th-18th_century013725).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-bronze-twin-handled-vase-576/312259?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335
+ee0825fd-441a-41b4-b4d3-163be10c3acb,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 577,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL GOLD-SPLASHED BRONZE CENSER,decorative arts,"bronze, hongmu, gilt-bronze",N/A,5,N/A,in,no,yes,yes,1700,"PETIT BRÛLE-PARFUM EN BRONZE TACHÉ D'OR
+CHINE, DYNASTIE QING, XVIIIE SIÈCLE, MARQUE XUANDE APOCRYPHE","cultural artifact, bronze censer, gilt-bronze finial, traditional design, Qing dynasty, decorative art, craftsmanship",1,N/A,original,"12.6 cm. (5 in.) wide, 
+hongmu 
+cover with a gilt-bronze finial",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0577_000(a_small_gold-splashed_bronze_censer_china_qing_dynasty_18th_century_ap013732).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-gold-splashed-bronze-censer-577/312261?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3518.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+60c2d915-8e87-426e-94bc-00d60c1e3f85,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 578,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL GOLD-SPLASHED BRONZE FOUR-LEGGED CENSER,decorative arts,"bronze, hongmu, cornaline",N/A,9,N/A,cm,no,yes,yes,1700,"PETIT BRÛLE-PARFUM TÉTRAPODE EN BRONZE TACHÉ D'OR 
+CHINE, DYNASTIE QING, XVIIIE SIÈCLE, MARQUE XUANDE APOCRYPHE","bronze censer, hongmu cover, cornaline finial, four legs, gold splashes, intricate design, Asian art, Qing dynasty, decorative object, antique",1,N/A,original,"9 cm. (3
+1
+⁄
+2
+ in.) wide, 
+hongmu 
+cover with a cornaline finial",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0578_000(a_small_gold-splashed_bronze_four-legged_censer_china_qing_dynasty_18t_d6591112020705).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-gold-splashed-bronze-four-legged-censer-578/312263?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3519.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2700.0,2250.0
+892e2be0-bcce-4ee1-b0e6-4b5054f78932,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 579,EUR,3000,5000,N/A,N/A,3264.6,5441.0,N/A,N/A,N/A,N/A,N/A,A Cloisonné Enamel Hat Stand,decorative arts,"Cloisonné enamel, gilt-wood",N/A,N/A,29.5,cm,no,yes,yes,1700,"Previously from a French private collection.
+Christie's Paris, 
+Art of Asia
+, 25 November-10 December 2021 lot 663.","hat stand, cloisonne enamel, gilt-wood, Qing dynasty, Chinese art, decorative object, intricate patterns, multicolored, circular base, floral motifs",1,N/A,original,"29.5 cm. (11
+5
+⁄
+8
+ in.) high, gilt-wood cover",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0579_000(a_cloisonne_enamel_hat_stand_china_qing_dynasty_18th_century_d6591113020719).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/cloisonne-enamel-hat-stand-579/312262?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4074.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4350.0,3625.0
+a25ded74-5a1c-4f0f-bba3-600496e7e73d,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 580,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL HUANGHUALI CRAB-FORM BOX AND COVER,decorative arts,huanghuali,N/A,4,N/A,cm,no,yes,yes,1900,"PETITE BOÎTE COUVERTE EN FORME DE CRABE EN 
+HUANGHUALI
+CHINE, DYNASTIE QING, XIXE-XXE SIÈCLE","crab, box, wood, stand, Huanghuali, Qing dynasty, sculpture, Asian art, decorative art, nature",1,N/A,original,"10.2 cm. (4 in.) wide, 
+hongmu 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0580_000(a_small_huanghuali_crab-form_box_and_cover_china_qing_dynasty_19th-20t020724).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-huanghuali-crab-form-box-cover-580/312266?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+2cf6f348-5b06-4259-bc5d-cea803566044,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 581,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,A ZITAN,N/A,N/A,PRUNUS BRANCH RUYI SCEPTRE,decorative arts,Zitan wood,N/A,N/A,12.8,cm,no,no,yes,N/A,"SCEPTRE 
+RUYI 
+EN FORME DE BRANCHE DE PRUNUS EN 
+ZITAN
+CHINE, DYNASTIE QING, XVIIIE-XIXE SIÈCLE","sceptre, branch, prunus, zitan, flower, Qing dynasty, China, 18th century, 19th century",1,N/A,original,"32.5 cm. (12
+3
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0581_000(a_zitan_prunus_branch_ruyi_sceptre_china_qing_dynasty_18th-19th_centur020744).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/zitan-prunus-branch-ruyi-sceptre-581/312268?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5618.77,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+9e94056f-fa4d-4c78-9060-170188d11b4b,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 582,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,CHINA,sculpture,sodalite,N/A,11.6,N/A,cm,no,no,yes,N/A,"ROCHER SCULPTÉ EN SODALITE À DÉCOR DE LETTRÉS
+CHINE","sodalite, carved stone, scholar, boulder, figures, foliage, decor, rocks, landscape, Chinese",1,N/A,original,"11.6 cm. (4
+5
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0582_000(a_carved_lapis_lazuli_scholar_boulder_china020758).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/carved-sodalite-scholar-boulder-582/312267?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4074.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+b9c3d91c-bbf6-4553-8928-98b85ca6f837,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 583,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,A Turquoise-Inlaid Lapis Lazuli Censer and Cover,decorative arts,"lapis lazuli, turquoise",N/A,5.75,N/A,cm,no,yes,yes,19th-20th century,"BRÛLE-PARFUM COUVERT EN LAPIS LAZULI INCRUSTÉ DE TURQUOISE
+CHINE, XIXE-XXE SIÈCLE","censer, lapis lazuli, turquoise, carved lid, floral design, Chinese, 19th century, decorative art",1,N/A,original,"14.5 cm. (5
+3
+⁄
+4
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0583_000(a_turquoise-inlaid_lapis_lazuli_censer_and_cover_china_19th-20th_centu020833).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/turquoise-inlaid-lapis-lazuli-censer-cover-583/312265?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3700.0,3083.3333333333335
+d440141a-74d8-4917-b938-52c4db6fb051,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 584,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,CHINA,decorative arts,celadon jade,N/A,N/A,3.375,in,no,no,yes,N/A,"PETITE COUPE RHYTON EN JADE CÉLADON
+CHINA","jade, rhyton, cup, inscription, celadon, handle, ornamental design, China, carved details, ancient artifact",1,N/A,original,"Two-character inscription to the base.
+3
+3
+⁄
+8
+ in. high (8.5 cm.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0584_000(a_small_celadon_jade_rython_china_d6591118020859).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-celadon-jade-rython-584/312264?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335
+3b462012-7997-40aa-8c2c-a10f49d2ca0d,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 585,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL WHITE JADE 'MELONS' PENDANT,decorative arts,white jade,N/A,6.2,N/A,cm,no,yes,yes,1644,"PETIT PENDENTIF EN JADE BLANC 
+CHINE, DYNASTIE QING (1644-1911)","white jade, melons, pendant, floral motifs, Qing dynasty, carving",1,N/A,original,"6.2 cm. (2
+1
+⁄
+2
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0585_000(a_small_white_jade_melons_pendant_china_qing_dynasty_d6591119020905).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-white-jade-melons-pendant-585/312269?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+15905285-44ca-49b4-bacc-20032976b42c,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 586,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A Pale Celadon Jade 'Bean' Pendant,decorative arts,celadon jade,N/A,N/A,6,cm,no,yes,yes,1644,"PENDENTIF EN FORME DE HARICOTS JADE CÉLADON PÂLE
+CHINA, QING DYNASTY (1644-1911)","jade pendant, bean shape, pale celadon, Qing dynasty, floral design, jewelry",1,N/A,original,"6 cm. (2
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0586_000(a_pale_celadon_jade_bean_pendant_china_qing_dynasty_d6591120020916).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pale-celadon-jade-bean-pendant-586/312270?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335
+d4edb557-efb2-4c9b-8780-5e61fd0a6854,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 587,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,"A YELLOW, GREEN AND RUSSET JADE CARVING OF A RECUMBENT CAMEL",sculpture,"yellow, green and russet jade",N/A,9.5,N/A,cm,no,no,yes,N/A,"CHAMEAU ENDORMI EN JADE JAUNE, VERT ET ROUILLE
+CHINE","jade carving, recumbent camel, stand",1,N/A,original,"9.5 cm. (3
+3
+⁄
+4
+ in.) wide, 
+hongmu 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0587_000(a_yellow_green_and_russet_jade_carving_of_a_recumbent_camel_china_d6591121020922).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/yellow-green-russet-jade-carving-recumbent-camel-587/312271?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4078.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+9b20fed0-64e0-4dde-aeee-421f8af9410e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 588,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,A Pair of Spinach Green Jade Quail-Form Boxes and Covers,decorative arts,spinach green jade,N/A,15,N/A,cm,no,yes,yes,19th-20th century,"PAIRE DE BOÎTES COUVERTES EN FORME DE CAILLE EN JADE VERT ÉPINARD 
+CHINE, XIXE-XXE SIÈCLE","quail, jade, boxes, covers, green, China, 19th century, 20th century, birds, animal figurines",1,N/A,original,"Width: 15 cm. (5
+7
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0588_000(a_pair_of_spinach_green_jade_quail-form_boxes_and_covers_china_19th-20013923).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pair-spinach-green-jade-quail-form-boxes-covers-588/312273?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+dd090770-5b36-41e7-a4ac-d65bec232d44,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 589,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A Celadon Yellow Jade 'Archaistic Poetic Inscription' Pendant,decorative arts,celadon yellow jade,N/A,N/A,5.1,cm,no,yes,yes,1644,"PENDENTIF EN JADE CÉLADON JAUNE À DÉCOR D'INSCRIPTIONS POÉTIQUES ARCHAÏSANTES
+CHINE, DYNASTIE QING (1644-1911)","pendant, jade, celadon, poetic inscriptions, archaistic, Qing dynasty",1,N/A,original,5.1 cm. (2 in.) high,https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0589_000(a_celadon_yellow_jade_archaistic_poetic_inscription_pendant_china_qing013930).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/celadon-yellow-jade-archaistic-poetic-inscription-pendant-589/312279?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+29609de9-bf82-43e0-8910-364aeb797049,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 590,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A GREEN GLASS 'DOUBLE GOURD' PENDANT,decorative arts,glass,N/A,N/A,6.2,cm,no,no,yes,N/A,"PENDENTIF EN VERRE VERT REPRÉSENTANT UNE DOUBLE GOURDE
+CHINE, DYNASTIE QING (1644-1911) OU POSTÉRIEUR","double gourd, pendant, green glass, China, Qing Dynasty",1,N/A,original,"6.2 cm. (2
+1
+⁄
+2
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0590_000(a_green_glass_double_gourd_pendant_china_qing_dynasty_or_later021023).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/green-glass-double-gourd-pendant-590/312272?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+83d45aca-1376-4a9f-92c3-9dcb5f907378,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 591,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A Celadon Jade Archaistic Censer,decorative arts,"celadon jade, metal, hongmu",N/A,5.625,N/A,cm,no,yes,yes,19th century,"BRÛLE-PARFUM ARCHAÏSANT EN JADE CÉLADON
+CHINE, DYNASTIE QING, XIXE SIÈCLE","censer, jade, metal, stand, Qing dynasty, archaistic design, decorative arts, ancient, sculpture, ceremonial",1,N/A,original,"14.3 cm. (5
+5
+⁄
+8
+ in.) wide, metal cover and 
+hongmu 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0591_000(a_celadon_jade_archaistic_censer_china_qing_dynasty_19th_century021050).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/celadon-jade-archaistic-censer-591/312274?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10797.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+d3104800-8a37-4f04-8959-af123501e897,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 592,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,A SMALL SPINACH GREEN JADE 'ARCHAISTIC' VASE AND COVER,decorative arts,"spinach green jade, hongmu",N/A,N/A,13.9,cm,no,yes,yes,1644,"PETIT VASE COUVERT ARCHAÏSANT EN JADE VERT ÉPINARD
+CHINE, DYNASTIE QING (1644-1911)","vase, jade, cover, archaistic, green, spinach, handle, engraving, Chinese, Qing Dynasty",1,N/A,original,"13.9 cm. (5
+1
+⁄
+2
+ in.) high, 
+hongmu 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0592_000(a_small_spinach_green_jade_archaistic_vase_and_cover_china_qing_dynast021135).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-spinach-green-jade-archaistic-vase-cover-592/312275?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4808.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3920.0,3266.666666666667
+fc92bcf7-98c9-4865-8762-64f74f055e28,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 593,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL PARCEL-MOTTLED CELADON JADE 'ARCHAISTIC' VASE,ceramics,"celadon jade, zitan",N/A,N/A,14.8,cm,no,yes,yes,1644,"PETIT VASE ARCHAÏSANT EN JADE CÉLADON PARTIELLEMENT CALCIFIÉ
+CHINE, DYNASTIE QING (1644-1911)","vase, jade, celadon, archaistic, ornate, carved, round base, detail, Chinese, Qing Dynasty",1,N/A,original,"14.8 cm. (5
+7
+⁄
+8
+ in.) high, silver-inlaid 
+zitan 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0593_000(a_small_parcel-mottled_celadon_jade_archaistic_vase_china_qing_dynasty021205).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-parcel-mottled-celadon-jade-archaistic-vase-593/312280?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+793b4712-c973-4c74-b97d-241778b489c8,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 594,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,"A JADEITE 'ARCHAISTIC' VASE, FANGZUN",ceramics,jadeite,N/A,N/A,7.125,cm,no,yes,yes,1900,"VASE ARCHAÏSANT EN JADÉITE, 
+FANGZUN
+CHINE, XIXE-XXE SIÈCLE","vase, jadeite, archaistic, Fangzun, China, 19th century, 20th century, carved, ornamental, green",1,N/A,original,"18 cm. (7
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0594_000(a_jadeite_archaistic_vase_fangzun_china_19th-20th_century_d6591128021239).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/jadeite-archaistic-vase-fangzun-594/312276?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2751.17,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+d84ff3de-4390-4232-a946-2e1b67a1ba93,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 595,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL MUGHAL-STYLE PALE CELADON JADE VASE AND COVER,decorative arts,celadon jade,N/A,N/A,10.9,cm,no,yes,yes,19th century,"PETIT VASE COUVERT EN JADE CÉLADON PÂLE DANS LE STYLE MOGHOL 
+CHINE, DYNASTIE QING, XIXE SIÈCLE","vase, jade, celadon, cover, Mughal style, Qing dynasty, 19th century, floral design, handle, ornamentation",1,N/A,original,"10.9 cm. (4
+1
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0595_000(a_small_mughal-style_pale_celadon_jade_vase_and_cover_china_qing_dynas_d6591129021244).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-mughal-style-pale-celadon-jade-vase-cover-595/312278?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335
+947f3601-d557-4f19-9144-d255674f19dc,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 596,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A Group of Four Small Yixing Teapots and Covers,ceramics,Yixing clay,N/A,N/A,N/A,cm,no,yes,yes,1644,"ENSEMBLE DE QUATRE PETITES THÉIÈRES COUVERTES EN GRÈS YIXING
+CHINE, DYNASTIE QING (1644-1911) ET POSTÉRIEUR","four teapots, Yixing, china, ceramic, Qing dynasty, covered",1,N/A,original,"Inscriptions to bases.
+9.2 cm. (3
+5
+⁄
+8
+ in.) to 12.5 cm. (4
+7
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0596_000(a_group_of_four_small_yixing_teapots_and_covers_china_qing_dynasty_and_d6591130021254).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/group-four-small-yixing-teapots-covers-596/312277?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+52b5835d-e216-454f-8e0d-3f7457801d02,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 597,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,ANONYMOUS,N/A,N/A,Court ladies playing go,painting,Ink and colour on silk,N/A,32,32.5,cm,no,yes,yes,1644,"ANONYME (CHINE, DYNASTIE QING, 1644-1911)
+Dames de cour jouant au go
+Encre et couleur sur soie","women, playing go, silk, table, traditional clothing, game, court, colors, seated figures, fan",1,N/A,original,"Ink and colour on silk.
+32.5 x 32 cm. (12
+3
+⁄
+4
+ x 12
+5
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0597_000(anonymous_court_ladies_playing_go_d6591131021301).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/anonymous-china-qing-dynasty-1644-1911-597/312281?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+0721d084-1ca9-46b6-bab1-5a8e35138184,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 598,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,TWO WOODEN SUTRA PRINTING BLOCKS,prints,wood,N/A,59,16.8,cm,no,yes,yes,1800,"DEUX PLAQUES D'IMPRESSION DE SUTRA EN BOIS
+TIBÉTO-CHINOIS, XVIIIE-XIXE SIÈCLE","Buddha, Bodhisattva, Tibetan script, wood printing blocks, religious iconography, decorative patterns, landscape, lotus, meditation, antiquities",1,N/A,original,"16.8 x 59 cm. (6
+5
+⁄
+8
+ x 23
+1
+⁄
+4
+ in.) and 16.9 x 58.7 cm. (6
+5
+⁄
+8
+ x 23
+1
+⁄
+8
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0598_000(two_wooden_sutra_printing_blocks_tibeto-chinese_18th-19th_century014049).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/two-wooden-sutra-printing-blocks-598/312283?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.97,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1630.0,1358.3333333333335
+55bbf73b-40c0-4d1f-9b81-c43aa8b96249,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 599,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A COPPER ALLOY FIGURE OF A DEITY,sculpture,copper alloy,N/A,N/A,8.8,cm,no,yes,yes,14th century,"PETITE STATUE DE DIVINITÉ EN ALLIAGE DE CUIVRE DORÉ
+TIBET OU NÉPAL, XIVE SIÈCLE","deity, figure, alloy, gold, sculpture, sitting, lotus pedestal, hand gesture, Tibetan, Nepali",1,N/A,original,"8.8 cm. (3
+1
+⁄
+2
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0599_000(a_copper_alloy_figure_of_a_deity_nepal_or_tibet_14th_century014106).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/copper-alloy-figure-deity-599/312282?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1620.0,1350.0
+3f402938-230a-4adb-9359-cea331e3b6af,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 600,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,"CHINA, QING DYNASTY (1644-1911)",ceramics,iron-red and white glaze,N/A,6.25,N/A,in,no,yes,yes,1644,"KAPALA 
+EN PORCELAINE ÉMAILLÉE BLANC ET ROUGE DE FER
+CHINE, DYNASTIE QING (1644-1911)","kapala, porcelain, iron red, gold, bowl, Qing dynasty, Chinese art, ritual object, decorative art, sculpture",1,N/A,original,"Width: 16 cm. (6
+1
+⁄
+4
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0600_000(an_iron-red_and_white-glazed_kapala_china_qing_dynasty014111).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/iron-red-white-glazed-kapala-600/312286?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+8ac72bd2-74a0-46bd-beda-122d17df6074,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 601,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A WOVEN TEXTILE DEPICTING TARA,decorative arts,textile,N/A,19,23,cm,no,yes,yes,1700,"TEXTILE TISSÉ REPRÉSENTANT TARA 
+TIBET, XVIIE-XVIIIE SIÈCLE","Tara, textile, clouds, mountains, lotus, colorful patterns, figures, sacred symbolism, blue background, framed",1,N/A,original,"23 x 19 cm. (9 x 7
+1
+⁄
+2
+ in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0601_000(a_woven_textile_depicting_tara_tibet_17th-18th_century014119).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/woven-textile-depicting-tara-601/312284?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+63c348e9-0539-4356-af0a-763c4ddb37ec,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 602,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A Mandala of a Deity,N/A,N/A,N/A,33,50.5,cm,no,yes,yes,1700,"MANDALA DE DIVINITÉ
+CHINE, DYNASTIE QING, XVIIIE SIÈCLE","mandala, deity, Buddha, clouds, landscape, symbols, circular patterns, colors, lines, figures",1,N/A,original,"Framed and glazed.
+50.5 x 33 cm. (19
+7
+⁄
+8
+ x 13 in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0602_000(a_mandala_of_a_deity_china_qing_dynasty_18th_century014132).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/mandala-deity-602/312285?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1397.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1630.0,1358.3333333333335
+9dd116f0-2845-410b-9c55-bf17d624b7b3,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 603,EUR,5000,8000,N/A,N/A,5441.0,8705.6,N/A,N/A,N/A,N/A,N/A,A TIGER-STRIPED WOOL RUG,decorative arts,wool,N/A,99,176,cm,no,yes,yes,1800,"With Spink and Son Ltd., London, 1999.
+Private collection, Sweden.","rug, wool, orange, geometric pattern, blue fringe, decoration, floral motifs, Tibetan, stripes, circles",1,N/A,original,"176 x 99 cm. (69
+1
+⁄
+4
+ x 39 in.)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0603_000(a_tiger-striped_wool_rug_tibet_circa_19th_century021533).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/tiger-striped-wool-rug-603/312287?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6401.88,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7200.0,6000.0
+a3bf97b2-f264-4a2a-9676-468d34d28e7d,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 604,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A GILT-COPPER ALLOY EMBOSSED FIGURE OF BUDDHA,sculpture,gilt-copper alloy,N/A,N/A,38.5,cm,no,yes,yes,1700,"STATUE DE BOUDDHA EN ALLIAGE DE CUIVRE DORÉ REPOUSSÉ
+CHINE, DYNASTIE QING, XVIIIE SIÈCLE","Buddha, figure, bronze, sculpture, meditation, traditional attire, lotus base, Qing dynasty, Asian art, religious iconography",1,N/A,original,"38.5 cm. (15
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0604_000(a_gilt-copper_alloy_embossed_figure_of_buddha_china_qing_dynasty_18th014139).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/gilt-copper-alloy-embossed-figure-buddha-604/312289?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5618.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5120.0,4266.666666666667
+998bf7b3-6a9d-4c2e-a3d1-c513fbf90d52,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 605,EUR,10000,15000,N/A,N/A,10882.0,16323.0,N/A,N/A,N/A,N/A,N/A,A Sandstone Figure of Buddha Under Muchalinda,sculpture,sandstone,N/A,N/A,78,cm,no,yes,yes,1300,"With Obelisk Gallery, London, 14 April 1964.","Buddha, Muchalinda, sandstone, figure, meditation, Khmer period, lotus, snake, sculpture, Cambodia",1,N/A,original,"78 cm. (30
+3
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0605_000(a_sandstone_figure_of_buddha_under_muchalinda_cambodia_khmer_period_ba014208).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/sandstone-figure-buddha-under-muchalinda-605/312288?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13801.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,14000.0,11666.666666666668
+fbbbbe84-9c9f-4393-b74d-099a41c9f1ad,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 606,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A SMALL CINNABAR LACQUER BOX AND COVER,decorative arts,cinnabar lacquer,N/A,N/A,N/A,cm,no,yes,yes,16th century,"Acquired on the French art market, Paris, 13 March 1996.","cinnabar lacquer, box, cover, figures, mountains, trees, flowers, landscape, carvings, traditional clothing",1,N/A,original,"8 cm. (3
+1
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0606_000(a_small_cinnabar_lacquer_box_and_cover_china_ming_dynasty_16th_century014246).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-cinnabar-lacquer-box-cover-606/312290?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10796.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+7c082e12-42c8-4975-9c80-110962de7df3,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 607,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,Cinnabar Lacquer Rectangular 'Lu Dongbin' Box and Cover,decorative arts,cinnabar lacquer,N/A,9.875,N/A,cm,no,yes,yes,1500,"Acquired on the French art market, Paris, 11 March 1997.","box, cover, cinnabar lacquer, landscape, figures, dragon, clouds, boat, trees, mountains",1,N/A,original,"25 cm. (9
+7
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0607_000(a_cinnabar_lacquer_rectangular_lu_dongbin_box_and_cover_china_ming_dyn014307).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/cinnabar-lacquer-rectangular-lu-dongbin-box-cover-607/312292?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10777.77,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+f9a56eb3-4486-4266-a593-3890f955960c,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 608,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,Lovers Circular Box and Cover,decorative arts,cinnabar lacquer,N/A,N/A,N/A,cm,no,no,yes,N/A,"Acquired on the French art market, Paris, 13 March 1996.","cinnabar lacquer, circular box, lovers, trees, figures, nature, patterns, ornamental design, flowers",1,N/A,original,"16.8 cm. (6
+5
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0608_000(a_cinnabar_lacquer_lovers_circular_box_and_cover_china_19th-20th_centu021553).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/cinnabar-lacquer-lovers-circular-box-cover-608/312291?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+4c316e38-deeb-420c-a449-3d9b32d0e2d5,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 609,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A Carved Bamboo 'Crab' Wrist Rest,decorative arts,bamboo,N/A,N/A,21.3,cm,no,yes,yes,19th century,"Acquired on the French art market, 24 February 1987.","bamboo, crab, wrist rest, flower, foliage",1,N/A,original,"Inscribed with a three-character inscription.
+21.3 cm. (8
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0609_000(a_carved_bamboo_crab_wrist_rest_china_qing_dynasty_19th_century021625).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/carved-bamboo-crab-wrist-rest-609/312295?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+427c02c0-592f-4286-a8dd-db7a57e52f16,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 610,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,A LIU QING,N/A,N/A,CHINA,decorative arts,bamboo,N/A,N/A,6.3,cm,no,no,yes,N/A,"Acquired on the French art market, Versailles, 3 July 1993.","bamboo, brushpot, figures, trees, scholar, landscape, ancient clothing, interaction, nature, carving",1,N/A,original,"16 cm. (6
+1
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0610_000(a_liu_qing_carved_bamboo_brushpot_bitong_china014320).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/liu-qing-carved-bamboo-brushpot-bitong-610/312293?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1360.0,1133.3333333333335
+6e2a94df-52e0-499b-83d4-4fc79b21ec28,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 611,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A GLASS-INLAID ENAMELLED GILT-COPPER JARDINIÈRE,decorative arts,"gilt-copper, enamel, glass",N/A,9.84,N/A,cm,no,yes,yes,1736,"Acquired on the French art market, 16 May 1982.","jardiniere, glass, enamel, gilt, copper, blue, pattern, ornate, footed",1,N/A,original,"24.8 cm. (9
+3
+⁄
+4
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0611_000(a_glass-inlaid_enamelled_gilt-copper_jardiniere_china_qing_dynasty_qia014325).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/glass-inlaid-enamelled-gilt-copper-jardiniere-611/312294?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+6ccb6e39-c37d-4f7d-bfdc-15e2e8beb3df,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 612,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,AN ENAMELLED GILT-COPPER JARDINIÈRE,decorative arts,"gilt-copper, enamel",N/A,9.875,N/A,cm,no,yes,yes,1736,"Acquired on the French art market, 26 June 1992.","jardiniere, enamel, gilt copper, floral patterns, Qing dynasty, Qianlong period, decorative art, Chinese craftsmanship, blue, gold",1,N/A,original,"25 cm. (9
+7
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0612_000(an_enamelled_gilt-copper_jardiniere_china_qing_dynasty_qianlong_period014331).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/enamelled-gilt-copper-jardiniere-612/312298?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335
+3ec813cc-f14a-408f-979f-de50320da275,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 613,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,N/A,N/A,N/A,CHINA,ceramics,celadon glaze,N/A,N/A,N/A,cm,no,no,yes,N/A,"Acquired on the French art market, 28 October 1996.","celadon, glazed, tripod, censer, pottery, China",1,N/A,original,"10.8 cm. (4
+1
+⁄
+4
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0613_000(a_celadon-glazed_tripod_censer_china014336).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/celadon-glazed-tripod-censer-613/312297?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1360.0,1133.3333333333335
+e8219861-ba7b-41f3-88d6-24bb7f26f034,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 614,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,A Dehua Figure of Standing Guanyin,ceramics,Dehua porcelain,N/A,N/A,12.6,cm,no,yes,yes,19th century,"Acquired on the French art market, 3 May 1996.","figure, standing Guanyin, porcelain, white, robe, flowers, lotus base, 19th century, Qing dynasty",1,N/A,original,"You Bin Jin Ji 
+mark impressed on the back.
+32 cm. (12
+5
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0614_000(a_dehua_figure_of_standing_guanyin_china_qing_dynasty_19th_century014343).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/dehua-figure-standing-guanyin-614/312296?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.21,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3810.0,3175.0
+7fc7ac9f-dc4c-43ec-bcd6-73a966372b02,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 615,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A Famille Verte Rouleau Vase,ceramics,porcelain,N/A,N/A,44,cm,no,yes,yes,1644,"Acquired on the French art market, 16 June 1986.","vase, famille verte, floral, butterflies, tree, foliage, Chinese, Qing dynasty, ceramics, decoration",1,N/A,original,"44 cm. (17
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0615_000(a_famille_verte_rouleau_vase_china_qing_dynasty014404).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/famille-verte-rouleau-vase-615/312299?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5611.77,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+10012bbe-ca87-4e67-84e8-757b350516b1,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 616,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A Celadon-Glazed Famille Rose Baluster Vase,ceramics,"celadon glaze, famille rose",N/A,N/A,23.2,cm,no,yes,yes,1736,"Acquired on the French art market, 7 July 1993.","vase, celadon glaze, famille rose, gold decoration, landscape, trees, animals, flowers, Qianlong mark",1,N/A,original,"A gilt Qianlong six-character seal mark effaced to the base.
+23.2 cm. (9
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0616_000(a_celadon-glazed_famille_rose_baluster_vase_china_qing_dynasty_qianlon014445).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/celadon-glazed-famille-rose-baluster-vase-616/312302?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10777.73,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+a4395b74-9c1b-4ca5-a45f-148f5846d3c5,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 617,EUR,1500,2000,N/A,N/A,1632.3,2176.4,N/A,N/A,N/A,N/A,N/A,A SMALL BLUE AND WHITE VASE AND A SMALL BLUE AND WHITE JAR AND COVER,ceramics,ceramic,N/A,11.5,10.5,cm,no,yes,yes,1722,"Small vase: Christie's Paris, 
+Art of Asia
+, 28 November - 13 December 2024, lot 698 (part).
+Small jar and cover: Christie's Paris, 
+Art d'Asie
+, 21-22 June 2016, lot 275 (part).","vase, jar, blue-and-white, floral pattern, figures, table, games, traditional attire, Asian art, porcelain",2,N/A,original,"10.5 cm. (4
+1
+⁄
+8
+ in.) and 11.5 cm. (4
+1
+⁄
+2
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0617_000(a_small_blue_and_white_vase_and_a_small_blue_and_white_jar_and_cover_c_d6591151021811).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-blue-white-vase-small-blue-white-jar-cover-617/312304?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2401.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+36efd394-327a-4697-9828-e5992ccb6f1d,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 618,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,"A SMALL BLUE AND WHITE FIGURAL VASE, GU",ceramics,porcelain,N/A,N/A,24.8,cm,no,yes,yes,1722,"PETIT VASE EN PORCELAINE BLEU BLANC À DÉCOR DE PERSONNAGES, 
+GU
+CHINE, DYNASTIE QING, ÉPOQUE KANGXI (1662-1722)","vase, porcelain, blue, white, figures, flowers, landscape, mountains, decoration, characters",1,N/A,original,"24.8 cm. (9
+3
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0618_000(a_small_blue_and_white_figural_vase_gu_china_qing_dynasty_kangxi_perio021822).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-blue-white-figural-vase-gu-618/312300?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+e092580c-0287-4a09-93e0-8952c4e48fba,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 619,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,A LARGE FAMILLE VERTE ‘BASKET’ CHARGER,ceramics,ceramic,N/A,N/A,N/A,cm,no,yes,yes,1722,"Sotheby’s Paris
+, Arts d’Asie
+, 23 June 2016, lot 3 (part).","charger, basket, flowers, green, red, blue, patterns, Chinese porcelain, Qing dynasty, decoration",1,N/A,original,"38.6 cm. (15
+1
+⁄
+4
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0619_000(a_large_famille_verte_8216basket8217_charger_china_qing_dynasty_kangxi021846).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/large-famille-verte-basket-charger-619/312305?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4881.21,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+4363938a-c220-4428-a665-e3b7eb012e8e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 620,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,A Pair of Famille Verte ‘Basket’ Dishes,ceramics,ceramic,N/A,N/A,N/A,cm,no,yes,yes,1722,"Sotheby’s Paris
+, Arts d’Asie
+, 23 June 2016, lot 3 (part).","dishes, famille verte, floral arrangement, vases, decorative art, Qing dynasty, colored glaze, circular shape, Chinese porcelain, patterns",2,N/A,original,"26.5 cm. (10
+3
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0620_000(a_pair_of_famille_verte_8216basket8217_dishes_china_qing_dynasty_kangx_d6591154021900).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pair-famille-verte-basket-dishes-620/312301?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+1c494ddc-24ea-4889-bdae-dca376f01606,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 621,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A Dehua Figure of Wen Chang,ceramics,Dehua porcelain,N/A,N/A,26.5,cm,no,yes,yes,1700,"STATUE DE WEN CHANG EN PORCELAINE DEHUA
+CHINE, DYNASTIE QING, XVIIE-XVIIIE SIÈCLE","statue, porcelain, Wen Chang, Qing Dynasty, figure, seated, traditional attire, Chinese culture, 17th century, 18th century",1,N/A,original,"26.5 cm. (10
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0621_000(a_dehua_figure_of_wen_chang_china_qing_dynasty_17th-18th_century_d6591155021905).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/dehua-figure-wen-chang-621/312309?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.3,1360.25
+5500221a-aed2-4ce2-9b7e-73b52355fd3e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 622,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A Famille Rose Leaf-Form Washer and a Small Famille Rose and Imari Brush Pot,decorative arts,ceramics,N/A,23.1,7.8,cm,no,yes,yes,1862,"RINCE-PINCEAU EN FORME DE FEUILLE EN PORCELAINE DE LA FAMILLE ROSE ET POT À PINCEAUX EN PORCELAINE DE LA FAMILLE ROSE ET 
+IMARI
+CHINE, DYNASTIE QING, RINCE-PINCEAU : MARQUE À SIX CARACTÈRES EN CACHET EN ROUGE DE FER ET ÉPOQUE TONGZHI (1862-1874), POT À PINCEAUX : MARQUE À QUATRE CARACTÈRES EN CACHET EN ROUGE DE FER ET ÉPOQUE GUANGXU (1875-1908)","washer, brush pot, porcelain, famille rose, Qing dynasty, green, floral, foundation, decoration, birds",2,N/A,original,"Washer: 23.1 cm. (9
+1
+⁄
+8
+ in.) wide, wood stand
+Brush pot: 7.8 cm. (3
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0622_000(a_famille_rose_leaf-form_washer_and_a_small_famille_rose_and_imari_bru_d6591156021910).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/famille-rose-leaf-form-washer-small-famille-rose-imari-brush-pot-622/312303?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1477.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1620.0,1350.0
+6f8a65ee-10d4-40b3-8973-da5d158a211e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 623,EUR,3000,5000,N/A,N/A,3264.6,5441.0,N/A,N/A,A FAMILLE VERTE,N/A,N/A,OSMANTHUS WINE CUP,ceramics,porcelain,N/A,N/A,N/A,cm,no,yes,yes,1821,"COUPE EN PORCELAINE DE LA FAMILLE VERTE À DÉCOR D'OSMANTHE
+CHINE, DYNASTIE QING, MARQUE À SIX CARACTÈRES EN CACHET EN ROUGE DE FER ET ÉPOQUE DAOGUANG (1821-1850)","cup, porcelain, floral design, osmanthus, branch, leaves, red flowers, yellow flowers, green leaves, white background",1,N/A,original,"6.2 cm. (2
+1
+⁄
+2
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0623_000(a_famille_verte_osmanthus_wine_cup_china_qing_dynasty_daoguang_six-cha_d6591157021915).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/famille-verte-osmanthus-wine-cup-623/312308?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4074.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,4350.0,3625.0
+bd7e6f32-24e5-4a63-8a9a-91b34761f189,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 624,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,TWO PAINTED ENAMEL DISHES,decorative arts,enamel,N/A,N/A,N/A,cm,no,yes,yes,1736,"DEUX COUPES EN ÉMAUX PEINTS
+CHINE, DYNASTIE QING, ÉPOQUE QIANLONG (1736-1795)","dishes, flowers, butterflies, fruit, ornamental borders, colors, patterns, Qing dynasty, Qianlong period, enamel",2,N/A,original,"16.5 cm. (6
+1
+⁄
+2
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0624_000(two_painted_enamel_dishes_china_qing_dynasty_qianlong_period021922).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/two-painted-enamel-dishes-624/312306?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335
+423573c2-15cb-47fa-80e9-a1e18a4531cc,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 625,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A Pair of Cloisonné Enamel 'Peony' Moonflasks,ceramics,Cloisonné enamel,N/A,N/A,52.8,cm,no,yes,yes,19th century,"PAIRE DE GOURDES EN ÉMAUX CLOISONNÉS À DÉCOR DE PIVOINES
+CHINE, DYNASTIE QING, XIXE SIÈCLE","vases, cloisonné, peonies, floral decoration, Qing dynasty, 19th century, green, gold, blue, red",1,N/A,original,"52.8 cm. (20
+3
+⁄
+4
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0625_000(a_pair_of_cloisonne_enamel_peony_moonflasks_china_qing_dynasty_19th_ce021956).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pair-cloisonne-enamel-peony-moonflasks-625/312307?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5161.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+ca83261a-246b-4fa2-afa5-81c817d6c463,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 626,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A LARGE CLOISONNÉ ENAMEL CIRCULAR PLAQUE,decorative arts,Cloisonné enamel,N/A,N/A,N/A,cm,no,yes,yes,1820,Previously from a French private collection.,"plaque, cloisonné, enamel, birds, flowers, tree, blue background, Qianlong, circular, decorative",1,N/A,original,"64.5 cm. (25
+3
+⁄
+8
+ in.) diameter",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0626_000(a_large_cloisonne_enamel_circular_plaque_china_qing_dynasty_qianlong-j022028).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/large-cloisonne-enamel-circular-plaque-626/312311?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.91,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+d6fa1dcd-5673-440b-872e-af163a6d871d,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 627,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A SMALL OVERLAY WHITE GLASS BOTTLE VASE,decorative arts,overlay white glass,N/A,N/A,16.4,cm,no,yes,yes,1644,"VASE BOUTEILLE EN VERRE BLANC ET OVERLAY
+CHINE, DYNASTIE QING (1644-1911), MARQUE QIANLONG APOCRYPHE","vase, glass, floral design, green, red, yellow, white, bottle shape, Qing dynasty, China",1,N/A,original,"16.4 cm. (6
+1
+⁄
+2
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0627_000(a_small_overlay_white_glass_bottle_vase_china_qing_dynasty_apocryphal073627).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-overlay-white-glass-bottle-vase-627/312313?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1387.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.0,1360.0
+e91c8db5-7e46-4d8b-8ab7-afa6573e9a45,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 628,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A MOTTLED JADE SPLIT RING,decorative arts,jade,N/A,N/A,3.5,cm,no,yes,yes,3500,"Acquired in Beijing, February 1945 (according to Max Loehr's notes).
+Collection of Prof. Max Loehr (1903-1988).
+J. J. Lally & Co., New York, 1993.
+Sotheby’s Paris, 
+Jades Archaïques de Chine Comprenant L’ancienne Collection Max Loehr / Early Chinese Jade and Hardstone Carvings Including The Collection Of Max Loehr
+, 15 December 2016, lot 25.","mottled jade, split ring, Neolithic, ancient China",1,N/A,original,"3.5 cm. (1
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0628_000(a_mottled_jade_split_ring_china_neolithic_period_circa_3500-2500_bc014649).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/mottled-jade-split-ring-628/312317?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2700.0,2250.0
+8ac289aa-0a1d-4a44-93e1-f28ce19696ef,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 629,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,Zodiac Snake,sculpture,celadon jade,N/A,N/A,4.7,cm,no,yes,yes,1644,"PETIT SERPENT DU ZODIAQUE EN JADE CÉLADON PÂLE
+CHINE, DYNASTIE QING (1644-1911)","snake, jade, zodiac, sculpture, Qing dynasty, pale celadon, carving",1,N/A,original,"4.7 cm. (1
+7
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0629_000(a_small_pale_celadon_jade_zodiac_snake_carving_china_qing_dynasty014707).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-pale-celadon-jade-zodiac-snake-carving-629/312310?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+486fb9da-d24a-4227-9329-4253dace11f1,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 630,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,N/A,N/A,N/A,A SMALL PALE CELADON JADE GROUP OF CATS,sculpture,celadon jade,N/A,2.5,N/A,cm,no,yes,yes,19th century,"PETIT GROUPE DE DEUX CHATS EN JADE CÉLADON PÂLE
+CHINE, DYNASTIE QING, XIXE SIÈCLE","cats,jade,sculpture,Qing dynasty,China,pale celadon",1,N/A,original,"6.1 cm. (2
+3
+⁄
+8
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0630_000(a_small_pale_celadon_jade_group_of_cats_china_qing_dynasty_19th_centur_d6591164022149).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-pale-celadon-jade-group-cats-630/312314?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1400.0,1166.6666666666667
+554a710d-78ea-48d3-89da-69c631ac213e,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 631,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A VERY PALE CELADON JADE ‘TWIN-FISH’ VASE AND COVER,ceramics,celadon jade,N/A,N/A,20.6,cm,no,no,yes,N/A,"VASE COUVERT ‘DOUBLE POISSON’ EN JADE CÉLADON TRÈS PÂLE
+CHINE","vase, fish, jade, celadon, cover",1,N/A,original,"20.6 cm. (8
+1
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0631_000(a_very_pale_celadon_jade_8216twin-fish8217_vase_and_cover_china_d6591165022201).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/very-pale-celadon-jade-twin-fish-vase-cover-631/312312?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5518.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5440.0,4533.333333333334
+c440a900-aeb9-457d-9eca-314ea7e81faa,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 632,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A SMALL AGATE FIGURE OF AN IMMORTAL,sculpture,"agate, wood",N/A,N/A,10.6,cm,no,yes,yes,1700,Previously from the collection of Sigrid Ahlgren (1865-1938).,"immortal, figure, agate, dog, mushroom, robe, stand, wood, Qing dynasty, 18th century",1,N/A,original,"10.6 cm. (4
+1
+⁄
+8
+ in.) high, wood stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0632_000(a_small_agate_figure_of_an_immortal_china_qing_dynasty_18th_century_d6591166022206).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/small-agate-figure-immortal-632/312315?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2751.17,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+c94e5b5e-1497-430f-9e27-d31ce757535d,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 633,EUR,3000,4000,N/A,N/A,3264.6,4352.8,N/A,N/A,N/A,N/A,N/A,A Celadon and Russet Jade Figure of Guanyin,sculpture,celadon and russet jade,N/A,N/A,19.5,cm,no,yes,yes,1911,"STATUE DE GUANYIN EN JADE CÉLADON ET ROUILLE
+CHINE, DYNASTIE QING (1644-1911)","Guanyin, jade figure, celadon, Qing Dynasty, statue, hands, traditional clothing, serene expression, ornamentation, spiritual figure",1,N/A,original,"19.5 cm. (7
+5
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0633_000(a_celadon_and_russet_jade_figure_of_guanyin_china_qing_dynasty_d6591167022211).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/celadon-russet-jade-figure-guanyin-633/312322?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3800.0,3166.666666666667
+b2d866d1-8af8-4443-a1d0-3dcaea9b0a0f,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 634,EUR,4000,6000,N/A,N/A,4352.8,6529.2,N/A,N/A,N/A,N/A,N/A,A PALE CELADON JADE GROUP OF TWO FEMALE WARRIORS,sculpture,"celadon jade, hongmu",N/A,N/A,20.3,cm,no,no,yes,N/A,Acquired in Saigon between 1913 and 1929.,"female warriors, jade sculpture, musical instruments, clothing, wooden stand",1,N/A,original,"20.3 cm. (8 in.) high, 
+hongmu 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0634_000(a_pale_celadon_jade_group_of_two_female_warriors_china022215).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pale-celadon-jade-group-two-female-warriors-634/312316?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5121.97,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5400.0,4500.0
+7b6a1c9d-60de-4475-b3f3-5081d703cba9,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 635,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A Jadeite Group of Figures on a Boat,sculpture,"jadeite, hongmu",N/A,17.3,N/A,cm,no,yes,yes,19th century,Acquired in Saigon between 1913 and 1929.,"jadeite, boat, figures, lotus, vase, fishing, traditional clothing, scenery, Chinese culture",1,N/A,original,"17.3 cm. (6
+3
+⁄
+4
+ in.) wide, 
+hongmu 
+stand",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0635_000(a_jadeite_group_of_figures_on_a_boat_china_qing_dynasty_19th_century022245).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/jadeite-group-figures-boat-635/312318?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2761.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+622c8606-8a98-4f57-8c8e-1a4dca9d2115,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 636,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A WHITE JADE SNUFF BOTTLE,decorative arts,white jade,N/A,N/A,7.4,cm,no,yes,yes,1644,"TABATIÈRE EN JADE BLANC
+CHINE, DYNASTIE QING (1644-1911)","snuff bottle, white jade, Qing dynasty, floral motifs, gilded stopper, Chinese art, carved decoration",1,N/A,original,"Apocryphal Yongzheng four-character mark to the base.
+7.4 cm. high (with stopper)",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0636_000(a_white_jade_snuff_bottle_china_qing_dynasty022315).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/white-jade-snuff-bottle-636/312319?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2720.0,2266.666666666667
+005cebc1-18f4-4964-8f7a-0a408c1e18e2,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 637,EUR,1000,1500,N/A,N/A,1088.2,1632.3,N/A,N/A,N/A,N/A,N/A,A Pale Celadon and Russet Jade Archer's Ring,decorative arts,celadon and russet jade,N/A,1.25,N/A,in,no,yes,yes,1644,"BAGUE D'ARCHER EN JADE CÉLADON ET ROUILLE
+CHINE, DYNASTIE QING (1644-1911)","jade, archers ring, pale celadon, russet, Qing dynasty, China",1,N/A,original,"1
+1
+⁄
+4
+ in. (3.3 cm.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0637_000(a_pale_celadon_and_russet_jade_archers_ring_china_qing_dynasty022336).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/pale-celadon-russet-jade-archers-ring-637/312321?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1381.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1340.0,1116.6666666666667
+f42c7c89-e2d5-47fb-bfff-805a11b622c7,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 638,EUR,1000,2000,N/A,N/A,1088.2,2176.4,N/A,N/A,N/A,N/A,N/A,A Celadon and Russet Jade Bead Necklace and a Turquoise Bead Necklace,decorative arts,"celadon jade, russet jade, turquoise",N/A,N/A,34,cm,no,no,yes,N/A,"UN COLLIER DE PERLES EN JADE CÉLADON ET ROUILLE ET UN COLLIER DE PERLES EN TURQUOISE
+CHINE","necklace, jade, turquoise, beads, tassels, ornamentation",1,N/A,original,"circa 
+34 cm. (13
+3
+⁄
+8
+ in.) and 44 cm. (17
+3
+⁄
+8
+ in.) high",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0638_000(a_celadon_and_russet_jade_bead_necklace_and_a_turquoise_bead_necklace014846).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/celadon-russet-jade-bead-necklace-turquoise-bead-necklace-638/312320?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1397.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1632.3,1360.25
+0efc0869-04a1-4094-817d-8172e2307ad6,Artwork,Christies,24420,2024-05-29,Paris,Arts of Asia,https://onlineonly.christies.com/s/arts-asia/lots/3919?loadall=true&page=10&sortby=LotNumber,Lot 639,EUR,2000,3000,N/A,N/A,2176.4,3264.6,N/A,N/A,N/A,N/A,N/A,A WHITE JADE PENDANT,decorative arts,white jade,N/A,6.3,N/A,cm,no,no,yes,N/A,"PENDENTIF EN JADE BLANC
+CHINE, DYNASTIE QING, XVIIIE-XIXE SIÈCLE","jade pendant, chain, Qing dynasty, white jade, 18th century, 19th century, carving, decorative art, jewelry",1,N/A,original,"With a chain.
+6.3 cm. (2
+1
+⁄
+2
+ in.) wide",https://www.christies.com/img/LotImages/2026/PAR/2026_PAR_24420_0639_000(a_white_jade_pendant_china_qing_dynasty_18th-19th_century014901).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/arts-asia/white-jade-pendant-639/312323?ldp_breadcrumb=back,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2781.18,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2710.0,2258.3333333333335

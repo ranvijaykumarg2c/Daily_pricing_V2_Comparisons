@@ -1,0 +1,32 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Universal Genève,None,Sotheby's,11151.8,22303.6,None,15800.0,13166.666666666668
+Lot 2,A. Lange & Söhne,None,Sotheby's,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 3,A. Lange & Söhne,None,Sotheby's,33455.4,55759.0,None,45000.0,37500.0
+Lot 4,A. Lange & Söhne,None,Sotheby's,278794.99,557589.98,None,450000.0,375000.0
+Lot 5,A. Lange & Söhne,None,Sotheby's,167277.0,334553.99,None,245000.0,204166.6666666667
+Lot 6,A. Lange & Söhne,None,Sotheby's,223035.99,446071.99,None,335000.0,279166.6666666667
+Lot 7,Vacheron Constantin,None,Sotheby's,78062.6,111518.0,None,100000.0,83333.33333333334
+Lot 8,Vacheron Constantin,None,Sotheby's,78062.6,111518.0,None,100000.0,83333.33333333334
+Lot 9,Vacheron Constantin,None,Sotheby's,44607.2,89214.4,None,67800.0,56500.0
+Lot 10,Vacheron Constantin,None,Sotheby's,33455.4,55759.0,None,45000.0,37500.0
+Lot 11,Vacheron Constantin,None,Sotheby's,16727.7,33455.4,None,24500.0,20416.666666666668
+Lot 12,Patek Philippe,None,Sotheby's,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 13,Patek Philippe,None,Sotheby's,55759.0,111518.0,None,85000.0,70833.33333333334
+Lot 14,Patek Philippe,None,Sotheby's,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 15,Patek Philippe,None,Sotheby's,223035.99,446071.99,None,335000.0,279166.6666666667
+Lot 16,Patek Philippe,None,Sotheby's,2787949.92,5575899.84,None,4320000.0,3600000.0
+Lot 17,Patek Philippe,None,Sotheby's,446071.99,892143.97,None,678000.0,565000.0
+Lot 18,Patek Philippe,None,Sotheby's,1115179.97,3345539.91,None,2450000.0,2041666.6666666667
+Lot 19,Patek Philippe,None,Sotheby's,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 20,Patek Philippe,None,Sotheby's,1672769.95,3345539.91,None,2670000.0,2225000.0
+Lot 21,Patek Philippe,None,Sotheby's,223035.99,446071.99,None,335000.0,279166.6666666667
+Lot 22,Patek Philippe,None,Sotheby's,1115179.97,3345539.91,None,2450000.0,2041666.6666666667
+Lot 23,Patek Philippe,None,Sotheby's,111518.0,167277.0,None,145000.0,120833.33333333334
+Lot 24,Patek Philippe,None,Sotheby's,111518.0,223035.99,None,198000.0,165000.0
+Lot 25,Patek Philippe,None,Sotheby's,6691.08,8921.44,None,7500.0,6250.0
+Lot 26,Patek Philippe,None,Sotheby's,11151.8,22303.6,None,18400.0,15333.333333333334
+Lot 27,Patek Philippe,None,Sotheby's,16727.7,33455.4,None,24500.0,20416.666666666668
+Lot 28,Patek Philippe,None,Sotheby's,16727.7,33455.4,None,24500.0,20416.666666666668
+Lot 29,Patek Philippe,None,Sotheby's,16727.7,33455.4,None,25000.0,20833.333333333336
+Lot 30,Patek Philippe,None,Sotheby's,334553.99,557589.98,None,450000.0,375000.0
+Lot 31,Patek Philippe,None,Sotheby's,44607.2,89214.4,None,75000.0,62500.0

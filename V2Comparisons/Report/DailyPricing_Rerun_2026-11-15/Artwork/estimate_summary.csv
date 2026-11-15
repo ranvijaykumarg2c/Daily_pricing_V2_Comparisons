@@ -1,0 +1,4 @@
+comparison,N,median_ape_pct,median_bias_pct,median_abs_error_usd,median_signed_error_usd,within_10_pct,within_20_pct,within_30_pct
+Low estimate,18967,32.89,-14.1,2784.49,-1122.23,19.64,35.23,46.96
+Estimate midpoint,18967,34.38,7.09,3162.16,195.07,13.51,30.71,43.87
+High estimate,18967,41.73,25.98,3866.67,966.67,10.95,23.25,35.24

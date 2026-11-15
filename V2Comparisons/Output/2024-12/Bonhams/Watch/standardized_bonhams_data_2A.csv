@@ -1,0 +1,41 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 81,Rolex,Cellini,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 82,Vacheron Constantin,<NA>,Bonhams,4000,8000,None,6500.0,5416.666666666667
+Lot 83,Patek Philippe,Ellipse,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 84,Patek Philippe,Calatrava,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 85,Patek Philippe,<NA>,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 86,Patek Philippe,<NA>,Bonhams,6000,9000,None,7500.0,6250.0
+Lot 87,Cartier,Santos Demoiselle,Bonhams,7000,9000,None,8500.0,7083.333333333334
+Lot 88,Cartier,Pasha de Cartier,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 89,Breguet,Classique,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 90,Audemars Piguet,Royal Oak,Bonhams,15000,25000,None,21500.0,17916.666666666668
+Lot 91,Audemars Piguet,"Edward Piguet, Quantième Perpetuel",Bonhams,8000,12000,None,10500.0,8750.0
+Lot 92,Rolex,"Daytona ""Small Red""",Bonhams,40000,60000,None,52000.0,43333.333333333336
+Lot 93,Rolex,Cosmograph Daytona 'Zenith',Bonhams,10000,15000,None,13500.0,11250.0
+Lot 94,Rolex,Air-King,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 95,Rolex,Submariner,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 96,Rolex,Explorer II,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 97,Rolex,GMT-Master II 'Batgirl',Bonhams,8000,12000,None,10500.0,8750.0
+Lot 98,Rolex,Cosmograph Daytona,Bonhams,10000,20000,None,15500.0,12916.666666666668
+Lot 99,Rolex,GMT-Master II 'Pepsi',Bonhams,10000,20000,None,15500.0,12916.666666666668
+Lot 100,Rolex,GMT-Master II 'Sprite',Bonhams,10000,20000,None,15500.0,12916.666666666668
+Lot 101,Rolex,Yacht-Master,Bonhams,12000,25000,None,19500.0,16250.0
+Lot 102,Rolex,Sky-Dweller,Bonhams,12000,18000,None,15500.0,12916.666666666668
+Lot 103,Rolex,Cosmograph Daytona,Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 104,Rolex,Cosmograph Daytona,Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 105,Rolex,Yacht-Master II Regatta Chronograph Flyback,Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 106,Rolex,GMT-Master II,Bonhams,30000,60000,None,48500.0,40416.66666666667
+Lot 107,Rolex,Submariner,Bonhams,80000,150000,None,120000.0,100000.0
+Lot 108,Rolex,Daytona 'Eye of Tiger',Bonhams,100000,200000,None,175000.0,145833.33333333334
+Lot 109,Patek Philippe,Annual Calendar Complication,Bonhams,30000,60000,None,48500.0,40416.66666666667
+Lot 110,Patek Philippe,Grand Complications,Bonhams,30000,60000,None,48500.0,40416.66666666667
+Lot 111,Patek Philippe,World Time Oceana & South-East Asia,Bonhams,60000,80000,None,75000.0,62500.0
+Lot 112,IWC,Ingenieur,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 113,Patek Philippe,Calatrava,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 114,Patek Philippe,Calatrava,Bonhams,10000,15000,None,13500.0,11250.0
+Lot 115,Rolex,Oyster Perpetual Date,Bonhams,6000,8000,None,7500.0,6250.0
+Lot 116,Rolex,Oyster Perpetual,Bonhams,10000,20000,None,17500.0,14583.333333333334
+Lot 117,Vacheron Constantin,<NA>,Bonhams,15000,25000,None,22000.0,18333.333333333336
+Lot 118,Patek Philippe,<NA>,Bonhams,25000,50000,None,45000.0,37500.0
+Lot 119,Patek Philippe,<NA>,Bonhams,15000,25000,None,22000.0,18333.333333333336
+Lot 120,Patek Philippe,Amagnetic,Bonhams,25000,50000,None,37500.0,31250.0

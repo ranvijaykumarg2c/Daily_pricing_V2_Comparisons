@@ -1,0 +1,177 @@
+lot_number,artist_name,artwork_title,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Albrecht Dürer ,"Christ Taking Leave of His Mother, from The Life of the Virgin",4000,6000,5000.0,4166.666666666667
+Lot 2,Rembrandt Harmensz van Rijn ,The Persian,3500,4500,4000.0,3333.3333333333335
+Lot 3,Rembrandt Harmensz van Rijn ,"The Artist's Mother Seated, in an Oriental Headdress: Half Length",2500,3500,3000.0,2500.0
+Lot 4,Martin Schongauer ,The Man of Sorrows Between the Virgin and St. John,2000,4000,3500.0,2916.666666666667
+Lot 5,Josef Albers ,"One Plate, from Hommage au carré",3000,5000,4500.0,3750.0
+Lot 6,Jean ,Le Soleil Recerclé,6000,8000,7500.0,6250.0
+Lot 7,Alexander Calder ,Circles,3000,5000,4500.0,3750.0
+Lot 8,Alexander Calder ,When One Leaf Hangs on a Bough,2000,3000,2500.0,2083.3333333333335
+Lot 9,Alexander Calder ,Untitled (Derriere le Miroir #201),2000,3000,2500.0,2083.3333333333335
+Lot 10,Alexander Calder ,"Untitled, from Graphikmappe Hochschule St. Gallen",2000,3000,2500.0,2083.3333333333335
+Lot 11,Alexander Calder ,Cercle Jaune,20000,30000,25000.0,20833.333333333336
+Lot 12,Kurt Schwitters ,Kleine Dada Soirée (with Theo van Doesburg),15000,20000,17500.0,14583.333333333334
+Lot 13,Sonia Delaunay ,"Four plates, from Ses Peintures, Ses Objets, Ses Tissus Simultanés, Ses Modes (4 works)",1200,1800,1500.0,1250.0
+Lot 14,Sonia Delaunay ,Les Illuminations (15 works),12000,18000,14500.0,12083.333333333334
+Lot 15,M.C. Escher ,"Four Elements (Earth, Air, Fire, Water) (4 works)",4000,6000,5000.0,4166.666666666667
+Lot 16,M.C. Escher ,The Second Day of Creation (The Division of the Waters),15000,25000,22000.0,18333.333333333336
+Lot 17,Dorothea Tanning ,Birthday (Self Portrait at Age 30),5000,7000,6500.0,5416.666666666667
+Lot 18,Salvador Dalí ,The Twelve Signs of the Zodiac,12000,18000,14500.0,12083.333333333334
+Lot 19,Salvador Dalí ,Alice's Adventures in Wonderland,5000,7000,6200.0,5166.666666666667
+Lot 21,Marc Chagall ,"Festin nuptial dans la grotte des nymphes, from Daphnis et Chloé",15000,20000,17500.0,14583.333333333334
+Lot 22,Marc Chagall ,L'Artiste Phenix,6000,8000,7500.0,6250.0
+Lot 23,Marc Chagall ,"One Plate, from Le Cirque",12000,18000,14500.0,12083.333333333334
+Lot 24,Marc Chagall ,Copper plate for L'Apparition,15000,25000,20000.0,16666.666666666668
+Lot 27,Henri Matisse ,"Danseuse couchée, from Dix Danseuses",4000,6000,5000.0,4166.666666666667
+Lot 28,Paul Cézanne ,"Baigneuses (petite planche), from Album d'Estampes de la Galerie Vollard",10000,15000,12500.0,10416.666666666668
+Lot 30,Wassily Kandinsky ,Kleine Welten X,3000,6000,4500.0,3750.0
+Lot 31,Léonard Tsuguharu Foujita ,"Chat brun, from Les Chats",8000,12000,9500.0,7916.666666666667
+Lot 32,Zao Wou-Ki ,Untitled,3000,5000,4500.0,3750.0
+Lot 33,Joan Miró ,Grans Rupestres VII,6000,8000,7500.0,6250.0
+Lot 34,Rufino Tamayo ,Dos Personajes Atacados por Perros,15000,25000,22000.0,18333.333333333336
+Lot 35,Pablo Picasso ,Jeunesse,20000,30000,25000.0,20833.333333333336
+Lot 36,Pablo Picasso ,Femme au fauteuil No. 1 (d'après le rouge),50000,70000,62000.0,51666.66666666667
+Lot 37,Pablo Picasso ,Le grand hibou,12000,18000,15000.0,12500.0
+Lot 38,Pablo Picasso ,Chouette,12000,18000,15000.0,12500.0
+Lot 39,Pablo Picasso ,Chouetton,5000,7000,6200.0,5166.666666666667
+Lot 40,Pablo Picasso ,Visage tourmenté,8000,12000,10500.0,8750.0
+Lot 41,Pablo Picasso ,Quatre profils enlacés,10000,15000,12500.0,10416.666666666668
+Lot 42,Pablo Picasso ,Hibou Mat,12000,18000,14500.0,12083.333333333334
+Lot 43,Pablo Picasso ,Profil de Jacqueline,8000,12000,10500.0,8750.0
+Lot 44,Pablo Picasso ,Yan petites têtes,4000,6000,5200.0,4333.333333333334
+Lot 45,Pablo Picasso ,Pichet petites têtes,2500,3500,3000.0,2500.0
+Lot 46,Pablo Picasso ,Masque,2000,3000,2500.0,2083.3333333333335
+Lot 47,Pablo Picasso ,Le Peintre et son modèle nu au chapeau,10000,15000,12500.0,10416.666666666668
+Lot 48,Pablo Picasso ,Petit buste de femme,15000,20000,18500.0,15416.666666666668
+Lot 49,After Pablo Picasso ,Nature morte à la bouteille de vin et aux raisins,6000,8000,7500.0,6250.0
+Lot 50,After Pablo Picasso ,"Clowne et acrobate, from Verve Nos 29-30",4000,6000,5000.0,4166.666666666667
+Lot 51,Pablo Picasso ,"Peintre et son modèle, from Série 347",5000,7000,6500.0,5416.666666666667
+Lot 52,Pablo Picasso ,Dormeuse et flûtiste II,2500,3500,3000.0,2500.0
+Lot 53,Pablo Picasso ,"Modèle nu et sculptures, pl. 72, from La Suite Vollard",8000,12000,9500.0,7916.666666666667
+Lot 54,Pablo Picasso ,"Sculpteur et son modèle devant une fenêtre, pl.59, from La Suite Vollard",7000,10000,8500.0,7083.333333333334
+Lot 59,Pierre-Auguste Renoir ,Enfants jouant à la balle,10000,15000,12500.0,10416.666666666668
+Lot 66,Pierre-Auguste Renoir ,Femme nue couchée (tournée à gauche),2000,3000,2500.0,2083.3333333333335
+Lot 71,Pierre-Auguste Renoir ,"Sur la plage, à Berneval",800,1200,950.0,791.6666666666667
+Lot 72,Pierre-Auguste Renoir ,"La danse à la campagne, 2e planche",6000,8000,7500.0,6250.0
+Lot 74,James Abbott McNeill Whistler ,Eagle Wharf,4000,6000,5000.0,4166.666666666667
+Lot 75,Pierre Bonnard ,France-Champagne,7000,10000,8500.0,7083.333333333334
+Lot 76,Adolphe Mouron Cassandre ,Perrier le champagne des eaux de table,10000,15000,12500.0,10416.666666666668
+Lot 77,Adolphe Mouron Cassandre ,Nord Express,7000,9000,8500.0,7083.333333333334
+Lot 78,Leslie Ragan ,The New 20th Century Limited,7000,10000,8500.0,7083.333333333334
+Lot 79,Josef Albers ,I-S h,4000,6000,5000.0,4166.666666666667
+Lot 80,Jennifer Bartlett ,"House #2, from House II",2000,3000,2500.0,2083.3333333333335
+Lot 81,Jennifer Bartlett ,"House #6, from House II",2000,3000,2500.0,2083.3333333333335
+Lot 82,Vija Celmins ,Spider Web,3500,5500,4500.0,3750.0
+Lot 83,Chuck Close ,Self-Portrait,4000,5000,4500.0,3750.0
+Lot 84,Richard Prince ,18 & Stormy,2000,3000,2500.0,2083.3333333333335
+Lot 85,William Wegman ,Friends,1000,1500,1250.0,1041.6666666666667
+Lot 86,Damien Hirst ,Mickey (White),25000,35000,30000.0,25000.0
+Lot 87,Mr. Brainwash ,Everyday Life,5000,7000,6200.0,5166.666666666667
+Lot 88,Mr. Brainwash ,Love is in the Air - New York,3000,5000,4500.0,3750.0
+Lot 89,Donald Sultan ,Gold Flowers,4000,6000,5000.0,4166.666666666667
+Lot 90,Donald Sultan ,Silver Flowers,4000,6000,5000.0,4166.666666666667
+Lot 91,Takashi Murakami ,Monogramouflage Treillis Denim (Louis Vuitton),8000,10000,9500.0,7916.666666666667
+Lot 92,Takashi Murakami ,Monogramouflage Treillis (Louis Vuitton),8000,10000,9500.0,7916.666666666667
+Lot 93,David Hockney ,"Red Square and the Forbidden City, from China Diary",2000,4000,3500.0,2916.666666666667
+Lot 94,David Hockney ,My Window,1500,2500,2000.0,1666.6666666666667
+Lot 95,Robert Motherwell ,"Untitled, from Portfolio 9",2000,3000,2500.0,2083.3333333333335
+Lot 96,David Shrigley ,Black Cats,3000,5000,4500.0,3750.0
+Lot 97,LeRoy Neiman ,Resting Lion,2000,3000,2500.0,2083.3333333333335
+Lot 98,Mel Ramos ,Wonder Woman,8000,10000,9500.0,7916.666666666667
+Lot 99,Mel Ramos ,Batman,8000,10000,9500.0,7916.666666666667
+Lot 100,Donald Sultan ,Six Greens,4000,6000,5000.0,4166.666666666667
+Lot 101,Donald Sultan ,"Two Plates, from Playing Cards (2 works)",2000,3000,2500.0,2083.3333333333335
+Lot 102,Donald Sultan ,"Two Plates, from Playing Cards (2 works)",2000,3000,2500.0,2083.3333333333335
+Lot 103,Andy Warhol ,"One Plate, from In the Bottom of My Garden",3000,5000,4500.0,3750.0
+Lot 104,Andy Warhol ,"One Plate, from In the Bottom of My Garden",3000,5000,4500.0,3750.0
+Lot 105,Andy Warhol ,"Gardoons a la Mousseline, from Wild Raspberries",3000,5000,4500.0,3750.0
+Lot 106,Andy Warhol ,"Waterzoie for Cecil Beaton, from Wild Raspberries",3000,5000,4500.0,3750.0
+Lot 107,Takashi Murakami ,Flower Ball (Lots of Color),2000,3000,2500.0,2083.3333333333335
+Lot 108,Takashi Murakami ,Lotus Flower (Pink),2000,3000,2500.0,2083.3333333333335
+Lot 109,Andy Warhol ,"Plate 8, from Flash - November 22, 1963 (with 11 Teletype text folders)",12000,18000,14500.0,12083.333333333334
+Lot 110,Derrick Adams ,Mirroring Idealism,25000,35000,30000.0,25000.0
+Lot 111,Rashid Johnson ,"Thurgood in the House of Chaos, from America America",3000,5000,4500.0,3750.0
+Lot 112,Rashid Johnson ,Untitled,2000,3000,2500.0,2083.3333333333335
+Lot 113,Jim Dine ,Two Red Boots on a Black Ground,8000,12000,10500.0,8750.0
+Lot 114,Chuck Close ,Self-Portrait (Parkett 60),2000,3000,2500.0,2083.3333333333335
+Lot 115,Robert Indiana ,Book of Love (12 works),80000,120000,95000.0,79166.66666666667
+Lot 116,Robert Indiana ,Numbers (Sheehan 56),4000,6000,5200.0,4333.333333333334
+Lot 117,Robert Indiana ,"Winter, from Seasons of Hope (Silver)",3000,4000,3500.0,2916.666666666667
+Lot 118,Robert Indiana ,"Summer, from Seasons of Hope (Gold)",3000,4000,3500.0,2916.666666666667
+Lot 119,Robert Indiana ,Love Cross,2000,3000,2500.0,2083.3333333333335
+Lot 121,Willem de Kooning ,Paris Review,3000,5000,4500.0,3750.0
+Lot 122,Helen Frankenthaler ,Beginnings,10000,15000,12500.0,10416.666666666668
+Lot 123,Helen Frankenthaler ,Venice with Colored Pencil (Harrison 35),5000,7000,6200.0,5166.666666666667
+Lot 124,Helen Frankenthaler ,Solar Imp,8000,12000,9500.0,7916.666666666667
+Lot 125,Helen Frankenthaler ,Southern Exposure,8000,12000,10500.0,8750.0
+Lot 126,Helen Frankenthaler ,Pompeii,5000,7000,6500.0,5416.666666666667
+Lot 127,Helen Frankenthaler ,Paris Review (Harrison App. 3),3500,4500,4000.0,3333.3333333333335
+Lot 128,Robert Motherwell ,La Casa de la Mancha (Engberg & Banach 349),5000,7000,6500.0,5416.666666666667
+Lot 129,Robert Motherwell ,Untitled (Engberg & Banach 181),4000,6000,5000.0,4166.666666666667
+Lot 130,Richard Diebenkorn ,"6, from Nine Drypoints and Etchings",1800,2200,2100.0,1750.0
+Lot 131,Brice Marden ,"Four plates, from Etchings to Rexroth (4 works)",10000,15000,12500.0,10416.666666666668
+Lot 132,Pat Steir ,Fire Waterfall,15000,20000,17500.0,14583.333333333334
+Lot 133,Pat Steir ,Orange Waterfall,15000,20000,17500.0,14583.333333333334
+Lot 134,Jasper Johns ,"Cicada, from Eight Lithographs to Benefit the Foundation for Contemporary Performance Arts, Inc.",20000,30000,25000.0,20833.333333333336
+Lot 135,Jasper Johns ,Decoy,22000,28000,25000.0,20833.333333333336
+Lot 136,Jasper Johns ,Good Time Charley,5000,7000,6500.0,5416.666666666667
+Lot 137,Jasper Johns ,Untitled (Field 145; Gemini 293),3000,5000,4500.0,3750.0
+Lot 138,Jasper Johns ,Untitled (ULAE 257; Gemini 1571),3000,5000,4500.0,3750.0
+Lot 139,Richard Estes ,"Danbury Tile; 560, from Urban Landscapes (2 works)",2000,3000,2500.0,2083.3333333333335
+Lot 140,Robert Rauschenberg ,"Why You Can't Tell #2, from Suite of Nine Prints",2000,3000,2500.0,2083.3333333333335
+Lot 141,Robert Rauschenberg ,"Flower Re-Run, from Reels (B+C)",2000,2500,2250.0,1875.0
+Lot 142,Keith Haring ,Flowers IV,35000,45000,40000.0,33333.333333333336
+Lot 143,Keith Haring ,Flowers V,35000,45000,40000.0,33333.333333333336
+Lot 144,Keith Haring ,Absolut Vodka,5000,10000,7500.0,6250.0
+Lot 145,Keith Haring ,Fighting AIDS Worldwide,4000,6000,5000.0,4166.666666666667
+Lot 146,David Hockney ,Celia in an Armchair,20000,30000,25000.0,20833.333333333336
+Lot 147,David Hockney ,"Celia with Green Hat, from Moving Focus",25000,35000,30000.0,25000.0
+Lot 148,David Hockney ,"White Porcelain, from Moving Focus",20000,30000,25000.0,20833.333333333336
+Lot 149,David Hockney ,"Gorge d'Incre, from Some More New Prints",10000,15000,12500.0,10416.666666666668
+Lot 150,Alex Katz ,Night: William Dunas Dance 4 (Pamela),3000,5000,4500.0,3750.0
+Lot 151,Alex Katz ,"Perry, from White Shirt",2500,3500,3000.0,2500.0
+Lot 152,Christopher Wool ,Untitled (Run Dog Run),8000,12000,10500.0,8750.0
+Lot 153,Retna ,Mariposa (A/P 1/1),8000,10000,9500.0,7916.666666666667
+Lot 154,Takashi Murakami ,"Hypha will cover the world, little by little. ""We should be able to get our hands on that door to the alien world soon. Wait till we get there!""",2000,4000,3500.0,2916.666666666667
+Lot 157,Julian Opie ,"Stephanie and Joshua, from Standing Couples",8000,12000,10500.0,8750.0
+Lot 158,Julian Opie ,"Tom and Imogen, from Standing Couples",8000,12000,10500.0,8750.0
+Lot 159,Julian Opie ,Medieval Village 2,3000,5000,4500.0,3750.0
+Lot 160,Julian Opie ,Medieval Village 4,3000,5000,4500.0,3750.0
+Lot 161,Roy Lichtenstein ,"Rain Forest, from Columbus: In Search of a New Tomorrow",30000,50000,42000.0,35000.0
+Lot 162,Roy Lichtenstein ,Landscape with Poet (Corlett 303),50000,70000,62000.0,51666.66666666667
+Lot 163,Roy Lichtenstein ,Pyramids (Corlett 87),12000,16000,14500.0,12083.333333333334
+Lot 164,Roy Lichtenstein ,"Sunrise, from Seven Objects in a Box",20000,30000,25000.0,20833.333333333336
+Lot 165,Roy Lichtenstein ,Against Apartheid (Corlett 200),10000,15000,12500.0,10416.666666666668
+Lot 166,Roy Lichtenstein ,Guild Hall East Hampton,4000,6000,5500.0,4583.333333333334
+Lot 167,Roy Lichtenstein ,Modern Sculpture with Apertures,4000,6000,5000.0,4166.666666666667
+Lot 168,Roy Lichtenstein ,Modern Head Pin (Brooch),3000,5000,4500.0,3750.0
+Lot 169,Ellsworth Kelly ,"Four plates, from Un Coup de Dés Jamais N'Abolira Le Hasard (4 works)",1500,2500,2200.0,1833.3333333333335
+Lot 170,Sol LeWitt ,Color Grids,7000,9000,8500.0,7083.333333333334
+Lot 171,Louise Nevelson ,Sky Gate II,6000,8000,7500.0,6250.0
+Lot 172,Frank Stella ,Double Gray Scramble,70000,100000,85000.0,70833.33333333334
+Lot 173,Frank Stella ,"Mysterious Bird of Ulieta, from Exotic Birds Series",5000,7000,6200.0,5166.666666666667
+Lot 174,Frank Stella ,Bermuda Petrel,80000,120000,95000.0,79166.66666666667
+Lot 175,Frank Stella ,Sinjerli Variation III,7000,10000,8500.0,7083.333333333334
+Lot 176,Frank Stella ,"Effingham, from Eccentric Polygons",3000,5000,4500.0,3750.0
+Lot 177,Frank Stella ,"Ileana Sonnabend, from Purple Series",2500,3500,3000.0,2500.0
+Lot 178,James Rosenquist ,Marilyn (Glenn 70),5000,7000,6500.0,5416.666666666667
+Lot 179,Wayne Thiebaud ,Five Flavors,20000,30000,25000.0,20833.333333333336
+Lot 180,Andy Warhol ,Jane Fonda,40000,60000,52000.0,43333.333333333336
+Lot 181,Andy Warhol ,Absolut Vodka,25000,35000,30000.0,25000.0
+Lot 182,Andy Warhol ,"Kachina Dolls, from Cowboys and Indians",30000,50000,42000.0,35000.0
+Lot 183,Andy Warhol ,"The Witch, from Myths",40000,50000,45000.0,37500.0
+Lot 184,Andy Warhol ,"Martin Buber, from Ten Portraits of Jews of the Twentieth Century",15000,20000,18500.0,15416.666666666668
+Lot 185,Andy Warhol ,"The Marx Brothers, from Ten Portraits of Jews of the Twentieth Century",40000,60000,52000.0,43333.333333333336
+Lot 186,Andy Warhol ,"Untitled, from Flash-November 22, 1963",8000,12000,10500.0,8750.0
+Lot 187,Andy Warhol ,U.N. Stamp,6000,8000,7500.0,6250.0
+Lot 188,Andy Warhol ,Hans Christian Andersen,6000,9000,7500.0,6250.0
+Lot 189,Andy Warhol ,Ladies and Gentlemen (Feldman & Schellman II.132),8000,12000,10500.0,8750.0
+Lot 190,Andy Warhol ,Flowers (Black and White),8000,10000,9500.0,7916.666666666667
+Lot 191,Andy Warhol ,Flowers (Black and White),8000,10000,9500.0,7916.666666666667
+Lot 192,Andy Warhol ,Ted Turner,8000,12000,10500.0,8750.0
+Lot 193,Andy Warhol ,Tattooed Woman Holding a Rose,8000,12000,10500.0,8750.0
+Lot 194,Andy Warhol ,A Whole Stocking Full of Good Wishes,3500,5500,4500.0,3750.0
+Lot 195,Andy Warhol ,"One Blue Pussy, from 25 Cats Name(d) Sam and One Blue Pussy",4000,6000,5500.0,4583.333333333334
+Lot 196,Andy Warhol ,"Piglet, from Wild Raspberries",6000,8000,7500.0,6250.0
+Lot 197,Andy Warhol ,"Hard Boiled Eggs, from Wild Raspberries",3000,5000,4500.0,3750.0
+Lot 198,Andy Warhol ,"Chocolate Balls a la Chambord, from Wild Raspberries",3000,5000,4500.0,3750.0

@@ -1,0 +1,8 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1006,Girard-Perregaux,Vintage 1945,Bonhams,200000,400000,None,350000.0,291666.6666666667
+Lot 1014,Cartier,Tank Francaise,Bonhams,24000,50000,None,38000.0,31666.666666666668
+Lot 1015,Cartier,Santos Galbee,Bonhams,20000,40000,None,28000.0,23333.333333333336
+Lot 1024,Girard-Perregaux,Lady F,Bonhams,26000,50000,None,42000.0,35000.0
+Lot 1026,Chaumet,Dandy,Bonhams,38000,80000,None,62000.0,51666.66666666667
+Lot 1030,Patek Philippe,<NA>,Bonhams,20000,40000,None,32000.0,26666.666666666668
+Lot 1032,Franck Muller,Crazy Color Dreams,Bonhams,34000,70000,None,55000.0,45833.333333333336

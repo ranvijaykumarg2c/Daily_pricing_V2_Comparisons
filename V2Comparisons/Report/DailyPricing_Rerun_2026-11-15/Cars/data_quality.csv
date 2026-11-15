@@ -1,0 +1,13 @@
+measure,value
+raw_rows,12531
+distinct_lot_urls,4765
+duplicate_url_rows,7765
+price_conflict_urls,18
+rows_missing_auction_house,10184
+rows_missing_sale_date,9272
+matched_lots_before_basis_check,442
+paris_matched_excluded,76
+gooding_basis_anomalies_excluded,4
+analysis_lots,151
+gooding_round_bid_check,128
+abu_dhabi_round_bid_check,23

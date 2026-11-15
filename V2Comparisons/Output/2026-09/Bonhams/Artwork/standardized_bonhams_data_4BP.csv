@@ -1,0 +1,778 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+c092c8f2-1345-42a5-8434-08a0a62a8f0e,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 1,EUR,15000,20000,48640,38000,16033.5,21378.0,51991.3,40618.2,François Pompon,1855,1933,Dromadaire,sculpture,bronze with a brown patina nuanced with green,6,23.4,16,cm,yes,yes,yes,1901,1930,"Collection Robert Chevalier et Geneviève Gallé, France (acquis en 1925). Collection Madame Bourgogne, France (par descendance). Collection particulière (par descendance). Vente, Ader, Paris, 10 décembre 2008, lot 128. Collection particulière, France (acquis dans cette vente).","dromedary, camel, bronze sculpture",1,N/A,original,"Provenant d'une prestigieuse collection particuliÃ¨re franÃ§aiseFRANÃOIS POMPON (1855-1933)
+Dromadaire
+
+signÃ© 'Pompon' et porte le cachet du fondeur 'C. Valsuani cire perdue' (sur la terrasse)
+bronze Ã  patine brune nuancÃ©e de vert
+
+signed 'Pompon' and stamped with the founry mark 'C. Valsuani cire perdue' (on the base)
+bronze with a brown patina nuanced with green
+
+16 x 23.4 x 6 cm. 
+6 5/16 x 9 3/16 x 2 3/8 in. 
+
+ConÃ§u en 1906 et fondu entre 1923 et 1930 par C. Valsuani. 
+
+Conceived in 1906 and cast between 1923 and 1930 by C. Valsuani.",https://images1.bonhams.com/image?src=Images/live/2026-04/30/25827935-1-6.jpg,https://www.bonhams.com/auction/31777/lot/1/francois-pompon-1855-1933-dromadaire/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2026-09,20438.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,19800.0,16500.0
+349039c4-3d4f-4e81-ba7d-f3606c781b9f,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 2,EUR,18000,25000,89300,70000,19240.2,26722.5,95452.77,74823.0,François Pompon,1855,1933,Grue couronnée en marche,sculpture,bronze with a black patina nuanced with brown,10.4,14.8,27,cm,yes,yes,yes,1927,1927,"Collection particulière, France (acquis auprès de l'artiste). Collection particulière, France (par descendance). Vente, Sotheby's, Paris, 4 Juin 2009, lot 8. Collection particulière, France (acquis dans cette vente).","crane, bird, sculpture, bronze, black patina, animal, standing, art, metal, 1927",1,N/A,original,"Provenant d'une prestigieuse collection particuliÃ¨re franÃ§aiseFRANÃOIS POMPON (1855-1933)
+Grue couronnÃ©e en marche
+
+signÃ© 'Pompon' et porte le cachet du fondeur 'C. Valsuani cire perdue' (sur la terrasse) 
+bronze Ã  patine noire nuancÃ©e de brun
+
+signed 'Pompon' and stamped with the foundry mark 'C. Valsuani cire perdue' (on the base) 
+bronze with a black patina nuanced with brown
+
+27 x 14.8 x 10.4 cm. 
+10 5/8 x 5 13/16 x 4 1/8 in.
+
+ConÃ§u en 1927, il s'agit, Ã  ce jour, de la seule fonte connue de ce modÃ¨le rÃ©alisÃ©e du vivant de l'artiste par C. Valsuani. 
+
+Conceived in 1927, this is, to date, the only known cast of this model produced during the artist's lifetime by C. Valsuani.",https://images1.bonhams.com/image?src=Images/live/2026-04/30/25827935-2-6.jpg,https://www.bonhams.com/auction/31777/lot/2/francois-pompon-1855-1933-grue-couronnee-en-marche/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24388.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,24300.0,20250.0
+7c1b6bce-29eb-4008-9da3-608edf86831d,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 3,EUR,50000,70000,178200,140000,53445.0,74823.0,190477.98,149646.0,François Pompon,1855,1933,Hippopotame,sculpture,bronze with a brown and dark-brown patina,7,22,14,cm,yes,yes,yes,1901,2000,"Collection Monsieur Ojetti, Florence (acquis en 1929). Collection Monsieur Ugo Ojetti, Florence (par descendance). Vente, Tajan, Paris, 5 mars 2009, lot 74. Collection particulière, France (acquis dans cette vente).","hippopotamus, bronze, brown patina, animal sculpture",1,N/A,original,"Provenant d'une prestigieuse collection particuliÃ¨re franÃ§aiseFRANÃOIS POMPON (1855-1933)
+Hippopotame 
+
+signÃ© 'Pompon' (sous la patte postÃ©rieure gauche) et porte le cachet du fondeur 'AA HÃ©brard' (sous la patte postÃ©rieure droite)
+bronze Ã  patine brune et marron 
+
+signed 'Pompon' (under the left back leg) and stamped with the foundry mark 'AA HÃ©brard' (under the right back leg)
+bronze with a brown and dark-brown patina
+
+14 x 22 x 7 cm.
+5 1/2 x 8 11/16 x 2 3/4 in.
+
+ConÃ§u en 1922, la premiÃ¨re Ã©preuve non numÃ©rotÃ©e sur trois fondue en 1923 par AA HÃ©brard. 
+
+Conceived in 1922, the first unnumbered proof of three, cast in 1923 by AA HÃ©brard.",https://images1.bonhams.com/image?src=Images/live/2026-04/30/25827935-3-12.jpg,https://www.bonhams.com/auction/31777/lot/3/francois-pompon-1855-1933-hippopotame/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64888.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,68200.0,56833.333333333336
+9f1fd7e1-f154-49b3-ae06-6ed7394a2398,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 4,EUR,180000,250000,279800,220000,192402.0,267225.0,299078.22,235158.0,François Pompon,1855,1933,Ours Blanc,sculpture,pierre de Lens,9.5,45.6,25,cm,yes,yes,yes,1926,1926,"Collection Robert Zunz, Paris. Collection particulière (par descendance). Vente, Christie's, Paris, 28 mai 2009, lot 20. Collection particulière (acquis dans cette vente).",polar bear,1,N/A,original,"Provenant d'une prestigieuse collection particuliÃ¨re franÃ§aiseFRANÃOIS POMPON (1855-1933)
+Ours Blanc
+
+signÃ© 'Pompon' et dÃ©dicacÃ© 'Ã  Robert Zunz amicalement' (sous la patte postÃ©rieure droite) et numÃ©rotÃ© et datÃ© '3Ã¨me 1926' (sous la patte antÃ©rieure gauche)
+pierre de Lens
+RÃ©alisÃ© en 1926
+
+signed 'Pompon' and dedicated 'Ã  Robert Zunz amicalement' (under the right back paw) and numbered and dated '3Ã¨me 1926' (under the left front paw)
+pierre de Lens
+Realised in 1926
+
+25 x 45.6 x 9.5 cm. 
+9 13/16 x 17 15/16 x 3 3/4 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/30/25827935-6-11.jpg,https://www.bonhams.com/auction/31777/lot/4/francois-pompon-1855-1933-ours-blanc/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,241380.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,234000.0,195000.0
+0842540f-a3a7-4f01-bca8-72faafe7e1bb,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 5,EUR,6000,8000,7680,6000,6413.4,8551.2,8209.15,6413.4,Joseph Csaky,1888,1971,"Femme assise, accoudée",sculpture,black bronze with nuanced patina,24.3,43,38,cm,yes,yes,yes,1930,1930,"Vente, Gros-Delettrez, Paris, 2 octobre 2023, lot 55. Collection particulière, Paris (acquis dans cette vente).","female figure, seated, reclining, bronze sculpture, black patina, modernist style, abstract features, elegance, form, tranquility",1,N/A,original,"JOSEPH CSAKY (1888-1971)
+Femme assise, accoudÃ©e
+
+signÃ© 'Csaky' (derriÃ¨re), numÃ©rotÃ© et porte la marque du fondeur 'HC 2/2 E. Godard' (sur la base Ã  l'arriÃ¨re)
+bronze Ã  patine noire nuancÃ©e
+
+signed 'Csaky' (on the back), numbered and stamped with the foundry mark 'HC 2/2 E. Godard' (on the back of the base)
+black bronze with nuanced patina
+
+38 x 43 x 24.3 cm.
+14 15/16 x 16 15/16 x 9 9/16 in. 
+
+ConÃ§u vers 1930, l'un des deux exemplaires 'Hors Commerce' fondu Ã  partir de 1979 par le fondeur E. Godard en plus de l'Ã©dition de 8 exemplaires numÃ©rotÃ©s et 2 Ã©preuves d'artiste. 
+
+Conceived circa 1930, one of two ""Hors Commerce"" casts from 1979 by the foundry E. Godard, in addition to the edition of 8 numbered examples and 2 artist's proofs.",https://images1.bonhams.com/image?src=Images/live/2026-04/14/25845183-1-1.jpg,https://www.bonhams.com/auction/31777/lot/5/joseph-csaky-1888-1971-femme-assise-accoudee/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7788.98,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+1d6e0388-7d0c-464e-a9f9-e81b953065f0,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 6,EUR,100000,150000,N/A,N/A,106890.0,160335.0,N/A,N/A,Moïse Kisling,1891,1953,Nu couché avec en fond un paysage vers Saint Tropez,painting,oil on canvas,N/A,61,46,cm,yes,yes,yes,1918,1918,"Collection George S. Hellman, New York. Collection Carl Sprinchorn, Albany, New York (acquis auprès de celle-ci). Mark Lasalle, New York. Collection particulière A.K., Paris. Vente, Marc-Arthur Kohn, Paris, 21 décembre 2021, lot 10. Collection particulière, Italie (acquis dans cette vente).","nude, woman, reclining, landscape, mountains, couch, blue, green, red, background",1,N/A,original,"MOÃSE KISLING (1891-1953)
+Nu couchÃ© avec en fond un paysage vers Saint Tropez 
+
+signÃ© 'Kisling' (en bas Ã  droite)
+huile sur toile 
+Peint vers 1917-1918
+
+signed 'Kisling' (lower right)
+oil on canvas
+Painted circa 1917-1918 
+
+46 x 61 cm. 
+18 1/8 x 24 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25787232-17-1.jpg,https://www.bonhams.com/auction/31777/lot/6/moise-kisling-1891-1953-nu-couche-avec-en-fond-un-paysage-vers-saint-tropez/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,130808.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,135000.0,112500.0
+4ecde68b-36b1-4a38-8cfd-1cd7fbfdd2dd,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 7,EUR,50000,70000,63900,50000,53445.0,74823.0,68302.71,53445.0,Jean Metzinger,1883,1956,Portrait de Louise Luquet,painting,oil on canvas,N/A,55,73,cm,yes,yes,yes,1942,1942,"Collection Louise Luquet, France. Collection particulière (par descendance).","portrait, woman, green dress, table, fruit, book, hair, bracelet, room, pink",1,N/A,original,"JEAN METZINGER (1883-1956)
+Portrait de Louise Luquet
+
+signÃ© 'Metzinger' (en bas au centre)
+huile sur toile
+Peint en 1942
+
+signed 'Metzinger' (lower centre)
+oil on canvas
+Painted in 1942
+
+73 x 55 cm. 
+28 3/4 x 21 5/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25829563-1-1.jpg,https://www.bonhams.com/auction/31777/lot/7/jean-metzinger-1883-1956-portrait-de-louise-luquet/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,63888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,64500.0,53750.0
+a7b4356a-b62b-4300-b782-120725f20d1d,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 8,EUR,200000,300000,N/A,N/A,213780.0,320670.0,N/A,N/A,Aristide Maillol,1861,1944,Jeune fille agenouillée sans bras,sculpture,bronze with a brown-green patina,54.5,41,84,cm,yes,yes,yes,1901,1930,"Collection particulière, Etats-Unis. Acquis auprès de celle-ci par le propriétaire actuel.","female figure, kneeling, bronze sculpture, brown-green patina, no arms, 20th century",1,N/A,original,"ARISTIDE MAILLOL (1861-1944)
+Jeune fille agenouillÃ©e sans bras 
+
+signÃ© et numÃ©rotÃ© 'A-Maillol 3/4' (sur la base Ã  droite) et porte la marque du fondeur 'Alexis. Rudier. fondeur. Paris' (sur la base Ã  l'arriÃ¨re)
+bronze Ã  patine brun-vert
+
+signed and numbered 'A-Maillol 3/4' (on the base on the right) and stamped with the foundry mark 'Alexis. Rudier. fondeur. Paris' (behind the base)
+Bronze with a brown-green patina
+
+ConÃ§u en 1900, l'un des exemplaires de l'Ã©dition de 4, Ã©ditÃ© par Fabiani et fondu en 1943 par Alexis Rudier fondeur. 
+
+Conceived in 1900, one of a numbered edition of 4, edited by Fabiani and cast in 1943 by the Alexis Rudier foundry.
+
+84 x 41 x 54.5 cm. 
+33 1/16 x 16 1/8 x 21 7/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25867654-1-1.jpg,https://www.bonhams.com/auction/31777/lot/8/aristide-maillol-1861-1944-jeune-fille-agenouillee-sans-bras/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,241388.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,273000.0,227500.0
+429d6e53-529a-43da-a267-7cea1caa7f9a,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 9,EUR,8000,12000,10240,8000,8551.2,12826.8,10945.54,8551.2,Bolesław Biegas,1877,1954,Dieu dormant,sculpture,bronze with brown patina,8.2,34,35,cm,yes,yes,yes,1901,1930,"Succession Christian de Rabaudy ; Sa vente, Cornette de Saint Cyr, Paris, 23 novembre 2003, lot 19. Collection particulière, France (acquis dans cette vente).","four figures, draped robes, bronze sculpture, brown patina, religious theme, abstract form, standing posture",1,N/A,original,"BOLESLAS BIEGAS (1877-1954)
+Dieu dormant
+
+signÃ©, inscrit et datÃ© 'B. Biegas ÅpiÄcy BÃ³g Paris 1903 nÂ° 2/8' et porte le cachet du fondeur 'Landowski cire perdue' (sur la base Ã  gauche)
+bronze Ã  patine brune
+
+signed, inscribed and dated 'B. ÅpiÄcy BÃ³g Paris 1903 nÂ° 2/8' and stamped with the foundry mark 'Landowski cire perdue' (on the base to the left)
+bronze with brown patina
+
+35 x 34 x 8.2 cm.
+13 3/4 x 13 3/8 x 3 1/4 in. 
+
+ConÃ§u en 1903, l'un des exemplaires de l'Ã©dition de 8 fondu en 1987 par Landowski cire perdue. 
+
+Conceived in 1903, one of the example from the edition of 8 cast in 1987 by Landowski cire perdue.",https://images1.bonhams.com/image?src=Images/live/2026-04/14/25843192-1-1.jpg,https://www.bonhams.com/auction/31777/lot/9/boleslas-biegas-1877-1954-dieu-dormant/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10898.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+c9f62a9d-b87c-4848-a814-b3fda3ddaec7,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 10,EUR,12000,18000,11520,9000,12826.8,19240.2,12313.73,9620.1,Maurice Denis,1870,1943,Le Rocher du Puy,painting,oil on cardboard,N/A,25.9,33.9,cm,yes,yes,yes,1936,1936,"Succession de l'artiste. Collection Madeleine Follain (probablement acquis en 1947). Vente, Mes Chapelle, Perrin et Fromantin, Versailles, 27 avril 1975, lot 186. Vente, Me Blache, Versailles, 21 décembre 1975, lot 64. Collection particulière, France. Collection particulière, France (par descendance).","mountain, snow, church, figures, winter, trees, road, buildings, landscape, village",1,N/A,original,"MAURICE DENIS (1870-1943)
+Le Rocher du Puy
+
+signÃ© et datÃ© 'Mau-Denis 36' (en bas Ã  droite) ; porte le cachet du monogramme de l'artiste (au revers)
+huile sur carton
+Peint en 1936
+
+signed and dated 'Mau-Denis 36' (lower right) ; stamped with the artist's monogram (on reverse)
+oil on cardboard
+Painted in 1936
+
+33.9 x 25.9 cm. 
+13 3/8 x 10 3/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25379561-2-1.jpg,https://www.bonhams.com/auction/31777/lot/10/maurice-denis-1870-1943-le-rocher-du-puy/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,14983.97,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16800.0,14000.0
+c52fe839-b9e6-4a5c-a495-f24b683aef4e,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 11,EUR,60000,80000,159150,125000,64134.0,85512.0,170115.43,133612.5,ALBERT MARQUET,1875,1947,"La Frette vers Paris, le remorqueur",painting,oil on canvas,N/A,61,50,cm,yes,yes,yes,1901,2000,"Vente, Christie's, Tokyo, 14-15 février 1981, lot 48. Vente, Ader, Paris, 18 mai 2016, lot 52. Collection particulière, Paris (acquis dans cette vente).","river, boat, trees, landscape, greenery, water, horizon, sky, foliage, reflection",1,N/A,original,"ALBERT MARQUET (1875-1947)
+La Frette vers Paris, le remorqueur
+
+signÃ© 'Marquet' (en bas Ã  gauche)
+huile sur toile
+
+signed 'Marquet' (lower left)
+oil on canvas
+
+50 x 61 cm. 
+19 11/16 x 24 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/12/25864184-1-1.jpg,https://www.bonhams.com/auction/31777/lot/11/albert-marquet-1875-1947-la-frette-vers-paris-le-remorqueur/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,73888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,74800.0,62333.333333333336
+d87ef746-6650-4179-bea5-5d4eccedc165,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 12,EUR,600000,800000,673500,530000,641340.0,855120.0,719904.15,566517.0,REMBRANDT BUGATTI,1884,1916,Cigogne en marche,sculpture,bronze with a nuanced polychrome patina in shades of brown,22.5,34.5,46,cm,yes,yes,yes,1901,1930,"Collection Adrien-Aurélien Hébrard, France. Collection Madame Charles Chartier, France (acquis en 1909). Collection particulière, Paris (acquis auprès de celle-ci).","stork, bronze, sculpture, unique piece, polychrome patina, bird, nature, standing bird, animal, wildlife",1,N/A,original,"PropriÃ©tÃ© d'une prestigieuse collection particuliÃ¨re franÃ§aiseREMBRANDT BUGATTI (1884-1916)
+Cigogne en marche
+
+signÃ© et inscrit 'R. Bugatti / piÃ¨ce unique' et porte le cachet du fondeur 'A.A. HÃ©brard Cire Perdue' (sur la terrasse)
+bronze Ã  patine polychrome nuancÃ©e de bruns
+
+signed and inscribed 'R. Bugatti / piÃ¨ce unique' and stamped with the foundry mark 'A.A. HÃ©brard Cire Perdue' (on the base)
+bronze with a nuanced polychrome patina in shades of brown
+
+ConÃ§ue et Ã©xÃ©cutÃ©e en 1907, cette Åuvre est unique. 
+
+Conceived and executed in 1907, this is a unique piece.
+
+46 x 34.5 x 22.5 cm. 
+18 1/8 x 13 9/16 x 8 7/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25867372-1-3.jpg,https://www.bonhams.com/auction/31777/lot/12/rembrandt-bugatti-1884-1916-cigogne-en-marche/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,738888.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,748230.0,623525.0
+5288ef92-1d4d-4754-a679-f0b3a0f87d83,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 13,EUR,30000,50000,29440,23000,32067.0,53445.0,31468.42,24584.7,Jacques Lipchitz,1891,1973,Mardi Gras,sculpture,bronze with gold patina,14.6,15.2,26.7,cm,yes,yes,yes,1926,1926,"Curt Valentin Gallery, New York (en 1954). Fine Arts Associates, New York. Collection Josephine et Walter Buhl Ford II, Detroit (acquis auprès de celle-ci en décembre 1955). Vente, Sotheby's, New York, 4 mai 2006, lot 312. Collection particulière (acquis dans cette vente). Vente, Christies, New York, 5 mai 2011, lot 346. Acquis dans cette vente par le propriétaire actuel.","sculpture, bronze, gold patina, abstract, Mardi Gras, geometric shapes, lines, curves, figure, form",1,N/A,original,"JACQUES LIPCHITZ (1891-1973)
+Mardi Gras
+
+signÃ© et porte la marque du fondeur 'J Lipchitz C. Valsuani cire perdue' (sur la terrasse)
+bronze Ã  patine dorÃ©e
+
+signed and stamped with the foundry mark 'J Lipchitz C. Valsuani cire perdue' (on the base)
+bronze with gold patina
+
+26.7 x 15.2 x 14.6 cm. 
+10 1/2 x 6 x 5 3/4 in.
+
+ConÃ§ue en 1926, cette Åuvre est unique. 
+
+Conceived in 1926, this work is unique.",https://images1.bonhams.com/image?src=Images/live/2026-04/30/25798961-6-1.jpg,https://www.bonhams.com/auction/31777/lot/13/jacques-lipchitz-1891-1973-mardi-gras/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,40488.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,46200.0,38500.0
+62064701-961d-42ff-bbca-527988268d4e,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 14,EUR,8000,12000,10240,8000,8551.2,12826.8,10945.54,8551.2,HENRI-JEAN CLOSON,1888,1975,Les marionnettes,painting,oil on panel,N/A,65.2,100,cm,yes,yes,yes,1919,1930,"Collection de la famille de l'artiste. Galerie Minsky, Paris. Collection particulière, France (acquis auprès de celle-ci).","marionettes, figures, color, abstraction, composition",1,N/A,original,"HENRI-JEAN CLOSON (1888-1975)
+Les marionnettes
+
+signÃ© et datÃ© 'Closon 1919-30' (en bas Ã  gauche) et signÃ© avec les initiales de l'artiste 'CH' (en bas Ã  droite) ; signÃ©, inscrit et datÃ© 'Closon / LiÃ¨ge / Les marionnettes 1919-1930' (au revers)
+huile sur panneau
+
+signed and dated 'Closon 1919-30' (lower left) and signed with the artist's initials 'CH' (lower right) ; signed, inscribed and dated 'Closon / LiÃ¨ge / Les marionnettes 1919-1930' (on reverse)
+oil on panel
+
+100 x 65.2 cm. 
+39 3/8 x 25 11/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25869943-1-1.jpg,https://www.bonhams.com/auction/31777/lot/14/henri-jean-closon-1888-1975-les-marionnettes/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10793.97,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+ebd12d2f-880e-47f3-965d-f4b4ec4fab7b,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 15,EUR,40000,60000,38400,30000,42756.0,64134.0,41045.76,32067.0,Jacques Lipchitz,1891,1973,Nature morte (Edition of 7),sculpture,bronze,5.3,55.2,68.9,cm,yes,yes,yes,1918,1918,Succession de l'artiste. Acquis auprès de celle-ci par le propriétaire actuel.,"still life, bronze, bas-relief, abstract shapes, geometric forms",1,N/A,original,"JACQUES LIPCHITZ (1891-1973)
+Nature morte
+
+signÃ©, numÃ©rotÃ© 'Lipchitz 4/7' et porte l'empreinte du pouce de l'artiste (sur le bord supÃ©rieur)
+bas-relief en bronze 
+
+signed, numbered 'Lipchitz 4/7' and marked with the artist's thumbprint (on the upper rim)
+bronze bas-relief
+
+68.9 x 55.2 x 5.3 cm
+27 1/8 x 21 3/4 x 2 1/16 in. 
+
+ConÃ§u en 1918 et fondu dans une Ã©dition de 7. 
+
+Conceived in 1918 and cast in an edition of 7.",https://images1.bonhams.com/image?src=Images/live/2026-04/29/25798984-67-1.jpg,https://www.bonhams.com/auction/31777/lot/15/jacques-lipchitz-1891-1973-nature-morte/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48139.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,53500.0,44583.333333333336
+3736eec1-f296-4100-8491-ca6c0316c372,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 16,EUR,60000,80000,190900,150000,64134.0,85512.0,204053.01,160335.0,LÉOPOLD SURVAGE,1879,1968,Ville,painting,oil on canvas,N/A,71,106.5,cm,yes,yes,yes,1920,1920,"Collection Josef Paul Hodin (acquis auprès de l'artiste). Collection particulière, Londres. Collection particulière, France (acquis auprès de celle-ci vers 1980). Collection particulière, France (par descendance).","buildings, trees, geometric shapes, urban landscape, color blocks, abstract composition",1,N/A,original,"LÃOPOLD SURVAGE (1879-1968)
+Ville
+
+signÃ© 'Survage' (en bas Ã  gauche)
+huile sur toile
+Peint 1920
+
+signed 'Survage' (lower left)
+oil on canvas
+Painted 1920
+
+106.5 x 71 cm.
+41 15/16 x 27 15/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25812897-1-1.jpg,https://www.bonhams.com/auction/31777/lot/16/leopold-survage-1879-1968-ville/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,73388.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,74900.0,62416.66666666667
+117bb6a6-445e-491c-baf9-a0f8c37286ac,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 17,EUR,20000,30000,24320,19000,21378.0,32067.0,25995.65,20309.1,GIORGIO DE CHIRICO,1888,1978,Cavallo in un paese,painting,oil on paper laid on canvas,N/A,30,20,cm,yes,yes,yes,1955,1955,"Collection particulière, Italie. Collection particulière, Italie (par descendance).","horse, landscape, trees, sky, clouds, running, brown, white, grass, motion",1,N/A,original,"GIORGIO DE CHIRICO (1888-1978)
+Cavallo in un paese
+
+signÃ© 'G. de Chirico' (en bas au centre)
+huile sur papier marouflÃ© sur toile
+peint vers 1955
+
+signed 'G. de Chirico' (lower centre)
+oil on paper laid on canvas
+painted circa 1955
+
+20 x 30 cm. 
+7 7/8 x 11 13/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/04/25828494-1-4.jpg,https://www.bonhams.com/auction/31777/lot/17/giorgio-de-chirico-1888-1978-cavallo-in-un-paese/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,28000.0,23333.333333333336
+26e07bba-73d2-462b-814e-926f48d2822f,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 18,EUR,1300000,2000000,1197900,950000,1389570.0,2137800.0,1280435.31,1015455.0,Marino Marini,1901,1980,Cavallo e cavaliere,sculpture,bronze with polychrome patina,173.2,124.5,238,cm,yes,yes,yes,1950,1959,"Collection Shell, Londres (acquis directement auprès de l'artiste en 1959).","horse, rider, bronze, sculpture, polychrome patina, abstract form",1,N/A,original,"MARINO MARINI (1901-1980)
+Cavallo e cavaliere
+
+porte le cachet des initiales de l'artiste et numÃ©rotÃ© 'MM 3/3' (sur la terrasse)
+bronze Ã  patine polychrome
+
+stamped with the artist's initials and numbered 'MM 3/3' (on the base)
+bronze with polychrome patina
+
+238 x 124.5 x 173.2 cm. 
+93 11/16 x 49 x 68 3/16 in. 
+
+ConÃ§ue en 1956-1957, cette version en bronze a Ã©tÃ© fondue en une Ã©dition numÃ©rotÃ©e de 3 exemplaires, plus 2 Ã©preuves d'artiste.
+
+Conceived in 1956-1957, this bronze version cast in a numbered edition of 3 plus 2 artist's proofs.",https://images1.bonhams.com/image?src=Images/live/2026-05/28/25869251-1-18.jpg,https://www.bonhams.com/auction/31777/lot/18/marino-marini-1901-1980-cavallo-e-cavaliere/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1633888.0,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1765000.0,1470833.3333333335
+8c243c23-1e40-4b28-81b8-b7c3a5509d3e,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 19,EUR,20000,30000,19200,15000,21378.0,32067.0,20522.88,16033.5,Maurice de Vlaminck,1876,1958,Rue de village,drawing,gouache and ink on paper,N/A,59,39.8,cm,yes,yes,yes,1950,1950,"Galerie Paul Pétrides, Paris. Collection particulière, Belgique (acquis auprès de celle-ci).","village, houses, road, sky, clouds, sign, trees, figures, landscape, architecture",1,N/A,original,"MAURICE DE VLAMINCK (1876-1958)
+Rue de village
+
+signÃ© 'Vlaminck' (en bas Ã  droite)
+gouache et encre sur papier 
+ExÃ©cutÃ© vers 1950 
+
+signed 'Vlaminck' (lower right)
+gouache and ink on paper 
+Executed circa 1950 
+
+39.8 x 59 cm. 
+15 11/16 x 23 1/4 in.",https://images1.bonhams.com/image?src=Images/live/2025-10/21/25747552-1-1.jpg,https://www.bonhams.com/auction/31777/lot/19/maurice-de-vlaminck-1876-1958-rue-de-village/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,27889.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,27500.0,22916.666666666668
+ede29065-7d34-4846-b058-88c05b7ff532,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 20,EUR,10000,15000,10240,8000,10689.0,16033.5,10945.54,8551.2,MAXIMILIEN LUCE,1858,1941,Usines dans la région de la Sambre,painting,oil on canvas laid on cardboard,N/A,46,31,cm,no,yes,yes,1898,1898,"Galerie Druet, Paris (selon une étiquette au dos). Collection particulière, France. Collection particulière, France (par descendance). Vente, Artcurial, Paris, 9 décembre 2020, lot 261. Acquis dans cette vente par le propriétaire précédent. Vente, Matsart Auctioneers and Appraisers, Jérusalem, 3 mai 2021, lot 114. Acquis dans cette vente par le propriétaire actuel.","factories, landscape, trees, grass, sky, autumn, buildings, smoke stacks, fields, clouds",1,N/A,original,"MAXIMILIEN LUCE (1858-1941)
+Usines dans la rÃ©gion de la Sambre
+
+huile sur toile marouflÃ©e sur carton
+Peint vers 1898
+
+oil on canvas laid on cardboard
+Painted circa 1898
+
+31 x 46 cm. 
+12 3/16 x 18 1/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25766804-1-1.jpg,https://www.bonhams.com/auction/31777/lot/20/maximilien-luce-1858-1941-usines-dans-la-region-de-la-sambre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12888.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+fa9684b7-d0d7-4839-89a7-c01a70e4cb5b,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 21,EUR,10000,15000,12800,10000,10689.0,16033.5,13681.92,10689.0,Jean Dufy,1888,1964,Les Battages,painting,gouache and watercolour on paper,N/A,60,46.2,cm,no,yes,yes,1940,1942,"Vente, Art Valorem, Paris, 16 juin 2025, lot 65. Acquis dans cette vente par le propriétaire actuel.","farm, workers, horses, machinery, landscape, trees, houses, blue sky, fields, activity",1,N/A,original,"JEAN DUFY (1888-1964)
+Les Battages
+
+gouache et aquarelle sur papier 
+Peint entre 1940 et 1942
+
+gouache and watercolour on paper
+Painted between 1940 and 1942
+
+46.2 x 60 cm. 
+18 3/16 x 23 5/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25869877-1-1.jpg,https://www.bonhams.com/auction/31777/lot/21/jean-dufy-1888-1964-les-battages/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13500.0,11250.0
+1180342e-9404-4b46-adba-731ec53d0d3d,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 22,EUR,50000,70000,76600,60000,53445.0,74823.0,81877.74,64134.0,Rembrandt Bugatti,1884,1916,"Deux vaches se suivant, l'une broute en marchant",sculpture,bronze with a brown and green patina,20,63.5,21,cm,yes,yes,yes,1901,1930,"Collection particulière, Italie. Collection particulière, Italie (par descendance).","cows, sculpture, bronze, patina, animal, walking, nature, artwork, Rembrandt Bugatti, 1901",1,N/A,original,"REMBRANDT BUGATTI (1884-1916)
+Deux vaches se suivant, l'une broute en marchant
+
+signÃ© et datÃ© 'RBugatti 1901' (sur la terrasse)
+bronze Ã  patine de bruns et vert
+
+signed and dated 'RBugatti 1901' (on the base)
+bronze with a brown and green patina
+
+21 x 63.5 x 20 cm. 
+8 1/4 x 25 x 7 7/8 in. 
+
+ConÃ§u en 1901 et fondu entre 1901 et 1922 par L'Edition Galleria Alberto Grubicy. 
+Il s'agit du seul exemplaire connu de cette version. 
+
+Conceived in 1901 and cast between 1901 and 1922 by L'Edition Galleria Alberto Grubicy. 
+This is the only known example of this version.",https://images1.bonhams.com/image?src=Images/live/2026-02/27/25778295-1-1.jpg,https://www.bonhams.com/auction/31777/lot/22/rembrandt-bugatti-1884-1916-deux-vaches-se-suivant-lune-broute-en-marchant/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,63938.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,68200.0,56833.333333333336
+9122aedc-298d-41d1-9e70-baa3c1cc3c8d,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 23,EUR,4000,6000,5120,4000,4275.6,6413.4,5472.77,4275.6,LÉON DETROY,1859,1955,L'automne à Collioure,painting,oil on canvas,N/A,73.1,54.2,cm,yes,yes,yes,1920,1920,"Collection particulière, France. Collection particulière, France (acquis auprès de celle-ci).","landscape, hills, trees, figures, path, autumn, fields, colors, sky, orange",1,N/A,original,"LÃON DETROY (1859-1955)
+L'automne Ã  Collioure 
+
+signÃ© 'Detroy' (en bas Ã  droite)
+huile sur toile 
+Peint vers 1920
+
+signed 'Detroy' (lower right)
+oil on canvas
+Painted circa 1920
+
+54.2 x 73.1 cm.
+21 5/16 x 28 3/4 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25853051-1-1.jpg,https://www.bonhams.com/auction/31777/lot/23/leon-detroy-1859-1955-lautomne-a-collioure/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.19,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5350.0,4458.333333333334
+1dcdf4e2-67cd-4bde-9857-477d44f1df3b,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 24,EUR,6000,8000,8960,7000,6413.4,8551.2,9577.34,7482.3,Henri Lebasque,1865,1937,Le jardinier,painting,oil on paper laid on panel,N/A,27,39,cm,yes,yes,yes,1901,2000,"Galerie Charles et André Bailly, Paris. Vente, hôtel des ventes Saint-Dié, Saint-Dié-des-Vosges, 25 avril 1993, lot 86. Vente, Sotheby's, Londres, 13 octobre 1993, lot 217. Collection particulière, France (acquis dans cette vente).","man, straw hat, seated, garden, shirt, pants, landscape, sky, blue, brown",1,N/A,original,"HENRI LEBASQUE (1865-1937)
+Le jardinier
+
+signÃ© 'Lebasque' (en bas Ã  droite)
+huile sur papier marouflÃ© sur panneau
+
+signed 'Lebasque' (lower right)
+oil on paper laid on panel
+
+39 X 27 cm. 
+15 3/8 x 10 5/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/29/25856397-1-1.jpg,https://www.bonhams.com/auction/31777/lot/24/henri-lebasque-1865-1937-le-jardinier/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7788.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+f9df661f-89b6-4187-a72c-6ea5f7e42281,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 25,EUR,50000,70000,N/A,N/A,53445.0,74823.0,N/A,N/A,Bernard Buffet,1928,1999,Cyclamens blancs,painting,oil on canvas,N/A,81,65,cm,yes,yes,yes,1976,1976,"Galerie Maurice Garnier, Paris. Collection particulière, Belgique (acquis auprès de celle-ci en 2012).","cyclamens, white flowers, green leaves, flower pot, plate, still life, oil painting, table, background",1,N/A,original,"BERNARD BUFFET (1928-1999)
+Cyclamens blancs
+
+signÃ© 'Bernard Buffet' (en haut Ã  gauche) et datÃ© '1976' (en haute Ã  droite)
+huile sur toile 
+Peint en 1976
+
+signed 'Bernard Buffet' (upper left) and dated '1976' (upper right)
+oil on canvas
+Painted in 1976
+
+65 x 81 cm. 
+25 9/16 x 31 7/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25858021-2-1.jpg,https://www.bonhams.com/auction/31777/lot/25/bernard-buffet-1928-1999-cyclamens-blancs/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64188.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,62000.0,51666.66666666667
+1500fd45-68d5-42f9-be2e-e7b939a49ad5,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 26,EUR,2000,3000,10240,8000,2137.8,3206.7,10945.54,8551.2,CLAUDE VENARD,1913,1999,Sans titre (Nature morte),painting,oil on canvas,N/A,54,65,cm,yes,yes,yes,1901,2000,"Collection particulière, France. Collection particulière, France (par descendance).","still life, fruit, vase, table, leaves, bowl, abstract shapes, green, blue, red",1,N/A,original,"CLAUDE VENARD (1913-1999)
+Sans titre (Nature morte)
+
+signÃ© 'C. Venard' (en bas Ã  droite)
+huile sur toile 
+
+signed 'C. Venard' (lower right)
+oil on canvas 
+
+65 x 54 cm. 
+25 9/16 x 21 1/4 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/29/25379561-4-1.jpg,https://www.bonhams.com/auction/31777/lot/26/claude-venard-1913-1999-sans-titre-nature-morte/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3538.98,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2675.0,2229.166666666667
+a5e1ae5f-e429-44af-805d-046da16f53d1,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 27,EUR,5000,7000,6656,5200,5344.5,7482.3,7114.6,5558.28,Pierre Lesieur,1922,2011,Fauteuil bleu sombre,painting,oil on canvas,N/A,113.5,161.5,cm,yes,yes,yes,1986,1986,"Findlay galleries, New York. Acquis aupr&#232;s de celle-ci par le propri&#233;taire actuel.","chair, blue, floral, fabric, interior, window, color, pattern, shadows, light",1,N/A,original,"PIERRE LESIEUR (1922-2011)
+Fauteuil bleu sombre
+
+signÃ© et datÃ© 'P Lesieur 86' (en bas Ã  droite)
+huile sur toile 
+Peint en 1986
+
+signed and dated 'P Lesieur 86' (lower right)
+oil on canvas 
+Painted in 1986
+
+161.5 x 113.5 cm. 
+63 9/16 x 44 11/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/29/25857377-1-1.jpg,https://www.bonhams.com/auction/31777/lot/27/pierre-lesieur-1922-2011-fauteuil-bleu-sombre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6488.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+956ea117-8ca3-4aec-b808-5712a87ab7f0,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 28,EUR,4000,6000,7680,6000,4275.6,6413.4,8209.15,6413.4,PIERRE LESIEUR,1922,2011,Sans titre (Le chien),painting,oil on canvas,N/A,149.5,149.5,cm,yes,yes,yes,1992,1992,"Galerie Coard, Paris. Acquis auprès de celle-ci par le propriétaire actuel.","dog, red rug, floral pattern, interior, geometric shapes, warm colors, abstract forms, texture, soft lines, shadow",1,N/A,original,"PIERRE LESIEUR (1922-2011)
+Sans titre (Le chien) 
+
+signÃ© et datÃ© 'P Lesieur 92' (en bas Ã  gauche)
+huile sur toile 
+Peint en 1992
+
+signed and dated 'P Lesieur 92' (lower left)
+oil on canvas 
+Painted in 1992
+
+149.5 x 149.5 cm. 
+58 7/8 x 58 7/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/29/25857377-2-1.jpg,https://www.bonhams.com/auction/31777/lot/28/pierre-lesieur-1922-2011-sans-titre-le-chien/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5138.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5350.0,4458.333333333334
+b24f5076-7903-4b1e-b692-b1362a54d5d1,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 29,EUR,3000,5000,5760,4500,3206.7,5344.5,6156.86,4810.05,SALVADOR DALÍ,1904,1989,Don Quichotte dans la baie de Port Lligat,mixed media,felt-tip pen on the back of a postcard,N/A,15.3,21.2,cm,yes,yes,yes,1971,1971,"Collection Lucien Billard, France. Collection particulière, France (par descendance).","landscape, sea, clouds, abstract figure, horizon, signature, portrait, postcard, dedication, line art",1,N/A,original,"SALVADOR DALÃ (1904-1989)
+Don Quichotte dans la baie de Port Lligat
+
+signÃ© 'DalÃ­' (en bas au centre), signÃ© 'DalÃ­' (Ã  droite au centre) et dÃ©dicacÃ© 'Pour Billard' (en haut Ã  droite)
+feutre au revers d'une carte postale d'un portrait photographique de l'artiste par MelitÃ³ Casals
+ExÃ©cutÃ© vers 1971
+
+signed 'DalÃ­' (lower centre), signed 'DalÃ­' (right centre) and dedicated 'Pour Billard' (upper right)
+felt-tip pen on the back of a postcard featuring a photographic portrait of the artist by MelitÃ³ Casals
+Executed circa 1971
+
+21.2 x 15.3 cm. 
+8 3/8 x 6 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/29/25858655-1-2.jpg,https://www.bonhams.com/auction/31777/lot/29/salvador-dali-1904-1989-don-quichotte-dans-la-baie-de-port-lligat/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3837.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4320.0,3600.0
+0b8bff35-f6c0-4b66-962b-cb69d8429a21,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 30,EUR,8000,12000,10240,8000,8551.2,12826.8,10945.54,8551.2,Salvador Dalí,1904,1989,Tête de bœuf,mixed media,felt-tip pen on a painted papier-mâché mask,14,28.5,26.5,cm,yes,yes,yes,1966,1966,"Collection Lucien Billard, France. Collection particulière, France (par descendance).","mask, bull, felt-tip pen, papier-mâché, skull, inscription, horns, eyes, brown, red",1,N/A,original,"SALVADOR DALÃ (1904-1989)
+TÃªte de bÅuf
+
+signÃ©, dÃ©dicacÃ© et datÃ© 'Pour Monsieur Billard / Hommage de / DalÃ­ 1966' (centre) 
+feutre sur masque en papier mÃ¢chÃ© peint
+Peint en 1966
+
+signed, dedicated and dated 'Pour Monsieur Billard / Hommage de / DalÃ­ 1966' (centre)
+felt-tip pen on a painted papier-mÃ¢chÃ© mask
+Painted in 1966
+
+26.5 x 28.5 x 14 cm. 
+10 7/16 x 11 1/4 x 5 1/2 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/29/25858655-2-1.jpg,https://www.bonhams.com/auction/31777/lot/30/salvador-dali-1904-1989-tete-de-boeuf/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10793.97,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+96707ad4-1bb0-49c8-89e1-7776f408ea9e,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 31,EUR,3500,4500,N/A,N/A,3741.15,4810.05,N/A,N/A,FÉLIX LABISSE,1905,1982,Jeune Femme,painting,gouache on paper,N/A,37,55,cm,yes,yes,yes,1931,1931,"Collection particulière, Espagne. Vente, Marc-Arthur Kohn, Paris, 18 mai 2013, lot 5. Collection particulière, Italie (acquis dans cette vente).","woman, portrait, brown background, green dress, blue collar, red lips, black hair, gouache, 1930s style",1,N/A,original,"FÃLIX LABISSE (1905-1982)
+Jeune Femme
+
+signÃ© et datÃ© 'Labisse 31' (en bas Ã  droite) ; inscrit et datÃ© 'Jeune femme 1931' (au revers)
+gouache sur papier 
+ExÃ©cutÃ© en 1931
+
+signed and dated 'Labisse 31' (lower right) ; inscribed and dated 'Jeune femme 1931' (on reverse)
+gouache on paper
+Executed in 1931
+
+55 x 37 cm. 
+21 5/8 x 14 9/16",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25787232-3-1.jpg,https://www.bonhams.com/auction/31777/lot/31/felix-labisse-1905-1982-jeune-femme/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4488.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4300.0,3583.3333333333335
+2d093cf0-170d-4fb7-88d1-a6d881b6afd8,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 32,EUR,2500,3500,5760,4500,2672.25,3741.15,6156.86,4810.05,FÉLIX LABISSE,1905,1982,Bébé est sage,painting,gouache on paper,N/A,54,37,cm,yes,yes,yes,1933,1933,"Collection particulière, Espagne. Vente, Marc-Arthur Kohn, Paris, 18 mai 2013, lot 6. Collection particulière, Italie (acquis dans cette vente).","four figures, hats, military uniform, bowler hat, red lips, pink background, blue colors, facial expressions, clothing details, inscription",1,N/A,original,"FÃLIX LABISSE (1905-1982)
+BÃ©bÃ© est sage
+
+signÃ© 'Labisse' (en bas Ã  droite) ; inscrit et datÃ© 'BÃ©bÃ© est sage 1933' (au revers) 
+gouache sur papier
+ExÃ©cutÃ© en 1933
+
+signed 'Labisse' (lower right) ; inscribed and dated 'BÃ©bÃ© est sage 1933' (on reverse)
+gouache on paper
+Executed in 1933
+
+37 x 54 cm. 
+14 9/16 x 21 1/4 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25787232-2-2.jpg,https://www.bonhams.com/auction/31777/lot/32/felix-labisse-1905-1982-bebe-est-sage/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3568.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+62fa4fdb-5b0f-4c03-9c94-7dd32d19c866,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 33,EUR,3000,5000,18560,14500,3206.7,5344.5,19838.78,15499.05,Victor Brauner,1903,1966,Sans titre,drawing,pastel and pencil on paper,N/A,23.9,29.9,cm,yes,yes,yes,1949,1949,"Collection particulière, Paris. Collection particulière, Paris (acquis auprès de celle-ci).","figure, yellow hair, geometric shapes, pastel, pencil, abstract, eyes, mouth, hands, ears",1,N/A,original,"VICTOR BRAUNER (1903-1966)
+Sans titre
+
+signÃ© avec les initiales de l'artiste et datÃ© '15.IX.1949 VB' (en bas Ã  droite)
+pastel et crayon sur papier 
+ExÃ©cutÃ© le 15 septembre 1949
+
+signed with the artist's initials and dated '15.IX.1949 VB' (lower right)
+pastel and pencil on paper 
+Executed on 15 September 1949
+
+29.9 x 23.9 cm.
+11 3/4 x 9 7/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-01/09/25762555-1-1.jpg,https://www.bonhams.com/auction/31777/lot/33/victor-brauner-1903-1966-sans-titre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4048.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+cd3f3522-9de9-4928-950c-32b2b99db2d3,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 34,EUR,6000,8000,7680,6000,6413.4,8551.2,8209.15,6413.4,Dorothea Tanning,1910,2012,Daja,drawing,watercolour and ink on paper,N/A,45.7,28.9,cm,yes,yes,yes,1949,1949,"Collection Juliette Verronneau (don de l'artiste). Collection particulière, France. Vente, Salle des Ventes de Chinon SARL, Chinon, 14 octobre 2015, lot 12. Collection particulière, Paris (acquis dans cette vente).","girl, sleeping, blue tones, hand, long hair, bed, dress, ink, watercolor, paper",1,N/A,original,"DOROTHEA TANNING (1910-2012)
+Daja
+
+signÃ©, datÃ© 'Dorothea Tanning 49' (en bas Ã  droite) et inscrit 'Daja' (en bas Ã  gauche)
+aquarelle et encre sur papier 
+ExÃ©cutÃ© en 1949
+
+signed, dated 'Dorothea Tanning 49' (lower right) and inscribed 'Daja' (lower left)
+watercolour and ink on paper
+Executed in 1949
+
+28.9 x 45.7 cm. 
+11 3/8 x 18 in.",https://images1.bonhams.com/image?src=Images/live/2026-01/26/25811004-3-1.jpg,https://www.bonhams.com/auction/31777/lot/34/dorothea-tanning-1910-2012-daja/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10128.74,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+ffe69ff9-19d2-48cb-b838-f530c0643089,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 35,EUR,10000,15000,20480,16000,10689.0,16033.5,21891.07,17102.4,Jane Graverol,1905,1984,Sans titre,painting,oil on canvas,N/A,50,55.5,cm,yes,yes,yes,1949,1949,"Collection particulière, Bruxelles (en 1999). Bert Nordin Fine Paintings, Anvers. Collection particulière, Belgique (acquis auprès de celle-ci entre 2015 et 2020).","flower, pot, butterflies, building, landscape, trees, nature, pink, green, outdoor",1,N/A,original,"JANE GRAVEROL (1905-1984)
+Sans titre 
+
+signÃ© et datÃ© 'Jane Graverol 1949' (en bas Ã  droite)
+huile sur toile 
+Peint en 1949
+
+signed and dated 'Jane Graverol 1949' (lower right)
+oil on canvas
+Painted in 1949
+
+55.5 x 50 cm. 
+21 7/8 x 19 11/16 in.",https://images1.bonhams.com/image?src=Images/live/2025-10/08/25766584-3-1.jpg,https://www.bonhams.com/auction/31777/lot/35/jane-graverol-1905-1984-sans-titre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+0eeecab7-b549-4afa-9889-6297e994f4df,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 36,EUR,5000,7000,12160,9500,5344.5,7482.3,12997.82,10154.55,Jane Graverol,1905,1984,Le 21 juillet,painting,oil on canvas,N/A,75,70,cm,yes,yes,yes,1945,1945,"Collection de la famille de l'artiste. Collection particulière, Belgique (acquis auprès de celle-ci).","couple, night, street, buildings, Belgium flag, trees, moonlight, embrace, artwork, oil painting",1,N/A,original,"JANE GRAVEROL (1905-1984)
+Le 21 juillet 
+
+signÃ© et datÃ© '1945 Jane Graverol' (en bas Ã  gauche)
+huile sur toile 
+Peint en 1945
+
+signed and dated '1945 Jane Graverol' (lower left)
+oil on canvas 
+Painted in 1945
+
+70 x 75 cm. 
+27 9/16 x 29 1/2 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/27/25766584-2-3.jpg,https://www.bonhams.com/auction/31777/lot/36/jane-graverol-1905-1984-le-21-juillet/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6418.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+271173c3-966a-43c7-a6f4-00af606dcd40,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 37,EUR,10000,15000,14080,11000,10689.0,16033.5,15050.11,11757.9,Georges Rouault,1871,1958,Pour Ubu. Fête africaine IV. (Défilé),painting,oil on paper laid on canvas,N/A,61,40.4,cm,no,yes,yes,1918,1925,Succession de l'artiste.,"figures, dancers, party, Africa, festive atmosphere, colorful clothing, abstract background, human interaction",1,N/A,studio of,"GEORGES ROUAULT (1871-1958)
+Pour Ubu. FÃªte africaine IV. (DÃ©filÃ©)
+
+porte le cachet 'Atelier de Georges Rouault' (au revers)
+huile sur papier marouflÃ© sur toile
+ExÃ©cutÃ© entre 1918-1925
+
+bears the stamp 'Atelier de Georges Rouault' (on reverse)
+oil on paper laid on canvas
+Executed between 1918-1925
+
+40.4 x 61 cm.
+15 7/8 x 24 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/11/25864837-1-2.jpg,https://www.bonhams.com/auction/31777/lot/37/georges-rouault-1871-1958-pour-ubu-fete-africaine-iv-defile/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13500.0,11250.0
+a22c6f96-04e8-406f-b43d-1725368b3136,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 38,EUR,12000,15000,N/A,N/A,12826.8,16033.5,N/A,N/A,GEORGES ROUAULT,1871,1958,"Pour Ubu - ""Bamboula""",mixed media,oil and pastel on paper laid on canvas,N/A,27,38.5,cm,no,yes,yes,1932,1932,Succession de l'artiste.,"figure, arms raised, bright colors, abstract background, frame, dancer, man, blue, orange, green",1,N/A,original,"GEORGES ROUAULT (1871-1958)
+Pour Ubu - ""Bamboula"" 
+
+inscrit et datÃ© 'L'Ubu - 1932' (en bas Ã  droite)
+huile et pastel sur papier marouflÃ© sur toile 
+Peint en 1932
+
+inscribed and dated 'L'Ubu - 1932' (lower right) 
+oil and pastel on paper laid on canvas
+Painted in 1932
+
+38.5 x 27 cm. 
+15 3/16 x 10 5/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/11/25864837-2-1.jpg,https://www.bonhams.com/auction/31777/lot/38/georges-rouault-1871-1958-pour-ubu-bamboula/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13988.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,15300.0,12750.0
+226ea798-2249-4631-8b1b-fa0ac1bd9008,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 39,EUR,5000,7000,16640,13000,5344.5,7482.3,17786.5,13895.7,Georges Rouault,1871,1958,Nous... c'est en sa mort que nous avons été baptisés,mixed media,gouache and ink on lithograph laid on canvas,N/A,36.1,51.2,cm,yes,yes,yes,1930,1930,Succession de l'artiste.,"two figures, baptism, green background, orange, black, white, blue, red, abstract shapes, shadows",1,N/A,studio of,"GEORGES ROUAULT (1871-1958)
+Nous... c'est en sa mort que nous avons Ã©tÃ© baptisÃ©s
+
+signÃ© 'G Rouault' (en bas Ã  droite); porte le cachet 'Atelier de Georges Rouault' (au revers)
+gouache et encre sur fond de gravure marouflÃ© sur toile
+ExÃ©cutÃ© aprÃ¨s 1930
+
+signed 'G Rouault' (lower right); bears the stamp 'Atelier de Georges Rouault' (on reverse)
+lithograph enhanced with gouache and ink laid on canvas
+Executed after 1930
+
+51.2 x 36.1 cm.
+20 3/16 x 14 3/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/11/25864837-3-2.jpg,https://www.bonhams.com/auction/31777/lot/39/georges-rouault-1871-1958-nous-cest-en-sa-mort-que-nous-avons-ete-baptises/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6418.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6820.0,5683.333333333334
+99adfe9f-e75d-4b20-ba95-c7f5be2f57e7,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 40,EUR,8000,12000,10240,8000,8551.2,12826.8,10945.54,8551.2,Georges Rouault,1871,1958,Danseur,drawing,India Ink and pastel on paper,N/A,20.7,26.7,cm,no,yes,yes,1929,1929,Succession de l'artiste.,"dancer, face, headdress, blue background, colorful, body, necklace, closed eyes, expression, abstract",1,N/A,original,"GEORGES ROUAULT (1871-1958)
+Danseur
+
+encre de Chine et pastel sur papier 
+ExÃ©cutÃ© en 1929
+
+India Ink and pastel on paper
+Executed in 1929
+
+26.7 x 20.7 cm. 
+10 1/2 x 8 1/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/11/25864837-4-1.jpg,https://www.bonhams.com/auction/31777/lot/40/georges-rouault-1871-1958-danseur/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+549509e2-7e35-4058-9016-78c2dd10f2b1,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 41,EUR,1000,1500,2176,1700,1068.9,1603.35,2325.93,1817.13,CHARLES DUFRESNE,1876,1938,La montée au Calvaire,painting,oil on canvas,N/A,54.2,65,cm,yes,yes,yes,1901,2000,"Vente, Chevau-Legers Enchères SARL, Versailles, 27 avril 2008, lot 297. Collection particulière, Pays-Bas (acquis dans cette vente).","cross, figures, horse, soldiers, crowd, passion, landscape, religious theme, drama, movement",1,N/A,original,"CHARLES DUFRESNE (1876-1938)
+La montÃ©e au Calvaire 
+
+signÃ© 'Dusfresne' (en bas Ã  gauche)
+huile sur toile 
+Peint vers 1934
+
+signed 'Dusfresne' (lower left) 
+oil on canvas 
+Painted circa 1934
+
+65 x 54.2 cm. 
+25 9/16 x 21 5/16 in.",https://images1.bonhams.com/image?src=Images/live/2025-10/30/25775304-2-1.jpg,https://www.bonhams.com/auction/31777/lot/41/charles-dufresne-1876-1938-la-montee-au-calvaire/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1288.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+8b045da0-7084-41f4-ae8b-daacc96ec73a,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 42,EUR,1000,1500,1408,1100,1068.9,1603.35,1505.01,1175.79,CHARLES DUFRESNE,1876,1938,La forêt,painting,oil on canvas,N/A,50,61,cm,yes,yes,yes,1920,1920,"Paul Vallotton, Lausanne, no. 10006. Vente, Christie's, Amsterdam, 10 mars 2009, lot 190. Collection particulière, Pays-Bas (acquis dans cette vente).","forest, trees, landscape, foliage, sunlight, earth, vegetation",1,N/A,original,"CHARLES DUFRESNE (1876-1938)
+La forÃªt 
+
+signÃ© 'Dufresne' (en bas Ã  droite)
+huile sur toile 
+Peint vers 1920
+
+signed 'Dufresne' (lower right)
+oil on canvas 
+Painted circa 1920
+
+61 x 50 cm. 
+24 x 19 11/16 in.",https://images1.bonhams.com/image?src=Images/live/2025-10/30/25775304-4-1.jpg,https://www.bonhams.com/auction/31777/lot/42/charles-dufresne-1876-1938-la-foret/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1308.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+7bad204f-b79d-4a0a-ab50-6d9c106fafce,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 43,EUR,1200,1800,N/A,N/A,1282.68,1924.02,N/A,N/A,ANDRÉ DUNOYER DE SEGONZAC,1884,1974,"La Seine, vue du parc de Saint-Cloud",drawing,"watercolour, gouache and ink on paper",N/A,77.5,57,cm,yes,yes,yes,1901,2000,"Vente, Eric Pillon, Enchères PVE SARL, Versailles, 13 mai 2012, lot 102. Collection particulière, France (acquis dans cette vente).","river, park, trees, landscape, hills, pathway, water, clouds, foreground, architecture",1,N/A,original,"ANDRÃ DUNOYER DE SEGONZAC (1884-1974)
+La Seine, vue du parc de Saint-Cloud
+
+signÃ© 'a Dunoyer de Segonzac' (en bas au centre)
+aquarelle, gouache et encre sur papier
+
+signed 'a Dunoyer de Segonzac' (lower centre)
+watercolour, gouache and ink on paper 
+
+57 x 77.5 cm.
+22 7/16 x 30 1/2 in.",https://images1.bonhams.com/image?src=Images/live/2025-10/30/25775304-5-1.jpg,https://www.bonhams.com/auction/31777/lot/43/andre-dunoyer-de-segonzac-1884-1974-la-seine-vue-du-parc-de-saint-cloud/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+db3f6cf5-f3a0-41a3-b059-8dbb07896dd3,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 44,EUR,1200,1800,N/A,N/A,1282.68,1924.02,N/A,N/A,ANDRÉ DUNOYER DE SEGONZAC,1884,1974,Ecluse de Port-Marly,drawing,"watercolour, gouache and ink on paper",N/A,78,57,cm,yes,yes,yes,1901,2000,"Collection de la famille de l'artiste. Collection particulière (par descendance). Vente, Sotheby's, New York, 13 février 2008, lot 73. Collection particulière, France (acquis dans cette vente).","landscape, river, buildings, hill, trees, water, dock, sky, countryside, architecture",1,N/A,original,"ANDRÃ DUNOYER DE SEGONZAC (1884-1974)
+Ecluse de Port-Marly
+
+signÃ© 'a. Dunoyer de Segonzac' (en bas Ã  droite)
+aquarelle, gouache et encre sur papier
+
+signed 'a. Dunoyer de Segonzac' (lower right)
+watercolour, gouache and ink on paper 
+
+57 x 78 cm.
+22 7/16 x 30 11/16 in.",https://images1.bonhams.com/image?src=Images/live/2025-10/30/25775304-6-1.jpg,https://www.bonhams.com/auction/31777/lot/44/andre-dunoyer-de-segonzac-1884-1974-ecluse-de-port-marly/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+73be393d-02d4-4768-a011-94b1658df928,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 45,EUR,4000,6000,5120,4000,4275.6,6413.4,5472.77,4275.6,Albert Lebourg,1849,1928,Pont-du-Château,painting,oil on canvas,N/A,84.5,46,cm,yes,yes,yes,1884,1884,"Vente, Cornette de Saint Cyr, Paris, 9 octobre 1990, lot 17. Collection particulière, France (acquis dans cette vente).","landscape, river, trees, vegetation, hills, water, cloudy sky, path, autumn colors, distant buildings",1,N/A,original,"ALBERT LEBOURG (1849-1928)
+Pont-du-ChÃ¢teau
+
+signÃ© 'Albert Lebourg' (en bas Ã  gauche)
+huile sur toile 
+Peint en 1884
+
+signed 'Albert Lebourg' (lower left)
+oil on canvas
+Painted in 1884
+
+46 x 84.5 cm. 
+18 1/8 x 33 1/4 in.",https://images1.bonhams.com/image?src=Images/live/2026-02/05/25814962-12-1.jpg,https://www.bonhams.com/auction/31777/lot/45/albert-lebourg-1849-1928-pont-du-chateau/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5138.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5350.0,4458.333333333334
+6ae71799-f0c0-4813-8ece-0a93d95e03b5,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 46,EUR,5000,7000,12800,10000,5344.5,7482.3,13681.92,10689.0,PIERRE EUGÈNE MONTÉZIN,1874,1946,Sans titre (Peupliers en bord de rivière),painting,oil on paper laid on canvas,N/A,56.2,56.2,cm,yes,yes,yes,1940,1946,"Collection particulière, France. Collection particulière, France (par descendance).","poplar trees, river, spring, landscape, water, foliage, reflections, outdoors, bank, nature",1,N/A,original,"PIERRE EUGÃNE MONTÃZIN (1874-1946)
+Sans titre (Peupliers en bord de riviÃ¨re) 
+
+porte le cachet de la signature de l'artiste 'Montezin' (en bas Ã  droite)
+huile sur papier marouflÃ© sur toile 
+Peint entre 1940 et 1946
+
+bears the artist's signature stamp 'Montezin' (lower right)
+oil on paper laid on canvas 
+Painted between 1940 and 1946
+
+56.2 x 56.2 cm.
+22 1/8 x 22 1/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-02/10/25814962-7-1.jpg,https://www.bonhams.com/auction/31777/lot/46/pierre-eugene-montezin-1874-1946-sans-titre-peupliers-en-bord-de-riviere/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6420.0,5350.0
+82e592e3-6bfc-408b-b502-e561374835be,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 47,EUR,5000,7000,14080,11000,5344.5,7482.3,15050.11,11757.9,Maximilien Luce,1858,1941,"Environ de Méricourt, effet de neige",painting,oil on paper laid on canvas,N/A,53.5,40.5,cm,yes,yes,yes,1917,1917,"Vente, Guy Loudmer, Paris, 11 décembre 1989, lot 130. Collection particulière, France (acquis dans cette vente).","snow, landscape, tree, birds, winter, path, sky, foliage, ice, countryside",1,N/A,original,"MAXIMILIEN LUCE (1858-1941)
+Environ de MÃ©ricourt, effet de neige
+
+signÃ© 'Luce' (en bas Ã  gauche) ; inscrit et datÃ© 'Effet de neige, Rolleboise 1917' (sur le chÃ¢ssis au revers)
+huile sur papier marouflÃ© sur toile
+Peint en 1917 
+
+signed 'Luce' (lower left) ; inscribed and dated 'Effet de neige, Rolleboise 1917' (on the stretcher on reverse)
+oil on paper laid on canvas
+Painted in 1917
+
+40.5 x 53.5 cm.
+15 15/16 x 21 1/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-02/10/25814962-10-1.jpg,https://www.bonhams.com/auction/31777/lot/47/maximilien-luce-1858-1941-environ-de-mericourt-effet-de-neige/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+f68d2141-4c37-4381-b641-81f5e9a91e2d,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 48,EUR,3000,5000,4096,3200,3206.7,5344.5,4378.21,3420.48,Paul-Cesar Helleu,1859,1927,Nu féminin,drawing,pencil and red chalk on paper,N/A,51,35,cm,yes,yes,yes,1901,2000,"Vente, Sotheby's, Londres, 30 septembre 1981, lot 37. Collection particulière, Pays-Bas.","female nude, reclining figure, red chalk, paper, signed",1,N/A,original,"PAUL-CESAR HELLEU (1859-1927)
+Nu fÃ©minin
+
+signÃ© 'Helleu' (en bas Ã  droite)
+crayon et sanguine sur papier
+
+signed 'Helleu' (lower right)
+pencil and red chalk on paper
+
+35 x 51 cm. 
+13 3/4 x 20 1/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/13/25829095-1-2.jpg,https://www.bonhams.com/auction/31777/lot/48/paul-cesar-helleu-1859-1927-nu-feminin/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3837.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+b9aaedab-abef-441b-98a0-3661a6db3698,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 49,EUR,1000,2000,5120,4000,1068.9,2137.8,5472.77,4275.6,Georges Lemmen,1865,1916,Portrait de Madame Georges Lemmen,drawing,India ink on paper,N/A,20.5,27.5,cm,yes,yes,yes,1892,1892,"Vente, Marc-Arthur Kohn, Paris, mars 2014, lot 34. Collection particulière, Italie (acquis dans cette vente).","portrait, woman, face, ink, paper, black and white, vintage, expression, September 1892, Madame Georges Lemmen",1,N/A,original,"GEORGES LEMMEN (1865-1916)
+Portrait de Madame Georges Lemmen
+
+signÃ© avec le monogramme de l'artiste et datÃ© '18 92' (en bas Ã  gauche) et datÃ© '28 sept. 92' (en bas Ã  droite)
+encre de Chine sur papier
+ExÃ©cutÃ© en septembre 1892
+
+signed with the artist's monogram and dated '18 92' (lower left) and dated '28 sept. 92' (lower right)
+India ink on paper
+Executed in September 1892
+
+27.5 x 20.5 cm. 
+10 13/16 x 8 1/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-02/10/25787232-6-1.jpg,https://www.bonhams.com/auction/31777/lot/49/georges-lemmen-1865-1916-portrait-de-madame-georges-lemmen/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1307.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+cc24da93-923f-4035-90e2-c1f8c6a8f8f7,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 50,EUR,1800,2500,2304,1800,1924.02,2672.25,2462.75,1924.02,Paul Delvaux,1897,1994,Sans titre (Tam et une amie),drawing,charcoal and graphite on paper,N/A,17.7,27.5,cm,no,yes,yes,1929,1929,"Collection de la famille de l'artiste. Vente, Marc-Arthur Kohn, Paris, mars 2014, lot 37. Collection particulière, Italie (acquis dans cette vente).","women, portrait, figure, charcoal, graphite, drawing, expression, background, emotion, interaction",1,N/A,original,"PAUL DELVAUX (1897-1994)
+Sans titre (Tam et une amie)
+
+fusain et mine de plomb sur papier 
+ExÃ©cutÃ© vers 1929 
+
+charcoal and graphite on paper 
+Executed circa 1929 
+
+27.5 x 17.7 cm. 
+10 13/16 x 6 15/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-01/26/25787232-4-1.jpg,https://www.bonhams.com/auction/31777/lot/50/paul-delvaux-1897-1994-sans-titre-tam-et-une-amie/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.33,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+3f9f8c24-0104-4de6-86e6-ee4c5f9b0d57,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 51,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Paul Delvaux,1897,1994,Sans titre (Tam),drawing,graphite on paper,N/A,17.8,27.8,cm,no,yes,yes,1929,1929,"Collection de la famille de l'artiste. Vente, Marc-Arthur Kohn, Paris, mars 2014, lot 39. Collection particulière, Italie (acquis dans cette vente).","woman, portrait, seated, graphite, expression, sketch, emotions, figure, soft lines, stylized",1,N/A,original,"PAUL DELVAUX (1897-1994)
+Sans titre (Tam)
+
+mine de plomb sur papier
+ExÃ©cutÃ© vers 1929
+
+graphite on paper
+Executed circa 1929
+
+27.8 x 17.8 cm. 
+10 15/16 x 7 in.",https://images1.bonhams.com/image?src=Images/live/2026-01/26/25787232-7-1.jpg,https://www.bonhams.com/auction/31777/lot/51/paul-delvaux-1897-1994-sans-titre-tam/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2438.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+26eec240-1113-4219-b133-44cdfda19cf6,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 52,EUR,2000,3000,2048,1600,2137.8,3206.7,2189.11,1710.24,Paul Delvaux,1897,1994,Sans titre,drawing,ink on paper,N/A,27.3,21.6,cm,yes,yes,yes,1958,1958,"Collection particulière, France. Collection particulière, France (par descendance).","woman, nude, sofa, interior, room, doorway, wallpaper, floor, ink, sketch",1,N/A,original,"PAUL DELVAUX (1897-1994)
+Sans titre 
+
+signÃ© 'P. Delvaux' (en bas Ã  droite), dÃ©dicacÃ© et datÃ© 'Maria Serafina en souvenir d'une sympathique soirÃ©e chez Paul Hellyn / Exposition de Bruxelles 28-5-58' (en bas au centre)
+encre sur papier
+ExÃ©cutÃ© le 28 mai 1958
+
+signed 'P. Delvaux' (lower right), dedicated and dated 'Maria Serafina en souvenir d'une sympathique soirÃ©e chez Paul Hellyn / Exposition de Bruxelles 28-5-58' (lower centre)
+ink on paper
+Executed on 28 May 1958
+
+21.6 x 27.3 cm. 
+8 1/2 x 10 3/4 in.",https://images1.bonhams.com/image?src=Images/live/2025-10/14/25697217-1-1.jpg,https://www.bonhams.com/auction/31777/lot/52/paul-delvaux-1897-1994-sans-titre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2793.97,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+0a517cae-0b69-446e-a0fb-f2b7125f7857,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 53,EUR,1200,1800,5120,4000,1282.68,1924.02,5472.77,4275.6,PAUL DELVAUX,1897,1994,Sans titre (Autoportrait) - Nu masculin de dos,drawing,charcoal and graphite on paper,N/A,17.7,26,cm,yes,yes,yes,1930,1930,"Collection de la famille de l'artiste. Vente, Marc-Arthur Kohn, Paris, mars 2014, lot 39. Collection particulière, Italie (acquis dans cette vente).","self-portrait, male nude, back view, charcoal, graphite, paper, 1930",1,N/A,original,"PAUL DELVAUX (1897-1994)
+Sans titre (Autoportrait) - Nu masculin de dos (oeuvre recto-verso)
+
+signÃ© avec les initiales de l'artiste et datÃ© 'P.D. 1930' (en bas Ã  droite)
+fusain et mine de plomb sur papier 
+ExÃ©cutÃ© en 1930
+
+signed with the artist's initials and dated 'P.D. 1930' (lower right)
+charcoal and graphite on paper
+Executed in 1930
+
+26 x 17.7 cm. 
+10 1/4 x 6 15/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-01/26/25787232-5-1.jpg,https://www.bonhams.com/auction/31777/lot/53/paul-delvaux-1897-1994-sans-titre-autoportrait-nu-masculin-de-dos-oeuvre-recto-verso/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+72e2ddd3-ce9d-4d67-87ab-7e819d3ff114,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 54,EUR,1000,1500,1280,1000,1068.9,1603.35,1368.19,1068.9,Leonor Fini,1907,1996,Sans titre (Faune et homme),drawing,ink on paper,N/A,28,35.7,cm,yes,yes,yes,1901,2000,"Galeria Manuel Barbié, Barcelone. Collection particulière, Espagne (acquis auprès de celle-ci).","man, faun, nude figures, gesture, expression, pencil drawing, red ink, paper",1,N/A,original,"LEONOR FINI (1907-1996)
+Sans titre (Faune et homme)
+
+signÃ© 'Leonor Fini' (en bas Ã  droite)
+encre sur papier
+
+signed 'Leonor Fini' (lower right)
+encre sur papier
+
+35.7 X 28 cm.
+14 1/16 x 11 in.",https://images1.bonhams.com/image?src=Images/live/2026-02/19/25823303-7-1.jpg,https://www.bonhams.com/auction/31777/lot/54/leonor-fini-1907-1996-sans-titre-faune-et-homme/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1308.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+07de4896-4947-4687-8ef4-cb040ec8d598,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 55,EUR,1500,2000,1920,1500,1603.35,2137.8,2052.29,1603.35,LEONOR FINI,1907,1996,Trois femmes et un chat,drawing,ink on paper,N/A,27.1,35.1,cm,no,yes,yes,1901,2000,"Galeria Manuel Barbié, Barcelone. Collection particulière, Espagne (acquis auprès de celle-ci).","three women, cat",1,N/A,original,"LEONOR FINI (1907-1996)
+Trois femmes et un chat
+
+encre sur papier 
+
+ink on paper 
+
+35.1 x 27.1 cm. 
+13 13/16 x 10 11/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-02/19/25823303-3-1.jpg,https://www.bonhams.com/auction/31777/lot/55/leonor-fini-1907-1996-trois-femmes-et-un-chat/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2438.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1875.0,1562.5
+40e1010a-20f9-4eb3-be08-2e1288c09d91,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 56,EUR,5000,7000,14080,11000,5344.5,7482.3,15050.11,11757.9,Alberto Giacometti,1901,1966,Sans titre,drawing,ink on magazine page,N/A,14.7,23,cm,no,yes,yes,1954,1954,"Collection James Lord (don de l'artiste). Galerie Helmut Klewan, Munich. Galerie Biedermann, Munich. Collection particulière, Suisse. Acquis auprès de celle-ci par le précédent propriétaire. Vente, Sotheby's, Zurich, 7 - 14 juin 2022, lot 22. Collection particulière, Italie (acquis dans cette vente).","figures, ink drawing, magazine page, abstract shapes, human forms, sketch, line art, literature, portrait, monochrome",1,N/A,attributed to,"ALBERTO GIACOMETTI (1901-1966)
+Sans titre
+
+encre sur page de magazine
+ExÃ©cutÃ© aprÃ¨s 1954
+
+ink on magazine page
+Executed after 1954
+
+23 x 14.7 cm. 
+9 1/16 x 5 13/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25862107-9-1.jpg,https://www.bonhams.com/auction/31777/lot/56/alberto-giacometti-1901-1966-sans-titre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6488.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+af3b6e27-ba5d-4bec-9048-d3db28cc9c70,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 57,EUR,5000,7000,4480,3500,5344.5,7482.3,4788.67,3741.15,Giorgio de Chirico,1888,1978,L'allievo di Raffaello,drawing,pencil on paper,N/A,21.2,30,cm,yes,yes,yes,1960,1969,"Collection particulière, Italie. Collection particulière, Italie (par descendance).","man, portrait, hat, robe, pencil drawing",1,N/A,original,"Provenant d'une prestigieuse collection particuliÃ¨re italienneGIORGIO DE CHIRICO (1888-1978)
+L'allievo di Raffaello
+
+signÃ© 'g. de Chirico' (en bas Ã  droite) et inscrit 'L'allievo di Raffaello' (au centre Ã  droite)
+crayon sur papier 
+ExÃ©cutÃ© vers 1966-1967 
+
+signed 'g. de Chirico' (lower right) and inscribed 'L'allievo di Raffaello' (centre right)
+pencil on paper 
+ExÃ©cuted circa 1966-1967 
+
+30 x 21.2 cm. 
+11 13/16 x 8 3/8 in.",https://images1.bonhams.com/image?src=Images/live/2026-04/14/25816527-2-1.tif,https://www.bonhams.com/auction/31777/lot/57/giorgio-de-chirico-1888-1978-lallievo-di-raffaello/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6820.0,5683.333333333334
+77001f95-dfad-46c9-a19a-5bb0c99c30ed,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 58,EUR,10000,15000,10880,8500,10689.0,16033.5,11629.63,9085.65,Fortunato Depero,1892,1960,Sans titre,drawing,pencil and charcoal on card,N/A,40,60,cm,yes,yes,yes,1947,1947,"Collection particulière, Italie. Collection Vittorio Gallo (par descendance). Collection particulière, Italie (acquis auprès de celle-ci). Collection particulière, Italie (par descendance).","train, smoke, abstract shapes, patterns, landscape, vegetation, curved lines, geometric forms, circular elements, stylized bird",1,N/A,original,"FORTUNATO DEPERO (1892-1960)
+Sans titre
+
+signÃ© 'F. Depero' (en bas Ã  droite)
+crayon et fusain sur carton
+ExÃ©cutÃ© vers 1947
+
+signed 'F. Depero' (lower right)
+pencil and charcoal on card 
+Executed circa 1947
+
+60 x 40 cm. 
+23 5/8 x 15 3/4 in.",https://images1.bonhams.com/image?src=Images/live/2026-03/13/25793534-1-1.jpg,https://www.bonhams.com/auction/31777/lot/58/fortunato-depero-1892-1960-sans-titre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12888.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+b1387cde-1e7e-47f3-a1fd-3221bd71b9ed,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 59,EUR,800,1200,1024,800,855.12,1282.68,1094.55,855.12,HENRI-JEAN CLOSON,1888,1975,Sans titre,drawing,pencil on paper,N/A,24,28,cm,yes,yes,yes,1901,2000,"Galerie Minsky, Paris. Collection particulière, France (acquis auprès de celle-ci).","abstract, geometric shapes, lines, pencil, paper",1,N/A,original,"HENRI-JEAN CLOSON (1888-1975)
+Sans titre
+
+signÃ© avec les initiales de l'artiste 'CH' (en bas Ã  droite)
+crayon sur papier 
+
+signed with the artist's initials 'CH (lower right)
+pencil on paper 
+
+28 x 24 cm. 
+11 x 9 7/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25869943-3-1.jpg,https://www.bonhams.com/auction/31777/lot/59/henri-jean-closon-1888-1975-sans-titre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1131.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1140.0,950.0
+14ef6559-d93d-4a42-a619-cf8b2bc3963b,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 60,EUR,800,1200,N/A,N/A,855.12,1282.68,N/A,N/A,HENRI-JEAN CLOSON,1888,1975,Sans titre,drawing,pencil on paper,N/A,24,28,cm,yes,yes,yes,1901,2000,"Collection de la famille de l'artiste. Galerie Minsky, Paris. Collection particulière, France (acquis auprès de celle-ci).","abstract forms, lines, shapes, geometric patterns, pencil drawing",1,N/A,original,"HENRI-JEAN CLOSON (1888-1975)
+Sans titre
+
+signÃ© avec les initiales de l'artiste 'CH' (en haut Ã  gauche et en bas Ã  droite)
+crayon sur papier 
+
+signed with the artist's initials 'CH' (upper left and lower right)
+pencil on paper 
+
+28 x 24 cm. 
+11 x 9 7/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/13/25869943-2-1.jpg,https://www.bonhams.com/auction/31777/lot/60/henri-jean-closon-1888-1975-sans-titre/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1131.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1140.0,950.0
+13c3c187-a95c-4d98-9d31-fb0e78ff628d,Artwork,Bonhams,31777,2026-06-03,"Paris, Avenue Hoche",Impressionist and Modern Art,https://www.bonhams.com/auction/31777/impressionist-and-modern-art/,Lot 61,EUR,8000,12000,N/A,N/A,8551.2,12826.8,N/A,N/A,HONORÉ DAUMIER,1808,1879,Un homme lisant à haute voix,drawing,charcoal and graphite on paper,N/A,32.6,25.7,cm,no,no,yes,1808,1879,"Collection Lemaire, France. Collection Bigou, France. Collection Barbazanges, Paris. Collection Reid & Lefevre, Londres. Collection van Wisselingh, Amsterdam. Douwes Fine Art, Amsterdam. Collection particulière, Amsterdam. Collection particulière, Amsterdam (puis par descendance).","man, woman, reading, chair, books, expression, leisure, interior, conversation, gesture",1,N/A,original,"HONORÃ DAUMIER (1808-1879)
+Un homme lisant Ã  haute voix
+
+fusain et mine de plomb sur papier
+
+charcoal and graphite on paper
+
+25.7 x 32.6 cm.
+10 1/8 x 12 13/16 in.",https://images1.bonhams.com/image?src=Images/live/2026-05/15/25869893-1-1.jpg,https://www.bonhams.com/auction/31777/lot/61/honore-daumier-1808-1879-un-homme-lisant-a-haute-voix/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10793.97,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0

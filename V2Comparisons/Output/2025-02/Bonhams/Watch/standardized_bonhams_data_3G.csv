@@ -1,0 +1,39 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Rolex,Oyster Perpetual,Bonhams,1000,2000,None,1450.0,1208.3333333333335
+Lot 2,Rolex,Oyster Perpetual Datejust,Bonhams,1000,2000,None,1800.0,1500.0
+Lot 3,Rolex,Datejust,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 10,Gucci,G-Timeless,Bonhams,100,200,None,150.0,125.0
+Lot 11,Gucci,G-Timeless,Bonhams,200,300,None,250.0,208.33333333333334
+Lot 12,Gucci,Dive XL,Bonhams,200,400,None,350.0,291.6666666666667
+Lot 13,Corum,<NA>,Bonhams,1000,1500,None,1450.0,1208.3333333333335
+Lot 14,Corum,18K Gold Ingot Manual Wind Wristwatch,Bonhams,1000,1500,None,1350.0,1125.0
+Lot 15,Corum,Golden Bridge,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 16,Piaget,Protocol,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 17,Ebel,Sportwave,Bonhams,500,800,None,650.0,541.6666666666667
+Lot 19,Audemars Piguet,Classique,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 20,Cartier,Trinity Vendome,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 22,Gucci,G-Timeless,Bonhams,200,300,None,250.0,208.33333333333334
+Lot 23,Gucci,Dive,Bonhams,200,400,None,350.0,291.6666666666667
+Lot 24,Gucci,Classic,Bonhams,200,400,None,350.0,291.6666666666667
+Lot 25,Bulova,Classic,Bonhams,100,200,None,150.0,125.0
+Lot 26,Bulova,Classic,Bonhams,100,200,None,150.0,125.0
+Lot 27,Movado,null,Bonhams,1000,2000,None,1800.0,1500.0
+Lot 28,Bueche Girod,<NA>,Bonhams,1000,2000,None,1800.0,1500.0
+Lot 29,Omega,Seamaster de Ville,Bonhams,1000,2000,None,1450.0,1208.3333333333335
+Lot 30,Omega,Seamaster,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 34,Patek Philippe,<NA>,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 35,Patek Philippe,Twenty-four,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 36,Piaget,Polo,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 37,Cartier,Tank,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 38,Vacheron Constantin,<NA>,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 39,Corum,Golden Bridge,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 40,Corum,Golden Bridge,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 41,Cartier,Panthère,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 43,Rolex,Day-Date,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 44,Rolex,Oyster Perpetual Date,Bonhams,2000,3000,None,2800.0,2333.3333333333335
+Lot 45,Omega,De Ville,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 46,Rolex,OysterDate Precision,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 47,Rolex,Datejust,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 48,Omega,Constellation,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 52,Rolex,Oyster Perpetual Explorer,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 53,Roger Dubuis,Sympathie,Bonhams,2000,4000,None,3500.0,2916.666666666667

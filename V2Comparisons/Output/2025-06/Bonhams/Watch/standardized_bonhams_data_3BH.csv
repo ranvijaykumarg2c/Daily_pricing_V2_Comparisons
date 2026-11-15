@@ -1,0 +1,95 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 201,Franck Muller,Chrono Banker,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 202,Franck Muller,Conquistador,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 203,Franck Muller,Conquistador,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 204,Franck Muller,Master Calendar - Magnum,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 205,Girard-Perregaux,Vintage 1945,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 206,Girard-Perregaux,Vintage 1945,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 207,Girard-Perregaux,Manufacture Ferrari,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 208,Girard-Perregaux,Ferrari Chronograph,Bonhams,1500,2500,None,2100.0,1750.0
+Lot 209,<NA>,<NA>,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 210,Girard-Perregaux,Ferrari Rattrapante,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 211,Franck Muller,Master Banker,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 212,Franck Muller,Vegas,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 213,<NA>,<NA>,Bonhams,3000,4000,None,3500.0,2916.666666666667
+Lot 214,Martin Braun,EOS,Bonhams,2000,4000,None,3500.0,2916.666666666667
+Lot 215,Martin Braun,EOS,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 216,Speake-Marin,The Piccadilly Serpent Calendar,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 217,Ulysse Nardin,Maxi Marine - Bluemax,Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 218,Girard-Perregaux,Vintage 1945,Bonhams,6000,9000,None,7500.0,6250.0
+Lot 219,Girard-Perregaux,Richeville,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 220,Chopard,L.U.C. Quattro Régulateur,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 221,Breguet,Classique - Le Réveil du Tsar,Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 222,Breguet,Classique,Bonhams,9000,12000,None,10500.0,8750.0
+Lot 223,Audemars Piguet,Quantième Perpétuel Automatique,Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 224,Audemars Piguet,Jules Audemars - Arnold's All Star Limited Edition of 99,Bonhams,8000,12000,None,10500.0,8750.0
+Lot 225,Girard-Perregaux,Minute Repeater Tourbillon with Neo Bridges,Bonhams,40000,60000,None,52000.0,43333.333333333336
+Lot 226,Girard-Perregaux,Néo-Tourbillon with Three Gold Bridges,Bonhams,50000,70000,None,65000.0,54166.66666666667
+Lot 227,<NA>,<NA>,Bonhams,200,300,None,250.0,208.33333333333334
+Lot 228,Cartier,Trinity Vendome,Bonhams,1000,2000,None,1500.0,1250.0
+Lot 229,Rolex,Datejust,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 230,Cartier,Ballon Bleu,Bonhams,3000,5000,None,4200.0,3500.0
+Lot 231,Hublot,Big Bang,Bonhams,6000,8000,None,7500.0,6250.0
+Lot 232,Piaget,Tanagra,Bonhams,12000,18000,None,15500.0,12916.666666666668
+Lot 233,Vacheron Constantin,<NA>,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 234,Vacheron Constantin,Patrimony 31-Day,Bonhams,4000,6000,None,5500.0,4583.333333333334
+Lot 235,Rolex,Day-Date,Bonhams,12000,18000,None,15500.0,12916.666666666668
+Lot 236,<NA>,<NA>,Bonhams,10000,15000,None,13500.0,11250.0
+Lot 237,<NA>,<NA>,Bonhams,15000,20000,None,18500.0,15416.666666666668
+Lot 238,Vacheron Constantin,Overseas Chronograph,Bonhams,8000,12000,None,10500.0,8750.0
+Lot 239,<NA>,<NA>,Bonhams,10000,20000,None,17500.0,14583.333333333334
+Lot 240,<NA>,<NA>,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 241,Rolex,Explorer II,Bonhams,4000,6000,None,5200.0,4333.333333333334
+Lot 242,Rolex,Explorer 'MK 1',Bonhams,7000,10000,None,8500.0,7083.333333333334
+Lot 243,Rolex,Submariner,Bonhams,12000,18000,None,15500.0,12916.666666666668
+Lot 244,Rolex,Submariner,Bonhams,22000,28000,None,25000.0,20833.333333333336
+Lot 245,Rolex,Datejust,Bonhams,5000,7000,None,6200.0,5166.666666666667
+Lot 246,Rolex,Pre-Datejust,Bonhams,10000,20000,None,15500.0,12916.666666666668
+Lot 247,Rolex,<NA>,Bonhams,8000,12000,None,10500.0,8750.0
+Lot 248,Rolex,Padellone,Bonhams,40000,80000,None,62000.0,51666.66666666667
+Lot 249,<NA>,<NA>,Bonhams,1500,2500,None,2200.0,1833.3333333333335
+Lot 250,Gübelin,Ipso-matic,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 251,Jaeger-LeCoultre,<NA>,Bonhams,3600,4600,None,4200.0,3500.0
+Lot 252,Omega,<NA>,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 253,<NA>,<NA>,Bonhams,6000,8000,None,7500.0,6250.0
+Lot 254,TAG Heuer,<NA>,Bonhams,10000,15000,None,12500.0,10416.666666666668
+Lot 255,<NA>,<NA>,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 256,Omega,Speedmaster Professional,Bonhams,25000,35000,None,30000.0,25000.0
+Lot 257,Universal Geneve,Compax,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 258,Universal Geneve,Tri-Compax,Bonhams,6000,8000,None,7500.0,6250.0
+Lot 259,<NA>,<NA>,Bonhams,2600,3600,None,3200.0,2666.666666666667
+Lot 260,Brooklyn Watch Company,<NA>,Bonhams,4000,6000,None,5000.0,4166.666666666667
+Lot 261,Vacheron Constantin,<NA>,Bonhams,15000,25000,None,21500.0,17916.666666666668
+Lot 262,Patek Philippe,Ellipse,Bonhams,5000,8000,None,6500.0,5416.666666666667
+Lot 263,Patek Philippe,<NA>,Bonhams,12000,18000,None,15500.0,12916.666666666668
+Lot 264,Patek Philippe,Calatrava,Bonhams,5000,7000,None,6500.0,5416.666666666667
+Lot 265,Patek Philippe,Calatrava,Bonhams,6000,9000,None,7500.0,6250.0
+Lot 266,Corum,Peacock,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 267,Omega,De Ville,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 268,IWC,Da Vinci Perpetual Calendar Chronograph,Bonhams,6000,9000,None,7500.0,6250.0
+Lot 269,Patek Philippe,World Time,Bonhams,15000,25000,None,22000.0,18333.333333333336
+Lot 270,Patek Philippe,Perpetual Calendar,Bonhams,18000,25000,None,22000.0,18333.333333333336
+Lot 271,Parmigiani Fleurier,Toric Chronograph,Bonhams,12000,18000,None,15500.0,12916.666666666668
+Lot 272,Daniel Roth,Papillon - 10th Anniversary,Bonhams,3000,5000,None,4500.0,3750.0
+Lot 273,Gerald Charles,Renaissance,Bonhams,2000,3000,None,2500.0,2083.3333333333335
+Lot 274,Urban Jürgensen,<NA>,Bonhams,15000,25000,None,21500.0,17916.666666666668
+Lot 275,Parmigiani Fleurier,Tonda Centrum,Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 276,Patek Philippe,Calatrava,Bonhams,10000,15000,None,12500.0,10416.666666666668
+Lot 277,Breguet,Classique Grande Complication,Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 278,Girard-Perregaux,Classique Chronograph,Bonhams,2500,4500,None,3750.0,3125.0
+Lot 279,Girard-Perregaux,Richeville,Bonhams,2000,4000,None,3200.0,2666.666666666667
+Lot 280,<NA>,<NA>,Bonhams,20000,30000,None,25000.0,20833.333333333336
+Lot 281,Girard-Perregaux,Tourbillon Réserve de Marche,Bonhams,30000,50000,None,42000.0,35000.0
+Lot 282,Vacheron Constantin,Patrimony Tourbillon,Bonhams,15000,25000,None,22000.0,18333.333333333336
+Lot 283,<NA>,<NA>,Bonhams,100000,150000,None,125000.0,104166.66666666667
+Lot 284,Vacheron Constantin,Patrimony,Bonhams,5000,8000,None,7200.0,6000.0
+Lot 285,Vacheron Constantin,Audubon - Birds of America 'Long Billed Curlew',Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 286,<NA>,<NA>,Bonhams,20000,30000,None,25000.0,20833.333333333336
+Lot 287,Ulysse Nardin,Chronometer San Marco 'Flying Cloud',Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 288,Ulysse Nardin,San Marco 'Kremlin',Bonhams,20000,30000,None,25000.0,20833.333333333336
+Lot 289,Patek Philippe,Calatrava 'Squelette',Bonhams,20000,30000,None,26500.0,22083.333333333336
+Lot 290,Parmigiani Fleurier,Toric Classic 'Squelette',Bonhams,8000,12000,None,10500.0,8750.0
+Lot 291,<NA>,<NA>,Bonhams,40000,60000,None,52000.0,43333.333333333336
+Lot 292,Breguet,Classique,Bonhams,30000,50000,None,42000.0,35000.0
+Lot 293,Audemars Piguet,Quantième Perpétuel Automatique,Bonhams,15000,25000,None,22000.0,18333.333333333336
+Lot 294,Audemars Piguet,Quantième Perpétuel Automatique,Bonhams,12000,18000,None,15500.0,12916.666666666668

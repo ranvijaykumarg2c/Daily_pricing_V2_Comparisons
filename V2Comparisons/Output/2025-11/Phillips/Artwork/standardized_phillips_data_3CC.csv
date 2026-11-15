@@ -1,0 +1,8 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+96ed1c90-4f2a-4ae3-91a8-41fcd578065f,Art,Phillips,NY011725,2025-11-20,New York,Out of This World,https://www.phillips.com/auction/NY011725,Lot 534,USD,8000,12000,None,None,8000,12000,None,None,"Mark ""Crash"" McCreery",None,None,Jurassic Park Visitor Center Mural – Final Concept Art,drawing,graphite and collage on paper,None,8.5,11,in,no,yes,yes,1992,US Private Collection,"dinosaurs, trees, foliage, landscape, sketches, collage, graphite, prehistoric, terrain, natural habitat",None,None,"graphite and collage on paper, in 3 parts
+left 11 x 8 1/2 in. (27.9 x 21.6 cm)
+center 8 1/2 x 23 1/8 in. (21.6 x 58.7 cm)
+right 11 x 8 1/2 in. (27.9 x 21.6 cm)
+Executed in 1992.
+Priority Bidding is here! Secure a lower Buyer's Premium. 
+ø- Please note that Phillips will accept Cryptocurrency payment from the successful bidder for this Lot.",https://assets.phillips.com/auctions/NY011725/226326_001.jpg,https://www.phillips.com/detail/mark-%22crash%22-mccreery/226326,6617.32,22432.85,46091.74,24.69,63.16,3.72,None,2025-11,gpt-4.1-mini,10500.0,8750.0

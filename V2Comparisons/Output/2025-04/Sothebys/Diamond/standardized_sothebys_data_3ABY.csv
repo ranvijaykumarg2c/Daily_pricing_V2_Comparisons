@@ -1,0 +1,10 @@
+lot_number,brand,carat,auction_house,low_estimate_usd,high_estimate_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,<NA>,3.07,Sotheby's,40000,60000,52000.0,43333.333333333336
+Lot 2,<NA>,3.54,Sotheby's,12000,18000,15000.0,12500.0
+Lot 3,<NA>,2.00,Sotheby's,9000,12000,10500.0,8750.0
+Lot 4,Jogani,2.25,Sotheby's,9000,12000,10500.0,8750.0
+Lot 5,<NA>,14.14,Sotheby's,35000,45000,42000.0,35000.0
+Lot 6,<NA>,12.06,Sotheby's,50000,70000,65000.0,54166.66666666667
+Lot 7,<NA>,"5.02, 5.01",Sotheby's,100000,120000,110000.0,91666.66666666667
+Lot 8,<NA>,32.25,Sotheby's,70000,90000,85000.0,70833.33333333334
+Lot 9,<NA>,7.01,Sotheby's,250000,350000,325000.0,270833.3333333334

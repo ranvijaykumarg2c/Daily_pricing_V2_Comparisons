@@ -1,0 +1,843 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+72ef9faa-cc1a-47a3-8c9a-a43ef33baa72,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 1,GBP,80000,120000,N/A,N/A,101699.76,152549.64,N/A,N/A,SAMIA HALABY,1936,N/A,River Rapids,painting,acrylic on canvas,N/A,41,41,in,yes,yes,yes,2021,"Ayyam Gallery, Dubai.
+Acquired from the above by the present owner in 2022.","river, water, abstract, colors, lines, canvas, movement, nature, acrylic, blue",1,N/A,original,"River Rapids 
+signed and dated in Arabic (lower left); signed and dated 'S. A. Halaby '21' (lower right); signed and dated in Arabic, signed, inscribed and incorrectly dated 'No905 ""River"" 2020 Samia. A. Halaby' (on the reverse)
+acrylic on canvas
+41 x 41in. (104.1 x 104.1cm.)
+Painted in 2021",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0001_000(samia_halaby_river_rapids052722).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/samia-halaby-b-1936-jerusalem-1/311325?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,2026-06,127938.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,132000.0,110000.0
+9c1f3006-09a3-4663-bbf3-00d1405feaaa,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 2,GBP,50000,70000,N/A,N/A,63562.35,88987.29,N/A,N/A,SALIBA DOUAIHY,1915,1994,Untitled (Wadi Qannoubine series),painting,oil on canvas,N/A,58.6,88.9,cm,yes,yes,no,1980,"Private Collection (since the 1980s).
+Thence by descent to the present owner.","mountains, blue, sky, green, orange, red, landscape, abstract, colors, shapes",1,N/A,original,"Untitled (Wadi Qannoubine series) 
+inscribed in Arabic, signed 'S. Douaihy' (on the reverse)
+oil on canvas
+35 x 23
+1
+⁄
+8
+in. (88.9 x 58.6cm.)
+Painted in the 1980s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0002_000(saliba_douaihy_untitled052745).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/saliba-douaihy-1915-ehden-1994-new-york-2/311326?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,107489.62,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,75000.0,62500.0
+b4b00466-90e7-40ea-85a7-c700f88862a5,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 3,GBP,80000,120000,N/A,N/A,101699.76,152549.64,N/A,N/A,ETEL ADNAN,1925,2021,Untitled,painting,oil on canvas,N/A,19.875,16,in,yes,yes,no,1995,"Sfeir-Semler Gallery, Hamburg.
+Acquired from the above by the present owner in 2013.","hills, landscape, earth tones, green, yellow, brown, abstract",1,N/A,original,"Untitled
+signed ‘Adnan’ (lower right); signed 'Adnan' (on the reverse backing paper)
+oil on canvas
+16 x 19
+7
+⁄
+8
+in. (40.5 x 50.5cm.)
+Painted 
+circa 
+1995-2000",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0003_000(etel_adnan_untitled052751).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/etel-adnan-1925-beirut-2021-paris-3/311329?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,127938.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,131000.0,109166.66666666667
+cf31d05e-0c59-4d0e-99c5-4f5933dc5369,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 4,GBP,70000,100000,N/A,N/A,88987.29,127124.7,N/A,N/A,MOHAMED MELEHI,1936,2020,64 Quadrattini (64 Little Squares),painting,oil on canvas,N/A,36.125,101.8,in,yes,yes,yes,1960,"Private Collection, Rome. 
+Thence by descent to the present owner.","red background, black border, colored squares, abstraction",1,N/A,original,"64 Quadrattini (64 Little Squares)
+signed and titled ‘64 QUADRATTINI MELEHI’ (on the reverse)
+oil on canvas
+101.8 x 36
+1
+⁄
+8
+in. (101.8 x 91.8cm.)
+Painted in the 1960s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0004_000(mohamed_melehi_64_quadrattini052811).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/mohamed-melehi-1936-asilah-2020-boulogne-billancourt-4/311327?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,107489.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,110000.0,91666.66666666667
+8dc702a4-5996-4adc-a33f-7aa2cb94d4a1,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 5,GBP,70000,100000,N/A,N/A,88987.29,127124.7,N/A,N/A,ABDUL HALIM RADWI,1939,2006,Untitled,painting,oil on canvas,N/A,28.125,39,in,yes,yes,no,2002,"The Artist. 
+Thence by descent to the present owner.","concentric circles, abstract forms, figures, green background, colorful patterns, eyes, birds, facial features, shapes, symbols",1,N/A,original,"Untitled
+signed and dated in Arabic (lower right); signed and dated 'Redwi 2002' (lower left)
+oil on canvas
+39 x 28
+1
+⁄
+8
+in. (99.1 x 71.5cm.)
+Painted in 2002",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0005_000(abdul_halim_radwi_untitled052819).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/abdul-halim-radwi-1939-mecca-2006-jeddah-5/311328?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,107489.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,103000.0,85833.33333333334
+21f4c93c-3217-415d-ba53-efe8e03f47da,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 6,GBP,35000,55000,N/A,N/A,44493.64,69918.58,N/A,N/A,CHARLES-HOSSEIN ZENDEROUDI,1937,N/A,YEK + HASS,painting,acrylic on canvas,N/A,81.2,100,cm,yes,yes,yes,1973,"Galerie Stadler, Paris.
+S. Erasmo Club D'Arte, Milan.
+Acquired from the above by the present owner.","stripes, red, black, blue, white, zigzag pattern",1,N/A,original,"YEK + HASS 
+signed and dated '73 Zenderoudi' (lower right)
+acrylic on canvas
+39
+3
+⁄
+8
+ x 32in. (100 x 81.2cm.)
+Painted in 1973",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0006_000(charles-hossein_zenderoudi_yek_hass052840).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/charles-hossein-zenderoudi-b-1937-tehran-6/311330?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,49801.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,57900.0,48250.0
+b1e7145d-a7b2-4d07-8dec-fcfc577edd4b,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 7,GBP,60000,80000,N/A,N/A,76274.82,101699.76,N/A,N/A,SOHRAB SEPEHRI,1928,1980,Untitled,painting,oil on canvas,N/A,27.5,39,in,yes,yes,no,1960,Mahdavi Family Collection (acquired directly from the artist in 1973).,"abstract, shapes, red, green, brown, texture, canvas, oil, brushstrokes",1,N/A,original,"Untitled
+signed in Farsi (lower centre)
+oil on canvas
+39 x 27
+1
+⁄
+2
+in. (99.1 x 70cm.)
+Painted in the 1960s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0007_000(sohrab_sepehri_untitled052855).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/sohrab-sepehri-1928-kashan-1980-tehran-7/311331?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,106389.24,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,89000.0,74166.66666666667
+00ebd40b-c5c5-4a3d-b67b-64db8897f7e1,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 8,GBP,30000,50000,N/A,N/A,38137.41,63562.35,N/A,N/A,MASSOUD ARABSHAHI,1935,2019,Untitled,painting,oil on canvas,N/A,43.25,47.25,in,yes,yes,no,1974,"Private Collection, USA (acquired directly from the artist).
+Acquired from the above by the present owner.","abstract composition, circle, figure, skeleton, skull, stick, colors, red, black, yellow",1,N/A,original,"Untitled 
+signed and dated 'M. Arabshahi. 74' (lower left); signed and dated '1374 Massoud Arabshahi' (on the reverse)
+oil on canvas
+47
+1
+⁄
+4
+ x 43
+1
+⁄
+4
+in. (120 x 110cm.)
+Painted in 1974",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0008_000(massoud_arabshahi_untitled052904).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/massoud-arabshahi-1935-tehran-2019-tehran-8/311332?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,47910.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+a8d44b46-893b-47f7-9977-9c7ba6ad49d1,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 9,GBP,70000,100000,N/A,N/A,88987.29,127124.7,N/A,N/A,PARVIZ TANAVOLI,1937,N/A,Freedom and Poet,sculpture,bronze on stone base,3.5,7.5,12.5,in,no,yes,yes,1970,"Zimmerman Estate Collection, USA (acquired directly from the artist 
+circa 
+1970).","bronze sculpture, abstract figures, stone base, human elements, modern art",1,N/A,original,"Freedom and Poet 
+bronze on stone base
+bronze: 12
+1
+⁄
+2
+ x 7
+1
+⁄
+2
+ x 3
+1
+⁄
+2
+in. (31.7 x 19 x 8.8cm.)
+base: 4 x 7
+1
+⁄
+2
+ x 3
+1
+⁄
+2
+in. (10.2 x 19 x 8.8cm.)
+Executed in 1970",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0009_000(parviz_tanavoli_freedom_and_poet052923).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/parviz-tanavoli-b-1937-tehran-9/311336?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,107489.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,110000.0,91666.66666666667
+2fff28d9-d079-498f-84ae-49989db2a033,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 10,GBP,40000,60000,N/A,N/A,50849.88,76274.82,N/A,N/A,DIA AL-AZZAWI,1939,N/A,Landscape No. 1,painting,oil on canvas,N/A,31.625,39.375,in,yes,yes,yes,1983,"Private Collection, Tunisia (acquired directly from the artist in 1985).","landscape, abstract shapes, moon, circles, triangles, colors, geometric patterns, tree, night sky, orange background",1,N/A,original,"Landscape No. 1
+signed and dated ‘Azzawi 83’ (lower right)
+oil on canvas
+39
+3
+⁄
+8
+ x 31
+5
+⁄
+8
+in. (100 x 80.2cm.)
+Painted in 1983",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0010_000(dia_al-azzawi_untitled052946).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/dia-al-azzawi-b-1939-baghdad-10/311333?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,102497.83,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,63500.0,52916.66666666667
+cc7522d7-80ea-4fee-8623-5f1109167866,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 11,GBP,30000,50000,N/A,N/A,38137.41,63562.35,N/A,N/A,FAEQ HASSAN,1914,1992,Untitled,painting,oil on panel,N/A,27.75,21.375,in,yes,yes,no,1950,"Private Collection, UK (acquired directly from the artist in the 1960s). 
+Thence by descent to the present owner.","men, traditional clothing, coffee pots, table, red background, geometric shapes, figures, Islamic culture",1,N/A,original,"Untitled
+signed ‘FAIK. H’ (lower right)
+oil on panel
+21
+3
+⁄
+8
+ x 27
+3
+⁄
+4
+in. (54.4 x 70.4cm.)
+Painted in the 1950s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0011_000(faeq_hassan_untitled053005).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/faeq-hassan-1914-baghdad-1992-paris-11/311334?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,47801.69,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+437acb9e-a048-465a-abd8-8882da04af7b,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 12,GBP,25000,35000,N/A,N/A,31781.17,44493.64,N/A,N/A,HAFIDH AL-DROUBI,1914,1991,Abstract No. 10,painting,oil on panel,N/A,38.875,50.75,in,yes,yes,yes,1982,"The Artist.
+Thence by descent to the present owner.","abstract, colors, shapes, forms, texture, composition, painting, oil, panel, Arabic",1,N/A,original,"Abstract No. 10
+signed and dated in Arabic (lower right); signed and titled in Arabic (on the reverse)
+oil on panel
+50
+3
+⁄
+4
+ x 38
+7
+⁄
+8
+in. (129 x 98.6cm.)
+Painted in 1982",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0012_000(hafidh_al-droubi_abstract_no_10053013).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/hafidh-al-droubi-1914-baghdad-1991-baghdad-12/311341?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,38107.62,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,38100.0,31750.0
+1b9890d7-6ed5-491c-b405-82391b141bab,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 13,GBP,7000,10000,N/A,N/A,8898.73,12712.47,N/A,N/A,JEWAD SELIM,1919,1961,Portrait of Lorna,drawing,graphite on paper,N/A,8.375,10.625,in,yes,yes,yes,1955,"Mohammad Ghani Hikmat Collection (acquired directly from the artist).
+Thence by descent to the present owner.","portrait, woman, long hair, profile, graphite, paper, 1955, Lorna, signed, expression",1,N/A,original,"Portrait of Lorna
+signed and dated ‘J. Selim 1955/1/18’ (lower right)
+graphite on paper
+10
+5
+⁄
+8
+ x 8
+3
+⁄
+8
+in. (27 x 21.3cm.)
+Executed in January 1955",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0013_000(jewad_selim_portrait_of_lorna053021).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/jewad-selim-1919-baghdad-1961-baghdad-13/311335?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10793.82,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11500.0,9583.333333333334
+ff521215-c077-41b9-a40a-ee7dfca7eb60,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 14,GBP,10000,15000,N/A,N/A,12712.47,19068.7,N/A,N/A,JEWAD SELIM,1919,1961,Self-Portrait,drawing,ballpoint pen on paper,N/A,8.625,5.75,in,no,yes,yes,1955,"Mohammad Ghani Hikmat Collection (acquired directly from the artist). 
+Thence by descent to the present owner.","self-portrait, man, beard, ballpoint pen, paper, orange background",1,N/A,original,"Self-Portrait
+dated in Arabic (lower right)
+ballpoint pen on paper
+5
+3
+⁄
+4
+ x 8
+5
+⁄
+8
+in. (14.6 x 22cm.)
+Executed in February 1955",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0014_000(jewad_selim_self-portrait053030).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/jewad-selim-1919-baghdad-1961-baghdad-14/311337?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16389.02,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,15300.0,12750.0
+99c6ce62-293b-4480-9b1e-2e39a9eb6aea,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 15,GBP,20000,30000,N/A,N/A,25424.94,38137.41,N/A,N/A,MARWAN,1934,2016,Kopf (Head),painting,gouache on paper,N/A,27.75,39.375,in,yes,yes,yes,1985,"Private Collection, Beirut. 
+Acquired from the above in 2024.","head, face, abstract, colors, expression, portrait, brushstrokes, gouache, paper, emotion",1,N/A,original,"Kopf (Head) 
+signed, numbered and dated 'Marwan juni 85 Nr. 422' (on the reverse)
+gouache on paper
+39
+3
+⁄
+8
+ x 27
+3
+⁄
+4
+in. (100 x 70.5cm.)
+Executed in June 1985",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0015_000(marwan_kopf053036).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/marwan-1934-damascus-2016-berlin-15/311340?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32081.64,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+76f04ba1-318d-47b1-a4c6-d0baf0830794,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 16,GBP,8000,12000,N/A,N/A,10169.98,15254.96,N/A,N/A,NASSER CHAURA,1920,1992,Untitled,painting,oil on canvas,N/A,23.375,30.375,in,yes,yes,no,1979,"Private Collection (acquired directly from the artist). 
+Acquired from the above by the present owner in 2019.","woman, child, children, flowers, foliage, red dress, pink dress, landscape, groups, texture",1,N/A,original,"Untitled
+signed in Arabic, signed and dated ‘N.CHAURA 1979’ (lower right)
+oil on canvas
+30
+3
+⁄
+8
+ x 23
+3
+⁄
+8
+in. (77.2 x 59.5cm.)
+Painted in 1979",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0016_000(nasser_chaura_untitled121435).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/nasser-chaura-1920-damascus-1992-damascus-16/311342?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13200.0,11000.0
+509c9795-52b7-4a00-9878-eace67703616,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 17,GBP,40000,60000,N/A,N/A,50849.88,76274.82,N/A,N/A,AHMED MATER,1979,N/A,Illumination XIX & XX,mixed media,"gold leaf, tea, pomegranate, ink and offset X-ray film print on archival Arche paper",N/A,40.375,60,in,no,yes,yes,2010,"Edge of Arabia, London. 
+The Vinyl Factory Gallery, London. 
+Private Collection (acquired from the above in 2010). 
+Anon. sale, Sotheby's London, 20 October 2016, lot 38. 
+Acquired at the above sale by the present owner.","x-ray, human skeleton, gold leaf, decorative border, anatomical imagery, archival paper, ink, pomegranate, tea, print",2,N/A,original,"Illumination XIX & XX
+gold leaf, tea, pomegranate, ink and offset X-ray film print on archival Arche paper, in two parts
+each: 60 x 40
+3
+⁄
+8
+in. (152.5 x 102.5cm.)
+Executed in 2010",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0017_000(ahmed_mater_illumination_xix_amp_xx053052).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/ahmed-mater-b-1979-tabuk-17/311338?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64039.12,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,68200.0,56833.333333333336
+4024bbce-9b5a-45bb-8025-430555467e1d,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 18,GBP,30000,50000,N/A,N/A,38137.41,63562.35,N/A,N/A,HAYV KAHRAMAN,1981,N/A,Barricade 1,painting,oil and metallic paint on linen,N/A,78.125,50,in,yes,yes,yes,2018,"Jack Shainman Gallery, New York. 
+Acquired from the above by the present owner in 2018.","two women, black object, blue skirt, yellow skirt, white skin, red lips, gray background, rectangular shapes, patterns, surrealism",1,N/A,original,"Barricade 1
+signed with the artist's monogram (upper right)
+oil and metallic paint on linen
+50 x 78
+1
+⁄
+8
+in. (127.1 x 198.3cm.)
+Executed in 2018",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0018_000(hayv_kahraman_barricade_1121453).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/hayv-kahraman-b-1981-baghdad-18/311339?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,47801.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+14c4674a-1030-40f0-acc7-773a8fe6421d,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 19,GBP,15000,20000,N/A,N/A,19068.7,25424.94,N/A,N/A,MAHMOUD SAÏD,1897,1964,Laveuses (Washers),painting,oil on panel,N/A,9.5,7.125,in,no,yes,yes,1917,"Hussein Bek Saïd Collection, Alexandria (acquired directly from the artist).
+Thence by descent to the present owner.","women, laundry, baskets, river, clothing, labor, teamwork, colors, figures, rural",1,N/A,original,"MAHMOUD SAÏD (1897, ALEXANDRIA - 1964, ALEXANDRIA)
+Laveuses (Washers)
+oil on panel
+7
+1
+⁄
+8
+ x 9
+1
+⁄
+2
+in. (18 x 24.2cm.)
+Painted 
+circa 
+1917",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0019_000(mahmoud_said_laveuses053112).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/mahmoud-said-1897-alexandria-1964-alexandria-19/311343?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23801.67,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+3c9fce6b-6a8d-4e94-a19e-f9da25c61dbf,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 20,GBP,30000,40000,N/A,N/A,38137.41,50849.88,N/A,N/A,MAHMOUD MOKHTAR,1891,1934,Ala Shat El Nil (Au Bord du Nil/On the Banks of the Nile),sculpture,bronze,67.8,77.8,33.5,in,yes,yes,yes,1942,"Private Collection, Paris (by the 1950s). 
+Thence by descent to the present owner.","woman, vessel, bronze, standing figure, clothing, feet, Egyptian, sculpture, traditional attire, pose",1,N/A,original,"Ala Shat El Nil (Au Bord du Nil/On the Banks of the Nile)
+incised with the artist’s signature ‘MOUKTAR’ (to the right side of the base); ‘Susse Frs Edts Paris’ and stamped with the Susse foundry mark (to the left side of the base)
+bronze
+33
+1
+⁄
+2
+ x 7
+7
+⁄
+8
+ x 6
+7
+⁄
+8
+in. (85.2 x 20 x 17.5cm.)
+Executed 
+circa 
+1942-1948, this is a posthumous cast from an edition of unknown number",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0020_000(mahmoud_mokhtar_ala_shat_el_nil053128).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/mahmoud-mokhtar-1891-tanbara-1934-cairo-20/311345?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48071.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,46200.0,38500.0
+acd5f076-0978-4b7c-996e-a5322b79aafb,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 21,GBP,40000,60000,N/A,N/A,50849.88,76274.82,N/A,N/A,OMAR EL NAGDI,1931,2019,Musicista (Musician),mixed media,mixed media on panel,N/A,35.375,51.125,in,yes,yes,yes,1962,"Private Collection, Egypt (acquired directly from the artist). 
+Thence by descent to the present owner.","musician, musical instrument, abstract figures, blue, yellow, green, textures, mixed media, shapes, patterns",1,N/A,original,"Musicista (Musician)
+signed and dated 'EL NAGDI 1962' (upper left)
+mixed media on panel
+51
+1
+⁄
+8
+ x 35
+3
+⁄
+8
+in. (130 x 90cm.)
+Executed in 1962",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0021_000(omar_el_nagdi_musicista053157).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/omar-el-nagdi-1931-cairo-2019-cairo-21/311344?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64081.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,68200.0,56833.333333333336
+af6ff194-9769-45ba-9655-940088f2b160,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 22,GBP,50000,70000,N/A,N/A,63562.35,88987.29,N/A,N/A,GAZBIA SIRRY,1925,2021,The Mountain and the Desert,painting,oil on canvas,N/A,39.38,21.67,in,yes,yes,yes,1966,"Karl and Elisabeth Vogt Collection, Germany (acquired directly from the artist). 
+Anon. sale, Christie’s London, 3 November 2021, lot 4. 
+Acquired at the above sale by the present owner.","mountains, desert, sky, landscape, abstract, colors, textures, oil paint, canvas",1,N/A,original,"The Mountain and the Desert 
+signed and dated in Arabic (lower left); signed and titled 'The Mountain and the Desert Gazbia' (on the reverse)
+oil on canvas
+21
+2
+⁄
+3
+ x 39
+3
+⁄
+8
+in. (55 x 99cm.)
+Painted in 1966",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0022_000(gazbia_sirry_the_mountain_and_the_desert053208).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/gazbia-sirry-1925-cairo-2021-cairo-22/311349?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,107489.62,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,76500.0,63750.0
+99639d38-2b6d-45b7-b583-d7129718b263,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 23,GBP,10000,15000,N/A,N/A,12712.47,19068.7,N/A,N/A,ADAM HENEIN,1929,2020,Hibou (Owl),sculpture,bronze,6.875,7.75,8.875,in,yes,yes,yes,1963,"B.V. Kunsthandel M.L. de Boer, Amsterdam. 
+Acquired from the above by the present owner in 1979.","owl, sculpture, bronze, abstract, animal, bird, modern art, form",1,N/A,original,"Hibou (Owl)
+incised with the artist's signature twice and numbered 'A.HENEIN 3/6' (on the reverse)
+bronze
+8
+7
+⁄
+8
+ x 7
+3
+⁄
+4
+ x 6
+7
+⁄
+8
+in. (22.5 x 19.5 x 17.5cm.)
+Executed in 1963, this work is numbered three from an edition of six",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0023_000(adam_henein_hibou122900).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/adam-henein-1929-cairo-2020-cairo-23/311637?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16389.04,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+9d13049c-701d-4086-8403-4cc14f730c02,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 24,GBP,40000,60000,N/A,N/A,50849.88,76274.82,N/A,N/A,OMAR EL NAGDI,1931,2019,El Kaaba Elsharifa,painting,oil on canvas,N/A,29.125,29.5,in,yes,yes,yes,1972,"Private Collection (acquired directly from the artist 
+circa 
+1974-1979). 
+Thence by descent to the present owner.","Kaaba, geometric patterns, concentric circles, orange, black, abstraction, stripes, symmetry",1,N/A,original,"El Kaaba Elsharifa
+signed and dated in Arabic, signed and dated 'O.EL.NAGDI 72.' (lower right); titled in Arabic (on the reverse)
+oil on canvas
+29
+1
+⁄
+2
+ x 29
+1
+⁄
+8
+in. (75 x 74cm.)
+Painted in 1972",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0024_000(omar_el_nagdi_el_kaaba_elsharifa053213).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/omar-el-nagdi-1931-cairo-2019-cairo-24/311350?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64031.29,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,65700.0,54750.0
+de584e66-17f8-48c6-ac3d-02dc53d3a394,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 25,GBP,2000,3000,N/A,N/A,2542.49,3813.74,N/A,N/A,SALEH REDA,1932,2018,Islamic Themes,painting,oil on paper,N/A,21.875,31.5,in,yes,yes,yes,1967,"Abdul Halim Radwi Collection (acquired directly from the artist in 1991). 
+Thence by descent to the present owner.","geometric shapes, vibrant colors, abstract forms, frame, layered patterns, circular motif, Arab cultural references, color gradients, green tones, red border",1,N/A,original,"Islamic Themes
+signed in Arabic (lower right); dated in Arabic (lower left)
+oil on paper
+31
+1
+⁄
+2
+ x 21
+7
+⁄
+8
+in. (80 x 55.7cm.)
+Executed in 1967",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0025_000(saleh_reda_islamic_themes053234).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/saleh-reda-1932-cairo-2018-cairo-25/311351?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3201.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+80ce1a45-e0ca-4fc7-8d50-e8c54a954d1d,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 26,GBP,8000,12000,N/A,N/A,10169.98,15254.96,N/A,N/A,HEDI TURKI,1922,2019,Paysage (Landscape),painting,oil on panel,N/A,24,32,in,yes,yes,yes,1976,"Abdul Halim Radwi Collection (acquired directly from the artist). 
+Thence by descent to the present owner.",landscape,1,N/A,original,"HEDI TURKI (1922, TUNIS - 2019, SIDI BOU SAÏD)
+Paysage (Landscape)
+signed and dated 'h Turki 76' (lower left); signed, titled and inscribed 'Paysage par Hedi TURKI' (on the reverse)
+oil on panel
+32 x 24in. (81.4 x 61cm.)
+Painted in 1976",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0026_000(hedi_turki_paysage053240).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/hedi-turki-1922-tunis-2019-sidi-bou-said-26/311352?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,12800.0,10666.666666666668
+f8aa52db-2fb7-4ae9-a2cd-540c3a2cf402,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 27,GBP,25000,35000,N/A,N/A,31781.17,44493.64,N/A,N/A,BAYA,1931,1998,Untitled,painting,gouache on paper,N/A,99.5,99.3,cm,yes,yes,no,1983,"Private Collection, Oran (acquired directly from the artist in the 1980s). 
+Acquired from the above by the present owner.","woman, bird, fish, blue leaves, colorful patterns, tribal elements, abstract shapes, leaves, flowers, vessels",1,N/A,original,"Untitled
+signed with the artist's monogram and dated '83' (lower left); signed 'Baya' (on the reverse)
+gouache on paper
+39
+1
+⁄
+8
+ x 39
+1
+⁄
+8
+in. (99.3 x 99.5cm.)
+Executed in 1983",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0027_000(baya_untitled075446).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/baya-1931-bordj-el-kiffan-1998-blida-27/311356?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,39781.04,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,38000.0,31666.666666666668
+3952c653-f498-4a9e-bdcb-855d8c990baf,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 28,GBP,20000,30000,N/A,N/A,25424.94,38137.41,N/A,N/A,JULIANA SERAPHIM,1934,2005,Untitled,painting,oil on canvas,N/A,27.5,35.375,in,yes,yes,no,1973,"Private Collection (acquired directly from the artist in 1973).
+Thence by descent to the present owner.","woman, flowers, butterflies, orange, brown, figure, abstract, leaves, nature, portrait",1,N/A,original,"Untitled
+signed and dated ‘Juliana Seraphim, 73’ (lower right)
+oil on canvas
+35
+3
+⁄
+8
+ x 27
+1
+⁄
+2
+in. (90 x 70cm.)
+Painted in 1973",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0028_000(juliana_seraphim_untitled053314).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/juliana-seraphim-1934-jaffa-2005-beirut-28/311354?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32179.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,34500.0,28750.0
+252e20aa-cdf9-46ef-b70e-a0f60bcfac2a,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 29,GBP,20000,30000,N/A,N/A,25424.94,38137.41,N/A,N/A,INJI EFFLATOUN,1924,1989,Untitled,painting,oil on canvas board,N/A,16.5,22.5,in,yes,yes,no,1970,"Private Collection, Egypt (by the 1970s). 
+Thence by descent to the present owner.","woman, red dress, basket, fruits, nature, foliage, oranges, sitting, braids, background",1,N/A,original,"Untitled
+signed and dated ‘I. Efflatoun 70’ (lower left)
+oil on canvas board
+22
+1
+⁄
+2
+ x 16
+1
+⁄
+2
+in. (57 x 42cm.)
+Painted in 1970",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0029_000(inji_efflatoun_untitled053331).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/inji-efflatoun-1924-cairo-1989-cairo-29/311638?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32189.07,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+ca812c23-b29a-442a-98f4-4209d2f56d2f,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 31,GBP,25000,35000,N/A,N/A,31781.17,44493.64,N/A,N/A,LAILA SHAWA,1940,2022,Jerusalem,painting,oil and silver paint on canvas,N/A,26.375,22.5,in,yes,yes,yes,1980,The Artist's family.,"cityscape, domes, trees, buildings, architecture, landscape, geometric patterns, colorful rooftops, sky, sun",1,N/A,original,"Jerusalem
+signed in Arabic, signed with the artist's initials 'LRS' (lower left)
+oil and silver paint on canvas mounted on panel, in artist's frame
+22
+1
+⁄
+2
+ x 26
+3
+⁄
+8
+in. (57 x 67cm.)
+Painted in the 1980-1990s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0031_000(laila_shawa_jerusalem053347).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/laila-shawa-1940-gaza-2022-london-31/311357?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,39801.67,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,39300.0,32750.0
+7409b765-0662-4528-bee2-d05348f2da7f,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 32,GBP,10000,15000,N/A,N/A,12712.47,19068.7,N/A,N/A,SLIMAN MANSOUR,1947,N/A,Untitled,painting,oil on panel,N/A,19.75,18.5,in,yes,yes,no,1980,"Leila Canaan Mantoura Collection, London (acquired directly from the artist in 1976).
+Thence by descent to the present owner.","houses, staircases, moon, clouds, flower, door, windows, night sky, texture, vegetation",1,N/A,original,"Untitled
+signed in Arabic, signed and dated ‘Sliman Mansour 80’ (lower right)
+oil on panel
+18
+1
+⁄
+2
+ x 19
+3
+⁄
+4
+in. (47 x 50cm.)
+Painted in 1980",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0032_000(sliman_mansour_untitled053357).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/sliman-mansour-b-1947-birzeit-32/311361?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16387.09,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+ea53225f-ad82-41c8-b101-28bbcf1b5420,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 33,GBP,20000,30000,N/A,N/A,25424.94,38137.41,N/A,N/A,SLIMAN MANSOUR,1947,N/A,Crucified,painting,oil on canvas,N/A,28.875,32,in,yes,yes,yes,1975,"Leila Canaan Mantoura Collection, London (acquired directly from the artist in 1976).
+Thence by descent to the present owner.","crucifixion, figure, cross, patterns, colors, background, sky",1,N/A,original,"Crucified
+signed in Arabic, signed and dated 'S. Mansour 75' (lower left)
+oil on canvas
+32 x 28
+7
+⁄
+8
+in. (81.2 x 73.2cm.)
+Painted in 1975",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0033_000(sliman_mansour_crucified053405).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/sliman-mansour-b-1947-birzeit-33/311363?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32791.04,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,32000.0,26666.666666666668
+7997697c-e8c6-4f3b-a689-a95e2448f6ea,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 34,GBP,15000,20000,N/A,N/A,19068.7,25424.94,N/A,N/A,NABIL ANANI,1943,N/A,Mother “Tell me about Palestine”,painting,oil and metallic paint on canvas,N/A,27.375,28.875,in,yes,yes,yes,1975,"Leila Canaan Mantoura Collection, London (acquired directly from the artist in 1976).
+Thence by descent to the present owner.","woman, child, feet, bowl, green, orange, brown, fabric, mother, traditional dress",1,N/A,original,"Mother “Tell me about Palestine”
+signed and dated in Arabic (lower left)
+oil and metallic paint on canvas
+28
+7
+⁄
+8
+ x 27
+3
+⁄
+8
+in. (59.4 x 69.4cm.)
+Painted in 1975",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0034_000(nabil_anani_mother_8220tell_me_about_palestine8221053430).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/nabil-anani-b-1943-latroun-34/311364?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23801.67,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+301383e0-01f0-4bc5-8be0-157e1a2fb735,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 35,GBP,3000,5000,N/A,N/A,3813.74,6356.23,N/A,N/A,VERA TAMARI,1945,N/A,Togetherness,ceramics,glazed terracotta,5.5,6.875,12.75,in,no,yes,yes,1970,"Leila Canaan Mantoura Collection, London (acquired directly from the artist in 1976).
+Thence by descent to the present owner.","family, figures, sculpture, terracotta, togetherness",1,N/A,original,"Togetherness
+stamped with artist's monogram (on the back)
+glazed terracotta
+12
+3
+⁄
+4
+ x 6
+7
+⁄
+8
+ x 5
+1
+⁄
+2
+in. (32.5 x 17.6 x 14cm.)
+Executed in the 1970s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0035_000(vera_tamari_togetherness053455).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/vera-tamari-b-1945-jerusalem-35/311362?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+841dc596-0e7d-4e90-80fb-5f5bb546d2de,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 36,GBP,7000,10000,N/A,N/A,8898.73,12712.47,N/A,N/A,SAMIA TAKTAK ZARU,1938,2026,Untitled,mixed media,"acrylic paint, embroidery and beads on fabric",N/A,72,23.75,in,yes,yes,no,1974,"Leila Canaan Mantoura Collection, London (acquired directly from the artist in 1976).
+Thence by descent to the present owner.","women, fabric, embroidery, beads, colorful clothing, figures, community, celebration, patterns, Middle Eastern",1,N/A,original,"Untitled 
+signed, numbered and dated 'SamiaZaru 1974. 3/5' (lower right)
+acrylic paint, embroidery and beads on fabric
+23
+3
+⁄
+4
+ x 72in. (60.2 x 182.8cm.)
+Executed in 1974, this work is number three of five unique versions",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0036_000(samia_taktak_zaru_untitled053537).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/samia-taktak-zaru-1938-nablus-2026-amman-36/311365?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10749.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,11500.0,9583.333333333334
+113508ac-3361-4594-9df4-d4a0d5623769,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 37,GBP,30000,40000,N/A,N/A,38137.41,50849.88,N/A,N/A,ABDULRAHMAN KATANANI,1983,N/A,Kids Waiting in Line,mixed media,spray paint on corrugated metal,N/A,98.375,55.875,in,yes,yes,yes,2026,"al markhiya gallery, Doha (acquired directly from the artist).","children, line, corrugated metal, colorful clothing, spray paint, urban environment, standing figures, pots, cans, waiting",1,N/A,original,"Kids Waiting in Line 
+signed in Arabic, titled and dated 'Kids waiting in line 2026' (on the reverse)
+spray paint on corrugated metal
+55
+7
+⁄
+8
+ x 98
+3
+⁄
+8
+in. (142 x 250cm.)
+Executed in 2026",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0037_000(abdulrahman_katanani_kids_waiting_in_line053548).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/abdulrahman-katanani-b-1983-beirut-37/311370?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,47801.29,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,46250.0,38541.66666666667
+489a4f32-33a6-48bc-b89e-c051a6ecf5b0,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 38,GBP,30000,50000,N/A,N/A,38137.41,63562.35,N/A,N/A,PAUL GUIRAGOSSIAN,1926,1993,Confidence,painting,oil on canvas,N/A,27.5,39.375,in,yes,yes,yes,1970,"Private Collection, UAE.
+Anon. sale, Christie’s Dubai, 29 April 2009, lot 143.
+Private Collection.
+Acquired from the above by the present owner.","figures, abstract, green, yellow, pink, white, oil, canvas, painting",1,N/A,original,"Confidence
+signed 'Paul G' (lower left); signed 'Paul Guiragossian' (on the reverse)
+oil on canvas
+39
+3
+⁄
+8
+ x 27
+1
+⁄
+2
+in. (100 x 70cm.)
+Painted 
+circa 
+1970",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0038_000(paul_guiragossian_confidence121529).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/paul-guiragossian-1926-jerusalem-1993-beirut-38/311371?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,47801.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,52000.0,43333.333333333336
+39686781-636f-472c-a2e4-a712e0b514db,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 39,GBP,25000,35000,N/A,N/A,31781.17,44493.64,N/A,N/A,SHAFIC ABBOUD,1926,2004,Arbres (Trees),painting,oil on paper laid on canvas,N/A,28.75,36.375,in,yes,yes,yes,1969,"Private Collection, Lebanon. 
+Acquired from the above by the present owner.","trees, colors, abstract patterns, foliage, landscape, shapes, textures, blue, orange, yellow",1,N/A,original,"Arbres (Trees)
+signed 'Abboud' (lower right), signed, titled and dated '""ARBRES"" 69 ABBOUD' (on the reverse)
+oil on paper laid on canvas
+36
+3
+⁄
+8
+ x 28
+3
+⁄
+4
+in. (92.3 x 73.1cm.)
+Executed in 1969",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0039_000(shafic_abboud_arbres053554).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/shafic-abboud-1926-bikfaya-2004-paris-39/311372?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,38901.62,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,38500.0,32083.333333333336
+cc9d3585-41a8-4add-81e3-2e4512265092,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 40,GBP,12000,18000,N/A,N/A,15254.96,22882.45,N/A,N/A,NADIA SAIKALI,1936,N/A,Sables (Sands),painting,oil on canvas,N/A,45.75,28.75,in,yes,yes,yes,1962,"Private Collection. 
+Anon. sale, Arcache Auction Beirut, 28 May 2023, lot 85. 
+Acquired at the above sale by the present owner.","sand, earth tones, abstract, texture, color field, landscape, warm colors, horizon, earthy palette, layered paint",1,N/A,original,"Sables (Sands)
+signed and dated 'N. Saikali Th 62' (lower left), signed and titled 'N. Saikali Sables' (on the reverse)
+oil on canvas
+28
+3
+⁄
+4
+ x 45
+3
+⁄
+4
+in. (73.1 x 116.2cm.)
+Painted in 1962",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0040_000(nadia_saikali_sables053614).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/nadia-saikali-b-1936-beirut-40/311373?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19206.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,19800.0,16500.0
+db67ff9e-05ea-48ee-944a-d2de607a57a4,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 41,GBP,12000,18000,N/A,N/A,15254.96,22882.45,N/A,N/A,HELEN KHAL,1923,2009,Untitled,painting,oil on masonite,N/A,16.75,10.5,in,yes,yes,no,1973,"Agial Gallery, Beirut.
+Acquired from the above by the present owner in 2017.","rectangles, colors, abstract composition, earth tones, red, beige, brown, painting",1,N/A,original,"Untitled 
+signed and dated ‘Helen Khal 1973’ (on the reverse)
+oil on masonite
+10
+1
+⁄
+2
+ x 16
+3
+⁄
+4
+in. (26.6 x 42.5cm.)
+Painted in 1973",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0041_000(helen_khal_untitled053626).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/helen-khal-1923-allentown-2009-ajaltoun-41/311374?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,19387.64,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,18200.0,15166.666666666668
+68ac7265-b3a2-4187-bc22-5d420e6fa76c,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 42,GBP,40000,60000,N/A,N/A,50849.88,76274.82,N/A,N/A,FAHRELNISSA ZEID,1901,1991,Abstract,painting,oil on canvas,N/A,19.75,23.625,in,no,yes,yes,1960,"Private Collection, Turkey. 
+Acquired from the above by the present owner.","abstract, red, yellow, dark, textured",1,N/A,original,"FAHRELNISSA ZEID (1901, BÜYÜKADA - 1991, AMMAN)
+Abstract
+oil on canvas
+23
+5
+⁄
+8
+ x 19
+3
+⁄
+4
+in. (60 x 50cm.)
+Painted in the 1960s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0042_000(fahrelnissa_zeid_abstract053639).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/fahrelnissa-zeid-1901-buyukada-1991-amman-42/311378?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64081.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,65500.0,54583.333333333336
+12f65210-24bd-4ec8-8c48-6083081f7d2b,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 43,GBP,40000,60000,N/A,N/A,50849.88,76274.82,N/A,N/A,FAHRELNISSA ZEID,1901,1991,Untitled,painting,oil on canvas,N/A,76,56,cm,no,yes,no,1960,"Private Collection, Turkey. 
+Acquired from the above by the present owner.","abstract, dark colors, textured surface, swirling lines, canvas, oil painting, geometric forms",1,N/A,original,"FAHRELNISSA ZEID (1901, BÜYÜKADA - 1991, AMMAN)
+Untitled
+oil on canvas
+22 x 29
+7
+⁄
+8
+in. (56 x 76cm.)
+Painted in the 1960s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0043_000(fahrelnissa_zeid_untitled053655).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/fahrelnissa-zeid-1901-buyukada-1991-amman-43/311379?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64081.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,63500.0,52916.66666666667
+17fa26bf-ede2-4329-b2f8-2be3eceb061e,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 44,GBP,3000,5000,N/A,N/A,3813.74,6356.23,N/A,N/A,HUGUETTE CALAND,1931,2019,Untitled (from Faces and Places II series),painting,acrylic and metallic paint on panel,N/A,5,5,in,no,yes,no,1997,"Private Collection, Lebanon. 
+Anon. sale, Artscoops Beirut, 8 October 2019, lot 6. 
+Private Collection. 
+Anon. sale, Nada Boulos Auction & Artscoops Beirut, 24 September 2020, lot 2.
+Acquired at the above sale by the present owner.","abstract patterns, geometric shapes, metallic elements, warm colors, textured surface",1,N/A,original,"Untitled (from Faces and Places II series)
+acrylic and metallic paint on panel
+5 x 5in. (12.7 x 12.6cm.)
+Executed in 1997",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0044_000(huguette_caland_untitled053710).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/huguette-caland-1931-beirut-2019-beirut-44/311377?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+681639b5-90ea-41de-8794-b98f83938602,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 45,GBP,3000,5000,N/A,N/A,3813.74,6356.23,N/A,N/A,SALOUA RAOUDA CHOUCAIR,1916,2017,Ring and Brooch,decorative arts,silver,N/A,0.75,5.75,in,no,yes,yes,1970,"Private Collection, Paris (acquired directly from the artist). 
+Thence by descent to the present owner.","ring, brooch, silver, geometric design, jewelry, modernist style, 1970s, fashion accessory, metallic",2,N/A,original,"Ring and Brooch
+silver
+Ring: Eu ring size 54 / US ring size 6
+3
+⁄
+4
+ 
+Brooch: 5
+3
+⁄
+4
+ x 3/4in. (14.5 x 1.8cm.) 
+gross weight: 28.10 grams
+Executed in the 1970s",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0045_000(saloua_raouda_choucair_ring_and_brooch053726).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/saloua-raouda-choucair-1916-beirut-2017-beirut-45/311380?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+284bc27a-d7ba-47a4-8b89-c5f6e28747cd,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 46,GBP,8000,12000,N/A,N/A,10169.98,15254.96,N/A,N/A,ALI CHERRI,1976,N/A,Heroes: The Rise and Fall,sculpture,chrome-plated brass and granite,4.875,9.125,21.75,in,no,yes,yes,2013,"Saleh Barakat Gallery, Beirut.
+Acquired from the above by the present owner.","astronaut, helmet, space suit, sculpture, chrome, brass, granite, standing figure, base, metallic",1,005/8,original,"Heroes: The Rise and Fall
+chrome-plated brass and granite
+21
+3
+⁄
+4
+ x 9
+1
+⁄
+8
+ x 4
+7
+⁄
+8
+in. (55.3 x 23.3 x 12.5cm.)
+Executed in 2013, this work is number five from an edition of eight plus two artist's proofs
+
+Edition: 005/8",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0046_000(ali_cherri_heroes_the_rise_and_fall053746).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/ali-cherri-b-1976-beirut-46/311381?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13200.0,11000.0
+acab5108-1917-4881-82a1-3cce86c4da05,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 47,GBP,25000,35000,N/A,N/A,31781.17,44493.64,N/A,N/A,AYMAN BAALBAKI,1975,N/A,Concrete Beirut Barrier,painting,acrylic on fabric laid on canvas,N/A,56.875,40.875,in,yes,yes,yes,2013,"Rose Issa Projects, London. 
+Acquired from the above by the present owner in 2015.","concrete barrier, flowers, abstract patterns, colors, urban elements",1,N/A,original,"Concrete Beirut Barrier
+signed in Arabic; dated '13.' (lower right)
+acrylic on fabric laid on canvas, in artist’s frame
+40
+7
+⁄
+8
+ x 56
+7
+⁄
+8
+in. (103.8 x 144.5cm.)
+Executed in 2013",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0047_000(ayman_baalbaki_concrete_beirut_barrier121547).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/ayman-baalbaki-b-1975-odaisseh-47/311486?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,38107.62,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,38000.0,31666.666666666668
+67e0d4dd-f58e-4a43-b631-5b3284923b09,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 48,GBP,6000,8000,N/A,N/A,7627.48,10169.98,N/A,N/A,JAMIL MOLAEB,1948,N/A,Jerusalem,painting,oil on canvas,N/A,47.125,35.25,in,yes,yes,yes,2020,Private Collection (acquired directly from the artist in 2022).,"Jerusalem, architecture, people, domes, plants, animals, birds, figures, landscapes, cityscape",1,N/A,original,"Jerusalem
+signed in Arabic, signed 'JAMIL MOLAEB' (lower right)
+oil on canvas
+35
+1
+⁄
+4
+ x 47
+1
+⁄
+8
+in. (89.6 x 119.6cm.)
+Painted in 2020",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0048_000(jamil_molaeb_jerusalem053821).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/jamil-molaeb-b-1948-baissour-48/311383?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.08,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,9500.0,7916.666666666667
+24f8bc87-62ce-4e29-9817-3a5527b0d125,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 49,GBP,10000,15000,N/A,N/A,12712.47,19068.7,N/A,N/A,WILLY ARACTINGI,1930,2003,Untitled,painting,oil on canvas,N/A,57.5,45,in,yes,yes,no,2000,"Private Collection, Paris (acquired directly from the artist).
+Thence by descent to the present owner.","man, horse, flag, red, black, blue, battle, warrior, soldier, movement",1,N/A,original,"Untitled
+signed and dated 'W Aractingi 3/00' (lower left)
+oil on canvas
+45 x 57
+1
+⁄
+2
+in. (114.3 x 146cm.)
+Painted in March 2000",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0049_000(willy_aractingi_untitled053836).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/willy-aractingi-1930-new-york-2003-barcelona-49/311487?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16397.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+63e6ffa9-2d2e-41cf-945e-b56da2cd57eb,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 50,GBP,6000,8000,N/A,N/A,7627.48,10169.98,N/A,N/A,SHAIKHA AL MAZROU,1988,N/A,Ironic Experiments I,sculpture,"black stoneware, white painted metal",24.625,15,23.625,in,no,yes,yes,2017,"Lawrie Shabibi, Dubai. 
+Acquired from the above by the present owner in 2017.","stoneware sculpture, black, white base, abstract form",1,N/A,original,"Ironic Experiments I
+black stoneware on white painted metal base
+stoneware: 23
+5
+⁄
+8
+ x 15 x 24
+5
+⁄
+8
+in. (60 x 38 x 62.5cm.)
+base: 34
+5
+⁄
+8
+ x 15
+3
+⁄
+4
+ x 15
+3
+⁄
+4
+in. (88 x 40 x 40cm.)
+Executed in 2017",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0050_000(shaikha_al_mazrou_ironic_experiments_i053842).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/shaikha-al-mazrou-b-1988-dubai-50/311384?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10638.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,9000.0,7500.0
+c4b3af93-9267-4462-a670-c68fab74f714,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 51,GBP,8000,12000,N/A,N/A,10169.98,15254.96,N/A,N/A,EBTISAM ABDULAZIZ,1975,N/A,Untitled (2),painting,acrylic on canvas,N/A,54.625,43.25,in,no,yes,no,2024,Private Collection (acquired directly from the artist in 2024).,"geometric shapes, blue tones, patterns, acrylic painting, canvas, abstract",1,N/A,original,"Untitled (2), 2024
+acrylic on canvas
+43
+1
+⁄
+4
+ x 54
+5
+⁄
+8
+in. (109.7 x 138.6cm.)
+Painted in 2024",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0051_000(ebtisam_abdulaziz_untitled_2024053857).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/ebtisam-abdulaziz-b-1975-sharjah-51/311386?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13200.0,11000.0
+9e7d07f7-755c-4389-a6e2-f6d6f071a988,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 52,GBP,20000,30000,N/A,N/A,25424.94,38137.41,N/A,N/A,MOHAMMED KAZEM,1969,N/A,Acrylic on Scratched Paper (Gold),painting,Acrylic on scratched paper (Gold),N/A,27,38.375,in,no,yes,yes,2008,"Gallery Isabelle, Dubai.
+Acquired from the above by the present owner.","acrylic, scratched paper, gold, abstract",1,N/A,original,"Acrylic on Scratched Paper (Gold)
+acrylic on scratched paper
+38
+3
+⁄
+8
+ x 27in. (97.5 x 68.7cm.)
+Executed in 2008",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0052_000(mohammed_kazem_acrylic_on_scratched_paper053913).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/mohammed-kazem-b-1969-dubai-52/311391?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,31802.74,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,31800.0,26500.0
+2dae5c74-99c1-4b0c-96d4-1b979869a25b,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 53,GBP,3500,4500,N/A,N/A,4449.36,5720.61,N/A,N/A,MUBARAK NASSER AL-THANI,1989,N/A,City on the Hill,painting,acrylic on canvas,N/A,35.875,36,in,yes,yes,yes,2024,"al markhiya gallery, Doha (acquired directly from the artist).","mountains, geometric shapes, abstract, blue background, yellow background, red shapes, green leaves, circular form, pink accents, multi-colored patterns",1,N/A,original,"City on the Hill
+signed in Arabic, signed and dated '2024 Mubarak' (lower left)
+acrylic on canvas
+36 x 35
+7
+⁄
+8
+in. (91.3 x 91cm.)
+Painted in 2024",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0053_000(mubarak_nasser_al-thani_city_on_the_hill053927).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/mubarak-nasser-al-thani-b-1989-doha-53/311387?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10786.24,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5125.0,4270.833333333334
+6f054ac1-f60d-49bf-acde-e7fb4e300cf3,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 54,GBP,4000,6000,N/A,N/A,5084.99,7627.48,N/A,N/A,MARYAM AL HOMAID,1988,N/A,Qutaifan Island,decorative arts,hand-woven textile,N/A,155,223,cm,no,yes,yes,2025,"al markhiya gallery, Doha (acquired directly from the artist).","textile, blue colors, geometric patterns, numbers, coordinates, hand-woven, waves, clouds, shapes, fringed edges",1,N/A,original,"Qutaifan Island
+hand-woven textile
+87
+3
+⁄
+4
+ x 61in. (223 x 155cm.)
+Executed in 2025",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0054_000(maryam_al_homaid_qutaifan_island053936).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/maryam-al-homaid-b-1988-doha-54/311392?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6401.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6350.0,5291.666666666667
+8a8b9c6f-ec84-464e-9216-98464ea1a999,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 55,GBP,8000,12000,N/A,N/A,10169.98,15254.96,N/A,N/A,BOUTHAYNA AL MUFTAH,1987,N/A,Fataraat (Phases),mixed media,"acrylic, graphite, styrofoam and paper on canvas",N/A,47.25,47.25,in,yes,yes,yes,2025,"al markhiya gallery, Doha (acquired directly from the artist).","abstract, black, white, text, shapes, lines, textures, patterns, splatters, canvas, mixed media",1,N/A,original,"Fataraat (Phases)
+signed and dated in Arabic (lower right)
+acrylic, graphite, styrofoam and paper on canvas
+47
+1
+⁄
+4
+ x 47
+1
+⁄
+4
+in. (120 x 120cm.)
+Executed in 2025",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0055_000(bouthayna_al_muftah_fataraat053945).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/bouthayna-al-muftah-b-1987-doha-55/311393?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13200.0,11000.0
+34189d26-947d-4ec5-bf1c-52b054f726f0,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 56,GBP,15000,20000,N/A,N/A,19068.7,25424.94,N/A,N/A,MANAL AL DOWAYAN,1973,N/A,Emerging 6,painting,acrylic on natural linen,N/A,59,59,in,yes,yes,yes,2021,"IVDE Gallery, Dubai. 
+Acquired from the above by the present owner in 2021.","black curves, natural linen, abstract shapes, mountain forms",1,N/A,original,"Emerging 6
+signed and dated in Arabic (on the top right turnover edge)
+acrylic on natural linen
+59 x 59in. (150 x 150cm.)
+Painted in 2021",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0056_000(manal_al_dowayan_emerging_6053954).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/manal-al-dowayan-b-1973-dhahran-56/311394?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,23801.79,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+df855349-0248-4521-a5ac-a4932043949a,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 57,GBP,8000,12000,N/A,N/A,10169.98,15254.96,N/A,N/A,MANAL AL DOWAYAN,1973,N/A,The Emerging (2 legs),sculpture,jesmonite,6.5,9.25,13.75,in,no,yes,yes,2021,"IVDE Gallery, Dubai. 
+Acquired from the above by the present owner in 2021.","sculpture, abstract form, legs, black color, unique artwork, contemporary art",1,N/A,original,"The Emerging (2 legs) 
+jesmonite
+i) 13
+3
+⁄
+4
+ x 9
+1
+⁄
+4
+ x 6
+1
+⁄
+2
+in. (35 x 23.6 x 16.4cm.)
+ii) 9
+1
+⁄
+8
+ x 13
+7
+⁄
+8
+ x 6
+3
+⁄
+4
+in. (23.2 x 35.1 x 17.1cm.)
+Executed in 2021, this work is unique",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0057_000(manal_al_dowayan_the_emerging054004).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/manal-al-dowayan-b-1973-dhahran-57/311398?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13200.0,11000.0
+498e81b8-46ed-44ec-98af-cc32bbaf0e34,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 58,GBP,2000,3000,N/A,N/A,2542.49,3813.74,N/A,N/A,ABDULNASSER GHAREM,1973,N/A,Al Siraat (The Path),prints,silk screen print on somerset tub paper,N/A,70.875,50.625,in,yes,yes,yes,2012,"Galerie Krinzinger, Vienna.
+Acquired from the above by the present owner in 2013.","road, yellow lines, Arabic text, darkness, graffiti, pavement, blue light, abstract signs, barriers, urban landscape",1,021/45,original,"Al Siraat (The Path)
+signed in Arabic; signed, titled and numbered ‘Abdulnasser Gharem 'SIRAAT (THE PATH) 21/45' (along the lower margin)
+silk screen print on somerset tub paper
+50
+5
+⁄
+8
+ x 70
+7
+⁄
+8
+in. (128.5 x 180cm.)
+Executed in 2012, this work is number 21 from an edition of 45
+
+Edition: 021/45",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0058_000(abdulnasser_gharem_al_siraat054037).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/abdulnasser-gharem-b-1973-khamis-mushait-58/311400?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3218.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+51a273f3-93e7-4d4a-8986-428d4a0c1595,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 59,GBP,8000,12000,N/A,N/A,10169.98,15254.96,N/A,N/A,AHMED MATER,1979,N/A,Magnetism I – IV,prints,hand-printed photogravure,N/A,31.875,24.375,in,yes,yes,yes,2012,"Athr Gallery, Jeddah. 
+Acquired from the above by the present owner in 2014.","black cube, magnetism, lines, patterns, photogravure, abstract, circles, textures, waves, monochrome",4,045/45,original,"Magnetism I – IV
+each sheet: signed, numbered and dated 'Ahmed Mater 2012 45/45', consecutively titled 'Magnetism I-IV' (along the lower horizontal margin)
+hand-printed photogravure, in four parts
+each sheet: 24
+3
+⁄
+8
+ x 31
+7
+⁄
+8
+in. (62 x 81cm.)
+Executed in 2012, this work is number 45 from an edition of 45
+
+Edition: 045/45",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0059_000(ahmed_mater_magnetism_i_8211_iv054051).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/ahmed-mater-b-1979-tabuk-59/311397?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12793.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13200.0,11000.0
+de911c00-605b-4475-8c39-4449ed274d24,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 60,GBP,1500,2500,N/A,N/A,1906.87,3178.12,N/A,N/A,DANA AWARTANI,1987,N/A,Thaminya (Eight),mixed media,"gouache, gold paint and ink on paper",N/A,7.125,7.125,in,no,yes,yes,2011,"Athr Gallery, Jeddah. 
+Acquired from the above by the present owner in 2015.","star, floral pattern, red, blue, gold, arabesque, geometric, decorative, design, paper",1,N/A,original,"Thaminya (Eight)
+gouache, gold paint and ink on paper
+7
+1
+⁄
+8
+ x 7
+1
+⁄
+8
+in. (18 x 18cm.)
+Executed in 2011",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0060_000(dana_awartani_thaminya054202).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/dana-awartani-b-1987-jeddah-60/311399?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2401.63,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,2800.0,2333.3333333333335
+8c96a68a-ddaa-4378-93d0-b46308f8b8e5,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 61,GBP,1000,2000,N/A,N/A,1271.25,2542.49,N/A,N/A,SARA ABDU,1993,N/A,(i) Scream Your Sadness (ii) How come the Baby grows up to Be an old man...?,drawing,dry ink on paper,N/A,12.375,16,in,yes,yes,yes,2011,"Athr Gallery, Jeddah. 
+Acquired from the above by the present owner in 2013.","figure, baby, old man, sadness, ice cream, cane, bow tie, humorous, ink drawing, monochrome",2,N/A,original,"(i) 
+Scream Your Sadness
+(ii) 
+How come the Baby grows up to Be an old man...?
+(i) signed and dated ‘Sara Abdu 2011.’ (lower right), titled ‘""Scream you Sadness""’ (upper right)
+(ii) signed and dated ‘Sara Abdu 2011.’ (lower right), titled ‘
+how come the Baby grows up to Be an old man...?’ 
+(centre right)
+dry ink on paper
+(i) 16 x 12
+3
+⁄
+8
+in. (40.6 x 31.5cm.)
+(ii) 11
+3
+⁄
+4
+ x 8
+1
+⁄
+4
+in. (29.7 x 21cm.)
+Executed in 2011",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0061_000(sara_abdu_scream_your_sadness_how_come_the_baby_grows_up_to_be_an_old054217).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/sara-abdu-b-1993-jeddah-61/311401?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1630.82,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1785.0,1487.5
+87a6eee6-ccd4-4f9b-9cee-f94bb17f7186,Artwork,Christies,24986,2024-06-02,London,Modern and Contemporary Middle Eastern Art Online,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/lots/4072,Lot 62,GBP,5000,7000,N/A,N/A,6356.23,8898.73,N/A,N/A,BOUSHRA ALMUTAWAKEL,1969,N/A,"Mother, Daughter, Doll",photographs,chromogenic print,N/A,16.25,24.25,in,no,yes,yes,2010,"Private Collection, Switzerland (acquired directly from the artist in 2013).","mother, daughter, doll, black background, traditional clothing, hijab, emotions, family, portrait",9,N/A,original,"BOUSHRA ALMUTAWAKEL (B. 1969, SANA'A)
+Mother, Daughter, Doll
+each: chromogenic print in artist's frame, in nine parts
+each: 24
+1
+⁄
+4
+ x 16
+1
+⁄
+4
+in. (61.7 x 41.8cm.)
+Executed in 2010, this artist's proof number five",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_24986_0062_000(boushra_almutawakel_mother_daughter_doll054250).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/modern-contemporary-middle-eastern-art-online/boushra-almutawakel-b-1969-sanaa-62/311403?ldp_breadcrumb=back,7386.65,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10726.89,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7500.0,6250.0

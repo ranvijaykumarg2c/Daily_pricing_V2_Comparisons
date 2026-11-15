@@ -1,0 +1,701 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+ae9b4ac2-541d-43ad-8d6f-029c12a8dfd5,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 201,AUD,400,600,3567,2900,266.34,399.51,2375.11,1930.98,N/A,N/A,N/A,"TW STEEL | FAST LANE VOLANTE NIGEL MANSELL, REF.SVS307, A LIMITED EDITION STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2020",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,2020,2020,N/A,"watch, chronograph, stainless steel, blue dial, leather strap, red accents, date display, sporty design, quartz movement, limited edition",1,N/A,original,"TW STEEL | FAST LANE VOLANTE NIGEL MANSELL, REF.SVS307, A LIMITED EDITION STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2020
+Case No: Limited No. 0973/1992
+Calibre: Ronda 5030.D, quartz, signed
+Dial: Blue, signed 
+Case: 48mm, stainless steel, screw down case back, signed 
+Strap: Maker's leather, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-4-1.jpg,https://www.bonhams.com/auction/32503/lot/201/tw-steel-fast-lane-volante-nigel-mansell-refsvs307-a-limited-edition-stainless-steel-chronograph-wristwatch-with-date-circa-2020/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2026-09,480.82,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+0509884f-5221-4b43-8224-01f9e54bbaf8,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 201,AUD,400,600,3567,2900,266.34,399.51,2375.11,1930.98,N/A,N/A,N/A,"TW STEEL | FAST LANE VOLANTE NIGEL MANSELL, REF.SVS307, A LIMITED EDITION STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2020",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,2020,2020,N/A,"wristwatch, chronograph, stainless steel, blue dial, leather strap, red accents, quartz movement, date display, luxury item",1,N/A,original,"TW STEEL | FAST LANE VOLANTE NIGEL MANSELL, REF.SVS307, A LIMITED EDITION STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2020
+Case No: Limited No. 0973/1992
+Calibre: Ronda 5030.D, quartz, signed
+Dial: Blue, signed 
+Case: 48mm, stainless steel, screw down case back, signed 
+Strap: Maker's leather, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-4-1.jpg,https://www.bonhams.com/auction/32503/lot/201/tw-steel-fast-lane-volante-nigel-mansell-refsvs307-a-limited-edition-stainless-steel-chronograph-wristwatch-with-date-circa-2020/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,480.82,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,350.0,291.6666666666667
+59c06642-e39d-40f3-bf6e-4c5480ef6030,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 202,AUD,3000,4000,4674,3800,1997.57,2663.43,3112.21,2530.26,VAN CLEEF & ARPELS,N/A,N/A,"MONSIEUR ARPELS RÉVEIL GMT, REF.HH58",decorative arts,"stainless steel, mother-of-pearl, endangered species leather",N/A,N/A,42.5,mm,yes,yes,yes,2005,2005,N/A,"wristwatch, stainless steel, dual time, alarm, mother-of-pearl, black strap, crystal, retrograde date, presentation box, automatic movement",1,N/A,original,"VAN CLEEF & ARPELS | MONSIEUR ARPELS RÃVEIL GMT, REF.HH58, A STAINLESS STEEL DUAL TIME ALARM WRISTWATCH WITH RETROGRADE DATE AND MOTHER-OF-PEARL DIAL, CIRCA 2005
+Case No: 550094
+Calibre: M50, automatic, signed
+Dial: White and mother-of-pearl, signed 
+Case: 42.5mm, stainless steel and crystal, screwed case back, signed 
+Strap: Maker's endangered species, stainless steel deployant clasp, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-7-1.jpg,https://www.bonhams.com/auction/32503/lot/202/van-cleef-and-arpels-monsieur-arpels-reveil-gmt-refhh58-a-stainless-steel-dual-time-alarm-wristwatch-with-retrograde-date-and-mother-of-pearl-dial-circa-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+8cae5986-875f-4e43-83b3-2568a18710d0,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 202,AUD,3000,4000,4674,3800,1997.57,2663.43,3112.21,2530.26,VAN CLEEF & ARPELS,N/A,N/A,"MONSIEUR ARPELS RÉVEIL GMT, REF.HH58",decorative arts,"stainless steel, mother-of-pearl, endangered species leather",N/A,N/A,42.5,mm,yes,yes,yes,2005,2005,N/A,"wristwatch, stainless steel, dual time, alarm, mother-of-pearl, white dial, black strap, retrograde date, luxury item, vintage",1,N/A,original,"VAN CLEEF & ARPELS | MONSIEUR ARPELS RÃVEIL GMT, REF.HH58, A STAINLESS STEEL DUAL TIME ALARM WRISTWATCH WITH RETROGRADE DATE AND MOTHER-OF-PEARL DIAL, CIRCA 2005
+Case No: 550094
+Calibre: M50, automatic, signed
+Dial: White and mother-of-pearl, signed 
+Case: 42.5mm, stainless steel and crystal, screwed case back, signed 
+Strap: Maker's endangered species, stainless steel deployant clasp, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-7-1.jpg,https://www.bonhams.com/auction/32503/lot/202/van-cleef-and-arpels-monsieur-arpels-reveil-gmt-refhh58-a-stainless-steel-dual-time-alarm-wristwatch-with-retrograde-date-and-mother-of-pearl-dial-circa-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+96e5eebe-bb76-4611-bfd8-d86ec57abc34,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 203,AUD,6000,8000,3936,3200,3995.14,5326.85,2620.81,2130.74,N/A,N/A,N/A,"PANERAI | LUMINOR GMT, REF.PAM00023, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 1998",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,1998,1998,N/A,"wristwatch, stainless steel, black dial, brown leather strap, automatic movement, dual time, date display, luminous markers, presentation box, Panerai",1,N/A,original,"PANERAI | LUMINOR GMT, REF.PAM00023, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 1998
+Case No: A0075/1500 
+Calibre: ETA 2893-2, automatic, signed
+Dial: Black, signed 
+Case: 44mm, stainless steel, screw down case back, signed 
+Strap: Maker's leather, stainless steel buckle, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-9-1.jpg,https://www.bonhams.com/auction/32503/lot/203/panerai-luminor-gmt-refpam00023-a-stainless-steel-dual-time-wristwatch-with-date-circa-1998/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+20353af3-5174-4ed5-b0dc-1981835dc55a,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 203,AUD,6000,8000,3936,3200,3995.14,5326.85,2620.81,2130.74,N/A,N/A,N/A,"PANERAI | LUMINOR GMT, REF.PAM00023, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 1998",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,1998,1998,N/A,"watch, stainless steel, leather strap, black dial, automatic, dual time, GMT",1,N/A,original,"PANERAI | LUMINOR GMT, REF.PAM00023, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 1998
+Case No: A0075/1500 
+Calibre: ETA 2893-2, automatic, signed
+Dial: Black, signed 
+Case: 44mm, stainless steel, screw down case back, signed 
+Strap: Maker's leather, stainless steel buckle, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-9-1.jpg,https://www.bonhams.com/auction/32503/lot/203/panerai-luminor-gmt-refpam00023-a-stainless-steel-dual-time-wristwatch-with-date-circa-1998/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+faa4987c-8f28-4a99-81aa-3d7a0ebbe466,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 204,AUD,6000,8000,9225,7500,3995.14,5326.85,6142.53,4993.93,N/A,N/A,N/A,"OMEGA | SPEEDMASTER ""MOON WATCH"" 25TH ANNIVERSARY APOLLO XI, REF. 3591.50.00",decorative arts,stainless steel,N/A,N/A,N/A,mm,yes,yes,yes,1994,1994,N/A,"watch, chronograph, stainless steel, black dial, anniversary, bracelet, tachymètre, professional, limited edition, Omega Speedmaster",1,N/A,original,"OMEGA | SPEEDMASTER ""MOON WATCH"" 25TH ANNIVERSARY APOLLO XI, REF. 3591.50.00, A LIMITED EDITION STAINLESS STEEL CHRONOGRAPH BRACELET WATCH, CIRCA 1994
+Case No: Limited No. 1964/2500
+Calibre: 861, manual winding, signed
+Dial: Black, signed 
+Case: 42mm, stainless steel, screw down case back, signed 
+Bracelet: Maker's stainless steel, folding clasp, approximately 215mm, signed
+Accompaniments: Maker's presentation box, warranty card and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-2-2.jpg,https://www.bonhams.com/auction/32503/lot/204/omega-speedmaster-moon-watch-25th-anniversary-apollo-xi-ref-35915000-a-limited-edition-stainless-steel-chronograph-bracelet-watch-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+497c624e-4300-47d0-b64f-4b0f089afe28,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 204,AUD,6000,8000,9225,7500,3995.14,5326.85,6142.53,4993.93,N/A,N/A,N/A,"OMEGA | SPEEDMASTER ""MOON WATCH"" 25TH ANNIVERSARY APOLLO XI, REF. 3591.50.00",decorative arts,stainless steel,N/A,N/A,N/A,mm,yes,yes,yes,1994,1994,N/A,"watch, chronograph, stainless steel, black dial, bracelet, tachymetre, manual winding, anniversary, limited edition, Omega Speedmaster",1,N/A,original,"OMEGA | SPEEDMASTER ""MOON WATCH"" 25TH ANNIVERSARY APOLLO XI, REF. 3591.50.00, A LIMITED EDITION STAINLESS STEEL CHRONOGRAPH BRACELET WATCH, CIRCA 1994
+Case No: Limited No. 1964/2500
+Calibre: 861, manual winding, signed
+Dial: Black, signed 
+Case: 42mm, stainless steel, screw down case back, signed 
+Bracelet: Maker's stainless steel, folding clasp, approximately 215mm, signed
+Accompaniments: Maker's presentation box, warranty card and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-2-2.jpg,https://www.bonhams.com/auction/32503/lot/204/omega-speedmaster-moon-watch-25th-anniversary-apollo-xi-ref-35915000-a-limited-edition-stainless-steel-chronograph-bracelet-watch-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+f00e7d8c-fee1-4ca7-9b58-1e2b39b365db,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 205,AUD,12000,18000,11685,9500,7990.28,11985.42,7780.54,6325.64,N/A,N/A,N/A,"HUBLOT | BIG BANG ""CAPPUCCINO"", REF.301-W",decorative arts,"18k pink gold, titanium, rubber, black PVD-coated stainless steel",N/A,N/A,N/A,mm,yes,yes,yes,2010,2010,N/A,"wristwatch, chronograph, pink gold, titanium, brown dial, rubber strap, date function, transparent case back, folding clasp, presentation box",1,N/A,original,"HUBLOT | BIG BANG ""CAPPUCCINO"", REF.301-W, A PINK GOLD AND TITANIUM CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2010
+Case No: 680506
+Calibre: HUB4100, automatic, signed
+Dial: Brown, signed 
+Case: 44mm, 18k pink gold and titanium, transparent case back, signed 
+Strap: Maker's rubber, 18k pink gold and black PVD-coated stainless steel folding clasp, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-1-1.jpg,https://www.bonhams.com/auction/32503/lot/205/hublot-big-bang-cappuccino-ref301-w-a-pink-gold-and-titanium-chronograph-wristwatch-with-date-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10832.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+b4998e11-53df-4064-8688-9c5cb645039e,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 205,AUD,12000,18000,11685,9500,7990.28,11985.42,7780.54,6325.64,N/A,N/A,N/A,"HUBLOT | BIG BANG ""CAPPUCCINO"", REF.301-W",decorative arts,"18k pink gold, titanium, rubber, black PVD-coated stainless steel",N/A,N/A,N/A,mm,yes,yes,yes,2010,2010,N/A,"wristwatch, chronograph, pink gold, titanium, brown dial, rubber strap, transparent case back, folding clasp, date display",1,N/A,original,"HUBLOT | BIG BANG ""CAPPUCCINO"", REF.301-W, A PINK GOLD AND TITANIUM CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2010
+Case No: 680506
+Calibre: HUB4100, automatic, signed
+Dial: Brown, signed 
+Case: 44mm, 18k pink gold and titanium, transparent case back, signed 
+Strap: Maker's rubber, 18k pink gold and black PVD-coated stainless steel folding clasp, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-1-1.jpg,https://www.bonhams.com/auction/32503/lot/205/hublot-big-bang-cappuccino-ref301-w-a-pink-gold-and-titanium-chronograph-wristwatch-with-date-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10832.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10500.0,8750.0
+0a1f2bcf-a267-42de-bace-e542abb4ee65,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 206,AUD,10000,14000,12300,10000,6658.57,9322.0,8190.04,6658.57,BVLGARI,N/A,N/A,"BULGARI | ASSIOMA XL, REF.AA P 48 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006",decorative arts,"18k pink gold, endangered species leather",N/A,39,38,mm,yes,yes,yes,2006,2006,N/A,"wristwatch, chronograph, pink gold, brown dial, brown strap, automatic, luxury, limited edition, Bulgari, timepiece",1,N/A,original,"BVLGARI | ASSIOMA XL, REF.AA P 48 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006
+Case No: Limited No. 60/99
+Calibre: 080 TEEG, automatic, signed
+Dial: Textured brown, signed 
+Case: 38 x 39mm, 18k pink gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k pink gold folding clasp, signed
+Accompaniments: Maker's presentation box, authenticity card, warranty card and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-11-2.jpg,https://www.bonhams.com/auction/32503/lot/206/bulgari-assioma-xl-refaa-p-48-g-ch-a-limited-edition-pink-gold-chronograph-wristwatch-with-date-circa-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10131.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+0f52d00c-3c59-421e-9183-f222bd6fdaee,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 206,AUD,10000,14000,12300,10000,6658.57,9322.0,8190.04,6658.57,BVLGARI,N/A,N/A,"BULGARI | ASSIOMA XL, REF.AA P 48 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006",decorative arts,"18k pink gold, endangered species leather",N/A,39,38,mm,yes,yes,yes,2006,2006,N/A,"wristwatch, pink gold, chronograph, date, brown dial, leather strap, luxury, automatic, presentation box, authenticity card",1,N/A,original,"BVLGARI | ASSIOMA XL, REF.AA P 48 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006
+Case No: Limited No. 60/99
+Calibre: 080 TEEG, automatic, signed
+Dial: Textured brown, signed 
+Case: 38 x 39mm, 18k pink gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k pink gold folding clasp, signed
+Accompaniments: Maker's presentation box, authenticity card, warranty card and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-11-2.jpg,https://www.bonhams.com/auction/32503/lot/206/bulgari-assioma-xl-refaa-p-48-g-ch-a-limited-edition-pink-gold-chronograph-wristwatch-with-date-circa-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10131.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+fac279f0-9c68-4a90-973c-65ada1cd3b0f,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 207,AUD,8000,12000,20910,17000,5326.85,7990.28,13923.07,11319.57,TABBAH,N/A,N/A,"SAGA, REF.1930, A YELLOW GOLD BRACELET WATCH WITH POWER RESERVE INDICATOR AND DATE, CIRCA 2000",decorative arts,"18k yellow gold, cream guilloché",N/A,29,26,mm,yes,yes,yes,1901,2000,N/A,"yellow gold, bracelet watch, power reserve indicator, date, automatic movement, cream dial, signed, 18k gold case, double folding clasp, luxury watch",1,N/A,original,"TABBAH | SAGA, REF.1930, A YELLOW GOLD BRACELET WATCH WITH POWER RESERVE INDICATOR AND DATE, CIRCA 2000
+Case No: P.1930
+Calibre: Automatic, signed
+Dial: Cream guillochÃ©, signed 
+Case: 26 x 29mm, 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 188mm, signed
+Accompaniments: None
+
+Total watch weight approximately 175 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-12-1.jpg,https://www.bonhams.com/auction/32503/lot/207/tabbah-saga-ref1930-a-yellow-gold-bracelet-watch-with-power-reserve-indicator-and-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+3429f007-9163-4f2b-b034-e7d3fff84276,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 207,AUD,8000,12000,20910,17000,5326.85,7990.28,13923.07,11319.57,TABBAH,N/A,N/A,"SAGA, REF.1930, A YELLOW GOLD BRACELET WATCH WITH POWER RESERVE INDICATOR AND DATE, CIRCA 2000",decorative arts,"18k yellow gold, cream guilloché",N/A,29,26,mm,yes,yes,yes,1901,2000,N/A,"bracelet, watch, gold, power reserve indicator, date, cream dial, automatic movement, signed, case back, clasp",1,N/A,original,"TABBAH | SAGA, REF.1930, A YELLOW GOLD BRACELET WATCH WITH POWER RESERVE INDICATOR AND DATE, CIRCA 2000
+Case No: P.1930
+Calibre: Automatic, signed
+Dial: Cream guillochÃ©, signed 
+Case: 26 x 29mm, 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 188mm, signed
+Accompaniments: None
+
+Total watch weight approximately 175 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-12-1.jpg,https://www.bonhams.com/auction/32503/lot/207/tabbah-saga-ref1930-a-yellow-gold-bracelet-watch-with-power-reserve-indicator-and-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+86a20cb7-7ecf-40c8-b945-43eb4ec6f66e,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 208,AUD,80000,120000,159900,130000,53268.55,79902.82,106470.51,86561.39,N/A,N/A,N/A,"ROLEX | REF.6062, A RARE YELLOW GOLD TRIPLE CALENDAR BRACELET WATCH WITH MOON PHASES, CIRCA 1953",decorative arts,"18k yellow gold, silvered dial",N/A,N/A,N/A,mm,yes,yes,yes,1953,1953,N/A,"watch, Rolex, gold, bracelet, moon phases, calendar, dial, timepiece, automatic, luxury",1,N/A,original,"ROLEX | REF.6062, A RARE YELLOW GOLD TRIPLE CALENDAR BRACELET WATCH WITH MOON PHASES, CIRCA 1953
+Case No: 916364
+Calibre: 655, automatic, signed
+Dial: Silvered, signed 
+Case: 36mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 199mm, signed
+Accompaniments: None
+
+Total watch weight approximately 139 grams.",https://images3.bonhams.com/image?src=Images/live/2026-05/14/25807591-21-2.jpg,https://www.bonhams.com/auction/32503/lot/208/rolex-ref6062-a-rare-yellow-gold-triple-calendar-bracelet-watch-with-moon-phases-circa-1953/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64188.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+4c1899f0-6088-4b5a-b73e-97ccef8ecf43,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 208,AUD,80000,120000,159900,130000,53268.55,79902.82,106470.51,86561.39,N/A,N/A,N/A,"ROLEX | REF.6062, A RARE YELLOW GOLD TRIPLE CALENDAR BRACELET WATCH WITH MOON PHASES, CIRCA 1953",decorative arts,"18k yellow gold, silvered dial",N/A,N/A,N/A,mm,yes,yes,yes,1953,1953,N/A,"watch, yellow gold, bracelet, moon phases, silvered dial, automatic, calendar, vintage, Rolex",1,N/A,original,"ROLEX | REF.6062, A RARE YELLOW GOLD TRIPLE CALENDAR BRACELET WATCH WITH MOON PHASES, CIRCA 1953
+Case No: 916364
+Calibre: 655, automatic, signed
+Dial: Silvered, signed 
+Case: 36mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 199mm, signed
+Accompaniments: None
+
+Total watch weight approximately 139 grams.",https://images3.bonhams.com/image?src=Images/live/2026-05/14/25807591-21-2.jpg,https://www.bonhams.com/auction/32503/lot/208/rolex-ref6062-a-rare-yellow-gold-triple-calendar-bracelet-watch-with-moon-phases-circa-1953/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,64188.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,72000.0,60000.0
+f450a2d8-1fac-4e71-b6ba-b03ebe41d9fe,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 209,AUD,8000,12000,9225,7500,5326.85,7990.28,6142.53,4993.93,N/A,N/A,N/A,"IWC | UTC PLATINUM, REF.IW3251-03, A LIMITED EDITION PLATINUM WRISTWATCH, CIRCA 2010",decorative arts,"platinum, endangered species leather",N/A,N/A,N/A,mm,yes,yes,yes,2010,2010,N/A,"wristwatch, platinum, blue dial, automatic, crocodile strap, watch face, timekeeping, luxury, limited edition, Swiss made",1,N/A,original,"IWC | UTC PLATINUM, REF.IW3251-03, A LIMITED EDITION PLATINUM WRISTWATCH, CIRCA 2010
+Case No: Limited No. 033/500
+Calibre: 37526, automatic, signed
+Dial: Blue, signed 
+Case: 39mm, platinum, screw down case back, signed 
+Strap: Maker's endangered species, platinum buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-14-1.jpg,https://www.bonhams.com/auction/32503/lot/209/iwc-utc-platinum-refiw3251-03-a-limited-edition-platinum-wristwatch-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6498.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6500.0,5416.666666666667
+8002b1b6-187e-47a9-ad83-97e5e7e10919,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 209,AUD,8000,12000,9225,7500,5326.85,7990.28,6142.53,4993.93,N/A,N/A,N/A,"IWC | UTC PLATINUM, REF.IW3251-03, A LIMITED EDITION PLATINUM WRISTWATCH, CIRCA 2010",decorative arts,"platinum, endangered species leather",N/A,N/A,N/A,mm,yes,yes,yes,2010,2010,N/A,"wristwatch, blue dial, platinum case, automatic movement, black strap, limited edition, time display, numeral markings, luxury accessory, Swiss made",1,N/A,original,"IWC | UTC PLATINUM, REF.IW3251-03, A LIMITED EDITION PLATINUM WRISTWATCH, CIRCA 2010
+Case No: Limited No. 033/500
+Calibre: 37526, automatic, signed
+Dial: Blue, signed 
+Case: 39mm, platinum, screw down case back, signed 
+Strap: Maker's endangered species, platinum buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-14-1.jpg,https://www.bonhams.com/auction/32503/lot/209/iwc-utc-platinum-refiw3251-03-a-limited-edition-platinum-wristwatch-circa-2010/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6498.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6700.0,5583.333333333334
+b26ccf40-d6aa-4332-a1fa-d1a369201daf,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 210,AUD,6000,8000,6150,5000,3995.14,5326.85,4095.02,3329.28,N/A,N/A,N/A,"PANERAI | LUMINOR POWER RESERVE, REF.PAM00027",decorative arts,"stainless steel, black dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1998,1998,N/A,"wristwatch, stainless steel, power reserve indicator, date, black dial, rubber strap, automatic movement, circular case, red strap, crocodile leather",1,N/A,original,"PANERAI | LUMINOR POWER RESERVE, REF.PAM00027, A STAINLESS STEEL WRISTWATCH WITH POWER RESERVE INDICATOR AND DATE, CIRCA 1998
+Case No: A008/500 
+Calibre: ETA 2892-A2, automatic, signed
+Dial: Black, signed 
+Case: 44mm, stainless steel, screw down case back, signed 
+Strap: Maker's endangered species, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-15-1.jpg,https://www.bonhams.com/auction/32503/lot/210/panerai-luminor-power-reserve-refpam00027-a-stainless-steel-wristwatch-with-power-reserve-indicator-and-date-circa-1998/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+b6ae89b1-14fd-4408-89f1-eff8d3180a99,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 210,AUD,6000,8000,6150,5000,3995.14,5326.85,4095.02,3329.28,N/A,N/A,N/A,"PANERAI | LUMINOR POWER RESERVE, REF.PAM00027",N/A,"stainless steel, black dial, endangered species strap",N/A,N/A,N/A,mm,yes,yes,yes,1998,1998,N/A,"wristwatch, stainless steel, black dial, red strap, power reserve indicator, date display, automatic movement, luxury watch, Panerai, Luminor",1,N/A,original,"PANERAI | LUMINOR POWER RESERVE, REF.PAM00027, A STAINLESS STEEL WRISTWATCH WITH POWER RESERVE INDICATOR AND DATE, CIRCA 1998
+Case No: A008/500 
+Calibre: ETA 2892-A2, automatic, signed
+Dial: Black, signed 
+Case: 44mm, stainless steel, screw down case back, signed 
+Strap: Maker's endangered species, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-15-1.jpg,https://www.bonhams.com/auction/32503/lot/210/panerai-luminor-power-reserve-refpam00027-a-stainless-steel-wristwatch-with-power-reserve-indicator-and-date-circa-1998/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+bee81369-da17-4a56-92af-e28e22b4e07a,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 211,AUD,1400,1800,1722,1400,932.2,1198.54,1146.61,932.2,BULGARI,N/A,N/A,"DIAGONO, REF.CH 35 S, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, chronograph, stainless steel, black dial, leather strap, date display, Bulgari, luxury watch, Swiss made, quartz movement",1,N/A,original,"BULGARI | DIAGONO, REF.CH 35 S, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000
+Case No: F-010/B
+Calibre: Quartz, signed
+Dial: Black, signed 
+Case: 36mm, stainless-steel, snap-on case back, signed 
+Strap: Maker's leather, folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-56-1.jpg,https://www.bonhams.com/auction/32503/lot/211/bulgari-diagono-refch-35-s-a-stainless-steel-chronograph-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1287.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1050.0,875.0
+582fb7f0-234f-40c4-ad68-5e25c2872200,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 211,AUD,1400,1800,1722,1400,932.2,1198.54,1146.61,932.2,BULGARI,N/A,N/A,"DIAGONO, REF.CH 35 S, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, chronograph, stainless steel, black dial, leather strap, silver, date display",1,N/A,original,"BULGARI | DIAGONO, REF.CH 35 S, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000
+Case No: F-010/B
+Calibre: Quartz, signed
+Dial: Black, signed 
+Case: 36mm, stainless-steel, snap-on case back, signed 
+Strap: Maker's leather, folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-56-1.jpg,https://www.bonhams.com/auction/32503/lot/211/bulgari-diagono-refch-35-s-a-stainless-steel-chronograph-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1287.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1050.0,875.0
+4ce078a4-2e07-428c-aac9-08695b2aa0a3,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 212,AUD,2000,3000,3936,3200,1331.71,1997.57,2620.81,2130.74,N/A,N/A,N/A,"CHRONOSWISS | TIMEMASTER, REF.CH 6233, A STAINLESS STEEL WRISTWATCH, CIRCA 2000",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, stainless steel, leather strap, white dial, manual winding, transparent case back, chronograph, numerals, watch hands",1,N/A,original,"CHRONOSWISS | TIMEMASTER, REF.CH 6233, A STAINLESS STEEL WRISTWATCH, CIRCA 2000
+Case No: 02 468
+Calibre: 672, manual winding, signed
+Dial: White, signed 
+Case: 44mm, stainless steel, transparent case back, signed 
+Strap: Maker's leather, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-34-1.jpg,https://www.bonhams.com/auction/32503/lot/212/chronoswiss-timemaster-refch-6233-a-stainless-steel-wristwatch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.33,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1600.0,1333.3333333333335
+b5482409-ae36-457a-bec2-d2b94d7b9773,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 212,AUD,2000,3000,3936,3200,1331.71,1997.57,2620.81,2130.74,N/A,N/A,N/A,"CHRONOSWISS | TIMEMASTER, REF.CH 6233, A STAINLESS STEEL WRISTWATCH, CIRCA 2000",decorative arts,"stainless steel, leather",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, stainless steel, black leather strap, white dial, manual winding, chronograph, timepiece, transparent case back, signed",1,N/A,original,"CHRONOSWISS | TIMEMASTER, REF.CH 6233, A STAINLESS STEEL WRISTWATCH, CIRCA 2000
+Case No: 02 468
+Calibre: 672, manual winding, signed
+Dial: White, signed 
+Case: 44mm, stainless steel, transparent case back, signed 
+Strap: Maker's leather, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-34-1.jpg,https://www.bonhams.com/auction/32503/lot/212/chronoswiss-timemaster-refch-6233-a-stainless-steel-wristwatch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.33,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+5b3acef1-18db-4770-9633-da5189013462,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 213,AUD,6000,8000,9840,8000,3995.14,5326.85,6552.03,5326.85,Cartier,N/A,N/A,"CARTIER | TANK DIVAN, REF.2603, A YELLOW GOLD WRISTWATCH, CIRCA 2000",decorative arts,"18k yellow gold, silvered guilloché, endangered species leather",N/A,38,24,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, yellow gold, silvered guilloché, automatic movement, leather strap, Roman numerals, Cartier, signed",1,N/A,original,"CARTIER | TANK DIVAN, REF.2603, A YELLOW GOLD WRISTWATCH, CIRCA 2000
+Case No: 995936CD
+Calibre: 381A, automatic, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 24 x 38mm, 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-10-1.jpg,https://www.bonhams.com/auction/32503/lot/213/cartier-tank-divan-ref2603-a-yellow-gold-wristwatch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+8c6348cf-7547-4ad8-ac1b-17656571e3fa,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 213,AUD,6000,8000,9840,8000,3995.14,5326.85,6552.03,5326.85,CARTIER,N/A,N/A,"CARTIER | TANK DIVAN, REF.2603, A YELLOW GOLD WRISTWATCH, CIRCA 2000",decorative arts,"18k yellow gold, silvered guilloché, endangered species leather",N/A,38,24,mm,yes,yes,yes,2000,2000,N/A,"wristwatch,yellow gold,automatic,guilloché dial,brown leather strap,case back,case,watch face",1,N/A,original,"CARTIER | TANK DIVAN, REF.2603, A YELLOW GOLD WRISTWATCH, CIRCA 2000
+Case No: 995936CD
+Calibre: 381A, automatic, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 24 x 38mm, 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-10-1.jpg,https://www.bonhams.com/auction/32503/lot/213/cartier-tank-divan-ref2603-a-yellow-gold-wristwatch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+898c6580-83f3-43a2-a7d2-e62c7fa93177,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 214,AUD,14000,18000,22140,18000,9322.0,11985.42,14742.07,11985.42,N/A,N/A,N/A,"CARTIER | ROADSTER, REF.2619, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"18k yellow gold, endangered species leather",N/A,47.5,40,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, gold, chronograph, leather strap, champagne dial, automatic, Cartier, date display, two tone, tachymetre",1,N/A,original,"CARTIER | ROADSTER, REF.2619, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000
+Case No: 52864CE 
+Calibre: 8510, automatic, signed
+Dial: Two tone champagne, signed 
+Case: 40 x 47.5mm (including lugs), 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Spare maker's endangered species strap",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-38-1.jpg,https://www.bonhams.com/auction/32503/lot/214/cartier-roadster-ref2619-a-yellow-gold-chronograph-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10898.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+6c8da652-a740-4306-aa49-f42184d2f962,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 214,AUD,14000,18000,22140,18000,9322.0,11985.42,14742.07,11985.42,N/A,N/A,N/A,"CARTIER | ROADSTER, REF.2619, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"18k yellow gold, endangered species leather",N/A,47.5,40,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, chronograph, yellow gold, automatic, black strap, champagne dial, date display, luxury watch, Cartier, tachymetre",1,N/A,original,"CARTIER | ROADSTER, REF.2619, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000
+Case No: 52864CE 
+Calibre: 8510, automatic, signed
+Dial: Two tone champagne, signed 
+Case: 40 x 47.5mm (including lugs), 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Spare maker's endangered species strap",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-38-1.jpg,https://www.bonhams.com/auction/32503/lot/214/cartier-roadster-ref2619-a-yellow-gold-chronograph-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10898.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+c93a14c7-f392-4de5-bf66-9631486498ee,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 215,AUD,14000,18000,24600,20000,9322.0,11985.42,16380.08,13317.14,CARTIER,N/A,N/A,"TANK AMÉRICAINE 'PHASE DE LUNE', REF.819907",decorative arts,"18k yellow gold, quartz, ivory",N/A,41,23.5,mm,yes,yes,yes,1990,1990,N/A,"watch, yellow gold, bracelet, moon phases, date, Roman numerals, ivory dial, sapphire cabochon, Swiss made, Cartier",1,N/A,original,"CARTIER | TANK AMÃRICAINE 'PHASE DE LUNE', REF.819907, A YELLOW GOLD BRACELET WATCH WITH DATE AND MOON PHASES, CIRCA 1990
+Case No: 000332
+Calibre: 19, quartz, signed
+Dial: Ivory, signed 
+Case: 23.5 x 41mm, 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 192mm, signed
+Accompaniments: None
+
+Total watch weight approximately 86 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-55-1.jpg,https://www.bonhams.com/auction/32503/lot/215/cartier-tank-americaine-phase-de-lune-ref819907-a-yellow-gold-bracelet-watch-with-date-and-moon-phases-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10898.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+ede839a9-d996-4b17-9b1c-f28747b4cd7e,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 215,AUD,14000,18000,24600,20000,9322.0,11985.42,16380.08,13317.14,CARTIER,N/A,N/A,"TANK AMÉRICAINE 'PHASE DE LUNE', REF.819907",decorative arts,"18k yellow gold, quartz, ivory",N/A,41,23.5,mm,yes,yes,yes,1990,1990,N/A,"watch, yellow gold, bracelet, moon phases, date, Roman numerals, ivory dial, luxury accessory, quartz movement, elegant design",1,N/A,original,"CARTIER | TANK AMÃRICAINE 'PHASE DE LUNE', REF.819907, A YELLOW GOLD BRACELET WATCH WITH DATE AND MOON PHASES, CIRCA 1990
+Case No: 000332
+Calibre: 19, quartz, signed
+Dial: Ivory, signed 
+Case: 23.5 x 41mm, 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 192mm, signed
+Accompaniments: None
+
+Total watch weight approximately 86 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-55-1.jpg,https://www.bonhams.com/auction/32503/lot/215/cartier-tank-americaine-phase-de-lune-ref819907-a-yellow-gold-bracelet-watch-with-date-and-moon-phases-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10898.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+a12a6c5f-6594-481b-92e4-4dc486d6e149,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 216,AUD,20000,30000,30750,25000,13317.14,19975.71,20475.1,16646.42,Cartier,N/A,N/A,"CARTIER | COLLECTION PRIVÉE CARTIER PARIS (CPCP) - BASCULANTE, REF.2391, A RARE LIMITED EDITION YELLOW GOLD REVERSIBLE WRISTWATCH, CIRCA 1999",decorative arts,"18k yellow gold, silvered guilloché, endangered species leather",N/A,38.5,25,mm,yes,yes,yes,1970,2000,N/A,"wristwatch, yellow gold, leather strap, Roman numerals, manual winding, presentation box, luxury item, limited edition, guilloché dial, blue cabochon",1,N/A,original,"CARTIER | COLLECTION PRIVÃE CARTIER PARIS (CPCP) - BASCULANTE, REF.2391, A RARE LIMITED EDITION YELLOW GOLD REVERSIBLE WRISTWATCH, CIRCA 1999
+Case No: Limited No. 344/365
+Calibre: 060 MC, manual winding, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 25 x 38.5mm (including lugs), screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box and 2 certificates",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-39-2.jpg,https://www.bonhams.com/auction/32503/lot/216/cartier-collection-privee-cartier-paris-cpcp-basculante-ref2391-a-rare-limited-edition-yellow-gold-reversible-wristwatch-circa-1999/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16388.03,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+4552f40e-190c-413a-8d63-43a04751968a,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 216,AUD,20000,30000,30750,25000,13317.14,19975.71,20475.1,16646.42,Cartier,N/A,N/A,"CARTIER | COLLECTION PRIVÉE CARTIER PARIS (CPCP) - BASCULANTE, REF.2391, A RARE LIMITED EDITION YELLOW GOLD REVERSIBLE WRISTWATCH, CIRCA 1999",decorative arts,"18k yellow gold, silvered guilloché, endangered species leather",N/A,38.5,25,mm,yes,yes,yes,1970,2000,N/A,"yellow gold, wristwatch, Roman numerals, silvered guilloché, leather strap, manual winding, presentation box, vintage design, limited edition, Cartier",1,N/A,original,"CARTIER | COLLECTION PRIVÃE CARTIER PARIS (CPCP) - BASCULANTE, REF.2391, A RARE LIMITED EDITION YELLOW GOLD REVERSIBLE WRISTWATCH, CIRCA 1999
+Case No: Limited No. 344/365
+Calibre: 060 MC, manual winding, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 25 x 38.5mm (including lugs), screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box and 2 certificates",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-39-2.jpg,https://www.bonhams.com/auction/32503/lot/216/cartier-collection-privee-cartier-paris-cpcp-basculante-ref2391-a-rare-limited-edition-yellow-gold-reversible-wristwatch-circa-1999/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16388.03,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+6ea31b4b-dd69-423c-8d42-40659eb2ea98,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 217,AUD,12000,16000,30750,25000,7990.28,10653.71,20475.1,16646.42,N/A,N/A,N/A,"PATEK PHILIPPE | ELLIPSE ""JUMBO"", REF.3738/100, A FINE YELLOW GOLD WRISTWATCH, CIRCA 1996",decorative arts,"18k yellow gold, leather",N/A,35.5,31,mm,yes,yes,yes,1996,1996,N/A,"wristwatch, yellow gold, blue dial, black strap, automatic movement, chronometer, Patek Philippe",1,N/A,original,"PATEK PHILIPPE | ELLIPSE ""JUMBO"", REF.3738/100, A FINE YELLOW GOLD WRISTWATCH, CIRCA 1996
+Case/Movement No:2958038/1'199'105 
+Calibre: 240, automatic, signed
+Dial: Sunburst blue, signed 
+Case: 31 x 35.5mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box, Certificate of Origin and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-16-2.jpg,https://www.bonhams.com/auction/32503/lot/217/patek-philippe-ellipse-jumbo-ref3738100-a-fine-yellow-gold-wristwatch-circa-1996/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10157.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10200.0,8500.0
+a079f910-18cd-4c80-9fb3-eb52a109dd0b,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 217,AUD,12000,16000,30750,25000,7990.28,10653.71,20475.1,16646.42,N/A,N/A,N/A,"PATEK PHILIPPE | ELLIPSE ""JUMBO"", REF.3738/100, A FINE YELLOW GOLD WRISTWATCH, CIRCA 1996",decorative arts,"18k yellow gold, endangered species leather",N/A,35.5,31,mm,yes,yes,yes,1996,1996,N/A,"wristwatch, yellow gold, blue dial, automatic movement, leather strap, circular case, luxury, Patek Philippe, sunburst finish, folding clasp",1,N/A,original,"PATEK PHILIPPE | ELLIPSE ""JUMBO"", REF.3738/100, A FINE YELLOW GOLD WRISTWATCH, CIRCA 1996
+Case/Movement No:2958038/1'199'105 
+Calibre: 240, automatic, signed
+Dial: Sunburst blue, signed 
+Case: 31 x 35.5mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box, Certificate of Origin and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-16-2.jpg,https://www.bonhams.com/auction/32503/lot/217/patek-philippe-ellipse-jumbo-ref3738100-a-fine-yellow-gold-wristwatch-circa-1996/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10157.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10200.0,8500.0
+be098415-71de-4f60-9d2b-9e348c43ec5c,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 218,AUD,16000,24000,31980,26000,10653.71,15980.56,21294.1,17312.28,N/A,N/A,N/A,"PATEK PHILIPPE | REF.5015J, A YELLOW GOLD WRISTWATCH WITH POWER RESERVE INDICATOR AND MOON PHASES, CIRCA 1997",decorative arts,"18k yellow gold, white dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1997,1997,N/A,"wristwatch, yellow gold, power reserve indicator, moon phases, white dial, brown strap, vintage, luxury, horology, Patek Philippe",1,N/A,original,"PATEK PHILIPPE | REF.5015J, A YELLOW GOLD WRISTWATCH WITH POWER RESERVE INDICATOR AND MOON PHASES, CIRCA 1997
+Case/Movement No: 2'975'681/3'050'234 
+Calibre: 240/154, automatic, signed
+Dial: White, signed 
+Case: 35.5mm, 18k yellow gold, hunter style transparent case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box, Certificate of Origin and related literatures",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-3-2.jpg,https://www.bonhams.com/auction/32503/lot/218/patek-philippe-ref5015j-a-yellow-gold-wristwatch-with-power-reserve-indicator-and-moon-phases-circa-1997/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13998.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,14500.0,12083.333333333334
+910d0fac-8a80-4791-8f51-79bf92f19451,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 218,AUD,16000,24000,31980,26000,10653.71,15980.56,21294.1,17312.28,N/A,N/A,N/A,"PATEK PHILIPPE | REF.5015J, A YELLOW GOLD WRISTWATCH WITH POWER RESERVE INDICATOR AND MOON PHASES, CIRCA 1997",decorative arts,"18k yellow gold, white dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1997,1997,N/A,"wristwatch, yellow gold, power reserve indicator, moon phases, white dial, brown leather strap, automatic movement, transparent case back, presentation box, certificate of origin",1,N/A,original,"PATEK PHILIPPE | REF.5015J, A YELLOW GOLD WRISTWATCH WITH POWER RESERVE INDICATOR AND MOON PHASES, CIRCA 1997
+Case/Movement No: 2'975'681/3'050'234 
+Calibre: 240/154, automatic, signed
+Dial: White, signed 
+Case: 35.5mm, 18k yellow gold, hunter style transparent case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box, Certificate of Origin and related literatures",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-3-2.jpg,https://www.bonhams.com/auction/32503/lot/218/patek-philippe-ref5015j-a-yellow-gold-wristwatch-with-power-reserve-indicator-and-moon-phases-circa-1997/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13998.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,14500.0,12083.333333333334
+789bfe8b-89ea-4587-b9d5-056ae99b35ea,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 219,AUD,12000,16000,15990,13000,7990.28,10653.71,10647.05,8656.14,N/A,N/A,N/A,"PATEK PHILIPPE | CALATRAVA, REF.3919J, A YELLOW GOLD WRISTWATCH, CIRCA 1992",decorative arts,"18k yellow gold, white dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1992,1992,N/A,"wristwatch, yellow gold, manual winding, white dial, black strap, Roman numerals, round case, luxury watch",1,N/A,original,"PATEK PHILIPPE | CALATRAVA, REF.3919J, A YELLOW GOLD WRISTWATCH, CIRCA 1992
+Case/Movement No: 2'932'755/1'837'009
+Calibre: 215 PS, manual winding, signed
+Dial: White, signed 
+Case: 33mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-28-1.jpg,https://www.bonhams.com/auction/32503/lot/219/patek-philippe-calatrava-ref3919j-a-yellow-gold-wristwatch-circa-1992/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10157.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10200.0,8500.0
+1f035010-fa02-43dd-8ccc-014b6a28ae20,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 219,AUD,12000,16000,15990,13000,7990.28,10653.71,10647.05,8656.14,N/A,N/A,N/A,"PATEK PHILIPPE | CALATRAVA, REF.3919J, A YELLOW GOLD WRISTWATCH, CIRCA 1992",decorative arts,"18k yellow gold, white dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1992,1992,N/A,"wristwatch, yellow gold, black strap, white dial, Roman numerals, manual winding, Patek Philippe, Calatrava, vintage",1,N/A,original,"PATEK PHILIPPE | CALATRAVA, REF.3919J, A YELLOW GOLD WRISTWATCH, CIRCA 1992
+Case/Movement No: 2'932'755/1'837'009
+Calibre: 215 PS, manual winding, signed
+Dial: White, signed 
+Case: 33mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-28-1.jpg,https://www.bonhams.com/auction/32503/lot/219/patek-philippe-calatrava-ref3919j-a-yellow-gold-wristwatch-circa-1992/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10157.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10200.0,8500.0
+70afceba-d738-4bf2-b174-00480a2b0a6d,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 220,AUD,20000,30000,36900,30000,13317.14,19975.71,24570.12,19975.71,N/A,N/A,N/A,"PATEK PHILIPPE | COMPLICATIONS, REF.5035, A RARE YELLOW GOLD ANNUAL CALENDAR WRISTWATCH WITH 24-HOUR INDICATOR, CIRCA 2003",decorative arts,"18k yellow gold, black dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,2003,2003,N/A,"watch, wristwatch, yellow gold, black dial, annual calendar, 24-hour indicator, leather strap, gold buckle",1,N/A,original,"PATEK PHILIPPE | COMPLICATIONS, REF.5035, A RARE YELLOW GOLD ANNUAL CALENDAR WRISTWATCH WITH 24-HOUR INDICATOR, CIRCA 2003
+Case/Movement No: 4'178'372/3'135'105
+Calibre: 315S QA, automatic, signed
+Dial: Black, signed 
+Case: 36.5mm, 18k yellow gold, transparent case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-47-2.jpg,https://www.bonhams.com/auction/32503/lot/220/patek-philippe-complications-ref5035-a-rare-yellow-gold-annual-calendar-wristwatch-with-24-hour-indicator-circa-2003/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16388.03,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,17850.0,14875.0
+434d6ca2-4871-4bae-b8a3-83f89adcfe9e,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 220,AUD,20000,30000,36900,30000,13317.14,19975.71,24570.12,19975.71,N/A,N/A,N/A,"PATEK PHILIPPE | COMPLICATIONS, REF.5035, A RARE YELLOW GOLD ANNUAL CALENDAR WRISTWATCH WITH 24-HOUR INDICATOR",decorative arts,"18k yellow gold, black dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,2003,2003,N/A,"watch, wristwatch, gold, black, calendar, luxury, Patek Philippe, timepiece",1,N/A,original,"PATEK PHILIPPE | COMPLICATIONS, REF.5035, A RARE YELLOW GOLD ANNUAL CALENDAR WRISTWATCH WITH 24-HOUR INDICATOR, CIRCA 2003
+Case/Movement No: 4'178'372/3'135'105
+Calibre: 315S QA, automatic, signed
+Dial: Black, signed 
+Case: 36.5mm, 18k yellow gold, transparent case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-47-2.jpg,https://www.bonhams.com/auction/32503/lot/220/patek-philippe-complications-ref5035-a-rare-yellow-gold-annual-calendar-wristwatch-with-24-hour-indicator-circa-2003/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16388.03,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+6dce5d4e-74e1-48fc-833e-6f6730ec15a4,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 221,AUD,3000,4000,24600,20000,1997.57,2663.43,16380.08,13317.14,N/A,N/A,N/A,"ROLEX | BUBBLEBACK, REF.3065, A PINK GOLD AND STAINLESS STEEL WRISTWATCH WITH HOODED LUGS, CIRCA 1950",decorative arts,"pink gold, stainless steel",N/A,N/A,N/A,mm,yes,yes,yes,1930,1970,N/A,"wristwatch, pink gold, stainless steel, leather strap, dial, numbers, crown, case, automatic movement, chronometer",1,N/A,original,"ROLEX | BUBBLEBACK, REF.3065, A PINK GOLD AND STAINLESS STEEL WRISTWATCH WITH HOODED LUGS, CIRCA 1950
+Movement No: N63253
+Calibre: Automatic, signed
+Dial: Silvered, signed 
+Case: 32mm, pink gold and stainless steel, screw down case back, signed 
+Strap: Maker's endangered species, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-31-1.jpg,https://www.bonhams.com/auction/32503/lot/221/rolex-bubbleback-ref3065-a-pink-gold-and-stainless-steel-wristwatch-with-hooded-lugs-circa-1950/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2438.83,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+05ab838a-0e76-4ed1-8f4e-1195a646898a,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 221,AUD,3000,4000,24600,20000,1997.57,2663.43,16380.08,13317.14,N/A,N/A,N/A,"ROLEX | BUBBLEBACK, REF.3065, A PINK GOLD AND STAINLESS STEEL WRISTWATCH WITH HOODED LUGS, CIRCA 1950",decorative arts,"pink gold, stainless steel",N/A,N/A,N/A,mm,yes,yes,yes,1950,1950,N/A,"wristwatch, pink gold, stainless steel, leather strap, silver dial, automatic movement, chronometer, Rolex, hooded lugs, vintage design",1,N/A,original,"ROLEX | BUBBLEBACK, REF.3065, A PINK GOLD AND STAINLESS STEEL WRISTWATCH WITH HOODED LUGS, CIRCA 1950
+Movement No: N63253
+Calibre: Automatic, signed
+Dial: Silvered, signed 
+Case: 32mm, pink gold and stainless steel, screw down case back, signed 
+Strap: Maker's endangered species, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-31-1.jpg,https://www.bonhams.com/auction/32503/lot/221/rolex-bubbleback-ref3065-a-pink-gold-and-stainless-steel-wristwatch-with-hooded-lugs-circa-1950/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2438.83,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+6c1ba8d4-10cd-476b-bb88-4fea8dd9f1f2,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 222,AUD,1200,1600,4305,3500,799.03,1065.37,2866.51,2330.5,N/A,N/A,N/A,"LONGINES | REF.6353 1, A YELLOW GOLD WRISTWATCH, CIRCA 1950",decorative arts,"18k yellow gold, silvered dial, non-maker's endangered species strap, gold plated buckle",N/A,N/A,N/A,mm,yes,yes,yes,1950,1950,N/A,"wristwatch, gold, dial, strap, manual winding, timepiece, Longines, silvered, gold plated buckle, endangered species",1,N/A,original,"LONGINES | REF.6353 1, A YELLOW GOLD WRISTWATCH, CIRCA 1950
+Case No: 150
+Calibre: 23Z, manual winding, signed
+Dial: Silvered, signed 
+Case: 37mm, 18k yellow gold, snap-on case back, signed 
+Strap: Non-maker's endangered species, gold plated buckle, not signed.
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-35-1.jpg,https://www.bonhams.com/auction/32503/lot/222/longines-ref6353-1-a-yellow-gold-wristwatch-circa-1950/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1287.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+474faf94-3e32-4da1-88b9-92bde0ee3ca8,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 222,AUD,1200,1600,4305,3500,799.03,1065.37,2866.51,2330.5,N/A,N/A,N/A,"LONGINES | REF.6353 1, A YELLOW GOLD WRISTWATCH, CIRCA 1950",decorative arts,"18k yellow gold, silvered dial, non-maker's endangered species strap, gold plated buckle",N/A,N/A,N/A,mm,yes,yes,yes,1950,1950,N/A,"wristwatch, yellow gold, manual winding, silvered dial, leather strap, snap-on case back",1,N/A,original,"LONGINES | REF.6353 1, A YELLOW GOLD WRISTWATCH, CIRCA 1950
+Case No: 150
+Calibre: 23Z, manual winding, signed
+Dial: Silvered, signed 
+Case: 37mm, 18k yellow gold, snap-on case back, signed 
+Strap: Non-maker's endangered species, gold plated buckle, not signed.
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-35-1.jpg,https://www.bonhams.com/auction/32503/lot/222/longines-ref6353-1-a-yellow-gold-wristwatch-circa-1950/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1287.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+cb0b530d-31e1-4131-93f0-868d3811d0b0,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 223,AUD,8000,12000,20910,17000,5326.85,7990.28,13923.07,11319.57,N/A,N/A,N/A,"ROLEX | PRINCE, REF.971, A WHITE AND YELLOW GOLD WRISTWATCH, CIRCA 1930",decorative arts,"18k white and yellow gold, silvered dial, endangered species strap",N/A,35,23,mm,yes,yes,yes,1901,1930,N/A,"wristwatch, white gold, yellow gold, manual winding, leather strap, round dial, silvered dial, vintage, chronograph, engraved case back",1,N/A,original,"ROLEX | PRINCE, REF.971, A WHITE AND YELLOW GOLD WRISTWATCH, CIRCA 1930
+Case No: 60222
+Calibre: Manual winding, signed
+Dial: Silvered, signed 
+Case: 23 x 35mm, 18k white and yellow gold, snap-on case back with engraving ""Thornton Pascoe"", signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-57-1.jpg,https://www.bonhams.com/auction/32503/lot/223/rolex-prince-ref971-a-white-and-yellow-gold-wristwatch-circa-1930/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+176b83de-752f-4dff-8d84-c690fdfa2b2f,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 223,AUD,8000,12000,20910,17000,5326.85,7990.28,13923.07,11319.57,N/A,N/A,N/A,"ROLEX | PRINCE, REF.971, A WHITE AND YELLOW GOLD WRISTWATCH, CIRCA 1930",decorative arts,"18k white and yellow gold, silvered dial, endangered species strap",N/A,35,23,mm,yes,yes,yes,1901,1930,N/A,"wristwatch, gold, silvered dial, manual winding, leather strap, vintage, Rolex, Prince, engraved case",1,N/A,original,"ROLEX | PRINCE, REF.971, A WHITE AND YELLOW GOLD WRISTWATCH, CIRCA 1930
+Case No: 60222
+Calibre: Manual winding, signed
+Dial: Silvered, signed 
+Case: 23 x 35mm, 18k white and yellow gold, snap-on case back with engraving ""Thornton Pascoe"", signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-57-1.jpg,https://www.bonhams.com/auction/32503/lot/223/rolex-prince-ref971-a-white-and-yellow-gold-wristwatch-circa-1930/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+ad2c80bb-ae0c-47c6-a9f2-958fa4ffb371,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 224,AUD,1400,1800,3690,3000,932.2,1198.54,2457.01,1997.57,DUNHILL,N/A,N/A,"DUNHILL | A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1994",decorative arts,"18k yellow gold, silvered dial, endangered species leather strap",N/A,32.5,27.5,mm,yes,yes,yes,1994,1994,N/A,"wristwatch, yellow gold, black strap, octagonal shape, manual winding, silver dial, Arabic numerals, signed, luxury accessory, limited edition",1,N/A,original,"DUNHILL | A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1994
+Case No: Limited No. 021/250
+Calibre: ETA 2660, manual winding, signed
+Dial: Silvered, signed 
+Case: 27.5 x 32.5mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-40-1.jpg,https://www.bonhams.com/auction/32503/lot/224/dunhill-a-limited-edition-yellow-gold-wristwatch-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1288.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1050.0,875.0
+fb97570f-9cb8-4bed-94d0-d0bdb8aa8483,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 224,AUD,1400,1800,3690,3000,932.2,1198.54,2457.01,1997.57,DUNHILL,N/A,N/A,"DUNHILL | A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1994",decorative arts,"18k yellow gold, silvered dial, endangered species leather strap",N/A,32.5,27.5,mm,yes,yes,yes,1994,1994,N/A,"wristwatch,yellow gold,manual winding,silvered dial,black strap,octagonal case,18k gold,buckle,handcrafted,timepiece",1,N/A,original,"DUNHILL | A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1994
+Case No: Limited No. 021/250
+Calibre: ETA 2660, manual winding, signed
+Dial: Silvered, signed 
+Case: 27.5 x 32.5mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-40-1.jpg,https://www.bonhams.com/auction/32503/lot/224/dunhill-a-limited-edition-yellow-gold-wristwatch-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1288.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1050.0,875.0
+cee4c043-d041-4b5a-91fb-1d02709c1682,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 225,AUD,10000,14000,8610,7000,6658.57,9322.0,5733.03,4661.0,N/A,N/A,N/A,"JAEGER-LECOULTRE | MASTER RÉVEIL, REF.141.1.97, A YELLOW GOLD ALARM WRISTWATCH WITH DATE",decorative arts,"18k yellow gold, silvered dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"alarm wristwatch, yellow gold, black strap, silvered dial, automatic movement, date display, two crowns, luxury watch",1,N/A,original,"JAEGER-LECOULTRE | MASTER RÃVEIL, REF.141.1.97, A YELLOW GOLD ALARM WRISTWATCH WITH DATE, CIRCA 1990
+Case No: 0196
+Calibre: 916, automatic, signed
+Dial: Silvered, signed 
+Case: 39.5mm, 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-23-1.jpg,https://www.bonhams.com/auction/32503/lot/225/jaeger-lecoultre-master-reveil-ref141197-a-yellow-gold-alarm-wristwatch-with-date-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8188.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+e21fa726-701d-486a-a684-ba01d6e2f331,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 225,AUD,10000,14000,8610,7000,6658.57,9322.0,5733.03,4661.0,N/A,N/A,N/A,"JAEGER-LECOULTRE | MASTER RÉVEIL, REF.141.1.97, A YELLOW GOLD ALARM WRISTWATCH WITH DATE",decorative arts,"18k yellow gold, silvered dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"wristwatch, yellow gold, alarm, date, silvered dial, automatic movement, crocodile strap",1,N/A,original,"JAEGER-LECOULTRE | MASTER RÃVEIL, REF.141.1.97, A YELLOW GOLD ALARM WRISTWATCH WITH DATE, CIRCA 1990
+Case No: 0196
+Calibre: 916, automatic, signed
+Dial: Silvered, signed 
+Case: 39.5mm, 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-23-1.jpg,https://www.bonhams.com/auction/32503/lot/225/jaeger-lecoultre-master-reveil-ref141197-a-yellow-gold-alarm-wristwatch-with-date-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8188.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+fff2f8a0-ec05-4e8b-9819-ba0fbb5c2601,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 226,AUD,12000,16000,20910,17000,7990.28,10653.71,13923.07,11319.57,N/A,N/A,N/A,"PANERAI | LUMINOR MARINA, REF.PAM00140, A RARE YELLOW GOLD WRISTWATCH WITH DATE AND CARBON FIBER DIAL, CIRCA 2006",decorative arts,"18k yellow gold, carbon fiber, leather",N/A,N/A,N/A,mm,yes,yes,yes,2006,2006,N/A,"wristwatch, yellow gold, carbon fiber dial, date indicator, black leather strap, automatic movement, Panerai, luxury watch, timepiece, presentation box",1,N/A,original,"PANERAI | LUMINOR MARINA, REF.PAM00140, A RARE YELLOW GOLD WRISTWATCH WITH DATE AND CARBON FIBER DIAL, CIRCA 2006
+Case No: I144/500 
+Calibre: OP III, automatic, signed
+Dial: Carbon fibre, signed 
+Case: 44mm, 18k yellow gold, screw down case back, signed 
+Strap: Maker's leather, 18k yellow gold double folding clasp, signed
+Accompaniments: Maker's presentation box, certificate, COSC certificate, instruction manual, screwdriver, extra strap and small key",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-18-2.jpg,https://www.bonhams.com/auction/32503/lot/226/panerai-luminor-marina-refpam00140-a-rare-yellow-gold-wristwatch-with-date-and-carbon-fiber-dial-circa-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10157.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10200.0,8500.0
+51bce27a-0640-4ba1-aa93-e6a28121212f,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 226,AUD,12000,16000,20910,17000,7990.28,10653.71,13923.07,11319.57,N/A,N/A,N/A,"PANERAI | LUMINOR MARINA, REF.PAM00140, A RARE YELLOW GOLD WRISTWATCH WITH DATE AND CARBON FIBER DIAL, CIRCA 2006",decorative arts,"18k yellow gold, carbon fiber, leather",N/A,N/A,N/A,N/A,yes,yes,yes,2006,2006,N/A,"wristwatch, yellow gold, carbon fiber dial, date function, leather strap, gold clasp, luxury timepiece",1,N/A,original,"PANERAI | LUMINOR MARINA, REF.PAM00140, A RARE YELLOW GOLD WRISTWATCH WITH DATE AND CARBON FIBER DIAL, CIRCA 2006
+Case No: I144/500 
+Calibre: OP III, automatic, signed
+Dial: Carbon fibre, signed 
+Case: 44mm, 18k yellow gold, screw down case back, signed 
+Strap: Maker's leather, 18k yellow gold double folding clasp, signed
+Accompaniments: Maker's presentation box, certificate, COSC certificate, instruction manual, screwdriver, extra strap and small key",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-18-2.jpg,https://www.bonhams.com/auction/32503/lot/226/panerai-luminor-marina-refpam00140-a-rare-yellow-gold-wristwatch-with-date-and-carbon-fiber-dial-circa-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10157.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10250.0,8541.666666666668
+790c36b4-36d1-43b7-9847-bd3e0324824a,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 227,AUD,10000,14000,15990,13000,6658.57,9322.0,10647.05,8656.14,BULGARI,N/A,N/A,"BULGARI | ERGON, REF.EGP 40 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006",decorative arts,"18k pink gold, brown dial, endangered species leather strap",N/A,49,40,mm,yes,yes,yes,2006,2006,N/A,"wristwatch, chronograph, pink gold, brown dial, crocodile strap, automatic, luxury, limited edition, date display, presentation box",1,N/A,original,"BULGARI | ERGON, REF.EGP 40 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006
+Case No: Limited No. 04/30
+Calibre: 080-TEET, automatic, signed
+Dial: Brown, signed 
+Case: 40 x 49mm, 18k pink gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k pink gold folding clasp, signed
+Accompaniments: Maker's presentation box, authenticity card, warranty card and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-05/14/25807591-13-3.jpg,https://www.bonhams.com/auction/32503/lot/227/bulgari-ergon-refegp-40-g-ch-a-limited-edition-pink-gold-chronograph-wristwatch-with-date-circa-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10128.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+22e5da51-2193-4065-be09-1b0e08ae9cab,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 227,AUD,10000,14000,15990,13000,6658.57,9322.0,10647.05,8656.14,BULGARI,N/A,N/A,"BULGARI | ERGON, REF.EGP 40 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006",decorative arts,"18k pink gold, brown dial, endangered species leather strap",N/A,49,40,mm,yes,yes,yes,2006,2006,N/A,"wristwatch, chronograph, pink gold, brown dial, leather strap, automatic movement, signed, limited edition, presentation box, authenticity card",1,N/A,original,"BULGARI | ERGON, REF.EGP 40 G CH, A LIMITED EDITION PINK GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2006
+Case No: Limited No. 04/30
+Calibre: 080-TEET, automatic, signed
+Dial: Brown, signed 
+Case: 40 x 49mm, 18k pink gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k pink gold folding clasp, signed
+Accompaniments: Maker's presentation box, authenticity card, warranty card and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-05/14/25807591-13-3.jpg,https://www.bonhams.com/auction/32503/lot/227/bulgari-ergon-refegp-40-g-ch-a-limited-edition-pink-gold-chronograph-wristwatch-with-date-circa-2006/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10131.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+16439d81-5353-4437-b6e0-f1d8c8761e01,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 228,AUD,4000,6000,11685,9500,2663.43,3995.14,7780.54,6325.64,Franck Muller,N/A,N/A,"FRANCK MULLER | TONNEAU CURVEX, REF.2851 S6, A GOLD WRISTWATCH, CIRCA 1994",decorative arts,"18k yellow gold, blue guilloché, endangered species leather",N/A,45,30,mm,yes,yes,yes,1990,1999,N/A,"wristwatch, gold, blue dial, automatic, leather strap, timepiece, luxury, brand logo, round, curved case",1,N/A,original,"FRANCK MULLER | TONNEAU CURVEX, REF.2851 S6, A GOLD WRISTWATCH, CIRCA 1994
+Case No: 40
+Calibre: 2800, automatic, signed
+Dial: Blue guillochÃ©, signed 
+Case: 30 x 45mm (including lugs), 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle.
+Accompaniments: Maker's certificate",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-22-2.jpg,https://www.bonhams.com/auction/32503/lot/228/franck-muller-tonneau-curvex-ref2851-s6-a-gold-wristwatch-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3578.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+8b927815-679f-45d4-99d7-8d5ae834c365,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 228,AUD,4000,6000,11685,9500,2663.43,3995.14,7780.54,6325.64,Franck Muller,N/A,N/A,"FRANCK MULLER | TONNEAU CURVEX, REF.2851 S6, A GOLD WRISTWATCH, CIRCA 1994",decorative arts,"18k yellow gold, blue guilloché dial, endangered species leather strap",N/A,45,30,mm,yes,yes,yes,1994,1994,N/A,"wristwatch, gold, blue dial, automatic, leather strap, numbers, hour hand, minute hand, subdial, case",1,N/A,original,"FRANCK MULLER | TONNEAU CURVEX, REF.2851 S6, A GOLD WRISTWATCH, CIRCA 1994
+Case No: 40
+Calibre: 2800, automatic, signed
+Dial: Blue guillochÃ©, signed 
+Case: 30 x 45mm (including lugs), 18k yellow gold, screwed case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle.
+Accompaniments: Maker's certificate",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-22-2.jpg,https://www.bonhams.com/auction/32503/lot/228/franck-muller-tonneau-curvex-ref2851-s6-a-gold-wristwatch-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3578.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+e69b419b-747d-48e2-8cc1-3b7299edf765,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 229,AUD,150000,250000,209100,170000,99878.53,166464.21,139230.67,113195.66,N/A,N/A,N/A,"PATEK PHILIPPE | NAUTILUS ""JUMBO"", REF.3700/11, A RARE YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 1985",decorative arts,"18k yellow gold, dark blue textured dial",N/A,N/A,N/A,mm,yes,yes,yes,1985,1985,N/A,"watch, luxury, yellow gold, bracelet, date display, blue dial, octagonal case, automatic movement, Patek Philippe, vintage",1,N/A,original,"PATEK PHILIPPE | NAUTILUS ""JUMBO"", REF.3700/11, A RARE YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 1985
+Case/Movement No: 559'097/1'310'568
+Calibre: 28-255C, automatic, signed
+Dial: Dark blue textured, signed
+Case: 40mm, 18k yellow gold, signed
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 200mm, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-45-1.jpg,https://www.bonhams.com/auction/32503/lot/229/patek-philippe-nautilus-jumbo-ref370011-a-rare-yellow-gold-bracelet-watch-with-date-circa-1985/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,128888.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,132000.0,110000.0
+1a4b862a-ee29-4591-8d9d-089d2746ff37,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 229,AUD,150000,250000,209100,170000,99878.53,166464.21,139230.67,113195.66,N/A,N/A,N/A,"PATEK PHILIPPE | NAUTILUS ""JUMBO"", REF.3700/11, A RARE YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 1985",decorative arts,"18k yellow gold, dark blue textured dial",N/A,N/A,N/A,mm,yes,yes,yes,1985,1985,N/A,"watch, Patek Philippe, Nautilus, yellow gold, bracelet, dark blue dial, automatic, date function",1,N/A,original,"PATEK PHILIPPE | NAUTILUS ""JUMBO"", REF.3700/11, A RARE YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 1985
+Case/Movement No: 559'097/1'310'568
+Calibre: 28-255C, automatic, signed
+Dial: Dark blue textured, signed
+Case: 40mm, 18k yellow gold, signed
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 200mm, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-45-1.jpg,https://www.bonhams.com/auction/32503/lot/229/patek-philippe-nautilus-jumbo-ref370011-a-rare-yellow-gold-bracelet-watch-with-date-circa-1985/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,128888.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,132000.0,110000.0
+3ebba3a9-b52e-4075-9a19-85af70ff7999,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 230,AUD,30000,40000,57810,47000,19975.71,26634.27,38493.18,31295.27,N/A,N/A,N/A,"PATEK PHILIPPE | AQUANAUT, REF.5060, A RARE YELLOW GOLD WRISTWATCH WITH DATE, CIRCA 1997",decorative arts,"18k yellow gold, black composite strap",N/A,N/A,N/A,mm,yes,yes,yes,1997,1997,N/A,"wristwatch, yellow gold, black dial, Roman numerals, date display, crocodile leather strap",1,N/A,original,"PATEK PHILIPPE | AQUANAUT, REF.5060, A RARE YELLOW GOLD WRISTWATCH WITH DATE, CIRCA 1997
+Case/Movement No: 4'005'207/3'021'712
+Calibre: 330 SC, automatic, signed
+Dial: Black, signed 
+Case: 36mm, 18k yellow gold, screw down case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box, Certificate of Origin, instruction manual and related literatures",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-49-2.jpg,https://www.bonhams.com/auction/32503/lot/230/patek-philippe-aquanaut-ref5060-a-rare-yellow-gold-wristwatch-with-date-circa-1997/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24168.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,23400.0,19500.0
+5e54dd66-4020-4c39-803c-266817e1f5a1,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 230,AUD,30000,40000,57810,47000,19975.71,26634.27,38493.18,31295.27,N/A,N/A,N/A,"PATEK PHILIPPE | AQUANAUT, REF.5060, A RARE YELLOW GOLD WRISTWATCH WITH DATE, CIRCA 1997",decorative arts,"18k yellow gold, black composite strap",N/A,N/A,N/A,mm,yes,yes,yes,1997,1997,N/A,"wristwatch, yellow gold, black dial, date window, crocodile strap",1,N/A,original,"PATEK PHILIPPE | AQUANAUT, REF.5060, A RARE YELLOW GOLD WRISTWATCH WITH DATE, CIRCA 1997
+Case/Movement No: 4'005'207/3'021'712
+Calibre: 330 SC, automatic, signed
+Dial: Black, signed 
+Case: 36mm, 18k yellow gold, screw down case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's presentation box, Certificate of Origin, instruction manual and related literatures",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-49-2.jpg,https://www.bonhams.com/auction/32503/lot/230/patek-philippe-aquanaut-ref5060-a-rare-yellow-gold-wristwatch-with-date-circa-1997/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24168.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,23400.0,19500.0
+7d18437a-6ad4-43e7-92be-0eb795f59cae,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 231,AUD,30000,40000,51660,42000,19975.71,26634.27,34398.16,27965.99,N/A,N/A,N/A,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.5038, A LIMITED EDITION WHITE GOLD PERPETUAL CALENDAR WRISTWATCH WITH MOON PHASES, LEAP YEAR AND 24-HOUR INDICATOR",decorative arts,"18k white gold, black dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1996,1996,N/A,"wristwatch, black dial, white gold, moon phases, perpetual calendar, indicators, leather strap, signed",1,N/A,original,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.5038, A LIMITED EDITION WHITE GOLD PERPETUAL CALENDAR WRISTWATCH WITH MOON PHASES, LEAP YEAR AND 24-HOUR INDICATOR, CIRCA 1996
+Case/Movement No: 4'004'853/775'929, Limited to 500
+Calibre: 240 Q, automatic, signed
+Dial: Black, signed 
+Case: 36mm, 18k white gold, transparent case back, signed 
+Strap: Maker's endangered species, 18k white gold folding clasp, signed
+Accompaniments: Maker's winding box, Certificate of Origin, setting pin",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-51-2.jpg,https://www.bonhams.com/auction/32503/lot/231/patek-philippe-grand-complications-ref5038-a-limited-edition-white-gold-perpetual-calendar-wristwatch-with-moon-phases-leap-year-and-24-hour-indicator-circa-1996/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24168.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,23200.0,19333.333333333336
+27a84f7e-e906-4e69-8bcd-6e829cc7e8bf,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 231,AUD,30000,40000,51660,42000,19975.71,26634.27,34398.16,27965.99,N/A,N/A,N/A,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.5038, A LIMITED EDITION WHITE GOLD PERPETUAL CALENDAR WRISTWATCH WITH MOON PHASES, LEAP YEAR AND 24-HOUR INDICATOR",decorative arts,"18k white gold, black dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1996,1996,N/A,"wristwatch, perpetual calendar, moon phases, leap year indicator, white gold, black dial, leather strap, arabic numbers, transparent case back, luxury timepiece",1,N/A,original,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.5038, A LIMITED EDITION WHITE GOLD PERPETUAL CALENDAR WRISTWATCH WITH MOON PHASES, LEAP YEAR AND 24-HOUR INDICATOR, CIRCA 1996
+Case/Movement No: 4'004'853/775'929, Limited to 500
+Calibre: 240 Q, automatic, signed
+Dial: Black, signed 
+Case: 36mm, 18k white gold, transparent case back, signed 
+Strap: Maker's endangered species, 18k white gold folding clasp, signed
+Accompaniments: Maker's winding box, Certificate of Origin, setting pin",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-51-2.jpg,https://www.bonhams.com/auction/32503/lot/231/patek-philippe-grand-complications-ref5038-a-limited-edition-white-gold-perpetual-calendar-wristwatch-with-moon-phases-leap-year-and-24-hour-indicator-circa-1996/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24168.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,23400.0,19500.0
+69c0b383-2acd-4796-a319-2b70b53775f1,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 232,AUD,50000,70000,92250,75000,33292.84,46609.98,61425.29,49939.26,N/A,N/A,N/A,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.3940, A RARE YELLOW GOLD PERPETUAL ITALIAN CALENDAR WRISTWATCH WITH LEAP YEAR AND 24-HOUR INDICATOR",decorative arts,"18k yellow gold, silvered dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1991,1991,N/A,"wristwatch, yellow gold, perpetual calendar, moon phase, leather strap, leap year indicator, 24-hour indicator, silver dial, automatic movement, luxury accessory",1,N/A,original,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.3940, A RARE YELLOW GOLD PERPETUAL ITALIAN CALENDAR WRISTWATCH WITH LEAP YEAR AND 24-HOUR INDICATOR, CIRCA 1991
+Case/Movement No: 2'884'708/772'447
+Calibre: 240 Q, automatic, signed
+Dial: Silvered, signed 
+Case: 36mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's winding box, Certificate of Origin, instruction manual and related literatures",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-48-2.jpg,https://www.bonhams.com/auction/32503/lot/232/patek-philippe-grand-complications-ref3940-a-rare-yellow-gold-perpetual-italian-calendar-wristwatch-with-leap-year-and-24-hour-indicator-circa-1991/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,41388.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,41400.0,34500.0
+0fe87e99-ddfb-4706-be72-99f7640d08a5,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 232,AUD,50000,70000,92250,75000,33292.84,46609.98,61425.29,49939.26,Patek Philippe,N/A,N/A,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.3940, A RARE YELLOW GOLD PERPETUAL ITALIAN CALENDAR WRISTWATCH WITH LEAP YEAR AND 24-HOUR INDICATOR",decorative arts,"18k yellow gold, silvered dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1991,1991,N/A,"yellow gold watch, perpetual calendar, moon phase, 24-hour indicator, Italian calendar, black strap, silvered dial, luxury, automatic watch, Patek Philippe",1,N/A,original,"PATEK PHILIPPE | GRAND COMPLICATIONS, REF.3940, A RARE YELLOW GOLD PERPETUAL ITALIAN CALENDAR WRISTWATCH WITH LEAP YEAR AND 24-HOUR INDICATOR, CIRCA 1991
+Case/Movement No: 2'884'708/772'447
+Calibre: 240 Q, automatic, signed
+Dial: Silvered, signed 
+Case: 36mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold folding clasp, signed
+Accompaniments: Maker's winding box, Certificate of Origin, instruction manual and related literatures",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-48-2.jpg,https://www.bonhams.com/auction/32503/lot/232/patek-philippe-grand-complications-ref3940-a-rare-yellow-gold-perpetual-italian-calendar-wristwatch-with-leap-year-and-24-hour-indicator-circa-1991/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,41388.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,41400.0,34500.0
+e87eb562-6c34-4364-b80e-84fb350643ef,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 233,AUD,10000,14000,22140,18000,6658.57,9322.0,14742.07,11985.42,Franck Muller,N/A,N/A,"CINTRÉE CURVEX, REF.5850 SC, A YELLOW GOLD BRACELET WATCH, CIRCA 2000",decorative arts,"18k yellow gold, silvered guilloché",N/A,45,32,mm,yes,yes,yes,2001,2030,N/A,"watch, yellow gold, bracelet, guilloche, automatic, luxury, Roman numerals, blue hands, signed, circa 2000",1,N/A,original,"FRANCK MULLER | CINTRÃE CURVEX, REF.5850 SC, A YELLOW GOLD BRACELET WATCH, CIRCA 2000
+Case No: 37
+Calibre: Automatic, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 32 x 45mm (including lugs), 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 200mm, signed
+Accompaniments: Maker's certificate",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-6-2.jpg,https://www.bonhams.com/auction/32503/lot/233/franck-muller-cintree-curvex-ref5850-sc-a-yellow-gold-bracelet-watch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10128.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+dad588d9-baf7-4ab8-b29c-2f376de24dfe,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 233,AUD,10000,14000,22140,18000,6658.57,9322.0,14742.07,11985.42,Franck Muller,N/A,N/A,"CINTRÉE CURVEX, REF.5850 SC, A YELLOW GOLD BRACELET WATCH, CIRCA 2000",decorative arts,"18k yellow gold, silvered guilloché",N/A,45,32,mm,yes,yes,yes,2001,2030,N/A,"watch, yellow gold, bracelet, automatic, silvered dial, Roman numerals, signed, luxury accessory",1,N/A,original,"FRANCK MULLER | CINTRÃE CURVEX, REF.5850 SC, A YELLOW GOLD BRACELET WATCH, CIRCA 2000
+Case No: 37
+Calibre: Automatic, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 32 x 45mm (including lugs), 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 200mm, signed
+Accompaniments: Maker's certificate",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-6-2.jpg,https://www.bonhams.com/auction/32503/lot/233/franck-muller-cintree-curvex-ref5850-sc-a-yellow-gold-bracelet-watch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10128.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,8500.0,7083.333333333334
+3fd036e3-25a4-4407-bc58-fec996feed0d,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 234,AUD,12000,16000,22140,18000,7990.28,10653.71,14742.07,11985.42,N/A,N/A,N/A,"JAEGER-LECOULTRE | REVERSO DUOFACE, REF.270.1.54",decorative arts,"18k yellow gold, silvered guilloché",N/A,42,26,mm,yes,yes,yes,1995,1995,N/A,"watch, yellow gold, bracelet, day/night indication, manual winding, silvered dial, luxury, timepiece, vintage, JAEGER-LECOULTRE",1,N/A,original,"JAEGER-LECOULTRE | REVERSO DUOFACE, REF.270.1.54, A YELLOW GOLD BRACELET WATCH WITH DAY/NIGHT INDICATION, CIRCA 1995
+Case No: 1758400
+Calibre: 854, manual winding, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 26 x 42mm (including lugs), 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 196mm, signed
+Accompaniments: Maker's presentation box and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-19-2.jpg,https://www.bonhams.com/auction/32503/lot/234/jaeger-lecoultre-reverso-duoface-ref270154-a-yellow-gold-bracelet-watch-with-daynight-indication-circa-1995/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9638.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10200.0,8500.0
+710cfab2-e55e-4330-bff6-6db80376cc3c,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 234,AUD,12000,16000,22140,18000,7990.28,10653.71,14742.07,11985.42,N/A,N/A,N/A,"JAEGER-LECOULTRE | REVERSO DUOFACE, REF.270.1.54",decorative arts,"18k yellow gold, silvered guilloché",N/A,42,26,mm,yes,yes,yes,1995,1995,N/A,"yellow gold watch, bracelet, day/night indication, silvered guilloché dial, manual winding, rectangular case, luxury accessories, Jaeger-LeCoultre, vintage timepiece, 1995",1,N/A,original,"JAEGER-LECOULTRE | REVERSO DUOFACE, REF.270.1.54, A YELLOW GOLD BRACELET WATCH WITH DAY/NIGHT INDICATION, CIRCA 1995
+Case No: 1758400
+Calibre: 854, manual winding, signed
+Dial: Silvered guillochÃ©, signed 
+Case: 26 x 42mm (including lugs), 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 196mm, signed
+Accompaniments: Maker's presentation box and instruction manual",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-19-2.jpg,https://www.bonhams.com/auction/32503/lot/234/jaeger-lecoultre-reverso-duoface-ref270154-a-yellow-gold-bracelet-watch-with-daynight-indication-circa-1995/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9638.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,10200.0,8500.0
+291ce684-f551-4ff8-bb21-48165cae8a60,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 235,AUD,16000,24000,22140,18000,10653.71,15980.56,14742.07,11985.42,BVLGARI,N/A,N/A,"DIAGONO SCUBA, REF.SD 38 G, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000",decorative arts,"18k yellow gold, black dial",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"watch, yellow gold, black dial, bracelet, chronometer, automatic, date, luxury item, Bvlgari, scuba",1,N/A,original,"BVLGARI | DIAGONO SCUBA, REF.SD 38 G, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000
+Case No: L 064
+Calibre: BVL 191, automatic, signed
+Dial: Black, signed 
+Case: 38mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 191mm, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-20-1.jpg,https://www.bonhams.com/auction/32503/lot/235/bulgari-diagono-scuba-refsd-38-g-a-yellow-gold-bracelet-watch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12808.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13500.0,11250.0
+3d862636-5527-4049-94f6-dd5b86b0077f,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 235,AUD,16000,24000,22140,18000,10653.71,15980.56,14742.07,11985.42,BVLGARI,N/A,N/A,"DIAGONO SCUBA, REF.SD 38 G, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000",decorative arts,"18k yellow gold, black dial",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"watch, yellow gold, bracelet, black dial, chronometer, date, Bulgari",1,N/A,original,"BVLGARI | DIAGONO SCUBA, REF.SD 38 G, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000
+Case No: L 064
+Calibre: BVL 191, automatic, signed
+Dial: Black, signed 
+Case: 38mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 191mm, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-20-1.jpg,https://www.bonhams.com/auction/32503/lot/235/bulgari-diagono-scuba-refsd-38-g-a-yellow-gold-bracelet-watch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12808.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13800.0,11500.0
+851856e7-f182-4c8c-8aab-db4ff0186626,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 236,AUD,16000,24000,34440,28000,10653.71,15980.56,22932.11,18643.99,CARTIER,N/A,N/A,"CARTIER | PASHA DE CARTIER GRILLE, REF.1987, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000",decorative arts,18k yellow gold,N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"yellow gold watch, bracelet watch, cream dial, automatic movement, date display",1,N/A,original,"CARTIER | PASHA DE CARTIER GRILLE, REF.1987, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000
+Case No: 820908
+Calibre: Automatic, signed
+Dial: Cream, signed 
+Case: 38mm, 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 205mm, signed
+Accompaniments: None
+
+Total watch weight approximately 182 grams.",https://images3.bonhams.com/image?src=Images/live/2026-05/14/25807591-8-3.jpg,https://www.bonhams.com/auction/32503/lot/236/cartier-pasha-de-cartier-grille-ref1987-a-yellow-gold-bracelet-watch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13968.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13300.0,11083.333333333334
+5a0b3bf8-f2a0-4de8-b50b-8ca76a4a3b2b,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 236,AUD,16000,24000,34440,28000,10653.71,15980.56,22932.11,18643.99,CARTIER,N/A,N/A,"CARTIER | PASHA DE CARTIER GRILLE, REF.1987, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000",decorative arts,18k yellow gold,N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"watch, yellow gold, bracelet, cream dial, automatic, date, luxury, signed, 38mm, jeweler",1,N/A,original,"CARTIER | PASHA DE CARTIER GRILLE, REF.1987, A YELLOW GOLD BRACELET WATCH WITH DATE, CIRCA 2000
+Case No: 820908
+Calibre: Automatic, signed
+Dial: Cream, signed 
+Case: 38mm, 18k yellow gold, screwed case back, signed 
+Bracelet: Maker's 18k yellow gold, double folding clasp, approximately 205mm, signed
+Accompaniments: None
+
+Total watch weight approximately 182 grams.",https://images3.bonhams.com/image?src=Images/live/2026-05/14/25807591-8-3.jpg,https://www.bonhams.com/auction/32503/lot/236/cartier-pasha-de-cartier-grille-ref1987-a-yellow-gold-bracelet-watch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13968.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13200.0,11000.0
+4459c50f-743f-4274-a86f-1e73508d5aad,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 237,AUD,6000,8000,5904,4800,3995.14,5326.85,3931.22,3196.11,BULGARI,N/A,N/A,"BULGARI | ANFITEATRO, REF. AT 35 GL AUT, A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1990",decorative arts,"18k yellow gold, black dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"wristwatch, yellow gold, black dial, crocodile leather strap, automatic movement",1,N/A,original,"BULGARI | ANFITEATRO, REF. AT 35 GL AUT, A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1990
+Case No: Limited No. 304/500
+Calibre: ETA 2892 A2, automatic, signed
+Dial: Black, signed 
+Case: 35mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-24-1.jpg,https://www.bonhams.com/auction/32503/lot/237/bulgari-anfiteatro-ref-at-35-gl-aut-a-limited-edition-yellow-gold-wristwatch-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4600.0,3833.3333333333335
+409a05d8-2ae7-4343-9f07-572ff068891d,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 237,AUD,6000,8000,5904,4800,3995.14,5326.85,3931.22,3196.11,BULGARI,N/A,N/A,"BULGARI | ANFITEATRO, REF. AT 35 GL AUT, A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1990",decorative arts,"18k yellow gold, black dial, endangered species leather strap",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"watch, yellow gold, black dial, automatic, strap, numerals, luxury, craftsmanship",1,N/A,original,"BULGARI | ANFITEATRO, REF. AT 35 GL AUT, A LIMITED EDITION YELLOW GOLD WRISTWATCH, CIRCA 1990
+Case No: Limited No. 304/500
+Calibre: ETA 2892 A2, automatic, signed
+Dial: Black, signed 
+Case: 35mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-24-1.jpg,https://www.bonhams.com/auction/32503/lot/237/bulgari-anfiteatro-ref-at-35-gl-aut-a-limited-edition-yellow-gold-wristwatch-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4625.0,3854.166666666667
+6a0615bc-0948-4464-acf2-c68207b93b86,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 238,AUD,1200,1600,3936,3200,799.03,1065.37,2620.81,2130.74,Baume & Mercier,N/A,N/A,"BAUME & MERCIER | REF.35105, A YELLOW GOLD WRISTWATCH, CIRCA 1990",decorative arts,"18k yellow gold, white dial, gold plated buckle",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"wristwatch,yellow gold,white dial,Baume & Mercier,automatic,roman numerals,brown strap,24-date display",1,N/A,original,"BAUME & MERCIER | REF.35105, A YELLOW GOLD WRISTWATCH, CIRCA 1990
+Case No: 442888
+Calibre: Automatic, signed
+Dial: White, signed 
+Case: 32mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, gold plated buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-32-1.jpg,https://www.bonhams.com/auction/32503/lot/238/baume-and-mercier-ref35105-a-yellow-gold-wristwatch-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+e6f34a69-7317-45b0-af50-a931afe96c49,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 238,AUD,1200,1600,3936,3200,799.03,1065.37,2620.81,2130.74,Baume & Mercier,N/A,N/A,"BAUME & MERCIER | REF.35105, A YELLOW GOLD WRISTWATCH, CIRCA 1990",decorative arts,"18k yellow gold, white dial, gold plated buckle",N/A,N/A,N/A,mm,yes,yes,yes,1990,1990,N/A,"wristwatch, yellow gold, white dial, automatic, brown strap, Roman numerals, gold plated buckle, vintage",1,N/A,original,"BAUME & MERCIER | REF.35105, A YELLOW GOLD WRISTWATCH, CIRCA 1990
+Case No: 442888
+Calibre: Automatic, signed
+Dial: White, signed 
+Case: 32mm, 18k yellow gold, snap-on case back, signed 
+Strap: Maker's endangered species, gold plated buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-32-1.jpg,https://www.bonhams.com/auction/32503/lot/238/baume-and-mercier-ref35105-a-yellow-gold-wristwatch-circa-1990/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+5102bdd2-d51d-42e6-8390-29762be3aaac,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 239,AUD,3000,4000,20910,17000,1997.57,2663.43,13923.07,11319.57,BULGARI,N/A,N/A,"BULGARI | DIAGONO, REF.CH 35 G, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"18k yellow gold, leather",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"yellow gold, chronograph wristwatch, leather strap, white dial, date display",1,N/A,original,"BULGARI | DIAGONO, REF.CH 35 G, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000
+Case No: F-006/B
+Calibre: Quartz, signed
+Dial: White, signed
+Case: 36mm, 18k yellow gold, snap-on case back, signed
+Strap: Maker's leather, 18k yellow gold folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-60-1.jpg,https://www.bonhams.com/auction/32503/lot/239/bulgari-diagono-refch-35-g-a-yellow-gold-chronograph-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+e654a331-6fa0-48a9-a54d-09d72108ff0c,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 239,AUD,3000,4000,20910,17000,1997.57,2663.43,13923.07,11319.57,BULGARI,N/A,N/A,"BULGARI | DIAGONO, REF.CH 35 G, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"18k yellow gold, leather",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"yellow gold watch, chronograph, leather strap, white dial, round case, date function, Bulgari, vintage wristwatch, timepiece, luxury accessory",1,N/A,original,"BULGARI | DIAGONO, REF.CH 35 G, A YELLOW GOLD CHRONOGRAPH WRISTWATCH WITH DATE, CIRCA 2000
+Case No: F-006/B
+Calibre: Quartz, signed
+Dial: White, signed
+Case: 36mm, 18k yellow gold, snap-on case back, signed
+Strap: Maker's leather, 18k yellow gold folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-60-1.jpg,https://www.bonhams.com/auction/32503/lot/239/bulgari-diagono-refch-35-g-a-yellow-gold-chronograph-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+96039f07-dc10-4aa9-9e0e-dcfb43abbf3a,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 240,AUD,8000,12000,15990,13000,5326.85,7990.28,10647.05,8656.14,N/A,N/A,N/A,"BREITLING | CHRONOMAT UTC, REF.K13048",decorative arts,"18k yellow gold, leather",N/A,N/A,N/A,N/A,yes,yes,yes,1995,1995,N/A,"watch, chronograph, yellow gold, blue dial, UTC indicator, date display, leather strap, presentation box",1,N/A,original,"BREITLING | CHRONOMAT UTC, REF.K13048, A YELLOW GOLD DUAL DISPLAY CHRONOGRAPH WRISTWATCH WITH UTC-HOUR INDICATOR AND DATE, CIRCA 1995
+Case No: 1 083
+Calibre: 13, automatic, signed
+Dial: Sunburst blue, signed 
+Case: 39mm, 18k yellow gold, screw down case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-30-1.jpg,https://www.bonhams.com/auction/32503/lot/240/breitling-chronomat-utc-refk13048-a-yellow-gold-dual-display-chronograph-wristwatch-with-utc-hour-indicator-and-date-circa-1995/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+85fbcc9b-9ff8-466d-839b-361381fb3820,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 240,AUD,8000,12000,15990,13000,5326.85,7990.28,10647.05,8656.14,N/A,N/A,N/A,"BREITLING | CHRONOMAT UTC, REF.K13048",decorative arts,"18k yellow gold, leather",N/A,N/A,N/A,N/A,yes,yes,yes,1995,1995,N/A,"watch, chronograph, blue dial, yellow gold, dual display, UTC hour indicator, leather strap, presentation box",1,N/A,original,"BREITLING | CHRONOMAT UTC, REF.K13048, A YELLOW GOLD DUAL DISPLAY CHRONOGRAPH WRISTWATCH WITH UTC-HOUR INDICATOR AND DATE, CIRCA 1995
+Case No: 1 083
+Calibre: 13, automatic, signed
+Dial: Sunburst blue, signed 
+Case: 39mm, 18k yellow gold, screw down case back, signed 
+Strap: Maker's endangered species, 18k yellow gold buckle, signed
+Accompaniments: Maker's presentation box",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-30-1.jpg,https://www.bonhams.com/auction/32503/lot/240/breitling-chronomat-utc-refk13048-a-yellow-gold-dual-display-chronograph-wristwatch-with-utc-hour-indicator-and-date-circa-1995/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6448.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+f580d1b1-66e7-47bf-9af0-cbef40d07ce4,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 241,AUD,40000,60000,83640,68000,26634.27,39951.41,55692.27,45278.27,N/A,N/A,N/A,"ROLEX | GMT-MASTER II, REF.116718LN, A RARE YELLOW GOLD DUAL TIME BRACELET WATCH WITH DATE AND CERAMIC BEZEL, CIRCA 2008",decorative arts,"18k yellow gold, ceramic",N/A,N/A,N/A,N/A,yes,yes,yes,2008,2008,N/A,"watch, GMT-Master II, yellow gold, ceramic bezel, green dial, dual time",1,N/A,original,"ROLEX | GMT-MASTER II, REF.116718LN, A RARE YELLOW GOLD DUAL TIME BRACELET WATCH WITH DATE AND CERAMIC BEZEL, CIRCA 2008
+Case No: M380565
+Calibre: 3186, automatic, signed
+Dial: Green, signed 
+Case: 40mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 205mm, signed
+Accompaniments: Maker's presentation box, warranty card, instruction manual and receipt, 2 swing tags and bezel guard
+
+Total watch weight approximately 217 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-43-4.jpg,https://www.bonhams.com/auction/32503/lot/241/rolex-gmt-master-ii-ref116718ln-a-rare-yellow-gold-dual-time-bracelet-watch-with-date-and-ceramic-bezel-circa-2008/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,35788.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,35000.0,29166.666666666668
+97b1b08e-6d2c-4b75-a1f9-d081032f82d1,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 241,AUD,40000,60000,83640,68000,26634.27,39951.41,55692.27,45278.27,N/A,N/A,N/A,"ROLEX | GMT-MASTER II, REF.116718LN, A RARE YELLOW GOLD DUAL TIME BRACELET WATCH WITH DATE AND CERAMIC BEZEL, CIRCA 2008",decorative arts,"18k yellow gold, ceramic",N/A,N/A,N/A,N/A,yes,yes,yes,2008,2008,N/A,"watch, Rolex, GMT-Master II, yellow gold, green dial, ceramic bezel, bracelet, automatic movement, dual time",1,N/A,original,"ROLEX | GMT-MASTER II, REF.116718LN, A RARE YELLOW GOLD DUAL TIME BRACELET WATCH WITH DATE AND CERAMIC BEZEL, CIRCA 2008
+Case No: M380565
+Calibre: 3186, automatic, signed
+Dial: Green, signed 
+Case: 40mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 205mm, signed
+Accompaniments: Maker's presentation box, warranty card, instruction manual and receipt, 2 swing tags and bezel guard
+
+Total watch weight approximately 217 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-43-4.jpg,https://www.bonhams.com/auction/32503/lot/241/rolex-gmt-master-ii-ref116718ln-a-rare-yellow-gold-dual-time-bracelet-watch-with-date-and-ceramic-bezel-circa-2008/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,35788.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,35000.0,29166.666666666668
+53418f32-a7b0-4167-8d89-563c8aeb99ad,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 242,AUD,16000,24000,34440,28000,10653.71,15980.56,22932.11,18643.99,N/A,N/A,N/A,"ROLEX | DAY-DATE, REF.1803",decorative arts,"18k yellow gold, diamond-set",N/A,N/A,N/A,mm,yes,yes,yes,1974,1974,N/A,"watch, yellow gold, diamond-set indexes, champagne dial, automatic movement, folding clasp, 36mm case, vintage, timepiece, luxury",1,N/A,original,"ROLEX | DAY-DATE, REF.1803, A YELLOW GOLD BRACELET WATCH WITH DAY, DATE AND DIAMOND-SET INDEXES, CIRCA 1974
+Case No: 3661437
+Calibre: 1556, automatic, signed
+Dial: Sunburst champagne and diamond-set, signed 
+Case: 36mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 196mm, signed
+Accompaniments: None
+
+Total watch weight approximately 123 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-42-4.jpg,https://www.bonhams.com/auction/32503/lot/242/rolex-day-date-ref1803-a-yellow-gold-bracelet-watch-with-day-date-and-diamond-set-indexes-circa-1974/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13999.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13800.0,11500.0
+08aaf337-07f5-4234-8ba2-33532b39a5fb,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 242,AUD,16000,24000,34440,28000,10653.71,15980.56,22932.11,18643.99,N/A,N/A,N/A,"ROLEX | DAY-DATE, REF.1803",decorative arts,"18k yellow gold, diamond-set",N/A,N/A,N/A,mm,yes,yes,yes,1974,1974,N/A,"watch, yellow gold, bracelet, diamond-set, day, date, champagne dial, automatic, Rolex, vintage",1,N/A,original,"ROLEX | DAY-DATE, REF.1803, A YELLOW GOLD BRACELET WATCH WITH DAY, DATE AND DIAMOND-SET INDEXES, CIRCA 1974
+Case No: 3661437
+Calibre: 1556, automatic, signed
+Dial: Sunburst champagne and diamond-set, signed 
+Case: 36mm, 18k yellow gold, screw down case back, signed 
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 196mm, signed
+Accompaniments: None
+
+Total watch weight approximately 123 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-42-4.jpg,https://www.bonhams.com/auction/32503/lot/242/rolex-day-date-ref1803-a-yellow-gold-bracelet-watch-with-day-date-and-diamond-set-indexes-circa-1974/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13999.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,14500.0,12083.333333333334
+c550ead9-3a68-4991-af53-bd8fc6b2323e,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 243,AUD,16000,24000,28290,23000,10653.71,15980.56,18837.09,15314.71,N/A,N/A,N/A,"ROLEX | COSMOGRAPH DAYTONA - ZENITH, REF.16523",decorative arts,"stainless steel, yellow gold",N/A,N/A,N/A,N/A,yes,yes,yes,1993,1993,N/A,"wristwatch, stainless steel, yellow gold, chronograph, black dial",1,N/A,original,"ROLEX | COSMOGRAPH DAYTONA - ZENITH, REF.16523, A STAINLESS STEEL AND YELLOW GOLD CHRONOGRAPH BRACELET WATCH, CIRCA 1993
+Case No: X975047 
+Calibre: 4030, automatic, signed
+Dial: Black, signed 
+Case: 40mm, stainless steel and yellow gold, screw down case back, signed 
+Bracelet: Maker's stainless steel and yellow gold, folding clasp, approximately 207mm, signed
+Accompaniments: Maker's presentation box, certificate, instruction manual and cleaning cloth",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-41-2.jpg,https://www.bonhams.com/auction/32503/lot/243/rolex-cosmograph-daytona-zenith-ref16523-a-stainless-steel-and-yellow-gold-chronograph-bracelet-watch-circa-1993/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13999.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,14500.0,12083.333333333334
+9e104685-5414-4d3d-8b02-8e65fbbe147f,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 243,AUD,16000,24000,28290,23000,10653.71,15980.56,18837.09,15314.71,N/A,N/A,N/A,"ROLEX | COSMOGRAPH DAYTONA - ZENITH, REF.16523",decorative arts,"stainless steel, yellow gold",N/A,N/A,N/A,N/A,yes,yes,yes,1993,1993,N/A,"watch, chronograph, stainless steel, yellow gold, black dial, bracelet, timepiece, luxury, accessories, automatic",1,N/A,original,"ROLEX | COSMOGRAPH DAYTONA - ZENITH, REF.16523, A STAINLESS STEEL AND YELLOW GOLD CHRONOGRAPH BRACELET WATCH, CIRCA 1993
+Case No: X975047 
+Calibre: 4030, automatic, signed
+Dial: Black, signed 
+Case: 40mm, stainless steel and yellow gold, screw down case back, signed 
+Bracelet: Maker's stainless steel and yellow gold, folding clasp, approximately 207mm, signed
+Accompaniments: Maker's presentation box, certificate, instruction manual and cleaning cloth",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-41-2.jpg,https://www.bonhams.com/auction/32503/lot/243/rolex-cosmograph-daytona-zenith-ref16523-a-stainless-steel-and-yellow-gold-chronograph-bracelet-watch-circa-1993/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,13999.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,14500.0,12083.333333333334
+73f3faaa-b9a6-4012-90bb-ac8cdc4f300a,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 244,AUD,40000,60000,43050,35000,26634.27,39951.41,28665.14,23304.99,N/A,N/A,N/A,"OMEGA | SPEEDMASTER PROFESSIONAL APOLLO XI 1969, REF.BA145.022, A RARE LIMITED EDITION YELLOW GOLD CHRONOGRAPH BRACELET WATCH, MADE TO COMMEMORATE THE 'APOLLO XI' MOON LANDING, CIRCA 1970",decorative arts,"18k yellow gold, onyx",N/A,N/A,N/A,mm,yes,yes,yes,1970,1970,"Numbers 1 and 2 were intended for Nixon and Vice President Agnew (returned per ethics rules and now in the Omega Museum). Subsequent pieces went to astronauts, Swiss dignitaries, and a small public allocation. A handful later reached crews from Apollo 14 and 17. Examples with direct astronaut provenance, like Jack Swigert's (Apollo 13), have achieved legendary status at auction.","watch, chronograph, gold, bracelet, tachymetre, Apollo XI, Speedmaster, limited edition, manual winding, luxury",1,N/A,original,"OMEGA | SPEEDMASTER PROFESSIONAL APOLLO XI 1969, REF.BA145.022, A RARE LIMITED EDITION YELLOW GOLD CHRONOGRAPH BRACELET WATCH, MADE TO COMMEMORATE THE 'APOLLO XI' MOON LANDING, CIRCA 1970
+Case No: 632, Limited to 1014
+Calibre: 861, manual winding, signed
+Dial: Gold, signed
+Case: 42mm, 18k yellow gold, screw down case back, signed
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 204mm, signed
+Accompaniments: None
+
+Total watch weight approximately 162 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-36-1.jpg,https://www.bonhams.com/auction/32503/lot/244/omega-speedmaster-professional-apollo-xi-1969-refba145022-a-rare-limited-edition-yellow-gold-chronograph-bracelet-watch-made-to-commemorate-the-apollo-xi-moon-landing-circa-1970/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,35788.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,37500.0,31250.0
+f7822bc5-9365-4fd3-9549-6516034e2f88,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 244,AUD,40000,60000,43050,35000,26634.27,39951.41,28665.14,23304.99,N/A,N/A,N/A,"OMEGA | SPEEDMASTER PROFESSIONAL APOLLO XI 1969, REF.BA145.022, A RARE LIMITED EDITION YELLOW GOLD CHRONOGRAPH BRACELET WATCH, MADE TO COMMEMORATE THE 'APOLLO XI' MOON LANDING, CIRCA 1970",decorative arts,"18k yellow gold, onyx",N/A,N/A,N/A,mm,yes,yes,yes,1970,1970,"Numbers 1 and 2 were intended for Nixon and Vice President Agnew (returned per ethics rules and now in the Omega Museum). Subsequent pieces went to astronauts, Swiss dignitaries, and a small public allocation. A handful later reached crews from Apollo 14 and 17. Examples with direct astronaut provenance, like Jack Swigert's (Apollo 13), have achieved legendary status at auction.","watch, chronograph, yellow gold, Apollo XI, moon landing, tachymetre, bracelet, vintage, 42mm, manual winding",1,N/A,original,"OMEGA | SPEEDMASTER PROFESSIONAL APOLLO XI 1969, REF.BA145.022, A RARE LIMITED EDITION YELLOW GOLD CHRONOGRAPH BRACELET WATCH, MADE TO COMMEMORATE THE 'APOLLO XI' MOON LANDING, CIRCA 1970
+Case No: 632, Limited to 1014
+Calibre: 861, manual winding, signed
+Dial: Gold, signed
+Case: 42mm, 18k yellow gold, screw down case back, signed
+Bracelet: Maker's 18k yellow gold, folding clasp, approximately 204mm, signed
+Accompaniments: None
+
+Total watch weight approximately 162 grams.",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-36-1.jpg,https://www.bonhams.com/auction/32503/lot/244/omega-speedmaster-professional-apollo-xi-1969-refba145022-a-rare-limited-edition-yellow-gold-chronograph-bracelet-watch-made-to-commemorate-the-apollo-xi-moon-landing-circa-1970/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,35788.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,37500.0,31250.0
+c792ce77-dbf8-4c13-a0fc-548f9b6e3237,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 245,AUD,3000,4000,3936,3200,1997.57,2663.43,2620.81,2130.74,BVLGARI,N/A,N/A,"DIAGONO, REF.GMT 40 S, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"stainless steel, rubber",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, stainless steel, black dial, rubber strap, dual time, GMT, automatic, red and blue, folding clasp, signed",1,N/A,original,"BVLGARI | DIAGONO, REF.GMT 40 S, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 2000
+Case No: L 02704
+Calibre: Automatic, signed
+Dial: Black, signed 
+Case: 40mm, stainless steel, screw down case back, signed 
+Strap: Maker's rubber, stainless steel double folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-25-1.jpg,https://www.bonhams.com/auction/32503/lot/245/bulgari-diagono-refgmt-40-s-a-stainless-steel-dual-time-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2200.0,1833.3333333333335
+d856f842-cc6d-4784-9c20-71eb3b97f873,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 245,AUD,3000,4000,3936,3200,1997.57,2663.43,2620.81,2130.74,BVLGARI,N/A,N/A,"DIAGONO, REF.GMT 40 S, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 2000",decorative arts,"stainless steel, rubber",N/A,N/A,N/A,mm,yes,yes,yes,2000,2000,N/A,"wristwatch, stainless steel, dual time, black dial, rubber strap, automatic movement, GMT function, date display, red and blue bezel, BVLGARI",1,N/A,original,"BVLGARI | DIAGONO, REF.GMT 40 S, A STAINLESS STEEL DUAL TIME WRISTWATCH WITH DATE, CIRCA 2000
+Case No: L 02704
+Calibre: Automatic, signed
+Dial: Black, signed 
+Case: 40mm, stainless steel, screw down case back, signed 
+Strap: Maker's rubber, stainless steel double folding clasp, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-25-1.jpg,https://www.bonhams.com/auction/32503/lot/245/bulgari-diagono-refgmt-40-s-a-stainless-steel-dual-time-wristwatch-with-date-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2418.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2300.0,1916.6666666666667
+090da97d-2d2d-4432-b8ca-3bc5af0c5e96,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 246,AUD,1600,2200,4674,3800,1065.37,1464.89,3112.21,2530.26,VAN CLEEF & ARPELS,N/A,N/A,"ROMA, REF.534074, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH, CIRCA 2000",decorative arts,"stainless steel, endangered species leather",N/A,N/A,39.5,mm,yes,yes,yes,1901,2000,N/A,"wristwatch, stainless steel, chronograph, black dial, yellow strap, time indicators, Swiss made, luxury brand",1,N/A,original,"VAN CLEEF & ARPELS | ROMA, REF.534074, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH, CIRCA 2000
+Case No: 124111
+Calibre: Automatic, signed
+Dial: Black, signed 
+Case: 39.5mm, stainless steel, screwed case back, signed 
+Strap: Maker's endangered species, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-26-1.jpg,https://www.bonhams.com/auction/32503/lot/246/van-cleef-and-arpels-roma-ref534074-a-stainless-steel-chronograph-wristwatch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1230.0,1025.0
+767aaefd-2597-4c8e-939c-78d61a49c1cc,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 246,AUD,1600,2200,4674,3800,1065.37,1464.89,3112.21,2530.26,VAN CLEEF & ARPELS,N/A,N/A,"ROMA, REF.534074, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH, CIRCA 2000",decorative arts,"stainless steel, endangered species leather",N/A,N/A,39.5,mm,yes,yes,yes,1901,2000,N/A,"wristwatch, chronograph, stainless steel, black dial, yellow strap, automatic movement, time display, tachymetric scale",1,N/A,original,"VAN CLEEF & ARPELS | ROMA, REF.534074, A STAINLESS STEEL CHRONOGRAPH WRISTWATCH, CIRCA 2000
+Case No: 124111
+Calibre: Automatic, signed
+Dial: Black, signed 
+Case: 39.5mm, stainless steel, screwed case back, signed 
+Strap: Maker's endangered species, stainless steel buckle, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-26-1.jpg,https://www.bonhams.com/auction/32503/lot/246/van-cleef-and-arpels-roma-ref534074-a-stainless-steel-chronograph-wristwatch-circa-2000/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1289.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1280.0,1066.6666666666667
+49a775c0-5bd7-4c26-87f6-05787f552713,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 247,AUD,2000,3000,5166,4200,1331.71,1997.57,3439.82,2796.6,N/A,N/A,N/A,"ULYSSE NARDIN | SAN MARCO, REF.133-77-9, A STAINLESS STEEL BRACELET WATCH WITH DATE, CIRCA 1994",decorative arts,stainless steel,N/A,N/A,N/A,mm,yes,yes,yes,1994,1994,N/A,"watch, stainless steel, light blue dial, bracelet, automatic movement, date display, guilloché pattern, folding clasp, chronometer, Ulysse Nardin",1,N/A,original,"ULYSSE NARDIN | SAN MARCO, REF.133-77-9, A STAINLESS STEEL BRACELET WATCH WITH DATE, CIRCA 1994
+Case No: 9820
+Calibre: ETA 2892, automatic, signed
+Dial: Light blue guillochÃ©, signed 
+Case: 37mm, stainless steel, screwed case back, signed 
+Bracelet: Maker's stainless steel, double folding clasp, approximately 196mm, signed
+Accompaniments: Maker's warranty card and 2 COSC certificates",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-5-3.jpg,https://www.bonhams.com/auction/32503/lot/247/ulysse-nardin-san-marco-ref133-77-9-a-stainless-steel-bracelet-watch-with-date-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1750.0,1458.3333333333335
+57350a91-6a3d-4627-851b-9f4831f386ca,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 247,AUD,2000,3000,5166,4200,1331.71,1997.57,3439.82,2796.6,N/A,N/A,N/A,"ULYSSE NARDIN | SAN MARCO, REF.133-77-9, A STAINLESS STEEL BRACELET WATCH WITH DATE, CIRCA 1994",decorative arts,"stainless steel, light blue guilloché",N/A,N/A,N/A,N/A,yes,yes,yes,1994,1994,N/A,"wristwatch, stainless steel, light blue dial, automatic movement, date display, guilloché pattern, bracelet, signed, case back, COSC certificate",1,N/A,original,"ULYSSE NARDIN | SAN MARCO, REF.133-77-9, A STAINLESS STEEL BRACELET WATCH WITH DATE, CIRCA 1994
+Case No: 9820
+Calibre: ETA 2892, automatic, signed
+Dial: Light blue guillochÃ©, signed 
+Case: 37mm, stainless steel, screwed case back, signed 
+Bracelet: Maker's stainless steel, double folding clasp, approximately 196mm, signed
+Accompaniments: Maker's warranty card and 2 COSC certificates",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-5-3.jpg,https://www.bonhams.com/auction/32503/lot/247/ulysse-nardin-san-marco-ref133-77-9-a-stainless-steel-bracelet-watch-with-date-circa-1994/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1638.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+1a05d14d-382c-4837-a0ad-74954301dcca,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 248,AUD,800,1200,3075,2500,532.69,799.03,2047.51,1664.64,BULGARI,N/A,N/A,"BULGARI | ERGON, REF.EG 40 S, A STAINLESS STEEL BRACELET WATCH, CIRCA 2005",decorative arts,stainless steel,N/A,N/A,40.5,mm,yes,yes,yes,2005,2005,N/A,"watch, stainless steel, black dial, automatic, bracelet, maker's signature, case, folding clasp, numerals, date display",1,N/A,original,"BULGARI | ERGON, REF.EG 40 S, A STAINLESS STEEL BRACELET WATCH, CIRCA 2005
+Case No: D 0660
+Calibre: 220 TEER, automatic, signed
+Dial: Black, signed 
+Case: 40.5mm, stainless-steel, snap-on case back, signed 
+Bracelet: Maker's stainless steel, double folding clasp, approximately 195mm, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-37-1.jpg,https://www.bonhams.com/auction/32503/lot/248/bulgari-ergon-refeg-40-s-a-stainless-steel-bracelet-watch-circa-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1083.24,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667
+db9f7e2a-c673-44c0-8420-d83220c40388,Artwork,Bonhams,32503,2026-06-03,Sydney,The John Laws CBE Collection: Timepieces,https://www.bonhams.com/auction/32503/the-john-laws-collection-timepieces-and-motoring/,Lot 248,AUD,800,1200,3075,2500,532.69,799.03,2047.51,1664.64,BULGARI,N/A,N/A,"BULGARI | ERGON, REF.EG 40 S, A STAINLESS STEEL BRACELET WATCH, CIRCA 2005",decorative arts,stainless steel,N/A,N/A,40.5,mm,yes,yes,yes,2005,2005,N/A,"watch, stainless steel, black dial, automatic, bracelet, numerals, date display",1,N/A,original,"BULGARI | ERGON, REF.EG 40 S, A STAINLESS STEEL BRACELET WATCH, CIRCA 2005
+Case No: D 0660
+Calibre: 220 TEER, automatic, signed
+Dial: Black, signed 
+Case: 40.5mm, stainless-steel, snap-on case back, signed 
+Bracelet: Maker's stainless steel, double folding clasp, approximately 195mm, signed
+Accompaniments: None",https://images3.bonhams.com/image?src=Images/live/2026-03/05/25807591-37-1.jpg,https://www.bonhams.com/auction/32503/lot/248/bulgari-ergon-refeg-40-s-a-stainless-steel-bracelet-watch-circa-2005/,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1083.24,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,650.0,541.6666666666667

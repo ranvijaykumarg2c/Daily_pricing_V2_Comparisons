@@ -1,0 +1,2281 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,year_of_creation,provenance,subject_matter,item_count,edition,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+f24bfdfb-c0d2-4617-989b-8b20b1f563e8,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,,USD,7000,9000,None,None,7000,9000,None,None,FRANCISCO ZÚÑIGA,1912,1998,Madre con niño de pie,sculpture,bronze,2.75,4.5,10.5,in,yes,yes,yes,1969,"Sindin Galleries, New York
+Acquired from the above by Max and Cecile Draime, 1984","mother, child, sculpture, bronze, standing figure",None,None,"FRANCISCO ZÚÑIGA (1912-1998)
+Madre con niño de pie
+signed and dated 'ZÚÑIGA 1969' (upper back)
+bronze 
+10
+1
+⁄
+2
+ x 4
+1
+⁄
+2
+ x 2
+3
+⁄
+4
+ in. (26.7 x 11.4 x 7 in.)
+Executed in 1969.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0039A_000(francisco_zuniga_madre_con_nino_de_pie120956).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/francisco-zuniga-1912-1998-39/285274?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,2025-12,gpt-4.1-mini,8200.0,6833.333333333334
+ca7f0c00-2977-4653-8322-b03da2fe3e23,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 1,USD,10000,15000,None,None,10000,15000,None,None,"ANONYMOUS (MEXICAN SCHOOL, EARLY 18TH CENTURY)",<NA>,<NA>,Nuestra Señora del Carmen,painting,oil on canvas,<NA>,23,32.25,in,no,yes,yes,1700,"Private collection, Carlsbad
+Peyton Wright Gallery, Santa Fe
+Anon. sale; Abell Auction Company, Los Angeles, 15 March 2025, lot 111
+Acquired at the above sale by the present owner","Virgin Mary, Child Jesus, crowns, angels, flowers, robes, gold, red, blue, religious art",None,None,"Nuestra Señora del Carmen
+oil on canvas
+unframed: 32 x 23
+1
+⁄
+4
+ in. (81.3 x 59.1 cm.) 
+framed: 42 x 33
+1
+⁄
+8
+ in. (106.7 x 84.1 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0001_000(anonymous_nuestra_senora_del_carmen094027).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-mexican-school-early-18th-century-1/283812?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+f1d54c27-efe5-4dea-9c0a-5b252c549de5,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 2,USD,30000,40000,None,None,30000,40000,None,None,LUIS LAGARTO,1556,1619,Saint Jerome,mixed media,"watercolor, ink and gold leaf on parchment",<NA>,9.75,10.875,in,yes,yes,yes,1556,"Private collection, Uruguay, 
+circa 
+1960
+Acquired from the above by the present owner, 2015","Saint Jerome, lion, building, mountains, landscape, blue sky, decorative border, pink robes, ink, gold leaf",None,None,"Saint Jerome
+signed 'LVIS LAGARTO' (lower left)
+watercolor, ink and gold leaf on parchment
+unframed: 10
+7
+⁄
+8
+ x 9
+3
+⁄
+4
+ in. (27.6 x 24.8 cm.)
+framed: 18
+7
+⁄
+8
+ x 16
+5
+⁄
+8
+ in. (48 x 42.2 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0002_000(luis_lagarto_saint_jerome094152).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/luis-lagarto-1556-1619-2/283813?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,37500.0,31250.0
+7059795f-ff12-49b9-a461-093eb2d1b960,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 3,USD,10000,15000,None,None,10000,15000,None,None,"ANONYMOUS (PERUVIAN, 18TH CENTURY)",<NA>,<NA>,Archangel Rafael,painting,oil on canvas,<NA>,38.25,63.875,in,no,yes,yes,1700,"Private collection, Rio de Janeiro, 
+circa 
+1950s
+Private collection, Miami
+Acquired from the above by the present owner","archangel, wings, fish, staff, red cloak, green dress, flowers, landscape, hill, sky",None,None,"Archangel Rafael
+oil on canvas
+unframed: 63
+7
+⁄
+8
+ x 38
+1
+⁄
+4
+ in. (162.3 x 97.2 cm.)
+framed: 70
+1
+⁄
+4
+ x 44
+7
+⁄
+8
+ in. (178.4 x 114 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0003_000(anonymous_archangel_rafael094318).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-peruvian-18th-century-3/283814?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+ddf285f1-dd3d-444d-906d-1bdfe1f45aff,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 4,USD,12000,18000,None,None,12000,18000,None,None,"ANONYMOUS (SOUTH AMERICAN, 18TH-19TH CENTURY)",<NA>,<NA>,St. Michael Archangel,painting,oil on canvas,<NA>,28.625,41.375,in,no,yes,yes,<NA>,"Private collection, São Paulo, 
+circa 
+1960s
+By descent from the above to the present owner","St. Michael, archangel, battle, clouds, armor, sword, shield, red robe, gold details, heroic figure",None,None,"St. Michael Archangel
+oil on canvas
+unframed: 41
+3
+⁄
+8
+ x 28
+5
+⁄
+8
+ in. (105.1 x 72.7 cm.) 
+framed: 48
+3
+⁄
+4
+ x 36
+1
+⁄
+8
+ in. (123.8 x 91.8 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0004_000(anonymous_st_michael_archangel114619).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-south-american-18th-19th-century-4/283815?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,16500.0,13750.0
+1cf4087d-2c3b-4273-9295-1a5ba4d0a039,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 5,USD,7000,9000,None,None,7000,9000,None,None,"ANONYMOUS (MEXICAN SCHOOL, LATE 18TH CENTURY)",<NA>,<NA>,Virgin and Child,mixed media,oil on parchment and silk embroidery laid down on panel,<NA>,12,16,in,no,yes,yes,1780,"Eman L. Beck and Mary Payne Beck collection, Mexico City, 
+circa 
+1915
+W. K. Newcomb collection, Ontario, by descent from the above, 
+circa 
+1960","Virgin, Child, silk embroidery, crown, flowers, curtain, shell, gown, panel, blue",None,None,"Virgin and Child
+oil on parchment and silk embroidery laid down on panel
+unframed: 16 x 12 in. (40.6 x 30.4 cm.)
+framed: 22 x 18
+3
+⁄
+4
+ in. (56 x 47 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0005_001(anonymous_virgin_and_child033721).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-mexican-school-late-18th-century-5/283816?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,8200.0,6833.333333333334
+73e3a448-1b58-442d-9a74-5bac574e2bd0,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 6,USD,7000,9000,None,None,7000,9000,None,None,"ANONYMOUS (MEXICAN SCHOOL, 18TH CENTURY)",<NA>,<NA>,Saint Rosalía,mixed media,oil on parchment and silk embroidery laid down on panel,<NA>,10.125,13.5,in,no,yes,yes,1700,"Eman L. Beck and Mary Payne Beck collection, Mexico City, 
+circa 
+1915
+W. K. Newcomb collection, Ontario, by descent from the above, 
+circa 
+1960","Saint Rosalía, embroidery, flowers, skeletal figure, inscription, landscape, garment, musical instrument, peasants, background",None,None,"Saint Rosalía
+oil on parchment and silk embroidery laid down on panel
+13
+1
+⁄
+2
+ x 10
+1
+⁄
+8
+ in. (34.3 x 25.7 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0006_000(anonymous_saint_rosalia094743).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-mexican-school-18th-century-6/283818?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+8aa3114c-ab5d-4dbd-b21b-030cfbe0f3cb,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 7,USD,5000,7000,None,None,5000,7000,None,None,"ANONYMOUS (MEXICAN, 18TH CENTURY)",<NA>,<NA>,San Juan Nepomuceno,mixed media,oil on parchment and silk embroidery,<NA>,5.875,7.625,in,no,yes,yes,1700,"Private collection, United Kingdom
+Acquired from the above by the present owner","Saint, embroidery, oil, parchment, blue background, crown, staff, hands, decoration, frame",None,None,"San Juan Nepomuceno
+oil on parchment and silk embroidery laid down on panel
+unframed: 7
+5
+⁄
+8
+ x 5
+7
+⁄
+8
+ in. (19.4 x 14.9 cm.) 
+framed: 10
+1
+⁄
+2
+ x 8
+5
+⁄
+8
+ in. (26.7 x 21.9 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0007_000(anonymous_san_juan_nepomuceno094834).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-mexican-18th-century-7/283817?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,6500.0,5416.666666666667
+c165b569-ee77-482e-970a-05fd3e92999d,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 8,USD,20000,30000,None,None,20000,30000,None,None,"ANONYMOUS (MEXICAN SCHOOL, 18TH CENTURY)",<NA>,<NA>,Pastoral folly (Biombo),painting,oil on linen mounted on six wooden panels,1,99,92,in,no,yes,yes,1700,"Eman L. Beck and Mary Payne Beck collection, Mexico City, 
+circa 
+1915
+W. K. Newcomb collection, Ontario, by descent from the above, 
+circa 
+1960","figures, garden, water fountain, swans, clothing, musical instruments, trees, flowers, dogs, red drapery",None,None,"Pastoral folly (
+Biombo
+)
+oil on linen mounted on six wooden panels
+installation dimensions are variable
+overall: 92 x 99 x 1 in. (233.7 x 251.5 x 2.5 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0008_000(anonymous_pastoral_folly094948).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-mexican-school-18th-century-8/283819?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+6ba0456e-57ab-40d0-9bba-c2e00fb1b054,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 9,USD,8000,12000,None,None,8000,12000,None,None,"ANONYMOUS (PERUVIAN, 18TH CENTURY)",<NA>,<NA>,Coronation of the Virgin,painting,oil on canvas,<NA>,31.625,42.625,in,no,yes,yes,1700,"Private collection, Florida
+Acquired from the above by the present owner","Virgin Mary, Jesus Christ, saints, angels, crown, clouds, robes, orb, prayers, religious imagery",None,None,"Coronation of the Virgin
+oil on canvas
+42
+5
+⁄
+8
+ x 31
+5
+⁄
+8
+ in. (109.2 x 80.7 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0009_000(anonymous_coronation_of_the_virgin095013).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-peruvian-18th-century-9/283821?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,10500.0,8750.0
+1d6b2098-c241-48c7-bb01-ac1f9eefc8a1,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 10,USD,15000,20000,None,None,15000,20000,None,None,"ANONYMOUS (PERUVIAN, 18TH CENTURY)",<NA>,<NA>,The Holy Family with Saint John the Baptist,painting,oil on copper,<NA>,4.125,5.125,in,no,yes,yes,1700,"Anon. sale; Sotheby's, New York, 7 November 1980, lot 60
+Private collection, New York
+Robert Simon Fine Art, New York
+Acquired from the above by the present owner, 2007","Holy Family, Saint John the Baptist, religious figures, Madonna, child, angel, radiant halo, drapery, landscape, oil on copper",None,None,"The Holy Family with Saint John the Baptist
+oil on copper
+5
+1
+⁄
+8
+ x 4
+1
+⁄
+8
+ in. (13 x 10.5 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0010_000(anonymous_the_holy_family_with_saint_john_the_baptist095101).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-peruvian-18th-century-10/283820?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+b5ed87ab-b443-4d1e-9c5c-d3b888810724,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 11,USD,6000,8000,None,None,6000,8000,None,None,"ANONYMOUS (PERUVIAN, 18TH CENTURY)",<NA>,<NA>,Santiago Matamoros,painting,oil on canvas laid down on panel,<NA>,17.25,18.625,in,no,yes,yes,1700,"Private collection, Miami, 
+circa 
+1970s
+Acquired from the above by the present owner","Santiago Matamoros, horse, sword, flag, clouds, landscape, men, armor, helmet, religious themes",None,None,"Santiago Matamoros
+oil on canvas laid down on panel
+unframed: 18
+5
+⁄
+8
+ x 17
+1
+⁄
+4
+ in. (47.3 x 48.3 cm.) 
+framed: 26
+1
+⁄
+2
+ x 25
+1
+⁄
+2
+ in. (67.3 x 64.8 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0011_000(anonymous_santiago_matamoros095151).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-peruvian-18th-century-11/283823?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+b487d354-0e4e-476d-bb63-52c0eede0abe,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 12,USD,20000,30000,None,None,20000,30000,None,None,ATTRIBUTED TO PEDRO JOSÉ DÍAZ (ACTIVE 1770-1810),<NA>,<NA>,Virgen con el niño,painting,oil on canvas,<NA>,30,35.125,in,no,yes,yes,<NA>,"Private collection, Asunción, 
+circa 
+1940s
+Acquired from the above by the present owner","Virgin Mary, child, angels, oil painting, religious theme, blue robe, gold frame, mother and child, celestial elements, human figures",None,None,"ATTRIBUTED TO PEDRO JOSÉ DÍAZ (ACTIVE 1770-1810)
+Virgen con el niño
+oil on canvas
+unframed: 35
+1
+⁄
+8
+ x 30 in. (89.2 x 76.2 cm.)
+framed: 43
+1
+⁄
+8
+ x 38 in. (109.5 x 96.5 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0012_000(attributed_to_pedro_jose_diaz_virgen_con_el_nino095334).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/attributed-pedro-jose-diaz-active-1770-1810-12/283825?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+14b096e8-bc60-4d5d-92d5-77d88522c230,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 13,USD,8000,12000,None,None,8000,12000,None,None,MIGUEL CABRERA,1695,1768,San Camilo de Lelis,painting,oil on canvas,<NA>,21.375,26.625,in,yes,yes,yes,<NA>,"Private collection, Madrid, 
+circa 
+1940
+Acquired from the above by the present owner","man, black robe, red crosses, crucifix, table, book, prayer, religious theme, indoor setting",None,None,"San Camilo de Lelis
+signed and inscribed 'Miguel Cabrera pinxit' (lower right)
+oil on canvas
+unframed: 26
+5
+⁄
+8
+ x 21
+3
+⁄
+8
+ in. (68 x 54.6 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0013_000(miguel_cabrera_san_camilo_de_lelis095513).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/miguel-cabrera-1695-1768-13/283822?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,10500.0,8750.0
+886174cc-1257-443d-b4c8-fc071c5a8eae,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 14,USD,7000,10000,None,None,7000,10000,None,None,"ANONYMOUS (COLOMBIAN, 18TH CENTURY)",<NA>,<NA>,Our Lady of the Rosary of Chiquinquirá,painting,oil on canvas,<NA>,15.625,13.25,in,no,yes,yes,1700,"Private collection, Montevideo, 
+circa 
+1970s
+Private collection, Miami
+Acquired from the above by the present owner","Virgin Mary, child, angel, saint, scroll, crown, red robe, gold, blue robe, landscape",None,None,"Our Lady of the Rosary of Chiquinquirá
+oil on canvas
+unframed: 13
+1
+⁄
+4
+ x 15
+5
+⁄
+8
+ in. (33.7 x 39.7 cm.)
+framed: 20
+7
+⁄
+8
+ x 23
+1
+⁄
+4
+ in. (53 x 59.1 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0014_000(anonymous_virgin_and_child043723).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-colombian-18th-century-14/283824?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+add2e926-e270-4743-b5c8-2944c6ae9904,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 15,USD,10000,15000,None,None,10000,15000,None,None,"ANONYMOUS (PERUVIAN, 18TH CENTURY)",<NA>,<NA>,Archangel Gabriel,painting,oil on canvas,<NA>,38.5,63.5,in,no,yes,yes,1700,"Private collection, Rio de Janeiro, 
+circa 
+1950s
+Private collection, Miami
+Acquired from the above by the present owner","Archangel Gabriel, angel, red cloak, flowers, mountain landscape, ornate dress, clouds, staff, decorative elements, sky",None,None,"Archangel Gabriel
+oil on canvas
+unframed: 63 x 38
+1
+⁄
+2
+ in. (160 x 97.8 cm.)
+framed: 69
+7
+⁄
+8
+ x 44
+1
+⁄
+2
+ in. (177.5 x 113 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0015_000(anonymous_archangel_gabriel095746).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-peruvian-18th-century-15/283826?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+6c2924e3-bfec-4f7d-ada1-4435a7be9cfd,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 16,USD,30000,40000,None,None,30000,40000,None,None,"ANONYMOUS (PERUVIAN, 18TH CENTURY)",<NA>,<NA>,"Adoración de la Eucaristía con la Santísima Trinidad, santos y donantes",painting,oil on canvas,<NA>,48.25,58.75,in,no,yes,yes,1700,"Private collection, Asunción, 
+circa 
+1940s
+Acquired from the above by the present owner","Eucharist, Holy Trinity, saints, altar, angels, donors, clothing, religious figures, architecture, clouds",None,None,"Adoración de la Eucaristía con la Santísima Trinidad, santos y donantes
+oil on canvas
+unframed: 58
+3
+⁄
+4
+ x 48
+1
+⁄
+4
+ in. (149.2 x 122.6 cm.)
+framed: 63
+1
+⁄
+8
+ x 52
+3
+⁄
+4
+ in. (160.3 x 134 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0016_000(anonymous_adoracion_de_la_eucaristia_con_la_santisima_trinidad_santos095920).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-peruvian-18th-century-16/283827?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,35500.0,29583.333333333336
+ea46461e-55ae-49d2-8640-07208ecf66e0,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 17,USD,15000,20000,None,None,15000,20000,None,None,"ANONYMOUS (PERUVIAN, 18TH CENTURY)",<NA>,<NA>,Annunciation of the Virgin,painting,oil on canvas,<NA>,59.5,76.75,in,no,yes,yes,1700,"Private collection, São Paulo, 
+circa 
+1960s
+By descent from the above to the present owner","Virgin Mary, angel, lilies, book, clouds, God, dove, rays of light, green dress, blue dress",None,None,"Annunciation of the Virgin
+oil on canvas
+unframed: 76
+3
+⁄
+4
+ x 59
+1
+⁄
+2
+ in. (194.9 x 151.1 cm.) 
+framed: 80 x 62
+1
+⁄
+2
+ in. (203.2 x 158.8 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0017_000(anonymous_annunciation_of_the_virgin114548).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-peruvian-18th-century-17/283828?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+5e8e2dd3-97b5-4f3a-b8eb-5183c74cc4bc,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 18,USD,7000,9000,None,None,7000,9000,None,None,JOSÉ RODRÍGUEZ DE CARNERO,1650,1725,La Sagrada Familia,painting,oil on glass,<NA>,13.25,13.25,in,yes,yes,yes,1650,"Private collection, Mexico City
+Anon. sale; Jackson's International Auctioneers, Cedar Falls, 28 August 2018, lot 309D
+Acquired at the above sale by the present owner","Madonna, child, landscape, tree, figures, book, red dress, blue garment, mountains, animal",None,None,"JOSÉ RODRÍGUEZ DE CARNERO (1650-1725)
+La Sagrada Familia
+signed 'CARNERO F.' (lower left)
+oil on glass
+unframed: 13
+1
+⁄
+4
+ x 13
+1
+⁄
+4
+ in. (33.7 x 33.7 cm.) 
+framed: 18 x 18 in. (45.7 x 45.7 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0018_000(jose_rodriguez_de_carnero_la_sagrada_familia100304).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jose-rodriguez-de-carnero-1650-1725-18/283829?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+9e651fc4-c58f-430d-bead-bb12f5cd870b,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 19,USD,15000,20000,None,None,15000,20000,None,None,"ATTRIBUTED TO LEONARDO FLORES (PERUVIAN, 1650-1710)",1650,1710,La ascensión,painting,oil on canvas,<NA>,58.75,93.875,in,no,yes,yes,1650,"Private collection, La Paz
+Private collection, Oslo
+Private collection, Rio de Janeiro
+Anon. sale; Christie's, New York, 19 November 2003, lot 76
+Acquired at the above sale by the present owner","Christ, angels, clouds, figures, divine light, religious scene, robes, gesture, heavenly, resurrection",None,None,"La ascensión
+oil on canvas
+unframed: 93
+7
+⁄
+8
+ x 58
+3
+⁄
+4
+ in. (238.5 x 149.2 cm.) 
+framed: 96
+1
+⁄
+4
+ x 61
+1
+⁄
+4
+ in. (244.5 x 155.6 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0019_000(attributed_to_leonardo_flores_la_ascension114558).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/attributed-leonardo-flores-peruvian-1650-1710-19/283831?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+d0a10a82-a6f2-438c-83fa-aa6d89a49216,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 20,USD,20000,25000,None,None,20000,25000,None,None,"ANONYMOUS (ALTO PERU, 18TH CENTURY)",<NA>,<NA>,"Sacred Heart of Mary, with Scenes from the Life of the Virgin",painting,oil on canvas,<NA>,38.5,57.5,in,no,yes,yes,1700,"Private collection, São Paulo, 
+circa 
+1960s
+By descent from the above to the present owner","Virgin Mary, Sacred Heart, religious scenes, figures, clouds, plants, saints, a child, circular arrangement, gestures",None,None,"Sacred Heart of Mary, with Scenes from the Life of the Virgin
+oil on canvas
+unframed: 57 x 38
+1
+⁄
+2
+ in. (144.8 x 97.8 cm.)
+framed: 59
+1
+⁄
+2
+ x 41 in. (151.3 x 104.1 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0020_000(anonymous_sacred_heart_of_mary_with_scenes_from_the_life_of_the_virgin114608).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-alto-peru-18th-century-20/283830?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,23000.0,19166.666666666668
+50f34af7-adb9-4ab2-ac19-8330434359c0,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 21,USD,10000,15000,None,None,10000,15000,None,None,"ANONYMOUS (MEXICAN, 19TH CENTURY)",<NA>,<NA>,La Sagrada Familia,painting,oil on canvas,<NA>,24.5,33.625,in,no,yes,yes,19th century,"Private collection, Carlsbad
+Peyton Wright Gallery, Santa Fe
+Anon. sale; Abell Auction Company, Los Angeles, 15 March 2025, lot 127
+Acquired at the above sale by the present owner","Mary, Joseph, baby Jesus, crowns, lilies, drapery, hands, expressions, hay, halo",None,None,"La Sagrada Familia
+oil on canvas
+unframed: 33
+5
+⁄
+8
+ x 24
+1
+⁄
+2
+ in. (85.4 x 62.2 cm.) 
+framed: 42 x 32
+1
+⁄
+2
+ in. (106.7 x 82.6 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0021_000(anonymous_la_sagrada_familia100841).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-mexican-19th-century-21/283832?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+2305f733-ec95-4c4c-8a4b-eaa859ed61e3,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 22,USD,8000,12000,None,None,8000,12000,None,None,"ANONYMOUS (SOUTH AMERICAN, 18th CENTURY)",<NA>,<NA>,El descanso en la huída a Egipto,painting,oil on copper,<NA>,13.5,16.875,in,no,yes,yes,<NA>,"Private collection, Carlsbad
+Peyton Wright Gallery, Santa Fe
+Anon. sale; Abell Auction Company, Los Angeles, 15 March 2025, lot 133
+Acquired at the above sale by the present owner","Virgin Mary, baby Jesus, Joseph, figures, palm trees, landscape, drapery, animals, garments, group",None,None,"El descanso en la huída 
+a Egipto
+oil on copper
+unframed: 16
+7
+⁄
+8
+ x 13
+1
+⁄
+2
+ in. (42.9 x 34.3 cm.)
+framed: 22
+1
+⁄
+2
+ x 19
+1
+⁄
+4
+ in. (57.2 x 48.9 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0022_000(anonymous_el_descanso_en_la_huida_a_egipto101015).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/anonymous-south-american-18th-century-22/283834?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,10500.0,8750.0
+294d24d2-f240-4d7d-8e62-183e194e7138,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 23,USD,10000,15000,None,None,10000,15000,None,None,ERNESTO ICAZA,1866,1935,Charros en el campo,painting,oil on canvas,<NA>,31,24.75,in,no,yes,yes,1935,<NA>,"charros,horses,field,cowboys,ropes,landscape,cacti,trees,rocks,clouds",None,None,"Charros en el campo
+oil on canvas
+24
+3
+⁄
+4
+ x 31 in. (62.9 x 78.7 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0023_000(ernesto_icaza_charros_en_el_campo101154).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ernesto-icaza-1866-1935-23/283836?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+2eccfc61-a7a3-479b-b915-3fd272107711,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 24,USD,15000,18000,None,None,15000,18000,None,None,ERNESTO ICAZA,1866,1935,Enlazando al toro,painting,oil on canvas,<NA>,37.125,32.75,in,yes,yes,yes,1925,<NA>,"riders, horses, bull, lassos, landscape, wall, woman, cows, grass, tree",None,None,"Enlazando al toro
+signed and dated 'Icaza 1925' (lower left)
+oil on canvas
+32
+3
+⁄
+4
+ x 37
+1
+⁄
+8
+ in. (83.2 x 94.3 cm.)
+Painted in 1925.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0024_000(ernesto_icaza_enlazando_al_toro101335).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ernesto-icaza-1866-1935-24/283835?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,16500.0,13750.0
+8af68f5a-f2a4-4b85-b470-d77738a98cf8,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 25,USD,10000,15000,None,None,10000,15000,None,None,FRANCISCO ZÚÑIGA,1912,1998,Anunciación,sculpture,bronze,1.75,21.625,12.625,in,yes,yes,yes,1967,"Pasquale Iannetti Art Galleries, New York
+Acquired from the above by Max and Cecile Draime, 1993","bronz, figures, relief, religious scene, doorway",None,None,"FRANCISCO ZÚÑIGA (1912-1998)
+Anunciación
+incised with artist's signature, number and date 'ZÚÑIGA III/III 1967' (upper right)
+bronze
+12
+5
+⁄
+8
+ x 21
+5
+⁄
+8
+ x 1
+3
+⁄
+4
+ in. (32.1 x 54.9 x 4.4 cm.)
+Executed in 1967. This work is number three from an edition of three.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0025_000(francisco_zuniga_anunciacion101512).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/francisco-zuniga-1912-1998-25/283837?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+4f67d536-4780-46f7-9e5a-711a689151ef,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 26,USD,10000,15000,None,None,10000,15000,None,None,DIEGO RIVERA,1886,1957,Landscape with Cactus,drawing,charcoal on paper,<NA>,12.375,9.25,in,yes,yes,yes,1928,"Weyhe Gallery, New York, 1928
+Mary-Anne Martin | Fine Art, New York
+Anon. sale; Sotheby's, New York, 2 May 1990, lot 108
+Acquired at the above sale by Max and Cecile Draime","landscape,cactus,mountains,sky,desert,flora",None,None,"Landscape with Cactus
+signed, dedicated and dated 'Para Abel Plain D. Rivera 28' (lower right)
+charcoal on paper
+9
+1
+⁄
+4
+ x 12
+3
+⁄
+8
+ in. (23.5 x 31.5 cm.)
+Executed in 1928.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0026_000(diego_rivera_landscape_with_cactus101647).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/diego-rivera-1886-1957-26/283833?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+ab7a96a7-3278-4a6a-af47-d1565e67e879,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 27,USD,30000,40000,None,None,30000,40000,None,None,DIEGO RIVERA,1886,1957,Hombre partiendo leña,drawing,watercolor and ink on handmade rice paper,<NA>,15.25,10.875,in,yes,yes,yes,1934,"Private collection, Dallas, gift from the artist, 
+circa 
+1940
+Private collection, Dallas, by descent from the above, 
+circa 
+1970
+Gift from the above to the present owner","man, hat, blanket, bricks, rice paper, watercolor, ink",None,None,"Hombre partiendo leña
+signed 'Diego Rivera.' (lower right)
+watercolor and ink on handmade rice paper
+10
+7
+⁄
+8
+ x 15
+1
+⁄
+4
+ in. (27.6 x 38.7 cm.)
+Painted 
+circa 
+1934-1936.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0027_000(diego_rivera_hombre_partiendo_lena101823).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/diego-rivera-1886-1957-27/283839?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,38500.0,32083.333333333336
+49d3c609-1a91-45ee-a5a9-c60d66b16869,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 28,USD,25000,35000,None,None,25000,35000,None,None,LEONORA CARRINGTON,1917,2011,Study for Fear,drawing,graphite on paper,<NA>,8.375,11,in,no,yes,yes,1937,"Estate of Julien Levy, Paris, acquired directly from the artist, 1941-1942
+Sale; Tajan, Paris, 6 October 2004, lot 482
+Acquired at the above sale by the present owner","women, curtains, door, dresses, figures, hair, classical, interior, pencil, art",None,None,"Study for 
+Fear
+graphite on paper
+11 x 8
+3
+⁄
+8
+ in. (27.9 x 21.3 cm.)
+Executed in 1937-1938.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0028_000(leonora_carrington_study_for_fear101911).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/leonora-carrington-1917-2011-28/283838?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+9e7a7913-fa06-4990-8ad8-ea9997df0edd,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 29,USD,50000,70000,None,None,50000,70000,None,None,ALICE RAHON,1904,1987,Rocío y manchas solares,mixed media,oil and pastel on Japan paper mounted on canvas,<NA>,94.3,182.9,cm,yes,yes,yes,1976,"Private collection, Mexico City, acquired directly from the artist
+Galería Windsor, Mexico City
+Private collection, Mexico City
+Acquired from the above by the present owner","bird, eye, colorful shapes, lines, green, blue, yellow, red, foliage, abstract",None,None,"Rocío y manchas solares
+signed 'Alice Rahon' (lower right); signed again, inscribed, titled, and dated 'Alice Rahon Mexico 76 Rocío y manchas solares' (on the stretcher bar)
+oil and pastel on Japan paper mounted on canvas
+sheet: 72 x 37
+1
+⁄
+8
+ in. (182.9 x 94.3 cm.)
+canvas: 79 x 43
+1
+⁄
+4
+ in. (200.7 x 109.9 cm.)
+Executed in 1976.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0029_000(alice_rahon_rocio_y_manchas_solares095937).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/alice-rahon-1904-1987-29/283841?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+6c57ded2-dc22-4c05-a11b-11fd3bb13293,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 30,USD,10000,15000,None,None,10000,15000,None,None,DIEGO RIVERA,1886,1957,Albañil sentado sobre una piedra,drawing,ink on handmade rice paper,<NA>,11,15.5,in,yes,yes,yes,1939,"Hooks-Epstein Galleries, Houston
+Mary-Anne Martin | Fine Art, New York
+Anon. sale; Christie’s, New York, 16 November 1994, lot 201
+Acquired at the above sale by the present owner","man, hat, seated, stone, ink, rice paper, 1939",None,None,"Albañil sentado sobre una piedra
+signed and dated 'Diego Rivera 39' (lower right)
+ink on handmade rice paper
+15
+1
+⁄
+2
+ x 11 in. (39.4 x 27.9 cm.)
+Painted in 1939.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0030_000(diego_rivera_hombre_sentado043616).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/diego-rivera-1886-1957-30/283840?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+434831f4-05a2-4673-ae02-1e137925bb10,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 31,USD,6000,8000,None,None,6000,8000,None,None,CARLOS OROZCO ROMERO,1898,1984,Mujer en la playa,painting,oil on masonite,<NA>,11.375,14.75,in,yes,yes,yes,<NA>,"Bernard and Edith Lewin Collection, Los Angeles
+Los Angeles County Museum of Art, California, gift from the above, 1997","woman, beach, water, night sky, silhouette, ocean, figure, standing, landscape, moon",None,None,"Mujer en la playa
+signed 'C. Orozco Romero' (lower left)
+oil on masonite
+14
+3
+⁄
+4
+ x 11
+3
+⁄
+8
+ in. (37.5 x 28.9 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0031_000(carlos_orozco_romero_mujer_en_la_playa102352).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/carlos-orozco-romero-1898-1984-31/285282?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+852206f5-21aa-4cce-b4ac-08664528ce58,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 32,USD,20000,25000,None,None,20000,25000,None,None,RODOLFO NIETO,1936,1985,Paisaje (Constelación),painting,oil on canvas,<NA>,38,51,in,yes,yes,yes,1977,Acquired directly from the artist by the present owner,"landscape, mountains, geometric shapes, dark background, purple, teal, red, texture, patterns, contour lines",None,None,"Paisaje (Constelación)
+signed 'Nieto' (lower right)
+oil on canvas
+51 x 38 in. (129.5 x 96.5 cm.)
+Painted in 1977.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0032_000(rodolfo_nieto_paisaje102532).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rodolfo-nieto-1936-1985-32/283842?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+d4ec2dfe-5e75-41c8-82d6-435b0b7b5343,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 33,USD,25000,35000,None,None,25000,35000,None,None,RICARDO MARTÍNEZ,1918,2009,Hombre hablando,painting,oil on canvas,<NA>,31.375,41.25,in,yes,yes,yes,1980,"Private collection, Mexico City","man, speaking, seated figure, abstract, red tones, grey tones, oil painting, human form, facial expression",None,None,"RICARDO MARTÍNEZ (1918-2009)
+Hombre hablando
+signed and dated 'Ricardo Martínez 80' (lower left); signed again, titled and dated again 'Ricardo Martínez Hombre hablando 1980' (on the stretcher bar)
+oil on canvas
+41
+1
+⁄
+4
+ x 31
+3
+⁄
+8
+ in. (104.8 x 79.7 cm.)
+Painted in 1980.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0033_000(ricardo_martinez_hombre_hablando102714).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ricardo-martinez-1918-2009-33/283844?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+233f1b94-e639-4503-ae3c-7d1038e0d199,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 34,USD,10000,15000,None,None,10000,15000,None,None,RODOLFO NIETO,1936,1985,Untitled,painting,oil on canvas,<NA>,15.875,11.75,in,no,yes,no,1975,"Private collection, Mexico, acquired directly from the artist
+Acquired from the above by the present owner","heart, abstract, red, black, blue, geometric patterns",None,None,"Untitled
+oil on canvas
+11
+3
+⁄
+4
+ x 15
+7
+⁄
+8
+ in. (29.8 x 40.3 cm.)
+Painted 
+circa 
+1975.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0034_000(rodolfo_nieto_untitled102852).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rodolfo-nieto-1936-1985-34/283845?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13500.0,11250.0
+71732e67-9774-42d0-b66b-8b8b2fde9723,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 35,USD,20000,30000,None,None,20000,30000,None,None,JUAN SORIANO,1920,2006,Pájaro,painting,oil on canvas,<NA>,27.5,33.5,in,yes,yes,yes,1967,"Galería Arvil, Mexico City
+Acquired from the above by the present owner","bird, blue, green, purple, black, abstract, feathers, landscape, flight, nature",None,None,"Pájaro
+signed and dated 'J. Soriano 67' (lower left)
+oil on canvas
+33
+1
+⁄
+2
+ x 27
+1
+⁄
+2
+ in. (85 x 70 cm.)
+Painted in 1967.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0035_000(juan_soriano_pajaro103031).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/juan-soriano-1920-2006-35/283843?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+078dee42-9db0-4ee3-b0cf-f9f787f07995,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 36,USD,30000,40000,None,None,30000,40000,None,None,MIGUEL COVARRUBIAS,1904,1957,"Professor Beebe, Gourmet and Ichthyologist, Secretly Fries his New Discovery Instead of Picking it for Posterity",painting,watercolor on paper,<NA>,8.5,10,in,yes,yes,yes,1933,"Marian Nasso, Florida, 
+circa 
+2010
+Latin American Fine Art, Brownsville, 2016
+Galería Windsor, Mexico City, 2017
+Acquired from the above by the present owner","man, octopus, frying pan, microscope, jars, table, salt shaker, sprig, kitchen, humorous scene",None,None,"Professor Beebe, Gourmet and Ichthyologist, Secretly Fries his New Discovery Instead of Picking it for Posterity
+signed 'COVARRUBIAS' (lower right)
+watercolor on paper
+10 x 8
+1
+⁄
+2
+ in. (25.4 x 21.6 cm.)
+Painted in 1933.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0036_000(miguel_covarrubias_professor_beebe_gourmet_and_ichthyologist_secretly103213).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/miguel-covarrubias-1904-1957-36/283846?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,37500.0,31250.0
+9d345204-d500-4188-8e3c-2bc87f6c53dd,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 37,USD,15000,20000,None,None,15000,20000,None,None,FRANCISCO TOLEDO,1940,2019,Elefantes,drawing,gouache and ink on paper,<NA>,13.75,9.75,in,no,yes,yes,1977,"Tasende Gallery, La Jolla
+Private collection, acquired from the above, 1990
+Anon. sale; Sotheby's, New York, 20 November 2000, lot 35
+Private collection, La Jolla, acquired at the above sale
+By descent from the above to the present owner","elephants, brown, geometric shapes, abstract, ink, gouache, paper",None,None,"Elefantes
+gouache and ink on paper
+9
+3
+⁄
+4
+ x 13
+3
+⁄
+4
+ in. (24.8 x 34.9 cm.)
+Executed 
+circa 
+1977.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0037_000(francisco_toledo_elefantes103355).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/francisco-toledo-1940-2019-37/283848?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+f191a418-b379-4c13-adce-cf894027cdac,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 38,USD,10000,15000,None,None,10000,15000,None,None,FRANCISCO ZÚÑIGA,1912,1998,Maternidad,sculpture,bronze,9.5,11,13.5,in,yes,yes,yes,1968,"B. Lewin Galleries, Beverly Hills
+Acquired from the above by the family of the present owner, 1979","mother, child, bronze, sculpture, seated figure, draped, expression, form, texture, maternal bond",None,None,"FRANCISCO ZÚÑIGA (1912-1998)
+Maternidad
+incised with artist signature, number and date 'ZÚÑIGA IV/V 1968' (near the base)
+bronze
+13
+1
+⁄
+2
+ x 11 x 9
+1
+⁄
+2
+ in. (34.3 x 27.9 x 24.1 cm.)
+Executed in 1968. This work is number four from an edition of five.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0038_000(francisco_zuniga_maternidad044007).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/francisco-zuniga-1912-1998-38/283847?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13800.0,11500.0
+f82e765c-b7ca-4d11-8500-3078c936aaa7,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 39,USD,15000,20000,None,None,15000,20000,None,None,FRANCISCO ZÚÑIGA,1912,1998,Calera,sculpture,black Mexican marble,8,11,15.5,in,yes,yes,yes,1975,"Private collection, Mexico, acquired directly from the artist
+Tasende Gallery, La Jolla
+Acquired from the above by the present owner","woman, seated figure, black marble, traditional clothing, hooded figure, sculpture, Mexican art, 20th century",None,None,"FRANCISCO ZÚÑIGA (1912-1998)
+Calera
+incised with the artist's signature and date 'ZÚÑIGA 1975' (on the reverse)
+black Mexican marble
+15
+1
+⁄
+2
+ x 11 x 8 in. (39.3 x 27.9 x 20.3 cm.)
+Executed in 1975.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0039_000(francisco_zuniga_calera103740).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/francisco-zuniga-1912-1998-39/283849?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+a3c144e4-8c44-401b-aac3-b4ce89b55b45,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 40,USD,12000,18000,None,None,12000,18000,None,None,JULIO GALÁN,1958,2006,Untitled,drawing,charcoal and pastel on paper,<NA>,27.5,19.75,in,yes,yes,no,1986,"Galería Enrique Guerrero, Mexico City
+Private collection, Madrid
+Latin American Fine Art, Brownsville
+Inverarte Art Gallery, Mexico City
+Acquired from the above by the present owner","boy, profile, charcoal, pastel, abstract shapes, red dots, beige background, suit, necktie, artistic representation",None,None,"JULIO GALÁN (1958-2006)
+Untitled
+signed and dated 'Julio Galán DIC-31-86' (lower right)
+charcoal and pastel on paper
+19
+3
+⁄
+4
+ x 27
+1
+⁄
+2
+ in. (50.2 x 69.9 cm.)
+Executed in 1986.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0040_000(julio_galan_untitled103954).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/julio-galan-1958-2006-40/283851?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,16500.0,13750.0
+e5616980-ffb3-44ad-b08b-c5f989d9181e,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 41,USD,18000,22000,None,None,18000,22000,None,None,SANTIAGO CARBONELL,1960,<NA>,"Miliciano, Catalán y Donante (Homenaje a los 100 años del nacimiento de la mirada daliniana)",painting,oil on canvas,<NA>,43.375,47.25,in,yes,yes,yes,2003,"Praxis Arte Internacional, Mexico City
+Private collection, 2003
+Anon. sale; Sotheby's, New York, 4 March 2024, lot 1000
+Acquired at the above sale by the present owner","man, bowl, praying figure, landscape, architecture, soldier, dark clothing, red beret, lemon, sky",None,None,"Miliciano, Catalán y Donante (Homenaje a los 100 años del nacimiento de la mirada daliniana)
+signed and dated 'SANTIAGO CARBONELL 03' (lower right)
+oil on canvas
+47
+1
+⁄
+4
+ x 43
+3
+⁄
+8
+ in. (120 x 110.2 cm.)
+Painted in 2003.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0041_000(santiago_carbonell_miliciano_catalan_y_donante104109).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/santiago-carbonell-b-1960-41/283852?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,19500.0,16250.0
+8f9a9010-7888-449d-8e66-bfe594da61f1,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 42,USD,8000,12000,None,None,8000,12000,None,None,EDUARDO KINGMAN,1913,1997,Madre y niño,painting,oil on canvas,<NA>,31.375,47.25,in,yes,yes,yes,1963,"Arthur James Galleries, Miami
+Acquired from the above by the present owner, 2002","mother, child, hands, portrait, oil painting, face, figure, expression, warmth, affection",None,None,"Madre y niño
+signed and dated 'E. Kingman 63' (lower left); signed again, inscribed, titled and dated again 'MADRE Y NIÑO EDUARDO KINGMAN QUITO-1963' (on the reverse)
+oil on canvas
+47
+1
+⁄
+4
+ x 31
+3
+⁄
+8
+ in. (109.9 x 80 cm.)
+Painted in 1963.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0042_000(eduardo_kingman_madre_y_nino104248).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/eduardo-kingman-1913-1997-42/283853?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,10500.0,8750.0
+d1b5c11d-cd15-47c4-b6ed-fc4f2003cec6,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 43,USD,8000,12000,None,None,8000,12000,None,None,OSWALDO GUAYASAMÍN,1919,1999,Embrujados,painting,oil on paper laid down on panel,<NA>,19,23.125,in,yes,yes,yes,1952,"Private collection, Caracas
+Anon. sale; Christie's, New York, 25 November 1998, lot 206
+Private collection, Miami
+Acquired from the above by the present owner","two figures, human faces, expressive eyes, dark skin tones, geometric shapes, abstract background, contrasting colors, emotional expressions, simplified forms, portrait",None,None,"OSWALDO GUAYASAMÍN (1919-1999)
+Embrujados
+signed 'GUAYASAMIN' (lower right)
+oil on paper laid down on panel
+23
+1
+⁄
+8
+ x 19 in. (58.7 x 48.3 cm.)
+Painted 
+circa 
+1952.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0043_000(oswaldo_guayasamin_embrujados095621).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/oswaldo-guayasamin-1919-1999-43/284879?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+b7ba3b74-c117-4bd3-91a6-b56bf9fe3d67,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 44,USD,20000,30000,None,None,20000,30000,None,None,MARÍA LUISA PACHECO,1919,1982,Mallasa,painting,oil and sand on canvas,<NA>,40,34,in,yes,yes,yes,1974,"Lee Ault & Company, New York
+Frances Lehman Loeb Art Center, Vassar College, New York
+Sale; Christie's, New York, 11 January 2012, lot 10
+Acquired at the above sale by the present owner","landscape, abstract, blue, gray, textures, shapes, light, composition, earth, sky",None,None,"MARÍA LUISA PACHECO (1919-1982)
+Mallasa
+signed and dated 'PACHECO 74' (lower right); signed again, titled and dated again 'María Luisa Pacheco MALLASA 1974' (on the reverse)
+oil and sand on canvas
+34 x 40 in. (86.4 x 101.6 cm.)
+Painted in 1974.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0044_000(maria_luisa_pacheco_mallasa104602).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/maria-luisa-pacheco-1919-1982-44/283854?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+5f6dfb08-df47-4af0-b6fc-5b946fdd1c90,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 45,USD,40000,60000,None,None,40000,60000,None,None,OSWALDO GUAYASAMÍN,1919,1999,Cabeza de la montaña (from the series La edad de la ira),painting,oil on canvas,<NA>,37,23.125,in,yes,yes,yes,1974,"Taller Guayasamín, Caracas, 1992
+Anon. sale; Sotheby's, New York, 26 November 1996, lot 202
+Acquired at the above sale by the present owner","head, mountain, abstract, expression, figure, face, emotion, blood, color, darkness",None,None,"OSWALDO GUAYASAMÍN (1919-1999)
+Cabeza de la montaña 
+(from the series 
+La edad de la ira
+)
+signed 'GUAYASAMIN' (upper left)
+oil on canvas
+23
+1
+⁄
+8
+ x 37 in. (58.7 x 94 cm.)
+Painted in 1974.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0045_000(oswaldo_guayasamin_cabeza_de_la_montana104653).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/oswaldo-guayasamin-1919-1999-45/283856?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+7f043cc1-5612-46fb-a8b5-bf950b264c4c,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 46,USD,20000,30000,None,None,20000,30000,None,None,MARÍA LUISA PACHECO,1919,1982,Inca,painting,oil and wooden relief on canvas,<NA>,40,40.25,in,yes,yes,yes,1972,"Lee Ault & Company, Inc., New York
+Private collection, New York, 
+circa 
+1975
+Private collection, United States
+Acquired from the above by the present owner","Inca, abstract, wooden relief, blue, geometric, canvas, oil painting",None,None,"MARÍA LUISA PACHECO (1919-1982)
+Inca
+signed and dated 'PACHECO 72' (lower right); signed again, titled and dated again 'María Luisa Pacheco INCA 1972' (on the reverse)
+oil and wooden relief on canvas
+40
+1
+⁄
+4
+ x 40 in. (102.2 x 101.6 cm.)
+Executed in 1972.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0046_000(maria_luisa_pacheco_inca104828).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/maria-luisa-pacheco-1919-1982-46/284880?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+c9f918ce-0391-46de-a62f-8ba1e833cee3,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 47,USD,10000,15000,None,None,10000,15000,None,None,MATTA,1911,2002,Craque-mots,drawing,"graphite, colored pencil and crayon on paper",<NA>,10.125,14.625,in,yes,yes,yes,1949,"Private collection, Aspen
+By descent from the above to the present owner, 2016","figures, abstract shapes, lines, yellow color, green color, red color, orange color, patterns, sketch, surrealism",None,None,"Craque-mots
+signed 'MATTA' (lower right); titled 'Craque-mots' (lower center)
+graphite, colored pencil and crayon on paper
+14
+5
+⁄
+8
+ x 10
+1
+⁄
+8
+ in. (37.2 x 27 cm.)
+Executed 
+circa 
+1949.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0047_000(matta_craque-mots014145).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/matta-1911-2002-47/283857?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13500.0,11250.0
+1128e933-eee6-442b-a3b9-30dcd6b23b0a,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 48,USD,40000,60000,None,None,40000,60000,None,None,WIFREDO LAM,1902,1982,Untitled,painting,oil on canvas,<NA>,17.75,13.75,in,yes,yes,no,1972,"Private collection, Milan
+San Erasmo Club de Arte, Milan","horse, two figures, abstract shapes, orange background",None,None,"Untitled
+faintly signed and dated 'Wifredo Lam 1972' (lower right); signed again and dated again 'Wifredo Lam 1972' (on the reverse)
+oil on canvas
+13
+3
+⁄
+4
+ x 17
+3
+⁄
+4
+ in. (34.9 x 45.1 cm.)
+Painted in 1972.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0048_000(wifredo_lam_untitled104946).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/wifredo-lam-1902-1982-48/283858?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,52500.0,43750.0
+a8ad6c37-294c-43a7-bc32-d502d72e19a7,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 49,USD,8000,12000,None,None,8000,12000,None,None,MATTA,1911,2002,Personnage III,sculpture,bronze,6.75,15,36,in,yes,yes,yes,1959,"Nolan/Eckman Gallery, New York
+Acquired from the above by the present owner, 2001","sculpture, bronze, abstract figure, human form, geometric shapes, standing form, vertical lines",None,None,"Personnage III
+incised with the artist's signature, foundry mark and number 'MATTA 4/6 SUSSE FONDEUR PARIS' (on the base)
+bronze
+36 x 15 x 6
+3
+⁄
+4
+ in. (91.4 x 38.1 x 17.1 cm.)
+Executed in 1959. This work is number four from an edition of six.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0049_000(matta_personnage_iii105131).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/matta-1911-2002-49/283859?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+d34c2210-d2a1-4f5b-a73d-17bbba32fb67,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 50,USD,35000,45000,None,None,35000,45000,None,None,JOAQUÍN TORRES-GARCÍA,1874,1949,Máscara roja y blanca,painting,tempera on canvas,<NA>,13,16.125,in,yes,yes,yes,1928,"Estate of the artist, Montevideo
+Manolita Piña de Torres-García, Montevideo
+Augusto Torres, Montevideo
+Alejandra, Aurelio, and Claudio Torres, Montevideo
+Jan Krugier, Switzerland
+Anon. sale; Sotheby's, New York, 27 May 2015, lot 181
+Acquired at the above sale by the present owner","mask, red shape, white shape, black background, geometric forms, textured patterns, lines, triangle, oval shape, abstract composition",None,None,"JOAQUÍN TORRES-GARCÍA (1874-1949)
+Máscara roja y blanca
+signed 'J. Torres GARCIA' (lower left); dated '28' (lower right)
+tempera on canvas
+16
+1
+⁄
+8
+ x 13 in. (41 x 33 cm.)
+Painted in 1928.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0050_000(joaquin_torres-garcia_mascara_roja_y_blanca105324).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/joaquin-torres-garcia-1874-1949-50/283861?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,42000.0,35000.0
+064ee5ad-aec7-4c9a-ab75-e2864ea194d1,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 51,USD,8000,12000,None,None,8000,12000,None,None,JOSÉ GURVICH,1927,1974,Constructivo,painting,gouache on paper,<NA>,6,4.75,in,yes,yes,yes,1948,"Gurvich collection, Montevideo
+Sammer Gallery, Miami
+Acquired from the above by the present owner, 2010","geometric shapes, abstract, composition, lines, colors, rectangles, blue frame, paper, 1948",None,None,"JOSÉ GURVICH (1927-1974)
+Constructivo
+signed 'J. GURVICH' (lower left); dated '1948' (lower right)
+gouache on paper
+4
+3
+⁄
+4
+ x 6 in. (12.1 x 15.2 cm.)
+Painted in 1948.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0051_000(jose_gurvich_constructivo105505).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jose-gurvich-1927-1974-51/283862?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,10500.0,8750.0
+bbf54153-0502-423d-8423-1e442a320e99,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 52,USD,6500,9500,None,None,6500,9500,None,None,RÓMULO AGUERRE,1919,1992,"Composición constructiva, Homenaje a Torres-García",mixed media,oil and collage on masonite,<NA>,27.5,37.375,in,yes,yes,yes,1950,"Estate of the artist, Montevideo
+Sammer Gallery, Miami
+Acquired from the above by the present owner, 2010","composition, abstract shapes, geometric forms, collage, black, grey, white, rectangular patterns, homage, art tribute",None,None,"RÓMULO AGUERRE (1919-1992)
+Composición constructiva, Homenaje a Torres-García
+signed 'Aguerre' (lower right); signed again, inscribed and titled 'COMPOSICIÓN CONSTRUCTIVA Homenaje a Torres-García Aguerre URUGUAY' (on the reverse)
+oil and collage on masonite
+37
+3
+⁄
+8
+ x 27
+1
+⁄
+2
+ in. (94.9 x 69.9 cm.)
+Executed 
+circa 
+1950.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0052_000(romulo_aguerre_composicion_constructiva_homenaje_a_torres-garcia105617).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/romulo-aguerre-1919-1992-52/284881?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,8200.0,6833.333333333334
+1cd8fe56-96fd-4bc8-9fd0-9223885bc4dc,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 53,USD,60000,80000,None,None,60000,80000,None,None,ALFREDO HLITO,1923,1993,Untitled,painting,oil on canvas,<NA>,19.75,27.5,in,no,yes,no,1945,By descent from the artist to the present owner,"abstract, geometric shapes, red color, green color, white background, curved lines, straight lines",None,None,"Untitled
+oil on canvas
+27
+1
+⁄
+2
+ x 19
+3
+⁄
+4
+ in. (69.9 x 50.2 cm.)
+Painted in 1945.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0053_000(alfredo_hlito_untitled050906).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/alfredo-hlito-1923-1993-53/283863?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,72000.0,60000.0
+3a646912-f3bd-49fe-bc6b-ac329afc14e8,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 54,USD,1500,2500,None,None,1500,2500,None,None,ANA SACERDOTE,1925,2019,Serie variaciones linaeles,drawing,graphite on paper,<NA>,12,8.125,in,yes,yes,yes,1955,"Estate of the artist, Buenos Aires
+Sammer Gallery, Miami
+Acquired from the above by the present owner, 2010","geometric shapes, rectangles, squares, linear patterns, abstraction",None,None,"Serie variaciones linaeles
+signed with the artist's initials 'AS' (on the reverse)
+graphite on paper
+8
+1
+⁄
+8
+ x 12 in. (20.7 x 30.5 cm.)
+Executed in 1955.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0054_000(ana_sacerdote_serie_variaciones_linaeles105729).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ana-sacerdote-1925-2019-54/283865?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2100.0,1750.0
+1e2667e5-bb5d-42c7-8cd7-c5136bfd8d70,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 55,USD,15000,20000,None,None,15000,20000,None,None,ALICIA PENALBA,1913,1982,Ailealix,sculpture,"bronze, granite",9,14,14,in,yes,yes,yes,1959,"Fine Arts Associates, New York
+Private collection, United States
+By descent from the above to the present owner","bronze sculpture, abstract form, granite base, stone, 1950s",None,None,"Ailealix
+incised with the artist's signature and number 'PENALBA 4/6' (near the base)
+bronze on granite base mounted on stone
+14 x 14 x 9 in. (35.6 x 35.6 x 22.9 cm.)
+Executed in 1959. This work is number four from an edition of six.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0055_000(alicia_penalba_ailealix105903).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/alicia-penalba-1913-1982-55/283866?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+f6bc7247-4a52-4188-94fc-f3781564ec13,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 56,USD,4000,6000,None,None,4000,6000,None,None,ROBERTO AIZENBERG,1928,1996,Dibujo,drawing,pencil on paper,<NA>,13.875,19,in,yes,yes,yes,1958,"Galerie Antonio Souza, Mexico City, acquired directly from the artist
+Private collection, Mexico, 1961
+By descent from the above
+Anon. sale; Bonham's, Los Angeles, 17 November 2013, lot 7087
+Acquired at the above sale by the present owner","woman, seated, chair, dress, large figure, pencil drawing, 1958, stylized, background shapes",None,None,"Dibujo
+signed and dated 'r. aizenberg/58' (lower right)
+pencil on paper
+19 x 13
+7
+⁄
+8
+ in. (48.3 x 35.1 cm.)
+Executed in 1958.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0056_000(roberto_aizenberg_dibujo110100).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/roberto-aizenberg-1928-1996-56/284882?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+a96de6c9-3c67-4283-a0bb-c6b444939cbf,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 57,USD,1500,2500,None,None,1500,2500,None,None,ANA SACERDOTE,1925,2019,Untitled,painting,tempera on paper,<NA>,6.625,4,in,yes,yes,no,1956,"Estate of the artist, Buenos Aires
+Sammer Gallery, Miami
+Acquired from the above by the present owner, 2010","abstract shapes, monochrome colors, curved forms, geometric patterns, paper",None,None,"Untitled
+signed and dated 'Ana Sacerdote 1956' (on the reverse)
+tempera on paper
+4 x 6
+5
+⁄
+8
+ in. (10.2 x 16.8 cm.)
+Painted in 1956.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0057_000(ana_sacerdote_untitled110236).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ana-sacerdote-1925-2019-57/283867?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2100.0,1750.0
+effa21ec-edda-4341-9dd4-a11a7a877f1a,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 58,USD,8000,12000,None,None,8000,12000,None,None,ALICIA PENALBA,1913,1982,Untitled F,sculpture,"bronze, granite",3.125,5.75,9.5,in,yes,yes,no,<NA>,"Private collection, Miami
+Acquired from the above by the present owner","bronze sculpture, granite base, abstract form",None,None,"Untitled F
+incised with artist signature and number '7/8 APENALBA' (near the base)
+bronze on granite base
+9
+1
+⁄
+2
+ x 5
+3
+⁄
+4
+ x 3
+1
+⁄
+8
+ in. (24.1 x 14.6 x 7.9 cm.)
+This work is number seven from an edition of eight.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0058_000(alicia_penalba_piccola_alata110509).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/alicia-penalba-1913-1982-58/283870?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,10500.0,8750.0
+a3348f67-5b30-4624-b410-cc0609db4933,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 59,USD,40000,60000,None,None,40000,60000,None,None,SARAH GRILO,1920,2007,Untitled,painting,oil on canvas,<NA>,31.625,25.25,in,yes,yes,no,1985,"Acquired directly from the artist by the present owner, 
+circa 
+1990","letters, numbers, symbols, geometric shapes, abstract forms, colors, text, patterns, mixed media, canvas",None,None,"Untitled
+signed 'Sarah Grilo' (lower right)
+oil on canvas
+25
+1
+⁄
+4
+ x 31
+5
+⁄
+8
+ in. (64.1 x 80.3 cm.)
+Painted 
+circa 
+1985.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0059_000(sarah_grilo_untitled051127).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/sarah-grilo-1920-2007-59/283872?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+f475f1a7-c65e-4e67-a913-bc9d3614d784,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 60,USD,6000,8000,None,None,6000,8000,None,None,LEÓN FERRARI,1920,2013,Untitled (September),drawing,ink on paper,<NA>,13.625,19.5,in,yes,yes,no,1961,"Sicardi Ayers Bacino, Houston
+Acquired from the above by the present owner, 2012","abstract, ink drawing, lines, swirls, shapes, patterns, textures, monochrome, chaos, motion, forms",None,None,"LEÓN FERRARI (1920-2013)
+Untitled (September)
+dated 'septiembre 62' (lower right); signed 'Leon Ferrari' (on the verso)
+ink on paper
+19
+1
+⁄
+2
+ x 13
+5
+⁄
+8
+ in. (49.5 x 34.6 cm.)
+Executed in September 1961.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0060_000(leon_ferrari_untitled110947).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/leon-ferrari-1920-2013-60/284883?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+bece8eb2-be67-41b6-b304-b0e6fca72481,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 61,USD,3000,5000,None,None,3000,5000,None,None,LEÓN FERRARI,1920,2013,El infierno (La cocina),mixed media,"miniature toy kitchen, plastic figurines, cardboard box",4.625,13,17,in,yes,yes,yes,2002,"Acquired directly from the artist by the present owner, 2005","toy kitchen, plastic figurines, cardboard box, wooden frame",None,None,"LEÓN FERRARI (1920-2013)
+El infierno (La cocina)
+signed, titled and dated twice ‘El infierno 2002 Cocina león ferrari 2002’ (on the reverse)
+miniature toy kitchen, plastic figurines and cardboard box, in artist's wooden frame
+17 x 13 x 4
+5
+⁄
+8
+ in. (53.2 x 33 x 11.7 cm.)
+Executed in 2002.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0061_000(leon_ferrari_el_infierno111119).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/leon-ferrari-1920-2013-61/285283?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+f7e33dd6-7250-47eb-9a6c-a3d2b02e077f,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 62,USD,6000,8000,None,None,6000,8000,None,None,EVA OLIVETTI,1924,2013,Ciudad beige con sol,painting,oil on board,<NA>,23.5,19.625,in,yes,yes,yes,1989,"Acquired directly from the artist by the present owner, 2009","cityscape, sun, buildings, sky, horizon",None,None,"Ciudad beige con sol
+signed and dated 'E. Olivetti-89' (lower right)
+oil on board
+19
+5
+⁄
+8
+ x 23
+1
+⁄
+2
+ in. (49.9 x 59.7 cm.)
+Painted in 1989.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0062_000(eva_olivetti_ciudad_beige_con_sol111207).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/eva-olivetti-1924-2013-62/284884?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7000.0,5833.333333333334
+f7f3ae4c-bb7c-4b27-a9f9-3336494c063e,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 63,USD,8000,12000,None,None,8000,12000,None,None,LINDA KOHEN,1923,<NA>,Tazón con cuchara de madera,painting,oil on canvas,<NA>,25.25,21.125,in,yes,yes,yes,1981,"Acquired directly from the artist by the present owner, 2011","bowl, spoon, wooden spoon, table, black background, oil painting, canvas, kitchenware, still life, everyday objects",None,None,"Tazón con cuchara de madera
+signed 'KOHEN.' (lower right)
+oil on canvas
+21
+1
+⁄
+8
+ x 25
+1
+⁄
+4
+ in. (53.7 x 64.1 cm.)
+Painted in 1981.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0063_000(linda_kohen_tazon_con_cuchara_de_madera111322).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/linda-kohen-b-1923-63/283871?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,9500.0,7916.666666666667
+823c0da8-9957-404d-8da7-8a2a1c3feb77,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 64,USD,30000,40000,None,None,30000,40000,None,None,ANTONIO SEGUÍ,1934,2022,El champaqui en enero,painting,acrylic on canvas,<NA>,78.625,78.75,in,yes,yes,yes,1984,"Galerie Claude Bernard, Paris
+William Louis-Dreyfus, Mount Kisco, acquired from the above, 1992
+The William Louis-Dreyfus Foundation, New York, gift from the above, 2016
+Sale; Sotheby's, Online, 11 April 2023, lot 7
+Acquired at the above sale by the present owner","mountain, buildings, men, women, trees, airplane, cityscape, landscapes, birds, hats",None,None,"ANTONIO SEGUÍ (1934-2022)
+El champaqui en enero
+signed and dated 'Seguí 84' (upper right); titled 'EL CHAMPAQUI EN ENERO' (on the stretcher bar)
+acrylic on canvas
+78
+3
+⁄
+4
+ x 78
+5
+⁄
+8
+ in. (200 x 199.7 cm.)
+Painted in 1984.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0064_000(antonio_segui_el_champaqui_en_enero111442).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/antonio-segui-1934-2022-64/283873?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,37500.0,31250.0
+6011d25e-da84-483c-a698-e34403448f4d,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 65,USD,20000,30000,None,None,20000,30000,None,None,GUILLERMO KUITCA,1961,<NA>,Untitled,painting,oil and colored pencil on canvas,<NA>,60,40,in,yes,yes,no,1998,"Galería Ramis Barquet, New York
+Acquired from the above by the present owner, 1999","theater, seating, architecture, black, stairs, rows, audience, floor, columns, stage",None,None,"Untitled
+signed, titled and dated 'Kuitca UNTITLED 1998' (on the reverse)
+oil and colored pencil on canvas
+40 x 60 in. (101.6 x 152.4 cm.)
+Executed in 1998.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0065_000(guillermo_kuitca_untitled111600).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/guillermo-kuitca-b-1961-65/283875?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+64086964-075b-4e80-9880-f2c3f427c525,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 66,USD,2000,3000,None,None,2000,3000,None,None,LILIANA PORTER,1941,<NA>,Forced Labor (blue sand II),mixed media,blue sand and plastic figurine on wooden shelf,10.25,43.375,2,in,yes,yes,yes,2008,"Galería Espacio Mínimo, Madrid
+Acquired from the above by the present owner, 2010","blue sand, figurine, wooden shelf, installation, art piece",None,None,"Forced Labor (blue sand II)
+signed, titled and dated 'Liliana Porter 2008 ""Forced Labor"" (blue sand II)' (on the shelf)
+blue sand and plastic figurine on wooden shelf
+installation dimensions are variable
+figurine: 
+3
+⁄
+4
+ x 1
+1
+⁄
+2
+ x 
+3
+⁄
+8
+ in. (1.9 x 3.8 x 1 cm.)
+shelf: 2 x 43
+3
+⁄
+8
+ x 10
+1
+⁄
+4
+ in. (5.1 x 110.2 x 26 cm.)
+Executed in 2008.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0066_000(liliana_porter_forced_labor111624).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/liliana-porter-b-1941-66/283878?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+9d9b45f7-19a8-4c09-a5da-d6f9689639df,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 67,USD,18000,22000,None,None,18000,22000,None,None,ANTONIO ASIS,1932,<NA>,Círculo rojo y amarillo,mixed media,acrylic and metal construction,7,25.125,25.125,in,yes,yes,yes,1970,"Anon. sale; Drouot Richelieu, Paris, 17 November 1989, lot 144
+Anon. sale; Sotheby's, New York, 18 November 2009, lot 22
+Acquired at the above sale by the present owner","circle, red, yellow, metal, acrylic, panel, geometric, construction, dots, composition",None,None,"Círculo rojo y amarillo
+signed, titled and dated 'Asis 70 Circulo-Rojo y Amarillo' (on the reverse)
+acrylic and metal construction on panel
+25
+1
+⁄
+8
+ x 25
+1
+⁄
+8
+ x 7 in. (63.8 x 63.8 x 17.8 cm.)
+Executed in 1970.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0067_000(antonio_asis_circulo_rojo_y_amarillo045303).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/antonio-asis-b-1932-67/284886?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,19500.0,16250.0
+951d9078-b11d-4911-acd1-7921c1a85595,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 68,USD,5000,7000,None,None,5000,7000,None,None,GRACIELA HASPER,1966,<NA>,Untitled,painting,acrylic on canvas,<NA>,70,46.25,in,yes,yes,no,2006,Acquired directly from the artist by the present owner,"colorful lines, abstract art, canvas, acrylic paint, white background",None,None,"Untitled
+signed, titled and dated 'G. HASPER SIN TÍTULO 2006' (on the reverse)
+acrylic on canvas
+installation orientation variable
+46
+1
+⁄
+4
+ x 70 in. (117.5 x 177.8 cm.)
+Painted in 2006.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0068_000(graciela_hasper_untitled111935).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/graciela-hasper-b-1966-68/284885?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+4e759f9e-5c6e-4414-9505-cf6d9583da0a,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 69,USD,10000,15000,None,None,10000,15000,None,None,ERNESTO BRIEL,1943,1992,Diseño para fondo (Proyecto para maqueta en movimiento),drawing,ink on paper,<NA>,17.5,20.375,in,yes,yes,yes,1971,"Private collection, Peru, acquired directly from the artist, 
+circa 
+1975
+Acquired from the above by the present owner, 2018","geometric shapes, hexagons, black and white, abstract design, movements",None,None,"Diseño para fondo (Proyecto para maqueta en movimiento)
+signed and dated 'BRIEL 71' (lower right)
+ink on paper
+20
+3
+⁄
+8
+ x 17
+1
+⁄
+2
+ in. (51.8 x 44.5 cm.)
+Executed in 1971.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0069_000(ernesto_briel_diseno_para_fondo112043).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ernesto-briel-1943-1992-69/283879?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+bd5366c6-5f5e-431c-b55f-882c9dbf21ba,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 70,USD,2000,3000,None,None,2000,3000,None,None,NICOLÁS GUAGNINI,1966,<NA>,Guatemala,painting,oil on canvas,<NA>,31.5,47.25,in,yes,yes,yes,1991,"Galería Vermeer, Buenos Aires
+Acquired from the above by the present owner, 1993","abstract shapes, vibrant colors, geometric forms, jagged lines, green background, red accents, yellow sections, black elements, purple details, white shapes",None,None,"NICOLÁS GUAGNINI (B. 1966)
+Guatemala
+signed with the artist's initials and dated 'N.G. 1991' (on the reverse)
+oil on canvas
+47
+1
+⁄
+4
+ x 31
+1
+⁄
+2
+ in. (120 x 80 cm.)
+Painted in 1991.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0070_000(nicolas_guagnini_guatemala112154).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/nicolas-guagnini-b-1966-70/284887?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+6187279d-783c-4c1c-8625-eabba6ef8ebd,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 71,USD,15000,20000,None,None,15000,20000,None,None,ROGELIO POLESELLO,1939,2014,Untitled,sculpture,acrylic,6,6,39,in,yes,yes,no,1972,"Private collection, New York
+By descent from the above to the present owner","sculpture, acrylic, geometric forms, stacked elements, transparent material",None,None,"Untitled
+incised with the artist's signature and date 'POLESELLO 72' (upper edge)
+acrylic
+39 x 6 x 6 in. (99.1 x 15.2 x 15.2 cm.)
+Executed in 1972.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0071_000(rogelio_polesello_untitled051430).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rogelio-polesello-1939-2014-71/283881?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,18000.0,15000.0
+d5da3a9a-c2dd-4d63-9f53-316ae36e1519,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 72,USD,40000,60000,None,None,40000,60000,None,None,MERCEDES PARDO,1921,2005,Untitled,painting,acrylic on panel,<NA>,25.625,32,in,no,yes,no,1970,"Private collection, acquired directly from the artist
+Acquired from the above by the present owner","shapes, circles, rectangles, colors, pink, green, blue, orange, abstract",None,None,"Untitled
+acrylic on panel
+32 x 25
+5
+⁄
+8
+ in. (81.3 x 65.1 cm.)
+Painted in 1970.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0072_000(mercedes_pardo_untitled112442).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/mercedes-pardo-1921-2005-72/284888?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+ce9c8dbc-2c39-4d41-827a-7ebbc0cb07ac,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 73,USD,6000,8000,None,None,6000,8000,None,None,GEGO,1912,1994,Untitled,prints,etching and drypoint on paper,<NA>,7.875,7.875,in,yes,yes,no,1965,"Taller de Artistas Gráficos Asociados, Caracas
+Acquired from the above by the present owner","circle, two dots, abstract, etching, drypoint, geometric, gray, textured, paper, print",None,None,"Untitled
+signed and dated 'Gego 65-88' (lower left); numbered '18/20' (lower right)
+etching and drypoint on paper
+image: 7
+7
+⁄
+8
+ x 7
+7
+⁄
+8
+ in. (20 x 20 cm.)
+sheet: 19
+5
+⁄
+8
+ x 12
+3
+⁄
+4
+ in. (49.9 x 32.4 cm.)
+Conceived in 1965; executed in 1988. This work is number eighteen from an edition of twenty.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0073_000(gego_untitled112528).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/gego-1912-1994-73/283882?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+3f0b151b-cb81-40ba-959f-d0d5b68b82b9,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 74,USD,6000,8000,None,None,6000,8000,None,None,GEGO,1912,1994,Untitled (Tamarind 1847),prints,lithograph on paper,<NA>,22.25,22.125,in,yes,yes,no,1966,"Fundación Gego, Caracas
+Acquired from the above by the present owner, 1996","lithograph, paper, abstract, minimalism, beige, texture, line, printmaking, edition, Gego",None,None,"Untitled (Tamarind 1847)
+signed and numbered '8/20 Gego' (on the reverse)
+lithograph on paper
+22
+1
+⁄
+8
+ x 22
+1
+⁄
+4
+ in. (56.2 x 56.5 cm.)
+Executed in 1966. This work is number eight from an edition of twenty.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0074_000(gego_untitled112614).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/gego-1912-1994-74/283884?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+d7b3d31d-be05-49a8-836a-206ff6d77170,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 75,USD,1500,2500,None,None,1500,2500,None,None,LOTHAR CHAROUX,1912,1987,Composição vermelha con linha verde,mixed media,gouache and graphite on colored paper,<NA>,3.875,9.75,in,yes,yes,yes,1965,"DAN Galeria, São Paulo
+Acquired from the above by the present owner, 2002","red, green line, colored paper, gouache, graphite",None,None,"Composição vermelha con linha verde
+incised with the artist's signature 'Charoux' (lower right)
+gouache and graphite on colored paper
+9
+3
+⁄
+4
+ x 3
+7
+⁄
+8
+ in. (24.8 x 9.8 cm.)
+Executed 
+circa 
+1965.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0075_000(lothar_charoux_composicao_vermelha_con_linha_verde112728).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/lothar-charoux-1912-1987-75/283886?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2100.0,1750.0
+d4fb5fda-f374-4d87-89ab-ce972f22b53f,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 76,USD,15000,20000,None,None,15000,20000,None,None,JAC LEIRNER,1961,<NA>,Wall (Names),mixed media,found plastic bags and nylon cord,15,98,44,in,no,yes,yes,<NA>,"Galeria Camargo Vilaça, São Paulo
+Private collection, Illinois, 1997
+Gift from the above to the present owner","plastic bags, nylon cord, installation, dimension, texture, color, pattern",None,None,"Wall (Names)
+found plastic bags and nylon cord
+installation dimensions are variable
+44 x 98 x 15 in. (111.8 x 248.9 x 38.1 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0076_000(jac_leirner_wall112838).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jac-leirner-b-1961-76/284889?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,17500.0,14583.333333333334
+b8673fb2-2d46-4d16-b030-e29bfc7ebe26,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 77,USD,3000,5000,None,None,3000,5000,None,None,MANUELA RIBADENEIRA,1966,<NA>,Hago mío este territorio,decorative arts,engraved pocketknife,0.75,8.375,1.125,in,yes,yes,yes,2007,"DPM Gallery, Guayaquil 
+Acquired from the above by the present owner, 2008","pocketknife, inscription, blade, territory, metal, lettering, shadow, edge, handle, surface",None,None,"Hago mío este territorio
+incised with the title 'Hago Mío Este Territorio' (on the face of the blade)
+engraved pocketknife
+1
+1
+⁄
+8
+ x 8
+3
+⁄
+8
+ x 
+3
+⁄
+4
+ in. (2.9 x 21.2 x 1.9 cm.)
+Executed in 2007. This work is number two from an edition of three.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0077_000(manuela_ribadeneira_hago_mio_este_territorio113110).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/manuela-ribadeneira-b-1966-77/283888?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+77a7638b-1913-44b3-aae8-5b1644ef664b,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 78,USD,30000,50000,None,None,30000,50000,None,None,JAC LEIRNER,1961,<NA>,Big 38,mixed media,"metal rulers, plastic rulers, wooden rulers, plexiglass",<NA>,118.125,41,in,no,yes,yes,2013,"White Cube, London
+Acquired from the above by the present owner, 2014","metal rulers, plastic rulers, wooden rulers, plexiglass, installation, abstract forms, geometric shapes",None,None,"Big 38
+metal rulers, plastic rulers, wooden rulers and plexiglass
+installation dimensions variable
+overall: 41 x 118
+1
+⁄
+8
+ in. (104.3 x 300 cm.)
+Executed in 2013.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0078_000(jac_leirner_big_38113239).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jac-leirner-b-1961-78/284890?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,42000.0,35000.0
+3342a7ed-0fe6-4720-a552-3ffd8799f128,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 79,USD,12000,18000,None,None,12000,18000,None,None,WILLYS DE CASTRO,1923,1988,Composição azul,drawing,gouache on paper,<NA>,8.25,3.5,in,no,yes,yes,1958,"Private collection, São Paulo
+DAN Galeria, São Paulo
+Acquired from the above by the present owner, 2008","blue shapes, gouache, paper, geometric, abstract",None,None,"Composição azul
+gouache on paper
+3
+1
+⁄
+2
+ x 8
+1
+⁄
+4
+ in. (8.9 x 21 cm.)
+Painted in 1958.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0079_000(willys_de_castro_composicao_azul113302).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/willys-de-castro-1923-1988-79/283887?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,16500.0,13750.0
+2d7b3704-6cc9-4e49-a4cb-cfb30913be04,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 80,USD,4000,6000,None,None,4000,6000,None,None,GABRIEL DE LA MORA,1968,<NA>,"Downtown in Mexico City, July 4th",mixed media,hair and synthetic hair on paper mounted on board,<NA>,17,12,in,no,yes,yes,2004,"Acquired by the present owner, 2004","crowd, figures, umbrellas, Mexico City",None,None,"Downtown in Mexico City, July 4th
+Maria Elena Almaraz's hair and synthetic hair on paper mounted on board
+12 x 17 in. (30.5 x 43.2 cm.)
+Executed in 2004.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0080_000(gabriel_de_la_mora_downtown_in_mexico_city_july_4th113432).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/gabriel-de-la-mora-b-1968-80/283890?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+a02dea42-6f82-4585-ac74-6f1fa100ad72,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 81,USD,800,1200,None,None,800,1200,None,None,MIGUEL ÁNGEL RÍOS,1953,<NA>,"Crudo, from the series White Suit (Dibujo #151)",drawing,graphite and collage on paper,<NA>,14,11,in,yes,yes,yes,2008,"Galerie Akinci, Amsterdam
+Acquired from the above by the present owner, 2010","man, dog, suit, leash, circles, illustration, graphite, collage, paper, figure",None,None,"MIGUEL ÁNGEL RÍOS (B. 1953)
+Crudo
+, from the series 
+White Suit (Dibujo #151)
+signed, titled and dated 'SERIES: WHITE SUIT and CRUDO Miguel Ángel Ríos 2008' (on the reverse)
+graphite and collage on paper
+11 x 14 in. (27.9 x 35.6 cm.)
+Executed in 2008.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0081_000(miguel_angel_rios_crudo_from_the_series_white_suit113542).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/miguel-angel-rios-b-1953-81/283892?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,1100.0,916.6666666666667
+6bf63ded-d533-46f5-aac1-06b911ac81d0,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 82,USD,3000,5000,None,None,3000,5000,None,None,PABLO CARDOSO,1965,<NA>,FF #1,painting,acrylic on panel,<NA>,8.375,3.375,in,yes,yes,yes,2006,"DPM Gallery, Guayaquil
+Acquired from the above by the present owner, 2007","human figure, running, clouds, trees, chair, motion, black and white, abstraction, panel, installation",None,None,"FF #1
+each signed, titled and dated 'FF#1 PABLO CARDOSO 2006' (on the reverse)
+acrylic on panel, in eight parts
+installation dimensions are variable
+each: 3
+3
+⁄
+8
+ x 8
+3
+⁄
+8
+ in. (8.6 x 21.2 cm.)
+Painted in 2006.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0082_000(pablo_cardoso_ff_1_d6567390113652).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/pablo-cardoso-b-1965-82/284891?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+a788549a-4e08-46fb-83af-e25c6dbe633f,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 83,USD,1500,2500,None,None,1500,2500,None,None,CLAUDIO PERNA,1938,1997,Relieve,mixed media,cut and folded paper,<NA>,6.375,12.5,in,no,yes,yes,1965,"Henrique Faria Fine Art, New York
+Acquired from the above by the present owner, 2011","cut paper, folded paper, abstract composition, white color, geometric shapes",None,None,"Relieve
+dated '14/10' (lower right)
+cut and folded paper
+12
+1
+⁄
+2
+ x 6
+3
+⁄
+8
+ in. (31.8 x 16 cm.)
+Executed in 1965.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0083_000(claudio_perna_relieve114309).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/claudio-perna-1938-1997-83/283891?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2100.0,1750.0
+d67f84b9-4ee2-45e4-819a-a047c9711c98,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 84,USD,10000,15000,None,None,10000,15000,None,None,RIVANE NEUENSCHWANDER,1967,<NA>,Folhinha Mariana,mixed media,"ants, scotch tape, wire, acetate, wood, metal",25.75,35.25,30.625,in,no,yes,yes,2002,"Stephen Friedman Gallery, London
+Acquired from the above by the present owner, 2009","ants, tape, wire, acetate, wood, metal stand, panels, abstract, installation",None,None,"Folhinha Mariana
+ants, scotch tape, wire and acetate and wood on metal stand
+panel: 1 x 35
+1
+⁄
+4
+ x 25
+3
+⁄
+4
+ in. (2.5 x 89.5 x 65.4 cm.)
+overall: 30
+5
+⁄
+8
+ x 35
+1
+⁄
+4
+ x 25
+3
+⁄
+4
+ in. (77.8 x 89.5 x 65.4 cm.)
+Executed in 2002.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0084_000(rivane_neuenschwander_folhinha_mariana114441).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rivane-neuenschwander-b-1967-84/283894?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13500.0,11250.0
+a22a36b2-7d2c-4413-8fc8-cf5e9d6289be,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 85,USD,20000,30000,None,None,20000,30000,None,None,EDUARDO RAMÍREZ VILLAMIZAR,1923,2004,Relief on aluminum,sculpture,"aluminum sheets, wood",4,27.375,27.375,in,yes,yes,yes,1965,"Durban Segnini Gallery, Coral Gables
+Acquired from the above by the present owner, 2012","relief, aluminum, geometric shapes, abstract, three-dimensional, minimalism",None,None,"EDUARDO RAMÍREZ VILLAMIZAR (1923-2004)
+Relief on aluminum
+signed and dated 'Ramírez 65' (on the reverse)
+aluminum sheets on wooden relief
+27
+3
+⁄
+8
+ x 27
+3
+⁄
+8
+ x 4 in. (69.5 x 69.5 x 10.2 cm.)
+Executed in 1965.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0085_000(eduardo_ramirez_villamizar_relief_on_aluminum114610).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/eduardo-ramirez-villamizar-1923-2004-85/283893?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+fad0f653-741e-4ddf-a3eb-cba4b5e81e8e,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 86,USD,2000,3000,None,None,2000,3000,None,None,MILER LAGOS,1973,<NA>,De los árboles que nacieron antes de Cristo,sculpture,"carved paper stack (14,000 sheets of paper)",14.5,22,43.25,in,no,yes,yes,2009,"Henrique Faria Fine Art, New York
+Acquired from the above by the present owner, 2009","tree, carved paper, stack, layers, texture, sculpture, nature, abstract",None,None,"De los árboles que nacieron antes de Cristo
+carved paper stack (14,000 sheets of paper)
+43
+1
+⁄
+4
+ x 22 x 14
+1
+⁄
+2
+ in. (109.9 x 55.9 x 36.8 cm.)
+Executed in 2009.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0086_000(miler_lagos_de_los_arboles_que_nacieron_antes_de_cristo114723).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/miler-lagos-b-1973-86/283897?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+4d84129c-6295-4676-afae-ad4807276698,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 87,USD,4000,6000,None,None,4000,6000,None,None,MARCELO CIDADE,1979,<NA>,Pessoal e intransferível,mixed media,concrete on notebook,0.625,7.5,9.875,in,yes,yes,yes,2014,<NA>,"notebooks, concrete, installation, abstract design, black and white, wood pattern, green design, floral pattern, geometric shapes, mixed materials",None,None,"Pessoal e intransferível
+each signed with the artist's initials and dated 'MC/2014' (on the reverse)
+concrete on notebook, in four parts
+installation dimensions are variable
+each: 9
+7
+⁄
+8
+ x 7
+1
+⁄
+2
+ x 
+5
+⁄
+8
+ in. (25.1 x 19.1 x 1.6 cm.)
+Executed in 2014.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0087_000(marcelo_cidade_pessoal_e_intransferivel114942).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/marcelo-cidade-b-1979-87/284892?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+87ebbdc8-79e6-4242-88c5-73219c957a05,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 88,USD,2000,3000,None,None,2000,3000,None,None,JORGE MACCHI,1963,<NA>,Canci&oacute;n marginal,mixed media,cut staff paper,<NA>,21.625,15.75,in,yes,yes,yes,2004,"Ruth Benzacar, Buenos Aires
+Acquired from the above by the present owner, 2004","sheet music, musical notes, staves, circles, paper, printed composition",None,None,"Canción marginal
+signed, titled and dated 'CANCION MARGINAL JORGE MACCHI 2004' (on the backing board)
+cut staff paper
+each sheet: 11
+5
+⁄
+8
+ x 8 in. (29.5 x 20.3 cm.)
+overall: 15
+3
+⁄
+4
+ x 21
+5
+⁄
+8
+ in. (40 x 54.9 cm.)
+Executed in 2004.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0088_000(jorge_macchi_cancion_marginal115327).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jorge-macchi-b-1963-88/283896?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+82af1dfd-3af9-43a2-afe6-59230881d735,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 89,USD,3000,5000,None,None,3000,5000,None,None,JORGE MACCHI,1963,<NA>,Souvenir,mixed media,cut map mounted on panel,<NA>,24.25,18,in,yes,yes,yes,2003,"Ruth Benzacar, Buenos Aires
+Acquired from the above by the present owner, 2004","map, Paris, city layout",None,None,"Souvenir
+signed, titled and dated 'SOUVENIR 2003 JORGE MACCHI' (on the backing board)
+cut map mounted on panel
+18 x 24
+1
+⁄
+4
+ in. (45.7 x 61.6 cm.)
+Executed in 2003.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0089_000(jorge_macchi_souvenir105028).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jorge-macchi-b-1963-89/283900?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+beb6b587-0c95-4cf6-8b2a-b620b822ec0f,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 90,USD,1500,2000,None,None,1500,2000,None,None,JORGE MACCHI,1963,<NA>,Concentración,mixed media,cut map on paper,<NA>,11.75,9,in,yes,yes,yes,2004,"Galería Luisa Strina, São Paulo
+Acquired from the above by the present owner","cut map, paper, colors, abstract shape",None,None,"Concentración 
+signed, titled and dated 'CONCENTRACIÓN Jorge Macchi 2004' (on the backing board)
+cut map on paper
+9 x 11
+3
+⁄
+4
+ in. (22.9 x 29.8 cm.)
+Executed in 2004.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0090_000(jorge_macchi_concentracion115545).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jorge-macchi-b-1963-90/284893?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+1b2174f7-94de-4656-b98b-2a72172ff381,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 91,USD,4000,6000,None,None,4000,6000,None,None,IVÁN CAPOTE,1973,<NA>,La llave de todas las cosas,mixed media,aluminum and steel,1.25,43,10.625,in,no,yes,yes,2006,"Galería Habana, Havana
+Acquired from the above by the present owner, 2008","key, aluminum, steel, installation, abstract",None,None,"IVÁN CAPOTE (B. 1973)
+La llave de todas las cosas
+aluminum and steel
+installation dimension are variable
+10
+5
+⁄
+8
+ x 43 x 1
+1
+⁄
+4
+ in. (27 x 109.2 x 3.2 cm.)
+Executed in 2006. This work is number three from an edition of three.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0091_000(ivan_capote_la_llave_de_todas_las_cosas115655).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ivan-capote-b-1973-91/283899?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+d06828fc-3265-44a1-9438-584d27816396,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 92,USD,5000,7000,None,None,5000,7000,None,None,IVÁN CAPOTE,1973,<NA>,Alter Ego,sculpture,steel,1.75,15,32.5,in,no,yes,yes,2008,"Galería Habana, Havana
+Acquired from the above by the present owner, 2008","installation, steel, sculpture, two parts, abstract shapes, shadow play",None,None,"IVÁN CAPOTE (B. 1973)
+Alter Ego
+steel, in two parts
+installation dimensions are variable
+(i) 32
+1
+⁄
+2
+ x 15 x 1
+3
+⁄
+4
+ in. (82.6 x 38.1 x 4.4 cm.)
+(ii) 31
+1
+⁄
+2
+ x 18 x 1
+3
+⁄
+4
+ in. (82.6 x 45.7 x 4.4 cm.)
+Executed in 2008.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0092_000(ivan_capote_alter_ego_d6567400115756).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ivan-capote-b-1973-92/283901?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+6fcf70e4-1a8e-4952-a8e4-e9ee160ec964,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 93,USD,3000,5000,None,None,3000,5000,None,None,CARLOS ESTÉVEZ,1969,<NA>,El coleccionista,mixed media,"pastel, colored pencil and collage on paper",<NA>,27.5,39.5,in,yes,yes,yes,2006,"José Alonso Fine Arts, Miami
+Acquired from the above by the present owner, 2006","human figure, insects, collage, pastel, colored pencil, anatomical illustration",None,None,"CARLOS ESTÉVEZ (B. 1969)
+El coleccionista
+signed, inscribed and dated 'Carlos Estévez Miami 2006' (lower left); titled 'El coleccionista' (lower right)
+pastel, colored pencil and collage on paper
+39
+1
+⁄
+2
+ x 27
+1
+⁄
+2
+ in. (100.3 x 69.9 cm.)
+Executed in 2006.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0093_000(carlos_estevez_el_coleccionista_d6567401110645).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/carlos-estevez-b-1969-93/283902?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+40cc74f5-70bb-4d2c-9fa9-987c5a2db269,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 94,USD,4000,6000,None,None,4000,6000,None,None,ARMANDO MARIÑO,1968,<NA>,"Yo, Myself and the Holy Father",painting,oil on canvas,<NA>,52.5,70.5,in,yes,yes,yes,2002,"Acquired directly from the artist by the present owner, 2006","two heads, heart, brain, urinal, mountains, sunset, landscape, palm tree, dramatic expression, human anatomy",None,None,"ARMANDO MARIÑO (B. 1968)
+Yo, Myself and the Holy Father
+signed, inscribed, titled and dated 'Armando Mariño Yo, Myself and the holly [sic.] father Madrid 2002' (on the reverse)
+oil on canvas
+70
+1
+⁄
+2
+ x 52
+1
+⁄
+2
+ in. (179.1 x 133.4 cm.)
+Painted in 2002.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0094_000(armando_marino_yo_myself_and_the_holy_father114311).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/armando-marino-b-1968-94/283903?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+1399b6a8-8ed4-4114-8cfd-f987e07e3906,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 95,USD,3000,5000,None,None,3000,5000,None,None,CELIA-YUNIOR,<NA>,<NA>,Colonias epífitas (Epiphyte Colonies),mixed media,"ink, highlighter, polaroids",<NA>,12.7,21,cm,yes,yes,yes,2012,"Acquired directly from the artists by the present owner, 2015","journal, photographs, architecture, flora, ink, highlighter, urban landscapes, handwritten text, epiphytes, installations",None,None,"Colonias epífitas 
+(
+Epiphyte Colonies
+)
+signed, titled and dated 'Colonias Epífitas 2012-2014 Celia-Yunior' (on the title page)
+ink, highlighter and 28 unique polaroids in journal
+installation dimensions are variable
+closed: 8
+1
+⁄
+4
+ x 5 in. (21 x 12.7 cm.)
+open: 8
+1
+⁄
+4
+ x 10 in. (21 x 25.4 cm.)
+Executed in 2012-2014.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0095_000(celia-yunior_colonias_epifitas114359).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/celia-yunior-est-2004-95/283905?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+0ce1b05a-dc2b-425f-80a1-4efdb0e1ceae,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 96,USD,2000,4000,None,None,2000,4000,None,None,CARLOS CÁRDENAS,1962,<NA>,Quiero ser un hombre libre,mixed media,"oil, graphite and coin on panel",<NA>,5.25,15.25,in,yes,yes,yes,1989,"Acquired directly from the artist by the present owner, 2005","man, suit, chain, coin, speech bubble, grey background, floral pin, standing figure",None,None,"CARLOS CÁRDENAS (B. 1962)
+Quiero ser un hombre libre
+titled 'Quiero ser un hombre libre' (upper left); signed and dated 'CARLOS RGUEZ CARDENAS 1989' (on the reverse)
+oil, graphite and coin on panel
+15
+1
+⁄
+4
+ x 5
+1
+⁄
+4
+ in. (38.7 x 13.3 cm.)
+Executed in 1989.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0096_000(carlos_cardenas_quiero_ser_un_hombre_libre114840).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/carlos-cardenas-b-1962-96/284894?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,3500.0,2916.666666666667
+f7914f96-24fb-4406-be5e-e5e88d9101d1,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 97,USD,3000,5000,None,None,3000,5000,None,None,JOSÉ BEDIA,1959,<NA>,Untitled,mixed media,"photo silkscreen, collage, crayon and ink on paper",<NA>,20.125,30,in,yes,yes,no,1985,"Acquired directly from the artist by the present owner, 2004","figure, man, landscape, black and white, abstract patterns, textures, crayon, collage, ink, silkscreen",None,None,"JOSÉ BEDIA (B. 1959)
+Untitled
+faintly signed and dated 'J. Bedia 85' (lower right)
+photo silkscreen, collage, crayon and ink on paper
+30 x 20
+1
+⁄
+8
+ in. (76.2 x 51.1 cm.)
+Executed in 1985.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0097_000(jose_bedia_untitled114922).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jose-bedia-b-1959-97/283907?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+be982f06-c239-435a-891e-92b3dfcf89bc,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 98,USD,3000,5000,None,None,3000,5000,None,None,TONEL (ANTONIO ELIGIO FERNÁNDEZ),1958,<NA>,Cumbres del arte,drawing,watercolor and ink on paper,<NA>,19.5,25.375,in,yes,yes,yes,1984,"Acquired directly from the artist by the present owner, 2005","mountain, color palette, clouds, watercolor, ink, artistic theme, abstract shapes, landscape, vibrant colors, text",None,None,"TONEL (ANTONIO ELIGIO FERNÁNDEZ) (B. 1958)
+Cumbres del arte
+signed and dated 'Eligio TONEL 1984-1985' (lower left)
+watercolor and ink on paper
+25
+3
+⁄
+8
+ x 19
+1
+⁄
+2
+ in. (64.2 x 49.5 cm.)
+Executed in 1984-1985.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0098_000(tonel_cumbres_del_arte115022).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/tonel-antonio-eligio-fernandez-b-1958-98/283906?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+a08b4694-1c15-4056-8ec6-11c12208316b,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 99,USD,3000,5000,None,None,3000,5000,None,None,ADRIANO BUERGO,1964,<NA>,"Naturaleza muerta, naturaleza viva",painting,acrylic on canvas,<NA>,62.5,54.75,in,yes,yes,yes,1988,"Private collection, Cuba, gift from the artist, 
+circa 
+1990
+Acquired from the above by the present owner, 2006","still life, cross, rays, fruit, organic shapes, textures, dark background, contrast, light, color",None,None,"Naturaleza muerta, naturaleza viva
+signed, titled and dated 'Adriano Buergo Naturaleza muerta - Naturaleza viva 1988' (on the reverse)
+acrylic on canvas
+54
+3
+⁄
+4
+ x 62
+1
+⁄
+2
+ in. (139.1 x 158.8 cm.)
+Painted in 1988.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0099_000(adriano_buergo_naturaleza_muerta_naturaleza_viva115130).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/adriano-buergo-b-1964-99/283908?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+920d1152-099f-482d-88a4-b6e129e03b49,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 100,USD,6000,8000,None,None,6000,8000,None,None,AIMÉE GARCÍA,1972,<NA>,Untitled (Woman with Globe),painting,oil on canvas,<NA>,24.875,19.875,in,yes,yes,no,1995,"Acquired directly from the artist by the present owner, 2011","woman, globe, reading, seated, landscape, green drapery, book, palette, table, column",None,None,"AIMÉE GARCÍA (B. 1972)
+Untitled (Woman with Globe)
+signed and dated 'AIMEE. 95.' (lower right)
+oil on canvas
+19
+7
+⁄
+8
+ x 24
+7
+⁄
+8
+ in. (50.5 x 63.2 cm.)
+Painted in 1995.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0100_000(aimee_garcia_untitled121018).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/aimee-garcia-b-1972-100/283911?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+4ff20787-76ea-45f0-81a0-7a43e1829440,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 101,USD,2000,4000,None,None,2000,4000,None,None,KCHO,1970,<NA>,No juego,drawing,pastel and ink on paper,<NA>,60,49,in,yes,yes,yes,1995,"Private collection, Florida
+Barbara Gladstone Gallery, New York
+Acquired from the above by the present owner, 2016","playground equipment, swings, nets, ropes, poles, structures, drawings, lines, abstract shapes, black background",None,None,"No juego
+signed and dated 'KCHO 95' (lower right); titled 'No juego' (lower center)
+pastel and ink on paper
+49 x 60 in. (124.5 x 152.4 cm.)
+Executed in 1995.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0101_000(kcho_no_juego121106).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/kcho-b-1970-101/284896?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,3500.0,2916.666666666667
+0274d1a7-b000-4e94-8623-b9f49d44f201,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 102,USD,15000,25000,None,None,15000,25000,None,None,ALEXANDRE ARRECHEA,1970,<NA>,Alamar,painting,watercolor on paper,<NA>,44.75,83.5,in,yes,yes,yes,2015,"Acquired directly from the artist by the present owner, 2015","towers, urban landscape, architectural elements, black and white, abstract shapes",None,None,"Alamar
+signed and dated 'Arrechea 2015' (lower right)
+watercolor on paper, in four parts
+installation dimensions are variable
+each: 83
+1
+⁄
+2
+ x 44
+3
+⁄
+4
+ in. (212.1 x 113.7 cm.)
+Painted in 2015.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0102_000(alexandre_arrechea_alamar121215).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/alexandre-arrechea-b-1970-102/283913?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+eed51b18-f5cd-44d6-8534-4398f4cb9940,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 103,USD,5000,7000,None,None,5000,7000,None,None,ARTURO CUENCA,1955,2021,Che: Science & Ideology,photographs,black and white photograph,<NA>,72,48,in,no,yes,yes,1987,"Acquired directly from the artist by the present owner, 2006","billboard, scaffolding, black and white, urban landscape, graffiti, architecture, sign, silhouette, letters, Che Guevara",None,None,"Che: Science & Ideology
+black and white photograph
+48 x 72 in. (121.9 x 182.9 cm.)
+Executed 
+circa 
+1987-1988.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0103_000(arturo_cuenca_che_science_amp_ideology121521).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/arturo-cuenca-1955-2021-103/284895?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+db397a01-a164-4ed6-8187-f3c276bfd507,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 104,USD,2000,4000,None,None,2000,4000,None,None,GLEXIS NOVOA,1964,<NA>,¿Guayugua?,painting,oil on paper,<NA>,27.25,19,in,yes,yes,yes,1988,"Acquired directly from the artist by the present owner, 2011","text, abstract, green, red, oil painting, question mark, brush strokes, color field, paper, signed",None,None,"¿Guayugua?
+signed and dated 'Glexis 88' (lower right)
+oil on paper
+19 x 27
+1
+⁄
+4
+ in. (48.3 x 69.2 cm.)
+Painted in 1988.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0104_000(glexis_novoa_guayugua121631).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/glexis-novoa-b-1964-104/283912?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,3200.0,2666.666666666667
+b37b40eb-9c39-4832-9fd9-00212d01d39f,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 105,USD,10000,15000,None,None,10000,15000,None,None,TANIA BRUGUERA,1968,<NA>,El peso de la culpa (Untitled #3),prints,color print mounted on board,<NA>,24,26.25,in,yes,yes,no,1998,"Acquired directly from the artist by the present owner, 2006","woman, meat, blood, apron, hand to mouth, expression, photography, performance art, human body, skin",None,None,"El peso de la culpa (Untitled #3)
+signed, numbered and dated 'Tania Bruguera 3/5 1998' (on label affixed to the backing board)
+color print mounted on board
+26
+1
+⁄
+4
+ x 24 in. (66.7 x 61 cm.)
+Executed in 1998. This work is number three from an edition of five.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0105_000(tania_bruguera_el_peso_de_la_culpa121742).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/tania-bruguera-b-1968-105/283914?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+e41f8523-77ea-448a-92d7-57f3202f2794,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 106,USD,8000,12000,None,None,8000,12000,None,None,MANUEL MENDIVE,1944,<NA>,Los hombres,painting,oil on board,<NA>,24,19.625,in,yes,yes,yes,1985,"Pan American Art Projects, Miami
+Acquired from the above by the present owner","two figures, abstract figures, birds, colorful patterns, dark background",None,None,"Los hombres
+signed and dated 'MENDIVE 1985' (lower right)
+oil on board
+19
+5
+⁄
+8
+ x 24 in. (49.9 x 61 cm.)
+Painted in 1985.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0106_000(manuel_mendive_los_hombres121857).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/manuel-mendive-b-1944-106/283915?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,10500.0,8750.0
+f0a4366d-d913-4856-a261-123cb7773b70,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 107,USD,20000,25000,None,None,20000,25000,None,None,RENÉ PORTOCARRERO,1912,1985,De la serie Gestáltica,painting,oil on masonite,<NA>,16,20,in,yes,yes,yes,1948,"Private collection, Cuba, acquired directly from the artist, 
+circa 
+1950s
+By descent from the above, 2019
+Acquired from the above by the present owner","abstract shapes, eyes, colorful patterns, geometric forms, lines",None,None,"RENÉ PORTOCARRERO (1912-1985)
+De la serie Gestáltica
+signed and dated 'PORTOCARRERO 1948' (lower left)
+oil on masonite
+20 x 16 in. (50.8 x 40.6 cm.)
+Painted in 1948.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0107_000(rene_portocarrero_de_la_serie_gestaltica_d6567415122014).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rene-portocarrero-1912-1985-107/283916?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,23000.0,19166.666666666668
+48561609-f4d2-45f7-a1bd-5a57547a9d2b,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 108,USD,15000,20000,None,None,15000,20000,None,None,RENÉ PORTOCARRERO,1912,1985,Florero,painting,oil on masonite,<NA>,20.125,24,in,yes,yes,yes,1961,"Private collection, Cuba, gift from the artist, 
+circa 
+1960s
+Private collection, Spain, by descent from the above
+Acquired from the above by the present owner, 2006","flowers, vase, blue background, red flower, white flower, yellow flower, pink flower, green leaves, floral arrangement",None,None,"RENÉ PORTOCARRERO (1912-1985)
+Florero
+signed and dated 'PORTOCARRERO 61' (lower right)
+oil on masonite
+24 x 20
+1
+⁄
+8
+ in. (61 x 51.1 cm.)
+Painted in 1961.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0108_000(rene_portocarrero_florero122153).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rene-portocarrero-1912-1985-108/283918?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,17500.0,14583.333333333334
+93ba10f8-d46a-4a33-8b8e-2221f4afe508,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 109,USD,30000,50000,None,None,30000,50000,None,None,RENÉ PORTOCARRERO,1912,1985,Retrato de dama,painting,oil on panel,<NA>,20.5,25.125,in,yes,yes,yes,1945,"Portocarrero family collection, Cuba
+Private collection, Cuba, gift from the above
+Private collection, Barcelona, by descent from the above
+Acquired from the above by the present owner, 2006","woman, portrait, flowers, jewelry, hair, arm, face, hand, colors, decoration",None,None,"RENÉ PORTOCARRERO (1912-1985)
+Retrato de dama
+signed and dated 'PORTOCARRERO 1945' (lower right)
+oil on panel
+25
+1
+⁄
+8
+ x 20
+1
+⁄
+2
+ in. (63.8 x 52.1 cm.)
+Painted in 1945.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0109_000(rene_portocarrero_retrato_de_dama122337).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rene-portocarrero-1912-1985-109/283917?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,42000.0,35000.0
+6c36aed1-4f13-4204-96cd-c23bc1eb2b83,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 110,USD,20000,25000,None,None,20000,25000,None,None,MARIO CARREÑO,1913,1999,Untitled,painting,oil on canvas,<NA>,15,18.125,in,yes,yes,no,1988,"Private collection, Washington, D.C., acquired directly from the artist, 1988","woman, guitar, red dress, house, birds, watermelon, blue background, geometric patterns, vase, landscape",None,None,"MARIO CARREÑO (1913-1999)
+Untitled
+signed 'Carreño' (lower right)
+oil on canvas
+18
+1
+⁄
+8
+ x 15 in. (46 x 38.1 cm.)
+Painted in 1988.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0110_000(mario_carreno_untitled094707).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/mario-carreno-1913-1999-110/283919?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,23000.0,19166.666666666668
+194ef4d1-79e2-4288-ba99-b45901574300,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 111,USD,4000,6000,None,None,4000,6000,None,None,JUAN MANUEL HERNÁNDEZ,1969,<NA>,Atravesando el camino,painting,oil on canvas,<NA>,24,30,in,yes,yes,yes,2010,"Private collection, New York","path, waterfall, trees, foliage, river, jungle, rocks, leaves, vegetation, landscape",None,None,"JUAN MANUEL HERNÁNDEZ (B. 1969)
+Atravesando el camino
+signed 'J. Manuel Hdez' (lower left); signed again, titled and dated again 'J. Manuel Hdez 2010 ATRAVESANDO EL CAMINO' (on the reverse)
+oil on canvas
+30 x 24 in. (76.2 x 61 cm.)
+Painted in 2010.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0111_000(juan_manuel_hernandez_atravesando_el_camino122652).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/juan-manuel-hernandez-b-1969-111/283920?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+960770c3-3f2f-484c-ba4e-4bfa99d823a3,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 112,USD,20000,25000,None,None,20000,25000,None,None,JOSÉ BEDIA,1959,<NA>,Sra. de la luna cambiante,painting,acrylic on canvas,<NA>,103.5,70,in,yes,yes,yes,1990,"Acquired directly from the artist by the present owner, 1999","woman, moon, blue, abstract, stars, house, hands, figures, landscape, lines",None,None,"JOSÉ BEDIA (B. 1959)
+Sra. de la luna cambiante
+signed 'Bedia' (lower right); titled 'SRA de la Luna Cambiante' (center)
+acrylic on canvas
+70 x 103
+1
+⁄
+2
+ in. (177.8 x 262.9 cm.)
+Painted 
+circa 
+1990.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0112_000(jose_bedia_sra_de_la_luna_cambiante122831).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jose-bedia-b-1959-112/283921?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,23000.0,19166.666666666668
+a386cfd7-062c-4584-8bad-5dd408fa1f1f,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 113,USD,12000,18000,None,None,12000,18000,None,None,ROBERTO FABELO,1950,<NA>,Pequeña fantasía,painting,watercolor on paper,<NA>,30.25,22.5,in,yes,yes,yes,1999,"Acquired directly from the artist by the present owner, 1999","woman, mermaid, fish, bird, man, shell, water, animal, sea, fantasy",None,None,"Pequeña fantasía
+signed, titled and dated 'pequeña fantasía Fabelo 1999' (lower right)
+watercolor on paper
+22
+1
+⁄
+2
+ x 30
+1
+⁄
+4
+ in. (57.2 x 76.8 cm.)
+Painted in 1999.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0113_000(roberto_fabelo_pequena_fantasia100327).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/roberto-fabelo-b-1950-113/283922?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,16500.0,13750.0
+747cfed8-b7c6-41cf-9641-e53d3ee35b5f,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 114,USD,6000,8000,None,None,6000,8000,None,None,JOSÉ BEDIA,1959,<NA>,"Juega, gana, pierde",painting,pastel and acrylic on canvas,<NA>,165,83,in,yes,yes,yes,1994,"George Adams Gallery, New York
+Acquired from the above by the present owner, 1998","game board, numbers, playing pieces, figures, text, symbols, abstract shapes, black background, yellow accents, geometric patterns",None,None,"JOSÉ BEDIA (B. 1959)
+Juega, gana, pierde
+signed and dated 'J Bedia 94' (lower left); titled 'JUEGA GANA PIERDE' (center)
+pastel and acrylic on canvas
+83 x 165
+1
+⁄
+4
+ in. (210.9 x 419.7 cm.)
+Painted in 1994.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0114_000(jose_bedia_juega_gana_pierde051714).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jose-bedia-b-1959-114/283923?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+5e266885-c95e-4e03-8838-3e9e3de3d2a1,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 115,USD,3000,5000,None,None,3000,5000,None,None,WILLIAMS CARMONA,1967,<NA>,Mi caballero de Paris,mixed media,oil on found pan,1.5,10.75,17.75,in,yes,yes,yes,<NA>,"OBRA Galería Alegría, San Juan
+Acquired from the above by the present owner, 2016","man, red face, mask, brown background, figures, collar, hair, sculpture, abstract forms, multiple faces",None,None,"Mi caballero de Paris
+signed 'CARMONA' (lower right); titled 'MI CABALLERO DE PARIS' (lower center)
+oil on found pan
+17
+3
+⁄
+4
+ x 10
+3
+⁄
+4
+ x 1
+1
+⁄
+2
+ in. (45.1 x 27.3 x 3.8 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0115_000(williams_carmona_mi_caballero_de_paris123052).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/williams-carmona-b-1967-115/283924?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+42510f67-6ec2-47c9-9191-c9dd68fbebb4,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 116,USD,1000,2000,None,None,1000,2000,None,None,ERNESTO PUJOL,1957,<NA>,Zapato,mixed media,lace and acrylic,<NA>,13,13.125,in,yes,yes,yes,1994,Acquired directly from the artist by the present owner,"shoe, lace, floral pattern, black, white, textile, acrylic, frame",None,None,"Zapato
+signed, titled and dated 'Pujol Zapato 94' (on the reverse)
+lace and acrylic
+13
+1
+⁄
+8
+ x 13 in. (33.3 x 33 cm.)
+Executed in 1994.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0116_000(ernesto_pujol_zapato123139).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ernesto-pujol-b-1957-116/283926?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,1600.0,1333.3333333333335
+eacb9f8a-dd68-4d45-867d-03a463fee3fe,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 117,USD,12000,18000,None,None,12000,18000,None,None,"VARIOUS ARTISTS (PEDRO ÁLVAREZ, BELKIS AYÓN, ABEL BARROSO, JACQUELINE BRITO, YAMALIS BRITO, CARLOS ESTÉVEZ, LUIS GÓMEZ, SANDRA RAMOS, FERNANDO RODRÍGUEZ, JOSÉ ÁNGEL TOIRAC AND TONEL)",<NA>,<NA>,Portfolio of 11 prints in box case,prints,"lithographs, photolithographs, woodcuts, linocut, collagraph, etching",<NA>,22,30,in,yes,yes,yes,1998,"Arizona State University Art Museum, Tempe
+Acquired from the above by the present owner, 1999","prints, abstract forms, figures, objects, animals, portraits, text, landscapes, still life, clocks",None,None,"VARIOUS ARTISTS (PEDRO ÁLVAREZ, BELKIS AYÓN, ABEL BARROSO, JACQUELINE BRITO, YAMALIS BRITO, CARLOS ESTÉVEZ, LUIS GÓMEZ, SANDRA RAMOS, FERNANDO RODRÍGUEZ, JOSÉ ÁNGEL TOIRAC AND TONEL)
+Portfolio of 11 prints in box case
+each print is signed by the respective artist and numbered '14/45' (lower edge)
+various media: lithographs and photolithographs, woodcuts, linocut, collagraph, and etching, in eleven parts
+each: 30 x 22 in. (76.2 x 55.9 cm.)
+Executed in 1998-1999. This portfolio is edition 14 of 45 plus 10 artist's proofs. 
+Printed in conjunction with 
+Contemporary Art from Cuba: Irony and Survival on the Utopian Island
+, at Arizona State University Museum. Published by Segura Publishing Company, Tempe and Armstrong-Prior, Phoenix.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0117_000(various_artists_portfolio_of_11_prints_in_box_case_d6567425123235).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/various-artists-pedro-alvarez-belkis-ayon-abel-barroso-jacqueline-117/284897?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,16500.0,13750.0
+84c88bc0-ddd4-479f-a0f7-ed97f6f12135,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 118,USD,30000,50000,None,None,30000,50000,None,None,JOSÉ BEDIA,1959,<NA>,Cumpliendo un destino inexorable,painting,"acrylic, pastel and gouache on canvas",<NA>,129.125,70.5,in,no,yes,yes,2010,"Lyle O. Reitzel Gallery, Miami
+Acquired from the above by the present owner, 2010","smoke, ships, water, abstract, landscape, darkness, lines, movement, horizon, waves",None,None,"JOSÉ BEDIA (B. 1959)
+Cumpliendo un destino inexorable
+titled 'cumpliendo un destino inexorable' (lower center)
+acrylic, pastel and gouache on canvas
+70
+1
+⁄
+2
+ x 129
+1
+⁄
+8
+ in. (179.1 x 328 cm.)
+Painted in 2010.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0118_000(jose_bedia_cumpliendo_un_destino_inexorable124034).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jose-bedia-b-1959-118/283927?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,42000.0,35000.0
+a4e0a5da-cfca-42ce-a9f5-bb31dbd22a46,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 119,USD,6000,8000,None,None,6000,8000,None,None,JOSÉ BEDIA,1959,<NA>,Untitled,mixed media,acrylic and metal studs on canvas,<NA>,159.5,62.25,in,no,yes,no,1984,"Galeria Ramis Barquet, New York
+Acquired from the above by the present owner","figures, patterns, abstract shapes, circles, black background, metal studs, organic forms, human silhouette, light, nature",None,None,"JOSÉ BEDIA (B. 1959)
+Untitled
+acrylic and metal studs on canvas 
+62
+1
+⁄
+4
+ x 159
+1
+⁄
+2
+ in. (158.1 x 405.1 cm.)
+Executed in 1984.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0119_000(jose_bedia_untitled051846).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jose-bedia-b-1959-119/283930?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,7200.0,6000.0
+b0267762-8261-4990-8065-31a2148a9848,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 120,USD,3000,5000,None,None,3000,5000,None,None,ERNESTO ESTÉVEZ GARCÍA,1967,<NA>,Cuando despierta el valle,painting,oil on canvas,<NA>,14.75,12.25,in,yes,yes,yes,2013,"Private collection, Florida, acquired directly from the artist
+Anon. sale; Christie's, New York, 18 December 2014, lot 180
+Acquired at the above sale by the present owner","valley, mountains, fog, palm trees, landscape, greenery, sunrise, fields, nature, scenery",None,None,"ERNESTO ESTÉVEZ GARCÍA (B. 1967)
+Cuando despierta el valle
+signed and dated 'Estévez García 2013' (lower right); signed again, titled and dated again 'CUANDO DESPIERTA EL VALLE 2013 Ernesto Estévez García' (on the reverse)
+oil on canvas
+12
+1
+⁄
+4
+ x 14
+3
+⁄
+4
+ in. (31.1 x 37.5 cm)
+Painted in 2013.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0120_000(ernesto_estevez_garcia_cuando_despierta_el_valle_d6567428124202).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ernesto-estevez-garcia-b-1967-120/284898?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+9fb455f7-b48a-4798-8134-1f649a8a6ff9,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 121,USD,2000,3000,None,None,2000,3000,None,None,EMILIO SÁNCHEZ,1921,1999,"Untitled (Smokestacks, Night and Day) [Two Works]",painting,watercolor on paper,<NA>,30,22.125,in,yes,yes,no,1960,Acquired directly from the artist by the present owner,"smokestacks, night, day, watercolor, red, black, blue, paper",None,None,"EMILIO SÁNCHEZ (1921-1999)
+Untitled (Smokestacks, Night 
+and 
+Day) 
+[Two Works]
+(i) 
+Untitled (Smokestacks, Night)
+signed with the artist's initials 'ES' (lower left)
+watercolor on paper
+22
+1
+⁄
+8
+ x 30 in. (56.2 x 76.2 cm.)
+Painted 
+circa 
+1960s.
+(ii) 
+Untitled (Smokestacks, Day)
+signed with the artist's initials 'ES' (lower left)
+watercolor on paper
+22
+1
+⁄
+8
+ x 30 in. (56.2 x 76.2 cm.)
+Painted 
+circa 
+1960s.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0121_000(emilio_sanchez_untitled_two_works050507).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/emilio-sanchez-1921-1999-121/283929?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+96ecb6f1-d890-474f-8aef-e6da71ee39a6,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 122,USD,30000,40000,None,None,30000,40000,None,None,AGUSTÍN CÁRDENAS,1927,2001,Double Visage (double face),sculpture,white Carrara marble,6.5,11,21.75,in,yes,yes,yes,1983,"Private collection, Paris
+Acquired from the above by the present owner, 2015","double face, sculpture, white marble, abstract forms, kissing shapes, unified structure, contemporary art",None,None,"AGUSTÍN CÁRDENAS (1927-2001)
+Double Visage (double face)
+incised with the artist's signature and date 'Cárdenas 83' (on the base)
+white Carrara marble
+21
+3
+⁄
+4
+ x 11 x 6
+1
+⁄
+2
+ in. (55.2 x 27.9 x 16.5 cm.)
+Executed in 1983.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0122_000(agustin_cardenas_double_visage124621).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/agustin-cardenas-1927-2001-122/283932?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,36000.0,30000.0
+d67c4435-8110-47c8-8f0d-83ea0c94a542,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 123,USD,12000,18000,None,None,12000,18000,None,None,AGUSTÍN FERNÁNDEZ,1928,2006,Untitled,painting,oil on canvas,<NA>,43.25,51.125,in,yes,yes,no,1962,"Private collection, Switzerland, acquired directly from the artist, 
+circa 
+1980s
+By descent from the above to the present owner","abstract, form, figure, brown, white, oil painting, smooth surface, rounded shape, shadow, light",None,None,"AGUSTÍN FERNÁNDEZ (1928-2006)
+Untitled
+signed, inscribed and dated ‘Agustín Fernández 62 Paris‘ (on the reverse)
+oil on canvas
+51
+1
+⁄
+8
+ x 43
+1
+⁄
+4
+ in. (129.9 x 109.9 cm.)
+Painted in 1962.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0123_000(agustin_fernandez_untitled124828).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/agustin-fernandez-1928-2006-123/283934?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,16500.0,13750.0
+cc347988-67ed-4d74-b9dd-a213c99ce5e2,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 124,USD,10000,15000,None,None,10000,15000,None,None,MARIANA PALMA,1979,<NA>,Untitled,painting,acrylic and oil on canvas,<NA>,51.375,51.375,in,no,yes,no,2013,"Casa Triângulo, São Paulo
+Acquired from the above by the present owner, 2014","floral, fabric, fruit, red, abstract, organic forms, textures, nature, botanical, shapes",None,None,"Untitled
+acrylic and oil on canvas
+51
+3
+⁄
+8
+ x 51
+3
+⁄
+8
+ in. (130.5 x 130.5 cm.)
+Painted in 2013.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0124_000(mariana_palma_untitled124918).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/mariana-palma-b-1979-124/284899?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,13500.0,11250.0
+19c34a0d-db93-4607-a2c6-cfbf05c06839,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 125,USD,4000,6000,None,None,4000,6000,None,None,JESÚS 'BUBU' NEGRÓN,1975,<NA>,Papel de colillas,mixed media,"cigarette ends, lipstick and glue",<NA>,26,54.5,in,no,yes,yes,2011,"Roberto Paradise, San Juan
+Acquired from the above by the present owner, 2011","cigarette ends, lipstick, glue, wooden frame, abstract pattern, textured surface, colors, yellow, white, collage",None,None,"JESÚS 'BUBU' NEGRÓN (B. 1975)
+Papel de colillas
+cigarette ends, lipstick and glue, in artist's wooden frame
+54
+1
+⁄
+2
+ x 26 in. (138.4 x 66 cm.)
+Executed in 2011.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0125_000(jesus_bubu_negron_papel_de_colillas125011).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/jesus-bubu-negron-b-1975-125/284906?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+56e390da-b7b5-4266-841d-7d2919bd56e0,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 126,USD,3000,5000,None,None,3000,5000,None,None,GABRIEL OROZCO,1962,<NA>,Blue Memory,photographs,Cibachrome print,<NA>,18.375,12.25,in,yes,yes,yes,2000,"Kurimanzutto, Mexico City
+Acquired from the above by the present owner, 2002","garden, rocks, trees, grass, zen garden, nature, landscape, foliage",None,None,"Blue Memory
+signed, titled, numbered, and dated 'GABRIEL OROZCO BLUE MEMORY 4/5 2000' (on the reverse)
+Cibachrome print
+image: 12
+1
+⁄
+4
+ x 18
+3
+⁄
+8
+ in. (31.1 x 46.7 cm.)
+sheet: 15
+7
+⁄
+8
+ x 20 in. (40.3 x 50.8 cm.)
+Executed in 2000. This work is number four from an edition of five.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0126_000(gabriel_orozco_blue_memory125056).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/gabriel-orozco-b-1962-126/284900?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+ff022b53-18f7-4140-9a80-320e06e6a275,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 127,USD,5000,7000,None,None,5000,7000,None,None,IRAN DO ESPÍRITO SANTO,1963,<NA>,Shirt Box,sculpture,marble,10.125,14,2.75,in,no,yes,yes,2005,"Galeria Fortes Vilaça, São Paulo
+Acquired from the above by the present owner, 2005","box, marble",None,None,"IRAN DO ESPÍRITO SANTO (B. 1963)
+Shirt Box
+marble
+2
+3
+⁄
+4
+ x 14 x 10
+1
+⁄
+8
+ in. (7 x 35.6 x 25.7 cm.)
+Executed in 2005.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0127_000(iran_do_espirito_santo_shirt_box125229).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/iran-do-espirito-santo-b-1963-127/284908?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,6200.0,5166.666666666667
+17791567-1830-4fa3-a031-d2da24201430,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 128,USD,3000,5000,None,None,3000,5000,None,None,GABRIEL KURI,1970,<NA>,Self-Portrait as a Contention and Flow Chart,mixed media,"weatherproof role, two plastic bottles, string and undisclosed liquid",7,38.25,39.375,in,no,yes,yes,2009,"Esther Schipper, Berlin
+Acquired from the above by the present owner, 2011","self-portrait, flow chart, plastic bottles, string, undisclosed liquid",None,None,"Self-Portrait as a Contention and Flow Chart
+weatherproof role, two plastic bottles, string and undisclosed liquid
+39
+3
+⁄
+8
+ x 38
+1
+⁄
+4
+ x 7 in. (98.2 x 97.2 x 17.8 cm.)
+Executed in 2009.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0128_000(gabriel_kuri_self-portrait_as_a_contention_and_flow_chart125451).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/gabriel-kuri-b-1970-128/284907?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+34e1b76f-8e53-471e-830d-c8b6d398cf71,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 129,USD,4000,6000,None,None,4000,6000,None,None,DAMIÁN ORTEGA,1967,<NA>,Recorridos,photographs,chromogenic print,<NA>,19.125,12.75,in,yes,yes,yes,2002,"Kurimanzutto, Mexico City
+Acquired from the above by the present owner, 2002","interior, flooring, door, stairs, garden, pottery",None,None,"DAMIÁN ORTEGA (B. 1967)
+Recorridos
+each signed 'DAMIÁN ORTEGA' (on a label affixed to the backing board)
+chromogenic print, in six parts
+installation dimensions are variable
+each: 12
+3
+⁄
+4
+ x 19
+1
+⁄
+8
+ in. (32.4 x 48.6 cm.)
+Executed in 2002. This work is number one from an edition of five plus two artist's proofs.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0129_000(damian_ortega_recorridos121458).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/damian-ortega-b-1967-129/283935?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+bba13762-8371-4782-8411-8171fa0b2292,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 130,USD,3000,5000,None,None,3000,5000,None,None,CARLOS AMORALES,1970,<NA>,Manimal,painting,oil on canvas,<NA>,78.75,58.875,in,no,yes,yes,2004,"Yvon Lambert, Paris
+Acquired from the above by the present owner","animal, silhouette, red, black, lines, canvas, abstraction, movement, fur, background",None,None,"Manimal
+oil on canvas
+58
+7
+⁄
+8
+ x 78
+3
+⁄
+4
+ in. (149.6 x 200 cm.)
+Painted in 2004.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0130_000(carlos_amorales_manimal010033).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/carlos-amorales-b-1970-130/283937?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+6fa73b67-b001-46d6-87f7-aa96cd249d4b,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 131,USD,8000,12000,None,None,8000,12000,None,None,NADÍN OSPINA,1960,<NA>,Untitled (Mickey Mouse); Untitled (Minnie Mouse); Untitled (Donald Duck) [Three Works],ceramics,painted ceramic,5,5.25,8.5,in,no,yes,no,1996,"Galería El Museo, Bogotá
+Private collection, Miami
+Anon. sale; Christie's, Online, 29 May 2019, lot 48
+Acquired at the above sale by the present owner","Mickey Mouse, Minnie Mouse, Donald Duck, painted ceramic, sculptures",None,None,"NADÍN OSPINA (B. 1960)
+Untitled 
+(Mickey Mouse); 
+Untitled 
+(Minnie Mouse); 
+Untitled 
+(Donald Duck) [Three Works]
+(i) 
+Untitled 
+(Mickey Mouse)
+painted ceramic
+8
+1
+⁄
+2
+ x 5
+1
+⁄
+4
+ x 5 in. (21.6 x 13.3 x 12.7 cm.)
+Executed in 1996.
+(ii) 
+Untitled 
+(Minnie Mouse)
+painted ceramic
+8
+3
+⁄
+4
+ x 7 x 7 in. (22.2 x 17.8 x 17.8 cm.)
+Executed in 1996.
+(iii) 
+Untitled 
+(Donald Duck)
+painted ceramic
+7
+1
+⁄
+4
+ x 5
+1
+⁄
+4
+ x 6
+1
+⁄
+2
+ in. (18.4 x 13.3 x 16.5 cm.)
+Executed in 1996.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0131_000(nadin_ospina_untitled_untitled_untitled_three_works010119).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/nadin-ospina-b-1960-131/284901?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+033f5f93-7d83-4ed5-965b-bbe8eb50f814,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 132,USD,30000,40000,None,None,30000,40000,None,None,DAVID MANZUR,1929,<NA>,Damas con corno,mixed media,acrylic and collage on canvas,<NA>,19.25,23.25,in,yes,yes,yes,2021,Acquired directly from the artist by the present owner,"women, traditional clothing, horn, instruments, abstract figures, brown tones, collage",None,None,"Damas con corno
+signed and dated 'Manzur 21' (lower right); signed again twice, titled, and dated 'Manzur 2021 DAMAS CON CORNO' (on the reverse)
+acrylic and collage on canvas
+23
+1
+⁄
+4
+ x 19
+1
+⁄
+4
+ in. (59.1 x 48.9 cm.)
+Executed in 2021.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0132_000(david_manzur_damas_con_corno010353).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/david-manzur-b-1929-132/283938?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,35500.0,29583.333333333336
+1903a868-6013-4ba1-8225-2f85f884bd2e,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 133,USD,25000,35000,None,None,25000,35000,None,None,FERNANDO BOTERO,1932,2023,Banderillas,drawing,graphite on paper,<NA>,16,11.125,in,yes,yes,yes,<NA>,"Mr. and Mrs. Dario 'Pedro' Piedrahita, Buenos Aires, gift from the artist
+By descent from the above to the present owner","bull, matador, banderillas, arena, figure, horns, tail, costume, lines, sketch",None,None,"Banderillas
+signed and inscribed 'Botero A Pedro y Sonia' (lower right)
+graphite on paper
+11
+1
+⁄
+8
+ x 16 in. (28.3 x 40.6 cm.)",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0133_000(fernando_botero_banderillas112555).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/fernando-botero-1932-2023-133/283939?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+e6450489-0d90-4263-ab45-25c057dc0305,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 134,USD,25000,35000,None,None,25000,35000,None,None,FERNANDO BOTERO,1932,2023,Femme assise,drawing,graphite and charcoal on paper,<NA>,14,17.25,in,yes,yes,yes,1981,"Private collection, Switzerland
+Sale; Sotheby’s, New York, 19 May 1993, lot 193
+Mr. and Mrs. Louis Fodor, Cleveland
+Sale; Sotheby's, New York, 17 December 2021, lot 170
+Acquired at the above sale by the present owner","woman, seated, dress, charcoal, graphite, figure, rounded forms, patterned fabric, neutral background, casual pose",None,None,"Femme assise
+signed, dedicated and dated 'A Joselyn Karpère Botero 81' (lower right)
+graphite and charcoal on paper
+17
+1
+⁄
+4
+ x 14 in. (43.8 x 35.6 cm.)
+Executed in 1981.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0134_000(fernando_botero_femme_assise010613).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/fernando-botero-1932-2023-134/283940?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+cc64f337-c550-48eb-8aae-ea3ed51c38c0,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 135,USD,35000,45000,None,None,35000,45000,None,None,ANA MERCEDES HOYOS,1942,2014,Melón,painting,oil on canvas,<NA>,39.375,39.375,in,yes,yes,yes,2001,"Club El Nogal, Bogotá
+Private collection, Bogotá, 2005
+Gift from the above to the present owner","melon, orange, bowl, sea, blue sky, red shape, yellow, round, fruit, still life",None,None,"Melón
+signed and dated 'hoyos 01' (lower right)
+oil on canvas
+39
+3
+⁄
+8
+ x 39
+3
+⁄
+8
+ in. (100 x 100 cm.)
+Painted in 2001.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0135_000(ana_mercedes_hoyos_melon095303).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/ana-mercedes-hoyos-1942-2014-135/283942?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,42000.0,35000.0
+4417ac32-0422-4fed-a352-20b7492a7065,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 136,USD,20000,30000,None,None,20000,30000,None,None,FERNANDO BOTERO,1932,2023,Mujer recostada,drawing,graphite on paper,<NA>,13.875,10.375,in,yes,yes,yes,1965,"Pyramid Galleries, Ltd., Washington, D.C.
+Private collection, United States
+Anon. sale; Sotheby's, New York, 2 December 1981, lot 277
+The Collector's Wall, Sarasota
+Private collection, Sarasota
+Anon. sale; Christie's, New York, 23 November 1993, lot 251
+Private collection, New York
+Anon. sale; Sotheby's, Online, 4 October 2021, lot 539
+Acquired at the above sale by the present owner","woman, reclining, nude, graphite drawing, hair, face, arms, body, paper, sketch",None,None,"Mujer recostada
+signed and dated 'Botero 65' (lower center)
+graphite on paper
+10
+3
+⁄
+8
+ x 13
+7
+⁄
+8
+ in. (26.4 x 35.3 cm.)
+Executed in 1965.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0136_000(fernando_botero_mujer_recostada010838).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/fernando-botero-1932-2023-136/284902?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+4faa9a65-8bde-459b-b6a2-0dab147e60f2,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 137,USD,20000,30000,None,None,20000,30000,None,None,FERNANDO BOTERO,1932,2023,Still Life,drawing,graphite on paper,<NA>,17,13.375,in,yes,yes,yes,1971,"Claude Bernard, Paris
+Private collection, Helsinki, 1971
+By descent from the above to the present owner","still life, bowl, glass, fruit, knife, fork, tablecloth, basket, oranges, plate",None,None,"Still Life
+signed and dated 'Botero 71' (lower right)
+graphite on paper
+13
+3
+⁄
+8
+ x 17 in. (34 x 43.2 cm.)
+Executed in 1971.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0137_000(fernando_botero_still_life011012).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/fernando-botero-1932-2023-137/283943?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,25500.0,21250.0
+12b007cf-5db2-4f6f-aa06-3aa03a06a943,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 138,USD,8000,12000,None,None,8000,12000,None,None,FERNANDO BOTERO,1932,2023,Tête de mouton,drawing,watercolor on paper,<NA>,15.75,12.125,in,yes,yes,yes,1973,"Galerie Claude Bernard, Paris
+William Louis-Dreyfus, Mount Kisco, 1992
+The William Louis-Dreyfus Foundation, Mount Kisco, gift from the above, 2016
+Sale; Sotheby's, Online, 11 April 2023, lot 33
+Acquired at the above sale by the present owner","sheep, head, animal, watercolor, flesh, eye, ear, texture, mouth, detailed",None,None,"Tête de mouton
+signed, inscribed and dated 'B.21 Botero 73' (lower right)
+watercolor on paper
+12
+1
+⁄
+8
+ x 15
+3
+⁄
+4
+ in. (30.8 x 40 cm.)
+Painted in 1973.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0138_000(fernando_botero_tete_de_mouton011140).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/fernando-botero-1932-2023-138/283944?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+0e371832-f5d0-4579-bf64-810b45649946,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 139,USD,35000,45000,None,None,35000,45000,None,None,FERNANDO BOTERO,1932,2023,Nature morte,drawing,watercolor and graphite on paper,<NA>,11.875,16,in,yes,yes,yes,2006,"Private collection, acquired directly from the artist
+Anon. sale; Sotheby's, New York, 2 October 2020, lot 111
+Acquired at the above sale by the present owner","fruit, bowl, teapot, bananas, knife, tablecloth, dish, orange, cucumber, still life",None,None,"Nature morte
+signed and dated 'Botero 06' (lower right)
+watercolor and graphite on paper
+16 x 11
+7
+⁄
+8
+ in. (40.6 x 30.2 cm.)
+Executed in 2006.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0139_000(fernando_botero_nature_morte100125).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/fernando-botero-1932-2023-139/283946?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,42000.0,35000.0
+17b6da2b-bd77-49ba-b1bf-6a893e86b48a,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 140,USD,25000,35000,None,None,25000,35000,None,None,ABIGAIL VARELA,1948,<NA>,Las comadres,sculpture,bronze,18,13.5,24,in,yes,yes,yes,1984,"Galería Freites, Caracas, acquired directly from the artist, 1984
+Private collection, Miami, 1986
+Private collection, Caracas
+Acquired from the above by the present owner","two women, bronze sculpture, seated figures, stylized forms, modern art, high-heeled shoes, abstract representation",None,None,"Las comadres
+incised with artist's signature 'A. Varela' (near the base)
+bronze, in two parts
+installation dimensions are variable
+(i) 24 x 13
+1
+⁄
+2
+ x 18 in. (61 x 34.3 x 45.7 cm.)
+(ii) 21 x 14 x 20 in. (53.3 x 35.6 x 50.8 cm.)
+Executed in 1984. This work is number four from an edition of six.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0140_000(abigail_varela_las_comadres011421).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/abigail-varela-b-1948-140/284903?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,32000.0,26666.666666666668
+d5d4c79b-2883-4f01-b53c-4cf6050648ce,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 141,USD,3000,5000,None,None,3000,5000,None,None,RUFINO TAMAYO,1899,1991,Personaje con red,prints,Mixografía® print on handmade paper,<NA>,23.5,31.375,in,yes,yes,yes,1982,"Bernard and Edith Lewin Collection of Mexican Art, California
+Los Angeles County Museum of Art, California, gift from the above, 1997","figure, red, handmade paper, abstract, circle, human form, texture, pink, gray, outline",None,None,"Personaje con red
+signed 'R. Tamayo' (lower right); numbered '52/100' (lower left)
+Mixografía® print on handmade paper
+image: 31
+3
+⁄
+8
+ x 23
+1
+⁄
+2
+ in. (79.7 x 59.7 cm.)
+sheet: 35 x 27
+1
+⁄
+4
+ in. (88.9 x 69.2 cm.)
+Executed in 1982. This work is number fifty-two from an edition of one hundred plus twenty artist's proofs.
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0141_000(rufino_tamayo_personaje_con_red011726).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-141/285277?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+3d02189d-ddd6-41f0-9cd4-14856b2c11b2,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 142,USD,4000,6000,None,None,4000,6000,None,None,RUFINO TAMAYO,1899,1991,Luna y sol,prints,Mixografía® print on handmade paper,<NA>,37.625,35.75,in,yes,yes,yes,1990,"Bernard and Edith Lewin Collection of Mexican Art, California
+Los Angeles County Museum of Art, California, gift from the above, 1997","sun, moon, faces, patterns, colors, handmade paper, geometric shapes, smiling, textures, duality",None,None,"Luna y sol
+signed 'R. Tamayo' (lower right); numbered '75/100' (lower left)
+Mixografía® print on handmade paper
+image: 35 x 36
+3
+⁄
+4
+ in. (88.9 x 93.3 cm.)
+sheet: 37
+5
+⁄
+8
+ x 39
+3
+⁄
+8
+ in. (95.3 x 100 cm.)
+Executed in 1990. This work is number seventy-five from an edition of one hundred plus thirty artist's proofs and thirty handling copies.
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0142_000(rufino_tamayo_luna_y_sol_d6567450011814).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-142/285275?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+9636af72-fcfe-47b8-af71-9b69ffb93e71,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 143,USD,3000,5000,None,None,3000,5000,None,None,RUFINO TAMAYO,1899,1991,Busto en rojo,prints,Mixografía® print on handmade paper,<NA>,30.5,22.25,in,yes,yes,yes,1984,"Bernard and Edith Lewin Collection of Mexican Art, California
+Los Angeles County Museum of Art, California, gift from the above, 1997","bust, red figure, abstract shapes, landscape, brown background",None,None,"Busto en rojo
+signed 'R. Tamayo' (lower right); numbered '78/100' (lower left)
+Mixografía® print on handmade paper
+image: 22
+1
+⁄
+4
+ x 30
+1
+⁄
+2
+ in. (56.5 x 77.5 cm.)
+sheet: 27 x 34 in. (68.6 x 86.4 cm.)
+Executed in 1984. This work is number seventy-eight from an edition of one hundred plus thirty artist's proofs and thirty handling copies.
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0143_000(rufino_tamayo_busto_en_rojo011902).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-143/285279?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+06da445b-474f-4349-868d-6d04d5e4c8a5,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 144,USD,4000,6000,None,None,4000,6000,None,None,RUFINO TAMAYO,1899,1991,Personajes con pájaros,prints,Mixografía® print on handmade paper,<NA>,35,43.625,in,yes,yes,yes,1988,"Bernard and Edith Lewin Collection of Mexican Art, California
+Los Angeles County Museum of Art, California, gift from the above, 1997","person, bird, figure, abstract, red, yellow, sculpture, hands, body, pattern",None,None,"Personajes con pájaros
+signed 'R. Tamayo' (lower right); numbered '56/100' (lower left)
+Mixografía® print on handmade paper
+43
+5
+⁄
+8
+ x 35 in. (110.8 x 88.9 cm.)
+Executed in 1988. This work is number fifty-six from an edition of one hundred plus twenty-seven artist's proofs and eighteen handling copies.
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0144_000(rufino_tamayo_personajes_con_pajaros011948).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-144/285278?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,5200.0,4333.333333333334
+945b01f8-498c-41b5-b884-825171aa023a,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 145,USD,3000,5000,None,None,3000,5000,None,None,RUFINO TAMAYO,1899,1991,Niño saltando,prints,Mixografía® print on handmade paper,<NA>,23,31.25,in,yes,yes,yes,1982,"Bernard and Edith Lewin Collection of Mexican Art, California
+Los Angeles County Museum of Art, California, gift from the above, 1997","child, jumping, smiling face, chair, abstract shapes, handmade paper",None,None,"Niño saltando
+signed 'R. Tamayo' (lower right); numbered '55/100' (lower left)
+Mixografía® print on handmade paper
+image: 31 x 23
+1
+⁄
+4
+ in. (78.7 x 59.1 cm.)
+sheet: 35 x 27 in. (88.9 x 68.6 cm.)
+Executed in 1982. This work is number fifty-five from an edition of one hundred plus ten artist's proofs and ten handling copies.
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0145_000(rufino_tamayo_nino_saltando012037).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-145/285276?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+6c542c18-8047-43f5-ab26-b72051fac0bd,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 146,USD,3000,5000,None,None,3000,5000,None,None,RUFINO TAMAYO,1899,1991,Vergonzoso,prints,Mixografía® print on handmade paper,<NA>,26.625,33.625,in,yes,yes,yes,1983,"Bernard and Edith Lewin Collection of Mexican Art, California
+Los Angeles County Museum of Art, California, gift from the above, 1997","figure, abstract, hands, geometric shapes, ochre, gray, orange, brown, lines, form",None,None,"Vergonzoso
+signed 'R. Tamayo' (lower right); numbered '76/100' (lower left)
+Mixografía® print on handmade paper
+image: 33
+5
+⁄
+8
+ x 26
+5
+⁄
+8
+ in. (85.4 x 67.6 cm.)
+sheet: 37
+5
+⁄
+8
+ x 30 in. (95.6 x 76.2 cm.)
+Executed in 1983. This work is number seventy-six from an edition of one hundred plus twenty artist's proofs and ten handling copies.
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0146_000(rufino_tamayo_vergonzoso012123).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-146/285281?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+d37a3f20-10f4-440f-a98a-bfca960693bc,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 147,USD,3000,5000,None,None,3000,5000,None,None,RUFINO TAMAYO,1899,1991,Figura en rojo,prints,Mixografía® print on handmade paper,<NA>,30.25,22.5,in,yes,yes,yes,1989,"Bernard and Edith Lewin Collection of Mexican Art, California
+Los Angeles County Museum of Art, California, gift from the above, 1997","figure, red, sun, purple background, obelisk, landscape, quiet scene, silhouette, handmade paper, print",None,None,"Figura en rojo
+signed 'R. Tamayo' (lower right); numbered '55/100' (lower left)
+Mixografía® print on handmade paper
+image: 22
+1
+⁄
+2
+ x 30
+1
+⁄
+4
+ in. (57.2 x 76.8 cm.)
+sheet: 28 x 35
+1
+⁄
+2
+ in. (71.1 x 90.2 cm.)
+Executed in 1989. This work is number fifty-five from an edition of one hundred plus thirty artist's proofs and thirty handling copies.
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0147_000(rufino_tamayo_figura_en_rojo012233).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-147/285280?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0
+5edef584-6ece-4749-ace2-460497fee6f1,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 148,USD,2000,3000,None,None,2000,3000,None,None,RUFINO TAMAYO,1899,1991,Figura from the series 15 Aguafuertes,prints,color etching on Guarro paper,<NA>,21.75,29.625,in,yes,yes,yes,1979,"Bond Latin Gallery, San Francisco
+Acquired from the above by Max and Cecile Draime, 1996","figure, line, geometric shapes, yellow background, abstract",None,None,"Figura 
+from the series 
+15 Aguafuertes
+signed 'R. Tamayo' (lower right); numbered 'P de A XIII/XV' (lower left)
+color etching on Guarro paper
+29
+5
+⁄
+8
+ x 21
+3
+⁄
+4
+ in. (75.3 x 55.2 cm.)
+Executed in 1979. This work is the thirteenth artist's proof aside from an edition of ninety-nine plus ten handling copies and five unnumbered copies.
+Published by Polígrafa, Barcelona.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0148_000(rufino_tamayo_figura_from_the_series_15_aguafuertes012320).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-148/283947?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+3252ecc3-677d-4a58-84f5-171ae1511e86,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 149,USD,2000,3000,None,None,2000,3000,None,None,RUFINO TAMAYO,1899,1991,La calabaza from the series 8 Aguafuertes,prints,color etching on Guarro paper,<NA>,21.875,29.75,in,yes,yes,yes,1984,"Bond Latin Gallery, San Francisco
+Acquired from the above by Max and Cecile Draime, 1996","pumpkin, pedestal, black, green, yellow, etching, still life, round, fruit, bowl",None,None,"La calabaza 
+from the series 
+8 Aguafuertes 
+signed 'R. Tamayo' (lower right); numbered '73/99' (lower left)
+color etching on Guarro paper
+29
+3
+⁄
+4
+ x 21
+7
+⁄
+8
+ in. (75.6 x 55.6 cm.)
+Executed in 1984. This work is number seventy-three from an edition of ninety-nine plus fifteen artist's proofs, fifteen handling copies and five unnumbered copies.
+Published by Polígrafa, Barcelona.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0149_000(rufino_tamayo_la_calabaza_from_the_series_8_aguafuertes012432).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-149/283950?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,2750.0,2291.666666666667
+ed82147d-7813-4eb5-8a56-bff0c56a69c7,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 150,USD,1500,2000,None,None,1500,2000,None,None,RUFINO TAMAYO,1899,1991,Hombre contemplando la luna,prints,etching and aquatint on paper,<NA>,5.875,7.875,in,no,yes,yes,1947,"Private collection, Miami","man, moon, hands, geometric shapes, abstract forms, shadow, face, torso",None,None,"Hombre contemplando la luna
+etching and aquatint on paper
+image: 7
+7
+⁄
+8
+ x 5
+7
+⁄
+8
+ in. (20 x 14.9 cm.)
+sheet: 11
+7
+⁄
+8
+ x 9 in. (30.2 x 22.9 cm.)
+Executed in 1947. This proof is one of five unsigned hors commerce impressions, aside from the edition of 80. 
+Published by the Quadrangle Press, New York, for the artist's deluxe edition monograph written by Robert Goldwater.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0150_000(rufino_tamayo_hombre_contemplando_la_luna012540).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-150/284904?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,1750.0,1458.3333333333335
+e918d540-ebd8-45c2-9881-2ad762637dfb,Art,Christies,23743,2024-12-03,New York,Latin American Art Online,https://onlineonly.christies.com/s/latin-american-art-online/lots/3758?loadall=true&page=10&sortby=LotNumber,Lot 151,USD,3000,5000,None,None,3000,5000,None,None,RUFINO TAMAYO,1899,1991,Perfil con sombrero,prints,Mixografía® print on handmade paper,<NA>,23.75,31.375,in,yes,yes,yes,1982,"Marlborough Gallery, New York
+Acquired from the above by Max and Cecile Draime, 2000","profile, man, hat, blue background, brown border, print, mixografía, handmade paper",None,None,"Perfil con sombrero
+faintly signed 'R. Tamayo' (lower right); faintly numbered 'P de A 1/XXV' (lower left)
+Mixografía® print on handmade paper
+image: 31
+3
+⁄
+8
+ x 23
+3
+⁄
+4
+ in. (79.7 x 60.3 cm.)
+sheet: 38 x 29
+3
+⁄
+4
+ in. (96.5 x 75.5 cm.)
+Executed in 1982. This work is the first artist's proof aside from an edition of one hundred plus twenty five artist's proofs and ten handling copies. 
+Published by the Taller de Gráfica Mexicana, Mexico City.",https://www.christies.com/img/LotImages/2025/NYR/2025_NYR_23743_0151_000(rufino_tamayo_perfil_con_sombrero012627).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/latin-american-art-online/rufino-tamayo-1899-1991-151/283949?ldp_breadcrumb=back,6829.37,23413.67,47474.46,16.59,64.22,3.67,None,nan,gpt-4.1-mini,4200.0,3500.0

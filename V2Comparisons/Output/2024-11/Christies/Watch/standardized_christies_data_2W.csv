@@ -1,0 +1,125 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Rolex,None,Christies,80000,120000,None,95000.0,79166.66666666667
+Lot 2,Patek Philippe,None,Christies,300000,500000,None,450000.0,375000.0
+Lot 3,Patek Philippe,None,Christies,300000,500000,None,450000.0,375000.0
+Lot 4,Patek Philippe,None,Christies,24000,36000,None,30000.0,25000.0
+Lot 5,Ming,None,Christies,100000,200000,None,150000.0,125000.0
+Lot 6,Ming,None,Christies,100000,200000,None,150000.0,125000.0
+Lot 7,<NA>,None,Christies,150000,250000,None,210000.0,175000.0
+Lot 8,<NA>,None,Christies,60000,120000,None,85000.0,70833.33333333334
+Lot 9,Richard Mille,None,Christies,500000,1000000,None,750000.0,625000.0
+Lot 10,Richard Mille,None,Christies,280000,560000,None,450000.0,375000.0
+Lot 11,Richard Mille,None,Christies,130000,260000,None,210000.0,175000.0
+Lot 12,Richard Mille,None,Christies,130000,260000,None,195000.0,162500.0
+Lot 13,Richard Mille,None,Christies,60000,80000,None,75000.0,62500.0
+Lot 14,Jacob & Co,None,Christies,100000,200000,None,210000.0,175000.0
+Lot 15,<NA>,None,Christies,40000,80000,None,65000.0,54166.66666666667
+Lot 16,Greubel Forsey,None,Christies,120000,220000,None,180000.0,150000.0
+Lot 17,<NA>,None,Christies,70000,120000,None,102000.0,85000.0
+Lot 18,<NA>,None,Christies,20000,60000,None,45000.0,37500.0
+Lot 19,Ming,None,Christies,35000,55000,None,45000.0,37500.0
+Lot 20,Bulgari,None,Christies,150000,250000,None,225000.0,187500.0
+Lot 21,Cartier,None,Christies,250000,450000,None,350000.0,291666.6666666667
+Lot 22,Cartier,None,Christies,60000,120000,None,102000.0,85000.0
+Lot 23,Cartier,None,Christies,60000,120000,None,102000.0,85000.0
+Lot 24,Cartier,None,Christies,38000,75000,None,55000.0,45833.333333333336
+Lot 25,Cartier,None,Christies,60000,80000,None,75000.0,62500.0
+Lot 26,Cartier,None,Christies,50000,80000,None,75000.0,62500.0
+Lot 27,Cartier,None,Christies,40000,60000,None,48000.0,40000.0
+Lot 28,Cartier,None,Christies,8000,12000,None,10200.0,8500.0
+Lot 29,Cartier,None,Christies,25000,35000,None,30000.0,25000.0
+Lot 30,Cartier,None,Christies,30000,40000,None,35000.0,29166.666666666668
+Lot 31,Cartier,None,Christies,20000,30000,None,25000.0,20833.333333333336
+Lot 32,Cartier,None,Christies,10000,20000,None,15000.0,12500.0
+Lot 33,Vacheron Constantin,None,Christies,12000,18000,None,15000.0,12500.0
+Lot 34,Vacheron Constantin,None,Christies,15000,25000,None,21000.0,17500.0
+Lot 35,Vacheron Constantin,None,Christies,25000,45000,None,35000.0,29166.666666666668
+Lot 36,Vacheron Constantin,None,Christies,100000,200000,None,150000.0,125000.0
+Lot 37,Patek Philippe,None,Christies,120000,180000,None,150000.0,125000.0
+Lot 38,Patek Philippe,None,Christies,70000,110000,None,95000.0,79166.66666666667
+Lot 39,Patek Philippe,None,Christies,120000,220000,None,185000.0,154166.6666666667
+Lot 40,Oris,None,Christies,65000,95000,None,85000.0,70833.33333333334
+Lot 41,Rolex,None,Christies,60000,120000,None,85000.0,70833.33333333334
+Lot 42,Rolex,None,Christies,4000,8000,None,6000.0,5000.0
+Lot 43,Rolex,None,Christies,25000,45000,None,35000.0,29166.666666666668
+Lot 44,Rolex,None,Christies,15000,25000,None,18500.0,15416.666666666668
+Lot 45,<NA>,None,Christies,20000,30000,None,25000.0,20833.333333333336
+Lot 46,<NA>,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 47,Zenith,None,Christies,10000,20000,None,15000.0,12500.0
+Lot 48,Patek Philippe,None,Christies,30000,50000,None,42000.0,35000.0
+Lot 49,<NA>,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 50,Omega,None,Christies,15000,25000,None,18500.0,15416.666666666668
+Lot 51,Vacheron Constantin,None,Christies,15000,25000,None,18500.0,15416.666666666668
+Lot 52,Breguet,None,Christies,40000,60000,None,45000.0,37500.0
+Lot 53,Patek Philippe,None,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 54,Patek Philippe,None,Christies,10000,20000,None,15000.0,12500.0
+Lot 55,Breguet,None,Christies,8000,12000,None,10000.0,8333.333333333334
+Lot 56,Breguet,None,Christies,100000,200000,None,150000.0,125000.0
+Lot 57,Audemars Piguet,None,Christies,6000,10000,None,8500.0,7083.333333333334
+Lot 58,Patek Philippe,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 59,Audemars Piguet,None,Christies,8000,12000,None,12000.0,10000.0
+Lot 60,Omega,None,Christies,25000,45000,None,35000.0,29166.666666666668
+Lot 61,Cartier,None,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 62,Cartier,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 63,Cartier,None,Christies,8000,12000,None,9500.0,7916.666666666667
+Lot 64,Cartier,None,Christies,8000,12000,None,10500.0,8750.0
+Lot 65,Cartier,None,Christies,6000,8000,None,7500.0,6250.0
+Lot 66,Rolex,None,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 67,Rolex,None,Christies,5000,8000,None,6000.0,5000.0
+Lot 68,Patek Philippe,None,Christies,15000,25000,None,19500.0,16250.0
+Lot 69,<NA>,None,Christies,10000,20000,None,15000.0,12500.0
+Lot 70,Ball,None,Christies,1000,2000,None,1500.0,1250.0
+Lot 71,Konstantin Chaykin,None,Christies,20000,40000,None,30000.0,25000.0
+Lot 72,Konstantin Chaykin,None,Christies,20000,40000,None,25000.0,20833.333333333336
+Lot 73,Schwarz Etienne,None,Christies,15000,25000,None,19500.0,16250.0
+Lot 74,Ressence,None,Christies,10000,20000,None,14500.0,12083.333333333334
+Lot 75,<NA>,None,Christies,20000,40000,None,35000.0,29166.666666666668
+Lot 76,<NA>,None,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 77,Tudor,None,Christies,8000,12000,None,10200.0,8500.0
+Lot 78,Tudor,None,Christies,4000,6000,None,5000.0,4166.666666666667
+Lot 79,Bulgari,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 80,Bulgari,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 81,<NA>,None,Christies,3000,6000,None,4500.0,3750.0
+Lot 82,Nivada Grenchen,None,Christies,3000,6000,None,4500.0,3750.0
+Lot 83,Chronoswiss,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 84,Zenith,None,Christies,6000,12000,None,8500.0,7083.333333333334
+Lot 85,Patek Philippe,None,Christies,45000,75000,None,60000.0,50000.0
+Lot 86,Audemars Piguet,None,Christies,15000,25000,None,19500.0,16250.0
+Lot 87,Rolex,None,Christies,8000,12000,None,10000.0,8333.333333333334
+Lot 88,Rolex,None,Christies,8000,12000,None,10200.0,8500.0
+Lot 89,Patek Philippe,None,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 90,Ming,None,Christies,5000,10000,None,8500.0,7083.333333333334
+Lot 91,<NA>,None,Christies,1000,3000,None,2500.0,2083.3333333333335
+Lot 92,<NA>,None,Christies,3000,6000,None,4500.0,3750.0
+Lot 93,Rolex,None,Christies,15000,25000,None,21500.0,17916.666666666668
+Lot 94,Rolex,None,Christies,15000,25000,None,19500.0,16250.0
+Lot 95,Rolex,None,Christies,15000,25000,None,19500.0,16250.0
+Lot 96,<NA>,None,Christies,1000,2000,None,1500.0,1250.0
+Lot 97,Urwerk,None,Christies,40000,80000,None,60000.0,50000.0
+Lot 98,Ulysse Nardin,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 99,Hublot,None,Christies,20000,40000,None,32000.0,26666.666666666668
+Lot 100,<NA>,None,Christies,25000,45000,None,150000.0,125000.0
+Lot 101,IWC,None,Christies,8000,12000,None,9500.0,7916.666666666667
+Lot 102,Omega,None,Christies,4000,6000,None,6500.0,5416.666666666667
+Lot 103,Omega,None,Christies,6000,12000,None,8500.0,7083.333333333334
+Lot 104,Rolex,None,Christies,8000,12000,None,10500.0,8750.0
+Lot 105,Audemars Piguet,None,Christies,5000,8000,None,6000.0,5000.0
+Lot 106,Audemars Piguet,None,Christies,15000,25000,None,21000.0,17500.0
+Lot 107,Grand Seiko,None,Christies,1000,2000,None,2500.0,2083.3333333333335
+Lot 108,Patek Philippe,None,Christies,15000,25000,None,21000.0,17500.0
+Lot 109,Rolex,None,Christies,8000,12000,None,10500.0,8750.0
+Lot 110,Rolex,None,Christies,25000,45000,None,38000.0,31666.666666666668
+Lot 111,Rolex,None,Christies,6000,8000,None,7500.0,6250.0
+Lot 112,Rolex,None,Christies,6000,8000,None,7500.0,6250.0
+Lot 113,IWC,None,Christies,6000,10000,None,8500.0,7083.333333333334
+Lot 114,Louis Erard,None,Christies,2000,4000,None,3500.0,2916.666666666667
+Lot 115,Bulgari,None,Christies,4000,6000,None,5000.0,4166.666666666667
+Lot 116,Cartier,None,Christies,1000,2000,None,1500.0,1250.0
+Lot 117,Cartier,None,Christies,2000,4000,None,3200.0,2666.666666666667
+Lot 118,Breitling,None,Christies,2000,3000,None,2500.0,2083.3333333333335
+Lot 119,Breitling,None,Christies,2000,3000,None,2500.0,2083.3333333333335
+Lot 120,Blancpain,None,Christies,10000,15000,None,12000.0,10000.0
+Lot 121,Rolex,None,Christies,5000,8000,None,6500.0,5416.666666666667
+Lot 122,Girard-Perregaux,None,Christies,12000,18000,None,14500.0,12083.333333333334
+Lot 123,Jaeger-LeCoultre,None,Christies,6000,8000,None,7500.0,6250.0
+Lot 124,Vacheron Constantin,None,Christies,12000,18000,None,15000.0,12500.0

@@ -1,0 +1,53 @@
+[
+    {
+        "ID": "b0411f2e-2316-4894-9328-0e64c19df805",
+        "asset_type": "Artwork",
+        "source_name": "Bonhams",
+        "data_source": "auction",
+        "sale_id": "32253",
+        "sale_date": "2026-11-19",
+        "location": "Online, London, New Bond Street",
+        "sale_title": "Modern and Contemporary Art Online",
+        "sale_url": "https://www.bonhams.com/auction/32253/modern-and-contemporary-art-online/",
+        "asset_number": "Lot 0",
+        "asset_price": [
+            {
+                "pricing_type": "low_estimate",
+                "currency": "GBP",
+                "effective_date": "2026-11-19",
+                "amount": 4000.0,
+                "amount_usd": 5062.7
+            },
+            {
+                "pricing_type": "high_estimate",
+                "currency": "GBP",
+                "effective_date": "2026-11-19",
+                "amount": 6000.0,
+                "amount_usd": 7594.05
+            }
+        ],
+        "description_block": null,
+        "image_url": "https://images1.bonhams.com/image?src=Images/live/2026-10/27/25798953-167-3.jpg",
+        "asset_url": "https://www.bonhams.com/auction/32253/lot/0/avigdor-arikha-1929-2010-paysage-aux-abords-de-jerusalem-jerusalem-landscape-painted-in-1994/",
+        "artist_name": "Avigdor Arikha",
+        "artist_birth": null,
+        "artist_death": null,
+        "artwork_title": "Paysage aux Abords de Jérusalem (Jerusalem Landscape)",
+        "medium": "painting",
+        "material": null,
+        "length": null,
+        "width": null,
+        "height": null,
+        "unit": null,
+        "creation_year_start": 1994,
+        "creation_year_end": 1994,
+        "signed": "no",
+        "dated": "yes",
+        "titled": "yes",
+        "provenance": null,
+        "subject_matter": "trees, greenery, landscape, fence, sunlight, shadows",
+        "item_count": 1,
+        "edition": null,
+        "authorship": "original"
+    }
+]

@@ -1,0 +1,183 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,TAG TAG Heuer X Kith,Formula 1 for Kith,Christies,11151.8,22303.6,None,18500.0,15416.666666666668
+Lot 2,Alain Silberstein,Tourbillon d'Art 'Black Light',Christies,16727.7,33455.4,None,24500.0,20416.666666666668
+Lot 3,FP Journe,Elegante,Christies,22303.6,44607.2,None,33500.0,27916.666666666668
+Lot 4,Konstantin Chaykin,Moon Phases Minions Titanium,Christies,16727.7,27879.5,None,21500.0,17916.666666666668
+Lot 5,Audemars Piguet,Royal Oak '50th Anniversary',Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 6,Patek Philippe,<NA>,Christies,8921.44,13382.16,None,10250.0,8541.666666666668
+Lot 7,Rolex,Daytona,Christies,16727.7,27879.5,None,24500.0,20416.666666666668
+Lot 8,FP Journe,Chronometre Bleu,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 9,Rolex,Daytona,Christies,27879.5,50183.1,None,40000.0,33333.333333333336
+Lot 10,Piaget,<NA>,Christies,8921.44,17842.88,None,12000.0,10000.0
+Lot 11,Audemars Piguet,Royal Oak Chronograph,Christies,33455.4,55759.0,None,48750.0,40625.0
+Lot 12,FP Journe,Octa Sport,Christies,27879.5,50183.1,None,40000.0,33333.333333333336
+Lot 13,Rolex,Daytona,Christies,16727.7,27879.5,None,24500.0,20416.666666666668
+Lot 14,Rolex,Daytona 'Le Mans',Christies,167277.0,278794.99,None,245000.0,204166.6666666667
+Lot 15,Piaget,<NA>,Christies,8921.44,17842.88,None,13450.0,11208.333333333334
+Lot 16,Rolex,King Midas,Christies,16727.7,27879.5,None,21500.0,17916.666666666668
+Lot 17,Cartier,Crash,Christies,167277.0,278794.99,None,215000.0,179166.6666666667
+Lot 18,Richard Mille X Ferrari,Ferrari,Christies,780625.98,1784287.95,None,1345000.0,1120833.3333333335
+Lot 19,Patek Philippe,Golden Ellipse Jumbo,Christies,11151.8,20073.24,None,18500.0,15416.666666666668
+Lot 20,Audemars Piguet,<NA>,Christies,8921.44,17842.88,None,15000.0,12500.0
+Lot 21,Patek Philippe,<NA>,Christies,223035.99,446071.99,None,350000.0,291666.6666666667
+Lot 22,Patek Philippe,<NA>,Christies,13382.16,20073.24,None,18500.0,15416.666666666668
+Lot 23,Zenith,El Primero,Christies,5575.9,11151.8,None,8500.0,7083.333333333334
+Lot 24,Patek Philippe,<NA>,Christies,33455.4,44607.2,None,39600.0,33000.0
+Lot 25,Audemars Piguet,Royal Oak Offshore Quantieme Perpetuel,Christies,33455.4,55759.0,None,48700.0,40583.333333333336
+Lot 26,Audemars Piguet,Royal Oak Dual Time,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 27,Patek Philippe,Nautilus,Christies,133821.6,245339.59,None,198000.0,165000.0
+Lot 28,Patek Philippe,Aquanaut Luce,Christies,27879.5,50183.1,None,40000.0,33333.333333333336
+Lot 29,Rolex,Datejust,Christies,27879.5,61334.9,None,45000.0,37500.0
+Lot 30,Rolex,Daytona 'Rainbow',Christies,245339.59,446071.99,None,350000.0,291666.6666666667
+Lot 31,De Bethune,<NA>,Christies,16727.7,27879.5,None,21500.0,17916.666666666668
+Lot 32,De Bethune,Starry Seas,Christies,66910.8,156125.2,None,102000.0,85000.0
+Lot 33,De Bethune,DB28GS Yellow Submarine,Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 34,De Bethune,DB25 Perpetual Calendar,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 35,De Bethune,DB27 Titan Hawk JPS,Christies,33455.4,55759.0,None,45000.0,37500.0
+Lot 36,De Bethune,DB25 Perpetual Calendar,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 37,De Bethune,Grand Sport California,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 38,De Bethune,DB28 Steel Wheels Blue,Christies,78062.6,156125.2,None,102000.0,85000.0
+Lot 39,Jaeger-Jaeger LeCoultre,Master Ultra Thin Tourbillon,Christies,27879.5,55759.0,None,45000.0,37500.0
+Lot 40,A. Lange & Söhne,Lange 1 Tourbillon 'Hommage to F.A. Lange',Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 41,Breguet,Tourbillon Messidor,Christies,16727.7,27879.5,None,24500.0,20416.666666666668
+Lot 42,MB&F,Legacy Machine 1,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 43,Patek Philippe,<NA>,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 44,A. Lange & Söhne,Triple Split,Christies,78062.6,156125.2,None,120000.0,100000.0
+Lot 45,Patek Philippe,Golden Ellipse,Christies,16727.7,27879.5,None,21500.0,17916.666666666668
+Lot 46,Gerald Genta,<NA>,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 47,Audemars Piguet,Star Wheel,Christies,13382.16,20073.24,None,17500.0,14583.333333333334
+Lot 48,Patek Philippe,Ellipse,Christies,8921.44,13382.16,None,11500.0,9583.333333333334
+Lot 49,Vacheron Constantin,Les Complications,Christies,8921.44,13382.16,None,10950.0,9125.0
+Lot 50,Audemars Piguet,<NA>,Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 51,A. Lange & Söhne,Zeitwerk,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 52,Patek Philippe,<NA>,Christies,27879.5,55759.0,None,45000.0,37500.0
+Lot 53,Patek Philippe,<NA>,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 54,Patek Philippe,<NA>,Christies,446071.99,892143.97,None,675000.0,562500.0
+Lot 55,Richard Mille,Rafael Nadal,Christies,1115179.97,2230359.94,None,1875000.0,1562500.0
+Lot 56,FP Journe,Octa Reserve de Marche,Christies,78062.6,156125.2,None,102000.0,85000.0
+Lot 57,Audemars Piguet,Royal Oak Quantieme Perpetuel,Christies,167277.0,278794.99,None,245000.0,204166.6666666667
+Lot 58,Patek Philippe,<NA>,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 59,DeWitt,Tourbillon Mysterieux,Christies,8921.44,13382.16,None,11500.0,9583.333333333334
+Lot 60,Cartier,Tank Cintrée Skeleton,Christies,27879.5,55759.0,None,45000.0,37500.0
+Lot 61,Cartier,Dragon de Cartier Decor Clock,Christies,200732.39,446071.99,None,350000.0,291666.6666666667
+Lot 62,Patek Philippe,Crystal Chandeliers,Christies,83638.5,156125.2,None,112000.0,93333.33333333334
+Lot 63,Chopard,L.U.C Tourbillon,Christies,89214.4,133821.6,None,112500.0,93750.0
+Lot 64,Audemars Piguet,Quantieme Perpetuel,Christies,167277.0,278794.99,None,250000.0,208333.33333333334
+Lot 65,Audemars Piguet,Quantieme Perpetuel,Christies,167277.0,278794.99,None,245000.0,204166.6666666667
+Lot 66,Jaeger-Jaeger-LeCoultre,Reverso Platinum Number One,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 67,Audemars Piguet,Jules Audemars,Christies,11151.8,22303.6,None,18500.0,15416.666666666668
+Lot 68,Audemars Piguet,Quantieme Perpetuel,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 69,Patek Philippe,<NA>,Christies,27879.5,50183.1,None,38500.0,32083.333333333336
+Lot 70,Audemars Piguet,John Schaeffer,Christies,55759.0,167277.0,None,112000.0,93333.33333333334
+Lot 71,Cartier,Tortue Minute Repeater CPCP,Christies,78062.6,156125.2,None,102000.0,85000.0
+Lot 72,A. Lange & Söhne,Zeitwerk Striking Time,Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 73,IWC,Portugieser Minute Repeater,Christies,22303.6,44607.2,None,38500.0,32083.333333333336
+Lot 74,FP Journe,Octa Calendrier Ruthenium,Christies,167277.0,278794.99,None,245000.0,204166.6666666667
+Lot 75,FP Journe,Octa Jour / Nuit,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 76,FP Journe,Octa Chronographe Ruthenium,Christies,167277.0,278794.99,None,215000.0,179166.6666666667
+Lot 77,FP Journe,Tourbillon Souvrain Remontoire d'Egalité Ruthenium,Christies,334553.99,557589.98,None,450000.0,375000.0
+Lot 78,FP Journe,Chronometre a Resonance Ruthenium,Christies,334553.99,557589.98,None,450000.0,375000.0
+Lot 79,FP Journe,<NA>,Christies,11151.8,22303.6,None,18500.0,15416.666666666668
+Lot 80,Benzinger,GAP 2 'Prototype',Christies,8921.44,17842.88,None,11500.0,9583.333333333334
+Lot 81,A. Lange & Söhne,Lange 1A,Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 82,Urban Jürgensen,<NA>,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 83,Voutilainen,Observatoire,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 84,Gerald Charles,Maestro GC39 Remaster,Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 85,Daniel Roth,<NA>,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 86,Cartier,Tank Cintrée,Christies,33455.4,55759.0,None,45000.0,37500.0
+Lot 87,Patek Philippe,Nautilus,Christies,278794.99,613348.98,None,450000.0,375000.0
+Lot 88,Rolex,Daytona,Christies,89214.4,178428.79,None,135000.0,112500.0
+Lot 89,Rolex,Day-Date,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 90,Rolex,Submariner,Christies,16727.7,33455.4,None,25000.0,20833.333333333336
+Lot 91,Patek Philippe,Golden Ellipse,Christies,16727.7,27879.5,None,21500.0,17916.666666666668
+Lot 92,Rolex,Day-Date,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 93,Patek Philippe,Calatrava,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 94,Patek Philippe,Calatrava,Christies,6691.08,8921.44,None,8500.0,7083.333333333334
+Lot 95,Audemars Piguet,<NA>,Christies,13382.16,20073.24,None,18650.0,15541.666666666668
+Lot 96,Cartier,<NA>,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 97,Patek Philippe,<NA>,Christies,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 98,Patek Philippe,<NA>,Christies,33455.4,66910.8,None,45000.0,37500.0
+Lot 99,Patek Philippe,<NA>,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 100,Omega,Seamaster,Christies,133821.6,245339.59,None,198000.0,165000.0
+Lot 101,Audemars Piguet,Royal Oak Quantieme Perpetuel,Christies,55759.0,111518.0,None,85000.0,70833.33333333334
+Lot 103,Rolex,Day-Date,Christies,89214.4,178428.79,None,120000.0,100000.0
+Lot 104,Patek Philippe,<NA>,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 105,Patek Philippe,<NA>,Christies,223035.99,446071.99,None,350000.0,291666.6666666667
+Lot 106,A. Lange & Söhne,Tourbograph 'Pour le Mérite Homage to F.A. Lange',Christies,167277.0,278794.99,None,245000.0,204166.6666666667
+Lot 107,Ulysse Nardin,Trypique 'The Trilogy of Time' Set,Christies,44607.2,89214.4,None,75000.0,62500.0
+Lot 108,Breguet,Pendule de Voyage à Almanach,Christies,89214.4,178428.79,None,134000.0,111666.66666666667
+Lot 109,FP Journe,Chronometre a Resonance 'Pre-Souscription',Christies,669107.98,1115179.97,None,850000.0,708333.3333333334
+Lot 110,Breguet,<NA>,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 111,Patek Philippe,<NA>,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 112,A. Lange & Söhne,Datograph Up/Down,Christies,44607.2,89214.4,None,67500.0,56250.0
+Lot 113,Laurent Ferrier,Evergreen,Christies,27879.5,39031.3,None,33500.0,27916.666666666668
+Lot 114,Cartier,Crash Paris,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 115,Patek Philippe,<NA>,Christies,1115179.97,2230359.94,None,1890000.0,1575000.0
+Lot 116,Movado,Calendograf,Christies,3345.54,5575.9,None,4500.0,3750.0
+Lot 117,Rolex,Jean Claude Killy,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 118,Rolex,Sea-Dweller 'Comex',Christies,78062.6,156125.2,None,102000.0,85000.0
+Lot 119,Rolex,Pre-Daytona,Christies,78062.6,167277.0,None,112000.0,93333.33333333334
+Lot 120,Thomas Engel,Concours Observatoire,Christies,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 121,Ulysse Nardin,UFO Blue,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 122,Richard Mille,<NA>,Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 123,De Bethune,<NA>,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 124,De Bethune,<NA>,Christies,33455.4,66910.8,None,48700.0,40583.333333333336
+Lot 125,De Bethune,DB25 Starry Varius,Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 126,De Bethune,XP Kind of Blue,Christies,78062.6,156125.2,None,102000.0,85000.0
+Lot 127,De Bethune,DBS,Christies,44607.2,89214.4,None,75000.0,62500.0
+Lot 128,De Bethune,Titan Hawk V2,Christies,33455.4,55759.0,None,45000.0,37500.0
+Lot 129,De Bethune,DB28,Christies,55759.0,111518.0,None,85000.0,70833.33333333334
+Lot 130,De Bethune,Steel Wheels,Christies,55759.0,111518.0,None,85000.0,70833.33333333334
+Lot 131,Rolex,Daytona 'Big Red',Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 132,Audemars Piguet,Royal Oak,Christies,55759.0,89214.4,None,74900.0,62416.66666666667
+Lot 133,Patek Philippe,Nautilus,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 134,Audemars Piguet,Royal Oak 'A Series',Christies,27879.5,55759.0,None,45000.0,37500.0
+Lot 135,Patek Philippe,Nautilus,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 136,Patek Philippe,<NA>,Christies,27879.5,55759.0,None,45000.0,37500.0
+Lot 137,Patek Philippe,<NA>,Christies,13382.16,20073.24,None,18500.0,15416.666666666668
+Lot 138,Patek Philippe,<NA>,Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 139,Patek Philippe,Nautilus,Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 140,Patek Philippe,<NA>,Christies,278794.99,613348.98,None,450000.0,375000.0
+Lot 141,A. Lange & Söhne,Datograph Up/Down 'Lumen',Christies,111518.0,223035.99,None,185000.0,154166.6666666667
+Lot 142,FP Journe,Chronometre a Resonance,Christies,156125.2,267643.19,None,215000.0,179166.6666666667
+Lot 143,Greubel Forsey,<NA>,Christies,167277.0,390312.99,None,275000.0,229166.6666666667
+Lot 144,Richard Mille,<NA>,Christies,156125.2,200732.39,None,185000.0,154166.6666666667
+Lot 145,Ferdinand Berthoud,Far Side of the Moon,Christies,89214.4,178428.79,None,134000.0,111666.66666666667
+Lot 146,Patek Philippe,<NA>,Christies,66910.8,100366.2,None,85000.0,70833.33333333334
+Lot 148,Rolex,Daytona 'Paul Newman John Player Special',Christies,892143.97,1784287.95,None,1350000.0,1125000.0
+Lot 149,Rolex,Datejust,Christies,22303.6,44607.2,None,29500.0,24583.333333333336
+Lot 150,Rolex,Daytona,Christies,13382.16,20073.24,None,17500.0,14583.333333333334
+Lot 151,Omega,Speedmaster 'Broad Arrow',Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 152,Universal Geneve,Space-Compax,Christies,13382.16,26764.32,None,19500.0,16250.0
+Lot 153,Omega,Speedmaster 'Moonwatch Apollo 11 40th Anniversary Platinum',Christies,33455.4,66910.8,None,48700.0,40583.333333333336
+Lot 154,Rolex,Daytona,Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 155,Patek Philippe,Nautilus,Christies,312250.39,535286.38,None,450000.0,375000.0
+Lot 156,Rolex,GMT-Master II,Christies,8921.44,13382.16,None,10950.0,9125.0
+Lot 157,Rolex,Daytona,Christies,16727.7,27879.5,None,21500.0,17916.666666666668
+Lot 158,Rolex,Daytona,Christies,33455.4,55759.0,None,45000.0,37500.0
+Lot 159,Patek Philippe,Calatrava,Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 160,Breguet,Montre Répétition à Ponts Premiere Classe,Christies,16727.7,27879.5,None,25000.0,20833.333333333336
+Lot 161,Cartier,Baignoire Allongée Grand Model,Christies,22303.6,44607.2,None,29500.0,24583.333333333336
+Lot 162,Cartier,Tank Obus Savonnette,Christies,13382.16,20073.24,None,18650.0,15541.666666666668
+Lot 163,Patek Philippe,<NA>,Christies,8921.44,17842.88,None,14500.0,12083.333333333334
+Lot 164,Omega,Speedmaster 'Apollo 11 30th Anniversary',Christies,8921.44,17842.88,None,13450.0,11208.333333333334
+Lot 165,Christiaan van der Klaauw,CVDK Titan Perpetual,Christies,13382.16,20073.24,None,15800.0,13166.666666666668
+Lot 166,A. Lange & Söhne,1815 Moonphase 'Hommage to F.A. Lange',Christies,16727.7,27879.5,None,22750.0,18958.333333333336
+Lot 167,A. Lange & Söhne,Moonphase 'Homage to Emil Lange',Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 168,A. Lange & Söhne,Double Split Flyback,Christies,55759.0,111518.0,None,100000.0,83333.33333333334
+Lot 169,Patek Philippe,<NA>,Christies,27879.5,50183.1,None,40000.0,33333.333333333336
+Lot 170,Patek Philippe,<NA>,Christies,78062.6,156125.2,None,102000.0,85000.0
+Lot 171,Ulysse Nardin,Freak X,Christies,11151.8,16727.7,None,14500.0,12083.333333333334
+Lot 172,Daniel Roth,<NA>,Christies,26764.32,35685.76,None,30500.0,25416.666666666668
+Lot 173,Gerald Genta,<NA>,Christies,16727.7,33455.4,None,24500.0,20416.666666666668
+Lot 174,Omega,Apollo Soyuz,Christies,39031.3,55759.0,None,45000.0,37500.0
+Lot 175,TAG TAG Heuer,Autavia,Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 176,Eberhard,<NA>,Christies,7806.26,15612.52,None,10200.0,8500.0
+Lot 177,Breguet,<NA>,Christies,66910.8,133821.6,None,102000.0,85000.0
+Lot 178,Omega,<NA>,Christies,16727.7,27879.5,None,21500.0,17916.666666666668
+Lot 179,Breguet,The Burma,Christies,66910.8,133821.6,None,102500.0,85416.66666666667
+Lot 180,Rolex,Explorer,Christies,44607.2,66910.8,None,55000.0,45833.333333333336
+Lot 181,Ulysse Nardin,Chronosplit Berlin II,Christies,6691.08,13382.16,None,10250.0,8541.666666666668
+Lot 182,Cartier,Tank Louis 'Ultra-Thin',Christies,13382.16,20073.24,None,15800.0,13166.666666666668
+Lot 183,Jean Richard,Tourbillon Bressel 1665,Christies,22303.6,44607.2,None,35000.0,29166.666666666668
+Lot 184,Frederique Constant,Only Watch 2015,Christies,16727.7,27879.5,None,21500.0,17916.666666666668

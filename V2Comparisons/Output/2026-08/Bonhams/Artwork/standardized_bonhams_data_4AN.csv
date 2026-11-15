@@ -1,0 +1,1097 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+2f3b662b-e192-42ce-9348-316dd115d572,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 1,EUR,12000,18000,N/A,N/A,12826.8,19240.2,N/A,N/A,Entourage de Tomás Giner,N/A,N/A,Entourage de Tomás Giner (Zaragoza actif 1458-1480) Christ en croix entre les deux larrons,painting,oil on panel,N/A,36.5,56,cm,no,yes,yes,1458,1480,"Private collection, Spain","Christ, crucifixion, two thieves, crowd, soldiers, horses, saints, women, red robes, trees",1,N/A,original,"Entourage de TomÃ¡s Giner (Zaragoza actif 1458-1480)
+Christ en croix entre les deux larrons 
+huile sur panneau
+
+oil on panel
+56 x 36.5cm (22 1/16 x 14 3/8in).",https://images1.bonhams.com/image?src=Images/live/2025-11/25/25732154-1-1.jpg,https://www.bonhams.com/auction/32417/lot/1/entourage-de-tomas-giner-zaragoza-actif-1458-1480-christ-en-croix-entre-les-deux-larrons/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,2026-08,13988.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+2f4f7ad1-cb56-43b9-9d48-ae2cf79ab9bb,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 2,EUR,3500,4500,4480.0,3500,3741.15,4810.05,4788.67,3741.15,N/A,N/A,N/A,"Ecole espagnole, XVIe siècle Le rêve de Saint Joseph",painting,oil on panel,N/A,69.1,29.7,cm,no,yes,yes,1501,1600,"With Jan Muller, Ghent, 2014, where purchased by the present owner European private collection","Saint Joseph, angel, landscape, man, tree, buildings, water, sky, hills, path",1,N/A,school of,"Ecole espagnole, XVIe siÃ¨cle
+Le rÃªve de Saint Joseph 
+huile sur panneau, les angles supÃ©rieurs faÃ§onnÃ©s, dans un cadre integrÃ©
+
+oil on panel, shaped corners, in an integral frame
+29.7 x 69.1cm (11 11/16 x 27 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25813703-16-2.jpg,https://www.bonhams.com/auction/32417/lot/2/ecole-espagnole-xvie-siecle-le-reve-de-saint-joseph/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.13,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+9629b65c-4e87-4944-a9ac-233e198848c2,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 3,EUR,4000,6000,12160.0,9500,4275.6,6413.4,12997.82,10154.55,N/A,N/A,N/A,"Ecole catalane, XVIIe siècle Scène de bénédiction aux malades",painting,oil on panel,N/A,77,115.5,cm,no,yes,yes,1601,1700,"Adanero Collection (according to a label on the reverse) Private collection, Spain","man, illness, blessing, priest, audience, architectural interior, bed, healing, robes, figures",1,N/A,school of,"Ecole catalane, XVIIe siÃ¨cle
+ScÃ¨ne de bÃ©nÃ©diction aux malades 
+huile sur panneau
+
+oil on panel
+115.5 x 77cm (45 1/2 x 30 5/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25810933-1-1.jpg,https://www.bonhams.com/auction/32417/lot/3/ecole-catalane-xviie-siecle-scene-de-benediction-aux-malades/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5360.0,4466.666666666667
+04aef155-8ca1-4247-91fe-7beb43c8d297,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 4,EUR,8000,12000,10240.0,8000,8551.2,12826.8,10945.54,8551.2,Atelier de Joos van Cleve,1485,1540,L'Enfant Jésus embrassant saint Jean Baptiste,painting,oil on panel,N/A,32.4,37,cm,no,yes,yes,1501,1530,"Private collection, Belgium","child, Jesus, Saint John the Baptist, curtain, bed, flowers, infant, red, drapery, couch",1,N/A,studio of,"Atelier de Joos van Cleve (ClÃ¨ves circa 1485-circa 1540 Anvers)
+L'Enfant JÃ©sus embrassant saint Jean Baptiste 
+huile sur panneau
+
+oil on panel
+37 x 32.4cm (14 9/16 x 12 3/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25779801-17-1.jpg,https://www.bonhams.com/auction/32417/lot/4/atelier-de-joos-van-cleve-cleves-circa-1485-circa-1540-anvers-lenfant-jesus-embrassant-saint-jean-baptiste/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+8c990a44-fdb5-4766-9d74-645e6e7366b2,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 5,EUR,40000,60000,N/A,N/A,42756.0,64134.0,N/A,N/A,Entourage de Colijn de Coter,N/A,N/A,Adoration de l'Enfant Jésus; L'Ascension de Christ,painting,oil on panel,N/A,53.5,114.8,cm,no,yes,yes,1480,1539,"The Property of a Gentleman, by whom sold Sale, Christie's, London, 5 December 1969, lots 103 and 104 (as German school, circa 1500), bt Nissl (lot 103, 1100 gns.) and bt Seligmann (lot 104, 400 gns.) When offered at Christie's in 1969, the present pair of panels was accompanied by a third, depicting Christ appearing to His Mother (lot 105). The current whereabouts of that third panel remain unknown. The attribution of the present works to the circle of Colijn de Coter is based on a note by Friedländer (see Friedländer database online: kikirpa.be/friedlaender/5887), although an attribution to the Master of the Orsoy Altarpiece has also been proposed.","Mary, Jesus, Christ, ascension, crowd, landscape, figures, religious scene, drapery, architecture",2,N/A,original,"Entourage de Colijn de Coter (Bruxelles circa 1480-1539)
+Adoration de l'Enfant JÃ©sus; L'Ascension de Christ 
+huile sur panneau, deux d'un ensemble de trois, le premier, les coins supÃ©rieurs faÃ§onnÃ©s
+
+oil on panel, two of a set, the former, upper corners made up
+114.8 x 53.5cm (45 3/16 x 21 1/16in).(2)",https://images1.bonhams.com/image?src=Images/live/2026-02/05/25799891-1-1.jpg,https://www.bonhams.com/auction/32417/lot/5/entourage-de-colijn-de-coter-bruxelles-circa-1480-1539-adoration-de-lenfant-jesus-lascension-de-christ-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,48138.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,53800.0,44833.333333333336
+da5d3c79-c894-4d92-92ae-acb6848f3f2e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 6,EUR,3500,4500,3840.0,3000,3741.15,4810.05,4104.58,3206.7,N/A,N/A,N/A,"Ecole d'Anvers, vers 1640 Le couronnement de la Vierge à l'Enfant dans une guirlande de fleurs",painting,oil on copper,N/A,18,25.7,cm,no,yes,yes,1640,1640,"Private collection, Waterloo, Belgium
+With W. & V. Lefèvre, Courtrai, where purchased by the present owner
+European private collection","Virgin Mary, Child, flowers, crown, angels, bouquet, red robe, floral garland, gold background, oval frame",1,N/A,school of,"Ecole d'Anvers, vers 1640
+Le couronnement de la Vierge Ã  l'Enfant dans une guirlande de fleurs 
+huile sur cuivre
+
+oil on copper
+25.7 x 18cm (10 1/8 x 7 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25813703-13-2.jpg,https://www.bonhams.com/auction/32417/lot/6/ecole-danvers-vers-1640-le-couronnement-de-la-vierge-a-lenfant-dans-une-guirlande-de-fleurs/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.13,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+29b32827-ef2e-43a1-bd66-93d3f22ee51a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 7,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Suiveur de Pieter Coecke van Aelst,1502,1550,Vierge à l'Enfant avec saint Joseph,painting,oil on panel,N/A,28.7,38.8,cm,no,no,yes,1502,1550,"Robinet Collection (according to a label on the reverse) Private collection, France","Virgin Mary, child, Saint Joseph, oil painting, panel, religious figures",1,N/A,school of,"Suiveur de Pieter Coecke van Aelst (Aelst 1502-1550 Bruxelles)
+Vierge Ã  l'Enfant avec saint Joseph 
+huile sur panneau
+
+oil on panel
+38.8 x 28.7cm (15 1/4 x 11 5/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-1-1.jpg,https://www.bonhams.com/auction/32417/lot/7/suiveur-de-pieter-coecke-van-aelst-aelst-1502-1550-bruxelles-vierge-a-lenfant-avec-saint-joseph/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4320.0,3600.0
+cd46365d-099a-4379-90c4-813252cff634,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 8,EUR,12000,15000,28160.0,22000,12826.8,16033.5,30100.22,23515.8,Attribué à Jean Bellegambe (I) (Douai 1470-1534),1470,1534,Présentation de la Vierge au Temple,painting,oil on panel,N/A,32.4,82.5,cm,no,yes,yes,1501,1530,"A private Belgian collection, by whom sold
+Sale Lepke, Berlin 25 April 1911, lot 131 (as 'Isembrant')
+Possibly Baron Kerssenbrock (according to an hand written note by Friedländer on the reverse of RKD photo 32516 (Annunciation - 'm. einem / zweiten / Flügel')
+French Art Market, where purchased by the present owner around 2000","Virgin Mary, baby, altar, priest, congregation, interior, architecture, dog, religious ritual, clothing",1,N/A,attributed to,"AttribuÃ© Ã  Jean Bellegambe (I) (Douai 1470-1534)
+PrÃ©sentation de la Vierge au Temple 
+huile sur panneau
+
+oil on panel 
+82.5 x 32.4cm (32 1/2 x 12 3/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-15-1.jpg,https://www.bonhams.com/auction/32417/lot/8/attribue-a-jean-bellegambe-i-douai-1470-1534-presentation-de-la-vierge-au-temple/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,13988.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,14600.0,12166.666666666668
+84396c19-66c8-4142-8952-d80970f6f867,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 9,EUR,30000,50000,127400.0,100000,32067.0,53445.0,136177.86,106890.0,Pieter Neefs le Vieux,1578,1656,L'Intérieur de la cathédrale d'Anvers,painting,oil on panel,N/A,66.6,50.8,cm,yes,yes,yes,1601,1700,"The Collection of Sir Bruce Ingram, London
+With Leonard Koetser, London 1964
+Sale, Sotheby's, London, 11 April 1990, lot 142","cathedral, interior, architecture, arches, columns, floor, people, light, windows, altar",1,N/A,original,"Pieter Neefs le Vieux (Anvers 1578-1656)
+L'IntÃ©rieur de la cathÃ©drale d'Anvers 
+signÃ© 'P. NEEFS' (en bas Ã  droite, un peu renforcÃ©)
+huile sur panneau
+
+signed 'P. NEEFS' (lower right, slightly strengthened)
+oil on panel
+50.8 x 66.6cm (20 x 26 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-02/06/25795107-1-1.jpg,https://www.bonhams.com/auction/32417/lot/9/pieter-neefs-le-vieux-anvers-1578-1656-linterieur-de-la-cathedrale-danvers/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,40488.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,46200.0,38500.0
+d933acc6-55e6-44f3-8ea2-817e7a815f64,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 10,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Suiveur de Cornelis van Cleve,1520,1569,La Nativité,painting,oil on panel,N/A,81.2,98.5,cm,no,no,yes,1520,1569,"Private collection, Switzerland","Nativity, Jesus, Mary, Joseph, angel, cow, hay, stable, light, rays",1,N/A,school of,"Suiveur de Cornelis van Cleve (Anvers 1520-1569)
+La NativitÃ© 
+huile sur panneau
+
+oil on panel
+98.5 x 81.2cm (38 3/4 x 31 15/16in).",https://images1.bonhams.com/image?src=Images/live/2025-10/02/25708306-4-1.jpg,https://www.bonhams.com/auction/32417/lot/10/suiveur-de-cornelis-van-cleve-anvers-1520-1569-la-nativite/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+186c0f93-7516-4be8-b1db-18a9da97136b,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 11,EUR,4000,6000,4480.0,3500,4275.6,6413.4,4788.67,3741.15,N/A,N/A,N/A,"Ecole flamande, XVIIe siècle Sainte Famille",painting,oil on panel,N/A,91.2,122.5,cm,no,yes,yes,1601,1700,"A similar composition, attributed to Otto van Veen (1556-1629) was sold on the 14 September 2021.","Holy Family, Mary, Joseph, Jesus, tree, landscape, clothing, child, figure, foliage",1,N/A,school of,"Ecole flamande, XVIIe siÃ¨cle
+Sainte Famille 
+huile sur panneau
+
+oil on panel
+122.5 x 91.2cm (48 1/4 x 35 7/8in).",https://images1.bonhams.com/image?src=Images/live/2026-02/17/25798141-2-1.jpg,https://www.bonhams.com/auction/32417/lot/11/ecole-flamande-xviie-siecle-sainte-famille/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5320.0,4433.333333333334
+6c6f4303-1f0d-485b-8f6d-5311d883256f,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 12,EUR,3500,4500,N/A,N/A,3741.15,4810.05,N/A,N/A,Harmen Hals,1611,1669,L'Alchimiste,painting,oil on panel,N/A,25,30.9,cm,yes,no,yes,1611,1669,"Sale, AAG Auctioneers, Amsterdam, 7 May 2012, lot 14 (as Haarlem School, Follower of Adriaen Brouwer) European private collection","man, alchemist, glass bottle, seated figures, workshop, shelves, scientific instruments, monkey, furniture, dark colors",1,N/A,original,"Harmen Hals (Haarlem 1611-1669)
+L'Alchimiste 
+signÃ© 'HALS' (en bas Ã  droite)
+huile sur panneau
+
+signed 'HALS' (lower right)
+oil on panel
+30.9 x 25cm (12 3/16 x 9 13/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/23/25813703-3-6.jpg,https://www.bonhams.com/auction/32417/lot/12/harmen-hals-haarlem-1611-1669-lalchimiste/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.13,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4375.0,3645.8333333333335
+9ac3ddea-f4fe-403e-8429-bc35c9fb66be,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 13,EUR,2200,2800,N/A,N/A,2351.58,2992.92,N/A,N/A,Attribué à Joos van Craesbeeck,1605,1661,Deux paysans,painting,oil on panel,N/A,13.2,14.8,cm,no,no,yes,1605,1661,European private collection,"two peasants, reading, boy, girl, oil on panel, brown background, seated, furniture, book, pottery",1,N/A,attributed to,"AttribuÃ© Ã  Joos van Craesbeeck (Neerlinter 1605-1661 Bruxelles)
+Deux paysans 
+huile sur panneau
+
+oil on panel
+14.8 x 13.2cm (5 13/16 x 5 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-02/06/25813703-9-2.jpg,https://www.bonhams.com/auction/32417/lot/13/attribue-a-joos-van-craesbeeck-neerlinter-1605-1661-bruxelles-deux-paysans/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2757.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2700.0,2250.0
+292397ab-a5d2-474f-b989-8e38fee521e1,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 14,EUR,2200,2800,3584.0,2800,2351.58,2992.92,3830.94,2992.92,Entourage de David Teniers le Jeune,1610,1690,Fumeur dans un intérieur,painting,oil on panel,N/A,13.7,14.8,cm,yes,yes,yes,1601,1700,"Sale, Tajan Paris, 10 April 2013, lot 19 (as Attributed to David Teniers II); Galerij Jan Muller, Ghent, 2013, where purchased by the present owner; European private collection","man, smoking, interior, pot, pipe, red hat, table, brown, wall, figure",1,N/A,attributed to,"Entourage de David Teniers le Jeune (Anvers 1610-1690 Bruxelles)
+Fumeur dans un intÃ©rieur 
+porte une signature 'D.TENIERS F.' (en bas Ã  droite)
+huile sur panneau
+
+bears signature 'D.TENIERS F.' (lower right)
+oil on panel
+14.8 x 13.7cm (5 13/16 x 5 3/8in).",https://images1.bonhams.com/image?src=Images/live/2026-02/27/25813703-12-2.jpg,https://www.bonhams.com/auction/32417/lot/14/entourage-de-david-teniers-le-jeune-anvers-1610-1690-bruxelles-fumeur-dans-un-interieur/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2757.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2700.0,2250.0
+933eaf83-c92b-436c-b03a-cd53ab61a8b3,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 15,EUR,6000,8000,6400.0,5000,6413.4,8551.2,6840.96,5344.5,Entourage de Pieter Jansz. Pourbus,1510,1584,Étude de trois têtes d'hommes,painting,oil on panel,N/A,12.9,20.7,cm,no,no,yes,1510,1584,"With Galerij Libertas, Bruges, 2006, where purchased by the present owner European private collection","three heads, men, oil painting, ruffs, fragment, portrait, facial expressions, historical costumes, wooden panel",1,N/A,studio of,"Entourage de Pieter Jansz. Pourbus (Gouda circa 1510-1584 Bruges)
+Ãtude de trois tÃªtes d'hommes 
+huile sur panneau, un fragment
+
+oil on panel, a fragment
+20.7 x 12.9cm (8 1/8 x 5 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25813703-6-3.jpg,https://www.bonhams.com/auction/32417/lot/15/entourage-de-pieter-jansz-pourbus-gouda-circa-1510-1584-bruges-etude-de-trois-tetes-dhommes/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,7638.88,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7350.0,6125.0
+a5755054-1d9f-475a-835e-e272892f25c2,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 16,EUR,1500,2000,N/A,N/A,1603.35,2137.8,N/A,N/A,N/A,N/A,N/A,"Ecole espagnole, début XVIIe siècle Portrait de gentilhomme sans cadre",painting,oil on paper laid down on copper,N/A,15.1,20.2,cm,no,yes,yes,1601,1630,N/A,"portrait, gentleman, oil, copper, clothing, facial hair, historical figure, dark background, 17th century, unframed",1,N/A,original,"Ecole espagnole, dÃ©but XVIIe siÃ¨cle
+Portrait de gentilhomme 
+huile sur papier marouflÃ© sur cuivre
+
+oil on paper laid down on copper
+20.2 x 15.1cm (7 15/16 x 5 15/16in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-02/06/60158586-3-1.jpg,https://www.bonhams.com/auction/32417/lot/16/ecole-espagnole-debut-xviie-siecle-portrait-de-gentilhomme-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1933.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1870.0,1558.3333333333335
+d33cf347-81b2-4397-a0b7-8ad4bb5e17a9,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 17,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,N/A,N/A,N/A,"Ecole flamande, XVIIe siècle Portrait d'homme faisant sa barbe",painting,oil on panel,N/A,15.8,22.7,cm,no,yes,yes,1601,1700,"The present painting is related to a similar composition offered at Sotheby's, New York, 18-28 January 2022, lot 317, which was attributed to Adriaen Brouwer (1605-1638).","man, beard, mirror, hat, brush, oil, panel, portrait, 17th century, Flemish",1,N/A,school of,"Ecole flamande, XVIIe siÃ¨cle
+Portrait d'homme faisant sa barbe 
+huile sur panneau
+
+oil on panel
+22.7 x 15.8cm (8 15/16 x 6 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/60158586-2-1.jpg,https://www.bonhams.com/auction/32417/lot/17/ecole-flamande-xviie-siecle-portrait-dhomme-faisant-sa-barbe/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+bae70ab4-98fd-4e80-b74e-2ef543b52997,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 18,EUR,4000,6000,N/A,N/A,4275.6,6413.4,N/A,N/A,N/A,1613,1689,La mauvaise surprise,painting,oil on canvas,N/A,82.7,69.4,cm,no,yes,yes,1701,1800,"Private collection, since 1957","interior, people, kitchen, woman, man, fire, pots, clothing, stairs, barrel",1,N/A,school of,"Ecole flamande, XVIIIe siÃ¨cle
+La mauvaise surprise 
+huile sur toile
+
+oil on canvas
+69.4 x 82.7cm (27 5/16 x 32 9/16in).",https://images1.bonhams.com/image?src=Images/live/2026-02/06/25814962-6-1.jpg,https://www.bonhams.com/auction/32417/lot/18/ecole-flamande-xviiie-siecle-la-mauvaise-surprise/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5120.0,4266.666666666667
+5982fa2e-e256-4aa2-af18-31ec48aea68b,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 19,EUR,30000,50000,38400.0,30000,32067.0,53445.0,41045.76,32067.0,Sebastian Vrancx,1573,1647,Combat de cavaliers dans un village flamand,painting,oil on panel,N/A,97,66.5,cm,no,yes,yes,1625,1625,"Sale, Kohn, Paris, 6 December 1999, lot 1, (sold for € 111,288 (FRF 730,000)), where purchased by the present owner. Private collection, France.","cavalry, village, trees, buildings, water, battle, obelisk, people, horses, sky",1,N/A,original,"Sebastian Vrancx (Anvers 1573-1647)
+Combat de cavaliers dans un village flamand 
+inscrit et datÃ© 'Ca 1625' (sur la base de l'obÃ©lisque, au centre Ã  droite)
+huile sur panneau
+
+inscribed and dated 'Ca 1625' (on the base of the obelisk, centre right)
+oil on panel
+66.5 x 97 cm (26 3/16 x 38 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25838353-1-1.jpg,https://www.bonhams.com/auction/32417/lot/19/sebastian-vrancx-anvers-1573-1647-combat-de-cavaliers-dans-un-village-flamand/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,40483.57,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,46200.0,38500.0
+f4e257d6-e1f4-482c-a498-b81dff08b51b,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 20,EUR,3500,4500,3840.0,3000,3741.15,4810.05,4104.58,3206.7,Lucas van Uden,1595,1673,Paysage de bord de l'eau,painting,oil on panel,N/A,34.7,25.4,cm,no,yes,yes,1595,1673,European private collection,"landscape, water, mountains, trees, sky, clouds, figures, hills, river, livestock",1,N/A,original,"Lucas van Uden (Antwerp circa 1595-circa 1673)
+Paysage de bord de l'eau 
+huile sur panneau
+
+oil on panel 
+25.4 x 34.7cm (10 x 13 11/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25813703-8-2.jpg,https://www.bonhams.com/auction/32417/lot/20/lucas-van-uden-antwerp-circa-1595-circa-1673-paysage-de-bord-de-leau/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.13,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4300.0,3583.3333333333335
+ffe70d25-bcaf-430b-853c-09feca153982,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 21,EUR,1800,2200,1920.0,1500,1924.02,2351.58,2052.29,1603.35,Entourage de Hans Bol,1534,1593,Chasse au cerf,painting,oil on panel,N/A,25.5,13.8,cm,no,no,yes,1534,1593,"Private collection, Germany, where purchased by the current owner in 2002 through Gallery Francis J. Devaux, Brussels European private collection","deer, hunting, landscape, forest, mountains, trees, water, riders, dogs, animals",1,N/A,original,"Entourage de Hans Bol (Mechelen 1534-1593 Amsterda)
+Chasse au cerf 
+huile sur panneau
+
+oil on panel
+13.8 x 25.5cm (5 7/16 x 10 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-02/06/25813703-27-2.jpg,https://www.bonhams.com/auction/32417/lot/21/entourage-de-hans-bol-mechelen-1534-1593-amsterda-chasse-au-cerf/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2410.51,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2130.0,1775.0
+9291cc67-adcc-44f8-a056-d896c9e0f2e8,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 22,EUR,1800,2000,2304.0,1800,1924.02,2137.8,2462.75,1924.02,Cornelis van Poelenburgh,1586,1667,Paysage aux baigneuses,painting,oil on panel,N/A,26.3,31.2,cm,yes,no,yes,1586,1667,"Private collection, France. The present painting repeats the right-hand section of a larger composition by Jan Both (1618–1652) and Cornelis van Poelenburgh, formerly with Christophe Janet, New York, in 1985.","landscape, women, nude, trees, clouds, sky, water, fabric, sitting, interaction",1,N/A,original,"Cornelis van Poelenburgh (Utrecht circa 1586-1667)
+Paysage aux baigneuses 
+signÃ© avec initiales 'CP' (en bas Ã  droite)
+huile sur panneau
+
+signed with initials 'CP' (lower right)
+oil on panel
+31.2 x 26.3cm (12 5/16 x 10 3/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-4-1.jpg,https://www.bonhams.com/auction/32417/lot/22/cornelis-van-poelenburgh-utrecht-circa-1586-1667-paysage-aux-baigneuses/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2438.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2040.0,1700.0
+0eb1eb73-b2c4-4ed3-9acf-8c7d0317e096,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 23,EUR,2000,4000,N/A,N/A,2137.8,4275.6,N/A,N/A,Entourage de Pieter de Bloot,1602,1658,Entourage de Pieter de Bloot (Rotterdam 1602-1658) Scène de village,painting,oil on panel,N/A,63.7,38,cm,no,no,yes,1602,1658,Private collection,"village scene, people, houses, trees, barrels, clouds, road, group gathering, architecture, landscape",1,N/A,original,"Entourage de Pieter de Bloot (Rotterdam 1602-1658)
+ScÃ¨ne de village 
+huile sur panneau le revers marquÃ© avec le chÃ¢teau et les mains d'Anvers
+
+oil on panel, the reverse stamped with the castle and hands of Antwerp
+38 x 63.7cm (14 15/16 x 25 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-02/06/25814962-2-1.jpg,https://www.bonhams.com/auction/32417/lot/23/entourage-de-pieter-de-bloot-rotterdam-1602-1658-scene-de-village/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.91,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+981c23b0-210a-4eed-b13c-3e48463e2784,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 24,EUR,25000,35000,N/A,N/A,26722.5,37411.5,N/A,N/A,Jan Wildens,1586,1653,Le Christ guérissant l'aveugle,painting,oil on canvas,N/A,121,137.5,cm,no,no,yes,1586,1653,"The Collection of Dr Hans Wetzlar, Amsterdam
+The Cornwallis-West Collection (according to 1969 sale)
+With Hans Cramer, The Hague, 1965-66
+Sale, Sotheby's London, 3 December, 1969, lot 52 (as Joos de Momper, bt Gaunt)
+Private collection, Germany","Christ, blind man, healing, landscape, trees, figures, buildings, mountains, sky, clouds",1,N/A,original,"Jan Wildens (Anvers 1586-1653)
+Le Christ guÃ©rissant l'aveugle 
+huile sur toile
+
+oil on canvas
+137.5 x 121cm (54 1/8 x 47 5/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25840344-1-1.jpg,https://www.bonhams.com/auction/32417/lot/24/jan-wildens-anvers-1586-1653-le-christ-guerissant-laveugle/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,32388.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,34500.0,28750.0
+20396df3-dbe2-48fe-b1d4-09eb8029afc9,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 25,EUR,4000,6000,N/A,N/A,4275.6,6413.4,N/A,N/A,N/A,N/A,N/A,"Ecole flamande, XVIIIe siècle Paire de paysages boisés, animés de figures, des villages au lointain (2)",painting,oil on copper,N/A,52.7,35.7,cm,no,yes,yes,1701,1800,"Private collection, Belgium","landscapes, figures, trees, villages, sky, mountains, copper, oil painting, nature, woods",2,N/A,school of,"Ecole flamande, XVIIIe siÃ¨cle
+Paire de paysages boisÃ©s, animÃ©s de figures, des villages au lointain 
+Un de deux monogrammÃ© 'CA *' (en bas au centre droite)
+une paire, huile sur cuivre
+
+ one monogrammed 'CA *' (lower centre-right)
+a pair, oil on copper
+35.7 x 52.7cm (14 1/16 x 20 3/4in). (2)",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25779801-13-1.jpg,https://www.bonhams.com/auction/32417/lot/25/ecole-flamande-xviiie-siecle-paire-de-paysages-boises-animes-de-figures-des-villages-au-lointain-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5340.0,4450.0
+08f3e252-3815-49a4-b69a-662fe2609f9e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 26,EUR,5000,7000,6400.0,5000,5344.5,7482.3,6840.96,5344.5,Pieter de Neyn,1597,1639,"Paysage fluvial animé d'une barque de pêcheurs, paysans et voyageur à cheval",painting,oil on panel,N/A,63.3,39.7,cm,yes,yes,yes,1638,1638,"Collection of Nathaniel Hamlen, Boston, by whom sold
+Sale, Parke-Bernet, New York, 17 January 1941, lot 32 (as Jan Van Goyen)
+With Galerie Heim, Paris, 1968
+Private collection, France","river, boat, fishermen, peasants, horseman, trees, village, sky, clouds, landscape",1,N/A,attributed to,"Pieter de Neyn (Leyde 1597-1639)
+Paysage fluvial animÃ© d'une barque de pÃªcheurs, paysans et voyageur Ã  cheval 
+porte une signature et une datation 'I.V.GOYEN 1638' (en bas au centre droite)
+huile sur panneau
+
+bears signature and date 'I.V.GOYEN 1638' (lower right)
+oil on panel
+39.7 x 63.3cm (15 5/8 x 24 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25795483-1-1.jpg,https://www.bonhams.com/auction/32417/lot/26/pieter-de-neyn-leyde-1597-1639-paysage-fluvial-anime-dune-barque-de-pecheurs-paysans-et-voyageur-a-cheval/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6488.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6820.0,5683.333333333334
+43f4d603-2ed4-4d86-839b-777900c7be2d,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 27,EUR,7000,10000,12160.0,9500,7482.3,10689.0,12997.82,10154.55,"Suiveur de Michele Tosini, dit Michele di Ridolfo del Ghirlandaio",1503,1577,Sainte Famille avec le petit Saint Jean Baptiste,painting,oil on canvas,N/A,56.3,62.9,cm,no,yes,yes,1501,1600,"Collection Fernando de Los Villares Amor (1879-1924), Madrid, then by descent","Sainte Famille, Saint Jean Baptiste, homme, femme, enfant, croix, halo, tissu, fauteuil, paysage",1,N/A,school of,"Suiveur de Michele Tosini, dit Michele di Ridolfo del Ghirlandaio (Florence 1503-1577)
+Sainte Famille avec le petit Saint Jean Baptiste 
+huile sur toile
+
+oil on canvas
+62.9 x 56.3cm (24 3/4 x 22 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25821223-1-1.jpg,https://www.bonhams.com/auction/32417/lot/27/suiveur-de-michele-tosini-dit-michele-di-ridolfo-del-ghirlandaio-florence-1503-1577-sainte-famille-avec-le-petit-saint-jean-baptiste/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10120.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9000.0,7500.0
+7c313be0-e0a0-4caf-b9c3-4cf3eaddd30c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 28,EUR,6000,8000,N/A,N/A,6413.4,8551.2,N/A,N/A,"Atelier de Giovanni Battista Salvi, dit Le Sassoferrato",1609,1685,Vierge à l'Enfant,painting,oil on canvas,N/A,51.5,60.7,cm,no,no,yes,1609,1685,N/A,"Virgin Mary, Child Jesus, oil on canvas, hood, drapery, expressions, skin tone, background, gesture, fabric",1,N/A,studio of,"Atelier de Giovanni Battista Salvi, dit Le Sassoferrato (Sassoferrato 1609-1685 Rome)
+Vierge Ã  l'Enfant 
+huile sur toile
+
+oil on canvas
+60.7 x 51.5cm (23 7/8 x 20 1/4in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-03/05/25816705-1-1.jpg,https://www.bonhams.com/auction/32417/lot/28/atelier-de-giovanni-battista-salvi-dit-le-sassoferrato-sassoferrato-1609-1685-rome-vierge-a-lenfant-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6498.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+000823c5-97fb-48a0-b247-1087491bc7b0,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 29,EUR,5000,7000,7680.0,6000,5344.5,7482.3,8209.15,6413.4,N/A,N/A,N/A,"Ecole florentine, vers 1530 Le prophète Isaïe sans cadre",drawing,black chalk on beige paper,N/A,22.7,33.2,cm,no,yes,yes,1530,1530,"Private collection, France","prophet, Isaiah, book, King David, black chalk, beige paper",1,N/A,school of,"Ecole florentine, vers 1530
+Le prophÃ¨te IsaÃ¯e avec son livre et le roi David 
+porte une inscription 'Vero' (en bas Ã  droite)
+pierre noire, sur papier beige, collÃ© en plein, mise au carreau
+
+bears inscription 'Vero' (lower right)
+black chalk on beige paper, laid down on paper, squared
+33.2 x 22.7cm (13 1/16 x 8 15/16in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25832797-3-1.jpg,https://www.bonhams.com/auction/32417/lot/29/ecole-florentine-vers-1530-le-prophete-isaie-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6418.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6420.0,5350.0
+3603b3b9-06bf-49fc-bd91-06764deb0684,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 30,EUR,800,1200,1024.0,800,855.12,1282.68,1094.55,855.12,Giovanni Guerra,1544,1618,"Scène de l'histoire romaine, probablement de Tullus Hostilius",drawing,"pen and brown ink, brown wash, traces of black chalk, pen and brown ink framing lines, on paper laid down",N/A,18.4,13.8,cm,no,no,yes,1544,1618,"Private Collection, France","Roman history, Tullus Hostilius, figures, drapery, sculpture, architecture, crowd, standing figures, seated figure, fallen figure",1,N/A,original,"Giovanni Guerra (Modene 1544-1618 Rome)
+ScÃ¨ne de l'histoire romaine, probablement de Tullus Hostilius 
+porte une numÃ©rotation '50' (en bas Ã  droite)
+plume et encre brune, lavis brun, trace de pierre noire, trait d'encadrement Ã  la plume, sur papier contrecollÃ©
+
+numbered '50' (lower right)
+pen and brown ink, brown wash, traces of black chalk, pen and brown ink framing lines, on paper laid down
+13.8 x 18.4cm (5 7/16 x 7 1/4in).
+sans cadre | unframed",https://images1.bonhams.com/image?src=Images/live/2025-02/24/25593443-3-1.jpg,https://www.bonhams.com/auction/32417/lot/30/giovanni-guerra-modene-1544-1618-rome-scene-de-lhistoire-romaine-probablement-de-tullus-hostilius-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1130.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1140.0,950.0
+8d2d82c4-a802-4a14-9ee1-5f1d2d671740,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 31,EUR,2000,3000,2560.0,2000,2137.8,3206.7,2736.38,2137.8,Seb. Conca,N/A,N/A,"Ecole génoise, fin XVIIe siècle L'ange Gabriel annonce la naissance de Jean le Baptiste",drawing,"black chalk, pen and brown ink, grey wash on paper",N/A,29.9,56.1,cm,no,yes,yes,1670,1700,"Private collection, France","Angel, Birth, John the Baptist, Donor figures, Cherubs, Clouds, Drapery, Religious scene, Architecture, Inscription",1,N/A,attributed to,"Ecole gÃ©noise, fin XVIIe siÃ¨cle
+L'ange Gabriel annonce la naissance de Jean le Baptiste 
+porte une inscription 'Seb. Conca' (en bas Ã  droite)
+pierre noire, plume et encre brune, lavis gris, sur papier, traits d'encadrement Ã  la plume et encre brune et mise aux carreaux Ã  la pierre noire
+
+bears inscription 'Seb. Conca' (lower right)
+black chalk, pen and brown ink, grey wash on paper, framing lines, squared
+56.1 x 29.9cm (22 1/16 x 11 3/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25834595-1-1.jpg,https://www.bonhams.com/auction/32417/lot/31/ecole-genoise-fin-xviie-siecle-lange-gabriel-annonce-la-naissance-de-jean-le-baptiste/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+bb92f627-e0b9-4b75-8cc5-f0c0e814b754,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 32,EUR,900,1100,N/A,N/A,962.01,1175.79,N/A,N/A,Attributed to Nicolas Dumoustier,1612,1667,"Ecole française, XVIIIe siècle Tête de vieillard de profil",drawing,red and white chalk on beige paper,N/A,22.6,32.2,cm,no,yes,yes,1701,1800,"Private collection, France","old man, profile, beard, chalk, paper, framed lines",1,N/A,attributed to,"Ecole franÃ§aise, XVIIIe siÃ¨cle
+TÃªte de vieillard de profil 
+sanguine et craie blanche sur papier beige, traits d'encadrement Ã  la plume et encre brune
+
+red and white chalk on beige paper, framing lines
+32.2 x 22.6cm (12 11/16 x 8 7/8in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25832797-2-1.jpg,https://www.bonhams.com/auction/32417/lot/32/ecole-francaise-xviiie-siecle-tete-de-vieillard-de-profil-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1283.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1085.0,904.1666666666667
+64d00dd3-384e-480d-a3f7-88b8afb87f43,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 33,EUR,1000,1500,N/A,N/A,1068.9,1603.35,N/A,N/A,N/A,N/A,N/A,"Ecole vénitienne, XVIIIe siècle Tête d'homme barbu de profil",drawing,"black, red and white chalk on beige paper",N/A,23.6,29.4,cm,no,yes,yes,1701,1800,"Sale, Christie's Paris, 17 March 2005, lot 45, where purchased by the present owner; Private collection, France","man, beard, profile, chalk, drawing, art, 18th century, paper, portrait, head",1,N/A,school of,"Ecole vÃ©nitienne, XVIIIe siÃ¨cle
+TÃªte d'homme barbu de profil 
+traces de pierre noire, sanguine et craie blanche sur papier beige, collÃ© en plein sur un montage du dix-huitiÃ¨me siÃ¨cle
+
+black, red and white chalk on beige paper, laid down on an 18th Century mount
+29.4 x 23.6cm (11 9/16 x 9 5/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-11-1.jpg,https://www.bonhams.com/auction/32417/lot/33/ecole-venitienne-xviiie-siecle-tete-dhomme-barbu-de-profil/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1288.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+cfb020f3-b8b4-4969-8ac2-a181f2f78f6e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 34,EUR,3000,5000,3840.0,3000,3206.7,5344.5,4104.58,3206.7,Hyacinthe Rigaud,1659,1743,"Portrait de la mère de l'artiste, Marie Serre",drawing,black and white chalk on blue paper,N/A,27.3,32.9,cm,no,yes,yes,1695,1696,"Private collection, France","woman, portrait, blue paper, black chalk, white chalk, oval, dress, headscarf, inscription, 18th century",1,N/A,original,"Hyacinthe Rigaud (Perpignan 1659-1743 Paris)
+Portrait de la mÃ¨re de l'artiste, Marie Serre 
+porte une inscription '6 v' (au verso, en haut Ã  droite)
+pierre noire et craie blanche sur papier bleu, ovale
+
+bears inscription '6 v' (on the reverse, upper right)
+black and white chalk on blue paper, oval
+32.9 x 27.3cm (12 15/16 x 10 3/4in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25832797-1-1.jpg,https://www.bonhams.com/auction/32417/lot/34/hyacinthe-rigaud-perpignan-1659-1743-paris-portrait-de-la-mere-de-lartiste-marie-serre-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+c0f38c55-f63c-4279-9ce2-9bfb39df6ea5,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 35,EUR,2000,3000,1408.0,1100,2137.8,3206.7,1505.01,1175.79,N/A,N/A,N/A,Portrait de dame au ruban rose,drawing,pastel on paper laid down on canvas,N/A,45.8,55.6,cm,no,yes,yes,1730,1770,N/A,"portrait, woman, pink ribbon, pastel, 18th century, unframed, blue dress, sitting, historical costume",1,N/A,original,"Ecole franÃ§aise, moitiÃ© du XVIIIe siÃ¨cle
+Portrait de dame au ruban rose 
+pastel sur papier marouflÃ© sur toile
+
+pastel on paper laid down on canvas
+55.6 x 45.8cm (21 7/8 x 18 1/16in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25829795-1-1.jpg,https://www.bonhams.com/auction/32417/lot/35/ecole-francaise-moitie-du-xviiie-siecle-portrait-de-dame-au-ruban-rose-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2670.0,2225.0
+414832b0-71b9-49d0-8701-2b1d62cf5c31,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 36,EUR,1200,1500,N/A,N/A,1282.68,1603.35,N/A,N/A,Laurent Pecheux,1729,1821,La Purification de la Vierge,drawing,"black chalk, grey wash, watercolour on paper",N/A,41.8,54.2,cm,no,yes,yes,1770,1770,"A. La Fontaine (according to an inscription on the reverse); Private collection, France","figures, Virgin Mary, purification, religious ceremony, architecture, robes, expressions, gestures, altar, background",1,N/A,original,"Laurent Pecheux (Lyon 1729-1821)
+La Purification de la Vierge 
+pierre noire, lavis gris et aquarelle sur papier
+
+black chalk, grey wash, watercolour on paper
+54.2 x 41.8cm (21 5/16 x 16 7/16in).",https://images1.bonhams.com/image?src=Images/live/2025-07/24/25675365-1-1.jpg,https://www.bonhams.com/auction/32417/lot/36/laurent-pecheux-lyon-1729-1821-la-purification-de-la-vierge/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1397.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1420.0,1183.3333333333335
+c977b021-c960-4dc0-a5df-4f2a15c32132,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 37,EUR,1000,1500,1280.0,1000,1068.9,1603.35,1368.19,1068.9,Charles Toussaint Labadye,1771,1798,Vénus désarmant Mars,drawing,charcoal and white chalk on beige paper,N/A,25.8,30.1,cm,no,no,yes,1771,1798,"A Barboza (1842-1889), Paris (L. 77) Sale, Drouot, Paris, 30 November 1964, lot 5 (as attributed to Monnet), where purchased by Private collection, France","Venus, Mars, angels, figures, spear, children, landscape, charcoal, chalk, paper",1,N/A,original,"Charles Toussaint Labadye (Paris 1771-1798)
+Recto: VÃ©nus dÃ©sarmant Mars
+Verso: Etude de jambe 
+fusain et craie blanche sur papier beige
+
+charcoal and white chalk on beige paper
+30.1 x 25.8cm (11 7/8 x 10 3/16in).",https://images1.bonhams.com/image?src=Images/live/2025-03/05/25661214-1-1.jpg,https://www.bonhams.com/auction/32417/lot/37/charles-toussaint-labadye-paris-1771-1798-recto-venus-desarmant-marsverso-etude-de-jambe/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1288.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+246b3a8d-428a-4ec8-b3cd-017a778e8319,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 38,EUR,500,700,N/A,N/A,534.45,748.23,N/A,N/A,Andrea Appiani,1754,1817,"Etude pour un décor avec Jupiter, Thétis et Ganymède",drawing,"pen and brown ink, black chalk on blue paper, brown ink framing lines",N/A,30.7,43.2,cm,no,yes,yes,1770,1800,"Private Collection, France","Jupiter, Thetis, Ganymede, clouds, scepter, robes, figures, light rays, drapery, allegory",1,N/A,original,"Andrea Appiani (Milan 1754-1817)
+Etude pour un dÃ©cor avec Jupiter, ThÃ©tis et GanymÃ¨de 
+plume et encre brune, pierre noire sur papier bleu, trait d'encadrement Ã  la plume et encre brune
+
+pen and brown ink, black chalk on blue paper, brown ink framing lines
+43.2 x 30.7cm (17 x 12 1/16in).
+sans cadre | unframed",https://images1.bonhams.com/image?src=Images/live/2025-02/24/25593443-4-1.jpg,https://www.bonhams.com/auction/32417/lot/38/andrea-appiani-milan-1754-1817-etude-pour-un-decor-avec-jupiter-thetis-et-ganymede-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,641.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,675.0,562.5
+44e7684d-c743-4f7d-a1d8-ae28699528f7,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 39,EUR,800,1200,N/A,N/A,855.12,1282.68,N/A,N/A,Pierre Puvis de Chavannes,1824,1898,Etude pour une Vertu Théologale portant une croix,drawing,charcoal on vellum,N/A,12.8,30.4,cm,no,no,yes,1824,4075,"Private collection, France","woman, cross, robe, standing figure, charcoal, vellum",1,N/A,studio of,"Pierre Puvis de Chavannes (Lyon 1824-1898 Pais)
+Etude pour une Vertu ThÃ©ologale portant une croix 
+cachet d'atelier (L. 4075) (en bas Ã  droite)
+fusain sur vÃ©lin
+
+workshop mark (L. 4075) (lower right)
+charcoal on vellum
+30.4 x 12.8cm (11 15/16 x 5 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-10-1.jpg,https://www.bonhams.com/auction/32417/lot/39/pierre-puvis-de-chavannes-lyon-1824-1898-pais-etude-pour-une-vertu-theologale-portant-une-croix/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1130.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1140.0,950.0
+6285428c-f0aa-48bb-8cf7-15f2a834fadf,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 40,EUR,1500,1800,N/A,N/A,1603.35,1924.02,N/A,N/A,Entourage de Jean Baptiste Charles Claudot,1733,1805,Entourage de Jean Baptiste Charles Claudot (Badonviller 1733-1805 Nancy) Paire de paysages champêtres au bord de l'eau animés de figures,drawing,"pen and brown ink, grey wash on paper",N/A,38.5,48.2,cm,no,no,yes,1733,1805,"Private collection, France","landscapes, figures, water, trees, bridge, hills, buildings, animals, road, sky",2,N/A,original,"Entourage de Jean Baptiste Charles Claudot (Badonviller 1733-1805 Nancy)
+Paire de paysages champÃªtres au bord de l'eau animÃ©s de figures 
+une paire, plume et encre brune, lavis gris sur papier, traits d'encadrement Ã  la plume et encre brune
+
+a pair, pen and brown ink, grey wash on paper, framing lines
+48.2 x 38.5cm (19 x 15 3/16in). (2)",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25832797-6-1.jpg,https://www.bonhams.com/auction/32417/lot/40/entourage-de-jean-baptiste-charles-claudot-badonviller-1733-1805-nancy-paire-de-paysages-champetres-au-bord-de-leau-animes-de-figures-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1288.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1750.0,1458.3333333333335
+2b34a872-dcdc-4c0d-9b69-fa6921abd7b2,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 41,EUR,700,1000,896.0,700,748.23,1068.9,957.73,748.23,Alexandre-Gabriel Decamps,1803,1860,Paysage boisé animé,drawing,"charcoal, highlighted with white on beige paper",N/A,36.8,22.1,cm,yes,no,yes,1803,1860,"Private Collection, France","landscape, trees, figure, hills, charcoal, nature, sky, foliage, rocky terrain, shadow",1,N/A,original,"Alexandre-Gabriel Decamps (Paris 1803-1860 Fontainebleau)
+Paysage boisÃ© animÃ© 
+monogrammÃ© 'D.C.' (en bas Ã  droite)
+fusain et rehauts de blanc sur papier beige
+
+signed with monogram 'D.C.' (lower right)
+charcoal, highlighted with white on paper
+22.1 x 36.8cm (8 11/16 x 14 1/2in).",https://images1.bonhams.com/image?src=Images/live/2025-03/05/25661214-8-1.jpg,https://www.bonhams.com/auction/32417/lot/41/alexandre-gabriel-decamps-paris-1803-1860-fontainebleau-paysage-boise-anime/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1280.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+53a2a6f0-ab41-4736-882b-29719de4ac1a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 42,EUR,800,1200,1152.0,900,855.12,1282.68,1231.37,962.01,Victor Jean Nicolle,1754,1826,"La place de l'église, dans un village italien",drawing,watercolour on paper,N/A,11.7,17.5,cm,yes,yes,yes,1770,1800,"Private collection, France","church, village, people, stairs, potted plant, building, sky, clouds, signs, stone",1,N/A,original,"Victor Jean Nicolle (Paris 1754-1826)
+La place de l'Ã©glise, dans un village italien 
+signÃ© 'v.i. Nicolle' (sur le mur, en bas au centre)
+aquarelle sur papier
+
+signed 'v.i. Nicolle' (on the wall, lower centre)
+watercolour on paper
+17.5 x 11.7cm (6 7/8 x 4 5/8in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25832797-4-1.jpg,https://www.bonhams.com/auction/32417/lot/42/victor-jean-nicolle-paris-1754-1826-la-place-de-leglise-dans-un-village-italien-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1130.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1145.0,954.1666666666667
+988f0a1b-64fe-4f37-9b31-46259fed227e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 43,EUR,2500,3500,3200.0,2500,2672.25,3741.15,3420.48,2672.25,Jean Baptiste Joseph Wicar,1762,1834,Etude pour la résurrection du fils de la veuve de Naïm,drawing,charcoal and white chalk on beige paper,N/A,57.4,40.1,cm,no,no,yes,1762,1834,"With Jacques Petithory, Paris, where purchased by the present owner in 1969. Private Collection, France.","Christ, resurrection, widow, Nain, figures, drama, gestures, robes, charcoal, chalk",1,N/A,original,"Jean Baptiste Joseph Wicar (Lille 1762-1834 Rome)
+Etude pour la rÃ©surrection du fils de la veuve de NaÃ¯m 
+fusain et craie blanche sur papier beige
+
+charcoal and white chalk on beige paper
+40.1 x 57.4cm (15 13/16 x 22 5/8in).",https://images1.bonhams.com/image?src=Images/live/2025-03/05/25661214-2-1.jpg,https://www.bonhams.com/auction/32417/lot/43/jean-baptiste-joseph-wicar-lille-1762-1834-rome-etude-pour-la-resurrection-du-fils-de-la-veuve-de-naim/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3238.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+8b868810-8e8c-4168-b522-7162d8b4dae5,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 44,EUR,2000,3000,10880.0,8500,2137.8,3206.7,11629.63,9085.65,Phillippe-Auguste Hennequin,1762,1833,Jugurtha dépouillé de ses vêtements et jeté au cachot,drawing,"black chalk, pen and brown ink, brown wash, white highlights on grey paper",N/A,47.2,39,cm,yes,no,yes,1762,1833,"Private collection, France","man, soldiers, battle, captivity, weapon, historical scene, drapery, figura, expression, emotion",1,N/A,original,"Phillippe-Auguste Hennequin (Lyon 1762-1833 Leuze-en-Hainaut)
+Jugurtha dÃ©pouillÃ© de ses vÃªtements et jetÃ© au cachot 
+signÃ© 'Hennequin' (en bas Ã  gauche)
+pierre noire, plume et encre brune, lavis brun, rehauts de blanc sur papier gris
+
+signed 'Hennequin' (lower left)
+black chalk, pen and brown ink, brown wash and white highlights on grey paper
+39 x 47.2cm (15 3/8 x 18 9/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25835304-14-1.jpg,https://www.bonhams.com/auction/32417/lot/44/phillippe-auguste-hennequin-lyon-1762-1833-leuze-en-hainaut-jugurtha-depouille-de-ses-vetements-et-jete-au-cachot/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+7fc47e70-6f0f-48dd-a04e-483f45d6743b,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 45,EUR,1000,1500,4864.0,3800,1068.9,1603.35,5199.13,4061.82,Attribué à Phillippe-Auguste Hennequin,1762,1833,Chronos emportant une femme,drawing,black chalk and watercolour on paper,N/A,15.7,23.4,cm,no,no,yes,1762,1833,"Private collection, France","Chronos, woman, wings, scythe, armor, landscape, figure, sketch, black chalk, watercolor",1,N/A,attributed to,"AttribuÃ© Ã  Phillippe-Auguste Hennequin (Lyon 1762-1833 Leuze-en-Hainaut)
+Recto: Chronos emportant une femme
+Verso: Croquis 
+porte une inscription 'Ph Hennequin/ 1763-1833: Ecole /NÃ©o-Classique' (au verso, en haut Ã  gauche)
+Recto : pierre noire et aquarelle sur papier ; Verso : pierre noire
+
+bears inscription 'Ph Hennequin/ 1763-1833: Ecole /NÃ©o-Classique' (on the reverse, upper left)
+Recto: black chalk and watercolour on paper ; Verso: black chalk
+23.4 x 15.7cm (9 3/16 x 6 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25835304-13-1.jpg,https://www.bonhams.com/auction/32417/lot/45/attribue-a-phillippe-auguste-hennequin-lyon-1762-1833-leuze-en-hainaut-recto-chronos-emportant-une-femmeverso-croquis/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1281.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+4c062171-8eb1-4652-ba91-c7b9ce61ff78,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 46,EUR,700,1000,640.0,500,748.23,1068.9,684.1,534.45,Cornelis van Spaendonck,1756,1839,Nature morte aux pêches et aux prunes,drawing,watercolour on paper,N/A,29,34,cm,yes,no,yes,1756,1839,"With Klaas Muller, Knokke, 2006, where purchased by the present owner European private collection","peaches, plums, leaves, branch, wooden surface, fruit, still life, nature, colors, shadows",1,N/A,original,"Cornelis van Spaendonck (Tilburg 1756-1839)
+Nature morte aux pÃªches et aux prunes 
+signÃ© 'Cornelis van Spaendonck' (en bas Ã  droite)
+aquarelle sur papier
+
+signed 'Cornelis van Spaendonck' (lower right)
+watercolour on paper
+34 x 29cm (13 3/8 x 11 7/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25813703-20-2.jpg,https://www.bonhams.com/auction/32417/lot/46/cornelis-van-spaendonck-tilburg-1756-1839-nature-morte-aux-peches-et-aux-prunes/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1280.51,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,950.0,791.6666666666667
+24f4b4e9-e049-40e1-9ce8-dd1fbb7bfd0a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 47,EUR,40000,60000,114700.0,90000,42756.0,64134.0,122602.83,96201.0,Follower of Giulio Romano,1499,1546,"Suiveur de Giulio Romano (Rome 1499-1546 Mantoue), début XVIIe siècle La bataille du Pont Milvius",painting,"oil on canvas, unlined",N/A,352.2,148.8,cm,no,yes,yes,1601,1630,"Private collection, France","battle, bridge, horse, river, soldier, weapon, shield, sky, cloud, landscape",1,N/A,style of/follower of,"Suiveur de Giulio Romano (Rome 1499-1546 Mantoue), dÃ©but XVIIe siÃ¨cle
+La bataille du Pont Milvius 
+huile sur toile d'origine
+
+oil on canvas, unlined
+148.8 x 352.2 cm (58 9/16 x 138 11/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25823856-1-1.jpg,https://www.bonhams.com/auction/32417/lot/47/suiveur-de-giulio-romano-rome-1499-1546-mantoue-debut-xviie-siecle-la-bataille-du-pont-milvius/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,48388.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,52100.0,43416.66666666667
+5c615fa9-986d-4c4e-83cc-4046c8b3ec1a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 48,EUR,3000,5000,2816.0,2200,3206.7,5344.5,3010.02,2351.58,Attribué à Herman van Swanevelt,1600,1665,"Paysage avec Mercure, Argus et Io près d'un village côtier",painting,"oil on panel, the reverse painted with cartouche",N/A,159.7,53.3,cm,no,no,yes,1600,1665,"Sale, Hampel, Munich, 6 December 2018, lot 662
+Private collection, Switzerland
+
+A very similar composition by the artist was offered at Bloomsbury, Rome, 12 June 2008, lot 192.","landscape, Mercury, Argus, Io, village, cow, ocean, mountains, figures, sky",1,N/A,attributed to,"AttribuÃ© Ã  Herman van Swanevelt (Woerden 1600-1665 Paris)
+Paysage avec Mercure, Argus et Io prÃ¨s d'un village cÃ´tier 
+huile sur panneau, le revers dÃ©corÃ©
+
+oil on panel, the reverse painted with cartouche
+53.3 x 159.7cm (21 x 62 7/8in).",https://images1.bonhams.com/image?src=Images/live/2025-09/01/25699673-13-4.jpg,https://www.bonhams.com/auction/32417/lot/48/attribue-a-herman-van-swanevelt-woerden-1600-1665-paris-paysage-avec-mercure-argus-et-io-pres-dun-village-cotier/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3837.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4320.0,3600.0
+a9de6015-1c67-4f85-80bd-319331232ce9,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 49,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Entourage de Jan Wijnants,1632,1684,Entourage de Jan Wijnants (Haarlem 1632-1684 Amsterdam) Paysage lacustre animé de figures,painting,oil on canvas,N/A,67.8,54.3,cm,no,no,yes,1632,1684,"Private Collection, Germany","landscape, lake, figures, trees, sky, hills, water, horse, house, reflection",1,N/A,original,"Entourage de Jan Wijnants (Haarlem 1632-1684 Amsterdam)
+Paysage lacustre animÃ© de figures 
+huile sur toile
+
+oil on canvas
+54.3 x 67.8cm (21 3/8 x 26 11/16in).",https://images1.bonhams.com/image?src=Images/live/2025-03/10/25594423-1-1.jpg,https://www.bonhams.com/auction/32417/lot/49/entourage-de-jan-wijnants-haarlem-1632-1684-amsterdam-paysage-lacustre-anime-de-figures/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3838.19,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4320.0,3600.0
+44cabf79-8f50-4393-9fe5-4c03462df8f0,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 50,EUR,2000,4000,N/A,N/A,2137.8,4275.6,N/A,N/A,Attribué à George William Sartorius,1759,1828,"Nature morte au panier de pêches, prunes et raisins sur une table",painting,oil on canvas,N/A,62,50.3,cm,no,no,yes,1759,1828,Private collection,"peaches, plums, grapes, basket, table, fruit, leaves, still life",1,N/A,attributed to,"AttribuÃ© Ã  George William Sartorius (Londres 1759-1828)
+Nature morte au panier de pÃªches, prunes et raisins sur une table 
+huile sur toile
+
+oil on canvas
+50.3 x 62cm (19 13/16 x 24 7/16in).",https://images1.bonhams.com/image?src=Images/live/2026-02/06/25814962-1-1.jpg,https://www.bonhams.com/auction/32417/lot/50/attribue-a-george-william-sartorius-londres-1759-1828-nature-morte-au-panier-de-peches-prunes-et-raisins-sur-une-table/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+24ce71c4-93cf-48e1-8c12-44ed8b47bcaa,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 51,EUR,8000,12000,12160.0,9500,8551.2,12826.8,12997.82,10154.55,Suiveur de Luis Egidio Meléndez,1716,1780,Nature morte aux figues,painting,oil on canvas,N/A,48.6,36.2,cm,no,no,yes,1716,1780,"Private collection, Spain","figs,basket,plate,bread,food,still life",1,N/A,school of,"Suiveur de Luis Egidio MelÃ©ndez (Naples 1716-1780 Madrid)
+Nature morte aux figues 
+huile sur toile
+
+oil on canvas
+36.2 x 48.6cm (14 1/4 x 19 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25819561-1-1.jpg,https://www.bonhams.com/auction/32417/lot/51/suiveur-de-luis-egidio-melendez-naples-1716-1780-madrid-nature-morte-aux-figues/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+83fd2b82-5996-44b9-a8f3-a77b78accf20,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 52,EUR,4000,6000,N/A,N/A,4275.6,6413.4,N/A,N/A,N/A,N/A,N/A,"Ecole espagnole, XVIIe siècle L'Allégorie de l'Eucharistie avec la Vierge et Saint Joseph",painting,oil on canvas,N/A,81.2,104,cm,no,yes,yes,1601,1700,"Private collection, France","Eucharist, Virgin Mary, Saint Joseph, crucifixion, angel, grapes, inscriptions, oil on canvas, religious figures, tree",1,N/A,school of,"Ecole espagnole, XVIIe siÃ¨cle
+L'AllÃ©gorie de l'Eucharistie avec la Vierge et Saint Joseph 
+porte de nombreuses inscriptions (en bas)
+huile sur toile
+
+extensively inscribed (lower edge)
+oil on canvas
+104 x 81.2cm (40 15/16 x 31 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-9-1.jpg,https://www.bonhams.com/auction/32417/lot/52/ecole-espagnole-xviie-siecle-lallegorie-de-leucharistie-avec-la-vierge-et-saint-joseph/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5120.0,4266.666666666667
+024888b9-36dc-4da5-8f86-100a9c8f7bb5,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 53,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Miguel Cabrera,1695,1768,"Ecole espagnole, XVIIe siècle Christ à la colonne",painting,oil on canvas,N/A,60.7,135.5,cm,no,yes,yes,1731,1731,"Private collection, France","Christ, column, blood, injury, oil painting, 17th century, Spanish school, male figure, religious theme, half-nude",1,N/A,original,"Ecole espagnole, XVIIe siÃ¨cle
+Christ Ã  la colonne 
+porte une inscription 'Miguel Cabrera./ 1695-1768./ nÃ© Ã  Antequera - mort Ã  Mexico. /(aujourd'hui ""Cazaca"")/ ""Christ Ã  la colonne "" 1731 ou 61.' (au verso, probablement transcrite depuis la toile d'origine)
+huile sur toile
+
+porte une inscription 'Miguel Cabrera./ 1695-1768./ nÃ© Ã  Antequera - mort Ã  Mexico. /(aujourd'hui ""Cazaca"")/ ""Christ Ã  la colonne "" 1731 ou 61.' (on the reverse, presumably transcribed from the original canvas)
+oil on canvas
+135.5 x 60.7cm (53 3/8 x 23 7/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25834757-2-1.jpg,https://www.bonhams.com/auction/32417/lot/53/ecole-espagnole-xviie-siecle-christ-a-la-colonne/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3837.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4320.0,3600.0
+4324b85f-18e9-46c0-9fbb-6b45d0cab95a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 54,EUR,1500,2000,3200.0,2500,1603.35,2137.8,3420.48,2672.25,Jean-Baptiste Despax,1709,1773,Le Christ enfant,painting,oil on canvas,N/A,46,55.4,cm,no,no,yes,1709,1773,"Sale, Eurl Eve, Paris 18 April 2019, lot 141; Private collection, France","child, Christ, religious figure, prayer, pink robe, blue robe, curly hair, hands clasped, soft light, expression",1,N/A,original,"Jean-Baptiste Despax (Toulouse 1709-1773)
+Le Christ enfant 
+huile sur toile d'origine
+
+oil on canvas, unlined
+55.4 x 46cm (21 13/16 x 18 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-2-1.jpg,https://www.bonhams.com/auction/32417/lot/54/jean-baptiste-despax-toulouse-1709-1773-le-christ-enfant/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1933.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1875.0,1562.5
+a63ce239-27b2-4692-a9c6-0de097492b69,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 55,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Etienne Jeaurat,1699,1789,La tentation de Saint Antoine de Padoue,painting,oil on canvas,N/A,49.8,61.2,cm,yes,yes,yes,1776,1776,"Private noble collection, château, Normandy and thence by descent; Private collection, France","saint, man, woman, pig, basket, book, ruins, cross, landscape, clouds",1,N/A,original,"Etienne Jeaurat (Paris 1699-1789 Versailles)
+La tentation de Saint Antoine de Padoue 
+signÃ© et datÃ© 'E. Jeaurat/ p. 1776' (au centre Ã  gauche)
+huile sur toile
+
+signed and dated 'E. Jeaurat/ p. 1776' (centre left)
+oil on canvas
+61.2 x 49.8cm (24 1/8 x 19 5/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25836095-1-1.jpg,https://www.bonhams.com/auction/32417/lot/55/etienne-jeaurat-paris-1699-1789-versailles-la-tentation-de-saint-antoine-de-padoue/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+da6d74e7-7db8-48e4-9629-13d26a153f2a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 56,EUR,3000,5000,6144.0,4800,3206.7,5344.5,6567.32,5130.72,Suiveur de Jakob Bogdány,1660,1724,Nature morte aux perroquets,painting,oil on canvas,N/A,67.2,74.4,cm,yes,no,yes,1660,1724,"Private collection, Belgium","parrots, nature morte, bird, branch, foliage, red, blue, white, canvas, oil",1,N/A,school of,"Suiveur de Jakob BogdÃ¡ny (Eperjes 1660-1724 Londres)
+Nature morte aux perroquets 
+porte une signature 'J. * Oudry' (en bas Ã  gauche)
+huile sur toile
+
+bears signature 'J. *Oudry' (lower left)
+oil on canvas
+74.4 x 67.2cm (29 5/16 x 26 7/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25779801-15-1.jpg,https://www.bonhams.com/auction/32417/lot/56/suiveur-de-jakob-bogdany-eperjes-1660-1724-londres-nature-morte-aux-perroquets/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4320.0,3600.0
+572a4e12-20c2-47bf-b2c3-8df82010ee5a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 57,EUR,2800,3200,2816.0,2200,2992.92,3420.48,3010.02,2351.58,Atelier de Pierre Nicolas Huilliot,1674,1751,Nature morte aux fruits et fleurs avec un perroquet,painting,oil on canvas,N/A,136,142.3,cm,no,no,yes,1674,1751,"Private collection, France","fruits, flowers, parrot, gilded box, plate, landscape, grapes, apples, pears, vase",1,N/A,studio of,"Atelier de Pierre Nicolas Huilliot (Paris 1674-1751)
+Nature morte aux fruits et fleurs avec un perroquet 
+huile sur toile
+
+oil on canvas
+142.3 x 136cm (56 x 53 9/16in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2025-09/30/25755845-3-1.jpg,https://www.bonhams.com/auction/32417/lot/57/atelier-de-pierre-nicolas-huilliot-paris-1674-1751-nature-morte-aux-fruits-et-fleurs-avec-un-perroquet-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3568.13,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+15a88f16-58b6-4418-ac6c-995f51e82fd1,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 58,EUR,3000,5000,3200.0,2500,3206.7,5344.5,3420.48,2672.25,"Jan Pauwel Gillemans, le vieux",1618,1675,"Nature morte à la corbeille de pêches, raisins, huîtres, mandarine et citron pelé sur un entablement de pierre",painting,oil on canvas,N/A,43.1,57.4,cm,yes,no,yes,1618,1675,"Private collection, France","peaches, grapes, oysters, tangerine, peeled lemon, ribbon, dark background",1,N/A,attributed to,"Jan Pauwel Gillemans, le vieux (Anvers 1618-1675)
+Nature morte Ã  la corbeille de pÃªches, raisins, huÃ®tres, mandarine et citron pelÃ© sur un entablement de pierre 
+porte une signature '* HEEM' (sur l'entablement, au centre Ã  droite)
+huile sur toile
+
+bears signature '* HEEM' (on the basis, centre right)
+57.4 x 43.1cm (22 5/8 x 16 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25795483-2-1.jpg,https://www.bonhams.com/auction/32417/lot/58/jan-pauwel-gillemans-le-vieux-anvers-1618-1675-nature-morte-a-la-corbeille-de-peches-raisins-huitres-mandarine-et-citron-pele-sur-un-entablement-de-pierre/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4830.51,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4375.0,3645.8333333333335
+ba51e280-1a0b-4c14-b854-c22929ae41b1,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 59,EUR,4000,6000,N/A,N/A,4275.6,6413.4,N/A,N/A,"Entourage de Jan Pauwel Gillemans, le vieux",1618,1675,"Entourage de Jan Pauwel Gillemans, le vieux (Anvers 1618-1675 Anvers) Statue de femme, entourée d'une guirlande de fruits et fleurs",painting,oil on canvas,N/A,110,131.4,cm,no,no,yes,1618,1675,"Private collection, France","woman, garland, fruits, flowers, statue, oil painting, portrait, still life, decorative, 17th century",1,N/A,original,"Entourage de Jan Pauwel Gillemans, le vieux (Anvers 1618-1675 Anvers)
+Statue de femme, entourÃ©e d'une guirlande de fruits et fleurs 
+huile sur toile
+
+oil on canvas
+131.4 x 110cm (51 3/4 x 43 5/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25834742-1-1.jpg,https://www.bonhams.com/auction/32417/lot/59/entourage-de-jan-pauwel-gillemans-le-vieux-anvers-1618-1675-anvers-statue-de-femme-entouree-dune-guirlande-de-fruits-et-fleurs/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5120.0,4266.666666666667
+d7319a01-91a9-4a92-ba65-5bb08c8eff15,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 60,EUR,8000,12000,N/A,N/A,8551.2,12826.8,N/A,N/A,Peeter van Bredael,1629,1719,Capriccio avec un berger et son troupeau,painting,oil on canvas,N/A,148,116.7,cm,yes,yes,yes,1659,1659,"Private collection, Italie","shepherd, cattle, ruins, landscape, trees, columns, sky, road, dog, figures",1,N/A,original,"Peeter van Bredael (Anvers 1629-1719)
+Capriccio avec un berger et son troupeau 
+signÃ© et datÃ© 'P. Bredael f. / 1659' (en bas Ã  gauche, renforcÃ©)
+huile sur toile
+
+signed and dated 'P. Bredael f. / 1659' (lower left, strengthened)
+oil on canvas
+116.7 x 148cm (45 15/16 x 58 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25800567-1-1.jpg,https://www.bonhams.com/auction/32417/lot/60/peeter-van-bredael-anvers-1629-1719-capriccio-avec-un-berger-et-son-troupeau/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10793.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+bbc19a5e-c232-41b1-994d-49c42500c5da,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 61,EUR,18000,25000,N/A,N/A,19240.2,26722.5,N/A,N/A,Attribué à Pieter Snayers,1592,1667,Assaut de convoi,painting,oil on canvas,N/A,160.2,102.7,cm,no,no,yes,1592,1667,"The present lot has previously been attributed to Sebastian Vrancs (1573-1647) (sale Semenzato, 8 November 1992, lot 24)","landscape, horses, riders, trees, cloud, road, figures, river, battle, scene",1,N/A,attributed to,"AttribuÃ© Ã  Pieter Snayers (Anvers 1592-1667 Bruxelles)
+Assaut de convoi 
+huile sur toile
+
+oil on canvas
+102.7 x 160.2cm (40 7/16 x 63 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25794545-1-3.jpg,https://www.bonhams.com/auction/32417/lot/61/attribue-a-pieter-snayers-anvers-1592-1667-bruxelles-assaut-de-convoi/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,24138.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,23400.0,19500.0
+fd4f21f7-70a2-409f-bb66-bd3a32ca7177,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 62,EUR,3000,5000,3584.0,2800,3206.7,5344.5,3830.94,2992.92,Balthasar van den Bossche,1681,1715,Allégorie de la guerre,painting,oil on canvas,N/A,124.5,99.7,cm,no,no,yes,1681,1715,"Collection Marchesi Massoni, Lucca, 1928; With Vangelisti, Lucca, 1973","woman, armor, weapons, red drapery, buildings, landscape, child, shields, historical objects, decorations",1,N/A,original,"Balthasar van den Bossche (Anvers 1681-1715)
+AllÃ©gorie de la guerre 
+huile sur toile
+
+oil on canvas
+99.7 x 124.5cm (39 1/4 x 49in).",https://images1.bonhams.com/image?src=Images/live/2025-09/10/25676434-2-2.jpg,https://www.bonhams.com/auction/32417/lot/62/balthasar-van-den-bossche-anvers-1681-1715-allegorie-de-la-guerre/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4375.0,3645.8333333333335
+59f55f7f-9bfa-474f-bc4d-96c2394a000e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 63,EUR,5000,7000,N/A,N/A,5344.5,7482.3,N/A,N/A,Entourage de Luca Giordano,1634,1705,Le massacre des Innocents,painting,oil on canvas,N/A,181,128.6,cm,no,yes,yes,1601,1700,"Sale, Hampel, Munich, 26 September 2018, lot 664; Private collection, Switzerland","massacre, children, soldiers, women, landscape, angels, chaos, ruins, drapery, emotions",1,N/A,original,"Entourage de Luca Giordano (Naples 1634-1705 Naples)
+Le massacre des Innocents 
+huile sur toile
+
+oil on canvas
+128.6 x 181cm (50 5/8 x 71 1/4in).",https://images1.bonhams.com/image?src=Images/live/2025-09/19/25699673-5-1.jpg,https://www.bonhams.com/auction/32417/lot/63/entourage-de-luca-giordano-naples-1634-1705-naples-le-massacre-des-innocents/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6448.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6820.0,5683.333333333334
+11e119c2-80a6-4267-862b-5828069698f8,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 64,EUR,15000,20000,N/A,N/A,16033.5,21378.0,N/A,N/A,"Domenico Gargiulo, dit Micco Spadaro",1609,1675,Le triomphe de David,painting,oil on canvas,N/A,128.9,101.1,cm,yes,yes,yes,1601,1700,"Sale, Finarte, Milan, 19-20 November, 1963, lot 9; Private collection, Italy","David, celebration, figures, dancers, soldiers, landscape, architecture, clouds, historical scene, triumph",1,N/A,original,"Domenico Gargiulo, dit Micco Spadaro (vers Naples 1609-1675)
+Le triomphe de David 
+signÃ© avec monogramme '.D. G.' (en bas Ã  droite)
+huile sur toile
+
+signed with monogram '.D. G.' (lower right)
+oil on canvas
+101.1 x 128.9cm (39 13/16 x 50 3/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25815033-1-1.jpg,https://www.bonhams.com/auction/32417/lot/64/domenico-gargiulo-dit-micco-spadaro-vers-naples-1609-1675-le-triomphe-de-david/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,19388.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,18500.0,15416.666666666668
+8e1aec3d-f222-4aef-923a-4b70da5ba2c7,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 65,EUR,7000,10000,7680.0,6000,7482.3,10689.0,8209.15,6413.4,Entourage de Luca Giordano,1634,1705,L'Enlèvement de Proserpine,painting,oil on canvas,N/A,96.9,96.9,cm,no,no,yes,1634,1705,"Private collection, Italy","Proserpine, abduction, sea, nymphs, figures, landscape, shell, drapery, water, nature",1,N/A,original,"Entourage de Luca Giordano (Naples 1634-1705 Naples)
+L'EnlÃ¨vement de Proserpine 
+huile sur toile
+
+oil on canvas
+96.9 x 96.9cm (38 1/8 x 38 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25815033-2-1.jpg,https://www.bonhams.com/auction/32417/lot/65/entourage-de-luca-giordano-naples-1634-1705-naples-lenlevement-de-proserpine/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10120.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9000.0,7500.0
+ce21742a-0b87-4dc0-a85f-911256646b07,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 66,EUR,4000,6000,3584.0,2800,4275.6,6413.4,3830.94,2992.92,N/A,N/A,N/A,"Ecole italienne, du Nord, XVIIIe siècle Portrait de dame de qualité avec son chien; Portrait de gentilhomme",painting,oil on canvas,N/A,68.2,85.6,cm,no,yes,yes,1701,1800,N/A,"man, portrait, woman, portrait, dog, clothing, 18th century, elegance, quality, pairs",2,N/A,original,"Ecole italienne, du Nord, XVIIIe siÃ¨cle
+Portrait de dame de qualitÃ© avec son chien; Portrait de gentilhomme 
+une paire, huile sur toile
+
+a pair, oil on canvas
+85.6 x 68.2cm (33 11/16 x 26 7/8in); 86.4 x 69.5cm (34 x 27 3/8in) (2)",https://images1.bonhams.com/image?src=Images/live/2025-10/02/25735574-4-1.jpg,https://www.bonhams.com/auction/32417/lot/66/ecole-italienne-du-nord-xviiie-siecle-portrait-de-dame-de-qualite-avec-son-chien-portrait-de-gentilhomme-856-x-682cm-33-1116-x-26-78in-864-x-695cm-34-x-27-38in-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5340.0,4450.0
+43829824-f514-448c-831b-4784be49d09a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 67,EUR,7000,10000,20480.0,16000,7482.3,10689.0,21891.07,17102.4,Jakob Ferdinand Voet,1639,1700,"Portrait de Maria Virginia Borghèse, princesse Chigi",painting,oil on canvas,N/A,60.8,74.8,cm,no,yes,yes,1700,1700,"Another portrait of the same sitter, executed by the artist and his workshop, is now at the Palazzo Chigi, Ariccia, inv. 1276 (see F. Petrucci, Ferdinando Voet (1639-1689) detto Ferdinando de' Ritratti, Roma, 2005, p. 220, no. 166.a)","portrait, woman, dress, ribbon, curls, jewelry, lace, floral patterns, historical attire, chiaroscuro",1,N/A,original,"Jakob Ferdinand Voet (Anvers 1639-circa 1700)
+Portrait de Maria Virginia BorghÃ¨se, princesse Chigi 
+huile sur toile
+
+oil on canvas
+74.8 x 60.8cm (29 7/16 x 23 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25735574-3-1.jpg,https://www.bonhams.com/auction/32417/lot/67/jakob-ferdinand-voet-anvers-1639-circa-1700-portrait-de-maria-virginia-borghese-princesse-chigi/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10121.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9125.0,7604.166666666667
+05cf30d5-23ab-4749-8480-b4685454fe22,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 68,EUR,18000,22000,23040.0,18000,19240.2,23515.8,24627.46,19240.2,Adriaen Hanneman,1601,1671,"Portrait présumé du fils de Nicasius Roussel, bijoutier à la cour du roi Charles Iᵉʳ d'Angleterre, tenant un collier de perles",painting,oil on canvas,N/A,82,88.5,cm,no,yes,yes,1636,1636,"Sale, Hampel, Munich 28 September 2017, lot 730 (hammer 50000€); Private collection, Austria; Sale, Artcurial, Paris, 21 March 2018, lot 112, where purchased by the present owner; Private collection, France.","portrait, man, pearls, dark background, clothing, collar, historical figure, jewelry, 17th century, facial expression",1,N/A,original,"Adriaen Hanneman (La Haye circa 1601-1671)
+Portrait prÃ©sumÃ© du fils de Nicasius Roussel, bijoutier Ã  la cour du roi Charlesâ¯IáµÊ³ d'Angleterre, tenant un collier de perles 
+datÃ© 'An. 1636' (sur la base de la colonne, Ã  gauche), 
+huile sur toile, extension de toile le long du bord supÃ©rieur (environ 5â¯cm)
+
+dated 'An. 1636' (on the plinth, on the left)
+oil on canvas, extended along upper edge (approximately 5 cm) 
+88.5 x 82cm (34 13/16 x 32 5/16in).",https://images1.bonhams.com/image?src=Images/live/2025-11/25/25772905-1-1.jpg,https://www.bonhams.com/auction/32417/lot/68/adriaen-hanneman-la-haye-circa-1601-1671-portrait-presume-du-fils-de-nicasius-roussel-bijoutier-a-la-cour-du-roi-charles-ier-dangleterre-tenant-un-collier-de-perles/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,24168.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,51200.0,42666.66666666667
+8238f771-d6e1-472d-90fa-a08dc8b49a1e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 69,EUR,5000,7000,6400.0,5000,5344.5,7482.3,6840.96,5344.5,Louis Tocqué,1696,1772,Portrait d'homme en habit marron,painting,oil on canvas,N/A,65.8,81.8,cm,no,no,yes,1696,1772,"Collection Alphonse Pinard (according to 1941 catalogue) Collection Jacques de Chefdebien, Paris his sale Ader, Paris 13 February 1941, lot 42, where purchased by the present owner Private collection","man, brown coat, curly hair, smile, seated position",1,N/A,original,"Louis TocquÃ© (Paris 1696-1772)
+Portrait d'homme en habit marron 
+porte un numÃ©ro d'inventaire '6' (en bas Ã  gauche)
+huile sur toile
+
+bears inventory number '6' (lower left)
+oil on canvas
+81.8 x 65.8cm (32 3/16 x 25 7/8in).",https://images1.bonhams.com/image?src=Images/live/2026-02/05/25814962-5-1.jpg,https://www.bonhams.com/auction/32417/lot/69/louis-tocque-paris-1696-1772-portrait-dhomme-en-habit-marron/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6418.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6200.0,5166.666666666667
+2c33cb99-4ecf-45c7-a774-18b863dfcb30,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 70,EUR,25000,30000,30720.0,24000,26722.5,32067.0,32836.61,25653.6,Nicolas de Largillière,1656,1746,Portrait de Marguerite de Sève,painting,oil on canvas,N/A,64.3,80.7,cm,no,yes,yes,1726,1726,"Sale, Ader, Paris, 17 March 1943, lot 46, where purchased by the present owner. Private collection.","portrait, woman, flowers, dress, lace, jewelry, hair, background, oil painting, 18th century",1,N/A,original,"Nicolas de LargilliÃ¨re (Paris 1656-1746)
+Portrait de Marguerite de SÃ¨ve 
+inscription au dos 'Peint par LargilliÃ¨re/ en 1726' (au dos, probablement transcrite depuis la toile d'origine)
+huile sur toile
+
+inscribed 'Peint par LargilliÃ¨re/ en 1726' (on the reverse, presumably transcribed from the original canvas)
+oil on canvas
+80.7 x 64.3cm (31 3/4 x 25 5/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/24/25847391-3-1.jpg,https://www.bonhams.com/auction/32417/lot/70/nicolas-de-largilliere-paris-1656-1746-portrait-de-marguerite-de-seve/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,30409.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,29800.0,24833.333333333336
+31db64fa-edf0-4688-ad00-ee3e9437e6b6,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 71,EUR,3000,5000,3584.0,2800,3206.7,5344.5,3830.94,2992.92,Atelier de Louis-Michel van Loo,1707,1771,Portrait de la comtesse de Chambon en vestale,painting,oil on canvas,N/A,102.3,135.3,cm,no,no,yes,1707,1771,"The composition relates closely to the signed and dated 1735 work by the artist, which was offered at Drouot, Paris, in March 1910 (see Courtauld Witt Photographic Library, Courtauld_034594_Witt_059626_0032). Another version, attributed to the workshop, is now in the Musée Fabre, Montpellier (inv. 849.1.1), attesting to the popularity of this subject.","portrait, woman, veil, red dress, white fabric, seated figure, flame, drapery, background, classical style",1,N/A,studio of,"Atelier de Louis-Michel van Loo (Toulon 1707-1771 Paris)
+Portrait de la comtesse de Chambon en vestale 
+huile sur toile
+
+oil on canvas
+135.3 x 102.3cm (53 1/4 x 40 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25837407-1-1.jpg,https://www.bonhams.com/auction/32417/lot/71/atelier-de-louis-michel-van-loo-toulon-1707-1771-paris-portrait-de-la-comtesse-de-chambon-en-vestale/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4048.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+6de8efa3-9fc2-4177-b123-4ab2a485daa5,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 72,EUR,2500,3500,3584.0,2800,2672.25,3741.15,3830.94,2992.92,Atelier de Louis-Michel van Loo,1707,1771,Portrait de dame de qualité,painting,oil on canvas,N/A,73.8,93.3,cm,no,no,yes,1707,1771,"Private collection, France","portrait, woman, gown, ribbon, jewelry, silk, curtain, hairstyle, blue, pink",1,N/A,studio of,"Atelier de Louis-Michel van Loo (Toulon 1707-1771 Paris)
+Portrait de dame de qualitÃ© 
+huile sur toile
+
+oil on canvas
+93.3 x 73.8cm (36 3/4 x 29 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25834742-2-1.jpg,https://www.bonhams.com/auction/32417/lot/72/atelier-de-louis-michel-van-loo-toulon-1707-1771-paris-portrait-de-dame-de-qualite/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3568.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+8b8f6b9e-4280-4083-945d-02573551d69e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 73,EUR,2000,3000,2560.0,2000,2137.8,3206.7,2736.38,2137.8,Entourage de Jean-Baptiste Santerre,1651,1717,Jeune femme accoudée,painting,oil on canvas,N/A,74.2,92.4,cm,no,no,yes,1651,1717,"The Collection of Jacques Seligmann, Paris and thence by descent
+Private collection, France","young woman, leaning, resting chin, light-colored dress, curled hair, portrait painting, dark background, seated figure, soft expression, lace trim",1,N/A,original,"Entourage de Jean-Baptiste Santerre (Magny-en-Vexin 1651-1717 Paris)
+Jeune femme accoudÃ©e 
+huile sur toile
+
+oil on canvas
+92.4 x 74.2cm (36 3/8 x 29 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25834815-4-1.jpg,https://www.bonhams.com/auction/32417/lot/73/entourage-de-jean-baptiste-santerre-magny-en-vexin-1651-1717-paris-jeune-femme-accoudee/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+250c126b-74f0-49fe-b58b-5a8b143801e4,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 74,EUR,8000,12000,12800.0,10000,8551.2,12826.8,13681.92,10689.0,Ecole française,N/A,N/A,Portrait de peintre,painting,oil on canvas,N/A,60.3,72.2,cm,no,yes,yes,1701,1800,"Collection Baron Marie-Amédée-Henri-Napoléon Gourgaud (1881–1944), Paris, (according to a label on the reverse) Sale, Tajan, Paris, 2001 (according to the present owner) Private collection, France According to the label on the reverse, the present painting—formerly attributed to Sébastien Bourdon (1616–1671)—once belonged to the distinguished collection of Baron Marie-Amédée-Henri-Napoléon Gourgaud (1881–1944), great-grandson of General Gourgaud, the companion of Napoléon during the exile on Saint Helena. A prominent collector and mécène in interwar Paris, the baron, together with his wife, the American heiress Eva Gebhard (1876–1959), assembled one of the most significant private collections of the 1930s. At their deaths, and with no direct heirs, much of their collection entered the French national museums, securing their legacy as major benefactors of the period.","portrait, painter, man, curly hair, white shirt, black vest, blue ribbon, hand gesture, oil painting, 18th century, dark background",1,N/A,school of,"Ecole franÃ§aise, XVIIIe siÃ¨cle
+Portrait de peintre 
+huile sur toile
+
+oil on canvas
+72.2 x 60.3cm (28 7/16 x 23 3/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25835304-12-1.jpg,https://www.bonhams.com/auction/32417/lot/74/ecole-francaise-xviiie-siecle-portrait-de-peintre/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+b8eb63f4-8625-4324-ac68-aeda03596141,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 75,EUR,6000,8000,N/A,N/A,6413.4,8551.2,N/A,N/A,Paolo Anesi,1700,1761,"Paire de paysages fluviaux de la campagne romaine, animés de figures",painting,oil on canvas,N/A,46,36.5,cm,no,yes,yes,1701,1730,"Sale, Sotheby's, Monaco, 5 December 1992, lot 13; Sale, Hampel, Munich, 4 July 2008, Lot 283; Private collection, Switzerland","landscape, river, figures, buildings, bridge, trees, sky, boats, tower, hills",2,N/A,original,"Paolo Anesi (Rome circa 1700-circa 1761)
+Paire de paysages fluviaux de la campagne romaine, animÃ©s de figures 
+une paire, huile sur toile d'origine
+
+a pair, oil on canvas, unlined
+36.5 x 46cm (14 3/8 x 18 1/8in). (2)",https://images1.bonhams.com/image?src=Images/live/2025-09/01/25699673-4-6.jpg,https://www.bonhams.com/auction/32417/lot/75/paolo-anesi-rome-circa-1700-circa-1761-paire-de-paysages-fluviaux-de-la-campagne-romaine-animes-de-figures-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10832.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+e69b1950-c3a1-4743-8b81-11dc34443295,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 76,EUR,6000,8000,N/A,N/A,6413.4,8551.2,N/A,N/A,Joseph August Knip,1777,1847,Vue du Lac Albano avec le Castelgandolfo; Vue des montagnes Sabines,painting,oil on panel,N/A,48.1,59.8,cm,yes,yes,yes,1816,1816,"Sale, Christie's, London, 9 December 2009, lot 317; Sale, Sotheby's, Hong Kong, 11 September 2018, lot 13; Private collection, Switzerland","mountains, lake, trees, clouds, waterfall, river, rocks, landscape, horseback rider, ruins",2,N/A,original,"Joseph August Knip (Tilburg 1777-1847 Berlicum)
+Vue du Lac Albano avec le Castelgandolfo; Vue des montagnes Sabines 
+une paire, un signÃ© et datÃ© 'JA KNIP/1816' (en bas Ã  gauche)
+huile sur panneau
+
+a pair, one signed and dated 'JA KNIP/1816' (lower left)
+oil on panel
+59.8 x 48.1cm (23 9/16 x 18 15/16in).
+(2)",https://images1.bonhams.com/image?src=Images/live/2025-09/01/25699673-1-6.jpg,https://www.bonhams.com/auction/32417/lot/76/joseph-august-knip-tilburg-1777-1847-berlicum-vue-du-lac-albano-avec-le-castelgandolfo-vue-des-montagnes-sabines-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10832.91,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+e211faea-37e0-4d3e-9748-23a1dd8efaa4,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 77,EUR,5000,6000,5030.4,3930,5344.5,6413.4,5376.99,4200.78,Paolo Monaldi,1725,1780,Deux scènes des œuvres de miséricorde : Nourrir les affamés et Ensevelir les morts,painting,oil on canvas,N/A,68.4,45.6,cm,no,no,yes,1725,1780,"The Adanero Collection, Madrid, then by descent","scenes, mercy works, feeding the hungry, burying the dead, people, trees, buildings, landscape, animals, group of figures",2,N/A,original,"Paolo Monaldi (Rome 1725-1780)
+Deux scÃ¨nes des Åuvres de misÃ©ricorde : Nourrir les affamÃ©s et Ensevelir les morts 
+une paire, huile sur toile d'origine
+
+a pair, oil on canvas, unlined
+45.6 x 68.4cm (17 15/16 x 26 15/16in).(2)",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25810933-2-1.jpg,https://www.bonhams.com/auction/32417/lot/77/paolo-monaldi-rome-1725-1780-deux-scenes-des-oeuvres-de-misericorde-nourrir-les-affames-et-ensevelir-les-morts-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6418.33,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5700.0,4750.0
+a265b8e7-d54d-4b85-a14d-b0ace8aa4a9a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 78,EUR,40000,60000,51200.0,40000,42756.0,64134.0,54727.68,42756.0,Hubert Robert,1733,1808,Pêcheurs ramassant leurs filets au soleil levant ; Deux femmes au bord de la côte au soleil couchant,painting,oil on canvas,N/A,150,67,cm,no,no,yes,1733,1808,"Sale, Piasa, Drouot, Paris, 25 June 1999, lot 74; Private collection, France","fishermen, women, coastline, boats, sunlight, water, rocks, clouds, castles, sunset",2,N/A,original,"Hubert Robert (Paris 1733-1808)
+PÃªcheurs ramassant leurs filets au soleil levant ; Deux femmes au bord de la cÃ´te au soleil couchant 
+une paire, huile sur toile
+
+a pair, oil on canvas
+67 x 150cm (26 3/8 x 59 1/16in). (2)",https://images1.bonhams.com/image?src=Images/live/2026-03/23/25797733-7-8.jpg,https://www.bonhams.com/auction/32417/lot/78/hubert-robert-paris-1733-1808-pecheurs-ramassant-leurs-filets-au-soleil-levant-deux-femmes-au-bord-de-la-cote-au-soleil-couchant-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,48389.48,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,57000.0,47500.0
+7fdfd1bf-329f-4709-8766-4454d765f297,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 79,EUR,4000,6000,5120.0,4000,4275.6,6413.4,5472.77,4275.6,N/A,N/A,N/A,"Ecole espagnole, XVIIe siècle Un jeune homme mangeant à la lumière d'une lampe à huile",painting,oil on canvas,N/A,63.5,74.8,cm,no,yes,yes,1601,1700,"With Katz, Dieren, 1929; With Messr. Leger and Son, London; Sale, Sotheby's, London, 2 May 2012, lot 92; Private collection, Belgium","young man, oil lamp, eating, pot, spoon, plate, brown tones",1,N/A,school of,"Ecole espagnole, XVIIe siÃ¨cle
+Un jeune homme mangeant Ã  la lumiÃ¨re d'une lampe Ã  huile 
+huile sur toile
+
+oil on canvas
+74.8 x 63.5cm (29 7/16 x 25in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25779801-14-1.jpg,https://www.bonhams.com/auction/32417/lot/79/ecole-espagnole-xviie-siecle-un-jeune-homme-mangeant-a-la-lumiere-dune-lampe-a-huile/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5350.0,4458.333333333334
+01561645-ea4a-4bd9-9b3f-9c1b44621a28,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 80,EUR,1800,2000,3840.0,3000,1924.02,2137.8,4104.58,3206.7,After Rembrandt Harmensz. van Rijn,N/A,N/A,"D'Apres Rembrandt Harmensz. van Rijn, XVIIIe siècle Portrait de l'artiste",painting,oil on canvas,N/A,46.6,57.2,cm,no,yes,yes,1701,1800,"Private collection, France","portrait, artist, oil, canvas, historical figure, hat, collar, 18th century, realism, classic",1,N/A,after,"D'Apres Rembrandt Harmensz. van Rijn, XVIIIe siÃ¨cle
+Portrait de l'artiste 
+huile sur toile
+
+oil on canvas
+57.2 x 46.6cm (22 1/2 x 18 3/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25835304-3-1.jpg,https://www.bonhams.com/auction/32417/lot/80/dapres-rembrandt-harmensz-van-rijn-xviiie-siecle-portrait-de-lartiste/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2438.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2025.0,1687.5
+4c0711ff-6ec9-4564-88d7-a9643a33849a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 81,EUR,4000,6000,N/A,N/A,4275.6,6413.4,N/A,N/A,Atelier d'Antoine Van Dyck,1599,1641,Portrait d'homme sans cadre,painting,oil on paper laid down on panel,N/A,37.2,49.4,cm,no,no,yes,1599,1641,"The present painting is related to the original by Anthony Van Dyck, now at the National Museum of Warsaw (M.Ob.1632 MNW).","man, portrait, clothing, collar, oil painting, dark background",1,N/A,studio of,"Atelier d'Antoine Van Dyck (Anvers 1599-1641 Londres)
+Portrait d'homme 
+huile sur papier marouflÃ© sur panneau
+
+oil on paper laid down on panel
+49.4 x 37.2cm (19 7/16 x 14 5/8in).
+sans cadre â unframed",https://images1.bonhams.com/image?src=Images/live/2026-02/06/60158586-1-1.jpg,https://www.bonhams.com/auction/32417/lot/81/atelier-dantoine-van-dyck-anvers-1599-1641-londres-portrait-dhomme-sans-cadre-unframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+5d80c5b8-45fe-44f5-aeb0-915e3b63c581,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 82,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Benjamin Gerritsz. Cuyp,1612,1652,Scène animée près du feu,painting,oil on panel,N/A,27.8,33.3,cm,no,no,yes,1612,1652,"The Collection of Jacques Seligmann, Paris and thence by descent
+Private collection, France","fire, figures, man, woman, child, clothing, light, shadows, interior, warmth",1,N/A,original,"Benjamin Gerritsz. Cuyp (Dordrecht 1612-1652)
+ScÃ¨ne animÃ©e prÃ¨s du feu 
+huile sur panneau
+
+oil on panel
+33.3 x 27.8cm (13 1/8 x 10 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25834815-7-1.jpg,https://www.bonhams.com/auction/32417/lot/82/benjamin-gerritsz-cuyp-dordrecht-1612-1652-scene-animee-pres-du-feu/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+570a25e1-5355-47ad-b976-ed77f1a77fb5,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 83,EUR,2200,2800,2816.0,2200,2351.58,2992.92,3010.02,2351.58,Benjamin Gerritsz. Cuyp,1612,1652,L'adoration des bergers,painting,oil on panel,N/A,63.3,43.5,cm,no,no,yes,1612,1652,"Private collection, France","adoration, shepherds, nativity, figures, light, dark, landscape, animals, cave, religious",1,N/A,original,"Benjamin Gerritsz. Cuyp (Dordrecht 1612-1652)
+L'adoration des bergers 
+huile sur panneau
+
+oil on panel
+43.5 x 63.3cm (17 1/8 x 24 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25824666-1-2.jpg,https://www.bonhams.com/auction/32417/lot/83/benjamin-gerritsz-cuyp-dordrecht-1612-1652-ladoration-des-bergers/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3221.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2760.0,2300.0
+0b21c75b-1fd0-4c8c-b063-77e949d47231,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 84,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,"Atelier de Pieter Mulier le Jeune, dit Tempesta",1637,1701,"Atelier de Pieter Mulier le Jeune, dit Tempesta (Haarlem 1637-1701 Milan) Scène d'orage animée de personnages",painting,oil on canvas,N/A,101.8,131.2,cm,no,no,yes,1637,1701,"Sale, Artcurial, Paris, 11 February 2021, lot 251
+Private collection, France","storm, landscape, figures, trees, river, bridge, clouds, mountains, lightning, water",1,N/A,studio of,"Atelier de Pieter Mulier le Jeune, dit Tempesta (Haarlem 1637-1701 Milan)
+ScÃ¨ne d'orage animÃ©e de personnages 
+huile sur toile
+
+oil on canvas
+131.2 x 101.8cm (51 5/8 x 40 1/16in).",https://images1.bonhams.com/image?src=Images/live/2025-11/25/25792032-1-1.jpg,https://www.bonhams.com/auction/32417/lot/84/atelier-de-pieter-mulier-le-jeune-dit-tempesta-haarlem-1637-1701-milan-scene-dorage-animee-de-personnages/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+1fb396bd-fe39-471e-8f20-515451f14077,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 85,EUR,2000,3000,2560.0,2000,2137.8,3206.7,2736.38,2137.8,N/A,N/A,N/A,"Ecole hollandaise, XIXe siècle Voiliers dans une mer agitée",painting,oil on panel,N/A,33.2,22.7,cm,no,yes,yes,1801,1900,"Private collection, Belgium","sailing boats, stormy sea, clouds, waves, nautical elements",1,N/A,original,"Ecole hollandaise, XIXe siÃ¨cle
+Voiliers dans une mer agitÃ©e 
+huile sur panneau
+
+oil on panel
+22.7 x 33.2cm (8 15/16 x 13 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25779801-16-1.jpg,https://www.bonhams.com/auction/32417/lot/85/ecole-hollandaise-xixe-siecle-voiliers-dans-une-mer-agitee/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2580.0,2150.0
+5ac307d3-947a-43b9-b8c6-4d1f636ee685,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 86,EUR,5000,7000,N/A,N/A,5344.5,7482.3,N/A,N/A,Jacques-Charles Oudry,1720,1778,"Trophée de chasse, au canard suspendu et rafraîchissoir",painting,oil on canvas,N/A,66.4,103.7,cm,yes,yes,yes,1761,1761,"Sale, Cornette de Saint Cyr Paris, 5 November 1993, lot 37, where purchased by the present owner","duck, turtle, bread, pot, hunting trophy, oil painting, still life, kitchen, food, canvas",1,N/A,original,"Jacques-Charles Oudry (Paris 1720-1778)
+TrophÃ©e de chasse, au canard suspendu et rafraÃ®chissoir 
+signÃ© et datÃ© 'J . C. Oudry. / 1761' (en bas Ã  droite)
+huile sur toile
+
+signed and dated 'J . C. Oudry. / 1761' (lower right)
+oil on canvas
+103.7 x 66.4cm (40 13/16 x 26 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-02/05/25814962-3-1.jpg,https://www.bonhams.com/auction/32417/lot/86/jacques-charles-oudry-paris-1720-1778-trophee-de-chasse-au-canard-suspendu-et-rafraichissoir/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,6448.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,6820.0,5683.333333333334
+f042af68-3218-46ea-a752-7bf67a2bf33c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 87,EUR,3500,4500,4480.0,3500,3741.15,4810.05,4788.67,3741.15,Attribué à Louis François Aubry,1767,1851,Portrait d'un jeune homme avec ses jouets,painting,oil on canvas,N/A,90.5,114,cm,no,yes,yes,1801,1830,"With Galleria Matteotti, Milan, 1968; Private collection, France","young man, toys, portrait, oil painting, clothing, sitting, table, background, oval, interior",1,N/A,attributed to,"AttribuÃ© Ã  Louis FranÃ§ois Aubry (Paris 1767-1851)
+Portrait d'un jeune homme avec ses jouets 
+huile sur toile d'origine, ovale
+
+oil on canvas, unlined, oval
+114 x 90.5cm (44 7/8 x 35 5/8in).",https://images1.bonhams.com/image?src=Images/live/2026-02/05/25800617-1-1.jpg,https://www.bonhams.com/auction/32417/lot/87/attribue-a-louis-francois-aubry-paris-1767-1851-portrait-dun-jeune-homme-avec-ses-jouets/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.13,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4200.0,3500.0
+ccca9750-6c6c-4784-9e38-d77bcf925182,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 88,EUR,1500,3000,N/A,N/A,1603.35,3206.7,N/A,N/A,Ch. Chaplin,1825,1891,"Ecole française, XIXe siècle La partie de loto",painting,oil on canvas,N/A,54,65.4,cm,yes,yes,yes,1801,1900,"Private collection, France","girls, game, table, loto, dress, bonnet, room, painting, chairs, hands",1,N/A,attributed to,"Ecole franÃ§aise, XIXe siÃ¨cle
+La partie de loto 
+porte une signature 'Ch. Chaplin' (en haut Ã  gauche)
+huile sur toile
+
+bear signature 'Ch. Chaplin (upper left)
+oil on canvas
+65.4 x 54cm (25 3/4 x 21 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25825646-10-1.jpg,https://www.bonhams.com/auction/32417/lot/88/ecole-francaise-xixe-siecle-la-partie-de-loto/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2438.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+da659566-a459-4176-bcc4-eed7e643facf,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 89,EUR,3000,5000,3840.0,3000,3206.7,5344.5,4104.58,3206.7,Ary Scheffer,1795,1858,La mère heureuse,painting,oil on canvas,N/A,38,46.5,cm,yes,yes,yes,1855,1855,"Sale, Drouot, Paris, 28 March 1985; Private collection, France","woman, children, landscape, sky, clouds, straw, seated figures, clothing, intimacy, rural life",1,N/A,original,"From an Important Collection of Ary and Henry Scheffer paintingsAry Scheffer (Dordrecht 1795-1858 Argenteuil)
+La mÃ¨re heureuse 
+signÃ© 'Scheffer/ 1855' (en bas Ã  gauche)
+huile sur toile
+
+signed 'Scheffer/ 1855' (lower left)
+oil on canvas
+46.5 x 38cm (18 5/16 x 14 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-1-1.jpg,https://www.bonhams.com/auction/32417/lot/89/ary-scheffer-dordrecht-1795-1858-argenteuil-la-mere-heureuse/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4478.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+1a3e3473-ba2d-4d96-ab5c-101f55729ee3,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 90,EUR,500,700,640.0,500,534.45,748.23,684.1,534.45,Ary Scheffer,1795,1858,Mère et fille,drawing,"black chalk, heightened with white on paper",N/A,31,38,cm,yes,no,yes,1795,1858,"Private collection, France","mother, daughter, seated figures, interior, chair, book, cloth, light, expression",1,N/A,original,"From an Important Collection of Ary and Henry Scheffer paintingsAry Scheffer (Dordrecht 1795-1858 Argenteuil)
+MÃ¨re et fille 
+signÃ© 'Ary Scheffer' (en bas Ã  droite)
+pierre noire et rehauts de blanc sur papier
+
+signed 'Ary Scheffer' (lower right)
+black chalk, heightened with white on paper
+38 x 31cm (14 15/16 x 12 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-4-1.jpg,https://www.bonhams.com/auction/32417/lot/90/ary-scheffer-dordrecht-1795-1858-argenteuil-mere-et-fille/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,641.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,682.0,568.3333333333334
+b2118c1b-6d20-42f5-a813-9a4f4dce2644,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 91,EUR,2000,3000,2560.0,2000,2137.8,3206.7,2736.38,2137.8,Ary Scheffer,1795,1858,Paysan malade,painting,oil on canvas,N/A,32.5,41,cm,yes,yes,yes,1824,1824,"Sale, Pomez-Boisseau, Troyes, 23 March 2003, lot 190, where purchased by the present owner; Private collection, France","girl, dog, seated, stone, door, outdoor, illness, rural, landscape, green",1,N/A,original,"From an Important Collection of Ary and Henry Scheffer paintingsAry Scheffer (Dordrecht 1795-1858 Argenteuil)
+Paysan malade 
+signÃ© et datÃ© 'Ary Scheffer 1824' (en bas Ã  droite) et 'Paysan Malade (A. Scheffer) 1824' (au verso, sur le chÃ¢ssis)
+huile sur toile
+
+signed and dated 'Ary Scheffer 1824' (lower right) and 'Paysan Malade (A. Scheffer) 1824' (on the reverse, on the stretcher) 
+41 x 32.5cm (16 1/8 x 12 13/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-5-1.jpg,https://www.bonhams.com/auction/32417/lot/91/ary-scheffer-dordrecht-1795-1858-argenteuil-paysan-malade/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2757.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+9f7f7e79-9688-45a6-9299-a5be79b59f1d,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 92,EUR,10000,15000,N/A,N/A,10689.0,16033.5,N/A,N/A,Ary Scheffer,1795,1858,La veuve du soldat,painting,oil on canvas,N/A,32.2,41,cm,no,yes,yes,1801,1830,"Private collection, France","woman, child, infant, landscape, evening, family, traditional clothing, expression, scenery, figurative art",1,N/A,original,"From an Important Collection of Ary and Henry Scheffer paintingsAry Scheffer (Dordrecht 1795-1858 Argenteuil)
+La veuve du soldat 
+huile sur toile
+
+oil on canvas
+41 x 32.2cm (16 1/8 x 12 11/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-2-1.jpg,https://www.bonhams.com/auction/32417/lot/92/ary-scheffer-dordrecht-1795-1858-argenteuil-la-veuve-du-soldat/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,12888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+62131a7b-eca2-4479-bfed-4e4b40c7167c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 93,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Henry Scheffer,1798,1862,Portrait d'homme,painting,"oil on canvas, pastel",N/A,50,61,cm,yes,yes,yes,1801,1900,"Private collection, France","man, portrait, woman, pastel, French school, 19th century, oil on canvas, oval, signed, formal wear",2,N/A,original,"From an Important Collection of Ary and Henry Scheffer paintingsHenry Scheffer (La Haye 1798-1862 Paris)
+Portrait d'homme 
+signÃ© 'Henri Scheffer' (au centre Ã  gauche)
+huile sur toile, ovale
+
+signed 'Henri Scheffer' (centre left)
+oil on canvas, oval
+61 x 50cm (24 x 19 11/16in).
+
+accompagnÃ© d'un portrait de femme, au pastel, de l'Ã©cole franÃ§aise de XIXe siÃ¨cle
+to be offered with a portrait of a lady, pastel, French school, 19th Century (2)",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25812046-9-3.jpg,https://www.bonhams.com/auction/32417/lot/93/henry-scheffer-la-haye-1798-1862-paris-portrait-dhomme-accompagne-dun-portrait-de-femme-au-pastel-de-lecole-francaise-de-xixe-siecleto-be-offered-with-a-portrait-of-a-lady-pastel-french-school-19th-century-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2757.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+f4c22d7a-ed6f-49c7-b5e4-fd3cf852e7b0,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 94,EUR,2000,3000,2560.0,2000,2137.8,3206.7,2736.38,2137.8,Henry Scheffer,1798,1862,Portrait de la fille de l'artiste,painting,oil on canvas,N/A,41,47.5,cm,yes,no,yes,1798,1862,"Private collection, France","portrait, girl, ribbon, bow, black dress, brown hair, painting, oil, canvas",1,N/A,original,"From an Important Collection of Ary and Henry Scheffer paintingsHenry Scheffer (La Haye 1798-1862 Paris)
+Portrait de la fille de l'artiste 
+signÃ© 'Henri Scheffer' (en bas Ã  droite)
+huile sur toile
+
+signed 'Henri Scheffer' (lower right)
+oil on canvas
+47.5 x 41cm (18 11/16 x 16 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-11-1.jpg,https://www.bonhams.com/auction/32417/lot/94/henry-scheffer-la-haye-1798-1862-paris-portrait-de-la-fille-de-lartiste/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2757.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+360ee42d-95a7-4d86-bbb8-d0c31501a3bb,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 95,EUR,2500,3500,3200.0,2500,2672.25,3741.15,3420.48,2672.25,Henry Scheffer,1798,1862,Scène familiale,painting,oil on canvas,N/A,47,56,cm,yes,no,yes,1798,1862,"Sale, SW Bernard D'Anjou, Rouen, where purchased by the present owner
+Private collection, France","mother, child, family, interior, table, cup, shawl, chair, wall, curtain",1,N/A,original,"From an Important Collection of Ary and Henry Scheffer paintingsHenry Scheffer (La Haye 1798-1862 Paris)
+ScÃ¨ne familiale 
+signÃ© 'Henri Scheffer' (en bas Ã  droite)
+huile sur toile
+
+signed 'Henri Scheffer' (lower right)
+oil on canvas
+56 x 47cm (22 1/16 x 18 1/2in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-8-1.jpg,https://www.bonhams.com/auction/32417/lot/95/henry-scheffer-la-haye-1798-1862-paris-scene-familiale/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3568.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+80dfd857-7aef-41ca-b4ee-52320fc85972,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 96,EUR,1500,2000,N/A,N/A,1603.35,2137.8,N/A,N/A,Ary Scheffer,1795,1858,Le baiser,painting,oil on canvas,N/A,16.5,22,cm,yes,no,yes,1795,1858,"Private collection, France","man, woman, kiss, book, throne, painting, romance, drapery, landscape, moon",1,N/A,studio of,"From an Important Collection of Ary and Henry Scheffer paintingsAtelier de Ary Scheffer (Dordrecht 1795-1858 Argenteuil)
+Le baiser 
+porte une signature 'Ary Scheffer' (au centre Ã  droite)
+huile sur toile
+
+bears signature 'Ary Scheffer' (au centre Ã  droite)
+oil on canvas
+22 x 16.5cm (8 11/16 x 6 1/2in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-3-1.jpg,https://www.bonhams.com/auction/32417/lot/96/atelier-de-ary-scheffer-dordrecht-1795-1858-argenteuil-le-baiser/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2438.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1870.0,1558.3333333333335
+4008419a-6d73-4590-a638-b10bfe2a201a,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 97,EUR,250000,350000,825900.0,650000,267225.0,374115.0,882804.51,694785.0,Ivan Konstantinovich Aivazovsky,1817,1900,Vue de Capri,painting,oil on canvas,N/A,97.8,65,cm,yes,yes,yes,1899,1899,"Acquired at Christie's London, Imperial and Post-Revolutionary Russian Art, 5 October 1989, lot 245. Thence by descent.","boat, beach, water, sky, island, clouds, sea, rocks, fishing gear, horizon",1,N/A,original,"Ivan Konstantinovich Aivazovsky (Feodosia 1817-1900)
+Vue de Capri 
+signÃ© en latin et datÃ© '1899' (en bas Ã  gauche); signÃ© au verso 'Aivazovsky'
+huile sur toile
+
+signed in Latin and dated '1899' (lower left); further signed 'Aivazovsky' (verso)
+oil on canvas
+65 x 97.8cm (25 9/16 x 38 1/2in).",https://images1.bonhams.com/image?src=Images/live/2026-02/05/25775641-3-4.jpg,https://www.bonhams.com/auction/32417/lot/97/ivan-konstantinovich-aivazovsky-feodosia-1817-1900-vue-de-capri/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,323888.3,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,320000.0,266666.6666666667
+a1244892-b6db-4365-8593-2c73c43ab0a4,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 98,EUR,10000,15000,32000.0,25000,10689.0,16033.5,34204.8,26722.5,Ivan Nikolaevich Kramskoy,1837,1887,Le Christ Sauveur,painting,oil on canvas,N/A,42.5,53.5,cm,yes,yes,yes,1870,1870,"Acquired by the present owner in late 1980s. Private collection, Spain.","Christ, portrait, red robe, face, oil painting, dark background, male figure, religious icon, historical figure, expression",1,N/A,original,"Ivan Nikolaevich Kramskoy (Ostrogozhsk 1837-1887 Saint Petersburg)
+Le Christ Sauveur 
+signÃ© en cyrillique et datÃ© '1870' (en bas au centre)
+huile sur toile
+53.5 x 42.5cm (21 1/16 x 16 3/4in).
+unframed
+
+signed in Cyrillic and dated '1870' (lower middle)
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-03/25/25775641-8-3.jpg,https://www.bonhams.com/auction/32417/lot/98/ivan-nikolaevich-kramskoy-ostrogozhsk-1837-1887-saint-petersburg-le-christ-sauveur-unframed-signed-in-cyrillic-and-dated-1870-lower-middleoil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,12888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+85633c17-fba6-4f65-bbb2-38a360b06de5,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 99,EUR,4000,6000,16640.0,13000,4275.6,6413.4,17786.5,13895.7,Circle of Dimitri Gregoriovitch Levitsky,1735,1822,Portrait d'une dame en robe bleu pâle,painting,oil on canvas,N/A,47.5,60.5,cm,no,yes,yes,1770,1800,"Sale, Christie's, London, Imperial and Post-Revolutionary Russian Art, 5 October 1989, lot 205, where acquired by the present owner's family, and thence by descent","woman, blue dress, portrait, oil painting",1,N/A,circle of,"Circle of Dimitri Gregoriovitch Levitsky (Kiev 1735-1822 Saint Petersburg)
+Portrait d'une dame en robe bleu pÃ¢le 
+huile sur toile
+60.5 x 47.5cm (23 13/16 x 18 11/16in).
+
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25775641-1-1.jpg,https://www.bonhams.com/auction/32417/lot/99/circle-of-dimitri-gregoriovitch-levitsky-kiev-1735-1822-saint-petersburg-portrait-dune-dame-en-robe-bleu-pale-oil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5120.0,4266.666666666667
+b086edb3-50fc-4cba-ab33-d9fbee3738cd,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 100,EUR,6000,8000,7680.0,6000,6413.4,8551.2,8209.15,6413.4,N/A,1782,N/A,"Ecole russe, XIXe siècle Portrait d'Andreas Magnus Otto von Loewenstern",painting,oil on canvas,N/A,56.5,71,cm,no,yes,yes,1801,1900,"Acquired at Christie's London, Imperial and Post-Revolutionary Russian Art, 5 October 1989, lot 232. Thence by descent.","portrait, man, military uniform, fur collar, medals, historical figure, inscription, oil painting, 19th century, Russian art",1,N/A,original,"Ecole russe, XIXe siÃ¨cle
+Portrait d'Andreas Magnus Otto von Loewenstern 
+avec inscription en allemand : 'Andreas Magnus Otto von Loewenstern, nÃ© Ã  Kokenhusen le 27 aoÃ»t 1782, maire de Wolmarshof en 1835, seigneur de Kokenhusen en 1809, de Stockmannshof, GrÃ¼tershof et Lapinsky en 1833, chambellan impÃ©rial russe et conseiller d'Ãtat, chevalier de Saint-Stanislas de 2e classe et de l'ordre de Malte, dÃ©cÃ©dÃ© [...]. MariÃ© en 1821 Ã  Elizabeth GrÃ¤fin Manteuffel, dÃ©cÃ©dÃ©e le 30 mars 1837' (au verso)
+huile sur toile
+71 x 56.5cm (27 15/16 x 22 1/4in).
+
+with German inscription 'Andreas Magnus Otto von Loewenstern, born in Kokenhusen on 27 August 1782, Mayor of Wolmarshof 1835, Lord of Kokenhusen 1809, of Stockmannshof, GrÃ¼tershof and Lapinsky 1833, Russian Imperial Chamberlain and State Councillor, Knight of St. Stanislas 2nd Class and of the Order of Malta, died [...]. Married in 1821 Elizabeth GrÃ¤fin Manteuffel, who died 30 March 1837.'(verso)
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25775641-2-1.jpg,https://www.bonhams.com/auction/32417/lot/100/ecole-russe-xixe-siecle-portrait-dandreas-magnus-otto-von-loewenstern-with-german-inscription-andreas-magnus-otto-von-loewenstern-born-in-kokenhusen-on-27-august-1782-mayor-of-wolmarshof-1835-lord-of-kokenhusen-1809-of-stockmannshof-grutershof-and-lapinsky-1833-russian-imperial-chamberlain-and-state-councillor-knight-of-st-stanislas-2nd-class-and-of-the-order-of-malta-died-married-in-1821-elizabeth-grafin-manteuffel-who-died-30-march-1837versooil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,7688.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+31879eef-548d-491f-8922-10491971bf1c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 101,EUR,6000,8000,7680.0,6000,6413.4,8551.2,8209.15,6413.4,Johann Frankenberger,1807,1874,Portrait du poète Alexandre Sergueïevitch Pouchkine,painting,oil on canvas,N/A,62.5,77,cm,yes,yes,yes,1835,1835,"Count Bobrinskoy, London. Acquired by the present owner at Christie's London, Imperial and Post-Revolutionary Russian Art, 10 October 1990, lot 205. Thence by descent.","portrait, man, poet, Pouchkine, coat, smile, dark background, holding paper, 19th century, oil painting",1,N/A,original,"Johann Frankenberger (Austrian, 1807-1874)
+Portrait du poÃ¨te Alexandre SergueÃ¯evitch Pouchkine 
+signÃ© et datÃ© '1835' (au centre droit)
+huile sur toile
+77 x 62.5cm (30 5/16 x 24 5/8in).
+
+signed and dated '1835' (right centre)
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25775641-5-1.jpg,https://www.bonhams.com/auction/32417/lot/101/johann-frankenberger-austrian-1807-1874-portrait-du-poete-alexandre-sergueievitch-pouchkine-signed-and-dated-1835-right-centreoil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10868.9,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+03e6d307-3378-46d1-8ac2-c5b08f086ac1,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 102,EUR,3000,4000,3840.0,3000,3206.7,4275.6,4104.58,3206.7,Lukian Vasilievich Popov,1873,1914,Cottage,painting,"oil on canvas, oil on panel",N/A,13.2,21.2,cm,yes,yes,yes,1901,1930,N/A,"path, park, twilight, forest, cottage, woman, fence, stream",8,N/A,original,"Lukian Vasilievich Popov (Orenburgsky Uyezd 1873-1914 Orenburg)
+Un group de huit oeuvres montÃ©es ensemble, dans un cadre de la mÃªme Ã©poque 
+Late 19th - early 20th century.
+Seven oil on canvas and one on panel. In the upper register, three small paintings; from left to right: 1) [Undeciphered signature] Path in a Park, signed lower right. 2) Twilight, signed lower right. 3) Shelter in the Forest, unsigned. 21.2 Ã 13.2 cm In the lower register, in the centre: 4) Lukian Vassilievitch Popov Cottage, signed lower left. 24 Ã 18 cm (visible area). In the lower register, surrounding the central painting: 5â8)Woman Standing in Front of a Fence, Birch Grove, Woman Reading on a Bench, Country Stream, unsigned
+10.5 Ã 7.4 cm (chaque)",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25808114-7-1.jpg,https://www.bonhams.com/auction/32417/lot/102/lukian-vasilievich-popov-orenburgsky-uyezd-1873-1914-orenburg-un-group-de-huit-oeuvres-montees-ensemble-dans-un-cadre-de-la-meme-epoque/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3548.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3850.0,3208.3333333333335
+ee70d8eb-d881-4caf-af77-a26ec0c3c6f1,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 103,EUR,2000,4000,N/A,N/A,2137.8,4275.6,N/A,N/A,Simkha Simkhovitch,1893,1949,Portrait de la famille de l'artiste,painting,oil on canvas,N/A,61,61,cm,no,yes,yes,1901,2000,"Private collection, Europe","family, woman, child, baby, portrait, arms, hands, expressions, clothing, background",1,N/A,original,"Simkha Simkhovitch (Novozybkov 1893-1949 Greenwich)
+Portrait de la famille de l'artiste 
+huile sur toile
+61 x 61cm (24 x 24in).
+
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25808114-5-1.jpg,https://www.bonhams.com/auction/32417/lot/103/simkha-simkhovitch-novozybkov-1893-1949-greenwich-portrait-de-la-famille-de-lartiste-oil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3578.38,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+12aebd4b-76dd-45f6-8ca2-ac96db92dffd,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 104,EUR,15000,20000,19200.0,15000,16033.5,21378.0,20522.88,16033.5,After Konstantin Egorovich Makovsky,N/A,N/A,Enfants jouant au bord de la rivière,painting,oil on canvas,N/A,105,80,cm,yes,no,yes,N/A,N/A,"Acquired at Christie's London, Imperial and Post-Revolutionary Russian Art, 5 October 1989, lot 258. Thence by descent.","children, river, fishing, trees, nature, clothing, play, water, landscape, activity",1,N/A,after,"After Konstantin Egorovich Makovsky
+Enfants jouant au bord de la riviÃ¨re 
+porte une signature 'K. Makovsky' (en bas Ã  droite)
+huile sur toile
+80 x 105cm (31 1/2 x 41 5/16in).
+
+bears signature 'K.Makovsky' (lower right)
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25775641-4-1.jpg,https://www.bonhams.com/auction/32417/lot/104/after-konstantin-egorovich-makovsky-enfants-jouant-au-bord-de-la-riviere-bears-signature-kmakovsky-lower-rightoil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,19388.44,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,18500.0,15416.666666666668
+b5a704a8-6e6f-46c5-9a8c-c199e3ca11f1,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 105,EUR,30000,40000,N/A,N/A,32067.0,42756.0,N/A,N/A,Attributed to Ivan Ivanovich Shishkin,1831,1898,Clairière,painting,oil on canvas,N/A,54,72,cm,yes,no,yes,1831,1898,"Acquired in Moscow on December 1, 1934 at Antikvariat store by Israel Wolynski. Thence by descent. Private collection, Portugal.","trees, landscape, sky, water, riverbank, grass, sunlight, nature, foliage, earth",1,N/A,attributed to,"Attributed to Ivan Ivanovich Shishkin (Yelabuga 1831-1898 Saint Petersburg)
+ClairiÃ¨re 
+signÃ© en cyrillique (en bas Ã  gauche) ; cachet indistinct au verso et sur le chÃ¢ssis
+huile sur toile
+72 x 54cm (28 3/8 x 21 1/4in).
+
+signed in Cyrillic (lower left); verso and stretcher indistinctly stamped
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25780681-1-1.jpg,https://www.bonhams.com/auction/32417/lot/105/attributed-to-ivan-ivanovich-shishkin-yelabuga-1831-1898-saint-petersburg-clairiere-signed-in-cyrillic-lower-left-verso-and-stretcher-indistinctly-stampedoil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,38383.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,38500.0,32083.333333333336
+75e51f94-e06d-4d54-bd35-85a638b5bf85,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 106,EUR,3000,4000,N/A,N/A,3206.7,4275.6,N/A,N/A,Count Vladimir Leonidovich Muraviov,1861,1940,Paysage forestier,painting,oil on canvas,N/A,64,77,cm,yes,yes,yes,1901,2000,N/A,"forest, trees, sunlight, shadows, path, foliage, earth, greenery, nature, landscape",1,N/A,original,"Count Vladimir Leonidovich Muraviov (Saint Petersburg 1861-1940)
+Paysage forestier 
+signÃ© en cyrillique (en bas Ã  droite)
+huile sur toile
+77 x 64cm (30 5/16 x 25 3/16in).
+
+signed in Cyrillic (lower right)
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25808114-8-1.jpg,https://www.bonhams.com/auction/32417/lot/106/count-vladimir-leonidovich-muraviov-saint-petersburg-1861-1940-paysage-forestier-signed-in-cyrillic-lower-rightoil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3740.0,3116.666666666667
+e6648d28-185e-4d93-a31a-2afccb517b66,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 107,EUR,3000,4000,N/A,N/A,3206.7,4275.6,N/A,N/A,Count Vladimir Leonidovich Muraviov,1861,1940,Paysage forestier,painting,oil on canvas,N/A,64,77,cm,yes,yes,yes,1901,2000,N/A,"forest, trees, landscape, oil painting, green, trunks, branches, nature, light, shadows",1,N/A,original,"Count Vladimir Leonidovich Muraviov (Saint Petersburg 1861-1940)
+Paysage forestier 
+signÃ© en cyrillique (en bas Ã  droite)
+huile sur toile
+77 x 64cm (30 5/16 x 25 3/16in).
+
+signed in Cyrillic (lower right)
+oil on canvas",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25808114-9-1.jpg,https://www.bonhams.com/auction/32417/lot/107/count-vladimir-leonidovich-muraviov-saint-petersburg-1861-1940-paysage-forestier-signed-in-cyrillic-lower-rightoil-on-canvas/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3850.0,3208.3333333333335
+d661ce23-264c-4059-9f57-3bd0d984c3c1,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 108,EUR,30000,40000,N/A,N/A,32067.0,42756.0,N/A,N/A,Ivan Fomich Khrutsky,1810,1885,Champignons,painting,oil on canvas,N/A,90,59.5,cm,yes,yes,yes,1801,1830,"Private collection, US","mushrooms, basket, cloth, bowl, fruits, wooden container, table, still life, vegetables",1,N/A,original,"Ivan Fomich Khrutsky (Ulla 1810-1885 Zakharnich)
+Champignons 
+signÃ© en cyrillique (en bas Ã  droite)
+huile sur toile
+59.5 x 90cm (23 7/16 x 35 7/16in).
+sans cadre
+
+signed in Cyrillic (lower right)
+oil on canvas
+unframed",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25811492-1-1.jpg,https://www.bonhams.com/auction/32417/lot/108/ivan-fomich-khrutsky-ulla-1810-1885-zakharnich-champignons-sans-cadre-signed-in-cyrillic-lower-rightoil-on-canvasunframed/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,38387.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,38500.0,32083.333333333336
+40203418-ae99-45ae-b76c-2f4437cb4a80,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 109,EUR,6000,8000,7680.0,6000,6413.4,8551.2,8209.15,6413.4,After Ivan Konstantinovich Aivazovsky,N/A,N/A,Paysage marin,painting,oil on canvas,N/A,56.8,43,cm,yes,yes,yes,1891,1891,N/A,"seascape, ship, moon, clouds, waves, rocks, coastline, sunlight, water, sky",1,N/A,after,"After Ivan Konstantinovich Aivazovsky
+Paysage marin 
+porte la signature 'Aivazovsky' et la date '1891' (en bas Ã  droite) ; porte Ã©galement une signature (au verso)
+huile sur toile
+43 x 56.8cm (16 15/16 x 22 3/8in).
+
+bears signature 'Aivazovsky' and date '1891'(lower right); further bears signature (verso)",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820564-1-1.jpg,https://www.bonhams.com/auction/32417/lot/109/after-ivan-konstantinovich-aivazovsky-paysage-marin-bears-signature-aivazovsky-and-date-1891lower-right-further-bears-signature-verso/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10868.9,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7500.0,6250.0
+5a42798d-8a80-4c92-8270-393e89448d8d,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 110,EUR,4000,6000,5120.0,4000,4275.6,6413.4,5472.77,4275.6,Boris Dmitrievich Grigoriev,1886,1939,"Le port de Bahia, Brésil",painting,gouache on paper,N/A,53.4,39,cm,yes,no,yes,1886,1939,"Private collection, France","port, Bahia, Brazil, people, market, buildings, blue crane, landscape, sky, vegetables",1,N/A,original,"Boris Dmitrievich Grigoriev (Rybinsk 1886-1939 Cagnes-sur-mer)
+Le port de Bahia, BrÃ©sil 
+signÃ© 'Boris Grygoriev' (en bas Ã  gauche)
+gouache sur papier
+
+signed 'Boris Grygoriev' (lower left)
+gouache on paper
+39 x 53.4cm (15 3/8 x 21in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25832317-1-1.jpg,https://www.bonhams.com/auction/32417/lot/110/boris-dmitrievich-grigoriev-rybinsk-1886-1939-cagnes-sur-mer-le-port-de-bahia-bresil/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5320.0,4433.333333333334
+d63a60da-0359-48ca-af52-f5460dc8f139,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 111,EUR,4000,6000,6400.0,5000,4275.6,6413.4,6840.96,5344.5,Pieter van Loon,1801,1873,"La Costa Marinella, à Naples",painting,oil on canvas,N/A,90,61.5,cm,yes,yes,yes,1845,1845,"Sale, Hampel, Munich, 8 December 2022, lot 431","buildings, boats, people, waterfront, volcano, clouds, sea, harbor, fishermen, cityscape",1,N/A,original,"Pieter van Loon (Amsterdam 1801-1873 Utrecht)
+La Costa Marinella, Ã  Naples 
+signÃ©, inscrit et datÃ© 'Strada della Porta Capua a Napoli/Napoli/P. VAN Loon/1845' (en bas Ã  droite)
+huile sur toile
+
+signed, inscribed and dated 'Strada della Porta Capua a Napoli/Napoli/P. VAN Loon/1845' (lower right)
+oil on canvas
+61.5 x 90cm (24 3/16 x 35 7/16in).",https://images1.bonhams.com/image?src=Images/live/2024-10/21/25583835-26-1.jpg,https://www.bonhams.com/auction/32417/lot/111/pieter-van-loon-amsterdam-1801-1873-utrecht-la-costa-marinella-a-naples/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5200.0,4333.333333333334
+cb82505a-1708-48a6-941f-314acd2d85e8,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 112,EUR,7000,10000,N/A,N/A,7482.3,10689.0,N/A,N/A,Charles Leickert,1816,1907,Paysage fluvial au coucher du soleil,painting,oil on canvas,N/A,54.2,38.2,cm,yes,yes,yes,1883,1883,"Sale, Hampel, Munich, 6 December 2018, lot 452","river, sunset, boats, house, sky, clouds, figures, water, landscape, nature",1,N/A,original,"Charles Leickert (Bruxelles 1816-1907 Mainz)
+Paysage fluvial au coucher du soleil 
+signÃ© and dated 'Ch. Leickert 1883' (en bas Ã  droite)
+huile sur toile
+
+signed and dated 'Ch. Leickert 1883' (lower right)
+oil on canvas
+38.2 x 54.2cm (15 1/16 x 21 5/16in).",https://images1.bonhams.com/image?src=Images/live/2024-10/21/25583835-30-1.jpg,https://www.bonhams.com/auction/32417/lot/112/charles-leickert-bruxelles-1816-1907-mainz-paysage-fluvial-au-coucher-du-soleil/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10121.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9125.0,7604.166666666667
+a8ab1e2d-8f5b-4c85-abbe-875506aca51c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 113,EUR,25000,35000,N/A,N/A,26722.5,37411.5,N/A,N/A,Martin Rico Y Ortega,1833,1908,"Gondoles près de la Basilique du Santissimo Redentore, Venise",painting,oil on panel,N/A,72.4,46.8,cm,yes,yes,yes,1870,1900,"With Schweitzer Gallery, New York (according to the stamps on the reverse); Sale, Duran, Madrid 18 October 1994, lot 46; Private collection, Spain","gondolas,Basilica,water,bridge,boats,people,architecture,Venice,sailing,sky",1,N/A,original,"Martin Rico Y Ortega (Madrid 1833-1908 Venise)
+Gondoles prÃ¨s de la Basilique du Santissimo Redentore, Venise 
+signÃ© 'RICO' (en bas Ã  gauche)
+huile sur panneau
+
+signed 'RICO' (lower left)
+oil on panel
+46.8 x 72.4cm (18 7/16 x 28 1/2in).",https://images1.bonhams.com/image?src=Images/live/2026-03/03/25830535-2-4.jpg,https://www.bonhams.com/auction/32417/lot/113/martin-rico-y-ortega-madrid-1833-1908-venise-gondoles-pres-de-la-basilique-du-santissimo-redentore-venise/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,30609.51,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,32000.0,26666.666666666668
+d66bdcfc-520d-4a1b-8e05-c5afc127cf60,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 114,EUR,30000,50000,N/A,N/A,32067.0,53445.0,N/A,N/A,Martin Rico Y Ortega,1833,1908,"Le Canal de la Giudecca et l'Eglise de Sainte Marie del Rosario, Venise",painting,oil on canvas,N/A,68.4,49,cm,yes,no,yes,1833,1908,"Private collection, Spain","canal, church, boats, architecture, water, sky, cityscape, ship, reflections, figures",1,N/A,original,"Martin Rico Y Ortega (Madrid 1833-1908 Venise)
+Le Canal de la Giudecca et l'Eglise de Sainte Marie del Rosario, Venise 
+signÃ© 'Rico' (en bas Ã  gauche)
+huile sur toile
+
+signed 'Rico' (lower left)
+oil on canvas
+49 x 68.4cm (19 5/16 x 26 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/03/25830535-1-5.jpg,https://www.bonhams.com/auction/32417/lot/114/martin-rico-y-ortega-madrid-1833-1908-venise-le-canal-de-la-giudecca-et-leglise-de-sainte-marie-del-rosario-venise/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,40488.34,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,46200.0,38500.0
+85c27ccc-2e0f-413e-aa70-ff4950ee534f,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 115,EUR,7000,10000,N/A,N/A,7482.3,10689.0,N/A,N/A,Edouard Léon Cortès,1882,1969,Le marché aux fleurs,painting,oil on panel,N/A,23.5,16,cm,yes,yes,yes,1935,1935,"Private collection, Spain","flower market, figures, trees, buildings, sunset, flowers, street, cobblestones, clouds, pedestrians",1,N/A,original,"Edouard-LÃ©on CortÃ¨s (Lagny-sur-Marne 1882-1969)
+Le marchÃ© aux fleurs, Place de la Madeleine 
+signÃ© 'Edouard Cortes' (en bas Ã  gauche)
+huile sur panneau
+
+signed 'Edouard Cortes' (lower left)
+oil on panel
+16 x 23.5cm (6 5/16 x 9 1/4in).",https://images1.bonhams.com/image?src=Images/live/2025-11/25/25754656-1-1.jpg,https://www.bonhams.com/auction/32417/lot/115/edouard-leon-cortes-french-1882-1969-marche-aux-fleures-signed-c-1935/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10120.54,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9560.0,7966.666666666667
+5be22a90-9e2e-429e-b4de-33c18dc68bb2,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 116,EUR,8000,12000,7680.0,6000,8551.2,12826.8,8209.15,6413.4,Edouard-Léon Cortès,1882,1969,Place Saint Michel et Notre-Dame sous la neige,painting,oil on canvas,N/A,46,27,cm,yes,no,yes,1882,1969,"Private collection, London","snow, street, buildings, Notre-Dame, pedestrians, cars, winter, Paris, evening, light",1,N/A,original,"Edouard-LÃ©on CortÃ¨s (Lagny-sur-Marne 1882-1969)
+Place Saint Michel et Notre-Dame sous la neige 
+signÃ© 'EDOUARD CORTÃS' (en bas Ã  gauche)
+huile sur toile
+
+signed 'EDOUARD CORTÃS' (lower left)
+oil on canvas
+27 x 46cm (10 5/8 x 18 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25827324-1-1.jpg,https://www.bonhams.com/auction/32417/lot/116/edouard-leon-cortes-lagny-sur-marne-1882-1969-place-saint-michel-et-notre-dame-sous-la-neige/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+f313f9e1-33c3-419d-9f4c-3ba207855d0e,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 117,EUR,10000,15000,11520.0,9000,10689.0,16033.5,12313.73,9620.1,Jean-François Raffaëlli,1850,1924,"Le dôme des Invalides, vu de la Place Vauban",painting,watercolour and gouache on paper,N/A,54.2,38.2,cm,yes,yes,yes,1901,2000,Private collection,"dome, building, people, horse, carriage, trees, street, sky, lamp post, clouds",1,N/A,original,"Jean-FranÃ§ois RaffaÃ«lli (Paris 1850-1924)
+Le dÃ´me des Invalides, vu de la Place Vauban 
+signÃ© 'JF RAFFAÃLLI' (en bas Ã  gauche)
+aquarelle et gouache sur carton
+
+signed 'JF RAFFAÃLLI' (lower left)
+watercolour and gouache on paper
+38.2 x 54.2cm (15 1/16 x 21 5/16in).",https://images2.bonhams.com/image?src=Images/live/2026-01/27/25806614-1-15.jpg,https://www.bonhams.com/auction/32417/lot/117/jean-francois-raffaelli-paris-1850-1924-le-dome-des-invalides-vu-de-la-place-vauban/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,12888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668
+53d8a81c-cdd8-4da0-83d7-555825df3c60,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 118,EUR,40000,60000,N/A,N/A,42756.0,64134.0,N/A,N/A,Léon Bazille Perrault,1832,1908,Le sommeil des anges,painting,oil on canvas,N/A,174.5,111,cm,yes,yes,yes,1888,1888,"Sale, Pillon, Calais, 12 December 2004, lot 57; Private collection, France","angels, children, grass, sky, wings, drapery, nature, sleep, flowers, nude",1,N/A,original,"LÃ©on Bazille Perrault (Poitiers 1832-1908 Royan)
+Le sommeil des anges 
+signÃ© et datÃ© 'L. Perrault/ 1888' (en bas Ã  droite) et 'Perrault' (verso, en haut Ã  droite)
+huile sur toile
+
+signed and dated 'L. Perrault/ 1888' (lower right) and 'Perrault' (reverse, upper right)
+oil on canvas
+111 x 174.5cm (43 11/16 x 68 11/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25834757-1-1.jpg,https://www.bonhams.com/auction/32417/lot/118/leon-bazille-perrault-poitiers-1832-1908-royan-le-sommeil-des-anges/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,48188.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,53400.0,44500.0
+1daf8a6c-767e-4a97-883d-e3aff64d840d,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 119,EUR,25000,35000,32000.0,25000,26722.5,37411.5,34204.8,26722.5,Charles Emile Auguste Carolus-Duran,1837,1917,"Jeune italien à la source, Narcisse",painting,oil on canvas,N/A,83,132,cm,yes,yes,yes,1830,1870,"From the Artist's studio
+Marie-Anne Tower-Rosen-Feydeau (eldest daughter of the artist)
+M. Bureau, Paris, 1973
+The Collection of Jacques Seligmann, Paris and thence by descent
+Private collection, France","boy, nude, landscape, rock, water, plants, hills, flute, natural setting, figure",1,N/A,original,"Charles Emile Auguste Carolus-Duran (Lille 1837-1917 Paris)
+Jeune italien Ã  la source, Narcisse 
+signÃ©, localisÃ© et datÃ© 'Carolus Duran / Rome 1863' (en bas Ã  droite)
+huile sur toile
+
+signed, inscribed and dated 'Carolus Duran / Rome 1862' (lower right)
+132 x 83cm (51 15/16 x 32 11/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25844311-1-2.jpg,https://www.bonhams.com/auction/32417/lot/119/charles-emile-auguste-carolus-duran-lille-1837-1917-paris-jeune-italien-a-la-source-narcisse/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,32388.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,34400.0,28666.666666666668
+a3930307-557a-4845-aac7-0c27eb39dbe2,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 120,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Alexandre Calame,1810,1864,Paysage montagneux avec cerfs,painting,oil on canvas,N/A,54,64.8,cm,yes,no,yes,1810,1864,"Private collection, Belgium","mountain landscape, deer, trees, river, rocks, sky, water, forest, clouds, sunlight",1,N/A,original,"Alexandre Calame (Vevey 1810-1864 Menton)
+Paysage montagneux avec cerfs 
+signÃ© 'A. Calame' (au verso, au centre)
+huile sur toile
+
+signed 'A. Calame' (on the reverse, centre)
+oil on canvas
+64.8 x 54cm (25 1/2 x 21 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25833827-1-1.jpg,https://www.bonhams.com/auction/32417/lot/120/alexandre-calame-vevey-1810-1864-menton-paysage-montagneux-avec-cerfs/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.39,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+3e74a925-fa86-4299-96ac-7ccf881e9894,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 121,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Charles H. van den Eycken,1859,1923,Chatons joueurs dans un intérieur,painting,oil on canvas,N/A,45.5,35,cm,yes,yes,yes,1918,1918,"Private collection, Belgium","cats, books, paper, interior, play, red object, orange cat, gray cat, shadows, textures",1,N/A,original,"Charles H. van den Eycken (Bruxelles 1859-1923)
+Chatons joueurs dans un intÃ©rieur 
+signÃ© et datÃ© 'Ch. Van den Eycken/1918' (en haut Ã  droite)
+huile sur toile
+
+signed and dated 'Ch. Van den Eycken/1918' (upper right)
+oil on canvas
+35 x 45.5cm (13 3/4 x 17 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25826472-1-1.jpg,https://www.bonhams.com/auction/32417/lot/121/charles-h-van-den-eycken-bruxelles-1859-1923-chatons-joueurs-dans-un-interieur/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+ef8ccc78-0b88-4226-9956-5c084d44622c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 122,EUR,2000,3000,2304.0,1800,2137.8,3206.7,2462.75,1924.02,Eugène Joseph Verboeckhoven,1798,1881,Moutons dans l'étable,painting,oil on canvas,N/A,73.8,56.2,cm,yes,no,yes,1798,1881,"Private collection, Belgium","sheep, lambs, rooster, barn, hay, wooden fence, brown, white, straw, animal",1,N/A,original,"EugÃ¨ne Joseph Verboeckhoven (Comines-Warneton 1798-1881 Schaerbeek)
+Moutons dans l'Ã©table 
+signÃ© 'Eugene/ Verboeckhoven' (sur la clÃ´ture en bois, en bas Ã  droite)
+huile sur toile
+
+signed 'Eugene/ Verboeckhoven' (on the wooden fence, at lower right)
+oil on canvas
+56.2 x 73.8cm (22 1/8 x 29 1/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25815764-2-1.jpg,https://www.bonhams.com/auction/32417/lot/122/eugene-joseph-verboeckhoven-comines-warneton-1798-1881-schaerbeek-moutons-dans-letable/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2753.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+0682ea42-80bb-4f26-bcc0-f33a333ae9f0,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 123,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Ludwig Blume-Siebert,1853,1929,La chasse au faucon,painting,oil on canvas,N/A,90.5,60.4,cm,yes,yes,yes,1918,1918,"Private collection, France","falcon, horses, riders, dogs, landscape, sky, clouds, trees, hunt, sunset",1,N/A,original,"Ludwig Blume-Siebert (Arolsen 1853-1929 Munich)
+La chasse au faucon 
+signÃ© et datÃ© '18 MBlume 81./pxt.' (en bas Ã  droite)
+huile sur toile
+
+signed and dated '18 MBlume 81./pxt.' (lower right)
+oil on canvas
+60.4 x 90.5cm (23 3/4 x 35 5/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25829072-1-1.jpg,https://www.bonhams.com/auction/32417/lot/123/ludwig-blume-siebert-arolsen-1853-1929-munich-la-chasse-au-faucon/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+1af45c5a-b445-4585-aa77-ec29bcb5f68d,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 124,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Gustav Pope,1831,1910,Faust et Marguerite,painting,oil on canvas,N/A,117.2,158,cm,yes,yes,yes,1892,1892,N/A,"man, woman, flowers, gown, historical attire, trees, forest, gesture, drapery, portrait",1,N/A,original,"Gustav Pope (Anglais, 1831-1910)
+Faust et Marguerite 
+signÃ© et datÃ© 'Gustav Pope 1892' (en bas Ã  gauche)
+huile sur toile
+
+signed and dated 'Gustav Pope 1892' (lower left)
+oil on canvas
+158 x 117.2cm (62 3/16 x 46 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25626601-1-4.jpg,https://www.bonhams.com/auction/32417/lot/124/gustav-pope-anglais-1831-1910-faust-et-marguerite/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4320.0,3600.0
+221bc80a-2bb5-4621-8346-4b88f932417c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 125,EUR,1000,1500,N/A,N/A,1068.9,1603.35,N/A,N/A,Entourage de Jean-Jacques Henner,1829,1905,Entourage de Jean-Jacques Henner (Bernwiller 1829-1905 Paris) Portrait de femme de profil,painting,oil on canvas,N/A,27,35,cm,yes,no,yes,1829,1905,"Private collection, France","woman, profile, red hair, green dress, oil painting, portrait",1,N/A,studio of,"Entourage de Jean-Jacques Henner (Bernwiller 1829-1905 Paris)
+Portrait de femme de profil 
+porte une signature 'JJ Henner' (en haut Ã  gauche)
+huile sur toile
+
+bears signature 'JJ Henner' (upper left)
+oil on canvas
+35 x 27cm (13 3/4 x 10 5/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/17/25812046-16-1.jpg,https://www.bonhams.com/auction/32417/lot/125/entourage-de-jean-jacques-henner-bernwiller-1829-1905-paris-portrait-de-femme-de-profil/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1281.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+94f6dab7-12d4-4df5-a426-325ad9ff8bae,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 126,EUR,7000,10000,N/A,N/A,7482.3,10689.0,N/A,N/A,Conrad Kiesel,1846,1921,Portrait de dame en rose,painting,oil on canvas,N/A,86,204,cm,yes,yes,yes,1906,1906,"Private collection, Germany","woman, pink dress, fur wrap, jewelry, standing pose, portrait, elegant, historical, soft colors, background",1,N/A,original,"Conrad Kiesel (DÃ¼sseldorf 1846-1921 Berlin)
+Portrait de dame en rose 
+signÃ© et datÃ© 'Conrad Kiesel 1906.' (en bas Ã  droite)
+huile sur toile
+
+signed and dated 'Conrad Kiesel 1906.' (lower right)
+oil on canvas
+204 x 86cm (80 5/16 x 33 7/8in).",https://images1.bonhams.com/image?src=Images/live/2026-01/21/25771813-4-3.jpg,https://www.bonhams.com/auction/32417/lot/126/conrad-kiesel-dusseldorf-1846-1921-berlin-portrait-de-dame-en-rose/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10121.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,9125.0,7604.166666666667
+a63bd953-cb6c-49f7-bc9a-e05610475c79,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 127,EUR,1000,1500,N/A,N/A,1068.9,1603.35,N/A,N/A,Roberto Guastalla,1855,1912,Scène arabe,drawing,"black chalk, watercolour on paper",N/A,28,14.4,cm,yes,no,yes,1855,1912,"Private Collection, Charente Maritime","people, camel, desert, buildings, palm trees, landscapes, horses, mountains, clothing, group",1,N/A,original,"Roberto Guastalla (Parme 1855-1912)
+ScÃ¨ne arabe 
+signÃ© 'R. Guastalla' (en bas Ã  droite)
+crayon noire, aquarelle sur papier
+
+signed 'R. Guastalla' (lower right)
+black chalk, watercolour on paper
+14.4 x 28cm (5 11/16 x 11in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25826441-1-1.jpg,https://www.bonhams.com/auction/32417/lot/127/roberto-guastalla-parme-1855-1912-scene-arabe/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1281.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+ae3b7024-ff9e-4eaf-bbd9-1cb3a6f087de,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 128,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Henri Rousseau,1875,1933,Cavaliers arabes,drawing,pastel on paper,N/A,31.2,21.6,cm,yes,yes,yes,1929,1929,"Private collection, France","horses, riders, men, women, desert, traditional clothing, spears, marketplace, horses2, seated figures",1,N/A,original,"Henri Rousseau (Le Caire 1875-1933 Aix-en-Provence)
+Cavaliers arabes 
+signÃ© et datÃ© 'Henri Rousseau/29' (en bas Ã  droite)
+pastel sur papier
+
+signed and dated 'Henri Rousseau/29' (lower right)
+pastel on paper
+21.6 x 31.2cm (8 1/2 x 12 5/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25824972-1-1.jpg,https://www.bonhams.com/auction/32417/lot/128/henri-rousseau-le-caire-1875-1933-aix-en-provence-cavaliers-arabes/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3837.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+88bb1d78-9877-49e6-b23d-4c5a30195121,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 129,EUR,1200,1800,1536.0,1200,1282.68,1924.02,1641.83,1282.68,Edme Alexis Alfred Dehodencq,1822,1882,Un groupe de dessins de cavaliers arabes,drawing,"pen and brown ink, brown wash on paper, on black chalk",N/A,18.5,28.5,cm,yes,no,yes,1822,1882,"Private collection, France","cavalrymen, horses, sketches, ink drawings, brown wash, Arab culture, landscape, riders, figures, ink and wash technique",3,N/A,attributed to,"Edme Alexis Alfred Dehodencq (Paris 1822-1882)
+Un groupe de dessins de cavaliers arabes 
+un des trois signÃ© 'Dehodencq' (en bas Ã  gauche) et porte une inscription illisible 'En vue/ de ****Juif' (au centre Ã  gauche)
+un groupe de trois, plume et encre brune, lavis brun, sur pierre noire
+
+a set of three, one signed and indistinctly inscribed 'Dehodencq' (lower left) and 'En vue/ de ****Juif'(centre left)
+ pen and brown ink, brown wash on paper, on black chalk
+28.5 x 18.5cm (11 1/4 x 7 5/16in)
+30 x 20.5cm (11 13/16 x 8 1/16in)
+18 x 22cm (7 1/16 x 8 11/16in)
+(3)",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25812046-18-4.jpg,https://www.bonhams.com/auction/32417/lot/129/edme-alexis-alfred-dehodencq-paris-1822-1882-un-groupe-de-dessins-de-cavaliers-arabes-3/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1491.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1650.0,1375.0
+0f19e5ee-0daa-40e8-8093-5d22a83d0259,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 130,EUR,4000,6000,9600.0,7500,4275.6,6413.4,10261.44,8016.75,Hermann David Salomon Corrodi,1844,1905,La halte à l'ombre d'un temple en ruine,painting,oil on canvas,N/A,134.7,74.7,cm,yes,yes,yes,1801,1900,"Sale, Bonhams, London, 26 September 2018, lot 78","people, tree, ruins, temple, sky, clouds, landscape, historical site, marketplace, architecture",1,N/A,original,"Hermann David Salomon Corrodi (Italian, 1844-1905)
+La halte Ã  l'ombre d'un temple en ruine 
+signÃ© et inscrit 'H. Corrodi Roma' (en bas Ã  gauche)
+huile sur toile
+
+signed and inscribed 'H. Corrodi Roma' (lower left)
+oil on canvas
+74.7 x 134.7cm (29 7/16 x 53 1/16in).",https://images1.bonhams.com/image?src=Images/live/2024-10/24/25583835-27-1.jpg,https://www.bonhams.com/auction/32417/lot/130/hermann-david-salomon-corrodi-italian-1844-1905-la-halte-a-lombre-dun-temple-en-ruine/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5700.0,4750.0
+dff5ea5b-d2db-4d50-b952-21b34d964801,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 131,EUR,4000,6000,51200.0,40000,4275.6,6413.4,54727.68,42756.0,Edwin Lord Weeks,1849,1903,"La traversée du pont de Khaju, Ispahan",painting,oil on canvas laid down on panel,N/A,38.5,30,cm,yes,yes,yes,1890,1899,"Private collection, France","bridge, figures, landscape, trees, mountains, water, horse, hookah, architecture, people",1,N/A,original,"Edwin Lord Weeks (Boston 1849-1903 Paris)
+La traversÃ©e du pont de Khaju, Ispahan 
+dÃ©dicacÃ© et signÃ© 'Ã  mon ami Karl Cartier/ E. L. Weeks' (en bas Ã  gauche)
+huile sur toile marouflÃ© sur panneau
+
+dedicated and signed 'Ã  mon ami Karl Cartier/ E. L. Weeks' (lower left)
+oil on canvas laid down on panel
+30 x 38.5cm (11 13/16 x 15 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-02/06/25807881-1-1.jpg,https://www.bonhams.com/auction/32417/lot/131/edwin-lord-weeks-boston-1849-1903-paris-la-traversee-du-pont-de-khaju-ispahan/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,5138.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,5700.0,4750.0
+9d30807f-250c-4df5-95b7-33216a4d1334,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 132,EUR,3000,5000,3584.0,2800,3206.7,5344.5,3830.94,2992.92,Narcisse Berchère,1819,1891,"Oasis dans le désert, animée de bédouins",painting,oil on canvas,N/A,75.5,50.5,cm,yes,yes,yes,1857,1857,"Private collection, France","oasis, desert, bedouins, water, trees, figures, horses, dogs, palm trees, landscape",1,N/A,original,"Narcisse BerchÃ¨re (Ãtampes 1819-1891 AsniÃ¨res-sur-Seine)
+Oasis dans le dÃ©sert, animÃ©e de bÃ©douins 
+signÃ© et datÃ© 'Berchere 1857' (en bas Ã  droite)
+huile sur toile
+
+signed and dated 'Berchere 1857' (lower right)
+oil on canvas
+50.5 x 75.5cm (19 7/8 x 29 3/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25824972-3-1.jpg,https://www.bonhams.com/auction/32417/lot/132/narcisse-berchere-etampes-1819-1891-asnieres-sur-seine-oasis-dans-le-desert-animee-de-bedouins/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4838.89,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+03a32a51-1ab1-4698-b6b7-868ab0075c61,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 133,EUR,8000,12000,7680.0,6000,8551.2,12826.8,8209.15,6413.4,Victor Pierre Huguet,1835,1902,"Dans l'oasis, Alger",painting,oil on canvas,N/A,74.2,61,cm,yes,yes,yes,1801,1900,"Private collection, France","oasis, horse, mountains, figures, water, landscape, vegetation, clothing, clouds, sky",1,N/A,original,"Victor Pierre Huguet (Le Lude 1835-1902 Paris)
+Dans l'oasis, Alger 
+signÃ© 'V. Huguet' (en bas Ã  gauche)
+huile sur toile
+
+signed 'V. Huguet' (lower left)
+oil on canvas
+61 x 74.2cm (24 x 29 3/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25824972-2-1.jpg,https://www.bonhams.com/auction/32417/lot/133/victor-pierre-huguet-le-lude-1835-1902-paris-dans-loasis-alger/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11000.0,9166.666666666668
+b6341827-2666-4c29-8ecf-9f712225fed5,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 134,EUR,8000,12000,8960.0,7000,8551.2,12826.8,9577.34,7482.3,Georges Washington,1827,1910,Bédouins traversant le fleuve,painting,oil on canvas,N/A,92,73,cm,yes,no,yes,1827,1910,"Private collection, France","Bédouins, river, horses, trees, landscape, figures, mountains, water, nature, sky",1,N/A,original,"Georges Washington (Marseille 1827-1910 Douarnenez)
+BÃ©douins traversant le fleuve 
+signÃ© 'G. Washington' (en bas Ã  gauche)
+huile sur toile
+
+signed 'G. Washington' (lower left)
+oil on canvas
+73 x 92cm (28 3/4 x 36 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-5-1.jpg,https://www.bonhams.com/auction/32417/lot/134/georges-washington-marseille-1827-1910-douarnenez-bedouins-traversant-le-fleuve/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,10793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,11400.0,9500.0
+272a82d4-e2ab-4a9d-a149-898aa075cd01,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 135,EUR,3000,4000,4864.0,3800,3206.7,4275.6,5199.13,4061.82,Edmund Berninger,1843,1910,Vue du Caire,painting,oil on canvas,N/A,45.2,56.3,cm,yes,no,yes,1843,1910,"Private collection, France","market, camel, pedestrians, architecture, blue sky, shadow, street, buildings, minaret, figures",1,N/A,original,"Edmund Berninger (Arnstadt 1843-1910 Munich )
+Vue du Caire 
+signÃ© 'E. BERNINGER' (en bas Ã  droite)
+huile sur toile
+
+signed 'E. BERNINGER' (lower right)
+oil on canvas
+56.3 x 45.2cm (22 3/16 x 17 13/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-8-1.jpg,https://www.bonhams.com/auction/32417/lot/135/edmund-berninger-arnstadt-1843-1910-munich-vue-du-caire/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3838.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3750.0,3125.0
+1e3c4e28-d83c-42ba-af6c-2fc96b4bde32,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 136,EUR,2000,3000,2560.0,2000,2137.8,3206.7,2736.38,2137.8,Hyppolyte Casimir Gourse,1870,1932,Portrait d'homme au turban rouge,painting,oil on canvas,N/A,33.4,46.3,cm,yes,no,yes,1870,1932,"Private collection, France","man, red turban, oil painting, portrait, facial hair, traditional dress, green vest, background, pipe",1,N/A,original,"Hyppolyte Casimir Gourse (Toulouse 1870-1932 Paris)
+Portrait d'homme au turban rouge 
+signÃ© 'HGourse' (au centre Ã  gauche)
+huile sur toile
+
+signed 'HGourse' (centre left)
+oil on canvas
+46.3 x 33.4cm (18 1/4 x 13 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-2-1.jpg,https://www.bonhams.com/auction/32417/lot/136/hyppolyte-casimir-gourse-toulouse-1870-1932-paris-portrait-dhomme-au-turban-rouge/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+c4301956-0a19-4420-94ca-46c9e968eab0,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 137,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Antoni Reynes,1853,1910,Musicien arabe,painting,oil on panel,N/A,45.5,53.7,cm,yes,yes,yes,1870,1900,"Sale, Balclis, Barcelona, 14 Mars 2024, lot 669; Private collection, France","Arab musician, man, yellow scarf, musical instrument, traditional clothing, seated position, facial expression, patterned fabric, skin tone, textured background",1,N/A,original,"Antoni Reynes (Barcelone 1853-1910)
+Musicien arabe 
+signÃ© 'A. ReynÃ©s.' (en haut Ã  gauche)
+huile sur panneau
+
+signed 'A. ReynÃ©s.' (upper left)
+oil on panel
+53.7 x 45.5cm (21 1/8 x 17 15/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-1-1.jpg,https://www.bonhams.com/auction/32417/lot/137/antoni-reynes-barcelone-1853-1910-musicien-arabe/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4488.14,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4350.0,3625.0
+c58c85f5-c656-43da-90ed-1c47ea4acde0,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 138,EUR,12000,18000,N/A,N/A,12826.8,19240.2,N/A,N/A,Adolphe Weisz,1838,1916,Portrait d'odalisque,painting,oil on canvas,N/A,97.5,146.2,cm,yes,yes,yes,1870,1900,"Collection of Former Governor Murphy J. 'Mike' Foster Jr., Oaklawn Manor, Franklin, LA
+Sale, Neal Auction Company, New Orleans, 12 sep 2025, lot 293","woman, traditional dress, flowers, sea, headscarf, jewelry, standing pose, landscape, ornate patterns, historical costume",1,N/A,original,"Adolphe Weisz (Buda 1838-1916 Paris)
+Portrait d'odalisque 
+signÃ© 'A. Weisz.' (en bas Ã  gauche)
+huile sur toile
+
+signed 'A. Weisz.' (lower left)
+oil on canvas
+146.2 x 97.5cm (57 9/16 x 38 3/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25829795-7-1.jpg,https://www.bonhams.com/auction/32417/lot/138/adolphe-weisz-buda-1838-1916-paris-portrait-dodalisque/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,13999.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,16500.0,13750.0
+3995d941-f70e-4065-a3ef-b105e8413090,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 139,EUR,800,1200,N/A,N/A,855.12,1282.68,N/A,N/A,Jean Raymond Hippolyte Lazerges,1817,1887,Portrait d'homme arabe,painting,oil on panel,N/A,13,19.4,cm,yes,no,yes,1817,1887,"Private collection, France","man, Arab, portrait, oil painting, white headscarf, facial hair, brown background, gaze, solemn expression, historical attire",1,N/A,original,"Jean Raymond Hippolyte Lazerges (Narbonne 1817-1887 Mustapha)
+Portrait d'homme arabe 
+signÃ© 'Hip.te Lazerges' (en bas Ã  gauche)
+huile sur panneau
+
+signed 'Hip.te Lazerges' (lower left)
+oil on panel
+19.4 x 13cm (7 5/8 x 5 1/8in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-6-1.jpg,https://www.bonhams.com/auction/32417/lot/139/jean-raymond-hippolyte-lazerges-narbonne-1817-1887-mustapha-portrait-dhomme-arabe/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1130.28,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1140.0,950.0
+1ec3f732-ad0a-4b65-af19-056a3c46bc77,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 140,EUR,1000,1500,1664.0,1300,1068.9,1603.35,1778.65,1389.57,Dominique Antoine Magaud,1817,1899,Un turc et un cavalier Bachibouzouk à Istanbul,painting,oil on panel,N/A,15.5,20.5,cm,no,no,yes,1817,1899,"Private collection, France","Turk, cavalryman, Istanbul, historical clothing, architecture, mountain, landscapes, horn, street, Ottoman",2,N/A,original,"Dominique Antoine Magaud (Marseille 1817-1899)
+Un turc et un cavalier Bachibouzouk Ã  Istanbul 
+une paire, huile sur panneau
+
+a pair, oil on panel
+20.5 x 15.5cm (8 1/16 x 6 1/8in).
+(2)",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-4-6.jpg,https://www.bonhams.com/auction/32417/lot/140/dominique-antoine-magaud-marseille-1817-1899-un-turc-et-un-cavalier-bachibouzouk-a-istanbul-2/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,1281.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,1350.0,1125.0
+70f3a252-88f6-4da2-a3a5-08b6bb85d668,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 141,EUR,2500,3500,3584.0,2800,2672.25,3741.15,3830.94,2992.92,Charles Théodore Frère,1814,1888,"À l'entrée de la Casbah, Algérie",painting,oil on canvas,N/A,21,27.3,cm,yes,no,yes,1814,1888,"Sale, Hotel Drouot, Paris, 4 June 1928, lot 44; Sale, Sotheby's, New York, 19 October 1984, lot 208; Sale, Christie's, New York, 26 October 1988, lot 79; Gloucester, Massachusetts collection; Sale, Kaminski & Co., Beverly (MA), 27 November 2022 lot 658","man, door, basket, market, street, architecture, traditional clothing, figures, courtyard, Casbah",1,N/A,original,"Charles ThÃ©odore FrÃ¨re (Paris 1814-1888 Paris)
+Ã l'entrÃ©e de la Casbah, AlgÃ©rie 
+signÃ© et datÃ© 'TH. FRERE' (au centre Ã  droite)
+huile sur toile d'origine
+
+signed and dated 'TH. FRERE' (centre right)
+oil on canvas, unlined
+27.3 x 21cm (10 3/4 x 8 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-9-1.jpg,https://www.bonhams.com/auction/32417/lot/141/charles-theodore-frere-paris-1814-1888-paris-a-lentree-de-la-casbah-algerie/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,3568.93,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,3200.0,2666.666666666667
+c4fbff02-70c3-475c-be6e-589ddf200d7c,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 142,EUR,3000,5000,N/A,N/A,3206.7,5344.5,N/A,N/A,Paul Dominique Philippoteaux,1846,1923,Etude de cavalier arabe,painting,oil on panel,N/A,22.3,33.1,cm,yes,yes,yes,1901,2000,"Private collection, France","cavalier, horse, landscape, rider, spear, clothing, desert, traditional attire, mountain, earth tones",1,N/A,original,"Paul Dominique Philippoteaux (Paris 1846-1923)
+Etude de cavalier arabe 
+signÃ© 'D.Philippoteaux' (en bas Ã  gauche)
+huile sur panneau
+
+signed 'D.Philippoteaux' (lower left)
+oil on panel
+33.1 x 22.3cm (13 1/16 x 8 3/4in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25820131-7-1.jpg,https://www.bonhams.com/auction/32417/lot/142/paul-dominique-philippoteaux-paris-1846-1923-etude-de-cavalier-arabe/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,4048.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,4620.0,3850.0
+00ca31c3-040f-421d-8486-9f68f235ba4d,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 143,EUR,6000,8000,5760.0,4500,6413.4,8551.2,6156.86,4810.05,Louis Soonius,1883,1956,"Plage devant le Grand Hôtel Amrâth Kurhaus, La Haye",painting,oil on canvas,N/A,60.8,40.6,cm,yes,yes,yes,1901,2000,"Sale, Hampel, Munich, 6 December 2018, lot 414","beach, people, building, sky, sand, sea, umbrellas, children, adults, hats",1,N/A,original,"Louis Soonius (La Haye 1883-1956)
+Plage devant le Grand HÃ´tel AmrÃ¢th Kurhaus, La Haye 
+signÃ© 'Louis Soonius' (en bas Ã  droite)
+huile sur toile
+
+signed 'Louis Soonius' (lower right)
+oil on canvas
+40.6 x 60.8cm (16 x 23 15/16in).",https://images1.bonhams.com/image?src=Images/live/2024-10/21/25583835-29-1.jpg,https://www.bonhams.com/auction/32417/lot/143/louis-soonius-la-haye-1883-1956-plage-devant-le-grand-hotel-amrath-kurhaus-la-haye/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,7638.81,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,7200.0,6000.0
+1f0ccb85-8901-4378-8551-ca9ae2debc88,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 144,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Emilien-Victor Barthelemy,1885,1964,A la plage,painting,oil on canvas,N/A,92,73,cm,yes,no,yes,1885,1964,"Sale, Ader, Paris, 28 November 2015, lot 115
+Private collection, France","beach, woman, children, water, rocks, sand, sky, swimwear, sunbathing, landscape",1,N/A,original,"Emilien-Victor Barthelemy (Marseille 1885-1964)
+A la plage 
+signÃ© 'E. Barthelemy' (en bas Ã  gauche)
+huile sur toile
+
+signed 'E. Barthelemy' (lower left)
+oil on canvas
+73 x 92cm (28 3/4 x 36 1/4in).",https://images1.bonhams.com/image?src=Images/live/2026-02/05/25807881-2-1.jpg,https://www.bonhams.com/auction/32417/lot/144/emilien-victor-barthelemy-marseille-1885-1964-a-la-plage/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+4b13e036-4a80-4520-ab26-6055c614c9be,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 145,EUR,2000,3000,N/A,N/A,2137.8,3206.7,N/A,N/A,Francina Louise Schot,1816,1894,Nature morte de fleurs au bord de l'eau,painting,oil on panel,N/A,42,33.7,cm,yes,no,yes,1816,1894,"Private collection, Belgium","flowers, water, still life, lilac, pansy, petunias, leaves, reflection, dark background, outdoor",1,N/A,original,"Francina Louise Schot (Rotterdam 1816-1894)
+Nature morte de fleurs au bord de l'eau 
+signÃ© 'F. L. Schot' (en bas Ã  droite)
+huile sur panneau
+
+signed 'F. L. Schot' (lower right)
+oil on panel
+33.7 x 42cm (13 1/4 x 16 9/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/12/25826472-2-1.jpg,https://www.bonhams.com/auction/32417/lot/145/francina-louise-schot-rotterdam-1816-1894-nature-morte-de-fleurs-au-bord-de-leau/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2411.94,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2800.0,2333.3333333333335
+21dfd9ee-4863-4069-b0b6-bd810defe14b,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 146,EUR,2000,3000,2560.0,2000,2137.8,3206.7,2736.38,2137.8,Philippe Mourani,1875,1970,Paysage d'automne au bord de l'eau,painting,oil on canvas,N/A,72.8,57.3,cm,yes,yes,yes,1901,2000,"Private collection, France","landscape, autumn, trees, water, reflection, riverbank, grass, orange, yellow, blue sky",1,N/A,original,"Philippe Mourani (Beyrouth 1875-1970)
+Paysage d'automne au bord de l'eau 
+signÃ© 'PH. MOURANI' (en bas Ã  gauche)
+huile sur toile
+
+signed 'PH. MOURANI' (lower left)
+oil on canvas
+57.3 x 72.8cm (22 9/16 x 28 11/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25780007-2-1.jpg,https://www.bonhams.com/auction/32417/lot/146/philippe-mourani-beyrouth-1875-1970-paysage-dautomne-au-bord-de-leau/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,2793.99,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,2750.0,2291.666666666667
+62344cb8-6054-45af-922b-ea29e353d5bb,Artwork,Bonhams,32417,2026-04-21,"Paris, Avenue Hoche",Old Master and 19th Century Paintings,https://www.bonhams.com/auction/32417/old-master-and-19th-century-paintings/,Lot 147,EUR,10000,15000,10240.0,8000,10689.0,16033.5,10945.54,8551.2,George Jeannin,1881,1925,Au stand des fleurs,painting,oil on canvas,N/A,153.8,130.8,cm,yes,yes,yes,1801,1900,"With Frans Buffa, Amsterdam, 1932 where purchased by Private collection, Germany, then by descent to the present owner","flowers, umbrella, wooden crates, greenery, color, floral arrangement, still life, nature, petals, blossoms",1,N/A,original,"George Jeannin (Paris 1881-1925)
+Au stand des fleurs 
+signÃ© et datÃ© 'G. Jeannin 87' (en bas Ã  droite)
+huile sur toile
+
+signed and dated 'G. Jeannin 87' (lower right)
+oil on canvas
+130.8 x 153.8cm (51 1/2 x 60 9/16in).",https://images1.bonhams.com/image?src=Images/live/2026-03/18/25784945-1-1.jpg,https://www.bonhams.com/auction/32417/lot/147/george-jeannin-paris-1881-1925-au-stand-des-fleurs/,7711.76,26402.42,53559.99,14.43,88.24,4.48,N/A,N/A,12888.09,gpt-4.1-mini,artwork-gemma3-4b-16bit-dora-linear-boundary-response-only:latest,13250.0,11041.666666666668

@@ -1,0 +1,67 @@
+lot_number,brand,model,auction_house,low_estimate_usd,high_estimate_usd,price_final_usd,barker_price_premium_usd,barker_price_hammer_usd
+Lot 1,Alain Silberstein,Le Perpétuel Anniversaire,Phillips,5000,10000,5715,7500.0,6250.0
+Lot 2,A. Lange & Söhne,Odysseus,Phillips,25000,45000,50800,38000.0,31666.666666666668
+Lot 3,FP Journe,Chronomètre à Résonance,Phillips,120000,240000,215900,195000.0,162500.0
+Lot 4,Rolex,Cosmograph Daytona,Phillips,18000,36000,35560,32000.0,26666.666666666668
+Lot 5,Patek Philippe,<NA>,Phillips,30000,60000,44450,45000.0,37500.0
+Lot 6,Habring² X Massena Lab,Habring² X Massena Lab Chrono Felix Perpetual (CFP),Phillips,12000,24000,16510,19500.0,16250.0
+Lot 7,Romain Gauthier,C by Roman Gauthier Titanium Edition Two,Phillips,20000,40000,33020,32000.0,26666.666666666668
+Lot 8,Cartier,Tank Cintrée,Phillips,20000,40000,88900,32000.0,26666.666666666668
+Lot 9,Laurent Ferrier,Sport Auto,Phillips,20000,40000,50800,32000.0,26666.666666666668
+Lot 10,Franck Muller,Cintrée Curvex Perpetual Calendar,Phillips,6000,12000,8255,9500.0,7916.666666666667
+Lot 11,Patek Philippe,Calatrava Pilot,Phillips,20000,40000,35560,32000.0,26666.666666666668
+Lot 12,H. Moser & Cie,Streamliner Tourbillon Emerald,Phillips,40000,80000,60960,65000.0,54166.66666666667
+Lot 13,Rolex,Day-Date,Phillips,20000,40000,44450,32000.0,26666.666666666668
+Lot 14,Rolex,Day-Date,Phillips,18000,25000,35560,21500.0,17916.666666666668
+Lot 16,Rolex,"Explorer II, Freccione",Phillips,12000,24000,17780,18500.0,15416.666666666668
+Lot 17,Rolex,Cosmograph Daytona “Big Red”,Phillips,50000,100000,82550,85000.0,70833.33333333334
+Lot 18,Rolex,Cosmograph Daytona,Phillips,80000,160000,114300,120000.0,100000.0
+Lot 19,Rolex,GMT-Master,Phillips,10000,20000,13970,14500.0,12083.333333333334
+Lot 20,Rolex,GMT-Master,Phillips,10000,20000,<NA>,14500.0,12083.333333333334
+Lot 21,Rolex,GMT-Master,Phillips,9500,19000,11430,14500.0,12083.333333333334
+Lot 22,Rolex,GMT-Master,Phillips,15000,30000,24130,25000.0,20833.333333333336
+Lot 23,Rolex,GMT-Master,Phillips,20000,40000,<NA>,32000.0,26666.666666666668
+Lot 24,Rolex,Submariner,Phillips,10000,20000,<NA>,14500.0,12083.333333333334
+Lot 25,Rolex,Sea-Dweller “Rail Dial”,Phillips,10000,20000,17780,15000.0,12500.0
+Lot 26,Rolex,Submariner,Phillips,8000,12000,13970,10500.0,8750.0
+Lot 27,Rolex,Day-Date,Phillips,15000,30000,20320,25000.0,20833.333333333336
+Lot 28,Rolex,Day-Date,Phillips,15000,30000,<NA>,22000.0,18333.333333333336
+Lot 29,Rolex,Oysterquartz Day-Date,Phillips,12000,24000,16510,18000.0,15000.0
+Lot 30,Rolex,Day-Date “Pinball”,Phillips,20000,40000,22860,35000.0,29166.666666666668
+Lot 31,Patek Philippe,<NA>,Phillips,1000,2000,3048,1500.0,1250.0
+Lot 32,Patek Philippe,<NA>,Phillips,1000,2000,2032,1500.0,1250.0
+Lot 33,Patek Philippe,Calatrava,Phillips,4000,8000,12700,6000.0,5000.0
+Lot 34,Patek Philippe,Calatrava,Phillips,25000,50000,30480,35000.0,29166.666666666668
+Lot 35,Patek Philippe,Calatrava “Millennium” Set,Phillips,30000,60000,48260,45000.0,37500.0
+Lot 36,Patek Philippe,Pagoda,Phillips,8000,16000,15240,12000.0,10000.0
+Lot 37,Speake-Marin,Piccadilly “Captive in Time”,Phillips,12000,24000,16510,19500.0,16250.0
+Lot 38,Girard Perregaux,Girard-Perregaux Pour Ferrari,Phillips,2000,4000,7620,3500.0,2916.666666666667
+Lot 39,A. Lange & Söhne,Lange 1 Time Zone,Phillips,25000,50000,33020,45000.0,37500.0
+Lot 40,Cartier,Tortue Monopoussoir CPCP,Phillips,20000,40000,44450,28000.0,23333.333333333336
+Lot 41,FP Journe,Octa Réserve de Marche,Phillips,50000,100000,107950,75000.0,62500.0
+Lot 42,Patek Philippe,Nautilus,Phillips,60000,120000,165100,95000.0,79166.66666666667
+Lot 43,Rolex,Submariner Date,Phillips,6000,12000,10795,9500.0,7916.666666666667
+Lot 44,Rolex,Submariner,Phillips,18000,36000,25400,30000.0,25000.0
+Lot 45,Rolex,Yacht-Master II,Phillips,12000,24000,33020,19500.0,16250.0
+Lot 46,Rolex,GMT-Master II “SARU”,Phillips,40000,80000,69850,65000.0,54166.66666666667
+Lot 47,Rolex,Submariner Date “Smurf,Phillips,20000,40000,30480,32000.0,26666.666666666668
+Lot 48,Audemars Piguet,Royal Oak,Phillips,18000,36000,48260,25000.0,20833.333333333336
+Lot 49,Audemars Piguet,Royal Oak Perpetual Calendar,Phillips,50000,100000,76200,85000.0,70833.33333333334
+Lot 50,Patek Philippe,<NA>,Phillips,25000,50000,35560,40000.0,33333.333333333336
+Lot 51,Patek Philippe,<NA>,Phillips,25000,50000,38100,45000.0,37500.0
+Lot 52,Patek Philippe,Aquanaut Travel Time,Phillips,25000,50000,63500,40000.0,33333.333333333336
+Lot 53,Speake-Marin,The Piccadilly,Phillips,1500,3000,6350,2500.0,2083.3333333333335
+Lot 54,Parmigiani Fleurier,Kalpa Grande,Phillips,3000,6000,6350,4500.0,3750.0
+Lot 55,Parmigiani Fleurier,Tonda Tourbillon,Phillips,15000,30000,27940,25000.0,20833.333333333336
+Lot 56,Ulysse Nardin,Sonata Cathedral Dual Time,Phillips,8000,16000,10795,12000.0,10000.0
+Lot 57,Ulysse Nardin,Pin Up,Phillips,12000,24000,25400,19500.0,16250.0
+Lot 58,Ming,Mosaic,Phillips,6000,12000,8890,9500.0,7916.666666666667
+Lot 59,FP Journe,Automatique Réserve LineSport,Phillips,30000,60000,88900,45000.0,37500.0
+Lot 60,Piaget,<NA>,Phillips,3000,5000,5715,4500.0,3750.0
+Lot 61,Patek Philippe,Chronometro Gondolo,Phillips,10000,20000,13970,15000.0,12500.0
+Lot 62,Rolex,Day-Date Masterpiece,Phillips,25000,50000,38100,45000.0,37500.0
+Lot 63,Rolex,Submariner,Phillips,6000,12000,7620,9500.0,7916.666666666667
+Lot 64,Rolex,Cosmograph Daytona,Phillips,18000,36000,33020,28000.0,23333.333333333336
+Lot 65,Rolex,Cosmograph Daytona “Platona”,Phillips,70000,140000,101600,120000.0,100000.0
+Lot 66,Cartier,Santos-Dumont XL,Phillips,12000,24000,16510,19500.0,16250.0
+Lot 67,Cartier,Collection Privé Tank Chinoise,Phillips,15000,30000,25400,25000.0,20833.333333333336

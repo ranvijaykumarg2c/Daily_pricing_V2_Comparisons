@@ -1,0 +1,557 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,artist_name,artist_birth,artist_death,artwork_title,medium,material,length,width,height,unit,signed,dated,titled,creation_year_start,creation_year_end,provenance,subject_matter,item_count,edition,authorship,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,ollama_price,pricing_model,ollama_model,barker_price_premium_usd,barker_price_hammer_usd
+ef5d279f-cf48-4e59-b6e4-0fc2f1e86d7d,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 201,GBP,3000,5000,N/A,N/A,3799.79,6332.99,N/A,N/A,MAX BRAND,1982,N/A,Untitled,mixed media,"acrylic, oil, chalk, ink, marker, plaster, fabric, spray paint and collage on canvas",N/A,94.375,78.875,in,yes,yes,no,2015,2015,"Galerie Jacky Strenz, Frankfurt am Main. 
+Acquired from the above by the Zabludowicz Collection in 2015.","figure, abstract shapes, faces, color swirls, scribbles, human form, vibrant colors, collage elements, movement, expression",1,N/A,original,"Untitled 
+signed and dated 'Max Brand 2015' (on the overlap)
+acrylic, oil, chalk, ink, marker, plaster, fabric, spray paint and collage on canvas
+78
+7
+⁄
+8
+ x 94
+3
+⁄
+8
+in. (200.4 x 239.7cm.)
+Executed in 2015",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0201_000(max_brand_untitled_d6594682070530).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/max-brand-b-1982-201/315229?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,2026-06,4810.62,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+7ba5a784-dd3c-47d1-abf1-d431ec99788e,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 202,GBP,4000,6000,N/A,N/A,5066.39,7599.59,N/A,N/A,SAM FALLS,1984,N/A,"Untitled (Topanga Rain, Rope, 10)",mixed media,fabric dye on synthetic rope and canvas laid on aluminium,N/A,81.125,96.375,in,no,yes,no,2013,2013,"Hannah Hoffman Gallery, Los Angeles. 
+Acquired from the above by the Zabludowicz Collection in 2013.","fabric dye, synthetic rope, canvas, aluminium, pink, blue, abstract, gradient",1,N/A,original,"Untitled (Topanga Rain, Rope, 10)
+fabric dye on synthetic rope and canvas laid on aluminium
+96
+3
+⁄
+8
+ x 81
+1
+⁄
+8
+in. (244.8 x 206cm.)
+Executed in 2013",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0202_000(sam_falls_untitled070538).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/sam-falls-b-1984-202/315230?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6319.48,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+f30136be-1080-4c71-b059-5bdb87a21df6,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 203,GBP,3000,5000,N/A,N/A,3799.79,6332.99,N/A,N/A,PARKER ITO,1986,N/A,Cheeto Returns (Dynamic Blue) / Not Sure if You Know This But I'm an Artist (Red Strainer) - This is Actually so Hype,mixed media,"oil on canvas, aluminium frame, strainer, chains, LED strip tape, LED strip tape controller, electrical components, hanging hardware",N/A,96.75,122.75,in,no,yes,yes,2014,2014,"White Cube.
+Private Collection (acquired from the above).
+Anon. sale, Phillips London, 21 October 2020, lot 241.
+Acquired at the above sale by the Zabludowicz Collection.","chain, figure, abstract shapes, colorful background, text, moon, eyes, light strip, paint splatters, human form",1,N/A,original,"Cheeto Returns (Dynamic Blue) / Not Sure if You Know This But I'm an Artist (Red Strainer) - This is Actually so Hype (ParkerItoArt.com)
+oil on canvas in artist's painted aluminium frame and strainer with chains, LED strip tape, LED strip tape controller, electrical components and hanging hardware
+framed: 122
+3
+⁄
+4
+ x 96
+3
+⁄
+4
+in. (311.8 x 245.9cm.)
+overall installation dimensions variable
+Executed in 2014",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0203_000(parker_ito_cheeto_returns_not_sure_if_you_know_this_but_im_an_artist_-073409).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/parker-ito-b-1986-203/315231?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4816.07,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+d3074d70-d781-4d51-83d4-fb520b700877,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 204,GBP,10000,15000,N/A,N/A,12665.98,18998.97,N/A,N/A,NICK GOSS,1981,N/A,Sun Dance,painting,oil on canvas,N/A,118,70.875,in,yes,yes,yes,2010,2010,"Simon Preston Gallery, New York.
+Acquired from the above by the Zabludowicz Collection in 2011.","landscape, palm trees, building, sky, abstraction, light, sand, horizon, outdoors, minimalism",1,N/A,original,"Sun Dance
+signed, titled and dated 'Nick Goss 2010 'SUN DANCE'' (on the reverse)
+oil on canvas
+70
+7
+⁄
+8
+ x 118in. (180 x 300cm.)
+Painted in 2010",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0204_000(nick_goss_sun_dance070552).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/nick-goss-b-1981-204/315232?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16392.74,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+d3f8d14f-10a6-4f8f-a6e4-545986bc26e5,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 205,GBP,4000,6000,N/A,N/A,5066.39,7599.59,N/A,N/A,ALEX HUBBARD,1975,N/A,Just to Complete the Thought,mixed media,"acrylic, resin and fibreglass on canvas",N/A,62,83.875,in,yes,yes,yes,2011,2011,"Simon Lee, London.
+Acquired from the above by the Zabludowicz Collection in 2011.","abstract, acrylic, blue, green, lines, texture, canvas, resin, fiberglass",1,N/A,original,"Just to Complete the Thought 
+signed and dated 'A Hubbard 2011' (on the overlap)
+acrylic, resin and fibreglass on canvas
+83
+7
+⁄
+8
+ x 62in. (213.1 x 157.6cm.)
+Executed in 2011",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0205_000(alex_hubbard_just_to_complete_the_thought070558).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/alex-hubbard-b-1975-205/315233?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6319.48,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+c3ab1e01-3263-40cb-b1e0-3718094b2c11,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 206,GBP,2000,3000,N/A,N/A,2533.2,3799.79,N/A,N/A,AARON YOUNG,1972,N/A,Untitled (un-mounted),mixed media,acrylic and spray paint on bronze,1.75,7.25,120,in,no,yes,no,2008,2008,"Vito Schnabel, New York.
+Acquired from the above by the Zabludowicz Collection in 2010.","acrylic paint, spray paint, bronze, text, blue color, brown color, vertical form, line, surface texture",1,N/A,original,"Untitled (un-mounted)
+dated '2008' (on the reverse)
+acrylic and spray paint on bronze
+120 x 7
+1
+⁄
+4
+ x 1
+3
+⁄
+4
+in. (304.7 x 18.3 x 4.4cm.)
+Executed in 2008, this work is number nine from an edition ten",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0206_000(aaron_young_untitled070606).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/aaron-young-b-1972-206/315234?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3278.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+d54fa570-f072-45f6-b7ca-c2fafe53eb39,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 207,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,NED VENA,1982,N/A,Untitled,mixed media,vinyl on aluminium,N/A,48,96,in,no,yes,no,2011,2011,"Clifton Benevento, New York.
+Acquired from the above by the Zabludowicz Collection in 2011.","abstract, black, grey, stripes, texture, aluminium, contemporary art, linear patterns, geometric, minimalism",1,N/A,original,"Untitled 
+vinyl on aluminium
+96 x 48in. (243.8 x 121.9cm.)
+Executed in 2011",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0207_000(ned_vena_untitled070612).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/ned-vena-b-1982-207/315235?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1639.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+ddf47bba-7036-4713-8dc0-15f0e0df44b3,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 208,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,NED VENA,1982,N/A,Untitled,mixed media,vinyl on aluminium,N/A,48,96,in,no,yes,no,2011,2011,"Clifton Benevento, New York.
+Acquired from the above by the Zabludowicz Collection in 2011.","red, grey, lines, abstract, geometric",1,N/A,original,"Untitled
+vinyl on aluminium
+96 x 48in. (244 x 122cm.)
+Executed in 2011",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0208_000(ned_vena_untitled070616).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/ned-vena-b-1982-208/315236?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1639.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+c9413857-fdca-402d-b3c7-66c029694bb8,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 209,GBP,15000,20000,N/A,N/A,18998.97,25331.96,N/A,N/A,MATT CONNORS,1973,N/A,William & Robert,mixed media,"acrylic on canvas, powder coated steel tube",9,150.25,92,in,yes,yes,yes,2014,2014,"Cherry and Martin, Los Angeles.
+Acquired from the above by the Zabludowicz Collection in 2014.","red, blue, canvas, acrylic, steel tube, geometric, split, color block, abstract, large",1,N/A,original,"William & Robert
+each canvas: signed, titled, inscribed and dated 'Matt Connors 2014 William & Robert' (on the stretcher)
+acrylic on canvas in two parts and powder coated steel tube
+overall: 92 x 150
+1
+⁄
+4
+ x 9in. (233.7 x 381.5 x 22.8cm.)
+Executed in 2014",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0209_000(matt_connors_william_amp_robert070621).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/matt-connors-b-1973-209/315237?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24180.76,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,22000.0,18333.333333333336
+07ada2fb-8d23-4ce4-9db6-5738d0f0059d,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 210,GBP,3000,5000,N/A,N/A,3799.79,6332.99,N/A,N/A,AARON YOUNG,1972,N/A,"ARC LIGHT (Moscow, hexaptych)",mixed media,"motor oil, burnt rubber, acrylic and screws on aluminium",N/A,59,79,in,no,yes,yes,2008,2008,"Gagosian Gallery, New York.
+Acquired from the above by the Zabludowicz Collection in 2010.","hexaptych, abstract shapes, motor oil, burnt rubber, acrylic, aluminium, red tones",1,N/A,original,"ARC LIGHT (Moscow, hexaptych)
+motor oil, burnt rubber, acrylic and screws on aluminium, in six parts
+each: 79 x 59in. (200.7 x 149.9cm.)
+Executed in 2008",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0210_000(aaron_young_arc_light070633).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/aaron-young-b-1972-210/315238?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.67,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+016a300c-be09-4d50-b7b1-b3eb95075fff,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 211,GBP,6000,8000,N/A,N/A,7599.59,10132.78,N/A,N/A,R.H. Quaytman,N/A,N/A,"Spine, Chapter 20",mixed media,"silkscreen ink, crushed glass and gesso on wood",N/A,20,32.375,in,yes,yes,yes,2010,2010,"Thomas Dane Gallery, London.
+Acquired from the above by the Zabludowicz Collection in 2011.","abstract, textured surface, grey tones, wood, crushed glass, silkscreen print, layered materials, contemporary",1,N/A,original,"Spine, Chapter 20
+signed, titled, inscribed and dated 'R.H. Quaytman, ''Spine, Chapter 20,'' 2010, may be hung in two ways.' (on the reverse)
+silkscreen ink, crushed glass and gesso on wood
+32
+3
+⁄
+8
+ x 20in. (82.2 x 50.9cm.)
+Executed in 2010",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0211_000(rh_quaytman_spine_chapter_20070713).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/r-h-quaytman-211/315239?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10863.74,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,8500.0,7083.333333333334
+c861f8f6-0a9b-4e02-9338-134ffd0bfb41,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 212,GBP,3000,5000,N/A,N/A,3799.79,6332.99,N/A,N/A,ROSY KEYSER,1974,N/A,Eve's First Confusion Between Penises and Snakes,mixed media,"string, sawdust, enamel, dye and snakeskin on wooden stretcher",9,97.625,118.125,in,yes,yes,yes,2012,2012,"Peter Blum Gallery, New York.
+Acquired from the above by the Zabludowicz Collection in 2013.","snake, sawdust, string, enamel, dye, wood, texture, abstract, figure, confusion",1,N/A,original,"Eve's First Confusion Between Penises and Snakes
+signed and dated 'Rosy Keyser 2012' (on the reverse)
+string, sawdust, enamel, dye and snakeskin on wooden stretcher
+118
+1
+⁄
+8
+ x 97
+5
+⁄
+8
+ x 9in. (300 x 248 x 23cm.)
+Executed in 2012",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0212_000(rosy_keyser_eves_first_confusion_between_penises_and_snakes070720).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/rosy-keyser-b-1974-212/315240?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4817.09,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5230.0,4358.333333333334
+e696f5d3-a195-4a81-bb97-c44a40b61737,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 213,GBP,60000,80000,N/A,N/A,75995.89,101327.85,N/A,N/A,JULIAN SCHNABEL,1951,N/A,Untitled,painting,oil and gesso on printed polyester,N/A,174.625,102.625,in,no,yes,no,2011,2011,Acquired direclty from the artist by the Zabludowicz Collection in 2011.,"abstract shape, fluid form, brown background, white paint, large canvas, irregular edges, minimalism",1,N/A,original,"Untitled
+oil and gesso on printed polyester
+102
+5
+⁄
+8
+ x 174
+5
+⁄
+8
+in. (260.7 x 443.5cm.)
+Executed in 2011",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0213_000(julian_schnabel_untitled070726).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/julian-schnabel-b-1951-213/315241?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,106379.84,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,88700.0,73916.66666666667
+bdad391a-52f8-4bd6-aa56-891b883d890e,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 214,GBP,4000,6000,N/A,N/A,5066.39,7599.59,N/A,N/A,MICHAEL WILLIAMS,1978,N/A,Morning Meditation with Mud and Jenny Mac,mixed media,"oil, airbrush and inkjet on canvas",N/A,75.875,98.875,in,yes,yes,yes,2013,2013,"CANADA, New York.
+Acquired from the above by the Zabludowicz Collection in 2013.","abstract, figures, flowers, patterns, text, landscape, colors, facial features, hands, shapes",1,N/A,original,"Morning Meditation with Mud and Jenny Mac
+signed, titled and dated '2013 MORNING MEDITATION WITH MUD AND JENNY MAC Michael Williams (on the reverse)
+oil, airbrush and inkjet on canvas
+98
+7
+⁄
+8
+ x 75.7.8in. (251.2 x 192.8cm.)
+Executed in 2013",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0214_000(michael_williams_morning_meditation_with_mud_and_jenny_mac070732).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/michael-williams-b-1978-214/315242?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6319.47,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+4e36b0f1-e2c0-4308-aa09-59e721f61066,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 215,GBP,5000,7000,N/A,N/A,6332.99,8866.19,N/A,N/A,JEFF ELROD,1966,N/A,Inverted Clone,painting,UV ink on canvas,N/A,84,112.125,in,yes,yes,yes,2013,2013,"Simon Lee Gallery, London.
+Acquired from the above by the Zabludowicz Collection in 2013.","blurred forms, abstract, light, shadow, color gradation, texture, canvas, visual distortion, monochromatic, modern",1,N/A,original,"Inverted Clone 
+signed and dated 'Jeff Elrod 2013' (on the overlap)
+UV ink on canvas
+112
+1
+⁄
+8
+ x 84in. (284.8 x 213.4cm.)
+Executed in 2013",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0215_000(jeff_elrod_inverted_clone070738).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/jeff-elrod-b-1966-215/315243?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10789.23,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7500.0,6250.0
+e1ba9f80-9c27-4987-8c4b-302461ba107a,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 216,GBP,5000,7000,N/A,N/A,6332.99,8866.19,N/A,N/A,TONY LEWIS,1986,N/A,I froo foor,mixed media,"graphite powder, glitter and fabric collage on paper",N/A,59.25,83.25,in,no,yes,yes,2014,2014,"Massimo de Carlo, London.
+Acquired from the above by the Zabludowicz Collection in 2014.","graphite, text, collage, glitter, paper",1,N/A,original,"I froo foor
+graphite powder, glitter and fabric collage on paper
+83
+1
+⁄
+4
+ x 59
+1
+⁄
+4
+in. (208.5 x 149.7cm.)
+Executed in 2014",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0216_000(tony_lewis_i_froo_foor070744).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/tony-lewis-b-1986-216/315246?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10289.47,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,7500.0,6250.0
+88b75a79-a1f3-4844-8e4f-43e9b9cbc447,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 217,GBP,2000,3000,N/A,N/A,2533.2,3799.79,N/A,N/A,ELLIOTT HUNDLEY,1975,N/A,"from a blackbright hole, The Heart of Hekabe",mixed media,"paper, printed paper collage, plastic, bamboo, wood, wire, string, rope, fabric, copper, nickel, wax, epoxy, ceramic, shells, oil on canvas, ink, pastel, dried goat hooves, metal hardware and distressed tyre",104,158,203,cm,no,yes,yes,2007,2007,"Andrea Rosen Gallery, New York.
+Acquired from the above by the Zabludowicz Collection in 2008.","collage, wood, wire, fabric, ceramic, shells, paper, metal, rope, painting, sculpture",1,N/A,original,"from a blackbright hole, The Heart of Hekabe
+paper, printed paper collage, plastic, bamboo, wood, wire, string, rope, fabric, copper, nickel, wax, epoxy, ceramic, shells, oil on canvas, ink, pastel, dried goat hooves, metal hardware and distressed tyre
+79
+7
+⁄
+8
+ x 62
+1
+⁄
+4
+ x 41in. (203 x 158 x 104cm.)
+Executed in 2007",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0217_000(elliott_hundley_from_a_blackbright_hole_the_heart_of_hekabe070750).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/elliott-hundley-b-1975-217/315300?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3278.94,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+fee68b5f-1206-4648-93c5-bef080399681,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 218,GBP,4000,6000,N/A,N/A,5066.39,7599.59,N/A,N/A,HOPE ATHERTON,1974,N/A,Doll Hospital,painting,oil on linen,N/A,60.125,84,in,yes,yes,yes,2008,2008,"Bortolami, New York.
+Acquired from the above by the Zabludowicz Collection in 2008.","doll, hospital, woman, chair, window, reflection, legs, dress, shoes, light",1,N/A,original,"Doll Hospital
+signed and dated 'Hope Atherton 2008' (on the reverse)
+oil on linen
+84 x 60
+1
+⁄
+8
+in. (213.5 x 152.6cm.)
+Painted in 2008",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0218_000(hope_atherton_doll_hospital115442).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/hope-atherton-b-1974-218/315247?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10476.82,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6200.0,5166.666666666667
+c0cc0c90-1810-483b-8dae-12d99f2dbcc3,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 219,GBP,10000,15000,N/A,N/A,12665.98,18998.97,N/A,N/A,MIROSLAW BALKA,1958,N/A,250 x 250 x 190,sculpture,"steel, plastic and bricks",98.375,98.375,79.875,in,no,yes,yes,2007,2007,"Galerie Nordenhake, Berlin.
+Acquired from the above by the Zabludowicz Collection in 2009.","steel, plastic, bricks, sculpture, abstract, geometric, industrial",1,N/A,original,"250 x 250 x 190
+steel, plastic and bricks, in six parts
+overall: 79
+7
+⁄
+8
+ x 98
+3
+⁄
+8
+ x 98
+3
+⁄
+8
+in. (203 x 250 x 250cm.)
+Executed in 2007",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0219_000(miroslaw_balka_250_x_250_x_190070820).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/miroslaw-balka-b-1958-219/315250?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16390.74,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+0c65a2d2-e922-4c19-89d7-73f38f5a9a79,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 220,GBP,6000,8000,N/A,N/A,7599.59,10132.78,N/A,N/A,BARNABY HOSKING,1976,N/A,Untitled II,mixed media,"digital video, velvet screen and lacquered acrylic resin",15.75,19.75,65,in,yes,yes,no,2007,2007,"Max Wigram Gallery, London.
+Acquired from the above by the Zabludowicz Collection in 2007.","digital video, velvet screen, sculpture, human figure, skeleton, black resin, continuous loop, art installation, curvilinear form, exhibition",1,002/5,original,"Untitled II
+signed, titled, numbered and dated '''Untitled II'' 2007 BARNABY HOSKING EDITION 2 OF 5 + 2AP.' (on the stretcher bar of the velvet screen); signed 'Barnaby Hosking' (on the DVD)
+digital video, velvet screen and lacquered acrylic resin
+duration: 6' continuous loop
+sculpture: 65 x 19
+3
+⁄
+4
+ x 15
+3
+⁄
+4
+in. (165 x 50 x 40cm.)
+overall: dimensions variable
+Executed in 2007, this work is number two from an edition of five plus two artist's proofs
+
+Edition: 002/5",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0220_000(barnaby_hosking_untitled_ii070826).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/barnaby-hosking-b-1976-220/315251?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,10637.89,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,8930.0,7441.666666666667
+45700f80-29f4-447a-9019-416dac43e077,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 221,GBP,3000,5000,N/A,N/A,3799.79,6332.99,N/A,N/A,BORNA SAMMAK,1986,N/A,untitled,mixed media,heat applied tshirt graphics on canvas and dry wall mounts,N/A,127.2,213.5,cm,yes,yes,no,2014,2014,"JTT, New York.
+Acquired from the above by the Zabludowicz Collection in 2014.","text, graphic elements, humor, social commentary, slogans, figures, animals, pop culture, mixed media, bright colors",1,N/A,original,"untitled
+signed and dated 'BORNA SAMMAK 2014' (on the overlap)
+heat applied tshirt graphics on canvas and dry wall mounts
+84 x 50
+1
+⁄
+8
+in. (213.5 x 127.2cm.)
+Executed in 2014",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0221_000(borna_sammak_untitled070832).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/borna-sammak-b-1986-221/315253?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4801.62,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5075.0,4229.166666666667
+10e0e9f0-b9ff-41c8-beaf-b8328748c92c,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 222,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,RYAN MCNAMARA,1979,N/A,To be titled (Arch with duck plaque),mixed media,printed paper collage on wood,13,96.875,120,in,no,yes,no,2012,2012,"Elizabeth Dee, New York.
+Acquired from the above by the Zabludowicz Collection in 2012.","collage, arch, figures, duck, paper, wood, movement, color, plinth, sculpture",1,N/A,original,"To be titled (Arch with duck plaque)
+printed paper collage on wood, in two parts
+arch: 120 x 96
+7
+⁄
+8
+ x 13in. (304.8 x 246 x 33cm.)
+plaque: 8
+3
+⁄
+8
+ x 13
+1
+⁄
+4
+ x 2.3.8in. (21.4 x 33.5 x 6cm.)
+Executed in 2012",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0222_000(ryan_mcnamara_to_be_titled070838).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/ryan-mcnamara-b-1979-222/315255?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1639.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+a7792763-9666-4452-a5af-586c3b2bc7c9,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 223,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,ELAD LASSRY,1977,N/A,Tomatoes,photographs,chromogenic print,N/A,11.5,14.375,in,yes,yes,yes,2011,2011,"Luhring Augustine, New York.
+Acquired from the above by the Zabludowicz Collection in 2012.","tomatoes, yellow shapes, green dots, red color, abstract forms",1,001/5,original,"Tomatoes
+signed 'Elad Lassry' (on a label affixed to the reverse)
+chromogenic print, in artist's frame
+14
+3
+⁄
+8
+ x 11
+1
+⁄
+2
+in. (36.6 x 29.1cm.)
+Executed in 2011, this work is number one from an edition of five plus two artist's proofs
+
+Edition: 001/5",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0223_000(elad_lassry_tomatoes070843).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/elad-lassry-b-1977-223/315257?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1630.72,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+c11bd890-45f8-4491-aaa4-a78aa4bb490b,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 224,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,ANNETTE KELM,1975,N/A,"Espadrilles, U R MY BFF, LOL!, HOW R U?",photographs,chromogenic print,N/A,25.75,31.25,in,no,yes,yes,2013,2013,"Marc Foxx, Los Angeles.
+Acquired from the above by the Zabludowicz Collection in 2015.","espadrilles, text, pattern, flowers, colors, background",1,005/6,original,"Espadrilles, U R MY BFF, LOL!, HOW R U?
+chromogenic print
+31
+1
+⁄
+4
+ x 25
+3
+⁄
+4
+in. (79.1 x 65.6cm.)
+Executed in 2013, this work is number five from an edition of six plus two artist's proofs
+
+Edition: 005/6",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0224_000(annette_kelm_espadrilles_u_r_my_bff_lol_how_r_u070850).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/annette-kelm-b-1975-224/315260?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1639.28,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+8bf8924e-9987-4904-a159-240e092df5f3,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 225,GBP,2000,3000,N/A,N/A,2533.2,3799.79,N/A,N/A,MATT CONNORS,1973,N/A,Untitled (Black),painting,acrylic on paper,N/A,17.875,23.875,in,yes,yes,no,2014,2014,"CANADA, New York.
+Acquired from the above by the Zabludowicz Collection in 2014.","black, abstract shapes, acrylic, paper, brush strokes, monochrome, fluid forms, ink splash, irregular patterns",1,N/A,original,"Untitled (Black)
+signed and dated 'Matt Connors 2014' (on the reverse)
+acrylic on paper
+23
+7
+⁄
+8
+ x 17
+7
+⁄
+8
+in. (60.7 x 45.4cm.)
+Executed in 2014",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0225_000(matt_connors_untitled115501).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/matt-connors-b-1973-225/315262?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3217.68,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+36c01585-1048-4905-96d1-ab9077849206,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 226,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,STEVEN CLAYDON,1969,N/A,A Lark Descending (Preparations for Leda),mixed media,mixed media,91.5,91,183,cm,no,yes,yes,2008,2008,"Galerie Dennis Kimmerich, Dusseldorf. 
+Acquired from the above by the Zabludowicz Collection in 2008.","bust, sculpture, boxes, blue fabric, yellow coil, textured surfaces, abstract shapes, mixed media",1,N/A,original,"A Lark Descending (Preparations for Leda)
+mixed media
+72 x 35
+7
+⁄
+8
+ x 36in. (183 x 91 x 91.5cm.)
+Executed in 2008",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0226_000(steven_claydon_a_lark_descending070905).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/steven-claydon-b-1969-226/315266?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1639.78,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+8e2847ed-c4a1-47ef-969a-efe3acfeb27e,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 227,GBP,500,700,N/A,N/A,633.3,886.62,N/A,N/A,RYAN MCNAMARA,1979,N/A,To be titled (Bricks),mixed media,printed paper collage and spray paint on two stitched canvases,N/A,88.25,119.25,in,no,yes,no,2012,2012,"Elizabeth Dee, New York.
+Acquired from the above by the Zabludowicz Collection in 2012.","bricks, figures, collage, spray paint, canvas, graffiti, protest signs, abstract shapes, colors, expressions",1,N/A,original,"To be titled (Bricks)
+titled 'BRICKS' (on the stretcher)
+printed paper collage and spray paint on two stitched canvases
+119
+1
+⁄
+4
+ x 88
+1
+⁄
+4
+in. (303 x 224.3cm.)
+Executed in 2012",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0227_000(ryan_mcnamara_to_be_titled115516).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/ryan-mcnamara-b-1979-227/315268?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1064.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,850.0,708.3333333333334
+cb0fcd67-03e5-4c6e-9f76-f5372dac1f99,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 228,GBP,500,700,N/A,N/A,633.3,886.62,N/A,N/A,BRENDAN FOWLER,1978,N/A,"May, 2010 (Accident / The Wood That Fell On Me In Studio May 20 2010 #'s 6-8) Wall",mixed media,"archival inkjet, wooden frames, Plexiglass, screws, plastic, plaster, lumber and stain",4.625,125.75,84.625,in,no,yes,yes,2010,2010,"Untitled, New York.
+Acquired from the above by the Zabludowicz Collection in 2010.","wooden frames, photographs, studio, plaster, screws, plastic, lumber, stain, artwork presentation, installation",1,N/A,original,"May, 2010 (Accident / The Wood That Fell On Me In Studio May 20 2010 #'s 6-8) Wall
+archival inkjet, wooden frames, Plexiglass, screws, plastic, plaster, lumber and stain
+84
+5
+⁄
+8
+ x 125
+3
+⁄
+4
+ x 4
+5
+⁄
+8
+in. (214.8 x 319.5 x 11.8cm.)
+Executed in 2010",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0228_000(beatrix_fowler_may_2010_wall070935).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/brendan-fowler-b-1978-228/315269?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1064.87,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,750.0,625.0
+18f028ad-c210-4e6f-8154-8d2a369363ac,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 229,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,GERALD DAVIS,1974,N/A,Agnes,painting,oil on canvas,N/A,78,104,in,yes,yes,yes,2007,2007,"Black Dragon Society, Los Angeles.
+Acquired from the above by the Zabludowicz Collection in 2007.","woman, dog, hat, rustic landscape, yellow leaves, expression, clothing, art style, human figure",1,N/A,original,"Agnes
+signed, titled and dated 'Gerald Davis 2007 Agnes' (on the reverse)
+oil on canvas
+104 x 78in. (264.5 x 198.3cm.)
+Painted in 2007",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0229_000(gerald_davis_agnes070942).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/gerald-davis-b-1974-229/315270?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1637.89,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+82e844e5-6c3d-493e-b833-2552fea6211a,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 230,GBP,40000,60000,N/A,N/A,50663.92,75995.89,N/A,N/A,BARNABY FURNAS,1973,N/A,Rock Concert (Joy Division),mixed media,"urethane, dye, dispersed pigment and coloured pencil on linen",N/A,168,104.125,in,yes,yes,yes,2007,2007,"Modern Art, London.
+Acquired from the above by the Zabludowicz Collection in 2010.","rock concert, band, lights, musicians, instruments, stage, audience, performance, sound equipment, commercial logos",1,N/A,original,"Rock Concert (Joy Division)
+signed 'BARNABY FURNAS' (on the overlap); signed, titled, inscribed and dated 'UNTITLED (JOY DIVISION) BARNABY FURNAS 12/10/07' (on the reverse)
+urethane, dye, dispersed pigment and coloured pencil on linen
+104 x 168
+1
+⁄
+8
+in (264.5 x 427cm.)
+Executed in 2007",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0230_000(barnaby_furnas_rock_concert070948).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/barnaby-furnas-b-1973-230/315271?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,63801.27,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,68250.0,56875.0
+a4704f14-d911-47e2-8c8c-583255c749ac,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 231,GBP,3000,5000,N/A,N/A,3799.79,6332.99,N/A,N/A,JOSEPHINE MECKSEPER,1964,N/A,Untitled (Angel),mixed media,"chrome paint on acrylic resin, metal stand, acrylic on canvas, glass dome and foam on mirrored pedestal",12.5,12.5,47.25,in,no,yes,no,2010,2010,"BFAMI Auction Gala Dinner, London, 29 January 2019, lot 7 (donated by the artist).
+Acquired at the above sale by the Zabludowicz Collection.","angel, glass dome, metal stand, foam, mirrored pedestal",1,N/A,original,"Untitled (Angel)
+chrome paint on acrylic resin, metal stand, acrylic on canvas, glass dome and foam on mirrored pedastal, in five parts
+overall: 47
+1
+⁄
+4
+ x 12
+1
+⁄
+2
+ x 12
+1
+⁄
+2
+in. (120 x 31.8 x 31.8cm.)
+Executed in 2010",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0231_000(josephine_meckseper_untitled070955).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/josephine-meckseper-b-1964-231/315274?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4816.07,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,5200.0,4333.333333333334
+6d2dde9d-ac48-4829-8592-da19adf5e5d0,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 232,GBP,2000,3000,N/A,N/A,2533.2,3799.79,N/A,N/A,ANNIE LAPIN,1978,N/A,Poke,painting,oil and casein on panel,N/A,47.625,95.5,in,yes,yes,yes,2007,2007,"Honor Fraser, Los Angeles.
+Acquired from the above by the Zabludowicz Collection in 2011.","landscape, women, figures, trees, sunset, abstract shapes, painting, performance, art studio, orange",1,N/A,original,"Poke
+each: signed and dated 'Annie Lapin 2007' (on a board adhered to the reverse)
+oil and casein on panel, in three parts
+(i) (iii) 95
+1
+⁄
+2
+ x 47
+5
+⁄
+8
+in. (242.5 x 121cm.)
+(ii) 84 x 47
+5
+⁄
+8
+in. (213.4 x 121cm.)
+Executed in 2007",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0232_000(annie_lapin_poke070959).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/annie-lapin-b-1978-232/315278?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3276.81,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+eeb1c019-737a-47fd-8d63-16ca6cf0b139,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 233,GBP,2000,3000,N/A,N/A,2533.2,3799.79,N/A,N/A,MICHAEL WILLIAMS,1978,N/A,Final Whatever,painting,oil and airbrush on canvas,N/A,55,69,in,yes,yes,yes,2013,2013,"CANADA, New York.
+Acquired from the above by the Zabludowicz Collection in 2013.","computer, desk, figure, animal, shoes, chair, tabletop, objects, workspace, outline",1,N/A,original,"Final Whatever 
+signed, titled and dated 'FINAL WHATEVER 2013 Michael Williams' (on the reverse)
+oil and airbrush on canvas
+69 x 55in. (175 x 140cm.)
+Executed in 2013",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0233_000(michael_williams_final_whatever071005).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/michael-williams-b-1978-233/315279?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3278.01,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+3d87d588-f914-45b1-b06f-e863392496dc,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 234,GBP,30000,50000,N/A,N/A,37997.94,63329.9,N/A,N/A,LI SONGSONG,1973,N/A,White Shirt,painting,oil on canvas,N/A,78.125,63,in,yes,yes,yes,2007,2007,"Archeus, London. 
+Acquired from the above by the Zabludowicz Collection in 2008.","portrait, man, microphone, text, speech, abstract, color blocks, political imagery, canvas, oil painting",1,N/A,original,"White Shirt
+each: signed, signed in Chinese and dated 'Li SongSong 2007' (on the reverse)
+oil on canvas, in four parts
+(i) 63 x 78
+1
+⁄
+8
+in. (160 x 200.3cm.)
+(ii) 39
+3
+⁄
+8
+ x 94
+3
+⁄
+8
+in. (100 x 239.7cm.)
+(iii) 59
+1
+⁄
+8
+ x 86
+7
+⁄
+8
+in. (150.2 x 220.7cm.)
+(iv) 39
+3
+⁄
+8
+ x 94
+5
+⁄
+8
+in. (100 x 240.2cm.)
+Painted in 2007",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0234_000(li_songsong_white_shirt071012).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/li-songsong-b-1973-234/315281?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,48139.06,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,50700.0,42250.0
+e676f10b-b589-4f89-ba82-4b739b3e97f0,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 235,GBP,20000,30000,N/A,N/A,25331.96,37997.94,N/A,N/A,NATE LOWMAN,1979,N/A,Untitled,mixed media,"newspaper collage, glue and plastic on canvas",N/A,48,60.25,in,yes,yes,no,2010,2010,"OHWOW Gallery, London.
+Acquired from the above by the Zabludowicz Collection in 2010.","collage, newspaper, plastic, canvas, abstract shape, figures, colors, layered composition",1,N/A,original,"Untitled
+signed 'Nate Lowman' (on the stretcher)
+newspaper collage, glue and plastic on canvas
+60
+1
+⁄
+4
+ x 48in. (153 x 122cm.)
+Executed in 2010",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0235_000(nate_lowman_untitled071017).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/nate-lowman-b-1979-235/315283?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,32781.09,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,31900.0,26583.333333333336
+9ba26ece-75c9-4740-80e7-b3a2e290f94f,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 236,GBP,10000,15000,N/A,N/A,12665.98,18998.97,N/A,N/A,JENNIFER ALLORA & GUILLERMO CALZADILLA,1974,N/A,Intermission (Halloween Iraq 2),prints,wood cut print on muslin,N/A,165.375,119.75,in,no,yes,yes,2008,2008,"Lisson Gallery, London.
+Acquired from the above by the Zabludowicz Collection in 2010.","military, men, donkeys, masks, soldiers, monochrome, action, war, movement, landscape",1,003/3,original,"JENNIFER ALLORA (B. 1974) & GUILLERMO CALZADILLA (B. 1971)
+Intermission (Halloween Iraq 2)
+wood cut print on muslin
+119
+3
+⁄
+4
+ x 165
+3
+⁄
+8
+in. (304 x 420cm.)
+Executed in 2008, this work is number three from an edition of three
+
+Edition: 003/3",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0236_000(jennifer_allora_amp_guillermo_calzadilla_intermission071025).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/jennifer-allora-b-1974-guillermo-calzadilla-b-1971-236/315285?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16380.74,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,16500.0,13750.0
+6dd5a11e-94e6-4db8-8636-56d837975ebf,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 237,GBP,4000,6000,N/A,N/A,5066.39,7599.59,N/A,N/A,LOUISA GAGLIARDI,1989,N/A,A door closes,mixed media,"nail polish, gel medium and ink on PVC on canvas",N/A,48,45.25,in,no,yes,yes,2017,2017,"rodolphe janssen, Brussels.
+Acquired from the above by the Zabludowicz Collection in 2017.","figures, landscape, moon, water, plants, night",1,N/A,original,"A door closes
+nail polish, gel medium and ink on PVC on canvas
+45
+1
+⁄
+4
+ x 48in. (115 x 122cm.)
+Executed in 2017",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0237_000(louisa_gagliardi_a_door_closes071032).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/louisa-gagliardi-b-1989-237/315288?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6319.48,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+995bd394-c7c3-499d-b1c6-82771d9d02a1,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 238,GBP,8000,12000,N/A,N/A,10132.78,15199.18,N/A,N/A,HARMONY KORINE,1973,N/A,Fidget Malt Crew,mixed media,"house paint, acrylic and oil on safety blanket",N/A,62.125,67.875,in,yes,yes,yes,2014,2014,"Gagosian Gallery, New York.
+Acquired from the above by the Zabludowicz Collection in 2015.","figures, safety blanket, abstract, blue, red, green, texture",1,N/A,original,"Fidget Malt Crew 
+signed, titled and dated 'Harmony Korine Fidget Malt Crew 2014' (on the stretcher)
+house paint, acrylic and oil on safety blanket
+67
+7
+⁄
+8
+ x 62
+1
+⁄
+8
+in. (172.8 x 157.7cm.)
+Executed in 2014",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0238_000(harmony_korine_fidget_malt_crew115552).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/harmony-korine-b-1973-238/315289?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,12769.43,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,13250.0,11041.666666666668
+aa6345b3-136a-4e49-bf1d-216aee918c63,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 239,GBP,2000,3000,N/A,N/A,2533.2,3799.79,N/A,N/A,ROSSON CROW,1982,N/A,"Bowery Station, 1982",painting,"oil, acrylic and enamel on canvas",N/A,288,108,in,yes,yes,yes,2010,2010,"Jeffrey Deitch Projects, New York.
+Acquired from the above by the Zabludowicz Collection in 2010.","subway station, graffiti, urban landscape, figures, signage, pink, red, black, diagonal lines, abstraction",1,N/A,original,"Bowery Station, 1982
+each: signed, inscribed and dated 'Rosson Crow 2010' (on the reverse)
+oil, acrylic and enamel on canvas, in two parts
+overall: 108 x 288in. (274.3 x 731.5cm.)
+Executed in 2010",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0239_000(rosson_crow_bowery_station_1982071049).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/rosson-crow-b-1982-239/315290?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3278.14,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+44bd5221-51ec-4724-a5ee-99246b84923a,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 240,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,HONG SUNG DO,1953,N/A,Tourist (Tate Gallery),photographs,"chromogenic print, printed paper, screws and Plexi mounted on aluminium",N/A,88.375,58.25,in,yes,yes,yes,2008,2008,"Archeus, London.
+Acquired from the above by the Zabludowicz Collection in 2008.","gallery, people, sculpture, exhibition, corridor, wall, artworks, signage",1,N/A,original,"Tourist (Tate Gallery)
+signed, signed in Korean, titled and dated '2008 Tourist Hon Sung do' (on the reverse)
+chromogenic print, printed paper, screws and Plexi mounted on aluminium
+58
+1
+⁄
+4
+ x 88
+3
+⁄
+8
+in. (148 x 224.4cm.)
+Exexuted in 2008, this work is unique",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0240_000(hong_sung_do_tourist071109).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/hong-sung-do-b-1953-240/315294?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1630.72,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+dbf86c07-17c3-46b7-ba54-b76f81e0bbd4,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 241,GBP,4000,6000,N/A,N/A,5066.39,7599.59,N/A,N/A,KON TRUBKOVICH,1979,N/A,Untitled,painting,oil on canvas,N/A,68.125,50.125,in,no,yes,no,2007,2007,"Marianne Boesky Gallery, New York.
+Acquired from the above by the Zabludowicz Collection in 2007.","abstract, silhouette, blue, black, lines, shape, shadow, composition, texture, contrast",1,N/A,original,"Untitled
+oil on canvas
+50
+1
+⁄
+8
+ x 68
+1
+⁄
+8
+in. (127.3 x 172.9cm.)
+Painted in 2007",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0241_000(kon_trubkovich_untitled071115).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/kon-trubkovich-b-1979-241/315295?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6317.89,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,6500.0,5416.666666666667
+fc26f370-4e62-4c0e-9eca-b82dbd76d1e4,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 242,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,HONG SUNG DO,1953,N/A,Tourist (Venice),photographs,"chromogenic print, printed paper, screws and Plexi mounted on aluminium",N/A,88.25,58.125,in,yes,yes,yes,2008,2008,"Archeus, London.
+Acquired from the above by the Zabludowicz Collection in 2008.","archway, alley, buildings, clothes, laundry, Venetian architecture, store, man, brick wall, window",1,N/A,original,"Tourist (Venice)
+signed, signed in Korean, titled and dated '2008 Tourist Hong Sung do' (on the reverse)
+chromogenic print, printed paper, screws and Plexi mounted on aluminium
+58
+1
+⁄
+8
+ x 88
+1
+⁄
+4
+in. (147.6 x 224.2cm.)
+Executed in 2008, this work is unique",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0242_000(hong_sung_do_tourist071123).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/hong-sung-do-b-1953-242/315298?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1630.72,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335
+a67f3335-86d7-48ab-bbef-7ba95cf54c1a,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 243,GBP,2000,3000,N/A,N/A,2533.2,3799.79,N/A,N/A,ROBERT BECK,1958,N/A,"Untitled (""Adolescents: Psychoanalytic Approach to Problems and Therapy"", Edited by Sandor Lorand and Henry I. Schneer M.D. / ""Schizophrenic Art: Its Meaning in Psychotherapy"" by Margaret Naumberg)",mixed media,"metallic acrylic paint, carbon, charcoal, graphite, ink, latent fingerprint powder on paper",N/A,9,11.375,in,no,yes,no,2001,2001,"Stephen Friedman Gallery, London.
+Acquired from the above by the Zabludowicz Collection in 2005.","heads, figures, symbols, phallic imagery, double-faced figure, human form, abstract shapes, patterns, psychological themes, graphite",1,N/A,original,"Untitled (""Adolescents: Psychoanalytic Approach to Problems and Therapy"", Edited by Sandor Lorand and Henry I. Schneer M.D. / ""Schizophrenic Art: Its Meaning in Psychotherapy"" by Margaret Naumberg)
+metallic acrylic paint, carbon, charcoal, graphite, ink, latent fingerprint powder on paper
+11
+3
+⁄
+8
+ x 9in. (29 x 23cm.)
+Executed in 2001/2005",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0243_000(robert_beck_untitled071129).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/robert-beck-b-1958-243/315297?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3217.89,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,3200.0,2666.666666666667
+cd69d0a4-7c2d-447b-8cdd-954f9d527f76,Artwork,Christies,25021,2024-06-18,London,Beyond Ordinary - Then. Now. Next. Works from the Zabludowicz Collection,https://www.christies.com/en/auction/beyond-ordinary-then-now-next-works-from-the-zabludowicz-collection-online-sale-25021-cks/,Lot 244,GBP,1000,2000,N/A,N/A,1266.6,2533.2,N/A,N/A,HONG SUNG DO,1953,N/A,Tourist (Zen Garden),mixed media,"chromogenic print, printed paper, screws, Plexi, aluminium",N/A,88.25,58.5,in,yes,yes,yes,2008,2008,"Archeus, London.
+Acquired from the above by the Zabludowicz Collection in 2008.","zen garden, rocks, gravel, trees, wooden structure, landscaping, nature, tranquility",1,N/A,original,"Tourist (Zen Garden)
+signed, signed in Korean, titled and dated '2008 Tourist Hong Sung do' (on the reverse)
+chromogenic print, printed paper, screws and Plexi mounted on aluminium
+58
+1
+⁄
+2
+ x 88
+1
+⁄
+4
+in. (148.7 x 224.2cm.)
+Executed in 2008, this work is unique",https://www.christies.com/img/LotImages/2026/CKS/2026_CKS_25021_0244_000(hong_sung_do_tourist071146).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/beyond-ordinary-then-now-next-works-zabludowicz-collection/hong-sung-do-b-1953-244/315299?ldp_breadcrumb=back,7394.3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1637.89,gpt-4.1-mini,artwork-Auction-new-loss-gemma3-4B-text-pricer:latest,1900.0,1583.3333333333335

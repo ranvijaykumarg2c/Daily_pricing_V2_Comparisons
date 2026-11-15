@@ -1,0 +1,772 @@
+ID,asset_type,auction_house,sale_id,sale_date,location,auction_title,auction_url,lot_number,currency,ah_low_estimate,ah_high_estimate,ah_bp_price,ah_price,ah_low_estimate_usd,ah_high_estimate_usd,ah_bp_price_usd,ah_price_usd,product_name,brand_and_model_identifiers,maker_signatures_and_hallmarks,primary_metal_specification,total_item_weight_measurement,ring_size_measurement,jewelry_category_and_subtypes,necklace_length_measurement,bracelet_length_measurement,earring_length_measurement,pendant_length_measurement,chain_length_measurement,gemstone_count,diamond_count,pearl_count,primary_gemstone_specification,diamond_set_specification,pearl_specification,design_style_and_motif,enamel_color,inclusions_and_certification,country_of_origin,item_count,description_block,image_url,lot_url,GSPC,IXIC,DJI,VIX,BZ_F,FVX,FTSE,today_yr_month,pricing_model,barker_price_premium_usd,barker_price_hammer_usd
+a814bef3-490e-4594-ad6f-01b6d7ca96f1,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 1,USD,8000,10000,None,None,8000,10000,None,None,DAVID WEBB DIAMOND AND ENAMEL HOOP EARRINGS,"{'brand': 'David Webb', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Webb,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",33.5,N/A,"Earrings, Hoop",N/A,N/A,3.1,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': 'N/A', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,black,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'area of enamel deficiency to one earring'}",N/A,1,"DAVID WEBB DIAMOND AND ENAMEL HOOP EARRINGS | Round diamonds, black enamel, 18k yellow gold, signed Webb, area of enamel deficiency to one earring
+Size/Dimensions: 3.1 cm (1
+1
+⁄
+4
+ in)
+Gross Weight: 33.5 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0001_000(david_webb_diamond_and_enamel_hoop_earrings020243).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/david-webb-diamond-enamel-hoop-earrings-1/291902?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,2026-03,gpt-4.1-mini,9200.0,7666.666666666667
+8d381f71-b074-4332-8dee-c4638a323ef0,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 2,USD,15000,20000,None,None,15000,20000,None,None,"DAVID WEBB MULTI-GEM, DIAMOND AND ENAMEL ‘LIPIZZANER HORSE’ BROOCH","{'brand': 'David Webb', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Webb,"{'metal_type': '18k yellow gold and platinum', 'purity': 'N/A', 'color': 'N/A'}",55.7,N/A,Brooch,N/A,N/A,N/A,N/A,N/A,N/A,150,N/A,"{'type': 'sapphire, emerald, ruby', 'carat': 'N/A', 'shape': 'pear and round cabochon', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '6.00 – 6.50', 'count': '150', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,black,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"DAVID WEBB MULTI-GEM, DIAMOND AND ENAMEL ‘LIPIZZANER HORSE’ BROOCH | Pear and round sapphires, round and pear cabochon emeralds, round rubies and diamonds, black enamel, 18k yellow gold and platinum, signed Webb, blue David Webb pouch
+Diamonds: approximately 150 round with an approximate total weight of 6.00 – 6.50 carats
+Size/Dimensions: 7.9 x 3.8 cm (3
+1
+⁄
+8
+ x 1
+1
+⁄
+2
+ in)
+Gross Weight: 55.7 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0002_000(david_webb_multi-gem_diamond_and_enamel_8216lipizzaner_horse8217_brooc020307).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/david-webb-multi-gem-diamond-enamel-lipizzaner-horse-brooch-2/291903?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+cb9f4a9f-3651-433b-9e17-2059df8baf13,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 3,USD,12000,18000,None,None,12000,18000,None,None,MARINA B DIAMOND AND ONYX 'ONDA' EARRINGS,"{'brand': 'Marina B', 'collection': 'N/A', 'model': 'Onda', 'reference': 'N/A'}","signed Marina B, numbered","{'metal_type': '18k yellow and blackened metal', 'purity': '18k', 'color': 'yellow and blackened'}",79.5,N/A,Earrings,N/A,N/A,5.7,N/A,N/A,332,332,N/A,"{'type': 'Diamond', 'carat': '9.50 - 10.50', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '9.50 - 10.50', 'count': '332', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"MARINA B DIAMOND AND ONYX 'ONDA' EARRINGS | Round diamonds, onyx plaques, 18k yellow and blackened metal, 1988, signed Marina B, numbered, with mechanism on earring backs to wear two ways and pendants detachable
+Diamonds: approximately 332 round with an approximate total weight of 9.50 - 10.50 carats
+Size/Dimensions: 5.7 cm (2
+1
+⁄
+4
+ in)
+Gross Weight: 79.5 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0003_000(marina_b_diamond_and_onyx_onda_earrings020331).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/marina-b-diamond-onyx-onda-earrings-3/291905?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+4f3dcbf3-e563-45eb-8a3f-d03151cfb409,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 4,USD,15000,20000,None,None,15000,20000,None,None,DAVID WEBB DIAMOND AND ENAMEL 'TREFOIL' CUFF BRACELET,"{'brand': 'David Webb', 'collection': 'N/A', 'model': 'Trefoil', 'reference': 'N/A'}","signed David Webb, numbered","{'metal_type': '18k yellow gold and platinum', 'purity': 'N/A', 'color': 'N/A'}",142.2,N/A,Bracelet,N/A,15.24,N/A,N/A,N/A,101,101,N/A,"{'type': 'Diamond', 'carat': '6.80 - 7.20', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '6.80 - 7.20', 'count': '101', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,Black,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"DAVIB WEBB DIAMOND AND ENAMEL 'TREFOIL' CUFF BRACELET | Round diamonds, black enamel, 18k yellow gold and platinum, signed David Webb, numbered
+Diamonds: approximately 101 round with an approximate total weight of 6.80 - 7.20 carats
+Size/Dimensions: inner circumference (6 in)
+Gross Weight: 142.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0004_000(davib_webb_diamond_and_enamel_trefoil_cuff_bracelet020355).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/davib-webb-diamond-enamel-trefoil-cuff-bracelet-4/291904?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+11cdab5f-ce93-4ed6-b4c4-c8af7d639e11,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 5,USD,30000,50000,None,None,30000,50000,None,None,"Pair of Cartier Diamond, Emerald and Onyx 'Panthère' Brooches","{'brand': 'Cartier', 'collection': 'Panthère', 'model': 'N/A', 'reference': 'N/A'}","Signed Cartier, maker's mark (Pierre Brun), French marks","{'metal_type': '18k white and blackened gold', 'purity': '18k', 'color': 'white and black'}",71.3,N/A,Brooches,40.0,N/A,N/A,N/A,40.0,450,450,N/A,"{'type': 'Emerald', 'carat': 'N/A', 'shape': 'Pear-shaped', 'color': 'Green', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '6.00 - 6.50', 'count': '450', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Panther motif,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,2,"PAIR OF CARTIER DIAMOND, EMERALD AND ONYX 'PANTHÈRE' BROOCHES | Designed as two panthers, round diamonds, onyx plaques, pear-shaped emeralds, 18k white and blackened gold (French marks), each signed Cartier, each with maker's mark (Pierre Brun), chain detachable and diamond panther brooch may be worn separately
+Diamonds: approximately 450 round with approximate total weight of 6.00 - 6.50 carats
+Size/Dimensions: diamond panther 6.3 x 2.5 cm (2
+1
+⁄
+2
+ x 1 in); blackened gold panther 5 x 1.9 cm (2 x 
+3
+⁄
+4
+ in); chain 40.0 cm (15
+3
+⁄
+4
+ in)
+Gross Weight: 71.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0005_000(pair_of_cartier_diamond_emerald_and_onyx_panthere_brooches020419).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/pair-cartier-diamond-emerald-onyx-panthere-brooches-5/291906?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+99828ae4-3eb8-4331-a78c-542b2aca3802,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 6,USD,20000,30000,None,None,20000,30000,None,None,CARTIER DIAMOND EARRINGS,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, numbered","{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",10.3,N/A,Earrings,N/A,N/A,5.0,N/A,N/A,24,24,N/A,"{'type': 'diamond', 'carat': '6.20 - 7.20', 'shape': 'cushion and old-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '6.20 - 7.20', 'count': '24', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'cushion and old-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER DIAMOND EARRINGS | Cushion and old-cut diamonds, platinum, signed Cartier, numbered, red Cartier case
+Diamonds: 2 largest cushion-shaped with approximate total weight of 4.00 - 4.50 carats, remaining 2 cushion-shaped with approximate total weight of 1.50 - 1.75 carats, 20 old-cut with approximate total weight of 0.70 - 0.90 carat
+Total diamond weight approximately 6.20 - 7.20 carats
+Size/Dimensions: 5.0 cm (1
+7
+⁄
+8
+ in)
+Gross Weight: 10.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0006_000(cartier_diamond_earrings020437).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-earrings-6/291907?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+6792ebab-d8ad-4a77-ad53-cd61d32b763d,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 7,USD,12000,18000,None,None,12000,18000,None,None,Cartier Onyx and Diamond 'Lovebird' Clip-Brooch,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'Lovebird', 'reference': 'N/A'}","signed Cartier, maker's mark, numbered","{'metal_type': 'platinum and 18k white gold', 'purity': 'N/A', 'color': 'N/A'}",15.8,N/A,Brooch,N/A,N/A,N/A,3.8,N/A,173,173,N/A,"{'type': 'Onyx', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '2.50 - 2.75', 'count': '173', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,black,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"CARTIER ONYX AND DIAMOND 'LOVEBIRD' CLIP-BROOCH | Designed as two lovebirds, onyx carved as a branch, black enamel, round diamonds, platinum and 18k white gold (French marks), signed Cartier, maker's mark, numbered
+Diamonds: approximately 173 round with approximate total weight of 2.50 - 2.75 carats
+Size/Dimensions: 3.8 x 1.9 cm (1
+1
+⁄
+2
+ x 
+3
+⁄
+4
+ in)
+Gross Weight: 15.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0007_000(cartier_onyx_and_diamond_lovebird_clip-brooch020500).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-onyx-diamond-lovebird-clip-brooch-7/291908?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+e66885fd-e2f7-4b30-a0b7-c760f837bb9b,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 8,USD,12000,18000,None,None,12000,18000,None,None,CARTIER DIAMOND RING,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, maker's mark (Alain Foubert), numbered","{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",48.6,US size 6,ring,N/A,N/A,N/A,N/A,N/A,250,250,N/A,"{'type': 'diamond', 'carat': '4.00 - 4.50', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '4.00 - 4.50', 'count': '250', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER DIAMOND RING | Round diamonds, platinum (French mark), signed Cartier, maker's mark (Alain Foubert), numbered
+Diamonds: approximately 250 round with approximate total weight of 4.00 - 4.50 carats
+Size/Dimensions: US ring size 6
+Gross Weight: 48.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0008_000(cartier_diamond_ring112243).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-ring-8/291909?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+34c8fbdc-503d-4796-98b2-c43c5cc1c08c,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 9,USD,7000,9000,None,None,7000,9000,None,None,CARTIER DIAMOND AND GOLD EARRINGS,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, numbered","{'metal_type': '18k yellow gold and platinum', 'purity': '18k', 'color': 'yellow'}",17.3,N/A,Earrings,N/A,N/A,2.7,N/A,N/A,18,18,N/A,"{'type': 'diamond', 'carat': '1.25 - 1.50', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '1.25 - 1.50', 'count': '18', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1955,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER DIAMOND AND GOLD EARRINGS | Round diamonds, 18k yellow gold and platinum, circa 1955, signed Cartier, numbered
+Diamonds: 18 round with approximate total weight of 1.25 - 1.50 carats
+Size/Dimensions: 2.7 x 1.9 cm (1 x 
+3
+⁄
+4
+ in)
+Gross Weight: 17.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0009_000(cartier_diamond_and_gold_earrings112316).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-gold-earrings-9/291913?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,8500.0,7083.333333333334
+84781285-43fd-49cd-b121-636ade4a7163,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 10,USD,15000,20000,None,None,15000,20000,None,None,"CARTIER GOLD, EMERALD AND DIAMOND NECKLACE","{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier Inc, Made in France, maker's mark (André Vassort, partially indistinct)","{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",102.9,N/A,Necklace,39.4,N/A,N/A,N/A,N/A,11,11,N/A,"{'type': 'Emerald', 'carat': 'N/A', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '1.00 - 1.25', 'count': '11', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1960,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"CARTIER GOLD, EMERALD AND DIAMOND NECKLACE | Round emeralds and diamonds, 18k textured yellow gold (French export marks) and platinum, circa 1960, signed Cartier Inc, Made in France, maker's mark (André Vassort, partially indistinct) numbered, red Cartier case
+Diamonds: 11 round with approximate total weight of 1.00 - 1.25 carats
+Size/Dimensions: 39.4 cm (15
+1
+⁄
+2
+ in)
+Gross Weight: 102.9 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0010_000(cartier_gold_emerald_and_diamond_necklace044057).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-gold-emerald-diamond-necklace-10/291912?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+888576af-88dc-438d-8adc-df777028a225,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 11,USD,15000,20000,None,None,15000,20000,None,None,CARTIER GOLD BRACELET,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, France, maker's mark (Georges Lenfant), numbered","{'metal_type': 'yellow gold', 'purity': '18k', 'color': 'yellow'}",104.5,N/A,bracelet,N/A,19.1,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'N/A', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1975,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"CARTIER GOLD BRACELET | 18k yellow gold (French marks), circa 1975, signed Cartier, France, maker's mark (Georges Lenfant), numbered
+Size/Dimensions: 19.1 x 2.7 cm (7
+1
+⁄
+2
+ x 1
+1
+⁄
+8
+ in)
+Gross Weight: 104.5 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0011_000(cartier_gold_bracelet020548).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-gold-bracelet-11/291910?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+094130a3-b6ca-4264-ba4f-abc148eb01c2,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 12,USD,8000,12000,None,None,8000,12000,None,None,TIFFANY & CO. EMERALD AND DIAMOND FLOWER CLIP-BROOCH,"{'brand': 'Tiffany & Co.', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Tiffany & Co.,"{'metal_type': '14k yellow gold and platinum', 'purity': 'N/A', 'color': 'N/A'}",38.5,N/A,Brooch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'Emerald', 'carat': 'N/A', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}","Circa 1950, Flower",N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"TIFFANY & CO. EMERALD AND DIAMOND FLOWER CLIP-BROOCH | Designed as a flower, round emeralds and diamonds, 14k yellow gold and platinum, circa 1950, signed Tiffany & Co. 
+Size/Dimensions: 5.0 x 5.0 cm (2 x 2 in)
+Gross Weight: 38.5 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0012_000(tiffany_amp_co_emerald_and_diamond_flower_clip-brooch020604).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-emerald-diamond-flower-clip-brooch-12/291911?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+43271787-b935-4b4f-9848-0c82431c0b71,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 13,USD,8000,12000,None,None,8000,12000,None,None,"Tiffany & Co. Enamel, Emerald and Diamond Flower Brooch","{'brand': 'Tiffany & Co.', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",Signed Tiffany & Co.,"{'metal_type': '18k yellow gold and platinum', 'purity': 'N/A', 'color': 'N/A'}",44.2,N/A,Brooch,N/A,N/A,N/A,N/A,N/A,3,N/A,N/A,"{'type': 'Emerald', 'carat': 'N/A', 'shape': 'Cabochon', 'color': 'Green', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Flower,Green,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"TIFFANY & CO. ENAMEL, EMERALD AND DIAMOND FLOWER BROOCH | Designed as flowers, green enamel, round emerald cabochons, round diamonds, 18k yellow gold and platinum, circa 1965, signed Tiffany & Co. 
+Size/Dimensions: 7.0 x 4.1 cm (2
+3
+⁄
+4
+ x 1
+5
+⁄
+8
+ in)
+Gross Weight: 44.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0013_000(tiffany_amp_co_enamel_emerald_and_diamond_flower_brooch112324).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-enamel-emerald-diamond-flower-brooch-13/291914?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,13500.0,11250.0
+665f3158-4d4d-49a1-bc0a-409e1d023ec0,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 14,USD,20000,30000,None,None,20000,30000,None,None,"Tiffany & Co., Jean Schlumberger Gold and Diamond Feather Bracelet","{'brand': 'Tiffany & Co.', 'collection': 'Jean Schlumberger', 'model': 'Feather Bracelet', 'reference': 'N/A'}","Signed Tiffany, Schlumberger, Made in France (partially indistinct)","{'metal_type': '18k yellow gold and platinum', 'purity': '18k', 'color': 'yellow'}",80.1,N/A,Bracelet,N/A,15.3,N/A,N/A,N/A,72,72,N/A,"{'type': 'Diamond', 'carat': '1.30 - 1.50', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '1.30 - 1.50', 'count': '72', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}","Feather design, circa 1970",N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"TIFFANY & CO., JEAN SCHLUMBERGER GOLD AND DIAMOND FEATHER BRACELET | Designed as a feather, round diamonds, 18k yellow gold and platinum (French marks), circa 1970, signed Tiffany, Schlumberger, Made in France (partially indistinct), numbered
+Diamonds: 72 round with approximate total weight of 1.30 - 1.50 carats
+Size/Dimensions: inner continuous circumference 15.3 cm (6.0 in); inner diameter 5.3 cm (2
+1
+⁄
+8
+ in)
+Gross Weight: 80.1 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0014_000(tiffany_amp_co_jean_schlumberger_gold_and_diamond_feather_bracelet112332).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-jean-schlumberger-gold-diamond-feather-bracelet-14/291915?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+f0f03fd0-3d16-4bfd-a978-25b96a2e75ea,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 15,USD,12000,18000,None,None,12000,18000,None,None,Dolphin Brooch,"{'brand': 'Tiffany & Co.', 'collection': 'Jean Schlumberger', 'model': 'N/A', 'reference': 'N/A'}","Signed Tiffany & Co., Schlumberger, French marks","{'metal_type': '18k yellow gold', 'purity': 'N/A', 'color': 'yellow'}",25.0,N/A,Brooch,N/A,N/A,N/A,5.8,N/A,N/A,N/A,N/A,"{'type': 'Peridot, Turquoise, Ruby', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"TIFFANY & CO., JEAN SCHLUMBERGER PERIDOT, TURQUOISE AND RUBY 'DOLPHIN' BROOCH | Designed as a dolphin, round peridots and turquoise cabochons, rose-cut rubies, 18k yellow gold (French marks), circa 1960, signed Tiffany & Co., Schlumberger
+Size/Dimensions: 5.8 x 4.4 cm (2
+1
+⁄
+4
+ x 1
+3
+⁄
+4
+ in)
+Gross Weight: 25.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0015_000(tiffany_amp_co_jean_schlumberger_peridot_turquoise_and_ruby_dolphin_br111205).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-jean-schlumberger-peridot-turquoise-ruby-dolphin-brooch-15/291916?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+059405bc-61aa-491f-a8a1-3c0aa455bdf1,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 16,USD,20000,30000,None,None,20000,30000,None,None,Jean Schlumberger Pair of Peridot and Ruby Thistle Brooches,"{'brand': 'Tiffany & Co.', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","Tiffany, Schlumberger","{'metal_type': 'yellow gold and platinum', 'purity': 'N/A', 'color': 'N/A'}",53.8,N/A,Brooches,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'peridot and ruby', 'carat': 'N/A', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,2,"TIFFANY & CO., JEAN SCHLUMBERGER PAIR OF PERIDOT AND RUBY THISTLE BROOCHES | Each designed as a thistle, round peridots, round rubies and ruby cabochons, yellow gold and platinum, circa 1965, each signed Tiffany, Schlumberger 
+Size/Dimensions: each 5.4 x 4.4 cm (2
+1
+⁄
+8
+ x 1
+3
+⁄
+4
+ in)
+Gross Weight: 53.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0016_000(tiffany_amp_co_jean_schlumberger_pair_of_peridot_and_ruby_thistle_broo020706).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-jean-schlumberger-pair-peridot-ruby-thistle-brooches-16/291917?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,28000.0,23333.333333333336
+832bbbf7-6b5d-4640-90ea-fbdcccd95d8a,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 17,USD,12000,18000,None,None,12000,18000,None,None,"Set of Ruby, Diamond and Gold Jewelry","{'brand': 'Pierre Brun', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","French marks, faint on bracelet","{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",203.2,N/A,Jewelry Set,36.8,19.1,N/A,N/A,N/A,N/A,44,N/A,"{'type': 'Ruby', 'carat': '7.00 - 8.00 (necklace), 14.00 - 15.00 (bracelet)', 'shape': 'Oval cabochon', 'color': 'Red', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '4.35 - 4.90', 'count': '44', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'Round'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Circa 1965,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,2,"SET OF RUBY, DIAMOND AND GOLD JEWELRY | Oval cabochon rubies, round diamonds, 18k yellow gold (French marks, faint on bracelet), circa 1965, maker's mark (Pierre Brun)
+Diamonds (necklace): 20 round with approximate total weight of 2.25 - 2.50 carats
+Diamonds (bracelet): 24 round with approximate total weight of 2.10 - 2.40 carats
+Rubies (necklace): 10 oval cabochons with approximate total weight of 7.00 - 8.00 carats
+Rubies (bracelet): 21 oval cabochons with approximate total weight of 14.00 - 15.00 carats
+Size/Dimensions: necklace 36.8 x 2.5 cm (14
+1
+⁄
+2
+ x 1 in); bracelet 19.1 x 2.5 cm (7
+1
+⁄
+2
+ x 1 in)
+Gross Weight: 203.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0017_000(set_of_ruby_diamond_and_gold_jewelry020746).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/set-ruby-diamond-gold-jewelry-17/291918?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+6f1da8ea-a2a5-4a9a-8697-e6e83123a580,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 18,USD,20000,30000,None,None,20000,30000,None,None,RUBY AND DIAMOND BROOCH,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",French mark,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",43.0,N/A,Brooch,N/A,N/A,N/A,N/A,N/A,203,202,N/A,"{'type': 'Ruby', 'carat': '34.00 - 36.00', 'shape': 'Oval cabochon', 'color': 'N/A', 'clarity': 'N/A', 'measurements': '8.8 x 6.3 cm'}","{'total_carat': '5.00 - 5.20', 'count': '202', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'AGL', 'report_number': '1152576', 'inclusions_note': 'Burma, heat enhancement: none'}",N/A,1,"RUBY AND DIAMOND BROOCH | Oval cabochon ruby, round diamonds, 18k yellow gold (French mark)
+AGL, 2025, report no. 1152576: Burma, heat enhancement: none
+Ruby: with an approximate weight of 34.00 - 36.00 carats
+Diamonds: approximately 202 round with an approximate total weight of 5.00 - 5.20 carats
+Size/Dimensions: 8.8 x 6.3 cm (3
+1
+⁄
+2
+ x 2
+1
+⁄
+2
+ in)
+Gross Weight: 43.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0018_000(ruby_and_diamond_brooch040852).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/ruby-diamond-brooch-18/291919?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+63b83d18-434c-4576-8e11-ac699f0db3ee,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 19,USD,12000,18000,None,None,12000,18000,None,None,"Set of Ruby, Onyx and Diamond Jewelry","{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",Italian mark,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",184.2,N/A,Jewelry Set,N/A,16.5,2.5,N/A,N/A,N/A,156,N/A,"{'type': 'Ruby', 'carat': 'N/A', 'shape': 'Marquise', 'color': 'Red', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '5.75 - 6.25', 'count': '156', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'Round'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'One earring with eye-visible chip to the onyx'}",N/A,1,"SET OF RUBY, ONYX AND DIAMOND JEWELRY | Marquise-shaped rubies, onyx plaques, round diamonds, 18k yellow gold (each with Italian mark), one earring with eye-visible chip to the onyx
+Diamonds (bracelet): approximately 66 round with approximate total weight of 2.00 - 2.25 carats
+Diamonds (earrings): approximately 90 round with approximate total weight of 3.75 - 4.00 carats
+Total diamond weight of the set approximately 5.75 - 6.25 carats
+Size/Dimensions: bracelet inner circumference 16.5 cm (6
+1
+⁄
+2
+ in), inner diameter 5.7 cm (2
+1
+⁄
+4
+ in), width 4.0 cm (1
+1
+⁄
+2
+ in); earrings 2.5 x 1.3 cm (1 x 
+1
+⁄
+2
+ in)
+Gross Weight: 184.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0019_000(set_of_ruby_onyx_and_diamond_jewelry020849).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/set-ruby-onyx-diamond-jewelry-19/291920?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+8e522129-392c-4414-9c40-d51abc5aae58,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 20,USD,15000,20000,None,None,15000,20000,None,None,RUBY AND DIAMOND EARRINGS,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",18k yellow gold,"{'metal_type': 'yellow gold', 'purity': '18k', 'color': 'yellow'}",8.7,N/A,Earrings,N/A,N/A,3.1,N/A,N/A,82,80,N/A,"{'type': 'ruby', 'carat': '2.20 - 2.40', 'shape': 'oval', 'color': 'red', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '2.00 - 2.25', 'count': '80', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'AGL, GIA', 'report_number': '1153877 A and B, 523713163', 'inclusions_note': 'no gemological evidence of heat, no indications of heating'}",Mozambique,1,"RUBY AND DIAMOND EARRINGS | Oval mixed-cut rubies, round diamonds, 18k yellow gold
+AGL, 2026, report no. 1153877 A and B: Mozambique, no gemological evidence of heat
+GIA, 2025, report no. 523713163: Mozambique, no indications of heating
+Rubies: two oval with an approximate total weight of 2.20 - 2.40 carats
+Diamonds: 80 round with an approximate total weight of 2.00 - 2.25 carats
+Size/Dimensions: 3.1 cm (1
+1
+⁄
+4
+ in)
+Gross Weight: 8.7 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0020_000(ruby_and_diamond_earrings020931).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/ruby-diamond-earrings-20/291921?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+75de3933-b1f9-4e55-882d-16bb3131a2c7,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 21,USD,6000,8000,None,None,6000,8000,None,None,DIAMOND RING,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",5.6,US ring size 5,ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': '2.09', 'shape': 'marquise brilliant-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '2.09', 'count': 'N/A', 'color': 'F', 'clarity': 'SI2', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '2235876412', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND RING | Marquise brilliant-cut diamond of 2.09 carats, round diamonds, platinum
+GIA, 2026, report no. 2235876412: 2.09 carats, F color, SI2 clarity
+Size/Dimensions: US ring size 5
+Gross Weight: 5.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0021_000(diamond_ring101438).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-ring-21/291923?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,7200.0,6000.0
+7d29961d-41b1-4ffe-a7bf-676417706461,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 22,USD,10000,15000,None,None,10000,15000,None,None,GRAFF DIAMOND ETERNITY BAND RING,"{'brand': 'Graff', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Graff, numbered","{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",9.6,US size 6 3/4,"ring, eternity band",N/A,N/A,N/A,N/A,N/A,22,22,N/A,"{'type': 'diamond', 'carat': '3.15 - 3.30', 'shape': 'square', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '3.15 - 3.30', 'count': '22', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"GRAFF DIAMOND ETERNITY BAND RING | Square-shaped diamonds, platinum, signed Graff, numbered
+Diamonds: approximately 22 square-shaped with an approximate total weight of 3.15 - 3.30 carats
+Size/Dimensions: US ring size 6
+3
+⁄
+4
+Gross Weight: 9.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0022_000(graff_diamond_eternity_band_ring021012).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/graff-diamond-eternity-band-ring-22/291922?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,13800.0,11500.0
+6deb54ed-a1ce-4a69-a275-fa3b2ea9bb97,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 23,USD,8000,12000,None,None,8000,12000,None,None,JAEGER-LECOULTRE DIAMOND WRISTWATCH,"{'brand': 'Jaeger-LeCoultre', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",movement signed Jaeger-LeCoultre,"{'metal_type': 'white gold', 'purity': 'N/A', 'color': 'N/A'}",28.0,N/A,Wristwatch,N/A,18.4,N/A,N/A,N/A,34,34,N/A,"{'type': 'diamond', 'carat': '3.30 - 3.50', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '3.30 - 3.50', 'count': '34', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1955,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"JAEGER-LECOULTRE DIAMOND WRISTWATCH | Manual-winding movement, round diamonds, white gold, movement signed Jaeger-LeCoultre, circa 1955
+Diamonds: approximately 34 round with an approximate total weight of 3.30 - 3.50 carats
+Size/Dimensions: case 15.2 x 6.0 mm; length 18.4 cm (7
+1
+⁄
+4
+ in)
+Gross Weight: 28.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0023_000(jaeger-lecoultre_diamond_wristwatch021043).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/jaeger-lecoultre-diamond-wristwatch-23/291926?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,11500.0,9583.333333333334
+6ce1782e-3d5a-4a11-bb5e-1b008c646c23,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 24,USD,10000,15000,None,None,10000,15000,None,None,BULGARI COLORED DIAMOND AND DIAMOND FLOWER PENDANT NECKLACE,"{'brand': 'Bvlgari', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Bvlgari,"{'metal_type': 'platinum and 18k white gold', 'purity': 'N/A', 'color': 'N/A'}",4.3,N/A,Necklace,40.6,N/A,N/A,N/A,N/A,6,6,N/A,"{'type': 'Fancy vivid yellow diamond', 'carat': '0.11', 'shape': 'round brilliant-cut', 'color': 'Fancy Vivid Yellow', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '1.93', 'count': '6', 'color': 'E, F, D, Fancy Vivid Yellow', 'clarity': 'VS1, VS1, VS2, VVS2, VVS1', 'cut': 'brilliant-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '6183481442, 2507558784, 1505511639, 7451672686, 6505022077, 2175437769', 'inclusions_note': 'N/A'}",N/A,1,"BULGARI COLORED DIAMOND AND DIAMOND FLOWER PENDANT NECKLACE | Fancy vivid yellow round brilliant-cut diamond of 0.11 carat, pear brilliant-cut diamonds of 0.42, 0.41, 0.40, 0.37 and 0.33 carat, platinum and 18k white gold, signed Bvlgari
+GIA, 2017, report no. 6183481442: 0.11 carat, Fancy Vivid Yellow, natural color
+GIA, 2024, report no. 2507558784: 0.42 carat, E color, VS1 clarity
+GIA, 2024, report no. 1505511639: 0.41 carat, E color, VS1 clarity
+GIA, 2023, report no. 7451672686: 0.40 carat, E color, VS2 clarity
+GIA, 2024, report no. 6505022077: 0.37 carat, F color, VVS2 clarity, excellent polish and symmetry 
+GIA, 2016, report no. 2175437769: 0.33 carat, D color, VVS1 clarity
+Total diamond weight: 1.93 carats
+Size/Dimensions: 40.6 cm (16 in)
+Gross Weight: 4.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0024_000(bulgari_colored_diamond_and_diamond_flower_pendant_necklace031001).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/bulgari-colored-diamond-diamond-flower-pendant-necklace-24/291924?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,13250.0,11041.666666666668
+adf5f340-0b2f-47a4-9285-c8120604246d,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 25,USD,12000,18000,None,None,12000,18000,None,None,Diamond and Colored Diamond Butterfly Brooch,"{'brand': 'Asprey & Co.', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'yellow gold and platinum', 'purity': 'N/A', 'color': 'N/A'}",25.9,N/A,Brooch,N/A,N/A,N/A,N/A,N/A,167,166,N/A,"{'type': 'colored diamonds', 'carat': '9.50 - 10.50', 'shape': 'round and pear-shaped', 'color': 'yellow, pink, brown', 'clarity': 'N/A', 'measurements': '6.5 x 4.4 cm'}","{'total_carat': '9.50 - 10.50', 'count': '166', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old and single-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",articulated butterfly,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND AND COLORED DIAMOND BUTTERFLY BROOCH | Designed as an articulated butterfly, old and single-cut diamonds, round and pear-shaped yellow, pink and brown diamonds, yellow gold and platinum, red fitted Asprey & Co. case
+Colored diamonds: approximately 166 round and 1 pear-shaped with approximate total weight of 9.50 - 10.50 carats
+Size/Dimensions: 6.5 x 4.4 cm (2
+1
+⁄
+2
+ x 1
+3
+⁄
+4
+ in)
+Gross Weight: 25.9 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0025_000(diamond_and_colored_diamond_butterfly_brooch021213).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-colored-diamond-butterfly-brooch-25/291925?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+918d9017-7c6e-4f44-bec4-1346a0e56f13,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 26,USD,20000,30000,None,None,20000,30000,None,None,Diamond and Colored Diamond Ring,"{'brand': 'Voirin-Sonrel', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",French marks,"{'metal_type': 'platinum and 18k yellow gold', 'purity': 'N/A', 'color': 'N/A'}",13.7,US size 5,Ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': '9.53', 'shape': 'round modified brilliant-cut', 'color': 'M', 'clarity': 'SI2', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1970,N/A,"{'lab': 'GIA', 'report_number': '2235815763', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND AND COLORED DIAMOND RING | Round modified brilliant-cut diamond of 9.53 carats, single-cut and round diamonds and yellow diamonds, platinum and 18k yellow gold (French marks), circa 1970, maker's mark (Voirin-Sonrel)
+GIA, 2025, report no. 2235815763: 9.53 carats, M color, SI2 clarity
+Size/Dimensions: US ring size 5
+1
+⁄
+2
+Gross Weight: 13.7 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0026_000(diamond_and_colored_diamond_ring021237).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-colored-diamond-ring-26/291927?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,25500.0,21250.0
+16c3669e-5def-4287-a5ed-a5aa06fed61b,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 27,USD,15000,20000,None,None,15000,20000,None,None,SET OF DIAMOND JEWELRY,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",89.8,N/A,"necklace, pendant, earrings",38.1,N/A,3.1,6.3,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': 'N/A', 'shape': 'pear, round, old, marquise, baguette, tapered baguette', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '18.00 - 20.00 (necklace), 8.00 - 10.00 (pendant), 4.00 - 5.00 (earrings)', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1950,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,N/A,"SET OF DIAMOND JEWELRY | Pear, round, old and marquise, baguette and tapered baguette-cut diamonds, platinum, circa 1950, pendant detachable 
+Diamonds (necklace): with approximate total weight of 18.00 - 20.00 carats
+Diamonds (pendant): with approximate total weight of 8.00 - 10.00 carats
+Diamonds (earrings): with approximate total weight of 4.00 - 5.00 carats
+Size/Dimensions: necklace 38.1 cm (15 in), pendant 6.3 x 3.8 cm (2
+1
+⁄
+2
+ x 1
+1
+⁄
+2
+ in), earrings 3.1 cm (1
+1
+⁄
+2
+ in)
+Gross Weight: 89.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0027_000(set_of_diamond_jewelry030925).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/set-diamond-jewelry-27/291928?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+2d9ebc9b-3c3e-459f-8ea9-84a26669514f,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 28,USD,50000,70000,None,None,50000,70000,None,None,Diamond Stud Earrings,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",14k,"{'metal_type': 'White Gold', 'purity': '14k', 'color': 'N/A'}",4.0,N/A,Earrings,N/A,N/A,N/A,N/A,N/A,2,2,N/A,"{'type': 'Diamond', 'carat': '4.02', 'shape': 'Round Brilliant', 'color': 'H', 'clarity': 'SI1/SI2', 'measurements': 'N/A'}","{'total_carat': '8.04', 'count': '2', 'color': 'H', 'clarity': 'SI1/SI2', 'cut': 'Excellent'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '5161149592, 2166754542', 'inclusions_note': 'SI1 and SI2 clarity'}",N/A,1,"DIAMOND STUD EARRINGS | Round brilliant-cut diamonds of 4.02 and 4.02 carats, 14k white gold
+GIA, 2026, report no. 5161149592: 4.02 carats, H color, SI1 clarity, excellent cut, polish and symmetry
+GIA, 2026, report no. 2166754542: 4.02 carats, H color, SI2 clarity, excellent cut, polish and symmetry
+Gross Weight: 4.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0028_000(diamond_stud_earrings_d6577023101523).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-stud-earrings-28/291929?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+3c4e5de4-ded9-4ecf-b45a-4131386b5218,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 29,USD,30000,50000,None,None,30000,50000,None,None,Diamond Eternity Band Ring,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",13.0,US size 6,ring,N/A,N/A,N/A,N/A,N/A,13,13,N/A,"{'type': 'diamond', 'carat': '1.05 to 1.00', 'shape': 'oval', 'color': 'F to H', 'clarity': 'VS2 to SI1', 'measurements': 'N/A'}","{'total_carat': '13.29', 'count': '13', 'color': 'F to H', 'clarity': 'VS2 to SI1', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '2025', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND ETERNITY BAND RING | Thirteen oval-cut diamonds ranging from 1.05 to 1.00 carats, platinum
+13 GIA, 2025: 1.05 to 1.00 carats, F to H color, VS2 to SI1 clarity
+Diamond total weight: 13.29 carats
+Size/Dimensions: US ring size 6
+Gross Weight: 13.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0029_000(diamond_eternity_band_ring_d6577024101529).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-eternity-band-ring-29/291931?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,38500.0,32083.333333333336
+968e2c58-9998-411e-9571-ff21e875d316,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 30,USD,50000,70000,None,None,50000,70000,None,None,BULGARI COLORED DIAMOND AND DIAMOND RING,"{'brand': 'Bvlgari', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Bvlgari,"{'metal_type': 'platinum and 18k yellow gold', 'purity': '18k', 'color': 'yellow gold'}",8.1,US size 5 3/4,ring,N/A,N/A,N/A,N/A,N/A,3,N/A,N/A,"{'type': 'Fancy Intense Yellow Diamond', 'carat': '5.13', 'shape': 'cut-cornered rectangular modified brilliant-cut', 'color': 'Fancy Intense Yellow', 'clarity': 'Internally Flawless', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '5232608758', 'inclusions_note': '5.13 carats, Fancy Intense Yellow, Internally Flawless'}",N/A,1,"BULGARI COLORED DIAMOND AND DIAMOND RING | Fancy intense yellow cut-cornered rectangular modified brilliant-cut diamond of 5.13 carats, baguette and square-cut diamonds, platinum and 18k yellow gold, signed Bvlgari
+GIA, 2025, report no. 5232608758: 5.13 carats, Fancy Intense Yellow, Internally Flawless
+Size/Dimensions: US ring size 5
+3
+⁄
+4
+Gross Weight: 8.1 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0030_000(bulgari_colored_diamond_and_diamond_ring101542).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/bulgari-colored-diamond-diamond-ring-30/291930?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,82000.0,68333.33333333334
+7ff6e97a-c621-4f20-a1d3-6e97cc275f06,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 31,USD,30000,50000,None,None,30000,50000,None,None,Diamond Cluster Earrings,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'Platinum', 'purity': 'N/A', 'color': 'N/A'}",17.6,N/A,Earrings,N/A,N/A,3.2,N/A,N/A,22,22,N/A,"{'type': 'Diamond', 'carat': '21.00 - 23.00', 'shape': 'Pear and Marquise', 'color': 'N/A', 'clarity': 'N/A', 'measurements': '3.2 x 2.2 cm'}","{'total_carat': '21.00 - 23.00', 'count': '22', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Circa 1955,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND CLUSTER EARRINGS | Pear and marquise-shaped diamonds, platinum, circa 1955
+Diamonds: 16 pear and 6 marquise-shaped with approximate total weight of 21.00 - 23.00 carats
+Size/Dimensions: 3.2 x 2.2 cm (1
+1
+⁄
+4
+ x 
+7
+⁄
+8
+ in)
+Gross Weight: 17.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0031_000(diamond_cluster_earrings021447).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-cluster-earrings-31/291934?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,42000.0,35000.0
+1e4d6de3-af01-4e0a-87b7-c0e0142c4da7,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 32,USD,60000,80000,None,None,60000,80000,None,None,Diamond Necklace,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'Platinum', 'purity': 'N/A', 'color': 'N/A'}",106.1,N/A,Necklace,38.1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'Diamond', 'carat': 'N/A', 'shape': 'Pear, Marquise, Baguette, Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '70.00 - 76.00', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Circa 1960,N/A,"{'lab': 'GIA', 'report_number': '2233879836, 6237879715, 2233879675', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND NECKLACE | Pear brilliant-cut diamonds of 2.92, 1.88 and 1.84 carats, pear, marquise, baguette-cut and round diamonds, platinum, circa 1960
+GIA, 2026, report no. 2233879836: 2.92 carats, D color, SI2 clarity
+GIA, 2026, report no. 6237879715: 1.88 carats, F color, SI2 clarity
+GIA, 2026, report no. 2233879675: 1.84 carats, H color, VS1 clarity
+Total weight of the GIA-certified diamonds: 6.64 carats
+Remaining diamonds: 2 largest pear with approximate total weight of 2.50 - 2.75 carats, remaining approximately 60 pear with approximate total weight of 27.00 - 29.00 carats, 75 marquise with approximate total weight of 23.00 - 25.00 carats, 188 baguette-cut with approximate total weight of 9.00 - 10.00 carats, approximately 18 round with approximate total weight of 2.75 - 3.25 carats
+Total diamond weight of the necklace approximately 70.00 - 76.00 carats
+Size/Dimensions: 38.1 cm (15 in)
+Gross Weight: 106.1 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0032_000(diamond_necklace_d6577027101618).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-necklace-32/291932?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,75000.0,62500.0
+47435f45-18fc-43f3-aa80-b3e1d46e4d9e,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 33,USD,15000,20000,None,None,15000,20000,None,None,CARTIER DIAMOND AND GOLD 'BAMBOO' NECKLACE,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'Bamboo', 'reference': 'N/A'}","signed Cartier, maker's mark (Cartier Joaillerie International), numbered","{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",98.8,N/A,necklace,44.5,N/A,N/A,N/A,N/A,209,209,N/A,"{'type': 'diamond', 'carat': '4.75 - 5.25', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '4.75 - 5.25', 'count': '209', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",bamboo motif,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"CARTIER DIAMOND AND GOLD 'BAMBOO' NECKLACE | Of articulated bamboo motif, round diamonds, 18k yellow gold (French mark), signed Cartier, maker's mark (Cartier Joaillerie International), numbered
+Diamonds: approximately 209 round with approximate total weight of 4.75 - 5.25 carats
+Size/Dimensions: 44.5 cm (17
+1
+⁄
+2
+ in)
+Gross Weight: 98.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0033_000(cartier_diamond_and_gold_bamboo_necklace021527).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-gold-bamboo-necklace-33/291933?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,22000.0,18333.333333333336
+ad0e1bd1-0671-4a2a-bca9-d78fb12d5dfb,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 34,USD,15000,20000,None,None,15000,20000,None,None,CARTIER DIAMOND AND GOLD ‘BAMBOO’ CUFF BRACELET,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, maker’s mark (Brun SA), numbered, French and Dutch marks","{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",50.3,N/A,Bracelet,N/A,16.5,N/A,N/A,N/A,201,201,N/A,"{'type': 'diamond', 'carat': '3.00 – 3.25', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '3.00 – 3.25', 'count': '201', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER DIAMOND AND GOLD ‘BAMBOO’ CUFF BRACELET | Round diamonds, 18k yellow gold (French and Dutch marks), signed Cartier, maker’s mark (Brun SA), numbered
+Diamonds: 201 round with an approximate total weight of 3.00 – 3.25 carats
+Size/Dimensions: continuous inner circumference 16.5 cm (6
+1
+⁄
+2
+ in), inner diameter 5.7 cm (2
+1
+⁄
+4
+ in)
+Gross Weight: 50.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0034_000(cartier_diamond_and_gold_8216bamboo8217_cuff_bracelet021550).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-gold-bamboo-cuff-bracelet-34/291936?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+5043fc72-3c3b-439f-a152-023970fed8ce,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 35,USD,8000,12000,None,None,8000,12000,None,None,CARTIER DIAMOND AND GOLD 'BAMBOO' RING,"{'brand': 'Cartier', 'collection': 'Bamboo', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, numbered, maker's mark","{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",6.0,US size 6 1/2,Ring,N/A,N/A,N/A,N/A,N/A,291,291,N/A,"{'type': 'Diamond', 'carat': '2.00 - 2.20', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '2.00 - 2.20', 'count': '291', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"CARTIER DIAMOND AND GOLD 'BAMBOO' RING | Round diamonds, 18k yellow gold (French marks), signed Cartier, numbered, maker's mark
+Diamonds: approximately 291 round with an approximate total weight of 2.00 - 2.20 carats
+Size/Dimensions: US ring size 6
+1
+⁄
+2
+Gross Weight: 6.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0035_000(cartier_diamond_and_gold_bamboo_ring021614).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-gold-bamboo-ring-35/291937?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+013d69e3-89cb-49c4-a920-f131df4768ba,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 36,USD,40000,60000,None,None,40000,60000,None,None,CARTIER DIAMOND ‘BAMBOO’ NECKLACE,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'Bamboo', 'reference': 'N/A'}","signed Cartier, maker’s mark (Alain Foubert), numbered, French mark","{'metal_type': '18k white gold', 'purity': '18k', 'color': 'white'}",75.3,N/A,Necklace,38.7,N/A,N/A,N/A,N/A,960,960,N/A,"{'type': 'Diamond', 'carat': '17.00 – 19.00', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '17.00 – 19.00', 'count': '960', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER DIAMOND ‘BAMBOO’ NECKLACE | Round diamonds, 18k white gold (French mark), signed Cartier, maker’s mark (Alain Foubert), numbered, red Cartier case
+Diamonds: approximately 960 round with an approximate total weight of 17.00 – 19.00 carats
+Size/Dimensions: 38.7 cm (15
+1
+⁄
+4
+ in)
+Gross Weight: 75.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0036_000(cartier_diamond_8216bamboo8217_necklace021648).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-bamboo-necklace-36/291935?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+24c8350f-e19a-481b-afc1-41f8f9ccb11d,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 37,USD,12000,18000,None,None,12000,18000,None,None,CARTIER COLORED DIAMOND RING,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, numbered","{'metal_type': '18k yellow gold and platinum', 'purity': 'N/A', 'color': 'yellow'}",3.8,US size 5,ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': '2.05', 'shape': 'cut-cornered rectangular modified brilliant-cut', 'color': 'Fancy Light Yellow', 'clarity': 'VVS1', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '2225674763', 'inclusions_note': 'natural color, VVS1 clarity'}",N/A,1,"CARTIER COLORED DIAMOND RING | Fancy light yellow cut-cornered rectangular modified brilliant-cut diamond of 2.05 carats, triangular-shaped yellow diamonds, 18k yellow and platinum, signed Cartier, numbered, red Cartier case
+GIA, 2022, report no. 2225674763: 2.05 carats, Fancy Light Yellow, natural color, VVS1 clarity
+Size/Dimensions: US ring size 5
+Gross Weight: 3.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0037_000(cartier_colored_diamond_ring021712).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-colored-diamond-ring-37/291939?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+049cfc48-9a0e-4324-a954-c06338ca40bf,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 38,USD,8000,12000,None,None,8000,12000,None,None,VAN CLEEF & ARPELS GOLD AND DIAMOND 'CAMELLIA' EARRINGS,"{'brand': 'VAN CLEEF & ARPELS', 'collection': 'CAMELLIA', 'model': 'N/A', 'reference': '1998'}","signed VCA, numbered","{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",21.0,N/A,Earrings,N/A,N/A,2.4,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': 'N/A', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"VAN CLEEF & ARPELS GOLD AND DIAMOND 'CAMELLIA' EARRINGS | Round diamonds, 18k yellow gold, 1998, signed VCA, numbered
+Size/Dimensions: 2.4 x 2.4 cm (0.9 x 0.9 in)
+Gross Weight: 21.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0038_000(van_cleef_amp_arpels_gold_and_diamond_camellia_earrings041225).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/van-cleef-arpels-gold-diamond-camellia-earrings-38/291938?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,10500.0,8750.0
+9216991f-955a-4750-8f26-797de196a73e,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 39,USD,12000,18000,None,None,12000,18000,None,None,Tiffany & Co. Angela Cumming Gold 'Rose Petal' Necklace,"{'brand': 'Tiffany & Co.', 'collection': 'Angela Cumming', 'model': 'Rose Petal', 'reference': 'N/A'}",Tiffany & Co.,"{'metal_type': 'Gold', 'purity': '18k', 'color': 'Yellow'}",69.6,N/A,Necklace,46.9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'N/A', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Rose Petal,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"TIFFANY & CO. ANGELA CUMMING GOLD 'ROSE PETAL' NECKLACE | Each station designed as a rose petal, 18k yellow gold, signed Tiffany & Co. 
+Size/Dimensions: 46.9 cm (18
+1
+⁄
+2
+ in)
+Gross Weight: 69.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0039_000(tiffany_amp_co_angela_cumming_gold_rose_petal_necklace021811).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-angela-cumming-gold-rose-petal-necklace-39/291940?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+04b3e0fb-12cb-447b-9532-de3afd7b20a8,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 40,USD,10000,15000,None,None,10000,15000,None,None,VAN CLEEF & ARPELS GOLD LION EARRINGS,"{'brand': 'VAN CLEEF & ARPELS', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed VCA,"{'metal_type': 'yellow gold', 'purity': '18k', 'color': 'yellow'}",38.0,N/A,earrings,N/A,N/A,4.4,N/A,N/A,N/A,N/A,N/A,"{'type': 'N/A', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",lion's head,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,2,"VAN CLEEF & ARPELS GOLD LION EARRINGS | Each designed as a lion's head, 18k yellow gold, signed VCA, numbered
+Size/Dimensions: 4.4 x 2.5 cm (1
+3
+⁄
+4
+ x 1 in) 
+Gross Weight: 38.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0040_000(van_cleef_amp_arpels_gold_lion_earrings021839).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/van-cleef-arpels-gold-lion-earrings-40/291941?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,13500.0,11250.0
+6b6a9825-5e21-4075-8655-832981543b2c,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 41,USD,50000,70000,None,None,50000,70000,None,None,Emerald and Diamond Ring,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'yellow and white gold', 'purity': 'N/A', 'color': 'N/A'}",16.0,5 1/2,Ring,N/A,N/A,N/A,N/A,N/A,19,18,N/A,"{'type': 'emerald', 'carat': '18.32', 'shape': 'rectangular emerald-cut', 'color': 'N/A', 'clarity': 'insignificant to minor clarity enhancement', 'measurements': 'N/A'}","{'total_carat': '1.60 - 1.80', 'count': '18', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'AGL', 'report_number': '1126556', 'inclusions_note': 'insignificant to minor clarity enhancement'}",Colombia,1,"EMERALD AND DIAMOND RING | Rectangular emerald-cut emerald of 18.32 carats, round diamonds, yellow and white gold
+AGL, 2022, report no. 1126556: 18.32 carats, Colombia, insignificant to minor clarity enhancement, traditional type
+Diamonds: approximately 18 round with an approximate total weight of 1.60 - 1.80 carats
+Size/Dimensions: measures as US ring size 5
+1
+⁄
+2
+ however, due to sizer fits as US ring size 5
+Gross Weight: 16.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0041_000(emerald_and_diamond_ring021903).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/emerald-diamond-ring-41/291942?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,62000.0,51666.66666666667
+ce62ec83-8221-468d-8132-9b48bba47237,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 42,USD,15000,20000,None,None,15000,20000,None,None,DAVID WEBB GOLD CUFF BRACELET,"{'brand': 'David Webb', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed David Webb,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",140.8,N/A,Bracelet,N/A,16.5,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'N/A', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Hammered,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"DAVID WEBB GOLD CUFF BRACELET | Hammered 18k yellow gold, signed David Webb
+Size/Dimensions: 5.7 cm (inner diameter 2
+1
+⁄
+4
+ in), inner continuous circumference 16.5 cm (6
+1
+⁄
+2
+ in)
+Gross Weight: 140.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0042_000(david_webb_gold_cuff_bracelet021943).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/david-webb-gold-cuff-bracelet-42/291943?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+c63e8321-940f-43a6-859f-51b1f75225a0,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 43,USD,12000,18000,None,None,12000,18000,None,None,"DAVID WEBB STAR SAPPHIRE, EMERALD AND RUBY BROOCH","{'brand': 'David Webb', 'collection': 'N/A', 'model': 'N/A', 'reference': '2026'}",signed Webb,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",47.1,N/A,Brooch,N/A,N/A,N/A,5.7,N/A,3,0,0,"{'type': 'Sapphire', 'carat': '25.00 - 30.00', 'shape': 'Round cabochon', 'color': 'N/A', 'clarity': 'N/A', 'measurements': '16.86 x 16.50 x depth unmeasurable'}","{'total_carat': 'N/A', 'count': '0', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': '0', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'Certificate of Authenticity'}",N/A,1,"DAVID WEBB STAR SAPPHIRE, EMERALD AND RUBY BROOCH | Round cabochon star sapphire, round cabochon emeralds, oval cabochon rubies, 18k yellow gold, signed Webb
+David Webb, 2026: Certificate of Authenticity
+Sapphire: measuring approximately 16.86 x 16.50 x depth unmeasurable with approximate carat weight of 25.00 - 30.00 carats
+Size/Dimensions: 5.7 x 5.0 cm (2
+1
+⁄
+4
+ x 2 in)
+Gross Weight: 47.1 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0043_000(david_webb_star_sapphire_emerald_and_ruby_brooch022008).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/david-webb-star-sapphire-emerald-ruby-brooch-43/291945?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+20374d65-f3a2-43aa-8957-ee631d50abde,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 44,USD,20000,30000,None,None,20000,30000,None,None,DAVID WEBB GOLD LONGCHAIN NECKLACE,"{'brand': 'David Webb', 'collection': 'N/A', 'model': 'N/A', 'reference': '2026'}",signed David Webb,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",156.5,N/A,necklace,76.2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'N/A', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'Certificate of Authenticity'}",N/A,1,"DAVID WEBB GOLD LONGCHAIN NECKLACE | 18k yellow gold, signed David Webb
+David Webb, 2026: Certificate of Authenticity
+Size/Dimensions: 76.2 cm (30 in)
+Gross Weight: 156.5 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0044_000(david_webb_gold_longchain_necklace022033).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/david-webb-gold-longchain-necklace-44/291944?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+2364b633-d75a-4ffa-bb78-3e8bc557f2d7,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 45,USD,12000,18000,None,None,12000,18000,None,None,DAVID WEBB GOLD CUFF BRACELET,"{'brand': 'David Webb', 'collection': 'N/A', 'model': 'N/A', 'reference': '2026'}",signed Webb,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",108.1,N/A,Bracelet,N/A,15.8,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'N/A', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'Certificate of Authenticity'}",N/A,1,"DAVID WEBB GOLD CUFF BRACELET | Textured 18k yellow gold, signed Webb, 18k yellow gold
+David Webb, 2026: Certificate of Authenticity
+Size/Dimensions: inner circumference 15.8 cm (6
+1
+⁄
+4
+ in); inner diameter 5.3 cm (2
+1
+⁄
+8
+ in)
+Gross Weight: 108.1 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0045_000(david_webb_gold_cuff_bracelet041241).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/david-webb-gold-cuff-bracelet-45/291946?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+8e45281b-3816-4557-af96-8686e11ae978,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 46,USD,8000,12000,None,None,8000,12000,None,None,VERDURA DIAMOND HOOP EARRINGS,"{'brand': 'Verdura', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Verdura,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",15.4,N/A,Earrings,N/A,N/A,1.9,N/A,N/A,90,90,N/A,"{'type': 'diamond', 'carat': '3.50 - 4.00', 'shape': 'round and baguette', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '3.50 - 4.00', 'count': '90', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'round and baguette'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"VERDURA DIAMOND HOOP EARRINGS | Round and baguette-cut diamonds, platinum, signed Verdura
+Diamonds: 64 round and 26 baguette-cut with approximate total weight 3.50 - 4.00 carats
+Size/Dimensions: 1.9 cm (
+3
+⁄
+4
+ in)
+Gross Weight: 15.4 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0046_000(verdura_diamond_hoop_earrings022121).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/verdura-diamond-hoop-earrings-46/291947?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+a0d8ca73-d1d2-4b3c-acf2-13b745807843,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 47,USD,12000,18000,None,None,12000,18000,None,None,TIFFANY & CO. SAPPHIRE AND DIAMOND BOW BROOCH,"{'brand': 'Tiffany & Co.', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Tiffany & Co.,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",26.2,N/A,Brooch,N/A,N/A,N/A,N/A,N/A,250,250,N/A,"{'type': 'sapphire', 'carat': 'N/A', 'shape': 'Calibré-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '8.50 - 9.50', 'count': '250', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"TIFFANY & CO. SAPPHIRE AND DIAMOND BOW BROOCH | Calibré-cut sapphires, round diamonds, platinum, signed Tiffany & Co.
+Diamonds: approximately 250 round with approximate total weight of 8.50 - 9.50 carats
+Size/Dimensions: 6.6 x 4.4 cm (2
+5
+⁄
+8
+ x 1
+3
+⁄
+4
+ in)
+Gross Weight: 26.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0047_000(tiffany_amp_co_sapphire_and_diamond_bow_brooch022143).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-sapphire-diamond-bow-brooch-47/291948?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+f446a094-ac38-4eb9-86e4-adbff38d6611,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 48,USD,12000,18000,None,None,12000,18000,None,None,PAIR OF DIAMOND BROOCHES,"{'brand': 'Oscar Heyman & Brothers', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",Oscar Heyman,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",65.2,N/A,Brooches,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': 'N/A', 'shape': 'marquise, round, single, baguette', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '16.63', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'Oscar Heyman', 'report_number': 'N/A', 'inclusions_note': 'Certificate of Authenticity'}",N/A,2,"OSCAR HEYMAN & BROTHERS PAIR OF DIAMOND BROOCHES | Marquise, round, single and baguette diamonds, platinum, larger brooch circa 1949, smaller brooch circa 1947, larger brooch numbered
+Oscar Heyman, 2023: Certificate of Authenticity
+Oscar Heyman, 2023: Certificate of Authenticity
+Diamonds (larger brooch): with total weight of 8.42 carats
+Diamonds (smaller brooch): with total weight of 8.21 carats
+Size/Dimensions: larger brooch 6.3 x 4.1 cm (2
+1
+⁄
+2
+ x 1
+5
+⁄
+8
+ in); smaller brooch 5.0 x 4.4 cm (2 x 1
+3
+⁄
+4
+ in)
+Gross Weight: 65.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0048_000(oscar_heyman_amp_brothers_pair_of_diamond_brooches022208).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/oscar-heyman-brothers-pair-diamond-brooches-48/291949?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+ea3ab5a6-8230-46cc-a69c-01133972d94b,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 49,USD,12000,18000,None,None,12000,18000,None,None,ROOD ART DECO DIAMOND DOUBLE CLIP-BROOCH,"{'brand': 'Rood', 'collection': 'Art Deco', 'model': 'Double Clip-Brooch', 'reference': 'N/A'}",signed Rood,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",30.2,N/A,Brooch,N/A,N/A,N/A,N/A,N/A,118,88,N/A,"{'type': 'diamond', 'carat': '10.00 - 11.50', 'shape': 'old-cut and baguette-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': '6.8 x 2.7 cm'}","{'total_carat': '10.00 - 11.50', 'count': '118', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old-cut and baguette-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Art Deco,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"ROOD ART DECO DIAMOND DOUBLE CLIP-BROOCH | Old and baguette-cut diamonds, platinum, circa 1930, signed Rood, detachable and may be worn as two clips 
+Diamonds: approximately 88 old-cut with approximate total weight of 7.00 - 8.00 carats, approximately 30 baguette-cut with approximate total weight of 3.00 - 3.50 carats. Total weight of the diamonds approximately 10.00 - 11.50 carats
+Size/Dimensions: 6.8 x 2.7 cm (2
+5
+⁄
+8
+ x 1 in) 
+Gross Weight: 30.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0049_000(rood_art_deco_diamond_double_clip-brooch022257).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/rood-art-deco-diamond-double-clip-brooch-49/291950?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+769f164b-f8a2-4941-8f0f-3e6cd14015e0,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 50,USD,12000,18000,None,None,12000,18000,None,None,Black Starr & Frost Art Deco Onyx and Diamond Bracelet,"{'brand': 'Black Starr & Frost', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Black Starr & Frost, numbered","{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",27.6,N/A,Bracelet,N/A,18.7,N/A,N/A,N/A,126,126,N/A,"{'type': 'onyx', 'carat': 'N/A', 'shape': 'square-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '4.50 - 5.00', 'count': '126', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Art Deco,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"BLACK STARR & FROST ART DECO ONYX AND DIAMOND BRACELET | Square-cut onyx plaques, round diamonds, platinum, circa 1925, signed Black Starr & Frost, numbered
+Diamonds: approximately 126 round with approximate total weight of 4.50 - 5.00 carats
+Size/Dimensions: 18.7 x 1.0 cm (7
+3
+⁄
+8
+ x 
+3
+⁄
+8
+ in)
+Gross Weight: 27.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0050_000(black_starr_amp_frost_art_deco_onyx_and_diamond_bracelet022321).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/black-starr-frost-art-deco-onyx-diamond-bracelet-50/291951?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+0b5e5dd1-83fe-468e-a43d-ce76cdb2290c,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 51,USD,15000,20000,None,None,15000,20000,None,None,CARTIER BELLE ÉPOQUE SAPPHIRE AND DIAMOND RING,"{'brand': 'Cartier', 'collection': 'Belle Époque', 'model': 'N/A', 'reference': 'N/A'}",signed Cartier (indistinct),"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",11.0,8 1/2,ring,N/A,N/A,N/A,N/A,N/A,1,88,N/A,"{'type': 'sapphire', 'carat': '3.48', 'shape': 'rectangular emerald-cut', 'color': 'Ceylon', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '4.90 – 5.35', 'count': '88', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old and single-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Belle Époque,N/A,"{'lab': 'AGL', 'report_number': '1153069', 'inclusions_note': 'no gemological evidence of heat, clarity enhancement: none'}",N/A,1,"CARTIER BELLE ÉPOQUE SAPPHIRE AND DIAMOND RING | Rectangular emerald-cut sapphire of 3.48 carats, old and single-cut diamonds, platinum signed Cartier (indistinct), circa 1910, red Cartier case
+AGL, 2025, report no. 1153069: 3.48 carats, Ceylon, no gemological evidence of heat, clarity enhancement: none
+Diamonds: two old with an approximate total weight of 3.00 – 3.25 carats; remaining diamonds, 86 single with an approximate total weight of 1.90 – 2.10 carats
+Total diamond weight approximately 4.90 – 5.35 carats
+Size/Dimensions: US ring size 8
+1
+⁄
+2
+Gross Weight: 11.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0051_000(cartier_belle_epoque_sapphire_and_diamond_ring101727).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-belle-epoque-sapphire-diamond-ring-51/291952?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+5e9bfb6f-667a-446e-91e2-333a7055fedc,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 52,USD,10000,15000,None,None,10000,15000,None,None,Art Deco Sapphire and Diamond Bracelet,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",French marks,"{'metal_type': 'Platinum', 'purity': 'N/A', 'color': 'N/A'}",40.5,N/A,Bracelet,N/A,17.8,N/A,N/A,N/A,4,224,N/A,"{'type': 'Sapphire', 'carat': '8.50 - 9.50', 'shape': 'Oval cabochon', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '10.00 - 11.00', 'count': '224', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'Old and single-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Art Deco,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"ART DECO SAPPHIRE AND DIAMOND BRACELET | Oval cabochon sapphires, old and single-cut diamonds, platinum (French marks), circa 1925
+Sapphires: 4 oval cabochon with approximate total weight of 8.50 - 9.50 carats
+Diamonds: approximately 224 old and single-cut with approximate total weight of 10.00 - 11.00 carats
+Size/Dimensions: 7 x 
+5
+⁄
+8
+ in (17.8 x 1.5 cm)
+Gross Weight: 40.5 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0052_000(art_deco_sapphire_and_diamond_bracelet022404).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/art-deco-sapphire-diamond-bracelet-52/291953?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16800.0,14000.0
+4d184125-30b7-48f0-a538-4beaa7ba3461,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 54,USD,20000,30000,None,None,20000,30000,None,None,Diamond Bracelet,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'Platinum', 'purity': 'N/A', 'color': 'N/A'}",74.8,N/A,Bracelet,N/A,17.8,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'Diamond', 'carat': '22.75 - 25.00', 'shape': 'Emerald, round, old, baguette, single and half moon-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '22.75 - 25.00', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'Emerald, round, old, baguette, single and half moon-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Circa 1950,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND BRACELET | Emerald, round, old, baguette, single and half moon-cut diamonds, platinum, circa 1950
+Diamonds: 4 emerald-cut with approximate total weight of 2.75 - 3.00 carats, remaining with approximate total weight of 20.00 - 22.00 carats. Total diamond weight 22.75 - 25.00 carats
+Size/Dimensions: 17.8 x 2.5 cm (7 x 1 in)
+Gross Weight: 74.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0054_000(diamond_bracelet032417).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-bracelet-54/291955?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,28500.0,23750.0
+8613f57d-6399-4c30-bbf2-149ab68c7cce,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 55,USD,10000,15000,None,None,10000,15000,None,None,Pair of Diamond Clip-Brooches,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum and white gold', 'purity': 'N/A', 'color': 'N/A'}",38.7,N/A,Brooches,N/A,N/A,N/A,N/A,N/A,160,160,N/A,"{'type': 'diamond', 'carat': '8.50 - 9.50', 'shape': 'old-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '8.50 - 9.50', 'count': '160', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,2,"PAIR OF DIAMOND CLIP-BROOCHES | Old-cut diamonds, platinum and white gold, circa 1955
+Diamonds: approximately 160 old-cut with an approximate total weight of 8.50 - 9.50 carats
+Size/Dimensions: each 3.8 x 4.1 cm (1
+1
+⁄
+2
+ x 1
+5
+⁄
+8
+ in)
+Gross Weight: 38.7 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0055_000(pair_of_diamond_clip-brooches022451).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/pair-diamond-clip-brooches-55/291956?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+8dfcbdd9-e9b6-4584-acd6-a20698e3dba8,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 56,USD,20000,30000,None,None,20000,30000,None,None,DIAMOND RING,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",7.8,6 1/2,ring,N/A,N/A,N/A,N/A,N/A,N/A,1,N/A,"{'type': 'diamond', 'carat': '6.99', 'shape': 'Old European brilliant-cut', 'color': 'S to T range', 'clarity': 'SI2', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '2235874743', 'inclusions_note': '6.99 carats, S to T range, SI2 clarity'}",N/A,1,"DIAMOND RING | Old European brilliant-cut diamond of 6.99 carats, old-cut diamonds, platinum
+GIA, 2026, report no. 2235874743: 6.99 carats, S to T range, SI2 clarity
+Size/Dimensions: US ring size 6
+1
+⁄
+2
+Gross Weight: 7.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0056_000(diamond_ring041310).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-ring-56/291957?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,26500.0,22083.333333333336
+c3c2e3fc-61af-4d8c-94da-1402f88d0336,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 57,USD,20000,30000,None,None,20000,30000,None,None,"Pair of Antique Diamond, Ruby and Enamel Snake Bracelets","{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'yellow gold', 'purity': 'N/A', 'color': 'yellow'}",75.2,N/A,Bracelets,N/A,"13.3, 13.9",N/A,N/A,N/A,133,133,N/A,"{'type': 'ruby', 'carat': 'N/A', 'shape': 'cabochon', 'color': 'red', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '8.20 - 8.60', 'count': '133', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old and rose-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Antique,blue,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'eye-visible areas of loss'}",N/A,2,"PAIR OF ANTIQUE DIAMOND, RUBY AND ENAMEL SNAKE BRACELETS | Each designed as a flexible snake, old and rose-cut diamonds, round ruby cabochons, blue enamel, yellow gold, circa 1845, enamel on both with eye-visible areas of loss, please note one bracelet is deficient the tail segment of the snake
+Diamonds: approximately 133 old and rose-cut diamonds with an approximate total weight of 8.20 - 8.60 carats
+Size/Dimensions: resting inner circumference 13.3 cm and 13.9 cm (5
+1
+⁄
+4
+ and 5
+1
+⁄
+2
+ in); resting inner diameter 5.0 cm and 5.2 cm (2 in and 2
+1
+⁄
+16
+ in), each flexible
+Gross Weight: 75.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0057_000(pair_of_antique_diamond_ruby_and_enamel_snake_bracelets022617).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/pair-antique-diamond-ruby-enamel-snake-bracelets-57/291958?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+20970f2b-15e0-4349-93df-31f094390373,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 58,USD,15000,20000,None,None,15000,20000,None,None,CARTIER BELLE ÉPOQUE PAIR OF DIAMOND AND HORN HAIR COMBS,"{'brand': 'Cartier', 'collection': 'Belle Époque', 'model': 'N/A', 'reference': 'N/A'}","each signed Cartier, partially distorted maker's mark, numbered","{'metal_type': '18k white gold', 'purity': '18k', 'color': 'white'}",28.6,N/A,Hair Combs,N/A,N/A,N/A,N/A,N/A,252,252,N/A,"{'type': 'Diamond', 'carat': '2.00 - 2.50', 'shape': 'old and rose-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '2.00 - 2.50', 'count': '252', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old and rose-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Belle Époque,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,2,"CARTIER BELLE ÉPOQUE PAIR OF DIAMOND AND HORN HAIR COMBS | Old and rose-cut diamonds, horn, 18k white gold (French marks), platinum, circa 1910, each signed Cartier, partially distorted maker's mark, numbered
+Diamonds: approximately 252 old and rose-cut with an approximate total weight of 2.00 - 2.50 carats
+Size/Dimensions: each 9.2 cm (3
+5
+⁄
+8
+ in)
+Gross Weight: 28.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0058_000(cartier_belle_epoque_pair_of_diamond_and_horn_hair_combs022706).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-belle-epoque-pair-diamond-horn-hair-combs-58/291959?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+a89b6720-537e-4ff9-8c21-63dcc6f4cf81,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 59,USD,15000,20000,None,None,15000,20000,None,None,ANTIQUE RUBY BANGLE BRACELET,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'yellow gold', 'purity': 'N/A', 'color': 'N/A'}",17.4,N/A,bracelet,N/A,16.8,N/A,N/A,N/A,60,N/A,N/A,"{'type': 'ruby', 'carat': '9.50 - 10.50', 'shape': 'rectangular', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Antique,N/A,"{'lab': 'GIA', 'report_number': '5231791872', 'inclusions_note': '3 tested, Burma, no indications of heating'}",Burma,1,"ANTIQUE RUBY BANGLE BRACELET | Rectangular-cut rubies, yellow gold, circa 1910
+GIA, 2025, report no. 5231791872: 3 tested, Burma, no indications of heating 
+Rubies: approximately 60 rectangular ranging from approximately 0.45 to 0.10 carat with an approximate total weight of 9.50 - 10.50 carats
+Size/Dimensions: inner circumference 16.8 cm (6
+5
+⁄
+8
+ in), inner diameter (2
+1
+⁄
+4
+ in)
+Gross Weight: 17.4 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0059_000(antique_ruby_bangle_bracelet022729).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/antique-ruby-bangle-bracelet-59/291960?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+1d35bbd3-2e5b-47d1-aad9-a59e8e7a06ab,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 60,USD,40000,60000,None,None,40000,60000,None,None,ANTIQUE DIAMOND RING,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'yellow gold and platinum', 'purity': 'N/A', 'color': 'N/A'}",6.6,US size 6 1/2,ring,N/A,N/A,N/A,N/A,N/A,1,1,N/A,"{'type': 'diamond', 'carat': '7.51', 'shape': 'old mine brilliant-cut', 'color': 'L', 'clarity': 'SI1', 'measurements': 'N/A'}","{'total_carat': '7.51', 'count': '1', 'color': 'L', 'clarity': 'SI1', 'cut': 'old mine brilliant-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1910,N/A,"{'lab': 'GIA', 'report_number': '6237875996', 'inclusions_note': 'N/A'}",N/A,1,"ANTIQUE DIAMOND RING | Old mine brilliant-cut diamond of 7.51 carats, yellow gold and platinum, circa 1910
+GIA, 2026, report no. 6237875996: 7.51 carats, L color, SI1 clarity
+Size/Dimensions: US ring size 6
+1
+⁄
+2
+Gross Weight: 6.6 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0060_000(antique_diamond_ring022808).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/antique-diamond-ring-60/291961?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+2eb4cba9-7c4d-47c8-a821-b2436ca6ffb6,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 61,USD,40000,60000,None,None,40000,60000,None,None,Diamond Eternity Band Ring,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",8.1,US size 6,ring,N/A,N/A,N/A,N/A,N/A,4,14,N/A,"{'type': 'diamond', 'carat': '1.20 to 1.00', 'shape': 'emerald-cut', 'color': 'D to F', 'clarity': 'VVS1 to VS2', 'measurements': 'N/A'}","{'total_carat': '14.41', 'count': '14', 'color': 'D to F', 'clarity': 'VVS1 to VS2', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '2025', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND ETERNITY BAND RING | Fourteen emerald-cut diamonds ranging from 1.20 to 1.00 carats, platinum
+14 GIA, 2025: 1.20 to 1.00 carats, D to F color, VVS1 to VS2 clarity
+Diamond total weight: 14.41 carats
+Size/Dimensions: US ring size 6
+Gross Weight: 8.1 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0061_000(diamond_eternity_band_ring_d6577056101704).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-eternity-band-ring-61/291962?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+8f8f215e-f6ef-406a-901a-6a3332b504c1,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 62,USD,250000,350000,None,None,250000,350000,None,None,DIAMOND RING,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",9.7,US size 6 1/2,ring,N/A,N/A,N/A,N/A,N/A,99,99,N/A,"{'type': 'diamond', 'carat': '10.03', 'shape': 'round brilliant-cut', 'color': 'D', 'clarity': 'VS1', 'measurements': 'N/A'}","{'total_carat': '0.90 - 1.00', 'count': '98', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '12288920', 'inclusions_note': 'Type IIa'}",N/A,1,"DIAMOND RING | Round brilliant-cut diamond of 10.03 carats, round diamonds, platinum
+GIA, 2026, report no. 12288920: 10.03 carats, D color, VS1 clarity, Type IIa
+Remaining diamonds: approximately 98 round with approximate total weight of 0.90 - 1.00 carat
+Size/Dimensions: US ring size 6
+1
+⁄
+2
+Gross Weight: 9.7 grams
+Please note that bidding for this lot will increase by increments of $10,000 once bidding reaches or exceeds $100,000 or as determined by Christie’s in its sole discretion.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0062_000(diamond_ring101645).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-ring-62/291963?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,320000.0,266666.6666666667
+80091472-edca-4ddd-a599-7f1306de72e1,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 63,USD,200000,400000,None,None,200000,400000,None,None,DIAMOND RIVIERE NECKLACE,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",65.8,N/A,necklace,40.9,N/A,N/A,N/A,N/A,73,73,N/A,"{'type': 'diamond', 'carat': '86.58', 'shape': 'emerald-cut', 'color': 'G to I', 'clarity': 'Internally Flawless to VS2', 'measurements': 'N/A'}","{'total_carat': '86.58', 'count': '73', 'color': 'G to I', 'clarity': 'Internally Flawless to VS2', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '2025', 'inclusions_note': 'N/A'}",N/A,1,"DIAMOND RIVIERE NECKLACE | Seventy-three emerald-cut diamonds ranging from 3.01 to 1.00 carats, platinum
+73 GIA, 2025: G to I color, Internally Flawless to VS2 clarity
+Total diamond weight: 86.58 carats
+Size/Dimensions: 40.9 cm (16
+1
+⁄
+8
+ in)
+Gross Weight: 65.8 grams
+Please note that bidding for this lot will increase by increments of $10,000 once bidding reaches or exceeds $100,000 or as determined by Christie’s in its sole discretion.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0063_000(diamond_riviere_necklace_d6577058030313).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-riviere-necklace-63/291964?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,350000.0,291666.6666666667
+a5cb4429-592c-4f11-96f2-c2a5373f3efe,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 64,USD,300000,500000,None,None,300000,500000,None,None,DIAMOND STUD EARRINGS,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",7.4,N/A,Earrings,N/A,N/A,N/A,N/A,N/A,2,2,N/A,"{'type': 'diamond', 'carat': '5.13 and 5.04', 'shape': 'round brilliant-cut', 'color': 'D', 'clarity': 'VVS2', 'measurements': 'N/A'}","{'total_carat': '10.17', 'count': '2', 'color': 'D', 'clarity': 'VVS2', 'cut': 'excellent'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '14888457 and 14169894', 'inclusions_note': 'potentially Internally Flawless, Type IIa, excellent cut, polish and symmetry'}",N/A,1,"DIAMOND STUD EARRINGS | Round brilliant-cut diamonds of 5.13 and 5.04 carats, platinum
+GIA, 2026, report no. 14888457: 5.13 carats, D color, VVS2 clarity, potentially Internally Flawless, Type IIa, excellent cut, polish and symmetry
+GIA, 2026, report no. 14169894: 5.04 carats, D color, VVS2 clarity, Potential?, Type IIa, excellent cut, polish and symmetry 
+Gross Weight: 7.4 grams
+Please note that bidding for this lot will increase by increments of $10,000 once bidding reaches or exceeds $100,000 or as determined by Christie’s in its sole discretion.
+Please note you must receive prior approval from Christie's Credit Department to bid on this lot. Please contact Client Services at OnlineUS@christies.com for assistance or contact the Jewelry department at +1 212 636 2300.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0064_000(diamond_stud_earrings041331).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-stud-earrings-64/291965?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,420000.0,350000.0
+6605e839-a43d-4244-a37b-742233338e12,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 65,USD,20000,30000,None,None,20000,30000,None,None,CARTIER CARVED EMERALD AND DIAMOND RING,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Cartier,"{'metal_type': 'white gold', 'purity': 'N/A', 'color': 'N/A'}",12.4,US ring size 4 (fits up to US ring size 5),ring,N/A,N/A,N/A,N/A,N/A,1,52,N/A,"{'type': 'emerald', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '1.30 - 1.50', 'count': '52', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old and single-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER CARVED EMERALD AND DIAMOND RING | Carved emerald, old and single-cut diamonds, white gold, circa 1950, signed Cartier
+Diamonds: approximately 52 old and single with approximate total weight of 1.30 - 1.50 carats
+Size/Dimensions: due to design, measures as US ring size 4, however, fits up to approximately US ring size 5
+1
+⁄
+2
+Gross Weight: 12.4 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0065_000(cartier_carved_emerald_and_diamond_ring023038).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-carved-emerald-diamond-ring-65/291966?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,28000.0,23333.333333333336
+218a423a-bf42-4803-b346-6ae3bcac9e0a,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 66,USD,40000,60000,None,None,40000,60000,None,None,CARTIER CARVED EMERALD AND DIAMOND EARRINGS,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Cartier,"{'metal_type': 'platinum and white gold', 'purity': 'N/A', 'color': 'N/A'}",26.0,N/A,Earrings,N/A,N/A,2.8,N/A,N/A,1,86,N/A,"{'type': 'emerald', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '3.00 - 3.50', 'count': '86', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'old and single-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1950,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER CARVED EMERALD AND DIAMOND EARRINGS | Carved emerald, old and single-cut diamonds, platinum and white gold, circa 1950, signed Cartier
+Diamonds: 86 old and single-cut diamond with approximate total weight of 3.00 - 3.50 carats
+Size/Dimensions: 2.8 x 2.8 cm (1
+1
+⁄
+8
+ x 1
+1
+⁄
+8
+ in)
+Gross Weight: 26.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0066_000(cartier_carved_emerald_and_diamond_ring023118).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-carved-emerald-diamond-earrings-66/291967?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+7071bd48-e5c0-40f1-a86f-63f89d8e23ff,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 67,USD,15000,20000,None,None,15000,20000,None,None,"CARTIER EMERALD, RUBY AND DIAMOND EVENING BAG","{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, numbered","{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",46.3,N/A,Evening Bag,N/A,N/A,N/A,N/A,35.5,63,63,N/A,"{'type': 'Emerald, Ruby, Diamond', 'carat': 'N/A', 'shape': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '3.00 - 3.25', 'count': '63', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'round and single-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARTIER EMERALD, RUBY AND DIAMOND EVENING BAG | Carved emerald, round rubies, round and single-cut diamonds, gold metallic fabric and silk lining, 18k yellow gold, circa 1955, signed Cartier, numbered
+Diamonds: approximately 63 round with approximate total weight of 3.00 - 3.25 carats
+Size/Dimensions: evening bag 17.7 x 3.3 x 16.5 cm (7 x 1
+3
+⁄
+4
+ x 6
+1
+⁄
+2
+ in); chain 35.5 cm (14 in)
+Gross Weight: 46.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0067_000(cartier_emerald_ruby_and_diamond_evening_bag023139).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-emerald-ruby-diamond-evening-bag-67/291968?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+f9dcc33e-3dc2-4410-8173-f182f1a9ce53,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 68,USD,15000,20000,None,None,15000,20000,None,None,Diamond and Gold Evening Bag,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",French mark,"{'metal_type': '18k yellow gold', 'purity': '18k', 'color': 'yellow'}",405.4,N/A,Evening Bag,N/A,N/A,N/A,N/A,N/A,31,31,N/A,"{'type': 'diamond', 'carat': '1.60 - 1.80', 'shape': 'round and single-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '1.60 - 1.80', 'count': '31', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1970,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"DIAMOND AND GOLD EVENING BAG | Opening to reveal a single compartment with fitted mirror, round and single-cut diamonds, 18k yellow gold (French mark), Made in France, circa 1970
+Diamonds: approximately 31 round and single-cut with an approximate total weight of 1.60 - 1.80 carats
+Size/Dimensions: 17.7 x 10.1 cm (7 x 4 in)
+Gross Weight: 405.4 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0068_000(diamond_and_gold_evening_bag023218).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-gold-evening-bag-68/291969?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,18500.0,15416.666666666668
+3500f971-69db-4e9f-beb9-ae7e92ce3bfb,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 69,USD,10000,15000,None,None,10000,15000,None,None,Boucheron Gold and Diamond Bracelet,"{'brand': 'Boucheron', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Boucheron, Made in France, maker's mark (André Vassort, partially indistinct)","{'metal_type': 'yellow gold', 'purity': 'N/A', 'color': 'yellow'}",23.8,N/A,bracelet,N/A,17.2,N/A,N/A,N/A,48,48,N/A,"{'type': 'diamond', 'carat': '2.25 - 2.50', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '2.25 - 2.50', 'count': '48', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}","circa 1975, textured",N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"BOUCHERON GOLD AND DIAMOND BRACELET | Round diamonds, textured yellow gold, circa 1975, signed Boucheron, Made in France, maker's mark (André Vassort, partially indistinct)
+Diamonds: 48 round with approximate total weight of 2.25 - 2.50 carats
+Size/Dimensions: 17.2 cm (6
+3
+⁄
+4
+ in)
+Gross Weight: 23.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0069_000(boucheron_gold_and_diamond_bracelet023248).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/boucheron-gold-diamond-bracelet-69/291970?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,13500.0,11250.0
+d0e56a00-9d9e-4e13-8303-7df9711e5754,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 70,USD,60000,80000,None,None,60000,80000,None,None,Sapphire and Diamond Ring,"{'brand': 'Gübelin', 'collection': 'N/A', 'model': 'N/A', 'reference': '2026'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",5.5,5 1/2,ring,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,"{'type': 'sapphire', 'carat': '3.76', 'shape': 'cushion mixed-cut', 'color': 'blue', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'bullet-shaped'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'Gübelin, AGL', 'report_number': '26022152, 1153968', 'inclusions_note': 'no indications of heating, no gemological evidence of heat'}",Kashmir,1,"SAPPHIRE AND DIAMOND RING | Cushion mixed-cut sapphire of 3.76 carats, bullet-shaped diamonds, platinum, numbered
+Gübelin, 2026, report no. 26022152: 3.76 carats, Kashmir, no indications of heating, with Information Sheet on unheated sapphires
+AGL, 2026, report no. 1153968: 3.76 carats, Kashmir, no gemological evidence of heat
+Size/Dimensions: US ring size 5
+1
+⁄
+2
+
+Gross Weight: 5.5 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0070_000(sapphire_and_diamond_ring031608).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/sapphire-diamond-ring-70/291972?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,72000.0,60000.0
+499e843e-369d-4d6b-a974-d9ca34fb92a4,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 71,USD,30000,50000,None,None,30000,50000,None,None,BUCCELLATI DIAMOND AND GOLD 'UNICA' BANGLE BRACELET,"{'brand': 'Buccellati', 'collection': 'Unica', 'model': 'N/A', 'reference': 'N/A'}",signed Buccellati,"{'metal_type': '18k yellow and white gold', 'purity': '18k', 'color': 'yellow and white'}",60.2,N/A,Bracelet,N/A,15.8,N/A,N/A,N/A,156,156,N/A,"{'type': 'rose-cut diamond', 'carat': '6.40 - 6.50', 'shape': 'rose-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '6.40 - 6.50', 'count': '156', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'rose-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",Italy,1,"BUCCELLATI DIAMOND AND GOLD 'UNICA' BANGLE BRACELET | Rose-cut diamonds, 18k yellow and white gold, signed Buccellati, Italy, blue Buccellati case and outer box
+Buccellati, 2023: Letter of Valuation
+Diamonds: 156 rose-cut with an approximate total weight of 6.40 - 6.50 carats
+Size/Dimensions: inner circumference 15.8 cm (6
+1
+⁄
+4
+ in); inner diameter 5.0 cm (2 in)
+Gross Weight: 60.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0071_000(buccellati_diamond_and_gold_unica_bangle_bracelet023347).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/buccellati-diamond-gold-unica-bangle-bracelet-71/291971?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,46000.0,38333.333333333336
+7e80b7fe-6522-4683-9c06-b659c8e7f86f,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 72,USD,40000,60000,None,None,40000,60000,None,None,BUCCELLATI EMERALD AND DIAMOND CUFF BRACELET,"{'brand': 'Buccellati', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","M. Buccellati, Italy","{'metal_type': '18k yellow gold and white gold', 'purity': '18k', 'color': 'yellow and white'}",77.0,N/A,Bracelet,N/A,17.8,N/A,N/A,N/A,27,24,N/A,"{'type': 'Emerald', 'carat': '7.50 - 8.50', 'shape': 'oval-cut', 'color': 'green', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '2.25 - 2.50', 'count': '24', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",Italy,1,"BUCCELLATI EMERALD AND DIAMOND CUFF BRACELET | Oval-shaped emeralds, round diamonds, textured 18k yellow gold and white gold, signed M. Buccellati, Italy
+Emeralds: 3 oval-cut with approximate total weight of 7.50 - 8.50 carats
+Diamonds: 24 round with approximate total weight of 2.25 - 2.50 carats
+Size/Dimensions: inner diameter 5.7 cm (2
+1
+⁄
+4
+ in), inner continuous circumference 17.8 x 4.1 cm (7 x 1
+5
+⁄
+8
+ in)
+Gross Weight: 77.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0072_000(buccellati_emerald_and_diamond_cuff_bracelet023412).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/buccellati-emerald-diamond-cuff-bracelet-72/291973?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+6334bc24-6fc0-4d05-aafb-ff6e723207fe,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 73,USD,6000,8000,None,None,6000,8000,None,None,CARTIER DIAMOND AND GOLD 'GRAIN DE CAFÉ' EARRINGS,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'Grain de Café', 'reference': 'N/A'}","Signed Cartier, Paris, numbered","{'metal_type': '18k yellow gold and platinum', 'purity': 'N/A', 'color': 'Yellow'}",16.0,N/A,Earrings,N/A,N/A,2.2,N/A,N/A,N/A,N/A,N/A,"{'type': 'Diamond', 'carat': 'N/A', 'shape': 'Round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Circa 1955,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"CARTIER DIAMOND AND GOLD 'GRAIN DE CAFÉ' EARRINGS | Round diamonds, 18k yellow gold and platinum (French marks), circa 1955, signed Cartier, Paris, numbered
+Size/Dimensions: 2.2 x 2.2 cm (
+7
+⁄
+8
+ x 
+7
+⁄
+8
+ in)
+Gross Weight: 16.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0073_000(cartier_diamond_and_gold_grain_de_cafe_earrings023433).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-gold-grain-de-cafe-earrings-73/291974?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,7200.0,6000.0
+884ce25a-74b6-4dc9-85a4-53d63d777e09,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 74,USD,10000,15000,None,None,10000,15000,None,None,"VAN CLEEF & ARPELS EMERALD, ONYX AND DIAMOND 'LION ÉBOURIFFÉ' CLIP-BROOCH","{'brand': 'Van Cleef & Arpels', 'collection': 'N/A', 'model': 'Lion Ébouriffé', 'reference': 'N/A'}","signed Van Cleef & Arpels, maker's marks (Péry & Fils)","{'metal_type': '18k yellow gold and platinum', 'purity': 'N/A', 'color': 'yellow'}",21.3,N/A,brooch,N/A,N/A,N/A,N/A,N/A,3,N/A,N/A,"{'type': 'emerald', 'carat': 'N/A', 'shape': 'round', 'color': 'green', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",stylized lion,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"VAN CLEEF & ARPELS EMERALD, ONYX AND DIAMOND 'LION ÉBOURIFFÉ' CLIP-BROOCH | Designed as a stylized lion, round emeralds, carved onyx plaque, round diamonds, 18k yellow gold (French marks) and platinum, circa 1962, signed Van Cleef & Arpels, maker's marks (Péry & Fils), numbered
+Size/Dimensions: 4.8 x 2.9 cm (1
+7
+⁄
+8
+ x 1
+1
+⁄
+8
+ in)
+Gross Weight: 21.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0074_000(van_cleef_amp_arpels_emerald_onyx_and_diamond_lion_ebouriffe_clip-broo023454).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/van-cleef-arpels-emerald-onyx-diamond-lion-ebouriffe-clip-brooch-74/291975?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+38110390-1cf4-4bac-9586-89a4f91a2a52,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 75,USD,12000,18000,None,None,12000,18000,None,None,CARTIER DIAMOND AND GOLD CLIP-BROOCH,"{'brand': 'Cartier', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","signed Cartier, Paris, numbered (partially indistinct)","{'metal_type': '18k yellow gold and platinum', 'purity': 'N/A', 'color': 'yellow gold'}",10.1,N/A,brooch,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': 'N/A', 'shape': 'round, epaulette, triangular', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}","circa 1960, designed as a bird",N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",France,1,"CARTIER DIAMOND AND GOLD CLIP-BROOCH | Designed as a bird, round, epaulette and triangular-shaped diamonds, 18k yellow gold and platinum (French marks), circa 1960, signed Cartier, Paris, numbered (partially indistinct), red Cartier case
+Size/Dimensions: 3.5 x 3.2 cm (1
+3
+⁄
+8
+ x 1
+1
+⁄
+4
+ in)
+Gross Weight: 10.1 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0075_000(cartier_diamond_and_gold_clip-brooch023514).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/cartier-diamond-gold-clip-brooch-75/291976?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,16500.0,13750.0
+23d6d11b-cffd-422a-a40c-d70ff365adf5,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 76,USD,8000,12000,None,None,8000,12000,None,None,Pair of Diamond Scroll Clip-Brooches,"{'brand': 'Van Cleef & Arpels', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","Each signed Van Cleef & Arpels, N.Y., each numbered","{'metal_type': 'Yellow Gold and Platinum', 'purity': 'N/A', 'color': 'N/A'}",24.9,N/A,Brooches,N/A,N/A,N/A,N/A,N/A,36,36,N/A,"{'type': 'Diamond', 'carat': '1.00 - 1.25', 'shape': 'Round and Single-Cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '1.00 - 1.25', 'count': '36', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",Circa 1960,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,2,"VAN CLEEF & ARPELS PAIR OF DIAMOND SCROLL CLIP-BROOCHES | Round and single-cut diamonds, yellow gold and platinum, circa 1960, each signed Van Cleef & Arpels, N.Y., each numbered
+Diamonds: approximately 36 round and single-cut with approximate total weight of 1.00 - 1.25 carats
+Size/Dimensions: each 2.9 x 2.0 cm (1
+1
+⁄
+8
+ x 
+3
+⁄
+4
+ in) 
+Gross Weight: 24.9 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0076_000(van_cleef_amp_arpels_pair_of_diamond_scroll_clip-brooches101803).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/van-cleef-arpels-pair-diamond-scroll-clip-brooches-76/291977?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,11000.0,9166.666666666668
+9e0371c4-2962-4031-a0b1-c6a5d5994ac2,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 77,USD,8000,12000,None,None,8000,12000,None,None,CARVIN FRENCH CAT'S EYE CHRYSOBERYL AND PLATINUM RING,"{'brand': 'Carvin French', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",maker's mark (Carvin French),"{'metal_type': 'Platinum', 'purity': 'N/A', 'color': 'N/A'}",28.2,10,Ring,N/A,N/A,N/A,N/A,N/A,1,0,0,"{'type': ""Cat's Eye Chrysoberyl"", 'carat': '10.50 - 11.50', 'shape': 'Near-round cabochon', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'approximately 13.50 - 13.30 x 9.30 mm'}","{'total_carat': 'N/A', 'count': '0', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': '0', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"CARVIN FRENCH CAT'S EYE CHRYSOBERYL AND PLATINUM RING | Near-round cat's eye chrysoberyl cabochon, platinum, maker's mark (Carvin French)
+Cat's Eye Chrysoberyl: measuring approximately 13.50 - 13.30 x 9.30 mm with an approximate weight of 10.50 - 11.50 carats
+Size/Dimensions: US ring size 10
+3
+⁄
+4
+Gross Weight: 28.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0077_000(carvin_french_cats_eye_chrysoberyl_and_platinum_ring023556).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/carvin-french-cats-eye-chrysoberyl-platinum-ring-77/291978?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,10500.0,8750.0
+e4c0ee14-c5ea-4645-8b03-570d6989e088,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 78,USD,20000,30000,None,None,20000,30000,None,None,"FEI LIU AQUAMARINE, DIAMOND AND MOTHER-OF-PEARL 'IMPERFECTION' NECKLACE","{'brand': 'FEI LIU', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed FL,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",173.60,N/A,necklace,40.6,N/A,N/A,N/A,N/A,774,773,N/A,"{'type': 'aquamarine', 'carat': '50.00 - 50.25', 'shape': 'drop-shaped', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '25.00 - 25.50', 'count': '773', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",feathers and a wing of a bird,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"FEI LIU AQUAMARINE, DIAMOND AND MOTHER-OF-PEARL 'IMPERFECTION' NECKLACE | Designed as feathers and a wing of a bird, drop-shaped aquamarine, round and rose-cut diamonds, platinum, signed FL
+Aquamarine: with an approximate weight of 50.00 - 50.25 carats
+Diamonds: approximately 773 round with an approximate total weight of 25.00 - 25.50 carats
+Size/Dimensions: necklace 40.6 cm (16 in); brooch 38.7 x 4.7 cm (5
+1
+⁄
+4
+ x 1
+7
+⁄
+8
+ in)
+Gross Weight: 173.60 grams
+~Please note that this lot is made from or contains material that may be either protected or regulated. 
+This lot will be restricted to clients within the United States or to clients that collect the lot at Christie's New York. 
+Please check the relevant customs laws before bidding on this lot and see Section G5 of Conditions of Sale for definitions of cataloguing symbols and further information. Please contact Christie’s Jewelry Department with any additional questions before bidding.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0078_000(fei_liu_aquamarine_diamond_and_mother-of-pearl_imperfection_necklace023622).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/fei-liu-aquamarine-diamond-mother-of-pearl-imperfection-necklace-78/291980?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,27500.0,22916.666666666668
+10470c72-088c-4483-aba4-4bc7696925b0,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 79,USD,15000,20000,None,None,15000,20000,None,None,TSAVORITE GARNET RING,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",1.2,US size 5 3/4,ring,N/A,N/A,N/A,N/A,N/A,1,0,0,"{'type': 'tsavorite garnet', 'carat': '6.15', 'shape': 'cushion mixed-cut', 'color': 'green', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': '0', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': '0', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'AGL', 'report_number': '1150298', 'inclusions_note': 'no gemological evidence of enhancements/treatments present'}",East Africa,1,"TSAVORITE GARNET RING | Cushion mixed-cut tsavorite garnet of 6.15 carats, platinum
+AGL, report no. 1150298: 6.15 carats, East Africa, no gemological evidence of enhancements/treatments present
+Size/Dimensions: US ring size 5
+3
+⁄
+4
+Gross Weight: 1.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0079_000(tsavorite_garnet_ring105446).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tsavorite-garnet-ring-79/291979?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,17500.0,14583.333333333334
+605af056-8292-410a-8f72-53e1abd2b2e6,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 80,USD,20000,30000,None,None,20000,30000,None,None,Tourmaline and Diamond Ring,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}","AGL, 2025, report no. 1152253","{'metal_type': 'Platinum', 'purity': 'N/A', 'color': 'N/A'}",5.8,US size 6,Ring,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,"{'type': 'Paraíba-type tourmaline', 'carat': '9.54', 'shape': 'Cushion modified brilliant-cut', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'AGL', 'report_number': '1152253', 'inclusions_note': 'Clarity enhancement: none, color stability: excellent'}",Mozambique,1,"TOURMALINE AND DIAMOND RING | Cushion modified brilliant-cut Paraíba-type tourmaline of 9.54 carats, round diamonds, platinum 
+AGL, 2025, report no. 1152253: 9.54 carats, Paraíba variety, Mozambique, Note: this color variety of tourmaline is commonly the result of a relatively low temperature heating process, clarity enhancement: none, color stability: excellent
+Size/Dimensions: US ring size 6
+Gross Weight: 5.8 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0080_000(tourmaline_and_diamond_ring023715).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tourmaline-diamond-ring-80/291981?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,26500.0,22083.333333333336
+17f58a4f-e1c4-4690-a55d-caca63ef1551,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 81,USD,120000,180000,None,None,120000,180000,None,None,TIFFANY & CO. DIAMOND RING,"{'brand': 'Tiffany & Co.', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Tiffany & Co.,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",6.7,US size 5,ring,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': '6.03', 'shape': 'emerald-cut', 'color': 'G', 'clarity': 'VS1', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '1236587898', 'inclusions_note': '6.03 carats, G color, VS1 clarity, excellent polish and symmetry'}",N/A,1,"TIFFANY & CO. DIAMOND RING | Emerald-cut diamond of 6.03 carats, round diamonds, platinum, signed Tiffany & Co.
+GIA, 2025, report no. 1236587898: 6.03 carats, G color, VS1 clarity, excellent polish and symmetry 
+Size/Dimensions: US ring size 5 
+Gross Weight: 6.7 grams
+Please note that bidding for this lot will increase by increments of $10,000 once bidding reaches or exceeds $100,000 or as determined by Christie’s in its sole discretion.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0081_000(tiffany_amp_co_diamond_ring_d6577076021555).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/tiffany-co-diamond-ring-81/291982?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,165000.0,137500.0
+af96ee53-5545-4548-af41-d5e9ebe8be57,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 83,USD,40000,60000,None,None,40000,60000,None,None,TWIN-STONE SAPPHIRE AND DIAMOND RING,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",18k white gold,"{'metal_type': 'white gold', 'purity': '18k', 'color': 'N/A'}",8.3,US size 5 3/4,ring,N/A,N/A,N/A,N/A,N/A,5,1,N/A,"{'type': 'sapphire', 'carat': '4.03', 'shape': 'cushion mixed-cut', 'color': 'Royal Blue', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '3.01', 'count': '1', 'color': 'H', 'clarity': 'SI1', 'cut': 'old mine brilliant-cut'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'SSEF, GIA', 'report_number': '148462, 3525954340', 'inclusions_note': 'no indications of heating, excellent polish and symmetry'}",Ceylon,1,"TWIN-STONE SAPPHIRE AND DIAMOND RING | Cushion mixed-cut sapphire of 4.03 carats, old mine brilliant-cut diamond of 3.01 carats, baguette and tapered-baguette sapphires and diamonds, 18k white gold
+SSEF, 2025, report no. 148462: 4.035 carats, Ceylon, no indications of heating, Royal Blue
+GIA, 2025, report no. 3525954340: 3.01 carats, H color, SI1 clarity, excellent polish and symmetry
+Size/Dimensions: US ring size 5
+3
+⁄
+4
+Gross Weight: 8.3 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0083_000(twin-stone_sapphire_and_diamond_ring023826).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/twin-stone-sapphire-diamond-ring-83/291986?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,52000.0,43333.333333333336
+5abce41f-3579-46ac-b930-9bf58a88123e,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 84,USD,300000,500000,None,None,300000,500000,None,None,DIAMOND RING,"{'brand': 'N/A', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",N/A,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",6.4,US ring size 6,ring,N/A,N/A,N/A,N/A,N/A,1,1,0,"{'type': 'diamond', 'carat': '8.85', 'shape': 'marquise brilliant-cut', 'color': 'D', 'clarity': 'Internally Flawless', 'measurements': 'N/A'}","{'total_carat': '8.85', 'count': '1', 'color': 'D', 'clarity': 'Internally Flawless', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': '0', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'GIA', 'report_number': '2233801888', 'inclusions_note': 'Type IIa'}",N/A,1,"DIAMOND RING | Marquise brilliant-cut diamond of 8.85 carats, platinum
+GIA, 2026, report no. 2233801888: 8.85 carats, D color, Internally Flawless, Type IIa
+Size/Dimensions: US ring size 6
+Gross Weight: 6.4 grams
+Please note that bidding for this lot will increase by increments of $10,000 once bidding reaches or exceeds $100,000 or as determined by Christie’s in its sole discretion.
+Please note you must receive prior approval from Christie's Credit Department to bid on this lot. Please contact Client Services at OnlineUS@christies.com for assistance or contact the Jewelry department at +1 212 636 2300.",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0084_000(diamond_ring_d6577079021611).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/diamond-ring-84/291984?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,420000.0,350000.0
+4c973cc3-213a-4603-ae9e-cc0b93305263,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 85,USD,20000,30000,None,None,20000,30000,None,None,BULGARI DIAMOND AND WHITE GOLD 'PARENTESI' NECKLACE,"{'brand': 'Bvlgari', 'collection': 'Parentesi', 'model': 'N/A', 'reference': 'N/A'}","signed Bvlgari, Italian marks","{'metal_type': 'white gold', 'purity': '18k', 'color': 'N/A'}",143.0,N/A,necklace,38.1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"{'type': 'diamond', 'carat': 'N/A', 'shape': 'round', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': 'N/A', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",N/A,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",Italy,1,"BULGARI DIAMOND AND WHITE GOLD 'PARENTESI' NECKLACE | Round diamonds, 18k white gold (Italian marks), signed Bvlgari, Made in Italy, black Bvlgari envelope pouch and outer box
+Size/Dimensions: 38.1 cm (15 in)
+Gross Weight: 143.0 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0085_000(bulgari_diamond_and_white_gold_parentesi_necklace023924).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/bulgari-diamond-white-gold-parentesi-necklace-85/291985?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,26500.0,22083.333333333336
+8f9eb188-fb44-4765-a2e7-ec81db1eb1e7,Jewelry,Christie's,24487,2024-03-09,New York,Jewels Online,https://www.christies.com/en/auction/jewels-online-24487-nyr/,Lot 86,USD,20000,30000,None,None,20000,30000,None,None,BULGARI SAPPHIRE AND DIAMOND EARRINGS,"{'brand': 'Bulgari', 'collection': 'N/A', 'model': 'N/A', 'reference': 'N/A'}",signed Bvlgari,"{'metal_type': 'platinum', 'purity': 'N/A', 'color': 'N/A'}",30.2,N/A,Earrings,N/A,N/A,2.8,N/A,N/A,2,N/A,N/A,"{'type': 'Sapphire', 'carat': '5.50 - 6.50', 'shape': 'Cushion', 'color': 'N/A', 'clarity': 'N/A', 'measurements': 'N/A'}","{'total_carat': '7.00 - 8.00', 'count': 'N/A', 'color': 'N/A', 'clarity': 'N/A', 'cut': 'N/A'}","{'type': 'N/A', 'diameter': 'N/A', 'count': 'N/A', 'color': 'N/A', 'luster': 'N/A', 'surface_quality': 'N/A'}",circa 1960,N/A,"{'lab': 'N/A', 'report_number': 'N/A', 'inclusions_note': 'N/A'}",N/A,1,"BULGARI SAPPHIRE AND DIAMOND EARRINGS | Cushion-shaped sapphires, baguette and round diamonds, platinum, circa 1960, signed Bvlgari
+Sapphires: with approximate weight of 5.50 - 6.50 carats
+Diamonds: with approximate total weight of 7.00 - 8.00 carats
+Size/Dimensions: 2.8 x 2.8 cm (1
+1
+⁄
+8
+ x 1
+1
+⁄
+8
+ in)
+Gross Weight: 30.2 grams",https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24487_0086_000(bulgari_sapphire_and_diamond_earrings023947).jpg?mode=max&amp;width=600,https://onlineonly.christies.com/s/jewels-online/bulgari-sapphire-diamond-earrings-86/291987?ldp_breadcrumb=back,None,None,47501.55,29.49,77.24,3.72,None,nan,gpt-4.1-mini,28500.0,23750.0
