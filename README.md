@@ -2,6 +2,8 @@
 
 This repository contains the complete normal-versus-V2 auction-data comparison and Daily Pricing rerun for Artwork, Cars, and Memorabilia.
 
+The project register is maintained in the Google Sheet [V2 Comparebles](https://docs.google.com/spreadsheets/d/1Fq3_2o6asHOzoGQFeUtw4fC5I9eN5sR_sm_1kK6hHOI/edit?gid=0#gid=0). The sheet contains the completion status, file coverage, row counts, findings, and report path for every asset and auction house.
+
 The main project folder is [V2Comparisons](V2Comparisons/). Its README explains the workflow, matching decisions, data-quality findings, final results, charts, generated tables, and remaining model-data requirements.
 
 ## Start here

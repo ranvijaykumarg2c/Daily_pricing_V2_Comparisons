@@ -15,6 +15,12 @@ The analysis compares, for each asset and auction house:
 
 The project does not claim model accuracy for Barkr, Local Pricer, Standard, or Llama because item-level prediction files were not present in the supplied data.
 
+## Comparison register and source sheet
+
+The working register for this project is the Google Sheet [V2 Comparebles](https://docs.google.com/spreadsheets/d/1Fq3_2o6asHOzoGQFeUtw4fC5I9eN5sR_sm_1kK6hHOI/edit?gid=0#gid=0). It contains the asset, auction house, normal/V2/CSV file counts, paired and unmatched file counts, row counts, mismatch counts, key findings, report path, and completion status. The Markdown reports and rerun outputs in this repository are the detailed evidence behind that register.
+
+The work was completed in this order: Artwork auction house by auction house, then Cars, then Memorabilia. Empty folders were retained and recorded as completed no-data units so that missing data is distinguishable from unfinished analysis.
+
 ## Repository structure
 
 ```text
@@ -136,6 +142,46 @@ Memorabilia produced 883 eligible matched lots. The low estimate had the lowest 
 
 The combined Memorabilia input did not require currency inference for the final matched sample. The rerun included house, type, sport, estimate-band, quarter, coverage, dollar-error, and outlier tables.
 
+## Complete auction-house findings register
+
+The following is the repository-readable summary of the Google Sheet register. For the full counts and row-level details, use the linked sheet and the individual report in the last column.
+
+| Asset | Auction house | Coverage and result | Main finding / decision | Detailed report |
+|---|---|---|---|---|
+| Artwork | Bonhams | 210 normal, 196 V2, 182 paired; 25,543 vs 23,749 rows; 16 CSVs | V2 differs in coverage, row counts, schema, descriptive fields, and realized prices. Normalize IDs, numeric values, and nulls before pricing comparison. | [Report](Report/Artworks/Bonhams/findings_report.md) |
+| Artwork | Christies | 224 normal, 235 V2, 200 paired; 24,147 vs 26,688 rows; 28 CSVs | Use `lot_url` as the stable key. Major changes are in subject matter, realized prices, and hammer price. | [Report](Report/Artworks/Christies/findings_report.md) |
+| Artwork | Freemans | 19 normal, 10 V2, 7 paired; 3,139 vs 823 rows; no CSV | V2 coverage is incomplete. Of 375 matched records, 296 changed, mainly in subject matter. No Freemans Artwork CSV export was available. | [Report](Report/Artworks/Freemans/findings_report.md) |
+| Artwork | Hindman | 42 normal, 41 V2, 38 paired; 5,811 vs 5,177 rows; 1 CSV | Near-complete coverage but fewer V2 rows. 4,047 of 4,350 common records changed, led by hammer price, realized price, and subject matter. | [Report](Report/Artworks/Hindman/findings_report.md) |
+| Artwork | Phillips | 86 normal, 95 V2, 71 paired; 10,387 vs 12,127 rows; 5 CSVs | V2 has more coverage and rows. 7,471 of 8,578 common records changed, led by hammer price, realized price, subject matter, and medium. | [Report](Report/Artworks/Phillips/findings_report.md) |
+| Artwork | Sothebys | 234 normal, 235 V2, 221 paired; 21,359 vs 22,157 rows; 22 CSVs | V2 has slightly more coverage and rows. 15,651 of 18,533 common records changed, led by realized price, hammer price, subject matter, and description. | [Report](Report/Artworks/Sothebys/findings_report.md) |
+| Cars | AutoHunter_Classic | No normal JSON, V2 JSON, or CSV | No comparison or daily-pricing analysis was applicable; folder retained as a documented no-data unit. | [Report](Report/Cars/AutoHunter_Classic/findings_report.md) |
+| Cars | Bonhams | No data in the Bonhams folder | The downloaded car data is stored separately under `Bonhams_Cars`; it was not counted as Bonhams. | [Report](Report/Cars/Bonhams/findings_report.md) |
+| Cars | Bonhams_Cars | 13 normal, 15 V2, 8 paired; 1,666 vs 1,768 rows; 5 CSVs | V2 has asymmetric coverage and 102 more rows. 159 of 423 common records changed mainly in descriptions, realized prices, URLs, estimates, and titles. | [Report](Report/Cars/Bonhams_Cars/findings_report.md) |
+| Cars | Bring_A_Trailer | No normal JSON, V2 JSON, or CSV | No comparison or daily-pricing analysis was applicable. | [Report](Report/Cars/Bring_A_Trailer/findings_report.md) |
+| Cars | Broad_Arrow | 8 normal, 8 V2, 6 paired; 692 vs 705 rows; 9 CSVs | V2 has 13 more rows. 368 of 369 common records changed mainly in descriptions and estimates; CSV output includes a duplicate stem across months. | [Report](Report/Cars/Broad_Arrow/findings_report.md) |
+| Cars | Classic_Trader | No normal JSON, V2 JSON, or CSV | Local folder is empty; no comparison or daily-pricing analysis was applicable. | [Report](Report/Cars/Classic_Trader/findings_report.md) |
+| Cars | Dyler | No normal JSON, V2 JSON, or CSV | Local folder is empty; no comparison or daily-pricing analysis was applicable. | [Report](Report/Cars/Dyler/findings_report.md) |
+| Cars | Gooding_Co | 3 normal, 1 V2, 1 paired; 398 vs 133 rows; 6 CSVs | Paired 4D data is identical for 133 records with no selected-field changes. CSV output has six exports across three stems. | [Report](Report/Cars/Gooding_Co/findings_report.md) |
+| Cars | Mathewsons | 1 normal, 3 V2, 1 paired; 900 vs 811 rows; 1 CSV | Paired 1B has 900 normal vs 599 V2 rows but zero shared URLs/IDs. V2-only files add 212 rows; direct record comparison is not possible. | [Report](Report/Cars/Mathewsons/findings_report.md) |
+| Cars | Mecum | 7 normal, 3 V2, 1 paired; 4,301 vs 1,734 rows; 3 CSVs | Paired 4D has 40 common records with no selected-field changes, but 68 normal vs 40 V2 rows. Six normal-only and two V2-only files remain. | [Report](Report/Cars/Mecum/findings_report.md) |
+| Memorabilia | Bonhams | 3 normal, 3 V2, 3 paired; 362 vs 362 rows; 5 CSVs | All 362 paired records matched by `lot_url`. Changes are concentrated in estimates and seven titles; realized prices were unchanged. | [Report](Report/Memorabilia/Bonhams/findings_report.md) |
+| Memorabilia | Broad_Arrow | 2 normal, 1 V2, no paired stem; 388 vs 197 rows; 2 CSVs | No normal/V2 pair exists. Normal 4N/4O have matching CSVs; V2-only 4I has no matching CSV export. | [Report](Report/Memorabilia/Broad_Arrow/findings_report.md) |
+| Memorabilia | Christies | 8 normal, 7 V2, 7 paired; 837 vs 787 rows; 6 CSVs | 757 paired records matched by `lot_url`, with 485 selected-field changes, including 284 sale-price changes. Three pairs have row mismatches. | [Report](Report/Memorabilia/Christies/findings_report.md) |
+| Memorabilia | Freemans | 1 normal, 1 V2, 1 paired; 412 vs 412 rows; 1 CSV | V2 lacks `lot_url`. Title fallback matched 385 records and found 1,492 selected-field changes, including 361 sale-price changes. | [Report](Report/Memorabilia/Freemans/findings_report.md) |
+| Memorabilia | Goldin | 1 normal, no V2; 383 vs 0 rows; 1 CSV | No V2 JSON was available. The normal JSON and CSV each contain 383 rows; two misplaced Freemans files were excluded. | [Report](Report/Memorabilia/Goldin/findings_report.md) |
+| Memorabilia | Hindman | 2 normal, 2 V2, 2 paired; 715 vs 715 rows; 2 CSVs | All 715 records matched by `lot_url`; no selected-field differences were found. | [Report](Report/Memorabilia/Hindman/findings_report.md) |
+| Memorabilia | Mathewsons | 2 normal, no V2; 1,779 vs 0 rows; 1 CSV | No V2 JSON was available. The CSV has 879 rows and corresponds to the 4F normal file. | [Report](Report/Memorabilia/Mathewsons/findings_report.md) |
+| Memorabilia | SCP_Auction | 1 normal, 1 V2, 1 paired; 519 vs 519 rows; 1 CSV | All 519 records matched by `lot_url` with no selected-field differences. No V2-driven pricing changes are required. | [Report](Report/Memorabilia/SCP_Auction/findings_report.md) |
+| Memorabilia | Sothebys | 33 normal, 30 V2, 27 paired; 3,005 vs 2,479 rows; 40 CSVs | 1,910 paired records matched by `lot_url`, with 4,146 selected-field changes, including 1,792 sale-price changes. Nine pairs have row mismatches. | [Report](Report/Memorabilia/Sothebys/findings_report.md) |
+
+### How to read the register
+
+- **Normal/V2 files** are the downloaded JSON outputs before and after the V2 comparison changes.
+- **Paired** means the normal and V2 filename stems were both present; normal-only and V2-only stems were kept separate.
+- **Rows** are the total JSON rows in the corresponding asset/auction-house folders, not necessarily unique lots.
+- **CSV counts and rows** refer to the available daily-pricing CSV exports and are used as a separate validation/comparison source.
+- A completed no-data row is an intentional result, not an error: it means the expected source files were not available in that auction-house folder.
+
 ## Key decisions and rationale
 
 | Decision | Rationale |
@@ -181,6 +227,14 @@ Report/<Asset>/<AuctionHouse>/findings_report.md
 - Artwork: `Report/DailyPricing_Rerun_2026-11-15/Artwork/`
 - Cars: `Report/DailyPricing_Rerun_2026-11-15/Cars/`
 - Memorabilia: `Report/DailyPricing_Rerun_2026-11-15/Memorabilia/`
+
+### Charts and graphs
+
+The rerun charts are embedded above and stored with the outputs so they can be viewed independently:
+
+- Artwork: `01_hammer_distribution.png`, `02_actual_vs_midpoint.png`, `03_range_position.png`, `04_house_error.png`, `05_estimated_value_error.png`, and `06_quarter_error.png`.
+- Cars: `01_estimate_error_by_event.png` and `02_range_position_by_event.png`.
+- Memorabilia: the CSV summary tables under `Report/DailyPricing_Rerun_2026-11-15/Memorabilia/` provide the house, type, sport, estimate-band, quarter, coverage, dollar-error, and outlier breakdowns; no image chart was generated for this asset in the rerun package.
 
 ## What is still needed for model comparison
 
