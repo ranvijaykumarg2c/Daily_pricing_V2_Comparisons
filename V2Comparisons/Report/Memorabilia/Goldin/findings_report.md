@@ -25,6 +25,4 @@ The folder also contains two Freemans files copied into the Goldin directory. Th
 
 Goldin cannot yet be included in the V2 comparison rerun because the V2 JSON output is missing. The available normal JSON and CSV can be reconciled, but no V2-based pricing difference can be calculated.
 
-## Next step
 
-Proceed to `Memorabilia → Hindman` after confirmation.

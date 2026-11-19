@@ -27,6 +27,4 @@ The normal dataset also contains two unpaired files (`1A` and `4A`), contributin
 
 For the available paired Gooding Co data, the V2 output does not change the pricing or selected descriptive fields. The existing normal values can be retained for the paired `4D` comparison, subject to the broader CSV reconciliation.
 
-## Next step
 
-Proceed to `Cars → Mathewsons` after confirmation.

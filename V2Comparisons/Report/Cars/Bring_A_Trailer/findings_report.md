@@ -22,6 +22,4 @@ This report records the availability check for the Bring A Trailer Cars auction-
 
 The `V2Comparisons\Cars\Bring_A_Trailer` folder is empty, and no matching Bring A Trailer Cars CSV exports were found under `V2Comparisons\Output`. There is no base/v2/CSV comparison or daily-pricing analysis to perform.
 
-## Status
 
-Completed as a no-data auction-house check. The next unit is `Cars → Broad_Arrow`.

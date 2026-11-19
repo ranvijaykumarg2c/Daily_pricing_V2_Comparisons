@@ -27,10 +27,5 @@ This report compares the normal standardized JSON files, matching `_v2` JSON fil
 4. The largest changes are in realized-price fields (`ah_price`, `ah_price_usd`, and `hammer_price_usd`), followed by subject matter and description fields. Artwork titles, descriptions, medium, and estimates also change for subsets of records.
 5. Twenty-two CSV exports are available with 1,775 rows. CSV counts match the normal JSON for 17 covered stems and the v2 JSON for 15, so the CSV layer is mixed and requires explicit version alignment before pricing conclusions are drawn.
 
-## Comparison rule for the next stage
 
-Use the normalized record key for matched files, keep coverage and row-count differences separate, and normalize numeric/null values before comparing CSV pricing outputs.
 
-## Status
-
-Completed for `Artworks → Sothebys`. The Artworks asset is complete; the next asset is Cars.

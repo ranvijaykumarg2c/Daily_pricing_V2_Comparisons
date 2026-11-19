@@ -29,10 +29,4 @@ This report compares the normal standardized JSON files, matching `_v2` JSON fil
 6. Five Cars CSV exports are available with 797 rows. Their counts align with the normal JSON files for all five stems; three align with the v2 counts. CSVs should therefore be treated as primarily base-version pricing outputs unless version provenance is confirmed.
 7. Additional CSVs under the same bucket source are located in a `Memorabilia` path and were excluded from this Cars analysis.
 
-## Comparison rule for the next stage
 
-Keep `Bonhams_Cars` as the source folder identity, exclude CSVs from non-Cars asset paths, and normalize URL, numeric, and null values before comparing pricing fields.
-
-## Status
-
-Completed for `Cars → Bonhams_Cars`. The next unit is `Cars → Bring_A_Trailer`.

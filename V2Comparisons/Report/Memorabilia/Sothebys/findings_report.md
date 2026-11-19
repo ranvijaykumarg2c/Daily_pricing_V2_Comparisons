@@ -26,6 +26,4 @@ Nine paired stems have row-count mismatches. The largest population differences 
 
 Sothebys Memorabilia has substantial V2 pricing impact, especially in realized prices and USD realized prices. Because of the row mismatches and unpaired files, the CSV outputs and auction-stem coverage should be reconciled before finalizing the daily pricing rerun.
 
-## Next step
 
-All Memorabilia auction houses in the current sequence are complete. Proceed to the next asset after confirmation.

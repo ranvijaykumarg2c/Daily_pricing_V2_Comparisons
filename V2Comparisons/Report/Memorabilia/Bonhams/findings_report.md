@@ -26,6 +26,4 @@ The CSV count includes only exports under the Bonhams auction-house path. Simila
 
 Bonhams V2 changes are concentrated in estimate values, while realized prices remain unchanged in the compared records. The V2 data is suitable for the pricing rerun after validating the estimate differences against the five matching CSV exports.
 
-## Next step
 
-Proceed to `Memorabilia → Broad Arrow` after confirmation.

@@ -28,10 +28,4 @@ This report compares the normal standardized JSON files, matching `_v2` JSON fil
 4. The largest changes are in description blocks and estimate fields. Realized-price fields and model also change for subsets of records.
 5. Nine CSV exports represent eight stems because one stem appears in more than one output month. They contain 863 rows; seven represented stems align with normal JSON counts and three align with v2 counts.
 
-## Comparison rule for the next stage
 
-Keep output month as part of CSV provenance when duplicate stems occur, and normalize URL, numeric, and null values before comparing pricing fields.
-
-## Status
-
-Completed for `Cars → Broad_Arrow`. The next unit is `Cars → Classic_Trader`.

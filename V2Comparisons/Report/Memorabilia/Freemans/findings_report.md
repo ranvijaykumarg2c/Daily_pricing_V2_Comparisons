@@ -26,6 +26,4 @@ The V2 file also uses a different schema and includes lot numbers in `asset_numb
 
 Freemans V2 materially changes pricing fields for the title-matched records. Because the V2 data lacks lot URLs, title-based matching should be validated before the final daily pricing output is generated.
 
-## Next step
 
-Proceed to `Memorabilia → Goldin` after confirmation.

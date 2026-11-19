@@ -28,11 +28,3 @@ This report compares the normal standardized JSON files, matching `_v2` JSON fil
 5. The largest changes are in `subject_matter`, realized-price fields, and `hammer_price_usd`. Estimate values, descriptions, medium, and titles also change for subsets of records.
 6. The available CSV exports cover 28 file stems and 3,015 rows. CSV counts match the normal JSON counts for 26 stems but match the v2 counts for only 13 stems. CSV values include additional pricing-model and market-index columns and require type/null normalization before equality checks.
 7. Because the v2 dataset changes both coverage and record content, it should be treated as a revised extraction rather than a simple append or direct replacement.
-
-## Comparison rule for the next stage
-
-Use `lot_url` as the primary key for Christies, with sale number plus lot number as a fallback. Normalize numeric strings, URL formatting, and null markers before comparing fields. Keep file coverage, row-count, record additions/removals, field changes, and CSV pricing outputs as separate findings.
-
-## Status
-
-Completed for `Artworks → Christies`. The next unit is `Artworks → Freemans`.

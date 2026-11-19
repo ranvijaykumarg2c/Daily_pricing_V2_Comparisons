@@ -26,6 +26,4 @@ The two matching CSV exports correspond to the normal-only `4N` and `4O` stems a
 
 Broad Arrow Memorabilia requires a data-lineage check before the V2 pricing rerun because the available V2 file is not paired with a normal JSON file by stem and has no corresponding CSV export.
 
-## Next step
 
-Proceed to `Memorabilia → Christies` after confirmation.

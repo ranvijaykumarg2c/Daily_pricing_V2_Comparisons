@@ -19,6 +19,4 @@
 
 The local `V2Comparisons/Cars/Classic_Trader` folder is empty. There are no normal JSON files, V2 JSON files, or CSV outputs available for comparison or daily pricing analysis.
 
-## Next step
 
-Proceed to `Cars → Dyler` after confirmation.

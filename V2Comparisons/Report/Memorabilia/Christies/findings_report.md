@@ -26,6 +26,4 @@ Pair-level results were: `3CN` 252/252 rows with 13 changes; `3CO` 174/168 with 
 
 Christies Memorabilia has substantial V2 impact, particularly on realized prices and the `3EH`, `4DB`, `4U`, and `4V` comparisons. The row-count mismatches and the normal-only `4BZ` file should be reconciled against the six CSV exports before finalizing the daily pricing output.
 
-## Next step
 
-Proceed to `Memorabilia → Freemans` after confirmation.

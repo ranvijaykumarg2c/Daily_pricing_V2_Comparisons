@@ -24,6 +24,4 @@ All 519 records matched by `lot_url`. No differences were found in the compared 
 
 SCP Auction’s normal and V2 JSON outputs are identical for the available paired dataset, and the CSV row count aligns with both JSON versions. No V2-driven pricing changes are required for this auction house.
 
-## Next step
 
-Proceed to `Memorabilia → Sothebys` after confirmation.

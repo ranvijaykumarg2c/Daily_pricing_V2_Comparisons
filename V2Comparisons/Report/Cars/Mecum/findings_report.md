@@ -26,6 +26,4 @@ The remaining files are not directly paired by stem: six normal-only files contr
 
 For the 40 records common to the paired `4D` files, V2 does not alter the selected pricing or descriptive fields. The row-population difference and multiple unpaired files should be resolved before treating the full Mecum dataset as a complete V2 pricing rerun.
 
-## Next step
 
-All Cars auction houses in the current sequence are complete. Proceed to the next asset after confirmation.

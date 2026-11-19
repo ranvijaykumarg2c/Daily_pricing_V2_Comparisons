@@ -27,10 +27,5 @@ This report compares the normal standardized JSON files, matching `_v2` JSON fil
 4. The largest changes are in `hammer_price_usd`, realized-price fields, and `subject_matter`. Medium, descriptions, titles, and estimate values also change substantially.
 5. Five CSV exports are available with 564 rows. Their row counts match the normal JSON for all five covered stems but match the v2 JSON for only two, indicating that these CSVs are primarily aligned with the normal source version.
 
-## Comparison rule for the next stage
 
-Use the normalized record key for matched files, report coverage and row-count differences separately, and normalize numeric/null values before comparing CSV pricing outputs.
 
-## Status
-
-Completed for `Artworks → Phillips`. The next unit is `Artworks → Sothebys`.

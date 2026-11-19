@@ -22,6 +22,4 @@ This report records the availability check for the Bonhams Cars auction-house fo
 
 The `V2Comparisons\Cars\Bonhams` folder is empty, and no matching Bonhams Cars CSV exports were found under `V2Comparisons\Output`. The downloaded Bonhams car files are stored separately under `Cars\Bonhams_Cars`, so this folder has no independent comparison data.
 
-## Status
 
-Completed as a no-data auction-house check. The next unit is `Cars → Bonhams_Cars`.

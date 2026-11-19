@@ -24,6 +24,4 @@ All 715 records matched by `lot_url`, with 381 matching records in `3BL` and 334
 
 Hindman’s normal and V2 JSON outputs are identical for the available paired records. The V2 output does not require pricing changes based on this comparison. The CSV exports should still be reconciled for row-level completeness because they contain 5,068 rows versus 715 JSON records.
 
-## Next step
 
-Proceed to `Memorabilia → Mathewsons` after confirmation.

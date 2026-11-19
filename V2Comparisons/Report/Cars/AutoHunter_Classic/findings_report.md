@@ -22,6 +22,4 @@ This report records the availability check for the AutoHunter Classic Cars aucti
 
 The `V2Comparisons\Cars\AutoHunter_Classic` folder is empty, and no matching AutoHunter Classic Cars CSV exports were found under `V2Comparisons\Output`. There is therefore no base/v2/CSV comparison to perform for this auction house.
 
-## Status
 
-Completed as a no-data auction-house check. The next unit is `Cars → Bonhams`.

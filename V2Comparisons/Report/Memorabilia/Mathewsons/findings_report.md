@@ -23,6 +23,4 @@ The Mathewsons Memorabilia folder contains two normal JSON files and no V2 JSON 
 
 Mathewsons Memorabilia is pending V2 data. The normal JSON and available CSV can be retained for source reconciliation, but the V2-based daily pricing rerun cannot be completed until the missing V2 files are downloaded.
 
-## Next step
 
-Proceed to `Memorabilia → SCP Auction` after confirmation.

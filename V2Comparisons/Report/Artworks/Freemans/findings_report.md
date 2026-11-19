@@ -27,10 +27,5 @@ This report compares the normal standardized JSON files, matching `_v2` JSON fil
 4. All 296 detected record changes affect `subject_matter`. Smaller changes occur in artwork title and medium. No price-field changes were detected in the selected common records.
 5. No Freemans Artwork CSV exports are currently available under `V2Comparisons\Output`, so CSV-based pricing validation cannot be completed for this auction house.
 
-## Comparison rule for the next stage
 
-Use the normalized record key for matched files, report the substantial base/v2 coverage gap explicitly, and mark CSV comparison as unavailable rather than inferring CSV results from another auction house.
 
-## Status
-
-Completed for `Artworks → Freemans`. The next unit is `Artworks → Hindman`.
